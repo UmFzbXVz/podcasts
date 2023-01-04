@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>Mit livs sexferie</title>
+		<link></link>
+		<language>da-DK</language>
+		<category>Comedy</category>
+		<image>
+			<url>https://assets.listentonews.com/uploads/provider/logo/540/Mit_livs_sexferie.png</url>
+			<title>Mit livs sexferie</title>
+		</image>
+		<item>
+			<guid isPermaLink="false">107851</guid>
+			<title>What happens in Jamaica stays in Jamaica</title>
+			<pubDate>Sat, 05 Aug 2017 00:00:00 </pubDate>
+			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107851/18568556-audio.mp3" type="audio/mpeg"/>
+			<itunes:duration>00:55:08</itunes:duration>
+			<itunes:order>20170805080000</itunes:order>
+		</item>
+		<item>
+			<guid isPermaLink="false">107852</guid>
+			<title>Rejsen til verdens røvhul</title>
+			<pubDate>Fri, 28 Jul 2017 00:00:00 </pubDate>
+			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107852/18441983-audio.mp3" type="audio/mpeg"/>
+			<itunes:duration>00:54:51</itunes:duration>
+			<itunes:order>20170728080000</itunes:order>
+		</item>
+		<item>
+			<guid isPermaLink="false">107853</guid>
+			<title>My name is Birgit Schiøtz Kretz Hørsholm. Kirsten Birgit Schiøtz Kretz Hørsholm</title>
+			<pubDate>Fri, 21 Jul 2017 00:00:00 </pubDate>
+			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107853/18308770-audio.mp3" type="audio/mpeg"/>
+			<itunes:duration>00:54:51</itunes:duration>
+			<itunes:order>20170721080000</itunes:order>
+		</item>
+		<item>
+			<guid isPermaLink="false">107854</guid>
+			<title>One love. One big, black love.</title>
+			<pubDate>Sat, 15 Jul 2017 00:00:00 </pubDate>
+			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107854/18209249-audio.mp3" type="audio/mpeg"/>
+			<itunes:duration>00:55:00</itunes:duration>
+			<itunes:order>20170715080000</itunes:order>
+		</item>
+		<item>
+			<guid isPermaLink="false">107855</guid>
+			<title>Lad Jamaica komme til bunds i Kirsten Birgit</title>
+			<pubDate>Sat, 08 Jul 2017 00:00:00 </pubDate>
+			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107855/18138422-audio.mp3" type="audio/mpeg"/>
+			<itunes:duration>00:54:59</itunes:duration>
+			<itunes:order>20170708080000</itunes:order>
+		</item>
+	</channel>
+</rss>
