@@ -54,6 +54,59 @@
 			<ns0:duration>01:07:52</ns0:duration>
 			<ns0:order>20200627080000</ns0:order>
 </item>
+<item>
+			<guid isPermaLink="false">42647842</guid>
+			<title>#006 Production update</title>
+			<description>Hi, all. Here's a new podcast with an update with what I've been working on regarding Pharmacopeia. In this conversation I'm joined by producer Soren Shade.</description>
+			<pubDate>Sat, 12 Oct 2020 00:00:00 </pubDate>
+			<enclosure url="https://c3.kemono.party/data/5c/ab/5cab61abe3211c84ab81dab0bc9b155d32257fd608dc08551c1ba0eb4fc69d1f.mp3" />
+			<ns0:duration>00:33:52</ns0:duration>
+			<ns0:order>20201012080000</ns0:order>
+</item>
+<item>
+			<guid isPermaLink="false">44026069</guid>
+			<title>#007 Production update 2</title>
+			<description>The end is in sight. Enjoy a second installment of the production podcast in which I am joined again by friend and producer Soren Shade.</description>
+			<pubDate>Sat, 18 Nov 2020 00:00:00 </pubDate>
+			<enclosure url="https://c5.kemono.party/data/95/91/95913aa71fc9714c4245720fabccb4e847d6d73b7f6b75c880c9596d75688d3b.mp4" />
+			<ns0:duration>00:34:21</ns0:duration>
+			<ns0:order>20201118080000</ns0:order>
+</item>
+<item>
+			<guid isPermaLink="false">44422985</guid>
+			<title>#008 A Talk With Errol Morris</title>
+			<description>In this podcast I talk with my father about his new documentary "My Psychedelic Love Story", which premieres Sunday, November 29th on Showtime. Many thanks for Josh Kearney for recording this discussion. </description>
+			<pubDate>Sat, 29 Nov 2020 00:00:00 </pubDate>
+			<enclosure url="https://c4.kemono.party/data/92/22/9222c62f81c1ef08a6b93f4a62088f8d033048fec87a2ffa6d40fb85bbd9ab25.mp3" />
+			<ns0:duration>01:11:04</ns0:duration>
+			<ns0:order>20201129080000</ns0:order>
+</item>
+<item>
+			<guid isPermaLink="false">46188962</guid>
+			<title>#009 A Talk With Eric Andre</title>
+			<description>Hi, all. It turns out Eric Andre is a fan of the show and he called me yesterday to talk, here is our conversation.
+
+In other news, we are gearing up to print a third and final edition of the pamphlet. The first edition was only 500 copies and contained a couple typos, the second edition is 2,500 copies and the third edition will be 5,000 copies. The pamphlet has already raised more than $70,000 for the Michael J Fox Foundation and more than $10,000 for the original toad artist Gail Patterson. As stipulated in the episode, I also plan to donate some money to toad conservation efforts via the Tucson Herpetological Society, but I'm waiting on them to propose a specific plan for the money before making the donation. Thanks everyone who bought a copy and for those that didn't I will be sure to post here first when the new edition is available.
+
+I've recorded a couple of new Patreon-exclusive interviews that I'm currently editing, one about the chemistry of N-hydroxy-MDA and another that is a long discussion of the meth episode and disparaging article about the show by Erik Davis.  
+
+I hope to have those out by the end of the week.</description>
+			<pubDate>Sat, 14 Jan 2021 00:00:00 </pubDate>
+			<enclosure url="https://www.youtube.com/watch?v=oXRcly_jDoM&ab_channel=HamiltonMorris" />
+			<ns0:duration>00:57:07</ns0:duration>
+			<ns0:order>20210114080000</ns0:order>
+</item>
+<item>
+			<guid isPermaLink="false">46893109</guid>
+			<title>Interview With A European PCE Chemist</title>
+			<description>Hi, all. I've been receiving interesting messages from a variety of different chemists recently. Here is a discussion with a chemist who synthesized and tested an unusual arylcyclohexylamine called PCE
+
+EDIT: I was interested in learning more about his technique for producing NaCN. I've attached an interesting article from 1895 that describes a similar process as well as a long Science Madness thread. Cyanide's reputation is deserved, it is seriously a deadly poison, a chemist friend killed himself with it last year. This is not some corny, "Don't try this at home!" boilerplate. Seriously––do not try this at home. </description>
+			<pubDate>Sat, 31 Jan 2021 00:00:00 </pubDate>
+			<enclosure url="https://c3.kemono.party/data/71/1d/711dd5c13efb1b38ab67a4afe4958e34bf267e2d37048920170292eb1087d5ab.mp3" />
+			<ns0:duration>01:10:46</ns0:duration>
+			<ns0:order>20210131080000</ns0:order>
+</item>
 
 	</channel>
 </rss>
