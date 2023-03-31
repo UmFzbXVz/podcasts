@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Det Dystre Skæg</title>
-    <link>https://castbox.fm/ch/5380490</link>
+    <link>https://www.podchaser.com/podcasts/det-dystre-skaeg-208358/</link>
     <description>Vi optager ting, der optager os - En podcast af og med Elias Ehlers og Martin Nørgaard</description>
     <language>da-dk</language>
     <image>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:image href="https://s3.castbox.fm/f7/5d/65/90d0d741aabec95520796b9da5.jpg" />
     <itunes:category text="Society &amp; Culture" />
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>yes</itunes:explicit>
     
     <item>
       <title>Episode 01 - Vores første forsøg på en podcast</title>
