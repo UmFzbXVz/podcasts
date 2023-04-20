@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="itunes" version="2.0">
+	<channel>
+		<title>En Gonzo Siger Goddaw</title>
+		<link>https://web.24syv.dk/channels/5142</link>
+		<link href="https://web.24syv.dk/channels/5142" rel="self" type="application/rss+xml"/>
+		<description>Journalist René Fredensborg er ikke længere træt og trist. Nu er han tilbage i mediebranchen, og sammen med sin ven og kollega Anders Christiansen planlægger han derfor et stort comebackshow. I anden sæson kan du følge tilblivelsen af showet helt indtil, at alt nok går helt galt. Eller René formår at genopfinde sig selv.
+'En Gonzo Siger Goddaw' er en fortsættelse af podcastserien 'En Gonzo Siger Goodbye'.</description>
+		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/987/gonzo_goddaw_ny.png"/>
+		<item>
+			<title>Brobygger i klovnesko sælger signeret plæneklipper</title>
+			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53558427/gonzo_goodbye_3.mp3</guid>
+			<enclosure url="https://api.spreaker.com/download/episode/53558427/gonzo_goodbye_3.mp3" length="2432000" type="audio/mpeg"/>
+			<description>Med fokus på fornyelse, viser det sig, at fanklubbens formand, Jacob Svendgaard, har genopfundet sig selv. Han er gået i Renés fodspor, og er taget til Filipinerne, hvor han først fik sig en kæreste i Manila, som dog giftede sig med en belgier, mens Svendgaard selv var nordpå. Sammen brainer vi på showet på Hjallerup Marked, under arbejdstitlen: Danskere i bur</description>
+			<pubDate>Mon, 17 Apr 2023 12:46:29 +0200</pubDate>
+			<itunes:duration>0:40:32</itunes:duration>
+			<itunes:order>20230417124629</itunes:order>
+		</item>
+		<item>
+			<title>Afsnit 2: Karaktermord: Genopfind dig selv!</title>
+			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53439774/gonzo2ny.mp3</guid>
+			<enclosure url="https://api.spreaker.com/download/episode/53439774/gonzo2ny.mp3" length="3422000" type="audio/mpeg"/>
+			<description>Skuespiller og komiker Rasmus Bruun river Renés nye comeback-koncept fuldstændigt fra hinanden. Anders vakler. For skal alt det, der engang var så sjovt, virkelig dø til fordel for nyt materiale?</description>
+			<pubDate>Tue, 04 Apr 2023 13:44:34 +0200</pubDate>
+			<itunes:duration>0:57:02</itunes:duration>
+			<itunes:order>20230404134434</itunes:order>
+		</item>
+		<item>
+			<title>Afsnit 1: Terrorklovnen Bom Bom</title>
+			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53437256/gonzo_1_prolog.mp3</guid>
+			<enclosure url="https://api.spreaker.com/download/episode/53437256/gonzo_1_prolog.mp3" length="1665000" type="audio/mpeg"/>
+			<description>Det viser sig, at René Fredensborg aldrig forlod mediebranchen, og nu påstår at have større succes end nogensinde før. Et stort comebackshow på Hjallerup Marked er i støbeskeen</description>
+			<pubDate>Tue, 04 Apr 2023 07:46:36 +0200</pubDate>
+			<itunes:duration>0:27:45</itunes:duration>
+			<itunes:order>20230404074636</itunes:order>
+		</item>
+	</channel>
+</rss>
