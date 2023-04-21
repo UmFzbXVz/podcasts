@@ -1,202 +1,372 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="itunes" version="2.0">
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 	<channel>
 		<title>Trodsig Trads</title>
-		<link>https://web.24syv.dk/channels/5102</link>
-		<link href="https://web.24syv.dk/channels/5102" rel="self" type="application/rss+xml"/>
-		<description>Trads er trodsig</description>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/947/Trodsig_ny.png"/>
+		<link>https://www.spreaker.com/show/trodsig-trads</link>
+		<description>
+			<![CDATA[ Trads er trodsig ]]>
+		</description>
+		<atom:link href="https://www.spreaker.com/show/5607413/episodes/feed" rel="self" type="application/rss+xml"/>
+		<language>da</language>
+		<category>News Commentary</category>
+		<copyright>Copyright 24syv</copyright>
+		<image>
+			<url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg</url>
+			<title>Trodsig Trads</title>
+			<link>https://www.spreaker.com/show/trodsig-trads</link>
+		</image>
+		<lastBuildDate>Wed, 08 Feb 2023 10:22:10 +0000</lastBuildDate>
+		<itunes:author>24syv</itunes:author>
+		<itunes:owner>
+			<itunes:name>24syv</itunes:name>
+			<itunes:email>podcast@24syv.dk</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+		<itunes:subtitle>Trads er trodsig</itunes:subtitle>
+		<itunes:summary>
+			<![CDATA[ Trads er trodsig ]]>
+		</itunes:summary>
+		<itunes:category text="News">
+			<itunes:category text="News Commentary"/></itunes:category>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:type>episodic</itunes:type>
 		<item>
 			<title>Er samfundet blevet mere homofobisk?</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50927612/trads_podcast_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50927612/trads_podcast_1.mp3" length="3184000" type="audio/mpeg"/>
-			<description>David Trads har besøg af Aleksander Grandt Pedersen, tidligere folketingsmedlem for S. Han er dybt bekymret over stigende homofobi op til Copenhagen Pride - især set i lyset af udbredelsen af abekopper.  
-Derudover medvirker Joachim B. Olsen, politisk kommentator på BT. Han analyserer de tre statsministerkandidater.</description>
-			<pubDate>Tue, 16 Aug 2022 11:50:07 +0200</pubDate>
-			<itunes:duration>0:53:04</itunes:duration>
-			<itunes:order>20220816115007</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/trads-podcast-1</link>
+			<description>
+				<![CDATA[ David Trads har besøg af Aleksander Grandt Pedersen, tidligere folketingsmedlem for S. Han er dybt bekymret over stigende homofobi op til Copenhagen Pride - især set i lyset af udbredelsen af abekopper. <br /><br />Derudover medvirker Joachim B. Olsen, politisk kommentator på BT. Han analyserer de tre statsministerkandidater. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50927612</guid>
+			<pubDate>Tue, 16 Aug 2022 11:50:07 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50927612/trads_podcast_1.mp3" length="76484160" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads har besøg af Aleksander Grandt Pedersen, tidligere folketingsmedlem for S. Han er dybt bekymret over stigende homofobi op til Copenhagen Pride - især set i lyset af udbredelsen af abekopper. Derudover medvirker Joachim B. Olsen,...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads har besøg af Aleksander Grandt Pedersen, tidligere folketingsmedlem for S. Han er dybt bekymret over stigende homofobi op til Copenhagen Pride - især set i lyset af udbredelsen af abekopper. <br /><br />Derudover medvirker Joachim B. Olsen, politisk kommentator på BT. Han analyserer de tre statsministerkandidater. ]]>
+			</itunes:summary>
+			<itunes:duration>3185</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Ok, her er en ny statsministerkandidat!</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50927892/trads_podcast_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50927892/trads_podcast_2.mp3" length="3147000" type="audio/mpeg"/>
-			<description>David Trads har inviteret Simon Emil Ammitzbøl-Bille i studiet til at gennemgå de små partiers kampform. Og så bringer den tidligere minister en ny og overraskende statsministerkandidat på banen.
-Senere får Trads besøg af juristen Petar Socevic, der fortæller, hvor meget han frygter udlændingetemaet kommer til at dominere valgkamp. 
-Til sidst zoomer han sammen med kulturjournalist Niels Frid-Nielsen ind på Salman Rushdies liv.</description>
-			<pubDate>Tue, 16 Aug 2022 11:50:00 +0200</pubDate>
-			<itunes:duration>0:52:27</itunes:duration>
-			<itunes:order>20220816115000</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/trads-podcast-2</link>
+			<description>
+				<![CDATA[ David Trads har inviteret Simon Emil Ammitzbøl-Bille i studiet til at gennemgå de små partiers kampform. Og så bringer den tidligere minister en ny og overraskende statsministerkandidat på banen.<br /><br />Senere får Trads besøg af juristen Petar Socevic, der fortæller, hvor meget han frygter udlændingetemaet kommer til at dominere valgkamp. <br /><br />Til sidst zoomer han sammen med kulturjournalist Niels Frid-Nielsen ind på Salman Rushdies liv. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50927892</guid>
+			<pubDate>Tue, 16 Aug 2022 11:50:00 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50927892/trads_podcast_2.mp3" length="75607488" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads har inviteret Simon Emil Ammitzbøl-Bille i studiet til at gennemgå de små partiers kampform. Og så bringer den tidligere minister en ny og overraskende statsministerkandidat på banen. Senere får Trads besøg af juristen Petar Socevic,...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads har inviteret Simon Emil Ammitzbøl-Bille i studiet til at gennemgå de små partiers kampform. Og så bringer den tidligere minister en ny og overraskende statsministerkandidat på banen.<br /><br />Senere får Trads besøg af juristen Petar Socevic, der fortæller, hvor meget han frygter udlændingetemaet kommer til at dominere valgkamp. <br /><br />Til sidst zoomer han sammen med kulturjournalist Niels Frid-Nielsen ind på Salman Rushdies liv. ]]>
+			</itunes:summary>
+			<itunes:duration>3148</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Pytlick burde aldrig tage imod saudiske blodpenge!</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50851683/david_time_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50851683/david_time_2.mp3" length="3252000" type="audio/mpeg"/>
-			<description>David Trads er vred over, at mestertræner Jan Pytlick nu bliver landstræner for Saudi-Arabien. Stanis Elsborg, PlayTheGame, ruller diktaturers investeringer i topsport ud.
-Derudover medvirker Christina Olumeko (Alt) og Kashif Ahmad (RV), begge medlemmer af Borgerrepræsentation i København, der fortæller, hvorfor racismen i nattelivet skal stoppe.</description>
-			<pubDate>Mon, 08 Aug 2022 13:24:24 +0200</pubDate>
-			<itunes:duration>0:54:12</itunes:duration>
-			<itunes:order>20220808132424</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/david-time-2</link>
+			<description>
+				<![CDATA[ David Trads er vred over, at mestertræner Jan Pytlick nu bliver landstræner for Saudi-Arabien. Stanis Elsborg, PlayTheGame, ruller diktaturers investeringer i topsport ud.<br /><br />Derudover medvirker Christina Olumeko (Alt) og Kashif Ahmad (RV), begge medlemmer af Borgerrepræsentation i København, der fortæller, hvorfor racismen i nattelivet skal stoppe. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50851683</guid>
+			<pubDate>Mon, 08 Aug 2022 13:24:24 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50851683/david_time_2.mp3" length="78133248" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads er vred over, at mestertræner Jan Pytlick nu bliver landstræner for Saudi-Arabien. Stanis Elsborg, PlayTheGame, ruller diktaturers investeringer i topsport ud. Derudover medvirker Christina Olumeko (Alt) og Kashif Ahmad (RV), begge...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads er vred over, at mestertræner Jan Pytlick nu bliver landstræner for Saudi-Arabien. Stanis Elsborg, PlayTheGame, ruller diktaturers investeringer i topsport ud.<br /><br />Derudover medvirker Christina Olumeko (Alt) og Kashif Ahmad (RV), begge medlemmer af Borgerrepræsentation i København, der fortæller, hvorfor racismen i nattelivet skal stoppe. ]]>
+			</itunes:summary>
+			<itunes:duration>3253</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Vesten og Danmark er skyld i Ukraine-krig!</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50851633/david_time_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50851633/david_time_1.mp3" length="3254000" type="audio/mpeg"/>
-			<description>David Trads har besøg af en af de ‘forbudte’ stemmer - nemlig fredsforsker Jan Øberg, som er på Ukraines liste over ‘Ruslands-propagandister’. Hør hans meget anderledes analyse af krigen. Med i dagens afsnit er også Rasmus Grand Berthelsen, direktør i RasmussenGlobal, med forsvar for idealistisk udenrigspolitik.</description>
-			<pubDate>Mon, 08 Aug 2022 13:22:30 +0200</pubDate>
-			<itunes:duration>0:54:14</itunes:duration>
-			<itunes:order>20220808132230</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/david-time-1</link>
+			<description>
+				<![CDATA[ David Trads har besøg af en af de ‘forbudte’ stemmer - nemlig fredsforsker Jan Øberg, som er på Ukraines liste over ‘Ruslands-propagandister’. Hør hans meget anderledes analyse af krigen. Med i dagens afsnit er også Rasmus Grand Berthelsen, direktør i RasmussenGlobal, med forsvar for idealistisk udenrigspolitik. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50851633</guid>
+			<pubDate>Mon, 08 Aug 2022 13:22:30 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50851633/david_time_1.mp3" length="78185088" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads har besøg af en af de ‘forbudte’ stemmer - nemlig fredsforsker Jan Øberg, som er på Ukraines liste over ‘Ruslands-propagandister’. Hør hans meget anderledes analyse af krigen. Med i dagens afsnit er også Rasmus Grand Berthelsen, direktør i...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads har besøg af en af de ‘forbudte’ stemmer - nemlig fredsforsker Jan Øberg, som er på Ukraines liste over ‘Ruslands-propagandister’. Hør hans meget anderledes analyse af krigen. Med i dagens afsnit er også Rasmus Grand Berthelsen, direktør i RasmussenGlobal, med forsvar for idealistisk udenrigspolitik. ]]>
+			</itunes:summary>
+			<itunes:duration>3255</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Hvor pride er du?</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50822507/050822_trodsig_trads_time_2_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50822507/050822_trodsig_trads_time_2_podcast.mp3" length="3235000" type="audio/mpeg"/>
-			<description>David Trads taer Sex og Samfunds test om, hvor tolerant han er. Hør svaret!
-Og: Niels Peder Ravn fra Nye Borgerlige prøver at forsvare, hvorfor han synes diskrimination er ok.
-Og: Yael Bassan, iværksætter, giver gode råd til især kvindelige selvstændige.</description>
-			<pubDate>Fri, 05 Aug 2022 10:46:37 +0200</pubDate>
-			<itunes:duration>0:53:55</itunes:duration>
-			<itunes:order>20220805104637</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/050822-trodsig-trads-time-2-podcast</link>
+			<description>
+				<![CDATA[ David Trads taer Sex og Samfunds test om, hvor tolerant han er. Hør svaret!<br />Og: Niels Peder Ravn fra Nye Borgerlige prøver at forsvare, hvorfor han synes diskrimination er ok.<br />Og: Yael Bassan, iværksætter, giver gode råd til især kvindelige selvstændige. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50822507</guid>
+			<pubDate>Fri, 05 Aug 2022 10:46:37 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50822507/050822_trodsig_trads_time_2_podcast.mp3" length="51833670" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads taer Sex og Samfunds test om, hvor tolerant han er. Hør svaret! Og: Niels Peder Ravn fra Nye Borgerlige prøver at forsvare, hvorfor han synes diskrimination er ok. Og: Yael Bassan, iværksætter, giver gode råd til især kvindelige...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads taer Sex og Samfunds test om, hvor tolerant han er. Hør svaret!<br />Og: Niels Peder Ravn fra Nye Borgerlige prøver at forsvare, hvorfor han synes diskrimination er ok.<br />Og: Yael Bassan, iværksætter, giver gode råd til især kvindelige selvstændige. ]]>
+			</itunes:summary>
+			<itunes:duration>3236</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Jeg er vild med Normstormerne!</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50822499/050822_trodsig_trads_time_1_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50822499/050822_trodsig_trads_time_1_podcast.mp3" length="3242000" type="audio/mpeg"/>
-			<description>David Trads takker Normstormerne for at gøre fremragende arbejde med inklusion i Folkeskolen. 
-Og: Flemming Splidsboel, ekspert i Rusland, bringer os helt ind i hovedet på, hvordan Rusland og Putin ser på krigen.</description>
-			<pubDate>Fri, 05 Aug 2022 10:44:42 +0200</pubDate>
-			<itunes:duration>0:54:02</itunes:duration>
-			<itunes:order>20220805104442</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/050822-trodsig-trads-time-1-podcast</link>
+			<description>
+				<![CDATA[ David Trads takker Normstormerne for at gøre fremragende arbejde med inklusion i Folkeskolen. <br />Og: Flemming Splidsboel, ekspert i Rusland, bringer os helt ind i hovedet på, hvordan Rusland og Putin ser på krigen. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50822499</guid>
+			<pubDate>Fri, 05 Aug 2022 10:44:42 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50822499/050822_trodsig_trads_time_1_podcast.mp3" length="51948609" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads takker Normstormerne for at gøre fremragende arbejde med inklusion i Folkeskolen. Og: Flemming Splidsboel, ekspert i Rusland, bringer os helt ind i hovedet på, hvordan Rusland og Putin ser på krigen.</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads takker Normstormerne for at gøre fremragende arbejde med inklusion i Folkeskolen. <br />Og: Flemming Splidsboel, ekspert i Rusland, bringer os helt ind i hovedet på, hvordan Rusland og Putin ser på krigen. ]]>
+			</itunes:summary>
+			<itunes:duration>3243</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Her er den næste statsminister!</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50799404/030822_trodsig_trads_time_2_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50799404/030822_trodsig_trads_time_2_podcast.mp3" length="3238000" type="audio/mpeg"/>
-			<description>David Trads tager sammen med Bent Winther, politisk kommentator på Berlingske, dagsformen på alle 15(!) partier, som stiller op til det kommnde valg. Og giver et bud på, hvem der er statsminister efter det. 
-Vært: David Trads
-Gæst: Bent Winther.</description>
-			<pubDate>Wed, 03 Aug 2022 12:02:48 +0200</pubDate>
-			<itunes:duration>0:53:58</itunes:duration>
-			<itunes:order>20220803120248</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/030822-trodsig-trads-time-2-podcast</link>
+			<description>
+				<![CDATA[ David Trads tager sammen med Bent Winther, politisk kommentator på Berlingske, dagsformen på alle 15(!) partier, som stiller op til det kommnde valg. Og giver et bud på, hvem der er statsminister efter det. <br />Vært: David Trads<br />Gæst: Bent Winther. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50799404</guid>
+			<pubDate>Wed, 03 Aug 2022 12:02:48 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50799404/030822_trodsig_trads_time_2_podcast.mp3" length="51888841" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads tager sammen med Bent Winther, politisk kommentator på Berlingske, dagsformen på alle 15(!) partier, som stiller op til det kommnde valg. Og giver et bud på, hvem der er statsminister efter det. Vært: David Trads Gæst: Bent Winther.</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads tager sammen med Bent Winther, politisk kommentator på Berlingske, dagsformen på alle 15(!) partier, som stiller op til det kommnde valg. Og giver et bud på, hvem der er statsminister efter det. <br />Vært: David Trads<br />Gæst: Bent Winther. ]]>
+			</itunes:summary>
+			<itunes:duration>3239</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Mød syrer, som er mere værd end en nordmand!</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50799372/020822_trodsig_trads_time_1_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50799372/020822_trodsig_trads_time_1_podcast.mp3" length="3240000" type="audio/mpeg"/>
-			<description>David Trads taler med Mahmoud Almohamad, som er syrisk flygtning, og som nu går i gang med lægestudiet!
-Og dansk klubfodbolds chancer i Europa. Mød fans fra Brøndby, Silkeborg, FCM og FCK.
-Vært: David Trads
-Gæster: Jacob Ruben Hansen, Nikolaj Gam Pedersen, Ali Aminali og Mahmoud Almohamad.</description>
-			<pubDate>Wed, 03 Aug 2022 12:00:28 +0200</pubDate>
-			<itunes:duration>0:54:00</itunes:duration>
-			<itunes:order>20220803120028</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/020822-trodsig-trads-time-1-podcast_1</link>
+			<description>
+				<![CDATA[ David Trads taler med Mahmoud Almohamad, som er syrisk flygtning, og som nu går i gang med lægestudiet!<br />Og dansk klubfodbolds chancer i Europa. Mød fans fra Brøndby, Silkeborg, FCM og FCK.<br />Vært: David Trads<br />Gæster: Jacob Ruben Hansen, Nikolaj Gam Pedersen, Ali Aminali og Mahmoud Almohamad. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50799372</guid>
+			<pubDate>Wed, 03 Aug 2022 12:00:28 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50799372/030822_trodsig_trads_time_1_podcast.mp3" length="51897618" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads taler med Mahmoud Almohamad, som er syrisk flygtning, og som nu går i gang med lægestudiet! Og dansk klubfodbolds chancer i Europa. Mød fans fra Brøndby, Silkeborg, FCM og FCK. Vært: David Trads Gæster: Jacob Ruben Hansen, Nikolaj Gam...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads taler med Mahmoud Almohamad, som er syrisk flygtning, og som nu går i gang med lægestudiet!<br />Og dansk klubfodbolds chancer i Europa. Mød fans fra Brøndby, Silkeborg, FCM og FCK.<br />Vært: David Trads<br />Gæster: Jacob Ruben Hansen, Nikolaj Gam Pedersen, Ali Aminali og Mahmoud Almohamad. ]]>
+			</itunes:summary>
+			<itunes:duration>3240</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Trumps store kupforsøg!</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50788515/020822_trodsig_trads_time_2_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50788515/020822_trodsig_trads_time_2_podcast.mp3" length="3237000" type="audio/mpeg"/>
-			<description>David Trads har Niels Bjerre Poulsen, lektor i amerikanske studier, i studiet til en manuduktion i, hvor slem Trump faktisk er.
-Vært: David Trads
-Gæst: Niels Bjerre Poulsen, lektor på Syddansk Universitet.</description>
-			<pubDate>Tue, 02 Aug 2022 13:06:24 +0200</pubDate>
-			<itunes:duration>0:53:57</itunes:duration>
-			<itunes:order>20220802130624</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/020822-trodsig-trads-time-2-podcast</link>
+			<description>
+				<![CDATA[ David Trads har Niels Bjerre Poulsen, lektor i amerikanske studier, i studiet til en manuduktion i, hvor slem Trump faktisk er.<br />Vært: David Trads<br />Gæst: Niels Bjerre Poulsen, lektor på Syddansk Universitet. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50788515</guid>
+			<pubDate>Tue, 02 Aug 2022 13:06:24 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50788515/020822_trodsig_trads_time_2_podcast.mp3" length="51859166" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads har Niels Bjerre Poulsen, lektor i amerikanske studier, i studiet til en manuduktion i, hvor slem Trump faktisk er. Vært: David Trads Gæst: Niels Bjerre Poulsen, lektor på Syddansk Universitet.</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads har Niels Bjerre Poulsen, lektor i amerikanske studier, i studiet til en manuduktion i, hvor slem Trump faktisk er.<br />Vært: David Trads<br />Gæst: Niels Bjerre Poulsen, lektor på Syddansk Universitet. ]]>
+			</itunes:summary>
+			<itunes:duration>3238</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Var Hitler venstreorienteret?</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50786991/020822_trodsig_trads_time_1_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50786991/020822_trodsig_trads_time_1_podcast.mp3" length="3240000" type="audio/mpeg"/>
-			<description>David Trads stiller de forløbne døgns store spørgsmål til historiker Martin Grunz!
-Og: Hør Mads Lundby Hansen lege finansminister! Så kommer revolutionen!
-Vært: David Trads
-Gæster: Mads Lundby Hansen, cheføkonom hos CEPOS og Martin Grunz, historiker.</description>
-			<pubDate>Tue, 02 Aug 2022 12:58:16 +0200</pubDate>
-			<itunes:duration>0:54:00</itunes:duration>
-			<itunes:order>20220802125816</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/020822-trodsig-trads-time-1-podcast</link>
+			<description>
+				<![CDATA[ David Trads stiller de forløbne døgns store spørgsmål til historiker Martin Grunz!<br />Og: Hør Mads Lundby Hansen lege finansminister! Så kommer revolutionen!<br />Vært: David Trads<br />Gæster: Mads Lundby Hansen, cheføkonom hos CEPOS og Martin Grunz, historiker. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50786991</guid>
+			<pubDate>Tue, 02 Aug 2022 12:58:16 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50786991/020822_trodsig_trads_time_1_podcast.mp3" length="51909739" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads stiller de forløbne døgns store spørgsmål til historiker Martin Grunz! Og: Hør Mads Lundby Hansen lege finansminister! Så kommer revolutionen! Vært: David Trads Gæster: Mads Lundby Hansen, cheføkonom hos CEPOS og Martin Grunz, historiker.</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads stiller de forløbne døgns store spørgsmål til historiker Martin Grunz!<br />Og: Hør Mads Lundby Hansen lege finansminister! Så kommer revolutionen!<br />Vært: David Trads<br />Gæster: Mads Lundby Hansen, cheføkonom hos CEPOS og Martin Grunz, historiker. ]]>
+			</itunes:summary>
+			<itunes:duration>3241</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>EU er for svagt og for nem at købe sig til magt i fra andre stormagter</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50772348/010822_trodsig_trads_podcast_time_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50772348/010822_trodsig_trads_podcast_time_2.mp3" length="3237000" type="audio/mpeg"/>
-			<description>David Trads spørger Niels Fuglsang, MEP for S, om hvad pokker vi skal gøre? Claus Mathiesen, Forsvarsakademiet, fortæller om Putins lange drøm om at genskabe et imperium.
-Vært: David Trads
-Gæster: Niels Fuglsang, MEP for Socialdemokratiet og Claus Mathiesen, underviser på Forsvarsakademiet.</description>
-			<pubDate>Mon, 01 Aug 2022 10:37:07 +0200</pubDate>
-			<itunes:duration>0:53:57</itunes:duration>
-			<itunes:order>20220801103707</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/010822-trodsig-trads-podcast-time-2</link>
+			<description>
+				<![CDATA[ David Trads spørger Niels Fuglsang, MEP for S, om hvad pokker vi skal gøre? Claus Mathiesen, Forsvarsakademiet, fortæller om Putins lange drøm om at genskabe et imperium.<br />Vært: David Trads<br />Gæster: Niels Fuglsang, MEP for Socialdemokratiet og Claus Mathiesen, underviser på Forsvarsakademiet. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50772348</guid>
+			<pubDate>Mon, 01 Aug 2022 10:37:07 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50772348/010822_trodsig_trads_podcast_time_2.mp3" length="51868361" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads spørger Niels Fuglsang, MEP for S, om hvad pokker vi skal gøre? Claus Mathiesen, Forsvarsakademiet, fortæller om Putins lange drøm om at genskabe et imperium. Vært: David Trads Gæster: Niels Fuglsang, MEP for Socialdemokratiet og Claus...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads spørger Niels Fuglsang, MEP for S, om hvad pokker vi skal gøre? Claus Mathiesen, Forsvarsakademiet, fortæller om Putins lange drøm om at genskabe et imperium.<br />Vært: David Trads<br />Gæster: Niels Fuglsang, MEP for Socialdemokratiet og Claus Mathiesen, underviser på Forsvarsakademiet. ]]>
+			</itunes:summary>
+			<itunes:duration>3238</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Er der plads til mig i Socialdemokratiet?</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50771583/010822_trodsig_trads_podcast_time_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50771583/010822_trodsig_trads_podcast_time_1.mp3" length="3238000" type="audio/mpeg"/>
-			<description>David Trads, selv folketingskandidat for S ved valget i 2019, har besøg af Laura Rosenvinge, politisk ordfører for S i København: Er der plads til os i Socialdemokratiet?
-Vært: David Trads
-Gæster: Laura Rosenvinge (S) og Daniel Fabricius, Ungarnkender.</description>
-			<pubDate>Mon, 01 Aug 2022 10:27:24 +0200</pubDate>
-			<itunes:duration>0:53:58</itunes:duration>
-			<itunes:order>20220801102724</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/010822-trodsig-trads-podcast-time-1</link>
+			<description>
+				<![CDATA[ David Trads, selv folketingskandidat for S ved valget i 2019, har besøg af Laura Rosenvinge, politisk ordfører for S i København: Er der plads til os i Socialdemokratiet?<br />Vært: David Trads<br />Gæster: Laura Rosenvinge (S) og Daniel Fabricius, Ungarnkender. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50771583</guid>
+			<pubDate>Mon, 01 Aug 2022 10:27:24 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50771583/010822_trodsig_trads_podcast_time_1.mp3" length="51875466" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads, selv folketingskandidat for S ved valget i 2019, har besøg af Laura Rosenvinge, politisk ordfører for S i København: Er der plads til os i Socialdemokratiet? Vært: David Trads Gæster: Laura Rosenvinge (S) og Daniel Fabricius, Ungarnkender.</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads, selv folketingskandidat for S ved valget i 2019, har besøg af Laura Rosenvinge, politisk ordfører for S i København: Er der plads til os i Socialdemokratiet?<br />Vært: David Trads<br />Gæster: Laura Rosenvinge (S) og Daniel Fabricius, Ungarnkender. ]]>
+			</itunes:summary>
+			<itunes:duration>3239</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Nej, nazismen er ikke venstreorienteret!</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50745292/290722_trodsig_trads_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50745292/290722_trodsig_trads_podcast.mp3" length="3245000" type="audio/mpeg"/>
-			<description>Det er helt skørt, når Lars Boje Mathiesen fra Nye Borgerlige påstår, at nazismen er venstreorienteret. David Trads belærer højrefløjen!
-Vært: David Trads
-Gæster: Jakob Rubin, journalist og Mohamed Abdikarim, folketingskandidat for Frie Grønne.</description>
-			<pubDate>Fri, 29 Jul 2022 10:44:48 +0200</pubDate>
-			<itunes:duration>0:54:05</itunes:duration>
-			<itunes:order>20220729104448</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/290722-trodsig-trads-podcast</link>
+			<description>
+				<![CDATA[ Det er helt skørt, når Lars Boje Mathiesen fra Nye Borgerlige påstår, at nazismen er venstreorienteret. David Trads belærer højrefløjen!<br />Vært: David Trads<br />Gæster: Jakob Rubin, journalist og Mohamed Abdikarim, folketingskandidat for Frie Grønne. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50745292</guid>
+			<pubDate>Fri, 29 Jul 2022 10:44:48 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50745292/290722_trodsig_trads_podcast.mp3" length="51988315" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Det er helt skørt, når Lars Boje Mathiesen fra Nye Borgerlige påstår, at nazismen er venstreorienteret. David Trads belærer højrefløjen! Vært: David Trads Gæster: Jakob Rubin, journalist og Mohamed Abdikarim, folketingskandidat for Frie Grønne.</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Det er helt skørt, når Lars Boje Mathiesen fra Nye Borgerlige påstår, at nazismen er venstreorienteret. David Trads belærer højrefløjen!<br />Vært: David Trads<br />Gæster: Jakob Rubin, journalist og Mohamed Abdikarim, folketingskandidat for Frie Grønne. ]]>
+			</itunes:summary>
+			<itunes:duration>3246</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Du kan selv redde klimaet!</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50735072/280722_trodsig_trads_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50735072/280722_trodsig_trads_podcast.mp3" length="3243000" type="audio/mpeg"/>
-			<description>Vi kan ikke regne med, at politikerne løser klimakrisen. Vi må selv træde til. Professor Peter Ditlevsen forklarer David Trads, hvad der er op og ned i klimakampen.</description>
-			<pubDate>Thu, 28 Jul 2022 09:21:41 +0200</pubDate>
-			<itunes:duration>0:54:03</itunes:duration>
-			<itunes:order>20220728092141</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/280722-trodsig-trads-podcast</link>
+			<description>
+				<![CDATA[ Vi kan ikke regne med, at politikerne løser klimakrisen. Vi må selv træde til. Professor Peter Ditlevsen forklarer David Trads, hvad der er op og ned i klimakampen. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50735072</guid>
+			<pubDate>Thu, 28 Jul 2022 09:21:41 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50735072/280722_trodsig_trads_podcast.mp3" length="51966163" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Vi kan ikke regne med, at politikerne løser klimakrisen. Vi må selv træde til. Professor Peter Ditlevsen forklarer David Trads, hvad der er op og ned i klimakampen.</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Vi kan ikke regne med, at politikerne løser klimakrisen. Vi må selv træde til. Professor Peter Ditlevsen forklarer David Trads, hvad der er op og ned i klimakampen. ]]>
+			</itunes:summary>
+			<itunes:duration>3244</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Ingen er gode! Lyt til Putin!</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50724070/270722_trodsig_trads_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50724070/270722_trodsig_trads_podcast.mp3" length="3239000" type="audio/mpeg"/>
-			<description>David Trads, som støtter Ukraine, får læst og påskrevet af Marie Krarup. Hun mener, NATO burde nedlægges, og at vi bør forhandle med Putin. Ellers risikerer vi atomkrig.
-Vært: David Trads.
-Gæst: Marie Krarup, løsgænger i Folketinget.</description>
-			<pubDate>Wed, 27 Jul 2022 09:15:47 +0200</pubDate>
-			<itunes:duration>0:53:59</itunes:duration>
-			<itunes:order>20220727091547</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/270722-trodsig-trads-podcast</link>
+			<description>
+				<![CDATA[ David Trads, som støtter Ukraine, får læst og påskrevet af Marie Krarup. Hun mener, NATO burde nedlægges, og at vi bør forhandle med Putin. Ellers risikerer vi atomkrig.<br />Vært: David Trads.<br />Gæst: Marie Krarup, løsgænger i Folketinget. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50724070</guid>
+			<pubDate>Wed, 27 Jul 2022 09:15:47 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50724070/270722_trodsig_trads_podcast.mp3" length="51904305" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads, som støtter Ukraine, får læst og påskrevet af Marie Krarup. Hun mener, NATO burde nedlægges, og at vi bør forhandle med Putin. Ellers risikerer vi atomkrig. Vært: David Trads. Gæst: Marie Krarup, løsgænger i Folketinget.</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads, som støtter Ukraine, får læst og påskrevet af Marie Krarup. Hun mener, NATO burde nedlægges, og at vi bør forhandle med Putin. Ellers risikerer vi atomkrig.<br />Vært: David Trads.<br />Gæst: Marie Krarup, løsgænger i Folketinget. ]]>
+			</itunes:summary>
+			<itunes:duration>3240</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Fri abort? Stop en halv!</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50713841/260722_trodsig_trads_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50713841/260722_trodsig_trads_podcast.mp3" length="3241000" type="audio/mpeg"/>
-			<description>David Trads er tilhænger af fri abort og griller i dag Stig Grenov, tidligere formand for Kristendemokraterne. Grenov er vist både for og imod.
-Vært: David Trads.
-Gæster: Stig Grenov, tidligere formand for Kristendemokraterne og Nikolaj Gam-Pedersen, folketingskandidat for Moderaterne.</description>
-			<pubDate>Tue, 26 Jul 2022 09:16:32 +0200</pubDate>
-			<itunes:duration>0:54:01</itunes:duration>
-			<itunes:order>20220726091632</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/260722-trodsig-trads-podcast</link>
+			<description>
+				<![CDATA[ David Trads er tilhænger af fri abort og griller i dag Stig Grenov, tidligere formand for Kristendemokraterne. Grenov er vist både for og imod.<br /><br />Vært: David Trads.<br />Gæster: Stig Grenov, tidligere formand for Kristendemokraterne og Nikolaj Gam-Pedersen, folketingskandidat for Moderaterne. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50713841</guid>
+			<pubDate>Tue, 26 Jul 2022 09:16:32 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50713841/260722_trodsig_trads_podcast.mp3" length="51931473" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads er tilhænger af fri abort og griller i dag Stig Grenov, tidligere formand for Kristendemokraterne. Grenov er vist både for og imod. Vært: David Trads. Gæster: Stig Grenov, tidligere formand for Kristendemokraterne og Nikolaj...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads er tilhænger af fri abort og griller i dag Stig Grenov, tidligere formand for Kristendemokraterne. Grenov er vist både for og imod.<br /><br />Vært: David Trads.<br />Gæster: Stig Grenov, tidligere formand for Kristendemokraterne og Nikolaj Gam-Pedersen, folketingskandidat for Moderaterne. ]]>
+			</itunes:summary>
+			<itunes:duration>3242</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Jarlovs vanvid</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50702674/250722_trodsig_trads_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50702674/250722_trodsig_trads_podcast.mp3" length="3200000" type="audio/mpeg"/>
-			<description>David Trads savner det Danmark, som var tolerant. I stedet får Rasumus Jarlov, konservativt folketingsmedlem, lov til at tweete groft diskriminerende om somaliere.
-Trodsige Trads slår tilbage.
-Vært: David Trads
-Gæster: Emil Winckler, politisk redaktør og Oscar Rothstein, Danwatch</description>
-			<pubDate>Mon, 25 Jul 2022 10:56:07 +0200</pubDate>
-			<itunes:duration>0:53:20</itunes:duration>
-			<itunes:order>20220725105607</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/250722-trodsig-trads-podcast</link>
+			<description>
+				<![CDATA[ David Trads savner det Danmark, som var tolerant. I stedet får Rasumus Jarlov, konservativt folketingsmedlem, lov til at tweete groft diskriminerende om somaliere.<br />Trodsige Trads slår tilbage.<br />Vært: David Trads<br />Gæster: Emil Winckler, politisk redaktør og Oscar Rothstein, Danwatch ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50702674</guid>
+			<pubDate>Mon, 25 Jul 2022 10:56:07 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50702674/250722_trodsig_trads_podcast.mp3" length="51279874" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>David Trads savner det Danmark, som var tolerant. I stedet får Rasumus Jarlov, konservativt folketingsmedlem, lov til at tweete groft diskriminerende om somaliere. Trodsige Trads slår tilbage. Vært: David Trads Gæster: Emil Winckler, politisk...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ David Trads savner det Danmark, som var tolerant. I stedet får Rasumus Jarlov, konservativt folketingsmedlem, lov til at tweete groft diskriminerende om somaliere.<br />Trodsige Trads slår tilbage.<br />Vært: David Trads<br />Gæster: Emil Winckler, politisk redaktør og Oscar Rothstein, Danwatch ]]>
+			</itunes:summary>
+			<itunes:duration>3201</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Trodsig</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/50416737/trodsig.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/50416737/trodsig.mp3" length="7000" type="audio/mpeg"/>
-			<description/>
-			<pubDate>Thu, 30 Jun 2022 13:07:47 +0200</pubDate>
-			<itunes:duration>0:00:07</itunes:duration>
-			<itunes:order>20220630130747</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/trodsig</link>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/50416737</guid>
+			<pubDate>Thu, 30 Jun 2022 13:07:47 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/50416737/trodsig.mp3" length="235584" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:duration>8</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/258c0e5aa71391d792d245919e7f32d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
 </rss>
