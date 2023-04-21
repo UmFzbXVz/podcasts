@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>ABBA er tilbage</title>
+    <link>https://loud.land/podcast/abba-er-tilbage</link>
+    <description><![CDATA[ABBA er tilbage! Med ny musik og et nyt og banebrydende show. Et show som de bygger deres helt egen arena i London til og hvor der optræder avatars, eller ABBAtars i stedet for Agnetha, Björn, Benny og Anni-Frid. <br /><br />Hvorfor nu det og hvorfor er ABBA her små 40 år efter deres seneste album stadigvæk hotte?  Det svarer musikeksperterne Henrik Milling og Nicolai Molbech på i denne podcast der byder ABBA velkommen tilbage.<br /><br />Vært og redaktør; Mikkel Bagger<br />Medvirkende: Henrik Milling og Nicolai Molbech]]></description>
+    <atom:link href="https://www.spreaker.com/show/5088683/episodes/feed" rel="self" type="application/rss+xml"/>
+    <language>da</language>
+    <category>Music</category>
+    <copyright>Copyright LOUD</copyright>
+    <image>
+      <url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8905930c68c6b57cc89b274d0be2dfbb.jpg</url>
+      <title>ABBA er tilbage</title>
+      <link>https://loud.land/podcast/abba-er-tilbage</link>
+    </image>
+    <lastBuildDate>Mon, 19 Dec 2022 13:25:45 +0000</lastBuildDate>
+    <itunes:author>LOUD</itunes:author>
+    <itunes:owner>
+      <itunes:name>LOUD</itunes:name>
+      <itunes:email>podcast@radioloud.dk</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8905930c68c6b57cc89b274d0be2dfbb.jpg"/>
+    <itunes:subtitle>ABBA er tilbage! Med ny musik og et nyt og banebrydende show. Et show som de bygger deres helt egen arena i London til og hvor der optræder avatars, eller ABBAtars i stedet for Agnetha, Björn, Benny og Anni-Frid. 
+
+Hvorfor nu det og hvorfor er ABBA...</itunes:subtitle>
+    <itunes:summary><![CDATA[ABBA er tilbage! Med ny musik og et nyt og banebrydende show. Et show som de bygger deres helt egen arena i London til og hvor der optræder avatars, eller ABBAtars i stedet for Agnetha, Björn, Benny og Anni-Frid. <br /><br />Hvorfor nu det og hvorfor er ABBA her små 40 år efter deres seneste album stadigvæk hotte?  Det svarer musikeksperterne Henrik Milling og Nicolai Molbech på i denne podcast der byder ABBA velkommen tilbage.<br /><br />Vært og redaktør; Mikkel Bagger<br />Medvirkende: Henrik Milling og Nicolai Molbech]]></itunes:summary>
+    <itunes:category text="Music"/>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>ABBA ER TILBAGE</title>
+      <link>https://www.spreaker.com/user/radiolouddk/abba-er-tilbage</link>
+      <description><![CDATA[ABBA er tilbage! Med ny musik og et nyt og banebrydende show ABBA VOYAGE. Et show som de bygger deres helt egen arena i London til og hvor der optræder avatars, eller ABBAtars i stedet for Agnetha, Björn, Benny og Anni-Frid. <br /><br />Hvorfor nu det og hvorfor er ABBA her små 40 år efter deres seneste album stadigvæk hotte?  Det svarer musikeksperterne Henrik Milling og Nicolai Molbech på i denne podcast der byder ABBA velkommen tilbage.<br /><br />Vært; Mikkel Bagger]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/46397425</guid>
+      <pubDate>Mon, 06 Sep 2021 12:34:48 +0000</pubDate>
+      <enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46397425/abba_tilbage_v2.mp3" length="52717056" type="audio/mpeg"/>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:subtitle>ABBA er tilbage! Med ny musik og et nyt og banebrydende show ABBA VOYAGE. Et show som de bygger deres helt egen arena i London til og hvor der optræder avatars, eller ABBAtars i stedet for Agnetha, Björn, Benny og Anni-Frid. 
+
+Hvorfor nu det og...</itunes:subtitle>
+      <itunes:summary><![CDATA[ABBA er tilbage! Med ny musik og et nyt og banebrydende show ABBA VOYAGE. Et show som de bygger deres helt egen arena i London til og hvor der optræder avatars, eller ABBAtars i stedet for Agnetha, Björn, Benny og Anni-Frid. <br /><br />Hvorfor nu det og hvorfor er ABBA her små 40 år efter deres seneste album stadigvæk hotte?  Det svarer musikeksperterne Henrik Milling og Nicolai Molbech på i denne podcast der byder ABBA velkommen tilbage.<br /><br />Vært; Mikkel Bagger]]></itunes:summary>
+      <itunes:duration>3291</itunes:duration>
+      <itunes:keywords>abba,abbavoyage,loud,millingogmolbech,radioloud,voyage</itunes:keywords>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8905930c68c6b57cc89b274d0be2dfbb.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
