@@ -1,77 +1,170 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="itunes" version="2.0">
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 	<channel>
 		<title>Putins Verden</title>
-		<link>https://web.24syv.dk/channels/5092</link>
-		<link href="https://web.24syv.dk/channels/5092" rel="self" type="application/rss+xml"/>
-		<description>Putin, Putin, Putin. Hvem er den lille dreng, der jagtede rotter i et lejlighedskompleks i Leningrad den ene dag, og som bragte hele verden i knæ den næste? Den 24. februar i år indledte Putin en krig mod Ukraine, og han skrev derved sig selv ind på listen over verdenshistorien værste aggressorer. Hver uge vil de særdeles Ruslandskyndige journalister Samuel Rachlin og Uffe Gardel fortælle, diskutere og analysere alt, hvad Putin og resten af Rusland foretager sig.</description>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/937/d04e4490c348c147341019729899c87d.jpg"/>
+		<link>https://www.spreaker.com/show/putin_1</link>
+		<description>
+			<![CDATA[ Putin, Putin, Putin. Hvem er den lille dreng, der jagtede rotter i et lejlighedskompleks i Leningrad den ene dag, og som bragte hele verden i knæ den næste? Den 24. februar i år indledte Putin en krig mod Ukraine, og han skrev derved sig selv ind på listen over verdenshistorien værste aggressorer. Hver uge vil de særdeles Ruslandskyndige journalister Samuel Rachlin og Uffe Gardel fortælle, diskutere og analysere alt, hvad Putin og resten af Rusland foretager sig. ]]>
+		</description>
+		<atom:link href="https://www.spreaker.com/show/5514214/episodes/feed" rel="self" type="application/rss+xml"/>
+		<language>da</language>
+		<category>Politics</category>
+		<copyright>Copyright 24syv</copyright>
+		<image>
+			<url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d04e4490c348c147341019729899c87d.jpg</url>
+			<title>Putins Verden</title>
+			<link>https://www.spreaker.com/show/putin_1</link>
+		</image>
+		<lastBuildDate>Mon, 19 Dec 2022 13:25:45 +0000</lastBuildDate>
+		<itunes:author>24syv</itunes:author>
+		<itunes:owner>
+			<itunes:name>24syv</itunes:name>
+			<itunes:email>podcast@24syv.dk</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d04e4490c348c147341019729899c87d.jpg"/>
+		<itunes:subtitle>Putin, Putin, Putin. Hvem er den lille dreng, der jagtede rotter i et lejlighedskompleks i Leningrad den ene dag, og som bragte hele verden i knæ den næste? Den 24. februar i år indledte Putin en krig mod Ukraine, og han skrev derved sig selv ind på...</itunes:subtitle>
+		<itunes:summary>
+			<![CDATA[ Putin, Putin, Putin. Hvem er den lille dreng, der jagtede rotter i et lejlighedskompleks i Leningrad den ene dag, og som bragte hele verden i knæ den næste? Den 24. februar i år indledte Putin en krig mod Ukraine, og han skrev derved sig selv ind på listen over verdenshistorien værste aggressorer. Hver uge vil de særdeles Ruslandskyndige journalister Samuel Rachlin og Uffe Gardel fortælle, diskutere og analysere alt, hvad Putin og resten af Rusland foretager sig. ]]>
+		</itunes:summary>
+		<itunes:category text="News">
+			<itunes:category text="Politics"/></itunes:category>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:type>episodic</itunes:type>
 		<item>
 			<title>Krise i den ortodokse kirke</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/49999008/300522_putins_verden_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/49999008/300522_putins_verden_podcast.mp3" length="3406000" type="audio/mpeg"/>
-			<description>Den russiske ortodokse kirke i Ukraine er ikke tilfreds med, at dens patriark Kirill i Moskva støtter krigen. 
-Samtidig er den russiske diplomat Boris Bondarev hoppet af efter at have fordømt magteliten i Moskva og krigen i Ukraine. 
-Værter: Uffe Gardel og Samuel Rachlin.</description>
-			<pubDate>Mon, 30 May 2022 14:28:19 +0200</pubDate>
-			<itunes:duration>0:56:46</itunes:duration>
-			<itunes:order>20220530142819</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/300522-putins-verden-podcast</link>
+			<description>
+				<![CDATA[ Den russiske ortodokse kirke i Ukraine er ikke tilfreds med, at dens patriark Kirill i Moskva støtter krigen. <br />Samtidig er den russiske diplomat Boris Bondarev hoppet af efter at have fordømt magteliten i Moskva og krigen i Ukraine. <br />Værter: Uffe Gardel og Samuel Rachlin. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/49999008</guid>
+			<pubDate>Mon, 30 May 2022 14:28:19 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/49999008/300522_putins_verden_podcast.mp3" length="54566400" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Den russiske ortodokse kirke i Ukraine er ikke tilfreds med, at dens patriark Kirill i Moskva støtter krigen. Samtidig er den russiske diplomat Boris Bondarev hoppet af efter at have fordømt magteliten i Moskva og krigen i Ukraine. Værter: Uffe...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Den russiske ortodokse kirke i Ukraine er ikke tilfreds med, at dens patriark Kirill i Moskva støtter krigen. <br />Samtidig er den russiske diplomat Boris Bondarev hoppet af efter at have fordømt magteliten i Moskva og krigen i Ukraine. <br />Værter: Uffe Gardel og Samuel Rachlin. ]]>
+			</itunes:summary>
+			<itunes:duration>3407</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d04e4490c348c147341019729899c87d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Den store forventningsafstemning</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/49876051/200522_putins_verden.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/49876051/200522_putins_verden.mp3" length="3366000" type="audio/mpeg"/>
-			<description>Det går af helvede til på slagmarken for russerne. Derfor har magtapparatet i Kreml indledt en forventningsafstemning med den russiske befolkning og kritiske røster får længere snor i medierne. 
-Værter: Uffe Gardel og Samuel Rachlin.</description>
-			<pubDate>Fri, 20 May 2022 13:14:29 +0200</pubDate>
-			<itunes:duration>0:56:06</itunes:duration>
-			<itunes:order>20220520131429</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/200522-putins-verden</link>
+			<description>
+				<![CDATA[ Det går af helvede til på slagmarken for russerne. Derfor har magtapparatet i Kreml indledt en forventningsafstemning med den russiske befolkning og kritiske røster får længere snor i medierne. <br />Værter: Uffe Gardel og Samuel Rachlin. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/49876051</guid>
+			<pubDate>Fri, 20 May 2022 13:14:29 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/49876051/200522_putins_verden.mp3" length="53933952" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Det går af helvede til på slagmarken for russerne. Derfor har magtapparatet i Kreml indledt en forventningsafstemning med den russiske befolkning og kritiske røster får længere snor i medierne. Værter: Uffe Gardel og Samuel Rachlin.</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Det går af helvede til på slagmarken for russerne. Derfor har magtapparatet i Kreml indledt en forventningsafstemning med den russiske befolkning og kritiske røster får længere snor i medierne. <br />Værter: Uffe Gardel og Samuel Rachlin. ]]>
+			</itunes:summary>
+			<itunes:duration>3367</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d04e4490c348c147341019729899c87d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Den tavse sejrsdag</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/49772018/putins_verden_5.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/49772018/putins_verden_5.mp3" length="3157000" type="audio/mpeg"/>
-			<description>Russerne og Putin fejrede d. 9 maj sejren over Nazityskland i 1945. Men på den store propagandadag var listen over alt det som Putin ikke sagde, så lang som en sibirisk vinter.</description>
-			<pubDate>Thu, 12 May 2022 12:16:13 +0200</pubDate>
-			<itunes:duration>0:52:37</itunes:duration>
-			<itunes:order>20220512121613</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/putins-verden-5</link>
+			<description>
+				<![CDATA[ Russerne og Putin fejrede d. 9 maj sejren over Nazityskland i 1945. Men på den store propagandadag var listen over alt det som Putin ikke sagde, så lang som en sibirisk vinter. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/49772018</guid>
+			<pubDate>Thu, 12 May 2022 12:16:13 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/49772018/putins_verden_5.mp3" length="101119104" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Russerne og Putin fejrede d. 9 maj sejren over Nazityskland i 1945. Men på den store propagandadag var listen over alt det som Putin ikke sagde, så lang som en sibirisk vinter.</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Russerne og Putin fejrede d. 9 maj sejren over Nazityskland i 1945. Men på den store propagandadag var listen over alt det som Putin ikke sagde, så lang som en sibirisk vinter. ]]>
+			</itunes:summary>
+			<itunes:duration>3158</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d04e4490c348c147341019729899c87d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Putin undskylder (!)</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/49689835/putins_verden_4.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/49689835/putins_verden_4.mp3" length="3252000" type="audio/mpeg"/>
-			<description>Putin-studiet er næsten i en choktilstand i denne uge. Vladimir Putin er nemlig kommet med en undskyldning. Dine værter er som altid Samuel Rachlin og Uffe Gardel.</description>
-			<pubDate>Fri, 06 May 2022 13:42:03 +0200</pubDate>
-			<itunes:duration>0:54:12</itunes:duration>
-			<itunes:order>20220506134203</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/putins-verden-4</link>
+			<description>
+				<![CDATA[ Putin-studiet er næsten i en choktilstand i denne uge. Vladimir Putin er nemlig kommet med en undskyldning. Dine værter er som altid Samuel Rachlin og Uffe Gardel. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/49689835</guid>
+			<pubDate>Fri, 06 May 2022 13:42:03 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/49689835/putins_verden_4.mp3" length="104154240" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Putin-studiet er næsten i en choktilstand i denne uge. Vladimir Putin er nemlig kommet med en undskyldning. Dine værter er som altid Samuel Rachlin og Uffe Gardel.</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Putin-studiet er næsten i en choktilstand i denne uge. Vladimir Putin er nemlig kommet med en undskyldning. Dine værter er som altid Samuel Rachlin og Uffe Gardel. ]]>
+			</itunes:summary>
+			<itunes:duration>3253</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d04e4490c348c147341019729899c87d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Rachlins Lov: Putin vælger altid det mest ekstreme</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/49595454/290422_putins_verden_podcast.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/49595454/290422_putins_verden_podcast.mp3" length="3340000" type="audio/mpeg"/>
-			<description>Offensiven mod Donbas er gået ind i sin anden uge og det går langsomt med det russiske fremmarch. Tredje afsnit af Putins verden ser på, om tiden arbejder for Rusland eller Ukraine og om der er sprækker i Putins bagland?
-Værter: Uffe Gardel og Samuel Rachlin</description>
-			<pubDate>Fri, 29 Apr 2022 13:57:07 +0200</pubDate>
-			<itunes:duration>0:55:40</itunes:duration>
-			<itunes:order>20220429135707</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/290422-putins-verden-podcast</link>
+			<description>
+				<![CDATA[ Offensiven mod Donbas er gået ind i sin anden uge og det går langsomt med det russiske fremmarch. Tredje afsnit af Putins verden ser på, om tiden arbejder for Rusland eller Ukraine og om der er sprækker i Putins bagland?<br />Værter: Uffe Gardel og Samuel Rachlin ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/49595454</guid>
+			<pubDate>Fri, 29 Apr 2022 13:57:07 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/49595454/290422_putins_verden_podcast.mp3" length="53509268" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Offensiven mod Donbas er gået ind i sin anden uge og det går langsomt med det russiske fremmarch. Tredje afsnit af Putins verden ser på, om tiden arbejder for Rusland eller Ukraine og om der er sprækker i Putins bagland? Værter: Uffe Gardel og Samuel...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Offensiven mod Donbas er gået ind i sin anden uge og det går langsomt med det russiske fremmarch. Tredje afsnit af Putins verden ser på, om tiden arbejder for Rusland eller Ukraine og om der er sprækker i Putins bagland?<br />Værter: Uffe Gardel og Samuel Rachlin ]]>
+			</itunes:summary>
+			<itunes:duration>3341</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d04e4490c348c147341019729899c87d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Den russiske storløgner</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/49515234/putins_verden_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/49515234/putins_verden_2.mp3" length="3228000" type="audio/mpeg"/>
-			<description>Putin sidder og holder fast i bordkanten. Konkret og i overført betydning. Hans flagskib er sunket, hans bedste soldater er islamister og tabstallene er en statshemmelighed. Andet afsnit af 'Putins verden' med Samuel Rachlin og Uffe Gardel fortæller om storløgnerens rige.</description>
-			<pubDate>Fri, 22 Apr 2022 12:00:25 +0200</pubDate>
-			<itunes:duration>0:53:48</itunes:duration>
-			<itunes:order>20220422120025</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/putins-verden-2</link>
+			<description>
+				<![CDATA[ Putin sidder og holder fast i bordkanten. Konkret og i overført betydning. Hans flagskib er sunket, hans bedste soldater er islamister og tabstallene er en statshemmelighed. Andet afsnit af 'Putins verden' med Samuel Rachlin og Uffe Gardel fortæller om storløgnerens rige. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/49515234</guid>
+			<pubDate>Fri, 22 Apr 2022 12:00:25 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/49515234/putins_verden_2.mp3" length="103368576" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Putin sidder og holder fast i bordkanten. Konkret og i overført betydning. Hans flagskib er sunket, hans bedste soldater er islamister og tabstallene er en statshemmelighed. Andet afsnit af 'Putins verden' med Samuel Rachlin og Uffe Gardel fortæller...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Putin sidder og holder fast i bordkanten. Konkret og i overført betydning. Hans flagskib er sunket, hans bedste soldater er islamister og tabstallene er en statshemmelighed. Andet afsnit af 'Putins verden' med Samuel Rachlin og Uffe Gardel fortæller om storløgnerens rige. ]]>
+			</itunes:summary>
+			<itunes:duration>3229</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d04e4490c348c147341019729899c87d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Putins eksamen</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/49408307/putins_verden_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/49408307/putins_verden_1.mp3" length="3230000" type="audio/mpeg"/>
-			<description>Kort inden krigen havde Vladimir Putin sine nærmeste medarbejdere til eksamen for rullende kameraer. Hvorfor? Og forleden fik Samuel Rachlin en åbenbaring, der gør ham i stand til at gennemskue Putin. Hvad går den åbenbaring ud på? Få svarene i premiereudgaven af 'Putins Verden' med Samuel Rachlin og Uffe Gardel.</description>
-			<pubDate>Tue, 12 Apr 2022 07:38:43 +0200</pubDate>
-			<itunes:duration>0:53:50</itunes:duration>
-			<itunes:order>20220412073843</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/putins-verden-1</link>
+			<description>
+				<![CDATA[ Kort inden krigen havde Vladimir Putin sine nærmeste medarbejdere til eksamen for rullende kameraer. Hvorfor? Og forleden fik Samuel Rachlin en åbenbaring, der gør ham i stand til at gennemskue Putin. Hvad går den åbenbaring ud på? Få svarene i premiereudgaven af 'Putins Verden' med Samuel Rachlin og Uffe Gardel. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/49408307</guid>
+			<pubDate>Tue, 12 Apr 2022 07:38:43 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/49408307/putins_verden_1.mp3" length="77591659" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Kort inden krigen havde Vladimir Putin sine nærmeste medarbejdere til eksamen for rullende kameraer. Hvorfor? Og forleden fik Samuel Rachlin en åbenbaring, der gør ham i stand til at gennemskue Putin. Hvad går den åbenbaring ud på? Få svarene i...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Kort inden krigen havde Vladimir Putin sine nærmeste medarbejdere til eksamen for rullende kameraer. Hvorfor? Og forleden fik Samuel Rachlin en åbenbaring, der gør ham i stand til at gennemskue Putin. Hvad går den åbenbaring ud på? Få svarene i premiereudgaven af 'Putins Verden' med Samuel Rachlin og Uffe Gardel. ]]>
+			</itunes:summary>
+			<itunes:duration>3231</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d04e4490c348c147341019729899c87d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
 </rss>
