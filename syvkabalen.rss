@@ -1,417 +1,716 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="itunes" version="2.0">
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 	<channel>
 		<title>Syvkabalen</title>
-		<link>https://web.24syv.dk/channels/5130</link>
-		<link href="https://web.24syv.dk/channels/5130" rel="self" type="application/rss+xml"/>
-		<description>Intet er planlagt og alt kan ske, når René Fredensborg hver fredag inviterer kendte danskere på et lille glas og god tid. Gæsten medbringer musikken, mens Fredensborg sikrer, at samtalen stikker dybt eller stikker helt af. Der skal nemlig være plads til grin, gråd og alvorsord, hvis Syvkabalen skal gå op.</description>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/622/syvkabalen.jpeg"/>
+		<link>https://www.spreaker.com/show/syvkabalen</link>
+		<description>
+			<![CDATA[ Intet er planlagt og alt kan ske, når René Fredensborg hver fredag inviterer kendte danskere på et lille glas og god tid. Gæsten medbringer musikken, mens Fredensborg sikrer, at samtalen stikker dybt eller stikker helt af. Der skal nemlig være plads til grin, gråd og alvorsord, hvis Syvkabalen skal gå op. ]]>
+		</description>
+		<atom:link href="https://www.spreaker.com/show/5748723/episodes/feed" rel="self" type="application/rss+xml"/>
+		<language>da</language>
+		<category>Society & Culture</category>
+		<copyright>Copyright 24syv</copyright>
+		<image>
+			<url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg</url>
+			<title>Syvkabalen</title>
+			<link>https://www.spreaker.com/show/syvkabalen</link>
+		</image>
+		<lastBuildDate>Fri, 14 Apr 2023 16:15:33 +0000</lastBuildDate>
+		<itunes:author>24syv</itunes:author>
+		<itunes:owner>
+			<itunes:name>24syv</itunes:name>
+			<itunes:email>podcast@24syv.dk</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+		<itunes:subtitle>Intet er planlagt og alt kan ske, når René Fredensborg hver fredag inviterer kendte danskere på et lille glas og god tid. Gæsten medbringer musikken, mens Fredensborg sikrer, at samtalen stikker dybt eller stikker helt af. Der skal nemlig være plads...</itunes:subtitle>
+		<itunes:summary>
+			<![CDATA[ Intet er planlagt og alt kan ske, når René Fredensborg hver fredag inviterer kendte danskere på et lille glas og god tid. Gæsten medbringer musikken, mens Fredensborg sikrer, at samtalen stikker dybt eller stikker helt af. Der skal nemlig være plads til grin, gråd og alvorsord, hvis Syvkabalen skal gå op. ]]>
+		</itunes:summary>
+		<itunes:category text="Society & Culture"/>
+		<itunes:category text="Society & Culture">
+			<itunes:category text="Personal Journals"/></itunes:category>
+		<itunes:category text="Society & Culture">
+			<itunes:category text="Philosophy"/></itunes:category>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:type>episodic</itunes:type>
 		<item>
 			<title>Fenar Ahmad: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53537615/fenar_del_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53537615/fenar_del_2.mp3" length="3235000" type="audio/mpeg"/>
-			<description>”Man skal være selvoptaget for at være kunstner – det betyder ikke, at man behøver at blive set ned på!” Der bliver målt langemænd i denne uges Syvkabale, når der bl.a. tales om anmeldelser. René gav denne uges gæst, filmaktuelle instruktør Fenar Ahmads nye film ’Underverden II’ fire stjerner – men ifølge Fenar, har René slet ikke forstået filmens budskab. Hvad er op, hvad er ned, og hvem er det i virkeligheden, der bliver stødt over hinandens udtalelser? Der tales om generationskløfter med et kulturelt blik, positiv særbehandling i spillefilmsverdenen – eksisterer den overhovedet? Hvor gamle er vi i virkeligheden indeni? Research om skyderier – for hvor svært er det egentligt at ramme nogen i virkeligheden? Især hvis du er nervøs! Brune musikeres overlegenhed qua indvandrere på filmplakaten. Lykkes det, eller er det ikke lykkedes Lars von Trier at genopfinde sig selv? Harmonien på Nørrebro og de manglende dårlige vibes i Mjølnerparken! Hvor ensomt det kan være i løbet af processen, når man laver film. Om at have meldt sig ud af Filmakademiet og komme til erkendelsen af, at man ikke længere behøver andres anerkendelse for at vide, man har lavet noget godt. 
-Vært: René Fredensborg 
-Producer: Marcus Eklund 
-Assistent: Katinka M.G. Enselmann</description>
-			<pubDate>Fri, 14 Apr 2023 16:14:43 +0200</pubDate>
-			<itunes:duration>0:53:55</itunes:duration>
-			<itunes:order>20230414161443</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/fenar-del-2</link>
+			<description>
+				<![CDATA[ ”Man skal være selvoptaget for at være kunstner – det betyder ikke, at man behøver at blive set ned på!” Der bliver målt langemænd i denne uges Syvkabale, når der bl.a. tales om anmeldelser. René gav denne uges gæst, filmaktuelle instruktør Fenar Ahmads nye film ’Underverden II’ fire stjerner – men ifølge Fenar, har René slet ikke forstået filmens budskab. Hvad er op, hvad er ned, og hvem er det i virkeligheden, der bliver stødt over hinandens udtalelser? Der tales om generationskløfter med et kulturelt blik, positiv særbehandling i spillefilmsverdenen – eksisterer den overhovedet? Hvor gamle er vi i virkeligheden indeni? Research om skyderier – for hvor svært er det egentligt at ramme nogen i virkeligheden? Især hvis du er nervøs! Brune musikeres overlegenhed qua indvandrere på filmplakaten. Lykkes det, eller er det ikke lykkedes Lars von Trier at genopfinde sig selv? Harmonien på Nørrebro og de manglende dårlige vibes i Mjølnerparken! Hvor ensomt det kan være i løbet af processen, når man laver film. Om at have meldt sig ud af Filmakademiet og komme til erkendelsen af, at man ikke længere behøver andres anerkendelse for at vide, man har lavet noget godt. <br />Vært: René Fredensborg <br />Producer: Marcus Eklund <br />Assistent: Katinka M.G. Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53537615</guid>
+			<pubDate>Fri, 14 Apr 2023 16:14:43 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53537615/fenar_del_2.mp3" length="77707584" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>”Man skal være selvoptaget for at være kunstner – det betyder ikke, at man behøver at blive set ned på!” Der bliver målt langemænd i denne uges Syvkabale, når der bl.a. tales om anmeldelser. René gav denne uges gæst, filmaktuelle instruktør Fenar...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ ”Man skal være selvoptaget for at være kunstner – det betyder ikke, at man behøver at blive set ned på!” Der bliver målt langemænd i denne uges Syvkabale, når der bl.a. tales om anmeldelser. René gav denne uges gæst, filmaktuelle instruktør Fenar Ahmads nye film ’Underverden II’ fire stjerner – men ifølge Fenar, har René slet ikke forstået filmens budskab. Hvad er op, hvad er ned, og hvem er det i virkeligheden, der bliver stødt over hinandens udtalelser? Der tales om generationskløfter med et kulturelt blik, positiv særbehandling i spillefilmsverdenen – eksisterer den overhovedet? Hvor gamle er vi i virkeligheden indeni? Research om skyderier – for hvor svært er det egentligt at ramme nogen i virkeligheden? Især hvis du er nervøs! Brune musikeres overlegenhed qua indvandrere på filmplakaten. Lykkes det, eller er det ikke lykkedes Lars von Trier at genopfinde sig selv? Harmonien på Nørrebro og de manglende dårlige vibes i Mjølnerparken! Hvor ensomt det kan være i løbet af processen, når man laver film. Om at have meldt sig ud af Filmakademiet og komme til erkendelsen af, at man ikke længere behøver andres anerkendelse for at vide, man har lavet noget godt. <br />Vært: René Fredensborg <br />Producer: Marcus Eklund <br />Assistent: Katinka M.G. Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3236</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Fenar Ahmad: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53537528/fenar_del_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53537528/fenar_del_1.mp3" length="3235000" type="audio/mpeg"/>
-			<description>”Man skal være selvoptaget for at være kunstner – det betyder ikke, at man behøver at blive set ned på!” Der bliver målt langemænd i denne uges Syvkabale, når der bl.a. tales om anmeldelser. René gav denne uges gæst, filmaktuelle instruktør Fenar Ahmads nye film ’Underverden II’ fire stjerner – men ifølge Fenar, har René slet ikke forstået filmens budskab. Hvad er op, hvad er ned, og hvem er det i virkeligheden, der bliver stødt over hinandens udtalelser? Der tales om generationskløfter med et kulturelt blik, positiv særbehandling i spillefilmsverdenen – eksisterer den overhovedet? Hvor gamle er vi i virkeligheden indeni? Research om skyderier – for hvor svært er det egentligt at ramme nogen i virkeligheden? Især hvis du er nervøs! Brune musikeres overlegenhed qua indvandrere på filmplakaten. Lykkes det, eller er det ikke lykkedes Lars von Trier at genopfinde sig selv? Harmonien på Nørrebro og de manglende dårlige vibes i Mjølnerparken! Hvor ensomt det kan være i løbet af processen, når man laver film. Om at have meldt sig ud af Filmakademiet og komme til erkendelsen af, at man ikke længere behøver andres anerkendelse for at vide, man har lavet noget godt.
-Vært: René Fredensborg,
-Producer: Marcus Eklund, 
-Assistent: Katinka M.G. Enselmann</description>
-			<pubDate>Fri, 14 Apr 2023 16:05:05 +0200</pubDate>
-			<itunes:duration>0:53:55</itunes:duration>
-			<itunes:order>20230414160505</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/fenar-del-1</link>
+			<description>
+				<![CDATA[ ”Man skal være selvoptaget for at være kunstner – det betyder ikke, at man behøver at blive set ned på!” Der bliver målt langemænd i denne uges Syvkabale, når der bl.a. tales om anmeldelser. René gav denne uges gæst, filmaktuelle instruktør Fenar Ahmads nye film ’Underverden II’ fire stjerner – men ifølge Fenar, har René slet ikke forstået filmens budskab. Hvad er op, hvad er ned, og hvem er det i virkeligheden, der bliver stødt over hinandens udtalelser? Der tales om generationskløfter med et kulturelt blik, positiv særbehandling i spillefilmsverdenen – eksisterer den overhovedet? Hvor gamle er vi i virkeligheden indeni? Research om skyderier – for hvor svært er det egentligt at ramme nogen i virkeligheden? Især hvis du er nervøs! Brune musikeres overlegenhed qua indvandrere på filmplakaten. Lykkes det, eller er det ikke lykkedes Lars von Trier at genopfinde sig selv? Harmonien på Nørrebro og de manglende dårlige vibes i Mjølnerparken! Hvor ensomt det kan være i løbet af processen, når man laver film. Om at have meldt sig ud af Filmakademiet og komme til erkendelsen af, at man ikke længere behøver andres anerkendelse for at vide, man har lavet noget godt.<br />Vært: René Fredensborg,<br />Producer: Marcus Eklund, <br />Assistent: Katinka M.G. Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53537528</guid>
+			<pubDate>Fri, 14 Apr 2023 16:05:05 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53537528/fenar_del_1.mp3" length="77711040" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>”Man skal være selvoptaget for at være kunstner – det betyder ikke, at man behøver at blive set ned på!” Der bliver målt langemænd i denne uges Syvkabale, når der bl.a. tales om anmeldelser. René gav denne uges gæst, filmaktuelle instruktør Fenar...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ ”Man skal være selvoptaget for at være kunstner – det betyder ikke, at man behøver at blive set ned på!” Der bliver målt langemænd i denne uges Syvkabale, når der bl.a. tales om anmeldelser. René gav denne uges gæst, filmaktuelle instruktør Fenar Ahmads nye film ’Underverden II’ fire stjerner – men ifølge Fenar, har René slet ikke forstået filmens budskab. Hvad er op, hvad er ned, og hvem er det i virkeligheden, der bliver stødt over hinandens udtalelser? Der tales om generationskløfter med et kulturelt blik, positiv særbehandling i spillefilmsverdenen – eksisterer den overhovedet? Hvor gamle er vi i virkeligheden indeni? Research om skyderier – for hvor svært er det egentligt at ramme nogen i virkeligheden? Især hvis du er nervøs! Brune musikeres overlegenhed qua indvandrere på filmplakaten. Lykkes det, eller er det ikke lykkedes Lars von Trier at genopfinde sig selv? Harmonien på Nørrebro og de manglende dårlige vibes i Mjølnerparken! Hvor ensomt det kan være i løbet af processen, når man laver film. Om at have meldt sig ud af Filmakademiet og komme til erkendelsen af, at man ikke længere behøver andres anerkendelse for at vide, man har lavet noget godt.<br />Vært: René Fredensborg,<br />Producer: Marcus Eklund, <br />Assistent: Katinka M.G. Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3236</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Mike Tramp: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53472895/syvkabalen_mike_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53472895/syvkabalen_mike_2.mp3" length="2979000" type="audio/mpeg"/>
-			<description>Mike Tramp er ugens ærlige gæst, og som han siger om rock'n'roll-livet: 'It’s a way of life, more of the same! Den 62-årige legende er aktuel med en genindspilning af udvalgte White Lion-sange, og er netop ikke meget for at genopfinde sig selv. Derfor må han tilbage i de stramme læderbukser for at give folk det, de gerne vil høre. I denne kabale kan du møde den producer, vi kalder for Vikar-Anne, mens hun går i rette med vores mandehørm og simpelthen modsætter sig patriarken pr. princip.
-Du kan også høre Mike Tramp synge på dansk. Og få svar på følgende spørgsmål:
-Drømte Mike sine drømme? Eller drømte de ham? Og hvis 'drømme er liv, fanget i baghold', hvor faldt Mike så i? Og hvad er det for en mærkelig bjørn, der har jaget ham gennem alle disse år?
-Hvad gik konceptet 'Mike Tramps School of Rock' ud på?
-Var det på turné med Ronalds Festival Tivoli, dengang hvor 70'ernes knallertdrenge kastede med æg, at Mabel og Mike valgte at sige: Goodbye Denmark!
-Hvad er forskellen på Mike Tramp og Steven Tyler? 
-Hvad skete der, da Mike Tramp hoppede på trampolin med Bruce Springsteen?
-Hvilket krydderi er Mike Tramp?
-Hvad er det for noget med, at Mike Tramps twitterprofil er falsk? 
-Hvor mange gange har henholdsvis ‘Vild med Dans’ og ‘Toppen af Poppen’ ringet? 
-Hvorfor er Mike flov over de andre rockbands krav til deres riders?
-Hvorfor ytrer Mike sig ikke om politik, når han hjemme i køkkenet er fyldt med holdninger?
-Hvad er det for en pagt, Mike har indgået med djævelen?
-Hvorfor siger Mike, at han ikke er forældremateriale, når han har tre børn? 
-Og ikke mindst: Hvorfor er Mike Tramp ikke skabt til den branche, han har levet i de sidste 46 år?
-Mød verdens bedste Mike Tramp, der helst fortæller sandheden og kun sandheden.</description>
-			<pubDate>Fri, 07 Apr 2023 17:24:09 +0200</pubDate>
-			<itunes:duration>0:49:39</itunes:duration>
-			<itunes:order>20230407172409</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/syvkabalen-mike-2</link>
+			<description>
+				<![CDATA[ Mike Tramp er ugens ærlige gæst, og som han siger om rock'n'roll-livet: 'It’s a way of life, more of the same! Den 62-årige legende er aktuel med en genindspilning af udvalgte White Lion-sange, og er netop ikke meget for at genopfinde sig selv. Derfor må han tilbage i de stramme læderbukser for at give folk det, de gerne vil høre. I denne kabale kan du møde den producer, vi kalder for Vikar-Anne, mens hun går i rette med vores mandehørm og simpelthen modsætter sig patriarken pr. princip.<br />Du kan også høre Mike Tramp synge på dansk. Og få svar på følgende spørgsmål:<br /><br />Drømte Mike sine drømme? Eller drømte de ham? Og hvis 'drømme er liv, fanget i baghold', hvor faldt Mike så i? Og hvad er det for en mærkelig bjørn, der har jaget ham gennem alle disse år?<br /><br />Hvad gik konceptet 'Mike Tramps School of Rock' ud på?<br /><br />Var det på turné med Ronalds Festival Tivoli, dengang hvor 70'ernes knallertdrenge kastede med æg, at Mabel og Mike valgte at sige: Goodbye Denmark!<br /><br />Hvad er forskellen på Mike Tramp og Steven Tyler? <br /><br />Hvad skete der, da Mike Tramp hoppede på trampolin med Bruce Springsteen?<br /><br />Hvilket krydderi er Mike Tramp?<br /><br />Hvad er det for noget med, at Mike Tramps twitterprofil er falsk? <br /><br />Hvor mange gange har henholdsvis ‘Vild med Dans’ og ‘Toppen af Poppen’ ringet? <br /><br />Hvorfor er Mike flov over de andre rockbands krav til deres riders?<br /><br />Hvorfor ytrer Mike sig ikke om politik, når han hjemme i køkkenet er fyldt med holdninger?<br /><br />Hvad er det for en pagt, Mike har indgået med djævelen?<br /><br />Hvorfor siger Mike, at han ikke er forældremateriale, når han har tre børn? <br /><br />Og ikke mindst: Hvorfor er Mike Tramp ikke skabt til den branche, han har levet i de sidste 46 år?<br /><br />Mød verdens bedste Mike Tramp, der helst fortæller sandheden og kun sandheden. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53472895</guid>
+			<pubDate>Fri, 07 Apr 2023 17:24:09 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53472895/syvkabalen_mike_2.mp3" length="71576181" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Mike Tramp er ugens ærlige gæst, og som han siger om rock'n'roll-livet: 'It’s a way of life, more of the same! Den 62-årige legende er aktuel med en genindspilning af udvalgte White Lion-sange, og er netop ikke meget for at genopfinde sig selv. Derfor...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Mike Tramp er ugens ærlige gæst, og som han siger om rock'n'roll-livet: 'It’s a way of life, more of the same! Den 62-årige legende er aktuel med en genindspilning af udvalgte White Lion-sange, og er netop ikke meget for at genopfinde sig selv. Derfor må han tilbage i de stramme læderbukser for at give folk det, de gerne vil høre. I denne kabale kan du møde den producer, vi kalder for Vikar-Anne, mens hun går i rette med vores mandehørm og simpelthen modsætter sig patriarken pr. princip.<br />Du kan også høre Mike Tramp synge på dansk. Og få svar på følgende spørgsmål:<br /><br />Drømte Mike sine drømme? Eller drømte de ham? Og hvis 'drømme er liv, fanget i baghold', hvor faldt Mike så i? Og hvad er det for en mærkelig bjørn, der har jaget ham gennem alle disse år?<br /><br />Hvad gik konceptet 'Mike Tramps School of Rock' ud på?<br /><br />Var det på turné med Ronalds Festival Tivoli, dengang hvor 70'ernes knallertdrenge kastede med æg, at Mabel og Mike valgte at sige: Goodbye Denmark!<br /><br />Hvad er forskellen på Mike Tramp og Steven Tyler? <br /><br />Hvad skete der, da Mike Tramp hoppede på trampolin med Bruce Springsteen?<br /><br />Hvilket krydderi er Mike Tramp?<br /><br />Hvad er det for noget med, at Mike Tramps twitterprofil er falsk? <br /><br />Hvor mange gange har henholdsvis ‘Vild med Dans’ og ‘Toppen af Poppen’ ringet? <br /><br />Hvorfor er Mike flov over de andre rockbands krav til deres riders?<br /><br />Hvorfor ytrer Mike sig ikke om politik, når han hjemme i køkkenet er fyldt med holdninger?<br /><br />Hvad er det for en pagt, Mike har indgået med djævelen?<br /><br />Hvorfor siger Mike, at han ikke er forældremateriale, når han har tre børn? <br /><br />Og ikke mindst: Hvorfor er Mike Tramp ikke skabt til den branche, han har levet i de sidste 46 år?<br /><br />Mød verdens bedste Mike Tramp, der helst fortæller sandheden og kun sandheden. ]]>
+			</itunes:summary>
+			<itunes:duration>2980</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Mike Tramp: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53472877/syvkabalen_mike_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53472877/syvkabalen_mike_1.mp3" length="4746000" type="audio/mpeg"/>
-			<description>Mike Tramp er ugens ærlige gæst, og som han siger om rock'n'roll-livet: 'It’s a way of life, more of the same! Den 62-årige legende er aktuel med en genindspilning af udvalgte White Lion-sange, og er netop ikke meget for at genopfinde sig selv. Derfor må han tilbage i de stramme læderbukser for at give folk det, de gerne vil høre. I denne kabale kan du møde den producer, vi kalder for Vikar-Anne, mens hun går i rette med vores mandehørm og simpelthen modsætter sig patriarken pr. princip.
-Du kan også høre Mike Tramp synge på dansk. Og få svar på følgende spørgsmål:
-Drømte Mike sine drømme? Eller drømte de ham? Og hvis 'drømme er liv, fanget i baghold', hvor faldt Mike så i? Og hvad er det for en mærkelig bjørn, der har jaget ham gennem alle disse år?
-Hvad gik konceptet 'Mike Tramps School of Rock' ud på?
-Var det på turné med Ronalds Festival Tivoli, dengang hvor 70'ernes knallertdrenge kastede med æg, at Mabel og Mike valgte at sige: Goodbye Denmark!
-Hvad er forskellen på Mike Tramp og Steven Tyler? 
-Hvad skete der, da Mike Tramp hoppede på trampolin med Bruce Springsteen?
-Hvilket krydderi er Mike Tramp?
-Hvad er det for noget med, at Mike Tramps twitterprofil er falsk? 
-Hvor mange gange har henholdsvis ‘Vild med Dans’ og ‘Toppen af Poppen’ ringet? 
-Hvorfor er Mike flov over de andre rockbands krav til deres riders?
-Hvorfor ytrer Mike sig ikke om politik, når han hjemme i køkkenet er fyldt med holdninger?
-Hvad er det for en pagt, Mike har indgået med djævelen?
-Hvorfor siger Mike, at han ikke er forældremateriale, når han har tre børn? 
-Og ikke mindst: Hvorfor er Mike Tramp ikke skabt til den branche, han har levet i de sidste 46 år?
-Mød verdens bedste Mike Tramp, der helst fortæller sandheden og kun sandheden.</description>
-			<pubDate>Fri, 07 Apr 2023 17:22:38 +0200</pubDate>
-			<itunes:duration>1:19:06</itunes:duration>
-			<itunes:order>20230407172238</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/syvkabalen-mike-1</link>
+			<description>
+				<![CDATA[ Mike Tramp er ugens ærlige gæst, og som han siger om rock'n'roll-livet: 'It’s a way of life, more of the same! Den 62-årige legende er aktuel med en genindspilning af udvalgte White Lion-sange, og er netop ikke meget for at genopfinde sig selv. Derfor må han tilbage i de stramme læderbukser for at give folk det, de gerne vil høre. I denne kabale kan du møde den producer, vi kalder for Vikar-Anne, mens hun går i rette med vores mandehørm og simpelthen modsætter sig patriarken pr. princip.<br />Du kan også høre Mike Tramp synge på dansk. Og få svar på følgende spørgsmål:<br /><br />Drømte Mike sine drømme? Eller drømte de ham? Og hvis 'drømme er liv, fanget i baghold', hvor faldt Mike så i? Og hvad er det for en mærkelig bjørn, der har jaget ham gennem alle disse år?<br /><br />Hvad gik konceptet 'Mike Tramps School of Rock' ud på?<br /><br />Var det på turné med Ronalds Festival Tivoli, dengang hvor 70'ernes knallertdrenge kastede med æg, at Mabel og Mike valgte at sige: Goodbye Denmark!<br /><br />Hvad er forskellen på Mike Tramp og Steven Tyler? <br /><br />Hvad skete der, da Mike Tramp hoppede på trampolin med Bruce Springsteen?<br /><br />Hvilket krydderi er Mike Tramp?<br /><br />Hvad er det for noget med, at Mike Tramps twitterprofil er falsk? <br /><br />Hvor mange gange har henholdsvis ‘Vild med Dans’ og ‘Toppen af Poppen’ ringet? <br /><br />Hvorfor er Mike flov over de andre rockbands krav til deres riders?<br /><br />Hvorfor ytrer Mike sig ikke om politik, når han hjemme i køkkenet er fyldt med holdninger?<br /><br />Hvad er det for en pagt, Mike har indgået med djævelen?<br /><br />Hvorfor siger Mike, at han ikke er forældremateriale, når han har tre børn? <br /><br />Og ikke mindst: Hvorfor er Mike Tramp ikke skabt til den branche, han har levet i de sidste 46 år?<br /><br />Mød verdens bedste Mike Tramp, der helst fortæller sandheden og kun sandheden. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53472877</guid>
+			<pubDate>Fri, 07 Apr 2023 17:22:38 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53472877/syvkabalen_mike_1.mp3" length="113985455" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Mike Tramp er ugens ærlige gæst, og som han siger om rock'n'roll-livet: 'It’s a way of life, more of the same! Den 62-årige legende er aktuel med en genindspilning af udvalgte White Lion-sange, og er netop ikke meget for at genopfinde sig selv. Derfor...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Mike Tramp er ugens ærlige gæst, og som han siger om rock'n'roll-livet: 'It’s a way of life, more of the same! Den 62-årige legende er aktuel med en genindspilning af udvalgte White Lion-sange, og er netop ikke meget for at genopfinde sig selv. Derfor må han tilbage i de stramme læderbukser for at give folk det, de gerne vil høre. I denne kabale kan du møde den producer, vi kalder for Vikar-Anne, mens hun går i rette med vores mandehørm og simpelthen modsætter sig patriarken pr. princip.<br />Du kan også høre Mike Tramp synge på dansk. Og få svar på følgende spørgsmål:<br /><br />Drømte Mike sine drømme? Eller drømte de ham? Og hvis 'drømme er liv, fanget i baghold', hvor faldt Mike så i? Og hvad er det for en mærkelig bjørn, der har jaget ham gennem alle disse år?<br /><br />Hvad gik konceptet 'Mike Tramps School of Rock' ud på?<br /><br />Var det på turné med Ronalds Festival Tivoli, dengang hvor 70'ernes knallertdrenge kastede med æg, at Mabel og Mike valgte at sige: Goodbye Denmark!<br /><br />Hvad er forskellen på Mike Tramp og Steven Tyler? <br /><br />Hvad skete der, da Mike Tramp hoppede på trampolin med Bruce Springsteen?<br /><br />Hvilket krydderi er Mike Tramp?<br /><br />Hvad er det for noget med, at Mike Tramps twitterprofil er falsk? <br /><br />Hvor mange gange har henholdsvis ‘Vild med Dans’ og ‘Toppen af Poppen’ ringet? <br /><br />Hvorfor er Mike flov over de andre rockbands krav til deres riders?<br /><br />Hvorfor ytrer Mike sig ikke om politik, når han hjemme i køkkenet er fyldt med holdninger?<br /><br />Hvad er det for en pagt, Mike har indgået med djævelen?<br /><br />Hvorfor siger Mike, at han ikke er forældremateriale, når han har tre børn? <br /><br />Og ikke mindst: Hvorfor er Mike Tramp ikke skabt til den branche, han har levet i de sidste 46 år?<br /><br />Mød verdens bedste Mike Tramp, der helst fortæller sandheden og kun sandheden. ]]>
+			</itunes:summary>
+			<itunes:duration>4747</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Christine Feldthaus: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53403971/christine_feldthaus_time_2a.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53403971/christine_feldthaus_time_2a.mp3" length="3250000" type="audio/mpeg"/>
-			<description>Mensa Danmarks endnu ikke opdagede medlem - ’Christina og Rune’ fører samtalen i denne uges Syvkabale, hvor ’Christina’ aka feinschmecker Christine Feldthaus, livsstilsekspert, tv-vært og foredragsholder er gæst. Hun er strikkeentusiast med hang til ristede løg på sin leverpostej. En kvinde, der kender sin Riesling på duften af plaster, gagebind og opløsningsmidler. ’Christina og Rune’ taler om truckernosser i forruden og drag-dramaet på Frederiksberg Bibliotek. Boomer-mentaliteten, de 88 procent af danskerne, der ikke føler sig krænket, samt køb og salg af kvinders signaler i MeToo-diskussionen. Om Christines store liv på den europæiske fastlandssokkel, ensomhed og nummeret ’Ocean Drive’ af Duke Dumont, som skal høres, når hun tager en taxa hjem med en lille knaser på: ”Må jeg ikke høre den i taxaen, stiger jeg ud og prajer en ny.” Og så vil Christine Feldthaus gerne vide, hvorfor der bliver klippet i de programmer på DR, hun er med i, når de i Operarejsen godt må drikke sig fulde.
-Vært: René Fredensborg 
-Producer: Simon Porse 
-Assistent: Katinka M.G. Enselmann</description>
-			<pubDate>Fri, 31 Mar 2023 16:43:58 +0200</pubDate>
-			<itunes:duration>0:54:10</itunes:duration>
-			<itunes:order>20230331164358</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/christine-feldthaus-time-2a</link>
+			<description>
+				<![CDATA[ Mensa Danmarks endnu ikke opdagede medlem - ’Christina og Rune’ fører samtalen i denne uges Syvkabale, hvor ’Christina’ aka feinschmecker Christine Feldthaus, livsstilsekspert, tv-vært og foredragsholder er gæst. Hun er strikkeentusiast med hang til ristede løg på sin leverpostej. En kvinde, der kender sin Riesling på duften af plaster, gagebind og opløsningsmidler. ’Christina og Rune’ taler om truckernosser i forruden og drag-dramaet på Frederiksberg Bibliotek. Boomer-mentaliteten, de 88 procent af danskerne, der ikke føler sig krænket, samt køb og salg af kvinders signaler i MeToo-diskussionen. Om Christines store liv på den europæiske fastlandssokkel, ensomhed og nummeret ’Ocean Drive’ af Duke Dumont, som skal høres, når hun tager en taxa hjem med en lille knaser på: ”Må jeg ikke høre den i taxaen, stiger jeg ud og prajer en ny.” Og så vil Christine Feldthaus gerne vide, hvorfor der bliver klippet i de programmer på DR, hun er med i, når de i Operarejsen godt må drikke sig fulde.<br />Vært: René Fredensborg <br />Producer: Simon Porse <br />Assistent: Katinka M.G. Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53403971</guid>
+			<pubDate>Fri, 31 Mar 2023 16:43:58 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53403971/christine_feldthaus_time_2a.mp3" length="78070013" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Mensa Danmarks endnu ikke opdagede medlem - ’Christina og Rune’ fører samtalen i denne uges Syvkabale, hvor ’Christina’ aka feinschmecker Christine Feldthaus, livsstilsekspert, tv-vært og foredragsholder er gæst. Hun er strikkeentusiast med hang til...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Mensa Danmarks endnu ikke opdagede medlem - ’Christina og Rune’ fører samtalen i denne uges Syvkabale, hvor ’Christina’ aka feinschmecker Christine Feldthaus, livsstilsekspert, tv-vært og foredragsholder er gæst. Hun er strikkeentusiast med hang til ristede løg på sin leverpostej. En kvinde, der kender sin Riesling på duften af plaster, gagebind og opløsningsmidler. ’Christina og Rune’ taler om truckernosser i forruden og drag-dramaet på Frederiksberg Bibliotek. Boomer-mentaliteten, de 88 procent af danskerne, der ikke føler sig krænket, samt køb og salg af kvinders signaler i MeToo-diskussionen. Om Christines store liv på den europæiske fastlandssokkel, ensomhed og nummeret ’Ocean Drive’ af Duke Dumont, som skal høres, når hun tager en taxa hjem med en lille knaser på: ”Må jeg ikke høre den i taxaen, stiger jeg ud og prajer en ny.” Og så vil Christine Feldthaus gerne vide, hvorfor der bliver klippet i de programmer på DR, hun er med i, når de i Operarejsen godt må drikke sig fulde.<br />Vært: René Fredensborg <br />Producer: Simon Porse <br />Assistent: Katinka M.G. Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3251</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Christine Feldthaus: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53403969/christine_feldthaus_time_1a.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53403969/christine_feldthaus_time_1a.mp3" length="3230000" type="audio/mpeg"/>
-			<description>Mensa Danmarks endnu ikke opdagede medlem - ’Christina og Rune’ fører samtalen i denne uges Syvkabale, hvor ’Christina’ aka feinschmecker Christine Feldthaus, livsstilsekspert, tv-vært og foredragsholder er gæst. Hun er strikkeentusiast med hang til ristede løg på sin leverpostej. En kvinde, der kender sin Riesling på duften af plaster, gagebind og opløsningsmidler. ’Christina og Rune’ taler om truckernosser i forruden og drag-dramaet på Frederiksberg Bibliotek. Boomer-mentaliteten, de 88 procent af danskerne, der ikke føler sig krænket, samt køb og salg af kvinders signaler i MeToo-diskussionen. Om Christines store liv på den europæiske fastlandssokkel, ensomhed og nummeret ’Ocean Drive’ af Duke Dumont, som skal høres, når hun tager en taxa hjem med en lille knaser på: ”Må jeg ikke høre den i taxaen, stiger jeg ud og prajer en ny.” Og så vil Christine Feldthaus gerne vide, hvorfor der bliver klippet i de programmer på DR, hun er med i, når de i Operarejsen godt må drikke sig fulde.
-Vært: René Fredensborg 
-Producer: Simon Porse 
-Assistent: Katinka M.G. Enselmann</description>
-			<pubDate>Fri, 31 Mar 2023 16:43:52 +0200</pubDate>
-			<itunes:duration>0:53:50</itunes:duration>
-			<itunes:order>20230331164352</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/christine-feldthaus-time-1a</link>
+			<description>
+				<![CDATA[ Mensa Danmarks endnu ikke opdagede medlem - ’Christina og Rune’ fører samtalen i denne uges Syvkabale, hvor ’Christina’ aka feinschmecker Christine Feldthaus, livsstilsekspert, tv-vært og foredragsholder er gæst. Hun er strikkeentusiast med hang til ristede løg på sin leverpostej. En kvinde, der kender sin Riesling på duften af plaster, gagebind og opløsningsmidler. ’Christina og Rune’ taler om truckernosser i forruden og drag-dramaet på Frederiksberg Bibliotek. Boomer-mentaliteten, de 88 procent af danskerne, der ikke føler sig krænket, samt køb og salg af kvinders signaler i MeToo-diskussionen. Om Christines store liv på den europæiske fastlandssokkel, ensomhed og nummeret ’Ocean Drive’ af Duke Dumont, som skal høres, når hun tager en taxa hjem med en lille knaser på: ”Må jeg ikke høre den i taxaen, stiger jeg ud og prajer en ny.” Og så vil Christine Feldthaus gerne vide, hvorfor der bliver klippet i de programmer på DR, hun er med i, når de i Operarejsen godt må drikke sig fulde.<br />Vært: René Fredensborg <br />Producer: Simon Porse <br />Assistent: Katinka M.G. Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53403969</guid>
+			<pubDate>Fri, 31 Mar 2023 16:43:52 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53403969/christine_feldthaus_time_1a.mp3" length="77607959" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Mensa Danmarks endnu ikke opdagede medlem - ’Christina og Rune’ fører samtalen i denne uges Syvkabale, hvor ’Christina’ aka feinschmecker Christine Feldthaus, livsstilsekspert, tv-vært og foredragsholder er gæst. Hun er strikkeentusiast med hang til...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Mensa Danmarks endnu ikke opdagede medlem - ’Christina og Rune’ fører samtalen i denne uges Syvkabale, hvor ’Christina’ aka feinschmecker Christine Feldthaus, livsstilsekspert, tv-vært og foredragsholder er gæst. Hun er strikkeentusiast med hang til ristede løg på sin leverpostej. En kvinde, der kender sin Riesling på duften af plaster, gagebind og opløsningsmidler. ’Christina og Rune’ taler om truckernosser i forruden og drag-dramaet på Frederiksberg Bibliotek. Boomer-mentaliteten, de 88 procent af danskerne, der ikke føler sig krænket, samt køb og salg af kvinders signaler i MeToo-diskussionen. Om Christines store liv på den europæiske fastlandssokkel, ensomhed og nummeret ’Ocean Drive’ af Duke Dumont, som skal høres, når hun tager en taxa hjem med en lille knaser på: ”Må jeg ikke høre den i taxaen, stiger jeg ud og prajer en ny.” Og så vil Christine Feldthaus gerne vide, hvorfor der bliver klippet i de programmer på DR, hun er med i, når de i Operarejsen godt må drikke sig fulde.<br />Vært: René Fredensborg <br />Producer: Simon Porse <br />Assistent: Katinka M.G. Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3231</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Mads Ananda Lodahl: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53326624/mads_ananda_del_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53326624/mads_ananda_del_2.mp3" length="3228000" type="audio/mpeg"/>
-			<description>’I de tyve år jeg har arbejdet for mine rettigheder som bøsse, tror folk stadig, at bøsser har det godt i Danmark’ Mads Ananda Lodahl forfatter, tidligere debattør og kropsterapeut ser stadig ud som for ti år siden, hvor han sidst gæstede Syvkabalen. Her var han den første til at introducere René for begrebet heteronormativ. Der bliver talt om statsracisme, den blinde vinkel, bøssekærlighed i ’The last of Us’, kulturel hjemløshed, tiden i Queer Jihad, og det stadig at opleve chikane i sin hverdag. Der bliver SPOILED på Mads Anandas nyeste bog ’Soft boys’ - en samling af ti små noveller om det at være anderledes uden at have et label på sig. Netop det, at andre ser en som anderledes, oplever Mads Ananda Lodahl stadig hver dag. I bund og grund vil han bare have lov til at være i ’fucking fred’. Er det derfor, han er stoppet med at debattere? Vært: René Fredensborg, Producer: Marcus Eklund, Assistent: Katinka Enselmann</description>
-			<pubDate>Fri, 24 Mar 2023 17:09:26 +0100</pubDate>
-			<itunes:duration>0:53:48</itunes:duration>
-			<itunes:order>20230324170926</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/mads-ananda-del-2</link>
+			<description>
+				<![CDATA[ ’I de tyve år jeg har arbejdet for mine rettigheder som bøsse, tror folk stadig, at bøsser har det godt i Danmark’ Mads Ananda Lodahl forfatter, tidligere debattør og kropsterapeut ser stadig ud som for ti år siden, hvor han sidst gæstede Syvkabalen. Her var han den første til at introducere René for begrebet heteronormativ. Der bliver talt om statsracisme, den blinde vinkel, bøssekærlighed i ’The last of Us’, kulturel hjemløshed, tiden i Queer Jihad, og det stadig at opleve chikane i sin hverdag. Der bliver SPOILED på Mads Anandas nyeste bog ’Soft boys’ - en samling af ti små noveller om det at være anderledes uden at have et label på sig. Netop det, at andre ser en som anderledes, oplever Mads Ananda Lodahl stadig hver dag. I bund og grund vil han bare have lov til at være i ’fucking fred’. Er det derfor, han er stoppet med at debattere? Vært: René Fredensborg, Producer: Marcus Eklund, Assistent: Katinka Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53326624</guid>
+			<pubDate>Fri, 24 Mar 2023 17:09:26 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53326624/mads_ananda_del_2.mp3" length="77556672" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>’I de tyve år jeg har arbejdet for mine rettigheder som bøsse, tror folk stadig, at bøsser har det godt i Danmark’ Mads Ananda Lodahl forfatter, tidligere debattør og kropsterapeut ser stadig ud som for ti år siden, hvor han sidst gæstede Syvkabalen....</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ ’I de tyve år jeg har arbejdet for mine rettigheder som bøsse, tror folk stadig, at bøsser har det godt i Danmark’ Mads Ananda Lodahl forfatter, tidligere debattør og kropsterapeut ser stadig ud som for ti år siden, hvor han sidst gæstede Syvkabalen. Her var han den første til at introducere René for begrebet heteronormativ. Der bliver talt om statsracisme, den blinde vinkel, bøssekærlighed i ’The last of Us’, kulturel hjemløshed, tiden i Queer Jihad, og det stadig at opleve chikane i sin hverdag. Der bliver SPOILED på Mads Anandas nyeste bog ’Soft boys’ - en samling af ti små noveller om det at være anderledes uden at have et label på sig. Netop det, at andre ser en som anderledes, oplever Mads Ananda Lodahl stadig hver dag. I bund og grund vil han bare have lov til at være i ’fucking fred’. Er det derfor, han er stoppet med at debattere? Vært: René Fredensborg, Producer: Marcus Eklund, Assistent: Katinka Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3229</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Mads Ananda Lodahl: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53326586/syvkabalen_mads_lohdal_del_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53326586/syvkabalen_mads_lohdal_del_1.mp3" length="3233000" type="audio/mpeg"/>
-			<description>’I de tyve år jeg har arbejdet for mine rettigheder som bøsse, tror folk stadig, at bøsser har det godt i Danmark’ Mads Ananda Lodahl forfatter, tidligere debattør og kropsterapeut ser stadig ud som for ti år siden, hvor han sidst gæstede Syvkabalen. Her var han den første til at introducere René for begrebet heteronormativ. Der bliver talt om statsracisme, den blinde vinkel, bøssekærlighed i ’The last of Us’, kulturel hjemløshed, tiden i Queer Jihad, og det stadig at opleve chikane i sin hverdag. Der bliver SPOILED på Mads Anandas nyeste bog ’Soft boys’ - en samling af ti små noveller om det at være anderledes uden at have et label på sig. Netop det, at andre ser en som anderledes, oplever Mads Ananda Lodahl stadig hver dag. I bund og grund vil han bare have lov til at være i ’fucking fred’. Er det derfor, han er stoppet med at debattere? Vært: René Fredensborg, Producer: Marcus Eklund, Assistent: Katinka Enselmann</description>
-			<pubDate>Fri, 24 Mar 2023 17:03:24 +0100</pubDate>
-			<itunes:duration>0:53:53</itunes:duration>
-			<itunes:order>20230324170324</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/syvkabalen-mads-lohdal-del-1</link>
+			<description>
+				<![CDATA[ ’I de tyve år jeg har arbejdet for mine rettigheder som bøsse, tror folk stadig, at bøsser har det godt i Danmark’ Mads Ananda Lodahl forfatter, tidligere debattør og kropsterapeut ser stadig ud som for ti år siden, hvor han sidst gæstede Syvkabalen. Her var han den første til at introducere René for begrebet heteronormativ. Der bliver talt om statsracisme, den blinde vinkel, bøssekærlighed i ’The last of Us’, kulturel hjemløshed, tiden i Queer Jihad, og det stadig at opleve chikane i sin hverdag. Der bliver SPOILED på Mads Anandas nyeste bog ’Soft boys’ - en samling af ti små noveller om det at være anderledes uden at have et label på sig. Netop det, at andre ser en som anderledes, oplever Mads Ananda Lodahl stadig hver dag. I bund og grund vil han bare have lov til at være i ’fucking fred’. Er det derfor, han er stoppet med at debattere? Vært: René Fredensborg, Producer: Marcus Eklund, Assistent: Katinka Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53326586</guid>
+			<pubDate>Fri, 24 Mar 2023 17:03:24 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53326586/syvkabalen_mads_lohdal_del_1.mp3" length="77662656" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>’I de tyve år jeg har arbejdet for mine rettigheder som bøsse, tror folk stadig, at bøsser har det godt i Danmark’ Mads Ananda Lodahl forfatter, tidligere debattør og kropsterapeut ser stadig ud som for ti år siden, hvor han sidst gæstede Syvkabalen....</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ ’I de tyve år jeg har arbejdet for mine rettigheder som bøsse, tror folk stadig, at bøsser har det godt i Danmark’ Mads Ananda Lodahl forfatter, tidligere debattør og kropsterapeut ser stadig ud som for ti år siden, hvor han sidst gæstede Syvkabalen. Her var han den første til at introducere René for begrebet heteronormativ. Der bliver talt om statsracisme, den blinde vinkel, bøssekærlighed i ’The last of Us’, kulturel hjemløshed, tiden i Queer Jihad, og det stadig at opleve chikane i sin hverdag. Der bliver SPOILED på Mads Anandas nyeste bog ’Soft boys’ - en samling af ti små noveller om det at være anderledes uden at have et label på sig. Netop det, at andre ser en som anderledes, oplever Mads Ananda Lodahl stadig hver dag. I bund og grund vil han bare have lov til at være i ’fucking fred’. Er det derfor, han er stoppet med at debattere? Vært: René Fredensborg, Producer: Marcus Eklund, Assistent: Katinka Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3234</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Peder Frederik Jensen: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53238187/peder_frederik_jensen_del_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53238187/peder_frederik_jensen_del_2.mp3" length="3239000" type="audio/mpeg"/>
-			<description>”Danmark er en Mariekiks i et glas vand”  Siger denne uges gæst forfatter og bådebygger, Peder Frederik Jensen. Vi kommer omkring klimapsykologi, naturblindhed og den jyske rejsning. Om hvor nemt det er at gøre grin med folk, der lænker sig fast til et træ på Amager Fælled. At blive dømt for at besætte Øresundsforbindelsens byggeplads på Amager og derefter give en buket blomster til politiet. Unges insisteren på sårbarhed, folkets klagesang og forskellen på miljø og klima. Bådebyggeriets forsvinden og andre ting, der går tabt. Vi taler om magtens korridorer, narcissistisk depression, Peders første hardback indbundne bog – og selvfølgelig også Renés. Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka M.G. Enselmann</description>
-			<pubDate>Fri, 17 Mar 2023 17:10:43 +0100</pubDate>
-			<itunes:duration>0:53:59</itunes:duration>
-			<itunes:order>20230317171043</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/peder-frederik-jensen-del-2</link>
+			<description>
+				<![CDATA[ ”Danmark er en Mariekiks i et glas vand” Siger denne uges gæst forfatter og bådebygger, Peder Frederik Jensen. Vi kommer omkring klimapsykologi, naturblindhed og den jyske rejsning. Om hvor nemt det er at gøre grin med folk, der lænker sig fast til et træ på Amager Fælled. At blive dømt for at besætte Øresundsforbindelsens byggeplads på Amager og derefter give en buket blomster til politiet. Unges insisteren på sårbarhed, folkets klagesang og forskellen på miljø og klima. Bådebyggeriets forsvinden og andre ting, der går tabt. Vi taler om magtens korridorer, narcissistisk depression, Peders første hardback indbundne bog – og selvfølgelig også Renés. Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka M.G. Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53238187</guid>
+			<pubDate>Fri, 17 Mar 2023 17:10:43 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53238187/peder_frederik_jensen_del_2.mp3" length="77811264" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>”Danmark er en Mariekiks i et glas vand” Siger denne uges gæst forfatter og bådebygger, Peder Frederik Jensen. Vi kommer omkring klimapsykologi, naturblindhed og den jyske rejsning. Om hvor nemt det er at gøre grin med folk, der lænker sig fast til...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ ”Danmark er en Mariekiks i et glas vand” Siger denne uges gæst forfatter og bådebygger, Peder Frederik Jensen. Vi kommer omkring klimapsykologi, naturblindhed og den jyske rejsning. Om hvor nemt det er at gøre grin med folk, der lænker sig fast til et træ på Amager Fælled. At blive dømt for at besætte Øresundsforbindelsens byggeplads på Amager og derefter give en buket blomster til politiet. Unges insisteren på sårbarhed, folkets klagesang og forskellen på miljø og klima. Bådebyggeriets forsvinden og andre ting, der går tabt. Vi taler om magtens korridorer, narcissistisk depression, Peders første hardback indbundne bog – og selvfølgelig også Renés. Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka M.G. Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3240</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Peder Frederik Jensen: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53238114/peder_frederik_jensen_del_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53238114/peder_frederik_jensen_del_1.mp3" length="3236000" type="audio/mpeg"/>
-			<description>”Danmark er en Mariekiks i et glas vand” Siger denne uges gæst forfatter og bådebygger, Peder Frederik Jensen. Vi kommer omkring klimapsykologi, naturblindhed og den jyske rejsning. Om hvor nemt det er at gøre grin med folk, der lænker sig fast til et træ på Amager Fælled. At blive dømt for at besætte Øresundsforbindelsens byggeplads på Amager og derefter give en buket blomster til politiet. Unges insisteren på sårbarhed, folkets klagesang og forskellen på miljø og klima. Bådebyggeriets forsvinden og andre ting, der går tabt. Vi taler om magtens korridorer, narcissistisk depression, Peders første hardback indbundne bog – og selvfølgelig også Renés. Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka M.G. Enselmann</description>
-			<pubDate>Fri, 17 Mar 2023 17:05:50 +0100</pubDate>
-			<itunes:duration>0:53:56</itunes:duration>
-			<itunes:order>20230317170550</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/peder-frederik-jensen-del-1</link>
+			<description>
+				<![CDATA[ ”Danmark er en Mariekiks i et glas vand” Siger denne uges gæst forfatter og bådebygger, Peder Frederik Jensen. Vi kommer omkring klimapsykologi, naturblindhed og den jyske rejsning. Om hvor nemt det er at gøre grin med folk, der lænker sig fast til et træ på Amager Fælled. At blive dømt for at besætte Øresundsforbindelsens byggeplads på Amager og derefter give en buket blomster til politiet. Unges insisteren på sårbarhed, folkets klagesang og forskellen på miljø og klima. Bådebyggeriets forsvinden og andre ting, der går tabt. Vi taler om magtens korridorer, narcissistisk depression, Peders første hardback indbundne bog – og selvfølgelig også Renés. Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka M.G. Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53238114</guid>
+			<pubDate>Fri, 17 Mar 2023 17:05:50 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53238114/peder_frederik_jensen_del_1.mp3" length="77751360" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>”Danmark er en Mariekiks i et glas vand” Siger denne uges gæst forfatter og bådebygger, Peder Frederik Jensen. Vi kommer omkring klimapsykologi, naturblindhed og den jyske rejsning. Om hvor nemt det er at gøre grin med folk, der lænker sig fast til et...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ ”Danmark er en Mariekiks i et glas vand” Siger denne uges gæst forfatter og bådebygger, Peder Frederik Jensen. Vi kommer omkring klimapsykologi, naturblindhed og den jyske rejsning. Om hvor nemt det er at gøre grin med folk, der lænker sig fast til et træ på Amager Fælled. At blive dømt for at besætte Øresundsforbindelsens byggeplads på Amager og derefter give en buket blomster til politiet. Unges insisteren på sårbarhed, folkets klagesang og forskellen på miljø og klima. Bådebyggeriets forsvinden og andre ting, der går tabt. Vi taler om magtens korridorer, narcissistisk depression, Peders første hardback indbundne bog – og selvfølgelig også Renés. Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka M.G. Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3237</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Ibi-Pippi: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53215040/ibi_pippi_del_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53215040/ibi_pippi_del_2.mp3" length="3173000" type="audio/mpeg"/>
-			<description>Ibi-Pippi synes også selv, Ibi-Pippi skal straffes for sit kunstneriske hærværk på Museum Jorn. Men ikke med halvandet års fængsel, for han/hun har aldrig før fået så lidt som en p-bøde. Mød ugens mest omtalte provokunstner i en meget åbenhjertig ekstra-kabale, hvor den 45-årige far til otte børn ikke lægger skjul på, at han/hun både er sjuft og bums og lesbisk kvinde inden i. Hør om andre værker såsom 'simuleret samleje med Iphone 6 i Føtex i Viborg'. Eller dengang, Ibi Pippi blendede og drak det døde foster, han selv var far til. Hvorfor? Hvad vil han? Er der en mening med galskaben? Og hvad er det for noget med, at dengang Ibi hed Per og kun var 12 år, blev han efterladt helt alene i sin mors hus? Faderen var død. Moderen flyttede hjem til sin nye kæreste. Per voksede op uden voksne omkring sig og blev siden til Ibi-Pippi. Siden har han/hun kæmpet med angsten for at miste, følt sig som en evig outsider og erkendt, at dæmonerne sagtens kan være ens drivkraft. Vært: René Fredensborg &amp;amp; Producer: Marcus Eklund</description>
-			<pubDate>Wed, 15 Mar 2023 19:08:37 +0100</pubDate>
-			<itunes:duration>0:52:53</itunes:duration>
-			<itunes:order>20230315190837</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/ibi-pippi-del-2</link>
+			<description>
+				<![CDATA[ Ibi-Pippi synes også selv, Ibi-Pippi skal straffes for sit kunstneriske hærværk på Museum Jorn. Men ikke med halvandet års fængsel, for han/hun har aldrig før fået så lidt som en p-bøde. Mød ugens mest omtalte provokunstner i en meget åbenhjertig ekstra-kabale, hvor den 45-årige far til otte børn ikke lægger skjul på, at han/hun både er sjuft og bums og lesbisk kvinde inden i. Hør om andre værker såsom 'simuleret samleje med Iphone 6 i Føtex i Viborg'. Eller dengang, Ibi Pippi blendede og drak det døde foster, han selv var far til. Hvorfor? Hvad vil han? Er der en mening med galskaben? Og hvad er det for noget med, at dengang Ibi hed Per og kun var 12 år, blev han efterladt helt alene i sin mors hus? Faderen var død. Moderen flyttede hjem til sin nye kæreste. Per voksede op uden voksne omkring sig og blev siden til Ibi-Pippi. Siden har han/hun kæmpet med angsten for at miste, følt sig som en evig outsider og erkendt, at dæmonerne sagtens kan være ens drivkraft. Vært: René Fredensborg &amp; Producer: Marcus Eklund<br /> ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53215040</guid>
+			<pubDate>Wed, 15 Mar 2023 19:08:37 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53215040/ibi_pippi_del_2.mp3" length="127023744" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Ibi-Pippi synes også selv, Ibi-Pippi skal straffes for sit kunstneriske hærværk på Museum Jorn. Men ikke med halvandet års fængsel, for han/hun har aldrig før fået så lidt som en p-bøde. Mød ugens mest omtalte provokunstner i en meget åbenhjertig...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Ibi-Pippi synes også selv, Ibi-Pippi skal straffes for sit kunstneriske hærværk på Museum Jorn. Men ikke med halvandet års fængsel, for han/hun har aldrig før fået så lidt som en p-bøde. Mød ugens mest omtalte provokunstner i en meget åbenhjertig ekstra-kabale, hvor den 45-årige far til otte børn ikke lægger skjul på, at han/hun både er sjuft og bums og lesbisk kvinde inden i. Hør om andre værker såsom 'simuleret samleje med Iphone 6 i Føtex i Viborg'. Eller dengang, Ibi Pippi blendede og drak det døde foster, han selv var far til. Hvorfor? Hvad vil han? Er der en mening med galskaben? Og hvad er det for noget med, at dengang Ibi hed Per og kun var 12 år, blev han efterladt helt alene i sin mors hus? Faderen var død. Moderen flyttede hjem til sin nye kæreste. Per voksede op uden voksne omkring sig og blev siden til Ibi-Pippi. Siden har han/hun kæmpet med angsten for at miste, følt sig som en evig outsider og erkendt, at dæmonerne sagtens kan være ens drivkraft. Vært: René Fredensborg &amp; Producer: Marcus Eklund<br /> ]]>
+			</itunes:summary>
+			<itunes:duration>3174</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Ibi-Pippi: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53215031/ibi_pippi_del_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53215031/ibi_pippi_del_1.mp3" length="3763000" type="audio/mpeg"/>
-			<description>Ibi-Pippi synes også selv, Ibi-Pippi skal straffes for sit kunstneriske hærværk på Museum Jorn. Men ikke med halvandet års fængsel, for han/hun har aldrig før fået så lidt som en p-bøde. Mød ugens mest omtalte provokunstner i en meget åbenhjertig ekstra-kabale, hvor den 45-årige far til otte børn ikke lægger skjul på, at han/hun både er sjuft og bums og lesbisk kvinde inden i. Hør om andre værker såsom 'simuleret samleje med Iphone 6 i Føtex i Viborg'. Eller dengang, Ibi Pippi blendede og drak det døde foster, han selv var far til. Hvorfor? Hvad vil han? Er der en mening med galskaben? Og hvad er det for noget med, at dengang Ibi hed Per og kun var 12 år, blev han efterladt helt alene i sin mors hus? Faderen var død. Moderen flyttede hjem til sin nye kæreste. Per voksede op uden voksne omkring sig og blev siden til Ibi-Pippi. Siden har han/hun kæmpet med angsten for at miste, følt sig som en evig outsider og erkendt, at dæmonerne sagtens kan være ens drivkraft. Vært: René Fredensborg &amp;amp; Producer: Marcus Eklund</description>
-			<pubDate>Wed, 15 Mar 2023 19:07:29 +0100</pubDate>
-			<itunes:duration>1:02:43</itunes:duration>
-			<itunes:order>20230315190729</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/ibi-pippi-del-1</link>
+			<description>
+				<![CDATA[ <br />Ibi-Pippi synes også selv, Ibi-Pippi skal straffes for sit kunstneriske hærværk på Museum Jorn. Men ikke med halvandet års fængsel, for han/hun har aldrig før fået så lidt som en p-bøde. Mød ugens mest omtalte provokunstner i en meget åbenhjertig ekstra-kabale, hvor den 45-årige far til otte børn ikke lægger skjul på, at han/hun både er sjuft og bums og lesbisk kvinde inden i. Hør om andre værker såsom 'simuleret samleje med Iphone 6 i Føtex i Viborg'. Eller dengang, Ibi Pippi blendede og drak det døde foster, han selv var far til. Hvorfor? Hvad vil han? Er der en mening med galskaben? Og hvad er det for noget med, at dengang Ibi hed Per og kun var 12 år, blev han efterladt helt alene i sin mors hus? Faderen var død. Moderen flyttede hjem til sin nye kæreste. Per voksede op uden voksne omkring sig og blev siden til Ibi-Pippi. Siden har han/hun kæmpet med angsten for at miste, følt sig som en evig outsider og erkendt, at dæmonerne sagtens kan være ens drivkraft. Vært: René Fredensborg &amp; Producer: Marcus Eklund<br /><br /><br /><br /><br /><br /> ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53215031</guid>
+			<pubDate>Wed, 15 Mar 2023 19:07:29 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53215031/ibi_pippi_del_1.mp3" length="150586944" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Ibi-Pippi synes også selv, Ibi-Pippi skal straffes for sit kunstneriske hærværk på Museum Jorn. Men ikke med halvandet års fængsel, for han/hun har aldrig før fået så lidt som en p-bøde. Mød ugens mest omtalte provokunstner i en meget åbenhjertig...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ <br />Ibi-Pippi synes også selv, Ibi-Pippi skal straffes for sit kunstneriske hærværk på Museum Jorn. Men ikke med halvandet års fængsel, for han/hun har aldrig før fået så lidt som en p-bøde. Mød ugens mest omtalte provokunstner i en meget åbenhjertig ekstra-kabale, hvor den 45-årige far til otte børn ikke lægger skjul på, at han/hun både er sjuft og bums og lesbisk kvinde inden i. Hør om andre værker såsom 'simuleret samleje med Iphone 6 i Føtex i Viborg'. Eller dengang, Ibi Pippi blendede og drak det døde foster, han selv var far til. Hvorfor? Hvad vil han? Er der en mening med galskaben? Og hvad er det for noget med, at dengang Ibi hed Per og kun var 12 år, blev han efterladt helt alene i sin mors hus? Faderen var død. Moderen flyttede hjem til sin nye kæreste. Per voksede op uden voksne omkring sig og blev siden til Ibi-Pippi. Siden har han/hun kæmpet med angsten for at miste, følt sig som en evig outsider og erkendt, at dæmonerne sagtens kan være ens drivkraft. Vært: René Fredensborg &amp; Producer: Marcus Eklund<br /><br /><br /><br /><br /><br /> ]]>
+			</itunes:summary>
+			<itunes:duration>3764</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Tobias Lindholm: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53160216/tobias_lindholm_del_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53160216/tobias_lindholm_del_2.mp3" length="3229000" type="audio/mpeg"/>
-			<description>Svømmehallen i Helsinge. I pensionistbassinet med det varme vand. Her mødte René, filmmagikeren Tobias Lindholm og inviterede ham ind som denne uges gæst i Syvkabalen. Sidst Tobias gæstede programmet, var præcis for ni år siden på netop denne dato. I et tipsy moment kommer de to herrer ind på det at kvitte alkohol i et par måneder, når man har skrevet en film, der hedder Druk. At arbejde sammen med toppen af poppen i amerikansk filmindustri og alligevel være i tvivl om, man er god nok. At køre rundt i en Uber med en flaske whisky i hånden og bestille for ”500 kroners Pittsburgh”. At gøre oprør med strukturerne i filmbranchen. At blive sine sønners far, i stedet for at være sin fars søn. Om at give slip på sin bagage, og om at spare sammen i flere år for at indfri drømmen og flytte til New York. Oprindeligt skrev Tobias Lindholm en roman, som i dag ligger henslængt i en IKEA-kasse. Den roman læste Kim Leona, leder af manuskriptuddannelsen på Den Danske Filmskole, og opfordrede ham til at søge ind på manuskriptuddannelsen. I dag har Tobias Lindholm været inviteret til det prestigefyldte Oscar-uddeling hele tre gange. Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka Enselmann</description>
-			<pubDate>Fri, 10 Mar 2023 17:17:41 +0100</pubDate>
-			<itunes:duration>0:53:49</itunes:duration>
-			<itunes:order>20230310171741</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/tobias-lindholm-del-2</link>
+			<description>
+				<![CDATA[ Svømmehallen i Helsinge. I pensionistbassinet med det varme vand. Her mødte René, filmmagikeren Tobias Lindholm og inviterede ham ind som denne uges gæst i Syvkabalen. Sidst Tobias gæstede programmet, var præcis for ni år siden på netop denne dato. I et tipsy moment kommer de to herrer ind på det at kvitte alkohol i et par måneder, når man har skrevet en film, der hedder Druk. At arbejde sammen med toppen af poppen i amerikansk filmindustri og alligevel være i tvivl om, man er god nok. At køre rundt i en Uber med en flaske whisky i hånden og bestille for ”500 kroners Pittsburgh”. At gøre oprør med strukturerne i filmbranchen. At blive sine sønners far, i stedet for at være sin fars søn. Om at give slip på sin bagage, og om at spare sammen i flere år for at indfri drømmen og flytte til New York. Oprindeligt skrev Tobias Lindholm en roman, som i dag ligger henslængt i en IKEA-kasse. Den roman læste Kim Leona, leder af manuskriptuddannelsen på Den Danske Filmskole, og opfordrede ham til at søge ind på manuskriptuddannelsen. I dag har Tobias Lindholm været inviteret til det prestigefyldte Oscar-uddeling hele tre gange. Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53160216</guid>
+			<pubDate>Fri, 10 Mar 2023 17:17:41 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53160216/tobias_lindholm_del_2.mp3" length="77583168" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Svømmehallen i Helsinge. I pensionistbassinet med det varme vand. Her mødte René, filmmagikeren Tobias Lindholm og inviterede ham ind som denne uges gæst i Syvkabalen. Sidst Tobias gæstede programmet, var præcis for ni år siden på netop denne dato. I...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Svømmehallen i Helsinge. I pensionistbassinet med det varme vand. Her mødte René, filmmagikeren Tobias Lindholm og inviterede ham ind som denne uges gæst i Syvkabalen. Sidst Tobias gæstede programmet, var præcis for ni år siden på netop denne dato. I et tipsy moment kommer de to herrer ind på det at kvitte alkohol i et par måneder, når man har skrevet en film, der hedder Druk. At arbejde sammen med toppen af poppen i amerikansk filmindustri og alligevel være i tvivl om, man er god nok. At køre rundt i en Uber med en flaske whisky i hånden og bestille for ”500 kroners Pittsburgh”. At gøre oprør med strukturerne i filmbranchen. At blive sine sønners far, i stedet for at være sin fars søn. Om at give slip på sin bagage, og om at spare sammen i flere år for at indfri drømmen og flytte til New York. Oprindeligt skrev Tobias Lindholm en roman, som i dag ligger henslængt i en IKEA-kasse. Den roman læste Kim Leona, leder af manuskriptuddannelsen på Den Danske Filmskole, og opfordrede ham til at søge ind på manuskriptuddannelsen. I dag har Tobias Lindholm været inviteret til det prestigefyldte Oscar-uddeling hele tre gange. Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3230</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Tobias Lindholm: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53160189/tobias_lindholm_del_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53160189/tobias_lindholm_del_1.mp3" length="3231000" type="audio/mpeg"/>
-			<description>Svømmehallen i Helsinge. I pensionistbassinet med det varme vand. Her mødte René, filmmagikeren Tobias Lindholm og inviterede ham ind som denne uges gæst i Syvkabalen. Sidst Tobias gæstede programmet, var præcis for ni år siden på netop denne dato. I et tipsy moment kommer de to herrer ind på det at kvitte alkohol i et par måneder, når man har skrevet en film, der hedder Druk. At arbejde sammen med toppen af poppen i amerikansk filmindustri og alligevel være i tvivl om, man er god nok. At køre rundt i en Uber med en flaske whisky i hånden og bestille for ”500 kroners Pittsburgh”. At gøre oprør med strukturerne i filmbranchen. At blive sine sønners far, i stedet for at være sin fars søn. Om at give slip på sin bagage, og om at spare sammen i flere år for at indfri drømmen og flytte til New York. Oprindeligt skrev Tobias Lindholm en roman, som i dag ligger henslængt i en IKEA-kasse. Den roman læste Kim Leona, leder af manuskriptuddannelsen på Den Danske Filmskole, og opfordrede ham til at søge ind på manuskriptuddannelsen. I dag har Tobias Lindholm været inviteret til det prestigefyldte Oscar-uddeling hele tre gange. Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka Enselmann</description>
-			<pubDate>Fri, 10 Mar 2023 17:13:34 +0100</pubDate>
-			<itunes:duration>0:53:51</itunes:duration>
-			<itunes:order>20230310171334</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/tobias-lindholm-del-1</link>
+			<description>
+				<![CDATA[ Svømmehallen i Helsinge. I pensionistbassinet med det varme vand. Her mødte René, filmmagikeren Tobias Lindholm og inviterede ham ind som denne uges gæst i Syvkabalen. Sidst Tobias gæstede programmet, var præcis for ni år siden på netop denne dato. I et tipsy moment kommer de to herrer ind på det at kvitte alkohol i et par måneder, når man har skrevet en film, der hedder Druk. At arbejde sammen med toppen af poppen i amerikansk filmindustri og alligevel være i tvivl om, man er god nok. At køre rundt i en Uber med en flaske whisky i hånden og bestille for ”500 kroners Pittsburgh”. At gøre oprør med strukturerne i filmbranchen. At blive sine sønners far, i stedet for at være sin fars søn. Om at give slip på sin bagage, og om at spare sammen i flere år for at indfri drømmen og flytte til New York. Oprindeligt skrev Tobias Lindholm en roman, som i dag ligger henslængt i en IKEA-kasse. Den roman læste Kim Leona, leder af manuskriptuddannelsen på Den Danske Filmskole, og opfordrede ham til at søge ind på manuskriptuddannelsen. I dag har Tobias Lindholm været inviteret til det prestigefyldte Oscar-uddeling hele tre gange. Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53160189</guid>
+			<pubDate>Fri, 10 Mar 2023 17:13:34 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53160189/tobias_lindholm_del_1.mp3" length="77632128" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Svømmehallen i Helsinge. I pensionistbassinet med det varme vand. Her mødte René, filmmagikeren Tobias Lindholm og inviterede ham ind som denne uges gæst i Syvkabalen. Sidst Tobias gæstede programmet, var præcis for ni år siden på netop denne dato. I...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Svømmehallen i Helsinge. I pensionistbassinet med det varme vand. Her mødte René, filmmagikeren Tobias Lindholm og inviterede ham ind som denne uges gæst i Syvkabalen. Sidst Tobias gæstede programmet, var præcis for ni år siden på netop denne dato. I et tipsy moment kommer de to herrer ind på det at kvitte alkohol i et par måneder, når man har skrevet en film, der hedder Druk. At arbejde sammen med toppen af poppen i amerikansk filmindustri og alligevel være i tvivl om, man er god nok. At køre rundt i en Uber med en flaske whisky i hånden og bestille for ”500 kroners Pittsburgh”. At gøre oprør med strukturerne i filmbranchen. At blive sine sønners far, i stedet for at være sin fars søn. Om at give slip på sin bagage, og om at spare sammen i flere år for at indfri drømmen og flytte til New York. Oprindeligt skrev Tobias Lindholm en roman, som i dag ligger henslængt i en IKEA-kasse. Den roman læste Kim Leona, leder af manuskriptuddannelsen på Den Danske Filmskole, og opfordrede ham til at søge ind på manuskriptuddannelsen. I dag har Tobias Lindholm været inviteret til det prestigefyldte Oscar-uddeling hele tre gange. Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3232</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Finn Nørbygaard: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53085429/finn_n_rbygaard_del_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53085429/finn_n_rbygaard_del_2.mp3" length="3230000" type="audio/mpeg"/>
-			<description>’Det er den ultimative hanløve på sletten, der brøler’ Den influenzaramte Finn Nørbygaard er gæst i denne uges Syvkabale. Aldrig har det 70-årige multimenneske følt sig mere frisk. For halvandet år siden var han på vej til et foredrag i Hobro, og pludselig ramte det ham: ’Kroppen er konge, og den bestemmer’. Siden da har han trænet hver morgen. Af samme årsag får Mikael Bertelsen først lov til at ringe om 20 år. Finn har været alt fra skolelærer, Danmarks komiker darling, millionær og konkurs. I dag lever han af foredrag og psykoterapi, men er det i bund og grund et skalkeskjul for eget lavt selvværd? Hvor meget ligner Finn rollen i sit nylige comeback i DR’s tv-serie Guru? Får en komiker først sin anerkendelse, når han holder fast i sine dæmoner? Finn vil gerne have en kæreste – på et tidspunkt! Så dækker du behovet for hudsult og holder krampagtigt fast i at have din egen økonomi? Så lyt med i denne uges udgave af Syvkabalen! Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka Enselmann</description>
-			<pubDate>Fri, 03 Mar 2023 17:08:15 +0100</pubDate>
-			<itunes:duration>0:53:50</itunes:duration>
-			<itunes:order>20230303170815</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/finn-noerbygaard-del-2</link>
+			<description>
+				<![CDATA[ <br /><br /><br /><b>’Det er den ultimative hanløve på sletten, der brøler’ </b>Den influenzaramte Finn Nørbygaard er gæst i denne uges Syvkabale. Aldrig har det 70-årige multimenneske følt sig mere frisk. For halvandet år siden var han på vej til et foredrag i Hobro, og pludselig ramte det ham: ’Kroppen er konge, og den bestemmer’. Siden da har han trænet hver morgen. Af samme årsag får Mikael Bertelsen først lov til at ringe om 20 år. Finn har været alt fra skolelærer, Danmarks komiker darling, millionær og konkurs. I dag lever han af foredrag og psykoterapi, men er det i bund og grund et skalkeskjul for eget lavt selvværd? Hvor meget ligner Finn rollen i sit nylige comeback i DR’s tv-serie Guru? Får en komiker først sin anerkendelse, når han holder fast i sine dæmoner? Finn vil gerne have en kæreste – på et tidspunkt! Så dækker du behovet for hudsult og holder krampagtigt fast i at have din egen økonomi? Så lyt med i denne uges udgave af Syvkabalen! Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka Enselmann<br /><br /><br /><br /><br /> ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53085429</guid>
+			<pubDate>Fri, 03 Mar 2023 17:08:15 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53085429/finn_n_rbygaard_del_2.mp3" length="77600448" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>’Det er den ultimative hanløve på sletten, der brøler’ Den influenzaramte Finn Nørbygaard er gæst i denne uges Syvkabale. Aldrig har det 70-årige multimenneske følt sig mere frisk. For halvandet år siden var han på vej til et foredrag i Hobro, og...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ <br /><br /><br /><b>’Det er den ultimative hanløve på sletten, der brøler’ </b>Den influenzaramte Finn Nørbygaard er gæst i denne uges Syvkabale. Aldrig har det 70-årige multimenneske følt sig mere frisk. For halvandet år siden var han på vej til et foredrag i Hobro, og pludselig ramte det ham: ’Kroppen er konge, og den bestemmer’. Siden da har han trænet hver morgen. Af samme årsag får Mikael Bertelsen først lov til at ringe om 20 år. Finn har været alt fra skolelærer, Danmarks komiker darling, millionær og konkurs. I dag lever han af foredrag og psykoterapi, men er det i bund og grund et skalkeskjul for eget lavt selvværd? Hvor meget ligner Finn rollen i sit nylige comeback i DR’s tv-serie Guru? Får en komiker først sin anerkendelse, når han holder fast i sine dæmoner? Finn vil gerne have en kæreste – på et tidspunkt! Så dækker du behovet for hudsult og holder krampagtigt fast i at have din egen økonomi? Så lyt med i denne uges udgave af Syvkabalen! Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka Enselmann<br /><br /><br /><br /><br /> ]]>
+			</itunes:summary>
+			<itunes:duration>3231</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Finn Nørbygaard: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/53085374/finn_n_rbygaard_del_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/53085374/finn_n_rbygaard_del_1.mp3" length="3228000" type="audio/mpeg"/>
-			<description>’Det er den ultimative hanløve på sletten, der brøler’ Den influenzaramte Finn Nørbygaard er gæst i denne uges Syvkabale. Aldrig har det 70-årige multimenneske følt sig mere frisk. For halvandet år siden var han på vej til et foredrag i Hobro, og pludselig ramte det ham: ’Kroppen er konge, og den bestemmer’. Siden da har han trænet hver morgen. Af samme årsag får Mikael Bertelsen først lov til at ringe om 20 år. Finn har været alt fra skolelærer, Danmarks komiker darling, millionær og konkurs. I dag lever han af foredrag og psykoterapi, men er det i bund og grund et skalkeskjul for eget lavt selvværd? Hvor meget ligner Finn rollen i sit nylige comeback i DR’s tv-serie Guru? Får en komiker først sin anerkendelse, når han holder fast i sine dæmoner? Finn vil gerne have en kæreste – på et tidspunkt! Så dækker du behovet for hudsult og holder krampagtigt fast i at have din egen økonomi? Så lyt med i denne uges udgave af Syvkabalen! Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka Enselmann</description>
-			<pubDate>Fri, 03 Mar 2023 17:03:22 +0100</pubDate>
-			<itunes:duration>0:53:48</itunes:duration>
-			<itunes:order>20230303170322</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/finn-noerbygaard-del-1</link>
+			<description>
+				<![CDATA[ <br /><b>’Det er den ultimative hanløve på sletten, der brøler’ </b>Den influenzaramte Finn Nørbygaard er gæst i denne uges Syvkabale. Aldrig har det 70-årige multimenneske følt sig mere frisk. For halvandet år siden var han på vej til et foredrag i Hobro, og pludselig ramte det ham: ’Kroppen er konge, og den bestemmer’. Siden da har han trænet hver morgen. Af samme årsag får Mikael Bertelsen først lov til at ringe om 20 år. Finn har været alt fra skolelærer, Danmarks komiker darling, millionær og konkurs. I dag lever han af foredrag og psykoterapi, men er det i bund og grund et skalkeskjul for eget lavt selvværd? Hvor meget ligner Finn rollen i sit nylige comeback i DR’s tv-serie Guru? Får en komiker først sin anerkendelse, når han holder fast i sine dæmoner? Finn vil gerne have en kæreste – på et tidspunkt! Så dækker du behovet for hudsult og holder krampagtigt fast i at have din egen økonomi? Så lyt med i denne uges udgave af Syvkabalen! Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka Enselmann<br /><br /><br /><br /><br /> ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/53085374</guid>
+			<pubDate>Fri, 03 Mar 2023 17:03:22 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/53085374/finn_n_rbygaard_del_1.mp3" length="77554944" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>’Det er den ultimative hanløve på sletten, der brøler’ Den influenzaramte Finn Nørbygaard er gæst i denne uges Syvkabale. Aldrig har det 70-årige multimenneske følt sig mere frisk. For halvandet år siden var han på vej til et foredrag i Hobro, og...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ <br /><b>’Det er den ultimative hanløve på sletten, der brøler’ </b>Den influenzaramte Finn Nørbygaard er gæst i denne uges Syvkabale. Aldrig har det 70-årige multimenneske følt sig mere frisk. For halvandet år siden var han på vej til et foredrag i Hobro, og pludselig ramte det ham: ’Kroppen er konge, og den bestemmer’. Siden da har han trænet hver morgen. Af samme årsag får Mikael Bertelsen først lov til at ringe om 20 år. Finn har været alt fra skolelærer, Danmarks komiker darling, millionær og konkurs. I dag lever han af foredrag og psykoterapi, men er det i bund og grund et skalkeskjul for eget lavt selvværd? Hvor meget ligner Finn rollen i sit nylige comeback i DR’s tv-serie Guru? Får en komiker først sin anerkendelse, når han holder fast i sine dæmoner? Finn vil gerne have en kæreste – på et tidspunkt! Så dækker du behovet for hudsult og holder krampagtigt fast i at have din egen økonomi? Så lyt med i denne uges udgave af Syvkabalen! Vært: René Fredensborg Producer: Marcus Eklund Assistent: Katinka Enselmann<br /><br /><br /><br /><br /> ]]>
+			</itunes:summary>
+			<itunes:duration>3229</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Søren Grinderslev: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52840639/s_ren_del_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52840639/s_ren_del_2.mp3" length="3233000" type="audio/mpeg"/>
-			<description>’Jeg har truffet alle de forkerte valg og haft alle de forkerte holdninger!’ Søren Grinderslev Hansen, autodidakt manuskriptforfatter, komponist, klipper og instruktør, islamkritiker og tidligere folketingskandidat for Stram Kurs i er ugens gæst. Han kom ind af bagdøren i filmbranchen som 15-årig, da han skrev et 100 siders-manuskript og sendte det til flere filmselskaber. I dag er han persona non grata i filmbranchen. Hvis skyld er det, når man føler sig mobbet ud af en branche? Når man i bund og grund ser sig selv som et menneske, der søger harmoni og balance, fordi man ikke kan holde andet ud? Den sidste film, Søren Grinderslev skrev, hed ’Drømmebyggerne’. Nu er han manden, der er holdt op med at drømme. Vært: René Fredensborg, Producer: Marcus Eklund Assistent: Katinka Enselmann</description>
-			<pubDate>Fri, 24 Feb 2023 17:11:54 +0100</pubDate>
-			<itunes:duration>0:53:53</itunes:duration>
-			<itunes:order>20230224171154</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/soeren-del-2</link>
+			<description>
+				<![CDATA[ ’Jeg har truffet alle de forkerte valg og haft alle de forkerte holdninger!’ Søren Grinderslev Hansen, autodidakt manuskriptforfatter, komponist, klipper og instruktør, islamkritiker og tidligere folketingskandidat for Stram Kurs i er ugens gæst. Han kom ind af bagdøren i filmbranchen som 15-årig, da han skrev et 100 siders-manuskript og sendte det til flere filmselskaber. I dag er han persona non grata i filmbranchen. Hvis skyld er det, når man føler sig mobbet ud af en branche? Når man i bund og grund ser sig selv som et menneske, der søger harmoni og balance, fordi man ikke kan holde andet ud? Den sidste film, Søren Grinderslev skrev, hed ’Drømmebyggerne’. Nu er han manden, der er holdt op med at drømme. Vært: René Fredensborg, Producer: Marcus Eklund Assistent: Katinka Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52840639</guid>
+			<pubDate>Fri, 24 Feb 2023 17:11:54 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52840639/s_ren_del_2.mp3" length="77676480" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>’Jeg har truffet alle de forkerte valg og haft alle de forkerte holdninger!’ Søren Grinderslev Hansen, autodidakt manuskriptforfatter, komponist, klipper og instruktør, islamkritiker og tidligere folketingskandidat for Stram Kurs i er ugens gæst. Han...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ ’Jeg har truffet alle de forkerte valg og haft alle de forkerte holdninger!’ Søren Grinderslev Hansen, autodidakt manuskriptforfatter, komponist, klipper og instruktør, islamkritiker og tidligere folketingskandidat for Stram Kurs i er ugens gæst. Han kom ind af bagdøren i filmbranchen som 15-årig, da han skrev et 100 siders-manuskript og sendte det til flere filmselskaber. I dag er han persona non grata i filmbranchen. Hvis skyld er det, når man føler sig mobbet ud af en branche? Når man i bund og grund ser sig selv som et menneske, der søger harmoni og balance, fordi man ikke kan holde andet ud? Den sidste film, Søren Grinderslev skrev, hed ’Drømmebyggerne’. Nu er han manden, der er holdt op med at drømme. Vært: René Fredensborg, Producer: Marcus Eklund Assistent: Katinka Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3234</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Søren Grinderslev: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52840629/s_ren_grinderslev.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52840629/s_ren_grinderslev.mp3" length="3232000" type="audio/mpeg"/>
-			<description>’Jeg har truffet alle de forkerte valg og haft alle de forkerte holdninger!’ Søren Grinderslev Hansen, autodidakt manuskriptforfatter, komponist, klipper og instruktør, islamkritiker og tidligere folketingskandidat for Stram Kurs i er ugens gæst. Han kom ind af bagdøren i filmbranchen som 15-årig, da han skrev et 100 siders-manuskript og sendte det til flere filmselskaber. I dag er han persona non grata i filmbranchen. Hvis skyld er det, når man føler sig mobbet ud af en branche? Når man i bund og grund ser sig selv som et menneske, der søger harmoni og balance, fordi man ikke kan holde andet ud? Den sidste film, Søren Grinderslev skrev, hed ’Drømmebyggerne’. Nu er han manden, der er holdt op med at drømme. Vært: René Fredensborg, Producer: Marcus Eklund Assistent: Katinka Enselmann</description>
-			<pubDate>Fri, 24 Feb 2023 17:11:28 +0100</pubDate>
-			<itunes:duration>0:53:52</itunes:duration>
-			<itunes:order>20230224171128</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/soeren-grinderslev</link>
+			<description>
+				<![CDATA[ ’Jeg har truffet alle de forkerte valg og haft alle de forkerte holdninger!’ Søren Grinderslev Hansen, autodidakt manuskriptforfatter, komponist, klipper og instruktør, islamkritiker og tidligere folketingskandidat for Stram Kurs i er ugens gæst. Han kom ind af bagdøren i filmbranchen som 15-årig, da han skrev et 100 siders-manuskript og sendte det til flere filmselskaber. I dag er han persona non grata i filmbranchen. Hvis skyld er det, når man føler sig mobbet ud af en branche? Når man i bund og grund ser sig selv som et menneske, der søger harmoni og balance, fordi man ikke kan holde andet ud? Den sidste film, Søren Grinderslev skrev, hed ’Drømmebyggerne’. Nu er han manden, der er holdt op med at drømme. Vært: René Fredensborg, Producer: Marcus Eklund Assistent: Katinka Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52840629</guid>
+			<pubDate>Fri, 24 Feb 2023 17:11:28 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52840629/s_ren_grinderslev.mp3" length="77637312" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>’Jeg har truffet alle de forkerte valg og haft alle de forkerte holdninger!’ Søren Grinderslev Hansen, autodidakt manuskriptforfatter, komponist, klipper og instruktør, islamkritiker og tidligere folketingskandidat for Stram Kurs i er ugens gæst. Han...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ ’Jeg har truffet alle de forkerte valg og haft alle de forkerte holdninger!’ Søren Grinderslev Hansen, autodidakt manuskriptforfatter, komponist, klipper og instruktør, islamkritiker og tidligere folketingskandidat for Stram Kurs i er ugens gæst. Han kom ind af bagdøren i filmbranchen som 15-årig, da han skrev et 100 siders-manuskript og sendte det til flere filmselskaber. I dag er han persona non grata i filmbranchen. Hvis skyld er det, når man føler sig mobbet ud af en branche? Når man i bund og grund ser sig selv som et menneske, der søger harmoni og balance, fordi man ikke kan holde andet ud? Den sidste film, Søren Grinderslev skrev, hed ’Drømmebyggerne’. Nu er han manden, der er holdt op med at drømme. Vært: René Fredensborg, Producer: Marcus Eklund Assistent: Katinka Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3233</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Brian Mørk Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52768955/brian_m_rk_del_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52768955/brian_m_rk_del_2.mp3" length="3229000" type="audio/mpeg"/>
-			<description>Vi prøver at finde ud af, hvad komikeren Brian Mørk ellers skal lave - nu, hvor hans standup-karriere hænger i en tynd tråd efter forrige års kolossale shitstorm. Han lægger fra land en Guiness Stor Pik Stout, og melder: 'Jeg vil hellere lave alt andet end at være med i Aftenshowet'. Vi morer os med at tale om melankoli, depression og ensomhed. Selvfølgelig kommer vi også ind på tidens maskulinitet (vi ku godt begge to Kris Kristofferson, dengang!), komikerens kald, og hvordan man helt lavpraktisk håndterer en shitstorm. Vært: René Fredensborg Producer: Marcus Eklund</description>
-			<pubDate>Fri, 17 Feb 2023 17:25:38 +0100</pubDate>
-			<itunes:duration>0:53:49</itunes:duration>
-			<itunes:order>20230217172538</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/brian-moerk-del-2</link>
+			<description>
+				<![CDATA[ Vi prøver at finde ud af, hvad komikeren Brian Mørk ellers skal lave - nu, hvor hans standup-karriere hænger i en tynd tråd efter forrige års kolossale shitstorm. Han lægger fra land en Guiness Stor Pik Stout, og melder: 'Jeg vil hellere lave alt andet end at være med i Aftenshowet'. Vi morer os med at tale om melankoli, depression og ensomhed. Selvfølgelig kommer vi også ind på tidens maskulinitet (vi ku godt begge to Kris Kristofferson, dengang!), komikerens kald, og hvordan man helt lavpraktisk håndterer en shitstorm. Vært: René Fredensborg Producer: Marcus Eklund ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52768955</guid>
+			<pubDate>Fri, 17 Feb 2023 17:25:38 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52768955/brian_m_rk_del_2.mp3" length="77579136" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Vi prøver at finde ud af, hvad komikeren Brian Mørk ellers skal lave - nu, hvor hans standup-karriere hænger i en tynd tråd efter forrige års kolossale shitstorm. Han lægger fra land en Guiness Stor Pik Stout, og melder: 'Jeg vil hellere lave alt...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Vi prøver at finde ud af, hvad komikeren Brian Mørk ellers skal lave - nu, hvor hans standup-karriere hænger i en tynd tråd efter forrige års kolossale shitstorm. Han lægger fra land en Guiness Stor Pik Stout, og melder: 'Jeg vil hellere lave alt andet end at være med i Aftenshowet'. Vi morer os med at tale om melankoli, depression og ensomhed. Selvfølgelig kommer vi også ind på tidens maskulinitet (vi ku godt begge to Kris Kristofferson, dengang!), komikerens kald, og hvordan man helt lavpraktisk håndterer en shitstorm. Vært: René Fredensborg Producer: Marcus Eklund ]]>
+			</itunes:summary>
+			<itunes:duration>3230</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Brian Mørk: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52768703/brian_m_rk_del_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52768703/brian_m_rk_del_1.mp3" length="3246000" type="audio/mpeg"/>
-			<description>Vi prøver at finde ud af, hvad komikeren Brian Mørk ellers skal lave - nu, hvor hans standup-karriere hænger i en tynd tråd efter forrige års kolossale shitstorm. Han lægger fra land en Guiness Stor Pik Stout, og melder: 'Jeg vil hellere lave alt andet end at være med i Aftenshowet'. Vi morer os med at tale om melankoli, depression og ensomhed. Selvfølgelig kommer vi også ind på tidens maskulinitet (vi ku godt begge to Kris Kristofferson, dengang!), komikerens kald, og hvordan man helt lavpraktisk håndterer en shitstorm. Vært: René Fredensborg Producer: Marcus Eklund</description>
-			<pubDate>Fri, 17 Feb 2023 17:25:23 +0100</pubDate>
-			<itunes:duration>0:54:06</itunes:duration>
-			<itunes:order>20230217172523</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/brian-moerk-del-1</link>
+			<description>
+				<![CDATA[ Vi prøver at finde ud af, hvad komikeren Brian Mørk ellers skal lave - nu, hvor hans standup-karriere hænger i en tynd tråd efter forrige års kolossale shitstorm. Han lægger fra land en Guiness Stor Pik Stout, og melder: 'Jeg vil hellere lave alt andet end at være med i Aftenshowet'. Vi morer os med at tale om melankoli, depression og ensomhed. Selvfølgelig kommer vi også ind på tidens maskulinitet (vi ku godt begge to Kris Kristofferson, dengang!), komikerens kald, og hvordan man helt lavpraktisk håndterer en shitstorm. Vært: René Fredensborg Producer: Marcus Eklund ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52768703</guid>
+			<pubDate>Fri, 17 Feb 2023 17:25:23 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52768703/brian_m_rk_del_1.mp3" length="77981760" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Vi prøver at finde ud af, hvad komikeren Brian Mørk ellers skal lave - nu, hvor hans standup-karriere hænger i en tynd tråd efter forrige års kolossale shitstorm. Han lægger fra land en Guiness Stor Pik Stout, og melder: 'Jeg vil hellere lave alt...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Vi prøver at finde ud af, hvad komikeren Brian Mørk ellers skal lave - nu, hvor hans standup-karriere hænger i en tynd tråd efter forrige års kolossale shitstorm. Han lægger fra land en Guiness Stor Pik Stout, og melder: 'Jeg vil hellere lave alt andet end at være med i Aftenshowet'. Vi morer os med at tale om melankoli, depression og ensomhed. Selvfølgelig kommer vi også ind på tidens maskulinitet (vi ku godt begge to Kris Kristofferson, dengang!), komikerens kald, og hvordan man helt lavpraktisk håndterer en shitstorm. Vært: René Fredensborg Producer: Marcus Eklund ]]>
+			</itunes:summary>
+			<itunes:duration>3247</itunes:duration>
+			<itunes:keywords>comedy,funny,humor,music,news</itunes:keywords>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Glenn Bech: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52695482/glen_del_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52695482/glen_del_2.mp3" length="3232000" type="audio/mpeg"/>
-			<description>Hvordan har det påvirket Glenn Bech, at han pludselig er på alles læber i det litterære miljø? At han er 'Danmarks samfundskritiske digter nr. 1'? At han er den rodløse Judas, som skider i egen rede? At han bliver kaldt 'Jesus fra Horsens´? Bruger eliten ham som en brik i en kompliceret klassekamp. Hvorfor er han konstant på lur over for andre mennesker? Hvordan er det at være et introvert menneske midt i en medieturné? To timers ærlig og improviseret samtale med manden bag bestsellerne 'Farskibet' og 'Jeg anerkender ikke længere jeres autoritet', med udgangspunkt i spørgsmålet: Fik du det, du ville?
-Vært: René Fredensborg
-Producer: Marcus Eklund
-Assistent: Katinka Enselmann</description>
-			<pubDate>Fri, 10 Feb 2023 17:28:18 +0100</pubDate>
-			<itunes:duration>0:53:52</itunes:duration>
-			<itunes:order>20230210172818</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/glen-del-2</link>
+			<description>
+				<![CDATA[ Hvordan har det påvirket Glenn Bech, at han pludselig er på alles læber i det litterære miljø? At han er 'Danmarks samfundskritiske digter nr. 1'? At han er den rodløse Judas, som skider i egen rede? At han bliver kaldt 'Jesus fra Horsens´? Bruger eliten ham som en brik i en kompliceret klassekamp. Hvorfor er han konstant på lur over for andre mennesker? Hvordan er det at være et introvert menneske midt i en medieturné? To timers ærlig og improviseret samtale med manden bag bestsellerne 'Farskibet' og 'Jeg anerkender ikke længere jeres autoritet', med udgangspunkt i spørgsmålet: Fik du det, du ville?<br />Vært: René Fredensborg<br />Producer: Marcus Eklund<br />Assistent: Katinka Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52695482</guid>
+			<pubDate>Fri, 10 Feb 2023 17:28:18 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52695482/glen_del_2.mp3" length="77635584" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Hvordan har det påvirket Glenn Bech, at han pludselig er på alles læber i det litterære miljø? At han er 'Danmarks samfundskritiske digter nr. 1'? At han er den rodløse Judas, som skider i egen rede? At han bliver kaldt 'Jesus fra Horsens´? Bruger...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Hvordan har det påvirket Glenn Bech, at han pludselig er på alles læber i det litterære miljø? At han er 'Danmarks samfundskritiske digter nr. 1'? At han er den rodløse Judas, som skider i egen rede? At han bliver kaldt 'Jesus fra Horsens´? Bruger eliten ham som en brik i en kompliceret klassekamp. Hvorfor er han konstant på lur over for andre mennesker? Hvordan er det at være et introvert menneske midt i en medieturné? To timers ærlig og improviseret samtale med manden bag bestsellerne 'Farskibet' og 'Jeg anerkender ikke længere jeres autoritet', med udgangspunkt i spørgsmålet: Fik du det, du ville?<br />Vært: René Fredensborg<br />Producer: Marcus Eklund<br />Assistent: Katinka Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3233</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Glenn Bech: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52695179/gleen_del_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52695179/gleen_del_1.mp3" length="3234000" type="audio/mpeg"/>
-			<description>Hvordan har det påvirket Glenn Bech, at han pludselig er på alles læber i det litterære miljø? At han er 'Danmarks samfundskritiske digter nr. 1'? At han er den rodløse Judas, som skider i egen rede? At han bliver kaldt 'Jesus fra Horsens´? Bruger eliten ham som en brik i en kompliceret klassekamp. Hvorfor er han konstant på lur over for andre mennesker? Hvordan er det at være et introvert menneske midt i en medieturné? To timers ærlig og improviseret samtale med manden bag bestsellerne 'Farskibet' og 'Jeg anerkender ikke længere jeres autoritet', med udgangspunkt i spørgsmålet: Fik du det, du ville? 
-Vært: René Fredensborg
-Producer: Marcus Eklund
-Assistent: Katinka Enselmann</description>
-			<pubDate>Fri, 10 Feb 2023 17:24:56 +0100</pubDate>
-			<itunes:duration>0:53:54</itunes:duration>
-			<itunes:order>20230210172456</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/gleen-del-1</link>
+			<description>
+				<![CDATA[ Hvordan har det påvirket Glenn Bech, at han pludselig er på alles læber i det litterære miljø? At han er 'Danmarks samfundskritiske digter nr. 1'? At han er den rodløse Judas, som skider i egen rede? At han bliver kaldt 'Jesus fra Horsens´? Bruger eliten ham som en brik i en kompliceret klassekamp. Hvorfor er han konstant på lur over for andre mennesker? Hvordan er det at være et introvert menneske midt i en medieturné? To timers ærlig og improviseret samtale med manden bag bestsellerne 'Farskibet' og 'Jeg anerkender ikke længere jeres autoritet', med udgangspunkt i spørgsmålet: Fik du det, du ville? <br />Vært: René Fredensborg<br />Producer: Marcus Eklund<br />Assistent: Katinka Enselmann ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52695179</guid>
+			<pubDate>Fri, 10 Feb 2023 17:24:56 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52695179/gleen_del_1.mp3" length="77687424" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Hvordan har det påvirket Glenn Bech, at han pludselig er på alles læber i det litterære miljø? At han er 'Danmarks samfundskritiske digter nr. 1'? At han er den rodløse Judas, som skider i egen rede? At han bliver kaldt 'Jesus fra Horsens´? Bruger...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Hvordan har det påvirket Glenn Bech, at han pludselig er på alles læber i det litterære miljø? At han er 'Danmarks samfundskritiske digter nr. 1'? At han er den rodløse Judas, som skider i egen rede? At han bliver kaldt 'Jesus fra Horsens´? Bruger eliten ham som en brik i en kompliceret klassekamp. Hvorfor er han konstant på lur over for andre mennesker? Hvordan er det at være et introvert menneske midt i en medieturné? To timers ærlig og improviseret samtale med manden bag bestsellerne 'Farskibet' og 'Jeg anerkender ikke længere jeres autoritet', med udgangspunkt i spørgsmålet: Fik du det, du ville? <br />Vært: René Fredensborg<br />Producer: Marcus Eklund<br />Assistent: Katinka Enselmann ]]>
+			</itunes:summary>
+			<itunes:duration>3235</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Mai Manniche: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52629599/mai_manniche_time_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52629599/mai_manniche_time_2.mp3" length="3233000" type="audio/mpeg"/>
-			<description>”Der er ikke nogen, der skal give mig mundkurv på! Dem, der hader mig, de hader mig; dem, der elsker mig, de elsker mig, og jeg er fucking ligeglad.” Denne uges gæst i Syvkabalen er Mai Manniche – utæmmelig smykkedesigner, vinterbader, coronaskeptiker, tidligere model og universitetsstuderende i statskundskab. Vi taler om beskyldningerne for at kopiere andres designs, om at gå på OnlyFans, udelukke Reddit-fans, og være udsat for hate i det hele taget. Hvornår tager mediefænomenet Mai Manniche en ’chill-pill’, når man ser sig selv som en aggressiv pitbull. Nå jo, og så kom Sebastian fra Tsunami forbi på surprisevisit – en manifestation af at intet er planlagt og alt kan ske!
-Vært: René Fredensborg
-Producer: Marcus Eklund
-Assistent: Katinka Enselmann</description>
-			<pubDate>Fri, 03 Feb 2023 17:21:18 +0100</pubDate>
-			<itunes:duration>0:53:53</itunes:duration>
-			<itunes:order>20230203172118</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/mai-manniche-time-2</link>
+			<description>
+				<![CDATA[ ”Der er ikke nogen, der skal give mig mundkurv på! Dem, der hader mig, de hader mig; dem, der elsker mig, de elsker mig, og jeg er fucking ligeglad.” Denne uges gæst i Syvkabalen er Mai Manniche – utæmmelig smykkedesigner, vinterbader, coronaskeptiker, tidligere model og universitetsstuderende i statskundskab. Vi taler om beskyldningerne for at kopiere andres designs, om at gå på OnlyFans, udelukke Reddit-fans, og være udsat for hate i det hele taget. Hvornår tager mediefænomenet Mai Manniche en ’chill-pill’, når man ser sig selv som en aggressiv pitbull. Nå jo, og så kom Sebastian fra Tsunami forbi på surprisevisit – en manifestation af at intet er planlagt og alt kan ske!<br /><br />Vært: René Fredensborg<br />Producer: Marcus Eklund<br />Assistent: Katinka Enselmann<br /> ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52629599</guid>
+			<pubDate>Fri, 03 Feb 2023 17:21:18 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52629599/mai_manniche_time_2.mp3" length="77667264" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>”Der er ikke nogen, der skal give mig mundkurv på! Dem, der hader mig, de hader mig; dem, der elsker mig, de elsker mig, og jeg er fucking ligeglad.” Denne uges gæst i Syvkabalen er Mai Manniche – utæmmelig smykkedesigner, vinterbader,...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ ”Der er ikke nogen, der skal give mig mundkurv på! Dem, der hader mig, de hader mig; dem, der elsker mig, de elsker mig, og jeg er fucking ligeglad.” Denne uges gæst i Syvkabalen er Mai Manniche – utæmmelig smykkedesigner, vinterbader, coronaskeptiker, tidligere model og universitetsstuderende i statskundskab. Vi taler om beskyldningerne for at kopiere andres designs, om at gå på OnlyFans, udelukke Reddit-fans, og være udsat for hate i det hele taget. Hvornår tager mediefænomenet Mai Manniche en ’chill-pill’, når man ser sig selv som en aggressiv pitbull. Nå jo, og så kom Sebastian fra Tsunami forbi på surprisevisit – en manifestation af at intet er planlagt og alt kan ske!<br /><br />Vært: René Fredensborg<br />Producer: Marcus Eklund<br />Assistent: Katinka Enselmann<br /> ]]>
+			</itunes:summary>
+			<itunes:duration>3234</itunes:duration>
+			<itunes:keywords>crazy,gossip,interview,music,podcast</itunes:keywords>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Mai Manniche: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52629557/mia_manniche_time_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52629557/mia_manniche_time_1.mp3" length="3235000" type="audio/mpeg"/>
-			<description>”Der er ikke nogen, der skal give mig mundkurv på! Dem, der hader mig, de hader mig; dem, der elsker mig, de elsker mig, og jeg er fucking ligeglad” Denne uges gæst i Syvkabalen er Mai Manniche – utæmmelig smykkedesigner, vinterbader, coronaskeptiker, tidligere model og universitetsstuderende i statskundskab. Vi taler om beskyldningerne for at kopiere andres designs, om at gå på OnlyFans, udelukke Reddit-fans, og være udsat for hate i det hele taget. Hvornår tager mediefænomenet Mai Manniche en ’chill-pill’, når man ser sig selv som en aggressiv pitbull. Nå jo, og så kom Sebastian fra Tsunami forbi på surprisevisit – en manifestation af at intet er planlagt og alt kan ske!
-Vært: René Fredensborg
-Producer: Marcus Eklund
-Assistent: Katinka Enselmann</description>
-			<pubDate>Fri, 03 Feb 2023 17:13:17 +0100</pubDate>
-			<itunes:duration>0:53:55</itunes:duration>
-			<itunes:order>20230203171317</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/mia-manniche-time-1</link>
+			<description>
+				<![CDATA[ ”Der er ikke nogen, der skal give mig mundkurv på! Dem, der hader mig, de hader mig; dem, der elsker mig, de elsker mig, og jeg er fucking ligeglad” Denne uges gæst i Syvkabalen er Mai Manniche – utæmmelig smykkedesigner, vinterbader, coronaskeptiker, tidligere model og universitetsstuderende i statskundskab. Vi taler om beskyldningerne for at kopiere andres designs, om at gå på OnlyFans, udelukke Reddit-fans, og være udsat for hate i det hele taget. Hvornår tager mediefænomenet Mai Manniche en ’chill-pill’, når man ser sig selv som en aggressiv pitbull. Nå jo, og så kom Sebastian fra Tsunami forbi på surprisevisit – en manifestation af at intet er planlagt og alt kan ske!<br /><br />Vært: René Fredensborg<br />Producer: Marcus Eklund<br />Assistent: Katinka Enselmann<br /><br /><br /><br /><br /><br /> ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52629557</guid>
+			<pubDate>Fri, 03 Feb 2023 17:13:17 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52629557/mai_manniche_del_1_edited.mp3" length="77679360" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>”Der er ikke nogen, der skal give mig mundkurv på! Dem, der hader mig, de hader mig; dem, der elsker mig, de elsker mig, og jeg er fucking ligeglad” Denne uges gæst i Syvkabalen er Mai Manniche – utæmmelig smykkedesigner, vinterbader, coronaskeptiker,...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ ”Der er ikke nogen, der skal give mig mundkurv på! Dem, der hader mig, de hader mig; dem, der elsker mig, de elsker mig, og jeg er fucking ligeglad” Denne uges gæst i Syvkabalen er Mai Manniche – utæmmelig smykkedesigner, vinterbader, coronaskeptiker, tidligere model og universitetsstuderende i statskundskab. Vi taler om beskyldningerne for at kopiere andres designs, om at gå på OnlyFans, udelukke Reddit-fans, og være udsat for hate i det hele taget. Hvornår tager mediefænomenet Mai Manniche en ’chill-pill’, når man ser sig selv som en aggressiv pitbull. Nå jo, og så kom Sebastian fra Tsunami forbi på surprisevisit – en manifestation af at intet er planlagt og alt kan ske!<br /><br />Vært: René Fredensborg<br />Producer: Marcus Eklund<br />Assistent: Katinka Enselmann<br /><br /><br /><br /><br /><br /> ]]>
+			</itunes:summary>
+			<itunes:duration>3234</itunes:duration>
+			<itunes:keywords>gossip,interview,music,news,reddit</itunes:keywords>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Rasmus Nøhr: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52562913/rasmus_n_hr_time_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52562913/rasmus_n_hr_time_2.mp3" length="3232000" type="audio/mpeg"/>
-			<description>Rasmus Nøhr har ikke været pladeaktuel i fem år. Og er færdig med at udtale sig om politik efter at han blev cancelled på grund af sin skepsis over for corona-restriktionerne. Nu har han fast ti minutters bekymringstid om dagen. Vi taler i stedet om ’uskyldig politik’, at tjene så mange penge, at man ikke kan nå at bruge dem, og jagten på flirten og kærligheden, når man har rundet de 50 år. Som sædvanlig: Intet er planlagt og alt kan ske.
-Vært: René Fredensborg
-Producer: Marcus Alvarado Eklund</description>
-			<pubDate>Fri, 27 Jan 2023 17:24:27 +0100</pubDate>
-			<itunes:duration>0:53:52</itunes:duration>
-			<itunes:order>20230127172427</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/rasmus-noehr-time-2_1</link>
+			<description>
+				<![CDATA[ Rasmus Nøhr har ikke været pladeaktuel i fem år. Og er færdig med at udtale sig om politik efter at han blev cancelled på grund af sin skepsis over for corona-restriktionerne. Nu har han fast ti minutters bekymringstid om dagen. Vi taler i stedet om ’uskyldig politik’, at tjene så mange penge, at man ikke kan nå at bruge dem, og jagten på flirten og kærligheden, når man har rundet de 50 år. Som sædvanlig: Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52562913</guid>
+			<pubDate>Fri, 27 Jan 2023 17:24:27 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52562913/rasmus_n_hr_time_2.mp3" length="77639040" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Rasmus Nøhr har ikke været pladeaktuel i fem år. Og er færdig med at udtale sig om politik efter at han blev cancelled på grund af sin skepsis over for corona-restriktionerne. Nu har han fast ti minutters bekymringstid om dagen. Vi taler i stedet om...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Rasmus Nøhr har ikke været pladeaktuel i fem år. Og er færdig med at udtale sig om politik efter at han blev cancelled på grund af sin skepsis over for corona-restriktionerne. Nu har han fast ti minutters bekymringstid om dagen. Vi taler i stedet om ’uskyldig politik’, at tjene så mange penge, at man ikke kan nå at bruge dem, og jagten på flirten og kærligheden, når man har rundet de 50 år. Som sædvanlig: Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</itunes:summary>
+			<itunes:duration>3233</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Rasmus Nøhr: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52562775/rasmus_n_hr_time_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52562775/rasmus_n_hr_time_1.mp3" length="3230000" type="audio/mpeg"/>
-			<description>Rasmus Nøhr har ikke været pladeaktuel i fem år. Og er færdig med at udtale sig om politik efter at han blev cancelled på grund af sin skepsis over for corona-restriktionerne. Nu har han fast ti minutters bekymringstid om dagen. Vi taler i stedet om ’uskyldig politik’, at tjene så mange penge, at man ikke kan nå at bruge dem, og jagten på flirten og kærligheden, når man har rundet de 50 år. Som sædvanlig: Intet er planlagt og alt kan ske.
-Vært: René Fredensborg
-Producer: Marcus Alvarado Eklund</description>
-			<pubDate>Fri, 27 Jan 2023 17:10:20 +0100</pubDate>
-			<itunes:duration>0:53:50</itunes:duration>
-			<itunes:order>20230127171020</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/rasmus-noehr-time-1</link>
+			<description>
+				<![CDATA[ Rasmus Nøhr har ikke været pladeaktuel i fem år. Og er færdig med at udtale sig om politik efter at han blev cancelled på grund af sin skepsis over for corona-restriktionerne. Nu har han fast ti minutters bekymringstid om dagen. Vi taler i stedet om ’uskyldig politik’, at tjene så mange penge, at man ikke kan nå at bruge dem, og jagten på flirten og kærligheden, når man har rundet de 50 år. Som sædvanlig: Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52562775</guid>
+			<pubDate>Fri, 27 Jan 2023 17:10:20 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52562775/rasmus_n_hr_time_1.mp3" length="77609088" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Rasmus Nøhr har ikke været pladeaktuel i fem år. Og er færdig med at udtale sig om politik efter at han blev cancelled på grund af sin skepsis over for corona-restriktionerne. Nu har han fast ti minutters bekymringstid om dagen. Vi taler i stedet om...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Rasmus Nøhr har ikke været pladeaktuel i fem år. Og er færdig med at udtale sig om politik efter at han blev cancelled på grund af sin skepsis over for corona-restriktionerne. Nu har han fast ti minutters bekymringstid om dagen. Vi taler i stedet om ’uskyldig politik’, at tjene så mange penge, at man ikke kan nå at bruge dem, og jagten på flirten og kærligheden, når man har rundet de 50 år. Som sædvanlig: Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</itunes:summary>
+			<itunes:duration>3231</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Rasmus Paludan: Del 3</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52539459/rasmus_paludan_time_3.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52539459/rasmus_paludan_time_3.mp3" length="3293000" type="audio/mpeg"/>
-			<description>I lørdags brændte Rasmus Paludan endnu engang en koran af, denne gang i Stockholm. 
-Siden har han sat ny rekord i daglige dødstrusler. Samtidig skriver han skriver sig ind i den politiske verdenshistorie, fordi Tyrkiets præsident Erdogan, på grund af koranafbrændingerne, ikke vil have Sverige med i NATO. Er provokationen gået for vidt? Hvad er skyggesiden? Er Paludan principfast i en sådan grad, at han også føler sig ensom? Hvem elsker ham? Hvad driver ham? Hvorfor er han så opmærksomhedssøgende? Hvilke løgne føler han sig udsat for? Har han svært ved at håndtere og tolere andre mennesker? Har han stalket en medstuderende? Har han big dick energy eller crazy dick energy? Hvorfor savner han intellektuel modstand? Og hvad er det for noget med, at Rasmus slog hovedet i 2005? Og i øvrigt blev pisket i 2009? Få svarene i en tre timer lang, men sjældent åben og ærlig samtale med den berømte provokatør som med hans egne ord måske er den mest kendte dansker i verden. 
-Vært: René Fredensborg</description>
-			<pubDate>Wed, 25 Jan 2023 13:25:58 +0100</pubDate>
-			<itunes:duration>0:54:53</itunes:duration>
-			<itunes:order>20230125132558</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/rasmus-paludan-time-3</link>
+			<description>
+				<![CDATA[ I lørdags brændte Rasmus Paludan endnu engang en koran af, denne gang i Stockholm. <br />Siden har han sat ny rekord i daglige dødstrusler. Samtidig skriver han skriver sig ind i den politiske verdenshistorie, fordi Tyrkiets præsident Erdogan, på grund af koranafbrændingerne, ikke vil have Sverige med i NATO. Er provokationen gået for vidt? Hvad er skyggesiden? Er Paludan principfast i en sådan grad, at han også føler sig ensom? Hvem elsker ham? Hvad driver ham? Hvorfor er han så opmærksomhedssøgende? Hvilke løgne føler han sig udsat for? Har han svært ved at håndtere og tolere andre mennesker? Har han stalket en medstuderende? Har han <i>big dick energy</i> eller <i>crazy dick energy</i>? Hvorfor savner han intellektuel modstand? Og hvad er det for noget med, at Rasmus slog hovedet i 2005? Og i øvrigt blev pisket i 2009? Få svarene i en tre timer lang, men sjældent åben og ærlig samtale med den berømte provokatør som med hans egne ord måske er den mest kendte dansker i verden. <br /><br />Vært: René Fredensborg ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52539459</guid>
+			<pubDate>Wed, 25 Jan 2023 13:25:58 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52539459/rasmus_paludan_time_3.mp3" length="79116480" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>I lørdags brændte Rasmus Paludan endnu engang en koran af, denne gang i Stockholm. Siden har han sat ny rekord i daglige dødstrusler. Samtidig skriver han skriver sig ind i den politiske verdenshistorie, fordi Tyrkiets præsident Erdogan, på grund af...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I lørdags brændte Rasmus Paludan endnu engang en koran af, denne gang i Stockholm. <br />Siden har han sat ny rekord i daglige dødstrusler. Samtidig skriver han skriver sig ind i den politiske verdenshistorie, fordi Tyrkiets præsident Erdogan, på grund af koranafbrændingerne, ikke vil have Sverige med i NATO. Er provokationen gået for vidt? Hvad er skyggesiden? Er Paludan principfast i en sådan grad, at han også føler sig ensom? Hvem elsker ham? Hvad driver ham? Hvorfor er han så opmærksomhedssøgende? Hvilke løgne føler han sig udsat for? Har han svært ved at håndtere og tolere andre mennesker? Har han stalket en medstuderende? Har han <i>big dick energy</i> eller <i>crazy dick energy</i>? Hvorfor savner han intellektuel modstand? Og hvad er det for noget med, at Rasmus slog hovedet i 2005? Og i øvrigt blev pisket i 2009? Få svarene i en tre timer lang, men sjældent åben og ærlig samtale med den berømte provokatør som med hans egne ord måske er den mest kendte dansker i verden. <br /><br />Vært: René Fredensborg ]]>
+			</itunes:summary>
+			<itunes:duration>3294</itunes:duration>
+			<itunes:keywords>happenings,interview,news,podcast,radio</itunes:keywords>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Rasmus Paludan: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52539435/rasmus_paludan_time_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52539435/rasmus_paludan_time_2.mp3" length="4116000" type="audio/mpeg"/>
-			<description>I lørdags brændte Rasmus Paludan endnu engang en koran af, denne gang i Stockholm. 
-Siden har han sat ny rekord i daglige dødstrusler. Samtidig skriver han sig ind i den politiske verdenshistorie, fordi Tyrkiets præsident Erdogan, på grund af koranafbrændingerne, ikke vil have Sverige med i NATO. Er provokationen gået for vidt? Hvad er skyggesiden? Er Paludan principfast i en sådan grad, at han også føler sig ensom? Hvem elsker ham? Hvad driver ham? Hvorfor er han så opmærksomhedssøgende? Hvilke løgne føler han sig udsat for? Har han svært ved at håndtere og tolere andre mennesker? Har han stalket en medstuderende? Har han big dick energy eller crazy dick energy? Hvorfor savner han intellektuel modstand? Og hvad er det for noget med, at Rasmus slog hovedet i 2005? Og i øvrigt blev pisket i 2009? Få svarene i en tre timer lang, men sjældent åben og ærlig samtale med den berømte provokatør som med hans egne ord måske er den mest kendte dansker i verden.
-Vært: René Fredensborg</description>
-			<pubDate>Wed, 25 Jan 2023 13:21:50 +0100</pubDate>
-			<itunes:duration>1:08:36</itunes:duration>
-			<itunes:order>20230125132150</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/rasmus-paludan-time-2</link>
+			<description>
+				<![CDATA[ I lørdags brændte Rasmus Paludan endnu engang en koran af, denne gang i Stockholm. <br />Siden har han sat ny rekord i daglige dødstrusler. Samtidig skriver han sig ind i den politiske verdenshistorie, fordi Tyrkiets præsident Erdogan, på grund af koranafbrændingerne, ikke vil have Sverige med i NATO. Er provokationen gået for vidt? Hvad er skyggesiden? Er Paludan principfast i en sådan grad, at han også føler sig ensom? Hvem elsker ham? Hvad driver ham? Hvorfor er han så opmærksomhedssøgende? Hvilke løgne føler han sig udsat for? Har han svært ved at håndtere og tolere andre mennesker? Har han stalket en medstuderende? Har han <i>big dick energy</i> eller <i>crazy dick energy</i>? Hvorfor savner han intellektuel modstand? Og hvad er det for noget med, at Rasmus slog hovedet i 2005? Og i øvrigt blev pisket i 2009? Få svarene i en tre timer lang, men sjældent åben og ærlig samtale med den berømte provokatør som med hans egne ord måske er den mest kendte dansker i verden.<br /><br />Vært: René Fredensborg ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52539435</guid>
+			<pubDate>Wed, 25 Jan 2023 13:21:50 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52539435/rasmus_paludan_time_2.mp3" length="98853696" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>I lørdags brændte Rasmus Paludan endnu engang en koran af, denne gang i Stockholm. Siden har han sat ny rekord i daglige dødstrusler. Samtidig skriver han sig ind i den politiske verdenshistorie, fordi Tyrkiets præsident Erdogan, på grund af...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I lørdags brændte Rasmus Paludan endnu engang en koran af, denne gang i Stockholm. <br />Siden har han sat ny rekord i daglige dødstrusler. Samtidig skriver han sig ind i den politiske verdenshistorie, fordi Tyrkiets præsident Erdogan, på grund af koranafbrændingerne, ikke vil have Sverige med i NATO. Er provokationen gået for vidt? Hvad er skyggesiden? Er Paludan principfast i en sådan grad, at han også føler sig ensom? Hvem elsker ham? Hvad driver ham? Hvorfor er han så opmærksomhedssøgende? Hvilke løgne føler han sig udsat for? Har han svært ved at håndtere og tolere andre mennesker? Har han stalket en medstuderende? Har han <i>big dick energy</i> eller <i>crazy dick energy</i>? Hvorfor savner han intellektuel modstand? Og hvad er det for noget med, at Rasmus slog hovedet i 2005? Og i øvrigt blev pisket i 2009? Få svarene i en tre timer lang, men sjældent åben og ærlig samtale med den berømte provokatør som med hans egne ord måske er den mest kendte dansker i verden.<br /><br />Vært: René Fredensborg ]]>
+			</itunes:summary>
+			<itunes:duration>4117</itunes:duration>
+			<itunes:keywords>happening,interview,news,podcast,radio</itunes:keywords>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Rasmus Paludan: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52539417/rasmus_paludan_time_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52539417/rasmus_paludan_time_1.mp3" length="3138000" type="audio/mpeg"/>
-			<description>I lørdags brændte Rasmus Paludan endnu engang en koran af, denne gang i Stockholm. 
-Siden har han sat ny rekord i daglige dødstrusler. Samtidig skriver han sig ind i den politiske verdenshistorie, fordi Tyrkiets præsident Erdogan, på grund af koranafbrændingerne, ikke vil have Sverige med i NATO. Er provokationen gået for vidt? Hvad er skyggesiden? Er Paludan principfast i en sådan grad, at han også føler sig ensom? Hvem elsker ham? Hvad driver ham? Hvorfor er han så opmærksomhedssøgende? Hvilke løgne føler han sig udsat for? Har han svært ved at håndtere og tolere andre mennesker? Har han stalket en medstuderende? Har han big dick energy eller crazy dick energy? Hvorfor savner han intellektuel modstand? Og hvad er det for noget med, at Rasmus slog hovedet i 2005? Og i øvrigt blev pisket i 2009? Få svarene i en tre timer lang, men sjældent åben og ærlig samtale med den berømte provokatør som med hans egne ord måske er den mest kendte dansker i verden. 
-Vært: René Fredensborg</description>
-			<pubDate>Wed, 25 Jan 2023 13:21:11 +0100</pubDate>
-			<itunes:duration>0:52:18</itunes:duration>
-			<itunes:order>20230125132111</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/rasmus-paludan-time-1</link>
+			<description>
+				<![CDATA[ I lørdags brændte Rasmus Paludan endnu engang en koran af, denne gang i Stockholm. <br />Siden har han sat ny rekord i daglige dødstrusler. Samtidig skriver han sig ind i den politiske verdenshistorie, fordi Tyrkiets præsident Erdogan, på grund af koranafbrændingerne, ikke vil have Sverige med i NATO. Er provokationen gået for vidt? Hvad er skyggesiden? Er Paludan principfast i en sådan grad, at han også føler sig ensom? Hvem elsker ham? Hvad driver ham? Hvorfor er han så opmærksomhedssøgende? Hvilke løgne føler han sig udsat for? Har han svært ved at håndtere og tolere andre mennesker? Har han stalket en medstuderende? Har han <i>big dick energy</i> eller <i>crazy dick energy</i>? Hvorfor savner han intellektuel modstand? Og hvad er det for noget med, at Rasmus slog hovedet i 2005? Og i øvrigt blev pisket i 2009? Få svarene i en tre timer lang, men sjældent åben og ærlig samtale med den berømte provokatør som med hans egne ord måske er den mest kendte dansker i verden. <br /><br />Vært: René Fredensborg ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52539417</guid>
+			<pubDate>Wed, 25 Jan 2023 13:21:11 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52539417/rasmus_paludan_time_1.mp3" length="75379968" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>I lørdags brændte Rasmus Paludan endnu engang en koran af, denne gang i Stockholm. Siden har han sat ny rekord i daglige dødstrusler. Samtidig skriver han sig ind i den politiske verdenshistorie, fordi Tyrkiets præsident Erdogan, på grund af...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I lørdags brændte Rasmus Paludan endnu engang en koran af, denne gang i Stockholm. <br />Siden har han sat ny rekord i daglige dødstrusler. Samtidig skriver han sig ind i den politiske verdenshistorie, fordi Tyrkiets præsident Erdogan, på grund af koranafbrændingerne, ikke vil have Sverige med i NATO. Er provokationen gået for vidt? Hvad er skyggesiden? Er Paludan principfast i en sådan grad, at han også føler sig ensom? Hvem elsker ham? Hvad driver ham? Hvorfor er han så opmærksomhedssøgende? Hvilke løgne føler han sig udsat for? Har han svært ved at håndtere og tolere andre mennesker? Har han stalket en medstuderende? Har han <i>big dick energy</i> eller <i>crazy dick energy</i>? Hvorfor savner han intellektuel modstand? Og hvad er det for noget med, at Rasmus slog hovedet i 2005? Og i øvrigt blev pisket i 2009? Få svarene i en tre timer lang, men sjældent åben og ærlig samtale med den berømte provokatør som med hans egne ord måske er den mest kendte dansker i verden. <br /><br />Vært: René Fredensborg ]]>
+			</itunes:summary>
+			<itunes:duration>3139</itunes:duration>
+			<itunes:keywords>aktuelt,interview,news,podcast,questions,radio</itunes:keywords>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Anna Andrea Malzer: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52496287/anna_andrea_malzer_time_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52496287/anna_andrea_malzer_time_2.mp3" length="3224000" type="audio/mpeg"/>
-			<description>Vi bygger en bro over woke/boomer-generationskløften med Danmarks yngste teaterdirektør, Anna Andrea Malzer. 
-Vi taler hunelefanter, diagnoser, det maskuline i det feminime, identitetspolitiikens problemer, teatrets fjerde væg, nepo-babys og naturligvis tykaktivister. 
-Som sædvanlig: Intet er planlagt og alt kan ske.
-Vært: René Fredensborg
-Producer: Marcus Alvarado Eklund</description>
-			<pubDate>Fri, 20 Jan 2023 17:20:23 +0100</pubDate>
-			<itunes:duration>0:53:44</itunes:duration>
-			<itunes:order>20230120172023</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/anna-andrea-malzer-time-2</link>
+			<description>
+				<![CDATA[ Vi bygger en bro over woke/boomer-generationskløften med Danmarks yngste teaterdirektør, Anna Andrea Malzer. <br /><br />Vi taler hunelefanter, diagnoser, det maskuline i det feminime, identitetspolitiikens problemer, teatrets fjerde væg, nepo-babys og naturligvis tykaktivister. <br /><br />Som sædvanlig: Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52496287</guid>
+			<pubDate>Fri, 20 Jan 2023 17:20:23 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52496287/anna_andrea_malzer_time_2.mp3" length="77456448" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Vi bygger en bro over woke/boomer-generationskløften med Danmarks yngste teaterdirektør, Anna Andrea Malzer. Vi taler hunelefanter, diagnoser, det maskuline i det feminime, identitetspolitiikens problemer, teatrets fjerde væg, nepo-babys og...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Vi bygger en bro over woke/boomer-generationskløften med Danmarks yngste teaterdirektør, Anna Andrea Malzer. <br /><br />Vi taler hunelefanter, diagnoser, det maskuline i det feminime, identitetspolitiikens problemer, teatrets fjerde væg, nepo-babys og naturligvis tykaktivister. <br /><br />Som sædvanlig: Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</itunes:summary>
+			<itunes:duration>3225</itunes:duration>
+			<itunes:keywords>humor,interview,podcast,radio,satire</itunes:keywords>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Anna Andrea Malzer: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52496159/anna_andrea_malzer.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52496159/anna_andrea_malzer.mp3" length="3225000" type="audio/mpeg"/>
-			<description>Vi bygger en bro over woke/boomer-generationskløften med Danmarks yngste teaterdirektør, Anna Andrea Malzer. 
-Vi taler hunelefanter, diagnoser, det maskuline i det feminime, identitetspolitiikens problemer, teatrets fjerde væg, nepo-babys og naturligvis tykaktivister. 
-Som sædvanlig: Intet er planlagt og alt kan ske.
-Vært: René Fredensborg
-Producer: Marcus Alvarado Eklund</description>
-			<pubDate>Fri, 20 Jan 2023 17:18:33 +0100</pubDate>
-			<itunes:duration>0:53:45</itunes:duration>
-			<itunes:order>20230120171833</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/anna-andrea-malzer</link>
+			<description>
+				<![CDATA[ Vi bygger en bro over woke/boomer-generationskløften med Danmarks yngste teaterdirektør, Anna Andrea Malzer. <br /><br />Vi taler hunelefanter, diagnoser, det maskuline i det feminime, identitetspolitiikens problemer, teatrets fjerde væg, nepo-babys og naturligvis tykaktivister. <br /><br />Som sædvanlig: Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52496159</guid>
+			<pubDate>Fri, 20 Jan 2023 17:18:33 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52496159/anna_andrea_malzer.mp3" length="77476608" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Vi bygger en bro over woke/boomer-generationskløften med Danmarks yngste teaterdirektør, Anna Andrea Malzer. Vi taler hunelefanter, diagnoser, det maskuline i det feminime, identitetspolitiikens problemer, teatrets fjerde væg, nepo-babys og...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Vi bygger en bro over woke/boomer-generationskløften med Danmarks yngste teaterdirektør, Anna Andrea Malzer. <br /><br />Vi taler hunelefanter, diagnoser, det maskuline i det feminime, identitetspolitiikens problemer, teatrets fjerde væg, nepo-babys og naturligvis tykaktivister. <br /><br />Som sædvanlig: Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</itunes:summary>
+			<itunes:duration>3226</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Jes Dorph: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52433968/jes_dorph_time_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52433968/jes_dorph_time_1.mp3" length="3223000" type="audio/mpeg"/>
-			<description>Velkommen til sæson 2 af Syvkabalen! 
-Sammen med Jes Dorph-Petersen gennemgår vi de positive sider af hans spektakulære fyring fra TV 2. Vi gennemgår storhed og fald, umynddiggørelsen i form af, at han ikke må få et job eller forsvare sig selv, og hvad det har gjort ved Jes som menneske. 
-Den kendte studievært siger, at han aldrig har følt sig så voksen og i live. Faktisk har han aldrig haft det så godt.  
-Intet er planlagt og alt kan ske.
-Vært: René Fredensborg
-Producer: Marcus Alvarado Eklund</description>
-			<pubDate>Fri, 13 Jan 2023 17:20:39 +0100</pubDate>
-			<itunes:duration>0:53:43</itunes:duration>
-			<itunes:order>20230113172039</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/jes-dorph-time-1_1</link>
+			<description>
+				<![CDATA[ Velkommen til sæson 2 af Syvkabalen! <br /><br />Sammen med Jes Dorph-Petersen gennemgår vi de positive sider af hans spektakulære fyring fra TV 2. Vi gennemgår storhed og fald, umynddiggørelsen i form af, at han ikke må få et job eller forsvare sig selv, og hvad det har gjort ved Jes som menneske. <br /><br />Den kendte studievært siger, at han aldrig har følt sig så voksen og i live. Faktisk har han aldrig haft det så godt. <br /><br />Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52433968</guid>
+			<pubDate>Fri, 13 Jan 2023 17:20:39 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52433968/jes_dorph_time_1.mp3" length="77427072" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Velkommen til sæson 2 af Syvkabalen! Sammen med Jes Dorph-Petersen gennemgår vi de positive sider af hans spektakulære fyring fra TV 2. Vi gennemgår storhed og fald, umynddiggørelsen i form af, at han ikke må få et job eller forsvare sig selv, og...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Velkommen til sæson 2 af Syvkabalen! <br /><br />Sammen med Jes Dorph-Petersen gennemgår vi de positive sider af hans spektakulære fyring fra TV 2. Vi gennemgår storhed og fald, umynddiggørelsen i form af, at han ikke må få et job eller forsvare sig selv, og hvad det har gjort ved Jes som menneske. <br /><br />Den kendte studievært siger, at han aldrig har følt sig så voksen og i live. Faktisk har han aldrig haft det så godt. <br /><br />Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</itunes:summary>
+			<itunes:duration>3224</itunes:duration>
+			<itunes:keywords>music,personligheder,podcast,radio,tv</itunes:keywords>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Jes Dorph: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52433951/jes_dorph_time_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52433951/jes_dorph_time_2.mp3" length="3226000" type="audio/mpeg"/>
-			<description>Velkommen til sæson 2 af Syvkabalen! 
-Sammen med Jes Dorph-Petersen gennemgår vi de positive sider af hans spektakulære fyring fra TV 2. Vi gennemgår storhed og fald, umynddiggørelsen i form af, at han ikke må få et job eller forsvare sig selv, og hvad det har gjort ved Jes som menneske. 
-Den kendte studievært siger, at han aldrig har følt sig så voksen og i live. Faktisk har han aldrig haft det så godt.  
-Intet er planlagt og alt kan ske.
-Vært: René Fredensborg
-Producer: Marcus Alvarado Eklund</description>
-			<pubDate>Fri, 13 Jan 2023 17:19:30 +0100</pubDate>
-			<itunes:duration>0:53:46</itunes:duration>
-			<itunes:order>20230113171930</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/jes-dorph-time-2</link>
+			<description>
+				<![CDATA[ Velkommen til sæson 2 af Syvkabalen! <br /><br />Sammen med Jes Dorph-Petersen gennemgår vi de positive sider af hans spektakulære fyring fra TV 2. Vi gennemgår storhed og fald, umynddiggørelsen i form af, at han ikke må få et job eller forsvare sig selv, og hvad det har gjort ved Jes som menneske. <br /><br />Den kendte studievært siger, at han aldrig har følt sig så voksen og i live. Faktisk har han aldrig haft det så godt. <br /><br />Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52433951</guid>
+			<pubDate>Fri, 13 Jan 2023 17:19:30 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52433951/jes_dorph_time_2.mp3" length="77513472" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Velkommen til sæson 2 af Syvkabalen! Sammen med Jes Dorph-Petersen gennemgår vi de positive sider af hans spektakulære fyring fra TV 2. Vi gennemgår storhed og fald, umynddiggørelsen i form af, at han ikke må få et job eller forsvare sig selv, og...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Velkommen til sæson 2 af Syvkabalen! <br /><br />Sammen med Jes Dorph-Petersen gennemgår vi de positive sider af hans spektakulære fyring fra TV 2. Vi gennemgår storhed og fald, umynddiggørelsen i form af, at han ikke må få et job eller forsvare sig selv, og hvad det har gjort ved Jes som menneske. <br /><br />Den kendte studievært siger, at han aldrig har følt sig så voksen og i live. Faktisk har han aldrig haft det så godt. <br /><br />Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</itunes:summary>
+			<itunes:duration>3227</itunes:duration>
+			<itunes:keywords>humor,music,personligheder,podcast,radio,satire</itunes:keywords>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Haidar Ansari: Del 2</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52372012/haidar_ansari_del_2.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52372012/haidar_ansari_del_2.mp3" length="3233000" type="audio/mpeg"/>
-			<description>Velkommen til sæson 2 af Syvkabalen! 
-Dagens gæst er Haidar Ansari, som man både kan præsentere som digter, kriminel og tøjsælger. Vi drikker hver gang, vi ikke helt rammer navnet på hans digtsamling 'Institutionaliseret', og så runder vi de 400 pædagoger, han har mødt i sit blot 21-årige liv. 
-Vi taler også om faren for kulturel omklamring, at være eller ikke være kulturelitens pauseklovn, og så gennemgår vi naturligvis en helt almindelig dag i isolation i Vestre Fængsel.
-Intet er planlagt og alt kan ske.
-Vært: René Fredensborg
-Producer: Marcus Alvarado Eklund</description>
-			<pubDate>Fri, 06 Jan 2023 17:30:00 +0100</pubDate>
-			<itunes:duration>0:53:53</itunes:duration>
-			<itunes:order>20230106173000</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/haidar-ansari-del-2_1</link>
+			<description>
+				<![CDATA[ Velkommen til sæson 2 af Syvkabalen! <br /><br />Dagens gæst er Haidar Ansari, som man både kan præsentere som digter, kriminel og tøjsælger. Vi drikker hver gang, vi ikke helt rammer navnet på hans digtsamling 'Institutionaliseret', og så runder vi de 400 pædagoger, han har mødt i sit blot 21-årige liv. <br /><br />Vi taler også om faren for kulturel omklamring, at være eller ikke være kulturelitens pauseklovn, og så gennemgår vi naturligvis en helt almindelig dag i isolation i Vestre Fængsel.<br /><br />Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52372012</guid>
+			<pubDate>Fri, 06 Jan 2023 17:30:00 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52372012/haidar_ansari_del_2.mp3" length="77663808" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Velkommen til sæson 2 af Syvkabalen! Dagens gæst er Haidar Ansari, som man både kan præsentere som digter, kriminel og tøjsælger. Vi drikker hver gang, vi ikke helt rammer navnet på hans digtsamling 'Institutionaliseret', og så runder vi de 400...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Velkommen til sæson 2 af Syvkabalen! <br /><br />Dagens gæst er Haidar Ansari, som man både kan præsentere som digter, kriminel og tøjsælger. Vi drikker hver gang, vi ikke helt rammer navnet på hans digtsamling 'Institutionaliseret', og så runder vi de 400 pædagoger, han har mødt i sit blot 21-årige liv. <br /><br />Vi taler også om faren for kulturel omklamring, at være eller ikke være kulturelitens pauseklovn, og så gennemgår vi naturligvis en helt almindelig dag i isolation i Vestre Fængsel.<br /><br />Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</itunes:summary>
+			<itunes:duration>3234</itunes:duration>
+			<itunes:keywords>humor,podcast,satire,talkshow,tv</itunes:keywords>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Haidar Ansari: Del 1</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/52371361/haidar_ansari_del_1.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/52371361/haidar_ansari_del_1.mp3" length="3228000" type="audio/mpeg"/>
-			<description>Velkommen til sæson 2 af Syvkabalen! 
-Dagens gæst er Haidar Ansari, som man både kan præsentere som digter, kriminel og tøjsælger. Vi drikker hver gang, vi ikke helt rammer navnet på hans digtsamling 'Institutionaliseret', og så runder vi de 400 pædagoger, han har mødt i sit blot 21-årige liv. 
-Vi taler også om faren for kulturel omklamring, at være eller ikke være kulturelitens pauseklovn, og så gennemgår vi naturligvis en helt almindelig dag i isolation i Vestre Fængsel.
-Intet er planlagt og alt kan ske.
-Vært: René Fredensborg
-Producer: Marcus Alvarado Eklund</description>
-			<pubDate>Fri, 06 Jan 2023 17:17:45 +0100</pubDate>
-			<itunes:duration>0:53:48</itunes:duration>
-			<itunes:order>20230106171745</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/haidar-ansari-del-1</link>
+			<description>
+				<![CDATA[ Velkommen til sæson 2 af Syvkabalen! <br /><br />Dagens gæst er Haidar Ansari, som man både kan præsentere som digter, kriminel og tøjsælger. Vi drikker hver gang, vi ikke helt rammer navnet på hans digtsamling 'Institutionaliseret', og så runder vi de 400 pædagoger, han har mødt i sit blot 21-årige liv. <br /><br />Vi taler også om faren for kulturel omklamring, at være eller ikke være kulturelitens pauseklovn, og så gennemgår vi naturligvis en helt almindelig dag i isolation i Vestre Fængsel.<br /><br />Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/52371361</guid>
+			<pubDate>Fri, 06 Jan 2023 17:17:45 +0000</pubDate>
+			<enclosure url="https://api.spreaker.com/download/episode/52371361/haidar_ansari_del_1.mp3" length="77544576" type="audio/mpeg"/>
+			<itunes:author>24syv</itunes:author>
+			<itunes:subtitle>Velkommen til sæson 2 af Syvkabalen! Dagens gæst er Haidar Ansari, som man både kan præsentere som digter, kriminel og tøjsælger. Vi drikker hver gang, vi ikke helt rammer navnet på hans digtsamling 'Institutionaliseret', og så runder vi de 400...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Velkommen til sæson 2 af Syvkabalen! <br /><br />Dagens gæst er Haidar Ansari, som man både kan præsentere som digter, kriminel og tøjsælger. Vi drikker hver gang, vi ikke helt rammer navnet på hans digtsamling 'Institutionaliseret', og så runder vi de 400 pædagoger, han har mødt i sit blot 21-årige liv. <br /><br />Vi taler også om faren for kulturel omklamring, at være eller ikke være kulturelitens pauseklovn, og så gennemgår vi naturligvis en helt almindelig dag i isolation i Vestre Fængsel.<br /><br />Intet er planlagt og alt kan ske.<br /><br />Vært: René Fredensborg<br />Producer: Marcus Alvarado Eklund ]]>
+			</itunes:summary>
+			<itunes:duration>3229</itunes:duration>
+			<itunes:keywords>humor,musik,podcast,radio,tv</itunes:keywords>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/04e6b3bdd24d9bce114f964909096dd3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
 </rss>
