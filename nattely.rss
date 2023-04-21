@@ -1,123 +1,1043 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="itunes" version="2.0">
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 	<channel>
 		<title>Nattely</title>
-		<link>https://web.24syv.dk/channels/4976</link>
-		<link href="https://web.24syv.dk/channels/4976" rel="self" type="application/rss+xml"/>
-		<description>I Nattely giver vi dig en tænkepause til refleksion med plads til fordybelse. Det gør vi ved hjælp af lidt lommeuld, lækker musik og måske også et glas rødvin eller to. Find nysgerrigheden frem, og så håber vi, at du bliver lidt klogere på dig selv og omverdenen. Vi filosoferer i din radio hver mandag nat 23-00, god lytter!Programmet er skabt i samarbejde med SEINmag.Logo/illustration: Nellie Urban Jingle: Sofus Wiene</description>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/814/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+		<link>https://loud.land/podcast/nattely</link>
+		<description>
+			<![CDATA[ I Nattely giver vi dig en tænkepause til refleksion med plads til fordybelse. Det gør vi ved hjælp af lidt lommeuld, lækker musik og måske også et glas rødvin eller to. Find nysgerrigheden frem, og så håber vi, at du bliver lidt klogere på dig selv og omverdenen. Vi filosoferer i din radio hver mandag nat 23-00, god lytter!<br /><br />Programmet er skabt i samarbejde med SEINmag.<br />Logo/illustration: Nellie Urban Jingle: Sofus Wiene ]]>
+		</description>
+		<atom:link href="https://www.spreaker.com/show/4343469/episodes/feed" rel="self" type="application/rss+xml"/>
+		<language>da</language>
+		<category>Society & Culture</category>
+		<copyright>Copyright LOUD</copyright>
+		<image>
+			<url>https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg</url>
+			<title>Nattely</title>
+			<link>https://loud.land/podcast/nattely</link>
+		</image>
+		<lastBuildDate>Tue, 27 Dec 2022 17:37:40 +0000</lastBuildDate>
+		<itunes:author>LOUD</itunes:author>
+		<itunes:owner>
+			<itunes:name>LOUD</itunes:name>
+			<itunes:email>podcast@radioloud.dk</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+		<itunes:subtitle>Et ly for nattens tankemylder</itunes:subtitle>
+		<itunes:summary>
+			<![CDATA[ I Nattely giver vi dig en tænkepause til refleksion med plads til fordybelse. Det gør vi ved hjælp af lidt lommeuld, lækker musik og måske også et glas rødvin eller to. Find nysgerrigheden frem, og så håber vi, at du bliver lidt klogere på dig selv og omverdenen. Vi filosoferer i din radio hver mandag nat 23-00, god lytter!<br /><br />Programmet er skabt i samarbejde med SEINmag.<br />Logo/illustration: Nellie Urban Jingle: Sofus Wiene ]]>
+		</itunes:summary>
+		<itunes:category text="Society & Culture"/>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:type>episodic</itunes:type>
 		<item>
 			<title>Nattely i retrospekt</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/45693970/greatest_hitsmp3.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/45693970/greatest_hitsmp3.mp3" length="3428000" type="audio/mpeg"/>
-			<description>Hvis du, som os, også er trist ved afslutningen, kan du glæde dig ved et lille gensyn. For i denne episode gennemgår vi nogle af vores yndlings episoder gennem tiden, imens vi hører klip derfra. Fra de helt første, til de sjoveste, til de mest underlige. Det bliver vemodigt og utrolig sjovt. God lytter.</description>
-			<pubDate>Mon, 26 Jul 2021 12:23:58 +0200</pubDate>
-			<itunes:duration>0:57:08</itunes:duration>
-			<itunes:order>20210726122358</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/greatest-hitsmp3</link>
+			<description>
+				<![CDATA[ Hvis du, som os, også er trist ved afslutningen, kan du glæde dig ved et lille gensyn. For i denne episode gennemgår vi nogle af vores yndlings episoder gennem tiden, imens vi hører klip derfra. Fra de helt første, til de sjoveste, til de mest underlige. Det bliver vemodigt og utrolig sjovt. God lytter. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/45693970</guid>
+			<pubDate>Mon, 26 Jul 2021 12:23:58 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45693970/greatest_hitsmp3.mp3" length="54859426" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Hvis du, som os, også er trist ved afslutningen, kan du glæde dig ved et lille gensyn. For i denne episode gennemgår vi nogle af vores yndlings episoder gennem tiden, imens vi hører klip derfra. Fra de helt første, til de sjoveste, til de mest...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Hvis du, som os, også er trist ved afslutningen, kan du glæde dig ved et lille gensyn. For i denne episode gennemgår vi nogle af vores yndlings episoder gennem tiden, imens vi hører klip derfra. Fra de helt første, til de sjoveste, til de mest underlige. Det bliver vemodigt og utrolig sjovt. God lytter. ]]>
+			</itunes:summary>
+			<itunes:duration>3429</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Meningen med det hele</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/45843886/menignen_med_det_hele.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/45843886/menignen_med_det_hele.mp3" length="3429000" type="audio/mpeg"/>
-			<description>Tak for nu og tak for alt. Som krølle på &quot;sidste&quot; sending af Nattely, forsøger vi at komme tættere på den helt store mening. Naturvidenskab, sommerhusture og moderne renæssancemennesker bliver vendt i søgen efter et svar. Krydret med gamle musikalske kendinge bliver det til sidst en smule rørstrømsk. Selvom der er én episode tilbage. Rigtig god lytter kære du.</description>
-			<pubDate>Mon, 26 Jul 2021 12:04:50 +0200</pubDate>
-			<itunes:duration>0:57:09</itunes:duration>
-			<itunes:order>20210726120450</itunes:order>
-		</item>
-		<item>
-			<title>UNG &amp; DIGITAL: Data-hvad-for-noget? ft. Mikkel Vinther</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/44316389/mikkel_1_online_audio_converter_com.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/44316389/mikkel_1_online_audio_converter_com.mp3" length="3428000" type="audio/mpeg"/>
-			<description>I Nattely er vi altid nysgerrige. Derfor afstøver vi denne episode den digitale verden. En verden vi unge kender godt på overfladen, men sjældent forstår algoritmerne bag. For hvad betyder det, når organisationer kæmper for mere digital dannelse? Hvad er data-brokers, tech-giganter og cookies for noget? Og hvor meget kan vi overhoved gøre selv, når der ikke findes ordentlig lovgivning og regulering på området?
-Vi har inviteret den digitale Grundtvig, Mikkel Vinther, med i programmet for at gøre os, og jer, klogere på den digitale udvikling og hvordan vi kan uddanne os selv bedre. 
-Dette er første afsnit af to, hvor vi i næste uge skal tale om digital identitet, og hvordan det både er en forlængelse af os selv og samtidig et slaraffenland for misbrug og manglende lovgivning. Rigtig god lytter.</description>
-			<pubDate>Tue, 13 Apr 2021 12:53:44 +0200</pubDate>
-			<itunes:duration>0:57:08</itunes:duration>
-			<itunes:order>20210413125344</itunes:order>
-		</item>
-		<item>
-			<title>UNG &amp; DIGITAL: En identitet på nettet ft. Mikkel Vinther</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/44397266/mikkel_2_online_audio_converter_com.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/44397266/mikkel_2_online_audio_converter_com.mp3" length="3412000" type="audio/mpeg"/>
-			<description>I ugens episode skal vi tale om digital identitet, og hvordan det både kan være en forlængelse af os selv og samtidig et slaraffenland for misbrug og manglende lovgivning. Internettet og sociale medier fylder meget i vores liv, og på mange måder har vi selv været med at forme den måde, vi bruger dem på. I dag er Instagram især et medie, vi bruger til at præsentere os som lige præcis den, vi gerne vil være. Digital identitet findes dog i mange afskygninger; Det kan både være noget ret uskyldigt som Instagram, men også langt mere seriøst som catfishing. Vi tager bl.a. fat i DR-serien “100 Falske Forelskelser” og taler om skyggesiden af den digitale verden, hvor lovgivningen er utrolig langt bagud. Samtidig kan det at være en anden på nettet kan for mange være en flugt fra virkeligheden, hvor man har fuld kontrol og ikke bliver dømt på samme parametre, som i den virkelige verden. Så findes der overhoved en “ægte” og en “falsk” identitet? Er det egentlig ikke et forældet syn på den digitale verden, at den digitale version “falsk”, i stedet for at se det som en forlængelse af os selv? Vi diskuterer det vilde grænseland med Mikkel Vinther, forsker på boblestudier ved KU og stifter af borgerrettighedsbevægelsen Kritik Digital. 
-Dette er andet afsnit af to, hvor vi i første episode taler om en grundforståelse for den digitale verden og den manglende uddannelse på området. God lytter!</description>
-			<pubDate>Mon, 19 Apr 2021 22:05:14 +0200</pubDate>
-			<itunes:duration>0:56:52</itunes:duration>
-			<itunes:order>20210419220514</itunes:order>
-		</item>
-		<item>
-			<title>Fordomme og friske førstehåndsindtryk</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/44506030/fordom.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/44506030/fordom.mp3" length="3396000" type="audio/mpeg"/>
-			<description>I denne episode taler vi om hvordan vi opfatter hinanden og os selv. Både i forhold til det indtryk, vi forsøger at give andre, når vi møder nye mennesker. Det er efterhånden længe siden, vi har haft muligheden for det. Signe har med sit nye job gjort sig mange overvejelser om det, at give det helt rigtige indtryk og fremstå på lige præcis den måde, der kan betale sig bedst. Hun forsøger at udnytte de social rum til sin egen fordel, for så ofte at miste balancen og sig selv. Julius bliver derimod meget tilbageholdende i frygten for at blive misforstået og fremstå helt forkert.
-En stor del af førstehåndsindtrykket er fordomme - og dem har vi alle! De kommer jo ofte af, at det er en måde, vi kan simplificere verden - og det har vi også brug for, men trænger vi måske til lidt nuancer? Vi skal især tale om de fordomme, der eksisterer, når vi taler om at vokse op i storbyen vs. på landet - for hvad er vigtigst; natur eller kultur? Kontrasten er (semi)stor mellem Signe, der er fra indre København, og Julius der er vokset op i Himmelev.</description>
-			<pubDate>Tue, 27 Apr 2021 14:05:27 +0200</pubDate>
-			<itunes:duration>0:56:36</itunes:duration>
-			<itunes:order>20210427140527</itunes:order>
-		</item>
-		<item>
-			<title>Kan man slå op med sine venner?</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/44655772/030421_nattely_online_audio_converter_com.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/44655772/030421_nattely_online_audio_converter_com.mp3" length="3412000" type="audio/mpeg"/>
-			<description>Vi er kommet til en tid hvor venskaberne kan og skal plejes. De skal dyrkes, fordi det er nu, vi kan. I denne episode skal vi tale om netop det: at genfinde en gnist og de forventninger, vi har, til vores venskaber. Hvad sker der, hvis de ikke lever op til dem? For at forstå venskabet som relation og fænomen har vi også støvet de gamle græske filosoffer op og videnskabsteorien. Det bliver ømt og sjovt. God lytter.</description>
-			<pubDate>Thu, 06 May 2021 05:49:40 +0200</pubDate>
-			<itunes:duration>0:56:52</itunes:duration>
-			<itunes:order>20210506054940</itunes:order>
-		</item>
-		<item>
-			<title>De dårlige vaner</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/44756929/100521_nattely_online_audio_converter_com.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/44756929/100521_nattely_online_audio_converter_com.mp3" length="3370000" type="audio/mpeg"/>
-			<description>Næsten halvdelen af alt hvad vi gør i løbet af dagen er baseret på vaner. Både gode og dårlige, ting vi gør helt automatisk - uden at skænke en tanke. Men det gør vi i denne episode. Vi kortlægger psykologien og filosofien for vaner. Det betyder at elskelige gensyn med Brinkmann og Aristoteles. Sidstnævntes holdning til vaner virker måske afdanket, men Julius viser hvordan det stadig er relevant i dag, med en inspirationsfremkaldende opsang til dig kære lytter. God fornøjelse!</description>
-			<pubDate>Wed, 12 May 2021 09:51:14 +0200</pubDate>
-			<itunes:duration>0:56:10</itunes:duration>
-			<itunes:order>20210512095114</itunes:order>
-		</item>
-		<item>
-			<title>Kultur-kristen og pseudonationalist ft. Eurovision</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/45013283/240521_nattely_online_audio_converter_com.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/45013283/240521_nattely_online_audio_converter_com.mp3" length="3265000" type="audio/mpeg"/>
-			<description>I anledningen af pinse tager vi i denne episode fat i helligdagene og nationalfølelsen. For hvilken plads har religionen i vores nationalfølelse? De fleste af os vil kalde os selv for kultur-kristne, så hvorfor insisterer vi på at holde fri på dage som Pinse, Kristi Himmelfart og Påske? På trods af vores manglende tiltro til religionen som stærk, værdiskabende aktør i Danmark, finder vi en helt særlig nationalfølelse frem én gang om året. Og det er naturligvis til Eurovision Song Contest, der blev afholdt for få dage siden. En af de få gange om året, hvor det at fejre og heppe skamløst på sit eget land ikke føltes upassende eller unuanceret. Men selvom Eurovision rummer konfetti, dans og show for alle pengene, rummer det også store politiske konflikter. EBU nægter, at der er plads til begge dele. Men kan man helt adskille politik og Eurovision? God lytter!</description>
-			<pubDate>Mon, 24 May 2021 22:18:24 +0200</pubDate>
-			<itunes:duration>0:54:25</itunes:duration>
-			<itunes:order>20210524221824</itunes:order>
-		</item>
-		<item>
-			<title>En uendelig kedsomhed!</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/45125513/nattely_30052021_online_audio_converter_com.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/45125513/nattely_30052021_online_audio_converter_com.mp3" length="3372000" type="audio/mpeg"/>
-			<description>Livet har det seneste år føltes helt utrolig kedeligt. Der sker intet nyt, der synes at have mening, og så keder vi os. Du kender sikkert udtrykkene; “kloge mennesker keder sig ikke” og “man bliver klogere af at kede sig” - men hvilken er mest rigtig? Under coronakrisen har vi konstant fået gode råd til, hvordan vi undgår at kede os og holder os i gang. Men med alle vores flugtforsøg fra kedsomheden misser vi en oplagt mulighed for at konfrontere de dybere lag af vores af eksistens. Det siger de gamle filosoffer i hvert fald. Schopenhauer beskriver kedsomheden som &quot;en tam længsel uden genstand&quot; og Heidegger skriver, at &quot;ved at sætte selvet frit åbner kedsomheden derfor for, at mennesket kan blive sig selv&quot;. Julius har opfundet sine egne underkategorier af kedsomheden og Signes FOMO melder sig altid lynhurtigt på banen, når hun keder sig. Måske er kedsomheden en disciplin, vi skal lære at mestre, så bryg en ekstra stærk kop kaffe og lyt med.</description>
-			<pubDate>Tue, 01 Jun 2021 18:36:51 +0200</pubDate>
-			<itunes:duration>0:56:12</itunes:duration>
-			<itunes:order>20210601183651</itunes:order>
-		</item>
-		<item>
-			<title>Nutidens natursyn og sommerfuglejagt ft. Ida Langendorf</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/45205688/ida_online_audio_converter_com.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/45205688/ida_online_audio_converter_com.mp3" length="3417000" type="audio/mpeg"/>
-			<description>I ugens episode tager vi dig med på en nysgerrig, åben og tømmermændsramt snak om nutidens natursyn. Vi taler med friluftsvejleder, sommerfugleekspert og højskoleunderviser Ida Langendorf om alt fra biodiversitetskrisen til zoologisk have til hvorfor sommerfugle er besværlige at hænge ud med. 
-For det seneste års tid har vi brugt langt mere tid, end vi plejer i naturen. Både i byens grønne områder, men også i de danske skove. Det er har skabt en debat om hvordan vi danskere behandler- og opfører os i naturen. For det er tilsyneladende fremmed for mange, hvordan man begår sig i naturen. Men hvorfor er det så fremmed for os? Og hvor skal man starte, hvis man gerne vil komme tættere på naturen, og lære at sætte pris på den? Men før vi går igang med at tale om artsbestemmelse og klimaangst, kunne vi ikke undlade at snakke om HC Ørsteds parken i København, hvor vi befinder os - for kan man overhoved få en “rigtig” naturoplevelse i byens parker? Og hvorfor har den egentlig fået det mærkelige tilnavn, den har? God lytter.</description>
-			<pubDate>Mon, 07 Jun 2021 22:15:03 +0200</pubDate>
-			<itunes:duration>0:56:57</itunes:duration>
-			<itunes:order>20210607221503</itunes:order>
-		</item>
-		<item>
-			<title>Sommerferie-angst og Hot Girl Summer</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/45302144/14062021_nattely_online_audio_converter_com.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/45302144/14062021_nattely_online_audio_converter_com.mp3" length="3255000" type="audio/mpeg"/>
-			<description>Sommeren er startet og vi har snart ferie. Det er dog ikke sagt med en fortrøstningsfuld stemme, fordi Signe og Julius er sommerangste. Alle andre virker til altid at have den fedeste sommer, mens vi mest bare har travlt med at prøve følge med. Og vi ved, vi ikke er den eneste. Solen giver mig bare vildt dårlig samvittighed over, ikke at lave noget - for solen skinner jo! Billedet om den perfekte, sjove, festlige sommer står krystalklart, trods det sjældent rent faktisk ender sådan. Og hvad gør vi så ved det? Vi kan allerede afsløre nu, at vi ikke har svaret. Desværre. Men til gengæld har vi Hot Girl Summer, som begejstrer unge piger og forarger Berlingske. Men har lister og grænsesøgning ikke altid hørt til den pubertære sommer? Vi spørger om vi alle kan lære noget af TikTok-trenden. God lytter!</description>
-			<pubDate>Mon, 14 Jun 2021 23:00:21 +0200</pubDate>
-			<itunes:duration>0:54:15</itunes:duration>
-			<itunes:order>20210614230021</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/menignen-med-det-hele</link>
+			<description>
+				<![CDATA[ Tak for nu og tak for alt. Som krølle på "sidste" sending af Nattely, forsøger vi at komme tættere på den helt store mening. Naturvidenskab, sommerhusture og moderne renæssancemennesker bliver vendt i søgen efter et svar. Krydret med gamle musikalske kendinge bliver det til sidst en smule rørstrømsk. Selvom der er én episode tilbage. Rigtig god lytter kære du. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/45843886</guid>
+			<pubDate>Mon, 26 Jul 2021 12:04:50 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45843886/menignen_med_det_hele.mp3" length="54876161" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Tak for nu og tak for alt. Som krølle på "sidste" sending af Nattely, forsøger vi at komme tættere på den helt store mening. Naturvidenskab, sommerhusture og moderne renæssancemennesker bliver vendt i søgen efter et svar. Krydret med gamle musikalske...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Tak for nu og tak for alt. Som krølle på "sidste" sending af Nattely, forsøger vi at komme tættere på den helt store mening. Naturvidenskab, sommerhusture og moderne renæssancemennesker bliver vendt i søgen efter et svar. Krydret med gamle musikalske kendinge bliver det til sidst en smule rørstrømsk. Selvom der er én episode tilbage. Rigtig god lytter kære du. ]]>
+			</itunes:summary>
+			<itunes:duration>3430</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7d960ddd29359bd3c718cd7a7383de5b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title>Død og menneskets værdi</title>
-			<guid isPermaLink="false">https://api.spreaker.com/download/episode/45367068/21062021_nattely_online_audio_converter_com.mp3</guid>
-			<enclosure url="https://api.spreaker.com/download/episode/45367068/21062021_nattely_online_audio_converter_com.mp3" length="3415000" type="audio/mpeg"/>
-			<description>I ugens episode skal vi tale om noget så muntert som døden, som er noget vi danskere er ret dårlige til at forholde os til. I vores kultur gælder det om at være dynamisk, fremadstræbende og udnytte tiden. Men det er et eksistentielt vilkår, at vores tid på jorden ophører på et tidspunkt, og det forsøger vi at fortrænge. Men måske bliver vi nødt til at forholde os til døden, så vi kan leve. Døden er universal og absolut – de har aldrig set nogen vende tilbage fra den. Men mennesker tanken om det evige har altid været en del af historien. Der findes utallige katastrofefilm om sådan en fremtid, hvor det evige liv er for de få, men hvordan sætter vi en grænse for videnskaben, hvis det redder liv? Rigtig god lytter!</description>
-			<pubDate>Sat, 26 Jun 2021 07:25:25 +0200</pubDate>
-			<itunes:duration>0:56:55</itunes:duration>
-			<itunes:order>20210626072525</itunes:order>
+			<link>https://www.spreaker.com/user/radiolouddk/21062021-nattely-online-audio-converter-</link>
+			<description>
+				<![CDATA[ I ugens episode skal vi tale om noget så muntert som døden, som er noget vi danskere er ret dårlige til at forholde os til. I vores kultur gælder det om at være dynamisk, fremadstræbende og udnytte tiden. Men det er et eksistentielt vilkår, at vores tid på jorden ophører på et tidspunkt, og det forsøger vi at fortrænge. Men måske bliver vi nødt til at forholde os til døden, så vi kan leve. Døden er universal og absolut – de har aldrig set nogen vende tilbage fra den. Men mennesker tanken om det evige har altid været en del af historien. Der findes utallige katastrofefilm om sådan en fremtid, hvor det evige liv er for de få, men hvordan sætter vi en grænse for videnskaben, hvis det redder liv? Rigtig god lytter! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/45367068</guid>
+			<pubDate>Sat, 26 Jun 2021 07:25:25 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45367068/21062021_nattely_online_audio_converter_com.mp3" length="81978881" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I ugens episode skal vi tale om noget så muntert som døden, som er noget vi danskere er ret dårlige til at forholde os til. I vores kultur gælder det om at være dynamisk, fremadstræbende og udnytte tiden. Men det er et eksistentielt vilkår, at vores...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I ugens episode skal vi tale om noget så muntert som døden, som er noget vi danskere er ret dårlige til at forholde os til. I vores kultur gælder det om at være dynamisk, fremadstræbende og udnytte tiden. Men det er et eksistentielt vilkår, at vores tid på jorden ophører på et tidspunkt, og det forsøger vi at fortrænge. Men måske bliver vi nødt til at forholde os til døden, så vi kan leve. Døden er universal og absolut – de har aldrig set nogen vende tilbage fra den. Men mennesker tanken om det evige har altid været en del af historien. Der findes utallige katastrofefilm om sådan en fremtid, hvor det evige liv er for de få, men hvordan sætter vi en grænse for videnskaben, hvis det redder liv? Rigtig god lytter! ]]>
+			</itunes:summary>
+			<itunes:duration>3416</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a2045bfcedb4333c08c9151740f795a7.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Sommerferie-angst og Hot Girl Summer</title>
+			<link>https://www.spreaker.com/user/radiolouddk/angst-for-sommerferie-og-hot-girl-summer</link>
+			<description>
+				<![CDATA[ Sommeren er startet og vi har snart ferie. Det er dog ikke sagt med en fortrøstningsfuld stemme, fordi Signe og Julius er sommerangste. Alle andre virker til altid at have den fedeste sommer, mens vi mest bare har travlt med at prøve følge med. Og vi ved, vi ikke er den eneste. Solen giver mig bare vildt dårlig samvittighed over, ikke at lave noget - for solen skinner jo! Billedet om den perfekte, sjove, festlige sommer står krystalklart, trods det sjældent rent faktisk ender sådan. Og hvad gør vi så ved det? Vi kan allerede afsløre nu, at vi ikke har svaret. Desværre. Men til gengæld har vi Hot Girl Summer, som begejstrer unge piger og forarger Berlingske. Men har lister og grænsesøgning ikke altid hørt til den pubertære sommer? Vi spørger om vi alle kan lære noget af TikTok-trenden. God lytter! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/45302144</guid>
+			<pubDate>Mon, 14 Jun 2021 23:00:21 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45302144/14062021_nattely_online_audio_converter_com.mp3" length="78138558" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Sommeren er startet og vi har snart ferie. Det er dog ikke sagt med en fortrøstningsfuld stemme, fordi Signe og Julius er sommerangste. Alle andre virker til altid at have den fedeste sommer, mens vi mest bare har travlt med at prøve følge med. Og vi...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Sommeren er startet og vi har snart ferie. Det er dog ikke sagt med en fortrøstningsfuld stemme, fordi Signe og Julius er sommerangste. Alle andre virker til altid at have den fedeste sommer, mens vi mest bare har travlt med at prøve følge med. Og vi ved, vi ikke er den eneste. Solen giver mig bare vildt dårlig samvittighed over, ikke at lave noget - for solen skinner jo! Billedet om den perfekte, sjove, festlige sommer står krystalklart, trods det sjældent rent faktisk ender sådan. Og hvad gør vi så ved det? Vi kan allerede afsløre nu, at vi ikke har svaret. Desværre. Men til gengæld har vi Hot Girl Summer, som begejstrer unge piger og forarger Berlingske. Men har lister og grænsesøgning ikke altid hørt til den pubertære sommer? Vi spørger om vi alle kan lære noget af TikTok-trenden. God lytter! ]]>
+			</itunes:summary>
+			<itunes:duration>3256</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6ed4e432147cfc526dd7a0cc424512d8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Nutidens natursyn og sommerfuglejagt ft. Ida Langendorf</title>
+			<link>https://www.spreaker.com/user/radiolouddk/nutidens-natursyn-og-sommerfuglejagt-ft-</link>
+			<description>
+				<![CDATA[ I ugens episode tager vi dig med på en nysgerrig, åben og tømmermændsramt snak om nutidens natursyn. Vi taler med friluftsvejleder, sommerfugleekspert og højskoleunderviser Ida Langendorf om alt fra biodiversitetskrisen til zoologisk have til hvorfor sommerfugle er besværlige at hænge ud med. <br />For det seneste års tid har vi brugt langt mere tid, end vi plejer i naturen. Både i byens grønne områder, men også i de danske skove. Det er har skabt en debat om hvordan vi danskere behandler- og opfører os i naturen. For det er tilsyneladende fremmed for mange, hvordan man begår sig i naturen. Men hvorfor er det så fremmed for os? Og hvor skal man starte, hvis man gerne vil komme tættere på naturen, og lære at sætte pris på den? Men før vi går igang med at tale om artsbestemmelse og klimaangst, kunne vi ikke undlade at snakke om HC Ørsteds parken i København, hvor vi befinder os - for kan man overhoved få en “rigtig” naturoplevelse i byens parker? Og hvorfor har den egentlig fået det mærkelige tilnavn, den har? God lytter. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/45205688</guid>
+			<pubDate>Mon, 07 Jun 2021 22:15:03 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45205688/ida_online_audio_converter_com.mp3" length="82018682" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I ugens episode tager vi dig med på en nysgerrig, åben og tømmermændsramt snak om nutidens natursyn. Vi taler med friluftsvejleder, sommerfugleekspert og højskoleunderviser Ida Langendorf om alt fra biodiversitetskrisen til zoologisk have til hvorfor...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I ugens episode tager vi dig med på en nysgerrig, åben og tømmermændsramt snak om nutidens natursyn. Vi taler med friluftsvejleder, sommerfugleekspert og højskoleunderviser Ida Langendorf om alt fra biodiversitetskrisen til zoologisk have til hvorfor sommerfugle er besværlige at hænge ud med. <br />For det seneste års tid har vi brugt langt mere tid, end vi plejer i naturen. Både i byens grønne områder, men også i de danske skove. Det er har skabt en debat om hvordan vi danskere behandler- og opfører os i naturen. For det er tilsyneladende fremmed for mange, hvordan man begår sig i naturen. Men hvorfor er det så fremmed for os? Og hvor skal man starte, hvis man gerne vil komme tættere på naturen, og lære at sætte pris på den? Men før vi går igang med at tale om artsbestemmelse og klimaangst, kunne vi ikke undlade at snakke om HC Ørsteds parken i København, hvor vi befinder os - for kan man overhoved få en “rigtig” naturoplevelse i byens parker? Og hvorfor har den egentlig fået det mærkelige tilnavn, den har? God lytter. ]]>
+			</itunes:summary>
+			<itunes:duration>3418</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bfa2270f27e5704bd21a1dc2b1138796.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>En uendelig kedsomhed!</title>
+			<link>https://www.spreaker.com/user/radiolouddk/nattely-30052021-online-audio-converter-</link>
+			<description>
+				<![CDATA[ Livet har det seneste år føltes helt utrolig kedeligt. Der sker intet nyt, der synes at have mening, og så keder vi os. Du kender sikkert udtrykkene; “kloge mennesker keder sig ikke” og “man bliver klogere af at kede sig” - men hvilken er mest rigtig? Under coronakrisen har vi konstant fået gode råd til, hvordan vi undgår at kede os og holder os i gang. Men med alle vores flugtforsøg fra kedsomheden misser vi en oplagt mulighed for at konfrontere de dybere lag af vores af eksistens. Det siger de gamle filosoffer i hvert fald. Schopenhauer beskriver kedsomheden som "en tam længsel uden genstand" og Heidegger skriver, at "ved at sætte selvet frit åbner kedsomheden derfor for, at mennesket kan blive sig selv". Julius har opfundet sine egne underkategorier af kedsomheden og Signes FOMO melder sig altid lynhurtigt på banen, når hun keder sig. Måske er kedsomheden en disciplin, vi skal lære at mestre, så bryg en ekstra stærk kop kaffe og lyt med. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/45125513</guid>
+			<pubDate>Tue, 01 Jun 2021 18:36:51 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45125513/nattely_30052021_online_audio_converter_com.mp3" length="80929689" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Livet har det seneste år føltes helt utrolig kedeligt. Der sker intet nyt, der synes at have mening, og så keder vi os. Du kender sikkert udtrykkene; “kloge mennesker keder sig ikke” og “man bliver klogere af at kede sig” - men hvilken er mest rigtig?...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Livet har det seneste år føltes helt utrolig kedeligt. Der sker intet nyt, der synes at have mening, og så keder vi os. Du kender sikkert udtrykkene; “kloge mennesker keder sig ikke” og “man bliver klogere af at kede sig” - men hvilken er mest rigtig? Under coronakrisen har vi konstant fået gode råd til, hvordan vi undgår at kede os og holder os i gang. Men med alle vores flugtforsøg fra kedsomheden misser vi en oplagt mulighed for at konfrontere de dybere lag af vores af eksistens. Det siger de gamle filosoffer i hvert fald. Schopenhauer beskriver kedsomheden som "en tam længsel uden genstand" og Heidegger skriver, at "ved at sætte selvet frit åbner kedsomheden derfor for, at mennesket kan blive sig selv". Julius har opfundet sine egne underkategorier af kedsomheden og Signes FOMO melder sig altid lynhurtigt på banen, når hun keder sig. Måske er kedsomheden en disciplin, vi skal lære at mestre, så bryg en ekstra stærk kop kaffe og lyt med. ]]>
+			</itunes:summary>
+			<itunes:duration>3373</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/96a2206feecd93ad4bd17c84976ff405.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Kultur-kristen og pseudonationalist ft. Eurovision</title>
+			<link>https://www.spreaker.com/user/radiolouddk/nationalfoelelser-og-eurovision</link>
+			<description>
+				<![CDATA[ I anledningen af pinse tager vi i denne episode fat i helligdagene og nationalfølelsen. For hvilken plads har religionen i vores nationalfølelse? De fleste af os vil kalde os selv for kultur-kristne, så hvorfor insisterer vi på at holde fri på dage som Pinse, Kristi Himmelfart og Påske? På trods af vores manglende tiltro til religionen som stærk, værdiskabende aktør i Danmark, finder vi en helt særlig nationalfølelse frem én gang om året. Og det er naturligvis til Eurovision Song Contest, der blev afholdt for få dage siden. En af de få gange om året, hvor det at fejre og heppe skamløst på sit eget land ikke føltes upassende eller unuanceret. Men selvom Eurovision rummer konfetti, dans og show for alle pengene, rummer det også store politiske konflikter. EBU nægter, at der er plads til begge dele. Men kan man helt adskille politik og Eurovision? God lytter! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/45013283</guid>
+			<pubDate>Mon, 24 May 2021 22:18:24 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45013283/240521_nattely_online_audio_converter_com.mp3" length="78374287" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I anledningen af pinse tager vi i denne episode fat i helligdagene og nationalfølelsen. For hvilken plads har religionen i vores nationalfølelse? De fleste af os vil kalde os selv for kultur-kristne, så hvorfor insisterer vi på at holde fri på dage...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I anledningen af pinse tager vi i denne episode fat i helligdagene og nationalfølelsen. For hvilken plads har religionen i vores nationalfølelse? De fleste af os vil kalde os selv for kultur-kristne, så hvorfor insisterer vi på at holde fri på dage som Pinse, Kristi Himmelfart og Påske? På trods af vores manglende tiltro til religionen som stærk, værdiskabende aktør i Danmark, finder vi en helt særlig nationalfølelse frem én gang om året. Og det er naturligvis til Eurovision Song Contest, der blev afholdt for få dage siden. En af de få gange om året, hvor det at fejre og heppe skamløst på sit eget land ikke føltes upassende eller unuanceret. Men selvom Eurovision rummer konfetti, dans og show for alle pengene, rummer det også store politiske konflikter. EBU nægter, at der er plads til begge dele. Men kan man helt adskille politik og Eurovision? God lytter! ]]>
+			</itunes:summary>
+			<itunes:duration>3266</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4a5834991f149c1da8e0307c93b434a9.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>De dårlige vaner</title>
+			<link>https://www.spreaker.com/user/radiolouddk/100521-nattely-online-audio-converter-co</link>
+			<description>
+				<![CDATA[ Næsten halvdelen af alt hvad vi gør i løbet af dagen er baseret på vaner. Både gode og dårlige, ting vi gør helt automatisk - uden at skænke en tanke. Men det gør vi i denne episode. Vi kortlægger psykologien og filosofien for vaner. Det betyder at elskelige gensyn med Brinkmann og Aristoteles. Sidstnævntes holdning til vaner virker måske afdanket, men Julius viser hvordan det stadig er relevant i dag, med en inspirationsfremkaldende opsang til dig kære lytter. God fornøjelse! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/44756929</guid>
+			<pubDate>Wed, 12 May 2021 09:51:14 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/44756929/100521_nattely_online_audio_converter_com.mp3" length="80883296" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Næsten halvdelen af alt hvad vi gør i løbet af dagen er baseret på vaner. Både gode og dårlige, ting vi gør helt automatisk - uden at skænke en tanke. Men det gør vi i denne episode. Vi kortlægger psykologien og filosofien for vaner. Det betyder at...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Næsten halvdelen af alt hvad vi gør i løbet af dagen er baseret på vaner. Både gode og dårlige, ting vi gør helt automatisk - uden at skænke en tanke. Men det gør vi i denne episode. Vi kortlægger psykologien og filosofien for vaner. Det betyder at elskelige gensyn med Brinkmann og Aristoteles. Sidstnævntes holdning til vaner virker måske afdanket, men Julius viser hvordan det stadig er relevant i dag, med en inspirationsfremkaldende opsang til dig kære lytter. God fornøjelse! ]]>
+			</itunes:summary>
+			<itunes:duration>3371</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5906d8c840eef074ee1137e3117ca86d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Kan man slå op med sine venner?</title>
+			<link>https://www.spreaker.com/user/radiolouddk/030421-nattely-online-audio-converter-co</link>
+			<description>
+				<![CDATA[ Vi er kommet til en tid hvor venskaberne kan og skal plejes. De skal dyrkes, fordi det er nu, vi kan. I denne episode skal vi tale om netop det: at genfinde en gnist og de forventninger, vi har, til vores venskaber. Hvad sker der, hvis de ikke lever op til dem? For at forstå venskabet som relation og fænomen har vi også støvet de gamle græske filosoffer op og videnskabsteorien. Det bliver ømt og sjovt. God lytter. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/44655772</guid>
+			<pubDate>Thu, 06 May 2021 05:49:40 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/44655772/030421_nattely_online_audio_converter_com.mp3" length="81899564" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Vi er kommet til en tid hvor venskaberne kan og skal plejes. De skal dyrkes, fordi det er nu, vi kan. I denne episode skal vi tale om netop det: at genfinde en gnist og de forventninger, vi har, til vores venskaber. Hvad sker der, hvis de ikke lever...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Vi er kommet til en tid hvor venskaberne kan og skal plejes. De skal dyrkes, fordi det er nu, vi kan. I denne episode skal vi tale om netop det: at genfinde en gnist og de forventninger, vi har, til vores venskaber. Hvad sker der, hvis de ikke lever op til dem? For at forstå venskabet som relation og fænomen har vi også støvet de gamle græske filosoffer op og videnskabsteorien. Det bliver ømt og sjovt. God lytter. ]]>
+			</itunes:summary>
+			<itunes:duration>3413</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9b71bab4fcebc4e8ace8b15699229082.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Fordomme og friske førstehåndsindtryk</title>
+			<link>https://www.spreaker.com/user/radiolouddk/fordom</link>
+			<description>
+				<![CDATA[ I denne episode taler vi om hvordan vi opfatter hinanden og os selv. Både i forhold til det indtryk, vi forsøger at give andre, når vi møder nye mennesker. Det er efterhånden længe siden, vi har haft muligheden for det. Signe har med sit nye job gjort sig mange overvejelser om det, at give det helt rigtige indtryk og fremstå på lige præcis den måde, der kan betale sig bedst. Hun forsøger at udnytte de social rum til sin egen fordel, for så ofte at miste balancen og sig selv. Julius bliver derimod meget tilbageholdende i frygten for at blive misforstået og fremstå helt forkert.<br />En stor del af førstehåndsindtrykket er fordomme - og dem har vi alle! De kommer jo ofte af, at det er en måde, vi kan simplificere verden - og det har vi også brug for, men trænger vi måske til lidt nuancer? Vi skal især tale om de fordomme, der eksisterer, når vi taler om at vokse op i storbyen vs. på landet - for hvad er vigtigst; natur eller kultur? Kontrasten er (semi)stor mellem Signe, der er fra indre København, og Julius der er vokset op i Himmelev. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/44506030</guid>
+			<pubDate>Tue, 27 Apr 2021 14:05:27 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/44506030/fordom.mp3" length="54339090" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I denne episode taler vi om hvordan vi opfatter hinanden og os selv. Både i forhold til det indtryk, vi forsøger at give andre, når vi møder nye mennesker. Det er efterhånden længe siden, vi har haft muligheden for det. Signe har med sit nye job gjort...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I denne episode taler vi om hvordan vi opfatter hinanden og os selv. Både i forhold til det indtryk, vi forsøger at give andre, når vi møder nye mennesker. Det er efterhånden længe siden, vi har haft muligheden for det. Signe har med sit nye job gjort sig mange overvejelser om det, at give det helt rigtige indtryk og fremstå på lige præcis den måde, der kan betale sig bedst. Hun forsøger at udnytte de social rum til sin egen fordel, for så ofte at miste balancen og sig selv. Julius bliver derimod meget tilbageholdende i frygten for at blive misforstået og fremstå helt forkert.<br />En stor del af førstehåndsindtrykket er fordomme - og dem har vi alle! De kommer jo ofte af, at det er en måde, vi kan simplificere verden - og det har vi også brug for, men trænger vi måske til lidt nuancer? Vi skal især tale om de fordomme, der eksisterer, når vi taler om at vokse op i storbyen vs. på landet - for hvad er vigtigst; natur eller kultur? Kontrasten er (semi)stor mellem Signe, der er fra indre København, og Julius der er vokset op i Himmelev. ]]>
+			</itunes:summary>
+			<itunes:duration>3397</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a286cf2958c29e88310cafd1af1ff5f8.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>UNG & DIGITAL: En identitet på nettet ft. Mikkel Vinther</title>
+			<link>https://www.spreaker.com/user/radiolouddk/ung-digital-identitet-paa-nettet-ft-mikk</link>
+			<description>
+				<![CDATA[ I ugens episode skal vi tale om digital identitet, og hvordan det både kan være en forlængelse af os selv og samtidig et slaraffenland for misbrug og manglende lovgivning. Internettet og sociale medier fylder meget i vores liv, og på mange måder har vi selv været med at forme den måde, vi bruger dem på. I dag er Instagram især et medie, vi bruger til at præsentere os som lige præcis den, vi gerne vil være. Digital identitet findes dog i mange afskygninger; Det kan både være noget ret uskyldigt som Instagram, men også langt mere seriøst som catfishing. Vi tager bl.a. fat i DR-serien “100 Falske Forelskelser” og taler om skyggesiden af den digitale verden, hvor lovgivningen er utrolig langt bagud. Samtidig kan det at være en anden på nettet kan for mange være en flugt fra virkeligheden, hvor man har fuld kontrol og ikke bliver dømt på samme parametre, som i den virkelige verden. Så findes der overhoved en “ægte” og en “falsk” identitet? Er det egentlig ikke et forældet syn på den digitale verden, at den digitale version “falsk”, i stedet for at se det som en forlængelse af os selv? Vi diskuterer det vilde grænseland med Mikkel Vinther, forsker på boblestudier ved KU og stifter af borgerrettighedsbevægelsen Kritik Digital. <br />Dette er andet afsnit af to, hvor vi i første episode taler om en grundforståelse for den digitale verden og den manglende uddannelse på området. God lytter! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/44397266</guid>
+			<pubDate>Mon, 19 Apr 2021 22:05:14 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/44397266/mikkel_2_online_audio_converter_com.mp3" length="81905206" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I ugens episode skal vi tale om digital identitet, og hvordan det både kan være en forlængelse af os selv og samtidig et slaraffenland for misbrug og manglende lovgivning. Internettet og sociale medier fylder meget i vores liv, og på mange måder har...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I ugens episode skal vi tale om digital identitet, og hvordan det både kan være en forlængelse af os selv og samtidig et slaraffenland for misbrug og manglende lovgivning. Internettet og sociale medier fylder meget i vores liv, og på mange måder har vi selv været med at forme den måde, vi bruger dem på. I dag er Instagram især et medie, vi bruger til at præsentere os som lige præcis den, vi gerne vil være. Digital identitet findes dog i mange afskygninger; Det kan både være noget ret uskyldigt som Instagram, men også langt mere seriøst som catfishing. Vi tager bl.a. fat i DR-serien “100 Falske Forelskelser” og taler om skyggesiden af den digitale verden, hvor lovgivningen er utrolig langt bagud. Samtidig kan det at være en anden på nettet kan for mange være en flugt fra virkeligheden, hvor man har fuld kontrol og ikke bliver dømt på samme parametre, som i den virkelige verden. Så findes der overhoved en “ægte” og en “falsk” identitet? Er det egentlig ikke et forældet syn på den digitale verden, at den digitale version “falsk”, i stedet for at se det som en forlængelse af os selv? Vi diskuterer det vilde grænseland med Mikkel Vinther, forsker på boblestudier ved KU og stifter af borgerrettighedsbevægelsen Kritik Digital. <br />Dette er andet afsnit af to, hvor vi i første episode taler om en grundforståelse for den digitale verden og den manglende uddannelse på området. God lytter! ]]>
+			</itunes:summary>
+			<itunes:duration>3413</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c30f3cc607cb454930bb4c6b9abeff56.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>UNG & DIGITAL: Data-hvad-for-noget? ft. Mikkel Vinther</title>
+			<link>https://www.spreaker.com/user/radiolouddk/mikkel-1-online-audio-converter-com</link>
+			<description>
+				<![CDATA[ I Nattely er vi altid nysgerrige. Derfor afstøver vi denne episode den digitale verden. En verden vi unge kender godt på overfladen, men sjældent forstår algoritmerne bag. For hvad betyder det, når organisationer kæmper for mere digital dannelse? Hvad er data-brokers, tech-giganter og cookies for noget? Og hvor meget kan vi overhoved gøre selv, når der ikke findes ordentlig lovgivning og regulering på området?<br />Vi har inviteret den digitale Grundtvig, Mikkel Vinther, med i programmet for at gøre os, og jer, klogere på den digitale udvikling og hvordan vi kan uddanne os selv bedre. <br />Dette er første afsnit af to, hvor vi i næste uge skal tale om digital identitet, og hvordan det både er en forlængelse af os selv og samtidig et slaraffenland for misbrug og manglende lovgivning. Rigtig god lytter. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/44316389</guid>
+			<pubDate>Tue, 13 Apr 2021 12:53:44 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/44316389/mikkel_1_online_audio_converter_com.mp3" length="82288893" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I Nattely er vi altid nysgerrige. Derfor afstøver vi denne episode den digitale verden. En verden vi unge kender godt på overfladen, men sjældent forstår algoritmerne bag. For hvad betyder det, når organisationer kæmper for mere digital dannelse? Hvad...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I Nattely er vi altid nysgerrige. Derfor afstøver vi denne episode den digitale verden. En verden vi unge kender godt på overfladen, men sjældent forstår algoritmerne bag. For hvad betyder det, når organisationer kæmper for mere digital dannelse? Hvad er data-brokers, tech-giganter og cookies for noget? Og hvor meget kan vi overhoved gøre selv, når der ikke findes ordentlig lovgivning og regulering på området?<br />Vi har inviteret den digitale Grundtvig, Mikkel Vinther, med i programmet for at gøre os, og jer, klogere på den digitale udvikling og hvordan vi kan uddanne os selv bedre. <br />Dette er første afsnit af to, hvor vi i næste uge skal tale om digital identitet, og hvordan det både er en forlængelse af os selv og samtidig et slaraffenland for misbrug og manglende lovgivning. Rigtig god lytter. ]]>
+			</itunes:summary>
+			<itunes:duration>3429</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/75d1851c000efeb34d8d07bc1d63fa42.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Sex, skam og Tinder</title>
+			<link>https://www.spreaker.com/user/radiolouddk/skam-los-2-slutshaming-og-tinder-mails</link>
+			<description>
+				<![CDATA[ Nattely kører shameless ud af samme spor fra sidste uge, der simpelthen ikke rummede nok nuancer. Vi vender dog agendaen på hovedet, så du først får serveret skamløse Tinderhistorier fra Signes “mangeårige” erfaring på mediet. Julius forsøger derefter at råde bod på Sartres skambegreb for at definere den konstruktive og den toxic skam. Til sidst vender vi epicenteret for skam: Gymnasiet. Signe fortæller helt åbent om en episode, der stadig ligger som et skamfuldt klæde over hende i dag. Det bliver både reflekterende og enormt sårbart. God lytter. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/44106534</guid>
+			<pubDate>Mon, 29 Mar 2021 22:16:18 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/44106534/29032021_nattely_mp3.mp3" length="82421804" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Nattely kører shameless ud af samme spor fra sidste uge, der simpelthen ikke rummede nok nuancer. Vi vender dog agendaen på hovedet, så du først får serveret skamløse Tinderhistorier fra Signes “mangeårige” erfaring på mediet. Julius forsøger derefter...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Nattely kører shameless ud af samme spor fra sidste uge, der simpelthen ikke rummede nok nuancer. Vi vender dog agendaen på hovedet, så du først får serveret skamløse Tinderhistorier fra Signes “mangeårige” erfaring på mediet. Julius forsøger derefter at råde bod på Sartres skambegreb for at definere den konstruktive og den toxic skam. Til sidst vender vi epicenteret for skam: Gymnasiet. Signe fortæller helt åbent om en episode, der stadig ligger som et skamfuldt klæde over hende i dag. Det bliver både reflekterende og enormt sårbart. God lytter. ]]>
+			</itunes:summary>
+			<itunes:duration>3435</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9391c830fa639962143f20cd61a06bb1.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Sex, skam og Puk Elgård</title>
+			<link>https://www.spreaker.com/user/radiolouddk/22032021-nattely-online-audio-converter-</link>
+			<description>
+				<![CDATA[ Nattely bevæger sig igen i det aktuelle. Vi vender først i programmet #textmewhenyougethome og et modarbejdende indspark i debatten. Derudover har vi set Skamløs på DR3. Den handler om tre seje piger, der er meget bevidste om deres sexuelle frigørelse, men samtidig også meget bevidste om al den skepsis, de møder. Hvordan finder vi vejen til skamløsheden? Vi prøver vha. Jean-Paul Sartre, gymnasieminder og gode gamle Tinder at finde svaret. Og det er ikke let. Fordi hvordan genkender vi skamløsheden som en facade og ikke en oprigtighed? Kan vi overhovedet blive skamløse, eller kan vi lære noget af skammen? Rigtig god lytter! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/44029770</guid>
+			<pubDate>Wed, 24 Mar 2021 09:32:21 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/44029770/22032021_nattely_online_audio_converter_com.mp3" length="82325255" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Nattely bevæger sig igen i det aktuelle. Vi vender først i programmet #textmewhenyougethome og et modarbejdende indspark i debatten. Derudover har vi set Skamløs på DR3. Den handler om tre seje piger, der er meget bevidste om deres sexuelle...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Nattely bevæger sig igen i det aktuelle. Vi vender først i programmet #textmewhenyougethome og et modarbejdende indspark i debatten. Derudover har vi set Skamløs på DR3. Den handler om tre seje piger, der er meget bevidste om deres sexuelle frigørelse, men samtidig også meget bevidste om al den skepsis, de møder. Hvordan finder vi vejen til skamløsheden? Vi prøver vha. Jean-Paul Sartre, gymnasieminder og gode gamle Tinder at finde svaret. Og det er ikke let. Fordi hvordan genkender vi skamløsheden som en facade og ikke en oprigtighed? Kan vi overhovedet blive skamløse, eller kan vi lære noget af skammen? Rigtig god lytter! ]]>
+			</itunes:summary>
+			<itunes:duration>3431</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c5deebeea61d50db68b2ae8cd7cd8fc0.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Glædelig kampdag! ft. Maria Mejse Mortensen, Matilde de Boer og Dicte Sørensen</title>
+			<link>https://www.spreaker.com/user/radiolouddk/skaal-og-gladelig-kampdag-ft-maria-mejse</link>
+			<description>
+				<![CDATA[ Først og fremmest, ønsker vi alle glædelig kampdag! I dag er en dejlig dag, for det er den 8. marts og kvindernes kampdag. I år er 100-året for den 8. marts og selvom der stadig virkelig er meget at kæmpe for, så er det også en dag, hvor vi skal fejre alt det, vi har opnået. For denne episode er hyldest, en hyldest til kvinderne med alt det, de er. Derfor skal vi i denne episode tale med tre helt særlige, stærke, unge kvinder, der på hver sin måde har gjort stort indtryk på os. Først skal vi tale med Dicte Hostrup Sørensen, som er ung aspirerende fotograf. Hun har i dag udgivet sit fotoprojekt “Pigeliv” på SEIN, hvor hun kommer helt ind på pigeværelset og det, at være kvinde (og pige) i dag. Derefter taler vi med Mathilde de Boer, som er tidligere chefredaktør på SEIN. Udover at være kvindelig chefredaktør er Mathilde forkæmper for det unge liv i det lokale uden for storbyerne. Sidst taler vi med Maria Mejse Mortensen, som er ret- og ligestilling ordfører for Radikal Ungdom. Hun var én af de 322 kvinder der skrev under på et åbent brev mod sexisme i dansk politik, som blev udgivet i politiken 25. september 2020. Så skål og glædelig kampdag! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/43799707</guid>
+			<pubDate>Mon, 08 Mar 2021 23:05:36 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/43799707/08032021_nattely_online_audio_converter_com.mp3" length="81810538" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Først og fremmest, ønsker vi alle glædelig kampdag! I dag er en dejlig dag, for det er den 8. marts og kvindernes kampdag. I år er 100-året for den 8. marts og selvom der stadig virkelig er meget at kæmpe for, så er det også en dag, hvor vi skal fejre...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Først og fremmest, ønsker vi alle glædelig kampdag! I dag er en dejlig dag, for det er den 8. marts og kvindernes kampdag. I år er 100-året for den 8. marts og selvom der stadig virkelig er meget at kæmpe for, så er det også en dag, hvor vi skal fejre alt det, vi har opnået. For denne episode er hyldest, en hyldest til kvinderne med alt det, de er. Derfor skal vi i denne episode tale med tre helt særlige, stærke, unge kvinder, der på hver sin måde har gjort stort indtryk på os. Først skal vi tale med Dicte Hostrup Sørensen, som er ung aspirerende fotograf. Hun har i dag udgivet sit fotoprojekt “Pigeliv” på SEIN, hvor hun kommer helt ind på pigeværelset og det, at være kvinde (og pige) i dag. Derefter taler vi med Mathilde de Boer, som er tidligere chefredaktør på SEIN. Udover at være kvindelig chefredaktør er Mathilde forkæmper for det unge liv i det lokale uden for storbyerne. Sidst taler vi med Maria Mejse Mortensen, som er ret- og ligestilling ordfører for Radikal Ungdom. Hun var én af de 322 kvinder der skrev under på et åbent brev mod sexisme i dansk politik, som blev udgivet i politiken 25. september 2020. Så skål og glædelig kampdag! ]]>
+			</itunes:summary>
+			<itunes:duration>3409</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/264072a8da1ee4d9184ae8ba4ff8e41d.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Er "ungdomsmedier" et håbløst projekt? ft. Sara Mering</title>
+			<link>https://www.spreaker.com/user/radiolouddk/er-ungdomsmedier-et-haablost-projekt-ft-</link>
+			<description>
+				<![CDATA[ “Nej, du skal da ikke læse rigtig avis, det er jo for kedeligt for dig, du skal læse ungdomsavis, hvor det hele er lidt mere letfordøjeligt, og vi har stillet det op i listeform og lavet noget, der hedder et meme til at illustrere det.” Sådan lød det fra redaktionschefen på ATLAS, Alex Rich Henningsen i artiklen “kald dig et ungdomsmedie og dø” på journalisten.dk. Det fik os til at tænke… Hvorfor insisterer vi på, at “den unge stemme” er vigtig? Dét at være voksen gør dig ikke automatisk klogere, men ak, har ungdomsmedier egentlig et eksistensgrundlag? og hvornår kan man tillade sig at bruge titlen? De møder modstand, fordi de ofte er skabt er voksne, der bare forsøger at få fingrene i unge læsere. For at hjælpe os med at finde svar, har vi inviteret stifteren af ungdomsmagasinet SEIN, Sara Mering, ind til en snak i Villa Kulturs stemningsfulde orangeri. Men hvorfor og hvordan blev SEIN egentligt grundlagt? Og hvor passer vi ind i debatten om ungdomsmedier? ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/43693173</guid>
+			<pubDate>Mon, 01 Mar 2021 23:05:08 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/43693173/01032021_nattely.mp3" length="82292027" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>“Nej, du skal da ikke læse rigtig avis, det er jo for kedeligt for dig, du skal læse ungdomsavis, hvor det hele er lidt mere letfordøjeligt, og vi har stillet det op i listeform og lavet noget, der hedder et meme til at illustrere det.” Sådan lød det...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ “Nej, du skal da ikke læse rigtig avis, det er jo for kedeligt for dig, du skal læse ungdomsavis, hvor det hele er lidt mere letfordøjeligt, og vi har stillet det op i listeform og lavet noget, der hedder et meme til at illustrere det.” Sådan lød det fra redaktionschefen på ATLAS, Alex Rich Henningsen i artiklen “kald dig et ungdomsmedie og dø” på journalisten.dk. Det fik os til at tænke… Hvorfor insisterer vi på, at “den unge stemme” er vigtig? Dét at være voksen gør dig ikke automatisk klogere, men ak, har ungdomsmedier egentlig et eksistensgrundlag? og hvornår kan man tillade sig at bruge titlen? De møder modstand, fordi de ofte er skabt er voksne, der bare forsøger at få fingrene i unge læsere. For at hjælpe os med at finde svar, har vi inviteret stifteren af ungdomsmagasinet SEIN, Sara Mering, ind til en snak i Villa Kulturs stemningsfulde orangeri. Men hvorfor og hvordan blev SEIN egentligt grundlagt? Og hvor passer vi ind i debatten om ungdomsmedier? ]]>
+			</itunes:summary>
+			<itunes:duration>3429</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/523c4cd33ac197c53c372f1970cb153c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Mit psykologforbrug: ung og f*cking trist ft. Asta Maria Petersen</title>
+			<link>https://www.spreaker.com/user/radiolouddk/at-vare-ung-og-fucking-trist-hjalp</link>
+			<description>
+				<![CDATA[ Vi vil rigtig gerne tale om andet end at have det fucking dårligt, MEN det er det eneste, der fylder lige nu. Så nu taler vi om det igen. For det er så vigtigt, at vi taler om det. Dét, at rigtig mange unge mennesker har ondt i sjælen som aldrig før. Det har de seneste par uger gradvist fyldt mere i avisspalterne, og det er godt nok også på tide. Vi rider med på bølgen og deler vores modløse, hudløst ærlige tanker. Vi taler også med SEIN skribent Asta Maria Petersen, der har udgivet en artikel om at bryde tabuet; tabuet om behovet for psykologhjælp, og om hvorfor psykiatrien er så vigtig, som den er. Ræk ud, tal om det og bed om den hjælp, du har brug for. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/43590087</guid>
+			<pubDate>Mon, 22 Feb 2021 23:07:12 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/43590087/22022021_nattely_mp3.mp3" length="78378049" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Vi vil rigtig gerne tale om andet end at have det fucking dårligt, MEN det er det eneste, der fylder lige nu. Så nu taler vi om det igen. For det er så vigtigt, at vi taler om det. Dét, at rigtig mange unge mennesker har ondt i sjælen som aldrig før....</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Vi vil rigtig gerne tale om andet end at have det fucking dårligt, MEN det er det eneste, der fylder lige nu. Så nu taler vi om det igen. For det er så vigtigt, at vi taler om det. Dét, at rigtig mange unge mennesker har ondt i sjælen som aldrig før. Det har de seneste par uger gradvist fyldt mere i avisspalterne, og det er godt nok også på tide. Vi rider med på bølgen og deler vores modløse, hudløst ærlige tanker. Vi taler også med SEIN skribent Asta Maria Petersen, der har udgivet en artikel om at bryde tabuet; tabuet om behovet for psykologhjælp, og om hvorfor psykiatrien er så vigtig, som den er. Ræk ud, tal om det og bed om den hjælp, du har brug for. ]]>
+			</itunes:summary>
+			<itunes:duration>3266</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/040458d35801d31092e83d8524a6b622.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Ting, der gør os glade</title>
+			<link>https://www.spreaker.com/user/radiolouddk/ting-der-gor-os-glade</link>
+			<description>
+				<![CDATA[ Nattely leverer normalt noget til de små grå, men denne episode er en undtagelse. I dag taler vi nemlig om alle de ting, der gør os glade. Vi giver dig en (næsten) komplet liste over glædesfremkaldende ting og aktiviteter, der spænder sig fra tykke hindhærsnitter til lækre supermarkeder og fødselsdage. Det er en mørk, træls og kold tid, der kalder på smil og grin, og det kan vi love jer i får. Julius spicer hyggen op med funky grooves fra alle verdenshjørner, og sidst i programmet gennemgår vi #FreeBritney. God fornøjelse, vi håber at vi kan bringe bare et lille smil frem. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/43482308</guid>
+			<pubDate>Mon, 15 Feb 2021 23:39:44 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/43482308/15022021_nattely.mp3" length="78194355" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Nattely leverer normalt noget til de små grå, men denne episode er en undtagelse. I dag taler vi nemlig om alle de ting, der gør os glade. Vi giver dig en (næsten) komplet liste over glædesfremkaldende ting og aktiviteter, der spænder sig fra tykke...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Nattely leverer normalt noget til de små grå, men denne episode er en undtagelse. I dag taler vi nemlig om alle de ting, der gør os glade. Vi giver dig en (næsten) komplet liste over glædesfremkaldende ting og aktiviteter, der spænder sig fra tykke hindhærsnitter til lækre supermarkeder og fødselsdage. Det er en mørk, træls og kold tid, der kalder på smil og grin, og det kan vi love jer i får. Julius spicer hyggen op med funky grooves fra alle verdenshjørner, og sidst i programmet gennemgår vi #FreeBritney. God fornøjelse, vi håber at vi kan bringe bare et lille smil frem. ]]>
+			</itunes:summary>
+			<itunes:duration>3259</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8ec9f4bf6eaaa1a6c5ba8b229fa62314.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Kulturen i opløsning: mentalt helbred og fastelavnsboller</title>
+			<link>https://www.spreaker.com/user/radiolouddk/kultur-paa-et-hangende-haar</link>
+			<description>
+				<![CDATA[ Nattely er tilbage i studiet og har flødeskum på overlæben.<br />Det er snart fastelavn og københavnere stimler sammen i køer efter fastelavnsboller. I nat stiller vi spørgsmålet: kan noget så fjollet være et symptom på et dybdegående problem? Den mentale sundhed for en generation er på vej i rendestenen. Problemet er så komplekst, at det hverken skal pragmatiseres eller løses: det skal tales om. Men kan man i skrøbelighedens vold spejle sig i Men In Black? Det bliver ømt og sjovt. God lytter. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/43356094</guid>
+			<pubDate>Mon, 08 Feb 2021 23:25:41 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/43356094/08022021_nattely_mp3.mp3" length="79889598" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Nattely er tilbage i studiet og har flødeskum på overlæben. Det er snart fastelavn og københavnere stimler sammen i køer efter fastelavnsboller. I nat stiller vi spørgsmålet: kan noget så fjollet være et symptom på et dybdegående problem? Den mentale...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Nattely er tilbage i studiet og har flødeskum på overlæben.<br />Det er snart fastelavn og københavnere stimler sammen i køer efter fastelavnsboller. I nat stiller vi spørgsmålet: kan noget så fjollet være et symptom på et dybdegående problem? Den mentale sundhed for en generation er på vej i rendestenen. Problemet er så komplekst, at det hverken skal pragmatiseres eller løses: det skal tales om. Men kan man i skrøbelighedens vold spejle sig i Men In Black? Det bliver ømt og sjovt. God lytter. ]]>
+			</itunes:summary>
+			<itunes:duration>3329</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e4f5ff9d889e0396269df809dfaa8b8b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Køn, magt & smukke jakkesæt ft. Ida Holmegaard</title>
+			<link>https://www.spreaker.com/user/radiolouddk/look-tojets-magt-ft-ida-holmegaard</link>
+			<description>
+				<![CDATA[ I 2020 blev vi forelskede; forelskede i bogen LOOK. I denne episode med forfatteren bag, Ida Holmegaard. Modeindustrien producerer fast-fashion hurtigere end nogensinde. Med LOOK gentænker Ida det hurtigere og erstatter det med det langsomme, reflekterende og nysgerrige. Som at lægge mærke til, at knapperne sidder til højre på en “herreskjorte”, så man nemt kan nå sit våben. LOOK fortæller, at tøjet, looket eller outfittet, former den måde, vi møder verden på, men også den måde, verden ser tilbage på os. Eller læser os. Tøjet sætter sine spor. Vi taler om hens forfatterskab, kønsnormer og "to be channeling Diana Ross" i RuPauls Drag Show. God lytter. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/43235244</guid>
+			<pubDate>Mon, 01 Feb 2021 23:05:03 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/43235244/idaholmegaard.mp3" length="79257017" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I 2020 blev vi forelskede; forelskede i bogen LOOK. I denne episode med forfatteren bag, Ida Holmegaard. Modeindustrien producerer fast-fashion hurtigere end nogensinde. Med LOOK gentænker Ida det hurtigere og erstatter det med det langsomme,...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I 2020 blev vi forelskede; forelskede i bogen LOOK. I denne episode med forfatteren bag, Ida Holmegaard. Modeindustrien producerer fast-fashion hurtigere end nogensinde. Med LOOK gentænker Ida det hurtigere og erstatter det med det langsomme, reflekterende og nysgerrige. Som at lægge mærke til, at knapperne sidder til højre på en “herreskjorte”, så man nemt kan nå sit våben. LOOK fortæller, at tøjet, looket eller outfittet, former den måde, vi møder verden på, men også den måde, verden ser tilbage på os. Eller læser os. Tøjet sætter sine spor. Vi taler om hens forfatterskab, kønsnormer og "to be channeling Diana Ross" i RuPauls Drag Show. God lytter. ]]>
+			</itunes:summary>
+			<itunes:duration>3303</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5120a600f8ac8d43dd8604a17dfc931e.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>29, færdiguddannet og fortvivlet ft. Line Schmidt Christensen</title>
+			<link>https://www.spreaker.com/user/radiolouddk/29-fardiguddannet-og-fortvivlet-ft-line-</link>
+			<description>
+				<![CDATA[ I denne episode snakker vi med Line, der efter 10 år fandt ud af, at hun lavede det helt forkerte med sit liv. Hun fortæller os sin historie, hvor vi bl.a. skal tale om følelsen af, slet ikke at kunne forlade sengen. At være sunket så dybt, at hun ikke længere vidste, om hun var på vej til eller fra arbejde. Om hvor lang tid det tog hende, at sige stop, selvom hun inderst inde havde vidst det i mange år. Og om en stædighed, der endte med at knække hende. Hvad sker der, når man må give det hele op, for at hele sig selv? Lav en kop te, sæt dig godt tilrette og tag med på Lines rejse. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/43123539</guid>
+			<pubDate>Tue, 26 Jan 2021 11:08:45 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/43123539/line_online_audio_converter_com_1.mp3" length="78885242" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I denne episode snakker vi med Line, der efter 10 år fandt ud af, at hun lavede det helt forkerte med sit liv. Hun fortæller os sin historie, hvor vi bl.a. skal tale om følelsen af, slet ikke at kunne forlade sengen. At være sunket så dybt, at hun...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I denne episode snakker vi med Line, der efter 10 år fandt ud af, at hun lavede det helt forkerte med sit liv. Hun fortæller os sin historie, hvor vi bl.a. skal tale om følelsen af, slet ikke at kunne forlade sengen. At være sunket så dybt, at hun ikke længere vidste, om hun var på vej til eller fra arbejde. Om hvor lang tid det tog hende, at sige stop, selvom hun inderst inde havde vidst det i mange år. Og om en stædighed, der endte med at knække hende. Hvad sker der, når man må give det hele op, for at hele sig selv? Lav en kop te, sæt dig godt tilrette og tag med på Lines rejse. ]]>
+			</itunes:summary>
+			<itunes:duration>3287</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9c0283cae7801b328f910a65418cee05.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Generationskløften: større end nogensinde?</title>
+			<link>https://www.spreaker.com/user/radiolouddk/generationskloften-storre-end-nogensinde</link>
+			<description>
+				<![CDATA[ I denne episode af Nattely måler vi generationskløften, der kan føles større end nogensinde før. Oplever vi samme kløft til vores forældre? Vi siger fra, er utilfredse med den voksne generation, der har efterladt verden fattig på ressourcer og mangfoldighed. Og griner af krampetrækningerne vi ser i kommentarsporene på boomerslagmarken Facebook. Vi tager selvfølgelig også et opgør med perfekthedskulturen og bryder lidt med planen. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/42998526</guid>
+			<pubDate>Mon, 18 Jan 2021 23:21:37 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/42998526/18012021_nattely_online_audio_converter_com.mp3" length="78829444" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I denne episode af Nattely måler vi generationskløften, der kan føles større end nogensinde før. Oplever vi samme kløft til vores forældre? Vi siger fra, er utilfredse med den voksne generation, der har efterladt verden fattig på ressourcer og...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I denne episode af Nattely måler vi generationskløften, der kan føles større end nogensinde før. Oplever vi samme kløft til vores forældre? Vi siger fra, er utilfredse med den voksne generation, der har efterladt verden fattig på ressourcer og mangfoldighed. Og griner af krampetrækningerne vi ser i kommentarsporene på boomerslagmarken Facebook. Vi tager selvfølgelig også et opgør med perfekthedskulturen og bryder lidt med planen. ]]>
+			</itunes:summary>
+			<itunes:duration>3285</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/fec6bdbb963a4b700de1afffbea6ad14.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Forelskelsens fantastiske, forfærdelige fortællinger</title>
+			<link>https://www.spreaker.com/user/radiolouddk/forelskelsens-fantastiske-forfardelige-f</link>
+			<description>
+				<![CDATA[ I nattely er vi forelskede og dykker ned i alt fra Rom-coms til Ida Holmegaard for at forstå det. Vi holder Signes tre forelskelser op mod internetdogmet: Man kun er forelsket tre gange i sit liv. Selvom vi har (relativt) let ved at snakke om det, tager vi pulsen på den taburiserede kærestetitel. Er vi blevet for berøringsangste, eller bare bedre til at mærke efter? Som altid sender vi god musik og kærlighed ud i din øregang. Find vores playliste på Spotify "Nattelys musikkammer". ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/42890462</guid>
+			<pubDate>Mon, 11 Jan 2021 23:28:08 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/42890462/forelskelse_online_audio_converter_com.mp3" length="76519498" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I nattely er vi forelskede og dykker ned i alt fra Rom-coms til Ida Holmegaard for at forstå det. Vi holder Signes tre forelskelser op mod internetdogmet: Man kun er forelsket tre gange i sit liv. Selvom vi har (relativt) let ved at snakke om det,...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I nattely er vi forelskede og dykker ned i alt fra Rom-coms til Ida Holmegaard for at forstå det. Vi holder Signes tre forelskelser op mod internetdogmet: Man kun er forelsket tre gange i sit liv. Selvom vi har (relativt) let ved at snakke om det, tager vi pulsen på den taburiserede kærestetitel. Er vi blevet for berøringsangste, eller bare bedre til at mærke efter? Som altid sender vi god musik og kærlighed ud i din øregang. Find vores playliste på Spotify "Nattelys musikkammer". ]]>
+			</itunes:summary>
+			<itunes:duration>3189</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2884f6a569cb3b3ca49dd6f6752f256e.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Identitet: I krop, hoved eller helt hovedløst?</title>
+			<link>https://www.spreaker.com/user/radiolouddk/04012021-nattely-online-audio-converter-</link>
+			<description>
+				<![CDATA[ Det kan føles vigtigt at forstå sin egen identitet. Men hvad snakker vi egentlig om, når vi snakker identitet? Med hjælp fra bl.a. oldtidens filosofi og nutidens psykologi spørger vi i Nattely, om identiteten er en fast kerne eller en flydende masse. Og om den unikke identitet overhovedet er vigtig at bestræbe. God lytter. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/42811526</guid>
+			<pubDate>Mon, 04 Jan 2021 23:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/42811526/04012021_nattely_online_audio_converter_com.mp3" length="78491524" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Det kan føles vigtigt at forstå sin egen identitet. Men hvad snakker vi egentlig om, når vi snakker identitet? Med hjælp fra bl.a. oldtidens filosofi og nutidens psykologi spørger vi i Nattely, om identiteten er en fast kerne eller en flydende masse....</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Det kan føles vigtigt at forstå sin egen identitet. Men hvad snakker vi egentlig om, når vi snakker identitet? Med hjælp fra bl.a. oldtidens filosofi og nutidens psykologi spørger vi i Nattely, om identiteten er en fast kerne eller en flydende masse. Og om den unikke identitet overhovedet er vigtig at bestræbe. God lytter. ]]>
+			</itunes:summary>
+			<itunes:duration>3271</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/882ebe9b61c0c9177a20c29fef1e1a99.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Mørkeræd og mørkevandring</title>
+			<link>https://www.spreaker.com/user/radiolouddk/morkerad-og-morkevandring</link>
+			<description>
+				<![CDATA[ Hvis vi optog radio ved højlys dag, kunne vi frygte, at det ville blive en smule kejtet at dele fortællinger på den måde, vi gør. Mørket binder os sammen. Det er intimt på en måde, så man kommer tættere på andre menneskers erfaringsverdener. Som om vores sanseapparat bare er mere opmærksomt i mørket. I nattens episode undersøger vi mørket gennem biblen, sanserne og kulturen. Til sidst i programmet tager vi dig med på en mørkevandring, hvor vi famler os gennem skoven og fortællinger fra natten. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/42610995</guid>
+			<pubDate>Tue, 22 Dec 2020 16:35:40 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/42610995/21122020_nattely_online_audio_converter_com.mp3" length="78906558" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Hvis vi optog radio ved højlys dag, kunne vi frygte, at det ville blive en smule kejtet at dele fortællinger på den måde, vi gør. Mørket binder os sammen. Det er intimt på en måde, så man kommer tættere på andre menneskers erfaringsverdener. Som om...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Hvis vi optog radio ved højlys dag, kunne vi frygte, at det ville blive en smule kejtet at dele fortællinger på den måde, vi gør. Mørket binder os sammen. Det er intimt på en måde, så man kommer tættere på andre menneskers erfaringsverdener. Som om vores sanseapparat bare er mere opmærksomt i mørket. I nattens episode undersøger vi mørket gennem biblen, sanserne og kulturen. Til sidst i programmet tager vi dig med på en mørkevandring, hvor vi famler os gennem skoven og fortællinger fra natten. ]]>
+			</itunes:summary>
+			<itunes:duration>3288</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/765b29bf32f97603f1f1dceb1d0c8fdc.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>I ly for julen</title>
+			<link>https://www.spreaker.com/user/radiolouddk/i-ly-for-julen</link>
+			<description>
+				<![CDATA[ Vi sidder med varm, stærk gløgg og forsøger at hygge, i en tid der ikke rigtig lægger op til det. På Signes altan pakket ind i dyner og dårlig teknik lukker værterne op for jule-slusen og fortæller om alt fra kapitalistisk grådighed til skønne, hjemmelavede julegaver. Som småkagedåsen fra øverste hylde! En dåse fyldt med tinderdates, kultfilm og mandelgaver. Selvom vi vender julen på vrangen og uddeler lidt tæsk, så finder vi et lys og en mening med det hele, heldigvis. Glædelig jul og god lytter. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/42535565</guid>
+			<pubDate>Thu, 17 Dec 2020 13:18:34 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/42535565/juleepisode_online_audio_converter_com.mp3" length="79416886" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Vi sidder med varm, stærk gløgg og forsøger at hygge, i en tid der ikke rigtig lægger op til det. På Signes altan pakket ind i dyner og dårlig teknik lukker værterne op for jule-slusen og fortæller om alt fra kapitalistisk grådighed til skønne,...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Vi sidder med varm, stærk gløgg og forsøger at hygge, i en tid der ikke rigtig lægger op til det. På Signes altan pakket ind i dyner og dårlig teknik lukker værterne op for jule-slusen og fortæller om alt fra kapitalistisk grådighed til skønne, hjemmelavede julegaver. Som småkagedåsen fra øverste hylde! En dåse fyldt med tinderdates, kultfilm og mandelgaver. Selvom vi vender julen på vrangen og uddeler lidt tæsk, så finder vi et lys og en mening med det hele, heldigvis. Glædelig jul og god lytter. ]]>
+			</itunes:summary>
+			<itunes:duration>3310</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f0e7dbb4bddc8269d0e8dbe5b9a85a94.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>En sexet frihandelsaftale? ft. TagKlimaansvar</title>
+			<link>https://www.spreaker.com/user/radiolouddk/en-sexet-frihandelsaftale_1</link>
+			<description>
+				<![CDATA[ I Nattely giver vi dig en tænkepause til refleksion med plads til fordybelse. I denne episode forsøger vi at række lidt længere ud efter det handlingsorienterede, det konkrete og det politiske. Cæcilie, Dina og Oscar fra kompagnen Tag Klimaansvar gæster programmet og fortæller om deres kamp mod frihandelsaftalen mellem EU og Mercosur-landene. Udover at gøre en handelsaftale sexet, samtaler vi også om dét at være nybagt aktivist og mødet med klimaangsten. Har Nattely skrottet konceptet eller tabt sutten? Det lyder sådan, men heldigvis er svaret nej. For klima er ikke kun politik. Det handler om mennesker og det handler om liv. andres liv, vores liv og fremtidige liv. Det er svært, kompliceret og sårbart. Sammen bliver vi nysgerrige og forhåbentlig også lidt klogere. God fornøjelse! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/42140967</guid>
+			<pubDate>Tue, 24 Nov 2020 14:13:11 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/42140967/24112020_nattely_online_audio_converter_com.mp3" length="77832612" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I Nattely giver vi dig en tænkepause til refleksion med plads til fordybelse. I denne episode forsøger vi at række lidt længere ud efter det handlingsorienterede, det konkrete og det politiske. Cæcilie, Dina og Oscar fra kompagnen Tag Klimaansvar...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I Nattely giver vi dig en tænkepause til refleksion med plads til fordybelse. I denne episode forsøger vi at række lidt længere ud efter det handlingsorienterede, det konkrete og det politiske. Cæcilie, Dina og Oscar fra kompagnen Tag Klimaansvar gæster programmet og fortæller om deres kamp mod frihandelsaftalen mellem EU og Mercosur-landene. Udover at gøre en handelsaftale sexet, samtaler vi også om dét at være nybagt aktivist og mødet med klimaangsten. Har Nattely skrottet konceptet eller tabt sutten? Det lyder sådan, men heldigvis er svaret nej. For klima er ikke kun politik. Det handler om mennesker og det handler om liv. andres liv, vores liv og fremtidige liv. Det er svært, kompliceret og sårbart. Sammen bliver vi nysgerrige og forhåbentlig også lidt klogere. God fornøjelse! ]]>
+			</itunes:summary>
+			<itunes:duration>3243</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cb6c4bdc411ba2a002596de434c33798.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>The Backwards Law ft. Helene Kemp</title>
+			<link>https://www.spreaker.com/user/radiolouddk/the-backwards-law</link>
+			<description>
+				<![CDATA[ Vi vil gerne have succes med det, vi går efter, vi vil gerne vågne op hver dag og føle os elsket; vi vil gerne møde verden med en positiv indstilling, og vi vil gerne være lykkelige i mere end et par minutter ad gangen. I bund og grund vil vi bare gerne være lykkelige, bekymringsfrie. Men frihed uden bekymringer, er som at søge efter et æg uden en blomme; det er livløst, åndsforladt. Det er en naturlov, at hjerte rimer på smerte, og at lykken hænger uløseligt sammen med sorgen. Det siger Alan Watts i hvert fald. Han er forfatter til filosofien "The Backwards Law", der stammer fra de østlige religioner. Vi snakker med Helene, der har brugt mange timer på at forstå det, og tilmed bruger det i sin hverdag. God fornøjelse! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/42081229</guid>
+			<pubDate>Fri, 20 Nov 2020 20:54:38 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/42081229/16112020_nattely_1_online_audio_converter_com.mp3" length="76653967" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Vi vil gerne have succes med det, vi går efter, vi vil gerne vågne op hver dag og føle os elsket; vi vil gerne møde verden med en positiv indstilling, og vi vil gerne være lykkelige i mere end et par minutter ad gangen. I bund og grund vil vi bare...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Vi vil gerne have succes med det, vi går efter, vi vil gerne vågne op hver dag og føle os elsket; vi vil gerne møde verden med en positiv indstilling, og vi vil gerne være lykkelige i mere end et par minutter ad gangen. I bund og grund vil vi bare gerne være lykkelige, bekymringsfrie. Men frihed uden bekymringer, er som at søge efter et æg uden en blomme; det er livløst, åndsforladt. Det er en naturlov, at hjerte rimer på smerte, og at lykken hænger uløseligt sammen med sorgen. Det siger Alan Watts i hvert fald. Han er forfatter til filosofien "The Backwards Law", der stammer fra de østlige religioner. Vi snakker med Helene, der har brugt mange timer på at forstå det, og tilmed bruger det i sin hverdag. God fornøjelse! ]]>
+			</itunes:summary>
+			<itunes:duration>3194</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Talent - pligt, forbandelse eller begge?</title>
+			<link>https://www.spreaker.com/user/radiolouddk/talent-pligt-forbandelse-eller-begge</link>
+			<description>
+				<![CDATA[ Talent er både et udtryk for store evner og en oldgræsk møntfod til at veje guld og sølv. Men gør det talent guld værd? I denne episode taler vi om talentet og dyrkelsen af netop dette; måske en forbandelse i sig selv og for samfundet. Vi higer efter at finde talentet, dét, vi skal bruge vores liv på. Meningen med livet. Men kan der være plads til både jantelov og talentudvikling? ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/41888472</guid>
+			<pubDate>Mon, 09 Nov 2020 23:13:34 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/41888472/10112020_nattely_online_audio_converter_com.mp3" length="78000631" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Talent er både et udtryk for store evner og en oldgræsk møntfod til at veje guld og sølv. Men gør det talent guld værd? I denne episode taler vi om talentet og dyrkelsen af netop dette; måske en forbandelse i sig selv og for samfundet. Vi higer efter...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Talent er både et udtryk for store evner og en oldgræsk møntfod til at veje guld og sølv. Men gør det talent guld værd? I denne episode taler vi om talentet og dyrkelsen af netop dette; måske en forbandelse i sig selv og for samfundet. Vi higer efter at finde talentet, dét, vi skal bruge vores liv på. Meningen med livet. Men kan der være plads til både jantelov og talentudvikling? ]]>
+			</itunes:summary>
+			<itunes:duration>3250</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Den unge stemme og ungdomspolitik ft. Mikkel Lassen</title>
+			<link>https://www.spreaker.com/user/radiolouddk/den-unge-stemme</link>
+			<description>
+				<![CDATA[ Den unge stemme - hvorfor er det, vi har så lidt tiltro til de unge? Og hvorfor er det, at det altid er de voksne, der siger noget om de unge og ikke de unge selv? I vores radioprogram er vores egne perspektiver og stemmer centrale. Vi lytter til hinanden, vi anerkender hinanden og vi tror på hinanden. Trods dette, har vi flere gange fået en knude i maven lige inden vi skal optage; for hvorfor er det overhoved, at vi kan tillade os at tale om det her? Hvad kan vi sige, der bringer noget nyt på bordet? Kan vi overhoved det? Den unge stemme betyder mange ting, men uanset hvad, så er den utrolig vigtig og ikke mindst unik. Det er netop det, vi vender i nattens episode. Vi taler med Mikkel, ungdomspolitiker og flittig bruger af sin "unge stemme", om hvordan man finder sin stemme. God fornøjelse! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/41873121</guid>
+			<pubDate>Mon, 09 Nov 2020 10:50:17 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/41873121/031120_nattely_online_audio_converter_com.mp3" length="78788693" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Den unge stemme - hvorfor er det, vi har så lidt tiltro til de unge? Og hvorfor er det, at det altid er de voksne, der siger noget om de unge og ikke de unge selv? I vores radioprogram er vores egne perspektiver og stemmer centrale. Vi lytter til...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Den unge stemme - hvorfor er det, vi har så lidt tiltro til de unge? Og hvorfor er det, at det altid er de voksne, der siger noget om de unge og ikke de unge selv? I vores radioprogram er vores egne perspektiver og stemmer centrale. Vi lytter til hinanden, vi anerkender hinanden og vi tror på hinanden. Trods dette, har vi flere gange fået en knude i maven lige inden vi skal optage; for hvorfor er det overhoved, at vi kan tillade os at tale om det her? Hvad kan vi sige, der bringer noget nyt på bordet? Kan vi overhoved det? Den unge stemme betyder mange ting, men uanset hvad, så er den utrolig vigtig og ikke mindst unik. Det er netop det, vi vender i nattens episode. Vi taler med Mikkel, ungdomspolitiker og flittig bruger af sin "unge stemme", om hvordan man finder sin stemme. God fornøjelse! ]]>
+			</itunes:summary>
+			<itunes:duration>3283</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>MixText, lommeuld og Brinkmann ft. Astrid Raunkjær Jessen</title>
+			<link>https://www.spreaker.com/user/radiolouddk/mixtext-lommeuld-og-brinkmann</link>
+			<description>
+				<![CDATA[ “Behøver hygge være betinget af andet end bare selskab?” I Nattely filosoferer vi i nat for sidste gang i to timer. Nøgleordet er citater, hvor vi bl.a. tester om Julius’ mobilcitater bærer en reel værdi, og snakker med Astrid fra SEIN om at skabe mening og skrive tekst ud fra sine egne mobilcitater. Vi runder lidt litteraturhistorie og forskning, som sætter streg under, at det altså kan betale sig at læse gode bøger. Når vi lakker mod enden, nærmer snakken sig et antikapitalistisk plan. For at få blodtrykket ned quizzer Signe Julius i “Brinkmann eller Femina” for anden gang i programmets historie. God fornøjelse! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/41652420</guid>
+			<pubDate>Tue, 27 Oct 2020 01:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/41652420/sein_27102020_nattely_online_audio_converter_com.mp3" length="165233843" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>“Behøver hygge være betinget af andet end bare selskab?” I Nattely filosoferer vi i nat for sidste gang i to timer. Nøgleordet er citater, hvor vi bl.a. tester om Julius’ mobilcitater bærer en reel værdi, og snakker med Astrid fra SEIN om at skabe...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ “Behøver hygge være betinget af andet end bare selskab?” I Nattely filosoferer vi i nat for sidste gang i to timer. Nøgleordet er citater, hvor vi bl.a. tester om Julius’ mobilcitater bærer en reel værdi, og snakker med Astrid fra SEIN om at skabe mening og skrive tekst ud fra sine egne mobilcitater. Vi runder lidt litteraturhistorie og forskning, som sætter streg under, at det altså kan betale sig at læse gode bøger. Når vi lakker mod enden, nærmer snakken sig et antikapitalistisk plan. For at få blodtrykket ned quizzer Signe Julius i “Brinkmann eller Femina” for anden gang i programmets historie. God fornøjelse! ]]>
+			</itunes:summary>
+			<itunes:duration>6885</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Det analoge fotografi og nostalgi ft. Kasper Palsnov</title>
+			<link>https://www.spreaker.com/user/radiolouddk/fotografiets-nostalgi</link>
+			<description>
+				<![CDATA[ Nattely er tilbage på pinden og i nat taler vi om det analoge fotografi, og hvorfor det bare er noget helt særligt. Det analoge giver os en helt anden respekt, men også kærlighed for fotografiet, der bringer minderne frem. Vi bladrer i Julius' fotoalbum og taler med fotografen Kasper Palsnov om, hvorfor det analoge genfinder betydning i den digitale tidsalder. Vi falder hen i et nostalgiens magi, og skrider som altid i tidsplanen. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/41541269</guid>
+			<pubDate>Mon, 19 Oct 2020 21:50:03 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/41541269/sein_20102020_nattely_online_audio_converter_com.mp3" length="165401235" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Nattely er tilbage på pinden og i nat taler vi om det analoge fotografi, og hvorfor det bare er noget helt særligt. Det analoge giver os en helt anden respekt, men også kærlighed for fotografiet, der bringer minderne frem. Vi bladrer i Julius'...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Nattely er tilbage på pinden og i nat taler vi om det analoge fotografi, og hvorfor det bare er noget helt særligt. Det analoge giver os en helt anden respekt, men også kærlighed for fotografiet, der bringer minderne frem. Vi bladrer i Julius' fotoalbum og taler med fotografen Kasper Palsnov om, hvorfor det analoge genfinder betydning i den digitale tidsalder. Vi falder hen i et nostalgiens magi, og skrider som altid i tidsplanen. ]]>
+			</itunes:summary>
+			<itunes:duration>6892</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Velkommen til voksenlivet</title>
+			<link>https://www.spreaker.com/user/radiolouddk/velkommen-til-voksenlivet</link>
+			<description>
+				<![CDATA[ Vi er i en alder, hvor vi mere eller mindre har ansvaret for eget liv for første gang. Nogle ville måske kalde os voksne, men passer den definition? Definitionen for en voksen, underligt nok, langt mere vag end den nøgterne forventning, mange har til en voksen. Vi søger svar i os selv, litteraturen og filosofien, for til sidst at forene den voksne tilværelse med den barnlige eskapisme. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/41190731</guid>
+			<pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/41190731/sein_29092020_nattely_online_audio_converter_com.mp3" length="165243247" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Vi er i en alder, hvor vi mere eller mindre har ansvaret for eget liv for første gang. Nogle ville måske kalde os voksne, men passer den definition? Definitionen for en voksen, underligt nok, langt mere vag end den nøgterne forventning, mange har til...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Vi er i en alder, hvor vi mere eller mindre har ansvaret for eget liv for første gang. Nogle ville måske kalde os voksne, men passer den definition? Definitionen for en voksen, underligt nok, langt mere vag end den nøgterne forventning, mange har til en voksen. Vi søger svar i os selv, litteraturen og filosofien, for til sidst at forene den voksne tilværelse med den barnlige eskapisme. ]]>
+			</itunes:summary>
+			<itunes:duration>6886</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Hvordan skal jeg dog leve med corona? ft. Aja Larsen & Julie Tøjner</title>
+			<link>https://www.spreaker.com/user/radiolouddk/hvordan-lever-jeg-med-corona</link>
+			<description>
+				<![CDATA[ Corona, corona, corona. Som om der ikke var nok om corona. Her kommer lidt mere, men forhåbentlig noget helt anderledes. Vi har i Nattely undgået coronaen længe, men nu har frustrationerne og tankerne hobet sig op: det går over sine breder og nu ud i din radio. For at forstå, hvad det egentlig er, vi har med at gøre, snakker vi først med Julie, der blev smittet med corona tilbage i foråret og om hvordan hun stadig lever med eftervirkningerne. Derefter hører vi fra Aja, der ligesom Signe, fandt en helt særlig ro under nedlukningen. Det har Aja skrevet en artikel om, hvor hun samtidig beskriver den skam, hun forbandt med det, at hele verden skulle lukke ned før hun kunne finde ægte ro. Vi reflekterer sammen over hvor vi stod i foråret kontra hvor vi står nu. Hvad var det for nogle overvejelser vi gjorde os, og hvordan relaterer det sig til den måde, vi er på i hverdagen nu? Afslutningsvis lufter vi nogle af de mange bekymringer, vi har for fremtiden. Vi håber med dette program, at nogen kan spejle sig i vores tanker og føle sig bare lidt mindre alene. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/41049304</guid>
+			<pubDate>Tue, 22 Sep 2020 00:00:03 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/41049304/sein_22092020_nattely_online_audio_converter_com.mp3" length="165690254" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Corona, corona, corona. Som om der ikke var nok om corona. Her kommer lidt mere, men forhåbentlig noget helt anderledes. Vi har i Nattely undgået coronaen længe, men nu har frustrationerne og tankerne hobet sig op: det går over sine breder og nu ud i...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Corona, corona, corona. Som om der ikke var nok om corona. Her kommer lidt mere, men forhåbentlig noget helt anderledes. Vi har i Nattely undgået coronaen længe, men nu har frustrationerne og tankerne hobet sig op: det går over sine breder og nu ud i din radio. For at forstå, hvad det egentlig er, vi har med at gøre, snakker vi først med Julie, der blev smittet med corona tilbage i foråret og om hvordan hun stadig lever med eftervirkningerne. Derefter hører vi fra Aja, der ligesom Signe, fandt en helt særlig ro under nedlukningen. Det har Aja skrevet en artikel om, hvor hun samtidig beskriver den skam, hun forbandt med det, at hele verden skulle lukke ned før hun kunne finde ægte ro. Vi reflekterer sammen over hvor vi stod i foråret kontra hvor vi står nu. Hvad var det for nogle overvejelser vi gjorde os, og hvordan relaterer det sig til den måde, vi er på i hverdagen nu? Afslutningsvis lufter vi nogle af de mange bekymringer, vi har for fremtiden. Vi håber med dette program, at nogen kan spejle sig i vores tanker og føle sig bare lidt mindre alene. ]]>
+			</itunes:summary>
+			<itunes:duration>6904</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Kunsten at fylde et rum ft. Emma Leerskov Bak</title>
+			<link>https://www.spreaker.com/user/radiolouddk/sein-15092020-nattely-online-audio-conve</link>
+			<description>
+				<![CDATA[ Hvad vil det sige at fylde et rum? Og hvordan gør vi det på den mest behagelige og inspirerende måde? I nattens program taler vi om selvtilliden. Hvad vi gør, når vi mangler den, og hvordan man kan bruge den til at indtage et rum. Det bliver ømt, ærligt og informativt. Vi taler først med Anders fra Headspace, en organisation der arbejder med unge og alle de mange problemer, man kan løbe ind i. Anders hjælper os med at forstå hvilke problemer, det er, man kan stå overfor, hvis selvtillid ikke er på toppen. Senere i programmet taler vi med Emma, der har skrevet en artikel om "Kunsten at fylde et rum". Hvordan vi kan indtage en scene med selvtillid uden at tage hverken for meget eller for lidt plads. Vi slutter af med en selvtillids-test i ægte buzzfeed-stil. God fornøjelse! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/40961220</guid>
+			<pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/40961220/sein_15092020_nattely_online_audio_converter_com.mp3" length="165657026" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Hvad vil det sige at fylde et rum? Og hvordan gør vi det på den mest behagelige og inspirerende måde? I nattens program taler vi om selvtilliden. Hvad vi gør, når vi mangler den, og hvordan man kan bruge den til at indtage et rum. Det bliver ømt,...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Hvad vil det sige at fylde et rum? Og hvordan gør vi det på den mest behagelige og inspirerende måde? I nattens program taler vi om selvtilliden. Hvad vi gør, når vi mangler den, og hvordan man kan bruge den til at indtage et rum. Det bliver ømt, ærligt og informativt. Vi taler først med Anders fra Headspace, en organisation der arbejder med unge og alle de mange problemer, man kan løbe ind i. Anders hjælper os med at forstå hvilke problemer, det er, man kan stå overfor, hvis selvtillid ikke er på toppen. Senere i programmet taler vi med Emma, der har skrevet en artikel om "Kunsten at fylde et rum". Hvordan vi kan indtage en scene med selvtillid uden at tage hverken for meget eller for lidt plads. Vi slutter af med en selvtillids-test i ægte buzzfeed-stil. God fornøjelse! ]]>
+			</itunes:summary>
+			<itunes:duration>6903</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Succes i livet! ft. Anneli Søgård-Høyer</title>
+			<link>https://www.spreaker.com/user/radiolouddk/succes-i-livet</link>
+			<description>
+				<![CDATA[ Julius har fået stjålet sin computer, få timer inden programmet går i luften. Hvad der egentlig skulle have været en succes, endte i en bitter skuffelse. Men skal succes altid være succeskriteriet? Er det noget galt med systemet eller kulturen? Tegneserieforfatter mm. Anneli Søgård-Høyer lærer os om “Pytmanden” og hans vigtige budskaber. Til sidst har Signe en skarp quiz med, der putter div. selvhjælpsbøger til skamme.<br />og pyt om programmet blev en succes i denne omgang… ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/40758260</guid>
+			<pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/40758260/sein_08092020_nattely_online_audio_converter_com.mp3" length="165589317" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Julius har fået stjålet sin computer, få timer inden programmet går i luften. Hvad der egentlig skulle have været en succes, endte i en bitter skuffelse. Men skal succes altid være succeskriteriet? Er det noget galt med systemet eller kulturen?...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Julius har fået stjålet sin computer, få timer inden programmet går i luften. Hvad der egentlig skulle have været en succes, endte i en bitter skuffelse. Men skal succes altid være succeskriteriet? Er det noget galt med systemet eller kulturen? Tegneserieforfatter mm. Anneli Søgård-Høyer lærer os om “Pytmanden” og hans vigtige budskaber. Til sidst har Signe en skarp quiz med, der putter div. selvhjælpsbøger til skamme.<br />og pyt om programmet blev en succes i denne omgang… ]]>
+			</itunes:summary>
+			<itunes:duration>6900</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Er du ensom og alene? ft. Elias Eland Kristensen</title>
+			<link>https://www.spreaker.com/user/radiolouddk/sein-01092020-nattely-online-audio-conve</link>
+			<description>
+				<![CDATA[ I Nattely synes vi at det er svært at være alene. Hvorfor er det lige, det er egentlig så vigtigt, som alle de kloge siger, det er? I nattens episode prøver vi at finde svar på hvad aleneheden er, og hvordan vi bruger den bedst. Til at hjælpe os med det, har vi Elias med over telefonen. Elias har lært sig selv at være alene og bruger det aktivt i sin hverdag. Skænk dig selv et glas lækkert og bliv klogere sammen med os. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/40659048</guid>
+			<pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/40659048/sein_01092020_nattely_online_audio_converter_com.mp3" length="165614394" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I Nattely synes vi at det er svært at være alene. Hvorfor er det lige, det er egentlig så vigtigt, som alle de kloge siger, det er? I nattens episode prøver vi at finde svar på hvad aleneheden er, og hvordan vi bruger den bedst. Til at hjælpe os med...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I Nattely synes vi at det er svært at være alene. Hvorfor er det lige, det er egentlig så vigtigt, som alle de kloge siger, det er? I nattens episode prøver vi at finde svar på hvad aleneheden er, og hvordan vi bruger den bedst. Til at hjælpe os med det, har vi Elias med over telefonen. Elias har lært sig selv at være alene og bruger det aktivt i sin hverdag. Skænk dig selv et glas lækkert og bliv klogere sammen med os. ]]>
+			</itunes:summary>
+			<itunes:duration>6901</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Hvor finder man inspirationen? ft. Ørehænger & Sigrid Gundersen</title>
+			<link>https://www.spreaker.com/user/radiolouddk/hvad-inspirerer-dig</link>
+			<description>
+				<![CDATA[ I nattens program har vi ungdomsmagasinet SEINs to nye radioværter inde i studiet til for at hjælpe os med at svare på spørgsmålet: hvad inspirerer dig? Lettere sagt end gjort. Jonas og Teis fortæller om deres musikalske rejse og derigennem mange af deres inspirationskilder. Vi har åbnet endnu en flaske rødvin, som vinentusiast Jacob fortæller meget mere om sidst i programmet. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/40504440</guid>
+			<pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/40504440/nattely_248_online_audio_converter_com.mp3" length="165603109" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I nattens program har vi ungdomsmagasinet SEINs to nye radioværter inde i studiet til for at hjælpe os med at svare på spørgsmålet: hvad inspirerer dig? Lettere sagt end gjort. Jonas og Teis fortæller om deres musikalske rejse og derigennem mange af...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I nattens program har vi ungdomsmagasinet SEINs to nye radioværter inde i studiet til for at hjælpe os med at svare på spørgsmålet: hvad inspirerer dig? Lettere sagt end gjort. Jonas og Teis fortæller om deres musikalske rejse og derigennem mange af deres inspirationskilder. Vi har åbnet endnu en flaske rødvin, som vinentusiast Jacob fortæller meget mere om sidst i programmet. ]]>
+			</itunes:summary>
+			<itunes:duration>6901</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Hvornår føler du dig mest levende? ft. Mathilde de Boer</title>
+			<link>https://www.spreaker.com/user/radiolouddk/18082020-nattely-online-audio-converter-</link>
+			<description>
+				<![CDATA[ Hvornår føler du dig allermest levende? Vi forsøger endnu engang at besvare livets store spørgsmål og springe i med begge ben. I nattens episode filosoferer og diskuterer vi, hvornår vi føler os "levende". Til at hjælpe os med det har vi inviteret vores nye chefredaktør på SEIN, Matilde De Boer, ind i studiet. Der er åbnet en god flaske rødvin, som vi nyder sammen undervejs, præsenteret af Nattelys nye vin-entusiast. Vi tager dig i hånden, og sammen forsøger vi at komme tættere på hvad, det egentlig er, der får os til at føle os levende. Ledsaget af masser af lommeuld, gode historier og god musik. God fornøjelse. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/40409711</guid>
+			<pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/40409711/18082020_nattely_online_audio_converter_com.mp3" length="164610969" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Hvornår føler du dig allermest levende? Vi forsøger endnu engang at besvare livets store spørgsmål og springe i med begge ben. I nattens episode filosoferer og diskuterer vi, hvornår vi føler os "levende". Til at hjælpe os med det har vi inviteret...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Hvornår føler du dig allermest levende? Vi forsøger endnu engang at besvare livets store spørgsmål og springe i med begge ben. I nattens episode filosoferer og diskuterer vi, hvornår vi føler os "levende". Til at hjælpe os med det har vi inviteret vores nye chefredaktør på SEIN, Matilde De Boer, ind i studiet. Der er åbnet en god flaske rødvin, som vi nyder sammen undervejs, præsenteret af Nattelys nye vin-entusiast. Vi tager dig i hånden, og sammen forsøger vi at komme tættere på hvad, det egentlig er, der får os til at føle os levende. Ledsaget af masser af lommeuld, gode historier og god musik. God fornøjelse. ]]>
+			</itunes:summary>
+			<itunes:duration>6859</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Bål og bajer #2: Forvist fra højskole</title>
+			<link>https://www.spreaker.com/user/radiolouddk/baal-og-bajer-2-hojskole-og-corona-hvad-</link>
+			<description>
+				<![CDATA[ Dette er tredje episode af Nattely på sommerferie. I nattens episode har Nattely igen lavet studie rundt om et bål og knappet kolde fra kassen. Denne gang gang har vi inviteret Elias, Grith, Iben og Emil, som alle er højskoleelever, rundt om bålet for snakke om den tid de har haft, men i den grad også mistet pga. pandemien. Vi prøver at finde frem til den følelse af limbo der var fanget i, alt imens vi holder humøret og øllene i vejret. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/36366153</guid>
+			<pubDate>Tue, 14 Jul 2020 00:00:18 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/36366153/h_jskole_online_audio_converter_com.mp3" length="165632911" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Dette er tredje episode af Nattely på sommerferie. I nattens episode har Nattely igen lavet studie rundt om et bål og knappet kolde fra kassen. Denne gang gang har vi inviteret Elias, Grith, Iben og Emil, som alle er højskoleelever, rundt om bålet for...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Dette er tredje episode af Nattely på sommerferie. I nattens episode har Nattely igen lavet studie rundt om et bål og knappet kolde fra kassen. Denne gang gang har vi inviteret Elias, Grith, Iben og Emil, som alle er højskoleelever, rundt om bålet for snakke om den tid de har haft, men i den grad også mistet pga. pandemien. Vi prøver at finde frem til den følelse af limbo der var fanget i, alt imens vi holder humøret og øllene i vejret. ]]>
+			</itunes:summary>
+			<itunes:duration>6902</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Udflugt #1: Martinus; en underlig, åndsvidenskabelig religion ft. Solvej Gundersen</title>
+			<link>https://www.spreaker.com/user/radiolouddk/martinus-og-det-tredje-testamente</link>
+			<description>
+				<![CDATA[ Dette er anden episode af Nattely på sommerferie. I denne episode har vi pakket bilen for at drage ud i landet og ud af vores komfortzone. Vi tager hjem til Solvej, som er en ældre dame med større indsigt end de fleste. I en lang samtale akkompagneret med fuglekvidder udfoldes drømmetydning, hendes Martinus (en åndsvidenskab) interesse og vigtigheden af naturen. Vi var tomme for ord efter denne episode. Nyd det. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/36362397</guid>
+			<pubDate>Tue, 07 Jul 2020 00:00:10 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/36362397/solvej_og_martinus_online_audio_converter_com.mp3" length="165400285" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Dette er anden episode af Nattely på sommerferie. I denne episode har vi pakket bilen for at drage ud i landet og ud af vores komfortzone. Vi tager hjem til Solvej, som er en ældre dame med større indsigt end de fleste. I en lang samtale akkompagneret...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Dette er anden episode af Nattely på sommerferie. I denne episode har vi pakket bilen for at drage ud i landet og ud af vores komfortzone. Vi tager hjem til Solvej, som er en ældre dame med større indsigt end de fleste. I en lang samtale akkompagneret med fuglekvidder udfoldes drømmetydning, hendes Martinus (en åndsvidenskab) interesse og vigtigheden af naturen. Vi var tomme for ord efter denne episode. Nyd det. ]]>
+			</itunes:summary>
+			<itunes:duration>6892</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Bål og bajer #1: Festivalssæson</title>
+			<link>https://www.spreaker.com/user/radiolouddk/baal-og-bajer-1-festivaller</link>
+			<description>
+				<![CDATA[ Dette er første sommerepisode af Nattely. Vi har sat et studie op omkring et levende bål og knappet øl til lejligheden. Sommer og festival er synonymer, men ikke denne sommer. I denne episode dyrker Nattely savnet til bl.a. Roskilde Festival, som i denne uge skulle have været i gang for 50. gang. Vi har inviteret Kasper med rundt om bålet, som vores “festivalsekspert” som både har været utallige gange på Roskilde, men er også en drivkraft for den lidt mindre Nakke Festival. Der vil være koncertminder, røverhistorier og flaskeklir. Skål! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/36362339</guid>
+			<pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/36362339/kasper_online_audio_converter_com.mp3" length="165671781" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Dette er første sommerepisode af Nattely. Vi har sat et studie op omkring et levende bål og knappet øl til lejligheden. Sommer og festival er synonymer, men ikke denne sommer. I denne episode dyrker Nattely savnet til bl.a. Roskilde Festival, som i...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Dette er første sommerepisode af Nattely. Vi har sat et studie op omkring et levende bål og knappet øl til lejligheden. Sommer og festival er synonymer, men ikke denne sommer. I denne episode dyrker Nattely savnet til bl.a. Roskilde Festival, som i denne uge skulle have været i gang for 50. gang. Vi har inviteret Kasper med rundt om bålet, som vores “festivalsekspert” som både har været utallige gange på Roskilde, men er også en drivkraft for den lidt mindre Nakke Festival. Der vil være koncertminder, røverhistorier og flaskeklir. Skål! ]]>
+			</itunes:summary>
+			<itunes:duration>6903</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Midsommer og ritualer</title>
+			<link>https://www.spreaker.com/user/radiolouddk/nattely-midsommer-og-ritualer</link>
+			<description>
+				<![CDATA[ I sidste live afsnit af Nattely inden vi går på sommerferie, taler vi om midsommeren. Hvad er det egentlig, vi fejrer, når vi holder Midsommer og Sankt Hans?<br />Med Sankt Hans og Midsommer følger der traditionsrige ritualer - men hvad er de der ritualer for en størrelse? Vi taler om ritualernes oprindelse, betydning og vigtighed. Sidst i programmet laver Nattely sit eget ritual, siger velkommen til sommeren og på gensyn. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/33673878</guid>
+			<pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/33673878/23062020_nattely_online_audio_converter_com.mp3" length="165596517" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I sidste live afsnit af Nattely inden vi går på sommerferie, taler vi om midsommeren. Hvad er det egentlig, vi fejrer, når vi holder Midsommer og Sankt Hans? Med Sankt Hans og Midsommer følger der traditionsrige ritualer - men hvad er de der ritualer...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I sidste live afsnit af Nattely inden vi går på sommerferie, taler vi om midsommeren. Hvad er det egentlig, vi fejrer, når vi holder Midsommer og Sankt Hans?<br />Med Sankt Hans og Midsommer følger der traditionsrige ritualer - men hvad er de der ritualer for en størrelse? Vi taler om ritualernes oprindelse, betydning og vigtighed. Sidst i programmet laver Nattely sit eget ritual, siger velkommen til sommeren og på gensyn. ]]>
+			</itunes:summary>
+			<itunes:duration>6900</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Sommer, ferie og frivillig ft. Kasper Goldschmidt</title>
+			<link>https://www.spreaker.com/user/radiolouddk/nattely-kasper</link>
+			<description>
+				<![CDATA[ I nattens episode af Nattely har vi højskoleelev Kasper med inde i studiet. Vi taler med Kasper om livet og nogle af de forhindringer, han har stået over for. Vi kommer ind på "de gode gamle dage", nattelivet, rejser, frivillighed og sommeren 2020. Til sidst i programmet laver vi en lille quiz, hvor Kasper og Signe dyster om en flaske rosé, der skal nydes herhjemme i det danske sommervejr. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/31476520</guid>
+			<pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/31476520/16062020_nattely_online_audio_converter_com.mp3" length="165607175" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I nattens episode af Nattely har vi højskoleelev Kasper med inde i studiet. Vi taler med Kasper om livet og nogle af de forhindringer, han har stået over for. Vi kommer ind på "de gode gamle dage", nattelivet, rejser, frivillighed og sommeren 2020....</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I nattens episode af Nattely har vi højskoleelev Kasper med inde i studiet. Vi taler med Kasper om livet og nogle af de forhindringer, han har stået over for. Vi kommer ind på "de gode gamle dage", nattelivet, rejser, frivillighed og sommeren 2020. Til sidst i programmet laver vi en lille quiz, hvor Kasper og Signe dyster om en flaske rosé, der skal nydes herhjemme i det danske sommervejr. ]]>
+			</itunes:summary>
+			<itunes:duration>6901</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Drømmenes land</title>
+			<link>https://www.spreaker.com/user/radiolouddk/nattely-09062020</link>
+			<description>
+				<![CDATA[ Hvad er en drøm egentlig? og hvorfor er de så mærkelige? Det er nogle af de spørgsmål, vi i nattens program forsøger at give svar på. Vi taler dagdrømme, drømmesymboler, mareridt og alt der imellem. Kan vi overhoved bruge drømme til noget? Mellem de filosofiske overvejelser spiller vi noget lækkert, stemningsfyldt musik til din aften. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/30000824</guid>
+			<pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/30000824/nattely_09062020_online_audio_converter_com.mp3" length="174130408" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Hvad er en drøm egentlig? og hvorfor er de så mærkelige? Det er nogle af de spørgsmål, vi i nattens program forsøger at give svar på. Vi taler dagdrømme, drømmesymboler, mareridt og alt der imellem. Kan vi overhoved bruge drømme til noget? Mellem de...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Hvad er en drøm egentlig? og hvorfor er de så mærkelige? Det er nogle af de spørgsmål, vi i nattens program forsøger at give svar på. Vi taler dagdrømme, drømmesymboler, mareridt og alt der imellem. Kan vi overhoved bruge drømme til noget? Mellem de filosofiske overvejelser spiller vi noget lækkert, stemningsfyldt musik til din aften. ]]>
+			</itunes:summary>
+			<itunes:duration>7256</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Konspirationsteorier #2 - 9/11 og Illuminati</title>
+			<link>https://www.spreaker.com/user/radiolouddk/nattely-konspirationsteorier-2</link>
+			<description>
+				<![CDATA[ I denne uge på Nattely tager vi igen fat på konspirationsteorierne. Konspirationsteorier kan være fjollede, men de kan også være ret overbevisende. Eller i hvert fald underholdende. Det er noget, mange bruger de sene nattetimer på at undre sig over. Sætte spørgsmålstegn ved alt det, vi tror, vi ved og ikke ved. I dette program runder vi løse ender fra sidste uge, men tager bl.a. også fat på de meget kendte konspirationsteorier om 9/11 og Illuminati. Det bliver underholdende og undrende, men bestemt også lidt mærkeligt. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/28906560</guid>
+			<pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/28906560/nattely_online_audio_converter_com.mp3" length="165601229" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I denne uge på Nattely tager vi igen fat på konspirationsteorierne. Konspirationsteorier kan være fjollede, men de kan også være ret overbevisende. Eller i hvert fald underholdende. Det er noget, mange bruger de sene nattetimer på at undre sig over....</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I denne uge på Nattely tager vi igen fat på konspirationsteorierne. Konspirationsteorier kan være fjollede, men de kan også være ret overbevisende. Eller i hvert fald underholdende. Det er noget, mange bruger de sene nattetimer på at undre sig over. Sætte spørgsmålstegn ved alt det, vi tror, vi ved og ikke ved. I dette program runder vi løse ender fra sidste uge, men tager bl.a. også fat på de meget kendte konspirationsteorier om 9/11 og Illuminati. Det bliver underholdende og undrende, men bestemt også lidt mærkeligt. ]]>
+			</itunes:summary>
+			<itunes:duration>6901</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Post-corona refleksioner</title>
+			<link>https://www.spreaker.com/user/radiolouddk/19052020-nattely-online-audio-converter-</link>
+			<description>
+				<![CDATA[ Program d. 18/5 <br /><br />I dette program taler værterne Signe og Julius om den delvise åbning af Danmark. Vi bruger de sene timer på at reflekterer over karantænen og alt, vi har lært indtil videre. Vi interviewer Sofus om den bedste bog, han har læst i Corona-perioden. Vi taler med Helena, der er klimaaktivist i Mellemfolkeligt Samvirke om at være aktivist i disse tider. God lytter! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/27752544</guid>
+			<pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/27752544/19052020_nattely_online_audio_converter_com.mp3" length="165422228" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Program d. 18/5 I dette program taler værterne Signe og Julius om den delvise åbning af Danmark. Vi bruger de sene timer på at reflekterer over karantænen og alt, vi har lært indtil videre. Vi interviewer Sofus om den bedste bog, han har læst i...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Program d. 18/5 <br /><br />I dette program taler værterne Signe og Julius om den delvise åbning af Danmark. Vi bruger de sene timer på at reflekterer over karantænen og alt, vi har lært indtil videre. Vi interviewer Sofus om den bedste bog, han har læst i Corona-perioden. Vi taler med Helena, der er klimaaktivist i Mellemfolkeligt Samvirke om at være aktivist i disse tider. God lytter! ]]>
+			</itunes:summary>
+			<itunes:duration>6893</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Fortællinger fra nattelivet</title>
+			<link>https://www.spreaker.com/user/radiolouddk/12042020-nattely-online-audio-converter-</link>
+			<description>
+				<![CDATA[ Program d. 11/5<br /><br />Danmarks natteliv er lige nu lukket ned, som meget andet. Værsthusene har dog endelig fået lov til at åbne op igen i forlængelse af anden bølge. Og hvor har det været savnet. I denne udgave af Nattely dyrker vi savnet til nattelivet. Vi snakker med lytterne Signe og Olga, der deler historier fra deres yndlingssteder at tage i byen. Julius introducerer Signe til Roskilde byliv, hvorefter Signe fortæller om skyggesiden ved natklublivet, som hun selv har været en del af. Vi rammer hele følelsesregisteret i nat. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/27145798</guid>
+			<pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/27145798/12042020_nattely_online_audio_converter_com.mp3" length="165602160" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Program d. 11/5 Danmarks natteliv er lige nu lukket ned, som meget andet. Værsthusene har dog endelig fået lov til at åbne op igen i forlængelse af anden bølge. Og hvor har det været savnet. I denne udgave af Nattely dyrker vi savnet til...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Program d. 11/5<br /><br />Danmarks natteliv er lige nu lukket ned, som meget andet. Værsthusene har dog endelig fået lov til at åbne op igen i forlængelse af anden bølge. Og hvor har det været savnet. I denne udgave af Nattely dyrker vi savnet til nattelivet. Vi snakker med lytterne Signe og Olga, der deler historier fra deres yndlingssteder at tage i byen. Julius introducerer Signe til Roskilde byliv, hvorefter Signe fortæller om skyggesiden ved natklublivet, som hun selv har været en del af. Vi rammer hele følelsesregisteret i nat. ]]>
+			</itunes:summary>
+			<itunes:duration>6901</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Insomnia</title>
+			<link>https://www.spreaker.com/user/radiolouddk/20200405-nattely-online-audio-converter-</link>
+			<description>
+				<![CDATA[ Program d. 4/5<br /><br />Søvnløshed kan ramme alle, som lyn fra en klar himmel. Sommetider er man herre over det, sommetider ikke. I denne udgave af Nattely dykker vi ned i generelle søvnproblemer samt vores egne. Derudover snakker vi med Clara, 20, som lider af narkolepsi. Hun deler ærligt ud om alle de udfordringer, det har medført. Selvom emnet er tungt, forsøger vi at servere det på en hyggelig måde. Selvfølgelig akkompagneret af lækker musik. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/26732697</guid>
+			<pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/26732697/20200405_nattely_online_audio_converter_com.mp3" length="165567051" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Program d. 4/5 Søvnløshed kan ramme alle, som lyn fra en klar himmel. Sommetider er man herre over det, sommetider ikke. I denne udgave af Nattely dykker vi ned i generelle søvnproblemer samt vores egne. Derudover snakker vi med Clara, 20, som...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Program d. 4/5<br /><br />Søvnløshed kan ramme alle, som lyn fra en klar himmel. Sommetider er man herre over det, sommetider ikke. I denne udgave af Nattely dykker vi ned i generelle søvnproblemer samt vores egne. Derudover snakker vi med Clara, 20, som lider af narkolepsi. Hun deler ærligt ud om alle de udfordringer, det har medført. Selvom emnet er tungt, forsøger vi at servere det på en hyggelig måde. Selvfølgelig akkompagneret af lækker musik. ]]>
+			</itunes:summary>
+			<itunes:duration>6899</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Fremtidsdrømme ft Mikkel Lassen</title>
+			<link>https://www.spreaker.com/user/radiolouddk/20200428-nattely-online-audio-converter-</link>
+			<description>
+				<![CDATA[ Program d. 27/4<br /><br />Har du store drømme om fremtiden eller tager du bare en dag ad gangen?<br />De fleste af os har i disse tider langt mere tid mellem hænderne, end vi plejer. Nogle er begyndt at strikke eller løbe, mens andre binger Netflix. En ny, meget filosofisk, aktivitet har fundet sted hos os fra Nattely; at bruge tiden på at tænke over, hvad livet mon kan byde på. Drømme om det helt store og det lidt mindre. Og vi tænkte, at vi nok ikke var de eneste, der har brugt mange sene nattetimer på at reflektere over fremtiden.<br />I dette program starter vi småt og taler om de nærmeste fremtidsdrømme for mange unge; gode karakterer, studie og backpack rejser i sabbatåret. <br />Velkommen til Nattely. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/26237298</guid>
+			<pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/26237298/20200428_nattely_online_audio_converter_com.mp3" length="165592129" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Program d. 27/4 Har du store drømme om fremtiden eller tager du bare en dag ad gangen? De fleste af os har i disse tider langt mere tid mellem hænderne, end vi plejer. Nogle er begyndt at strikke eller løbe, mens andre binger Netflix. En ny, meget...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Program d. 27/4<br /><br />Har du store drømme om fremtiden eller tager du bare en dag ad gangen?<br />De fleste af os har i disse tider langt mere tid mellem hænderne, end vi plejer. Nogle er begyndt at strikke eller løbe, mens andre binger Netflix. En ny, meget filosofisk, aktivitet har fundet sted hos os fra Nattely; at bruge tiden på at tænke over, hvad livet mon kan byde på. Drømme om det helt store og det lidt mindre. Og vi tænkte, at vi nok ikke var de eneste, der har brugt mange sene nattetimer på at reflektere over fremtiden.<br />I dette program starter vi småt og taler om de nærmeste fremtidsdrømme for mange unge; gode karakterer, studie og backpack rejser i sabbatåret. <br />Velkommen til Nattely. ]]>
+			</itunes:summary>
+			<itunes:duration>6900</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Slap dog af!</title>
+			<link>https://www.spreaker.com/user/radiolouddk/nattelt-slap-af</link>
+			<description>
+				<![CDATA[ Program d. 20/4<br /><br />I dette program taler vi om alt det, der (måske) kan hjælpe dig med at slappe af og få en rigtig god nats søvn. Vi tager dig med hele vejen fra blåtlys-briller til ASMR til ambient musik og Hans Zimmer. Vi håber du er dødtræt, og måske lidt inspireret, ved programmets ende. Sov godt! ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/27781651</guid>
+			<pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/27781651/nattelt_slap_af.mp3" length="165227877" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Program d. 20/4 I dette program taler vi om alt det, der (måske) kan hjælpe dig med at slappe af og få en rigtig god nats søvn. Vi tager dig med hele vejen fra blåtlys-briller til ASMR til ambient musik og Hans Zimmer. Vi håber du er dødtræt, og...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Program d. 20/4<br /><br />I dette program taler vi om alt det, der (måske) kan hjælpe dig med at slappe af og få en rigtig god nats søvn. Vi tager dig med hele vejen fra blåtlys-briller til ASMR til ambient musik og Hans Zimmer. Vi håber du er dødtræt, og måske lidt inspireret, ved programmets ende. Sov godt! ]]>
+			</itunes:summary>
+			<itunes:duration>6885</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Astrologi og stjernetegn</title>
+			<link>https://www.spreaker.com/user/radiolouddk/nattely-astrologi</link>
+			<description>
+				<![CDATA[ Program d. 13/4<br /><br />Passer dit horoskop bare aldrig? Måske gør du det faktisk forkert. Lyt med her, hvor vi forklarer astrologien 101 på almindelig dansk. Med os på telefonen har vi Xenia, en engageret hobby-astrolog, der hjælper os med at finde hoved og hale i det store univers. Sidst i programmet lægger vi horoskoper for tre heldige lyttere, der nu ved præcis hvem de skal undgå, hvad de er gode til og ikke mindst hvem der kan blive deres fremtidige eneste ene. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/27786067</guid>
+			<pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/27786067/nattely_astrologi.mp3" length="165808453" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>Program d. 13/4 Passer dit horoskop bare aldrig? Måske gør du det faktisk forkert. Lyt med her, hvor vi forklarer astrologien 101 på almindelig dansk. Med os på telefonen har vi Xenia, en engageret hobby-astrolog, der hjælper os med at finde hoved...</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ Program d. 13/4<br /><br />Passer dit horoskop bare aldrig? Måske gør du det faktisk forkert. Lyt med her, hvor vi forklarer astrologien 101 på almindelig dansk. Med os på telefonen har vi Xenia, en engageret hobby-astrolog, der hjælper os med at finde hoved og hale i det store univers. Sidst i programmet lægger vi horoskoper for tre heldige lyttere, der nu ved præcis hvem de skal undgå, hvad de er gode til og ikke mindst hvem der kan blive deres fremtidige eneste ene. ]]>
+			</itunes:summary>
+			<itunes:duration>6909</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>Monstre og mennesker</title>
+			<link>https://www.spreaker.com/user/radiolouddk/astrologi-monstre</link>
+			<description>
+				<![CDATA[ I dette program taler vi om monstre og alt hvad, det indebærer... Fra græsk mytologi til monster erotik, til filmhistorie og til Slenderman. Vi runder alt, hvad hjertet begærer og alt det, du ikke vidste, du ville vide. God fornøjelse. ]]>
+			</description>
+			<guid isPermaLink="false">https://api.spreaker.com/episode/27786082</guid>
+			<pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/27786082/astrologi_monstre.mp3" length="165493103" type="audio/mpeg"/>
+			<itunes:author>LOUD</itunes:author>
+			<itunes:subtitle>I dette program taler vi om monstre og alt hvad, det indebærer... Fra græsk mytologi til monster erotik, til filmhistorie og til Slenderman. Vi runder alt, hvad hjertet begærer og alt det, du ikke vidste, du ville vide. God fornøjelse.</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[ I dette program taler vi om monstre og alt hvad, det indebærer... Fra græsk mytologi til monster erotik, til filmhistorie og til Slenderman. Vi runder alt, hvad hjertet begærer og alt det, du ikke vidste, du ville vide. God fornøjelse. ]]>
+			</itunes:summary>
+			<itunes:duration>6896</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://d1bm3dmew779uf.cloudfront.net/rss/show/4343469/3fee7e0ba1d1a983fcdf51744a8be15c.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
 </rss>
