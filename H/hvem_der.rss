@@ -1,154 +1,152 @@
-<rss
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:podcast="https://podcastindex.org/namespace/1.0"
-	xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-	<channel>
-		<title>Hvem der?</title>
-		<link>https://www.spreaker.com/show/hvem-der</link>
-		<description>
-			<![CDATA[ Banke banke på... Hvem der?<br /><br />I samtaleprogrammet “Hvem Der?” åbner vi hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden. ]]>
-		</description>
-		<atom:link href="https://www.spreaker.com/show/5793735/episodes/feed" rel="self" type="application/rss+xml"/>
-		<language>da</language>
-		<category>Personal Journals</category>
-		<copyright>24syv</copyright>
-		<image>
-			<url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg</url>
-			<title>Hvem der?</title>
-			<link>https://www.spreaker.com/show/hvem-der</link>
-		</image>
-		<lastBuildDate>Wed, 19 Apr 2023 08:02:20 +0000</lastBuildDate>
-		<itunes:author>24syv</itunes:author>
-		<itunes:owner>
-			<itunes:name>24syv</itunes:name>
-			<itunes:email>podcast@24syv.dk</itunes:email>
-		</itunes:owner>
-		<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
-		<itunes:subtitle>Banke banke på... Hvem der? I samtaleprogrammet “Hvem Der?” åbner vi hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen...</itunes:subtitle>
-		<itunes:summary>
-			<![CDATA[ Banke banke på... Hvem der?<br /><br />I samtaleprogrammet “Hvem Der?” åbner vi hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden. ]]>
-		</itunes:summary>
-		<itunes:category text="Society & Culture">
-			<itunes:category text="Personal Journals"/></itunes:category>
-		<itunes:category text="Society & Culture"/>
-		<itunes:category text="Society & Culture">
-			<itunes:category text="Relationships"/></itunes:category>
-		<itunes:explicit>clean</itunes:explicit>
-		<itunes:type>episodic</itunes:type>
-		<item>
-			<title>Pjerrot har gjort mig til den, jeg er i dag</title>
-			<link>https://www.spreaker.com/user/radiolouddk/hvem-der-daniel-odvig</link>
-			<description>
-				<![CDATA[ Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge er Nana vært. Hun vil blive klogere på entertaineren, Daniel Odvig. Han kalder sig for cirkusgal, og så drømmer han om, at han og kæresten bliver Hr. og Fru direktør for eget cirkus en dag. <br /><br />Gæst:<br />Daniel Odvig<br /><br />Vært og tilrettelægger:<br />Nana Margrethe Haugaard ]]>
-			</description>
-			<guid isPermaLink="false">https://api.spreaker.com/episode/53579273</guid>
-			<pubDate>Wed, 19 Apr 2023 08:01:55 +0000</pubDate>
-			<enclosure url="https://api.spreaker.com/download/episode/53579273/hvem_der_daniel_odvig.mp3" length="77921280" type="audio/mpeg"/>
-			<itunes:author>24syv</itunes:author>
-			<itunes:subtitle>Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden. I denne uge er...</itunes:subtitle>
-			<itunes:summary>
-				<![CDATA[ Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge er Nana vært. Hun vil blive klogere på entertaineren, Daniel Odvig. Han kalder sig for cirkusgal, og så drømmer han om, at han og kæresten bliver Hr. og Fru direktør for eget cirkus en dag. <br /><br />Gæst:<br />Daniel Odvig<br /><br />Vært og tilrettelægger:<br />Nana Margrethe Haugaard ]]>
-			</itunes:summary>
-			<itunes:duration>3244</itunes:duration>
-			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-		<item>
-			<title>Vennebogens første side: Josefine</title>
-			<link>https://www.spreaker.com/user/radiolouddk/faerdig-roede</link>
-			<description>
-				<![CDATA[ Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge er Line vært. Hun har valgt at støve sin gamle sagnomspundne vennebog af. I denne omgang har hun inviteret Josefine hjem for at få svar på alt fra yndlingstal, tre ting på en øde ø til hvad meningen med livet i det hele taget er. <br /><br />Gæst: <br />Josefine Juul Jørgensen <br /><br />Vært og tilrettelægger: <br />Line Schmidt Mouridsen ]]>
-			</description>
-			<guid isPermaLink="false">https://api.spreaker.com/episode/53512458</guid>
-			<pubDate>Thu, 13 Apr 2023 07:50:11 +0000</pubDate>
-			<enclosure url="https://api.spreaker.com/download/episode/53512458/f_rdig_r_de.mp3" length="78059520" type="audio/mpeg"/>
-			<itunes:author>24syv</itunes:author>
-			<itunes:subtitle>Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden. I denne uge er...</itunes:subtitle>
-			<itunes:summary>
-				<![CDATA[ Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge er Line vært. Hun har valgt at støve sin gamle sagnomspundne vennebog af. I denne omgang har hun inviteret Josefine hjem for at få svar på alt fra yndlingstal, tre ting på en øde ø til hvad meningen med livet i det hele taget er. <br /><br />Gæst: <br />Josefine Juul Jørgensen <br /><br />Vært og tilrettelægger: <br />Line Schmidt Mouridsen ]]>
-			</itunes:summary>
-			<itunes:duration>3250</itunes:duration>
-			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-		<item>
-			<title>Jeg vil gerne blive en bedre muslim</title>
-			<link>https://www.spreaker.com/user/radiolouddk/jeg-vil-gerne-blive-en-bedre-muslim</link>
-			<description>
-				<![CDATA[ Det er Ramadan og for vores gæst er det en vigtig begivenhed her. Det er nemlig her finder tilbage til sig selv og kan gå der fra som en bedre muslim. Hun nulstilles. Men hvordan er der plads til at hun kan blive en bedre muslim i en verden som vores? En verden med en alt for skør udlændingepolitik, for lidt repræsentation i mediebilledet og for lidt fokus på et muslimske datingliv? <br /><br /><br />Vært: Karoline Fodgaard<br /><br />Gæst: Ikran Abdi Aziz Mohamed ]]>
-			</description>
-			<guid isPermaLink="false">https://api.spreaker.com/episode/53387321</guid>
-			<pubDate>Thu, 30 Mar 2023 07:40:18 +0000</pubDate>
-			<enclosure url="https://api.spreaker.com/download/episode/53387321/hvem_der_ikran.mp3" length="77395968" type="audio/mpeg"/>
-			<itunes:author>24syv</itunes:author>
-			<itunes:subtitle>Det er Ramadan og for vores gæst er det en vigtig begivenhed her. Det er nemlig her finder tilbage til sig selv og kan gå der fra som en bedre muslim. Hun nulstilles. Men hvordan er der plads til at hun kan blive en bedre muslim i en verden som vores?...</itunes:subtitle>
-			<itunes:summary>
-				<![CDATA[ Det er Ramadan og for vores gæst er det en vigtig begivenhed her. Det er nemlig her finder tilbage til sig selv og kan gå der fra som en bedre muslim. Hun nulstilles. Men hvordan er der plads til at hun kan blive en bedre muslim i en verden som vores? En verden med en alt for skør udlændingepolitik, for lidt repræsentation i mediebilledet og for lidt fokus på et muslimske datingliv? <br /><br /><br />Vært: Karoline Fodgaard<br /><br />Gæst: Ikran Abdi Aziz Mohamed ]]>
-			</itunes:summary>
-			<itunes:duration>3223</itunes:duration>
-			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-		<item>
-			<title>Kvindekampen er andet end vejen til bestyrelsesposter</title>
-			<link>https://www.spreaker.com/user/radiolouddk/kvindekampen-er-andet-end-vejen-til-best</link>
-			<description>
-				<![CDATA[ Mainstream-feminismen er med til at fastKvindekampen er kampen for alle. Sådan lyder det fra Emma, som mener, at mainstream-feminismen er med til at fastholde det partriakalske samfund. Det værdifulde i omsorgsarbejdet skal anerkendes - det er ikke kun bestyrelsesposterne som skal jagtes for kvinderne. <br /><br />Karoline Fodgaard tegner i denne uge et portræt af Emma - et portræt af en kvinde som synes kvindekampen mangler nuancer.<br /><br /><br />Vært: Karoline Fodgaard <br /><br />Medvirkende: Emma Nophiran, studerer retorik på Københavns Universitet, debattør og arbejder på debatredaktionen på Information. <br /><br /><br /><br /> ]]>
-			</description>
-			<guid isPermaLink="false">https://api.spreaker.com/episode/53132231</guid>
-			<pubDate>Thu, 09 Mar 2023 12:00:14 +0000</pubDate>
-			<enclosure url="https://api.spreaker.com/download/episode/53132231/hvem_der_med_emma_til_spreaker.mp3" length="76890816" type="audio/mpeg"/>
-			<itunes:author>24syv</itunes:author>
-			<itunes:subtitle>Mainstream-feminismen er med til at fastKvindekampen er kampen for alle. Sådan lyder det fra Emma, som mener, at mainstream-feminismen er med til at fastholde det partriakalske samfund. Det værdifulde i omsorgsarbejdet skal anerkendes - det er ikke...</itunes:subtitle>
-			<itunes:summary>
-				<![CDATA[ Mainstream-feminismen er med til at fastKvindekampen er kampen for alle. Sådan lyder det fra Emma, som mener, at mainstream-feminismen er med til at fastholde det partriakalske samfund. Det værdifulde i omsorgsarbejdet skal anerkendes - det er ikke kun bestyrelsesposterne som skal jagtes for kvinderne. <br /><br />Karoline Fodgaard tegner i denne uge et portræt af Emma - et portræt af en kvinde som synes kvindekampen mangler nuancer.<br /><br /><br />Vært: Karoline Fodgaard <br /><br />Medvirkende: Emma Nophiran, studerer retorik på Københavns Universitet, debattør og arbejder på debatredaktionen på Information. <br /><br /><br /><br /> ]]>
-			</itunes:summary>
-			<itunes:duration>3202</itunes:duration>
-			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-		<item>
-			<title>Josefine om provinsliv, død og nye begyndelser</title>
-			<link>https://www.spreaker.com/user/radiolouddk/hvem-der-hele-projektet</link>
-			<description>
-				<![CDATA[ Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge er Line vært. Hun vil hver gang portrættere nogle af sine nærmeste livsvidner - for har de mon vendt hver en sten sammen ?<br /><br />I denne omgang har hun inviteret Josefine hjem til en snak om alt fra provinslivets trivialiteter til et skelsættende, men vigtigt møde med døden. <br /><br />Gæst: <br />Josefine Johansen<br /><br />Vært og tilrettelægger: <br />Line Schmidt Mouridsen <b><br /></b> ]]>
-			</description>
-			<guid isPermaLink="false">https://api.spreaker.com/episode/52880318</guid>
-			<pubDate>Thu, 02 Mar 2023 15:34:07 +0000</pubDate>
-			<enclosure url="https://api.spreaker.com/download/episode/52880318/hvem_der_hele_projektet.mp3" length="78050304" type="audio/mpeg"/>
-			<itunes:author>24syv</itunes:author>
-			<itunes:subtitle>Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden. I denne uge er...</itunes:subtitle>
-			<itunes:summary>
-				<![CDATA[ Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge er Line vært. Hun vil hver gang portrættere nogle af sine nærmeste livsvidner - for har de mon vendt hver en sten sammen ?<br /><br />I denne omgang har hun inviteret Josefine hjem til en snak om alt fra provinslivets trivialiteter til et skelsættende, men vigtigt møde med døden. <br /><br />Gæst: <br />Josefine Johansen<br /><br />Vært og tilrettelægger: <br />Line Schmidt Mouridsen <b><br /></b> ]]>
-			</itunes:summary>
-			<itunes:duration>3250</itunes:duration>
-			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-		<item>
-			<title>Casper på besøg hos Danmarks yngste bedemand</title>
-			<link>https://www.spreaker.com/user/radiolouddk/hvemderspreaker</link>
-			<description>
-				<![CDATA[ Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge uge er Casper vært, som hver gang laver portrætter af fiktive personer - det er altså ikke virkeligt, hvad der foregår i dagens program. <br /><br />Casper er taget på besøg hos 22-årige Anton, der er Danmarks yngste bedemand. Her forsøger han at få svar på, hvad der driver en ung mand til at leve et liv så tæt på de døde. ]]>
-			</description>
-			<guid isPermaLink="false">https://api.spreaker.com/episode/52801686</guid>
-			<pubDate>Wed, 22 Feb 2023 09:08:16 +0000</pubDate>
-			<enclosure url="https://api.spreaker.com/download/episode/52801686/hvemderspreaker.mp3" length="78861312" type="audio/mpeg"/>
-			<itunes:author>24syv</itunes:author>
-			<itunes:subtitle>Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden. I denne uge uge...</itunes:subtitle>
-			<itunes:summary>
-				<![CDATA[ Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge uge er Casper vært, som hver gang laver portrætter af fiktive personer - det er altså ikke virkeligt, hvad der foregår i dagens program. <br /><br />Casper er taget på besøg hos 22-årige Anton, der er Danmarks yngste bedemand. Her forsøger han at få svar på, hvad der driver en ung mand til at leve et liv så tæt på de døde. ]]>
-			</itunes:summary>
-			<itunes:duration>3284</itunes:duration>
-			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-	</channel>
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Hvem der?</title>
+    <link>https://www.spreaker.com/show/hvem-der</link>
+    <description><![CDATA[Banke banke på... Hvem der?<br /><br />I samtaleprogrammet “Hvem Der?” åbner vi hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.]]></description>
+    <atom:link href="https://www.spreaker.com/show/5793735/episodes/feed" rel="self" type="application/rss+xml"/>
+    <language>da</language>
+    <category>Personal Journals</category>
+    <copyright>24syv</copyright>
+    <image>
+      <url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg</url>
+      <title>Hvem der?</title>
+      <link>https://www.spreaker.com/show/hvem-der</link>
+    </image>
+    <lastBuildDate>Fri, 28 Apr 2023 15:15:11 +0000</lastBuildDate>
+    <itunes:author>24syv</itunes:author>
+    <itunes:owner>
+      <itunes:name>24syv</itunes:name>
+      <itunes:email>podcast@24syv.dk</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
+    <itunes:subtitle>Banke banke på... Hvem der?
+
+I samtaleprogrammet “Hvem Der?” åbner vi hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen...</itunes:subtitle>
+    <itunes:summary><![CDATA[Banke banke på... Hvem der?<br /><br />I samtaleprogrammet “Hvem Der?” åbner vi hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.]]></itunes:summary>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Relationships"/>
+    </itunes:category>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Capper The Rapper griber mikrofonen: Det var mig der skrev 'Hjem Fra Fabrikken'</title>
+      <link>https://www.spreaker.com/user/radiolouddk/capspreak</link>
+      <description><![CDATA[I denne uge griber rapperen Capper The Rapper mikrofonen og laver et portræt af sig selv. <br /><br />Du kender ham måske ikke, men det kan du komme til. Hør blandt andet hans hyldestsang til konditoren Karen Volf, der skal blive del af et Kultur-Rap-Kanon-Mixtape i 2024.<br /><br />Og så påstår han også, at han har skrevet teksten til 'Hjem Fra Fabrikken' af Andreas Odbjerg. Den skulle oprindeligt have været en aggressiv rap-sang, men endte anderledes. Du kan eksklusivt få lov at høre Capper The Rappers demo-version i podcasten her.<br /><br /><br />*Alt i dette afsnit er fiktion.<br /><br />Vært og tilrettelægger: Casper Ell Hausner Olsen]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53662066</guid>
+      <pubDate>Thu, 27 Apr 2023 07:15:52 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53662066/capspreakre.mp3" length="45117504" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>I denne uge griber rapperen Capper The Rapper mikrofonen og laver et portræt af sig selv. 
+
+Du kender ham måske ikke, men det kan du komme til. Hør blandt andet hans hyldestsang til konditoren Karen Volf, der skal blive del af et...</itunes:subtitle>
+      <itunes:summary><![CDATA[I denne uge griber rapperen Capper The Rapper mikrofonen og laver et portræt af sig selv. <br /><br />Du kender ham måske ikke, men det kan du komme til. Hør blandt andet hans hyldestsang til konditoren Karen Volf, der skal blive del af et Kultur-Rap-Kanon-Mixtape i 2024.<br /><br />Og så påstår han også, at han har skrevet teksten til 'Hjem Fra Fabrikken' af Andreas Odbjerg. Den skulle oprindeligt have været en aggressiv rap-sang, men endte anderledes. Du kan eksklusivt få lov at høre Capper The Rappers demo-version i podcasten her.<br /><br /><br />*Alt i dette afsnit er fiktion.<br /><br />Vært og tilrettelægger: Casper Ell Hausner Olsen]]></itunes:summary>
+      <itunes:duration>1878</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Pjerrot har gjort mig til den, jeg er i dag</title>
+      <link>https://www.spreaker.com/user/radiolouddk/hvem-der-daniel-odvig</link>
+      <description><![CDATA[Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge er Nana vært. Hun vil blive klogere på entertaineren, Daniel Odvig. Han kalder sig for cirkusgal, og så drømmer han om, at han og kæresten bliver Hr. og Fru direktør for eget cirkus en dag. <br /><br />Gæst:<br />Daniel Odvig<br /><br />Vært og tilrettelægger:<br />Nana Margrethe Haugaard]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53579273</guid>
+      <pubDate>Wed, 19 Apr 2023 08:01:55 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53579273/hvem_der_daniel_odvig.mp3" length="77921280" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.
+
+I denne uge er...</itunes:subtitle>
+      <itunes:summary><![CDATA[Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge er Nana vært. Hun vil blive klogere på entertaineren, Daniel Odvig. Han kalder sig for cirkusgal, og så drømmer han om, at han og kæresten bliver Hr. og Fru direktør for eget cirkus en dag. <br /><br />Gæst:<br />Daniel Odvig<br /><br />Vært og tilrettelægger:<br />Nana Margrethe Haugaard]]></itunes:summary>
+      <itunes:duration>3244</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Vennebogens første side: Josefine</title>
+      <link>https://www.spreaker.com/user/radiolouddk/faerdig-roede</link>
+      <description><![CDATA[Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge er Line vært. Hun har valgt at støve sin gamle sagnomspundne vennebog af. I denne omgang har hun inviteret Josefine hjem for at få svar på alt fra yndlingstal, tre ting på en øde ø til hvad meningen med livet i det hele taget er. <br /><br />Gæst: <br />Josefine Juul Jørgensen <br /><br />Vært og tilrettelægger: <br />Line Schmidt Mouridsen]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53512458</guid>
+      <pubDate>Thu, 13 Apr 2023 07:50:11 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53512458/f_rdig_r_de.mp3" length="78059520" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.
+
+I denne uge er...</itunes:subtitle>
+      <itunes:summary><![CDATA[Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge er Line vært. Hun har valgt at støve sin gamle sagnomspundne vennebog af. I denne omgang har hun inviteret Josefine hjem for at få svar på alt fra yndlingstal, tre ting på en øde ø til hvad meningen med livet i det hele taget er. <br /><br />Gæst: <br />Josefine Juul Jørgensen <br /><br />Vært og tilrettelægger: <br />Line Schmidt Mouridsen]]></itunes:summary>
+      <itunes:duration>3250</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Jeg vil gerne blive en bedre muslim</title>
+      <link>https://www.spreaker.com/user/radiolouddk/jeg-vil-gerne-blive-en-bedre-muslim</link>
+      <description><![CDATA[Det er Ramadan og for vores gæst er det en vigtig begivenhed her. Det er nemlig her finder tilbage til sig selv og kan gå der fra som en bedre muslim. Hun nulstilles. Men hvordan er der plads til at hun kan blive en bedre muslim i en verden som vores? En verden med en alt for skør udlændingepolitik, for lidt repræsentation i mediebilledet og for lidt fokus på et muslimske datingliv? <br /><br /><br />Vært: Karoline Fodgaard<br /><br />Gæst: Ikran Abdi Aziz Mohamed]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53387321</guid>
+      <pubDate>Thu, 30 Mar 2023 07:40:18 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53387321/hvem_der_ikran.mp3" length="77395968" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Det er Ramadan og for vores gæst er det en vigtig begivenhed her. Det er nemlig her finder tilbage til sig selv og kan gå der fra som en bedre muslim. Hun nulstilles. Men hvordan er der plads til at hun kan blive en bedre muslim i en verden som vores?...</itunes:subtitle>
+      <itunes:summary><![CDATA[Det er Ramadan og for vores gæst er det en vigtig begivenhed her. Det er nemlig her finder tilbage til sig selv og kan gå der fra som en bedre muslim. Hun nulstilles. Men hvordan er der plads til at hun kan blive en bedre muslim i en verden som vores? En verden med en alt for skør udlændingepolitik, for lidt repræsentation i mediebilledet og for lidt fokus på et muslimske datingliv? <br /><br /><br />Vært: Karoline Fodgaard<br /><br />Gæst: Ikran Abdi Aziz Mohamed]]></itunes:summary>
+      <itunes:duration>3223</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Kvindekampen er andet end vejen til bestyrelsesposter</title>
+      <link>https://www.spreaker.com/user/radiolouddk/kvindekampen-er-andet-end-vejen-til-best</link>
+      <description><![CDATA[Mainstream-feminismen er med til at fastKvindekampen er kampen for alle. Sådan lyder det fra Emma, som mener, at mainstream-feminismen er med til at fastholde det partriakalske samfund. Det værdifulde i omsorgsarbejdet skal anerkendes - det er ikke kun bestyrelsesposterne som skal jagtes for kvinderne. <br /><br />Karoline Fodgaard tegner i denne uge et portræt af Emma - et portræt af en kvinde som synes kvindekampen mangler nuancer.<br /><br /><br />Vært: Karoline Fodgaard <br /><br />Medvirkende: Emma Nophiran, studerer retorik på Københavns Universitet, debattør og arbejder på debatredaktionen på Information. <br /><br /><br /><br />]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53132231</guid>
+      <pubDate>Thu, 09 Mar 2023 12:00:14 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53132231/hvem_der_med_emma_til_spreaker.mp3" length="76890816" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Mainstream-feminismen er med til at fastKvindekampen er kampen for alle. Sådan lyder det fra Emma, som mener, at mainstream-feminismen er med til at fastholde det partriakalske samfund. Det værdifulde i omsorgsarbejdet skal anerkendes - det er ikke...</itunes:subtitle>
+      <itunes:summary><![CDATA[Mainstream-feminismen er med til at fastKvindekampen er kampen for alle. Sådan lyder det fra Emma, som mener, at mainstream-feminismen er med til at fastholde det partriakalske samfund. Det værdifulde i omsorgsarbejdet skal anerkendes - det er ikke kun bestyrelsesposterne som skal jagtes for kvinderne. <br /><br />Karoline Fodgaard tegner i denne uge et portræt af Emma - et portræt af en kvinde som synes kvindekampen mangler nuancer.<br /><br /><br />Vært: Karoline Fodgaard <br /><br />Medvirkende: Emma Nophiran, studerer retorik på Københavns Universitet, debattør og arbejder på debatredaktionen på Information. <br /><br /><br /><br />]]></itunes:summary>
+      <itunes:duration>3202</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Josefine om provinsliv, død og nye begyndelser</title>
+      <link>https://www.spreaker.com/user/radiolouddk/hvem-der-hele-projektet</link>
+      <description><![CDATA[Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge er Line vært. Hun vil hver gang portrættere nogle af sine nærmeste livsvidner - for har de mon vendt hver en sten sammen ?<br /><br />I denne omgang har hun inviteret Josefine hjem til en snak om alt fra provinslivets trivialiteter til et skelsættende, men vigtigt møde med døden. <br /><br />Gæst: <br />Josefine Johansen<br /><br />Vært og tilrettelægger: <br />Line Schmidt Mouridsen <b><br /></b>]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/52880318</guid>
+      <pubDate>Thu, 02 Mar 2023 15:34:07 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/52880318/hvem_der_hele_projektet.mp3" length="78050304" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.
+
+I denne uge er...</itunes:subtitle>
+      <itunes:summary><![CDATA[Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge er Line vært. Hun vil hver gang portrættere nogle af sine nærmeste livsvidner - for har de mon vendt hver en sten sammen ?<br /><br />I denne omgang har hun inviteret Josefine hjem til en snak om alt fra provinslivets trivialiteter til et skelsættende, men vigtigt møde med døden. <br /><br />Gæst: <br />Josefine Johansen<br /><br />Vært og tilrettelægger: <br />Line Schmidt Mouridsen <b><br /></b>]]></itunes:summary>
+      <itunes:duration>3250</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Casper på besøg hos Danmarks yngste bedemand</title>
+      <link>https://www.spreaker.com/user/radiolouddk/hvemderspreaker</link>
+      <description><![CDATA[Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge uge er Casper vært, som hver gang laver portrætter af fiktive personer - det er altså ikke virkeligt, hvad der foregår i dagens program. <br /><br />Casper er taget på besøg hos 22-årige Anton, der er Danmarks yngste bedemand. Her forsøger han at få svar på, hvad der driver en ung mand til at leve et liv så tæt på de døde.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/52801686</guid>
+      <pubDate>Wed, 22 Feb 2023 09:08:16 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/52801686/hvemderspreaker.mp3" length="78861312" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.
+
+I denne uge uge...</itunes:subtitle>
+      <itunes:summary><![CDATA[Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.<br /><br />I denne uge uge er Casper vært, som hver gang laver portrætter af fiktive personer - det er altså ikke virkeligt, hvad der foregår i dagens program. <br /><br />Casper er taget på besøg hos 22-årige Anton, der er Danmarks yngste bedemand. Her forsøger han at få svar på, hvad der driver en ung mand til at leve et liv så tæt på de døde.]]></itunes:summary>
+      <itunes:duration>3284</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3cecdd8a83c5d2bb982632795468cb51.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
 </rss>
