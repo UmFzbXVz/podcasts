@@ -9,22 +9,38 @@
     <category>Sports</category>
     <copyright>Copyright discoveryplus.dk</copyright>
     <image>
-      <url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg</url>
+      <url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg</url>
       <title>Radio Tour</title>
       <link>https://www.spreaker.com/show/radio-tour</link>
     </image>
-    <lastBuildDate>Tue, 18 Apr 2023 12:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 13:13:41 +0000</lastBuildDate>
     <itunes:author>discoveryplus.dk</itunes:author>
     <itunes:owner>
       <itunes:name>discoveryplus.dk</itunes:name>
       <itunes:email>feeds@spreaker.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+    <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
     <itunes:subtitle>Radio Tour er programmet for Danmarks cykelnørder. Hver uge vender Peter Piil, Brian Holm og Thomas Bay ugens højdepunkter, giver dig de bedste røverhistorier fra landevejene og inviterer gæster fra cykelverdenen i sofaen.</itunes:subtitle>
     <itunes:summary><![CDATA[Radio Tour er programmet for Danmarks cykelnørder. Hver uge vender Peter Piil, Brian Holm og Thomas Bay ugens højdepunkter, giver dig de bedste røverhistorier fra landevejene og inviterer gæster fra cykelverdenen i sofaen.]]></itunes:summary>
     <itunes:category text="Sports"/>
     <itunes:explicit>clean</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Tæppefald for forårsklassikerne og musik med Kix</title>
+      <link>https://www.spreaker.com/user/discoveryplus.dk/rt-250423-podcast</link>
+      <description><![CDATA[Forårsklassikere, Pogacars skade, musiksnak med Kim Kix og røverhistorier er programmet i dette afsnit.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53640789</guid>
+      <pubDate>Tue, 25 Apr 2023 13:13:40 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53640789/rt_250423_podcast.mp3" length="93404016" type="audio/mpeg"/>
+      <itunes:author>discoveryplus.dk</itunes:author>
+      <itunes:subtitle>Forårsklassikere, Pogacars skade, musiksnak med Kim Kix og røverhistorier er programmet i dette afsnit.</itunes:subtitle>
+      <itunes:summary><![CDATA[Forårsklassikere, Pogacars skade, musiksnak med Kim Kix og røverhistorier er programmet i dette afsnit.]]></itunes:summary>
+      <itunes:duration>3891</itunes:duration>
+      <itunes:keywords>brianholm,kimkix,liege,mattibrechel,peterpiil,thomasbay</itunes:keywords>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Pragtfulde Pogacar og optakt til Liége-Bastogne-Liége</title>
       <link>https://www.spreaker.com/user/discoveryplus.dk/podcast</link>
@@ -38,7 +54,7 @@
       <itunes:duration>3823</itunes:duration>
       <itunes:keywords>amstelgoldrace,bastianemil,brianholm,liegebastogneliege,peterpiil,pogacar,thomasbay,vingegaard</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -54,7 +70,7 @@
       <itunes:duration>3963</itunes:duration>
       <itunes:keywords>baskerlandet,brianholm,jespermørkøv,jonasvingegaard,paris-roubaix,peterpiil,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -70,7 +86,7 @@
       <itunes:duration>1507</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykling,paris,parisroubaix,paris-roubaix,peterpiil,radiotour,roubaix,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -86,7 +102,7 @@
       <itunes:duration>3955</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykling,flandernrundt,jesperworre,peterpiil</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -102,7 +118,7 @@
       <itunes:duration>3846</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,catalonienrundt,e3,flandern,gent-wevelgem,peterpiil,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -118,7 +134,7 @@
       <itunes:duration>3883</itunes:duration>
       <itunes:keywords>brianholm,cykling,cyklingdk,mattibreschel,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -134,7 +150,7 @@
       <itunes:duration>1408</itunes:duration>
       <itunes:keywords>cykling</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -150,7 +166,7 @@
       <itunes:duration>4073</itunes:duration>
       <itunes:keywords>jakobpiil,jesperworre,jonasvingegaard,mathieuvanderpoel,milano-sanremo,paris-nice,peterpiil,tadejpogacar,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -166,7 +182,7 @@
       <itunes:duration>3744</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cycling,cykling,jesperworre,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -182,7 +198,7 @@
       <itunes:duration>1553</itunes:duration>
       <itunes:keywords>andreaskron,bastianemil,brianholm,cycling,cykling,peterpiil,radiotour,strade,stradebiance,thomasbay,thomaspidcock</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -198,7 +214,7 @@
       <itunes:duration>3758</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cycling,cykling,jesperworre,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -214,7 +230,7 @@
       <itunes:duration>1699</itunes:duration>
       <itunes:keywords>asbjørnkragh,brianholm,brosten,cykelsport,cykling,omloop,omloophetnieuwsblad,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -230,7 +246,7 @@
       <itunes:duration>3918</itunes:duration>
       <itunes:keywords>brianholm,cykling,discovery+,eurosport,feltet,leifmortensen,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -246,7 +262,7 @@
       <itunes:duration>3623</itunes:duration>
       <itunes:keywords>alexrasmussen,cykling,eurosport,feltet,jesperworre,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -262,7 +278,7 @@
       <itunes:duration>3957</itunes:duration>
       <itunes:keywords>brianholm,cykling,eurosport,feltet,mattibreschel,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -278,7 +294,7 @@
       <itunes:duration>3660</itunes:duration>
       <itunes:keywords>asbjørgkragh,brianholm,cykling,eurosport,feltet,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -294,7 +310,7 @@
       <itunes:duration>3962</itunes:duration>
       <itunes:keywords>brianholm,cykling,eurosport,feltet,jesperhemmingsen,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -310,7 +326,7 @@
       <itunes:duration>3870</itunes:duration>
       <itunes:keywords>cykling,radiotour,sport</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -326,7 +342,7 @@
       <itunes:duration>3880</itunes:duration>
       <itunes:keywords>brianholm,cykling,discovery+,feltet,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -342,7 +358,7 @@
       <itunes:duration>4244</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykling,discovery+,eurosport,feltet,peterpiil</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -358,7 +374,7 @@
       <itunes:duration>4063</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykling,discovery+,eurosport,feltet,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -374,7 +390,7 @@
       <itunes:duration>3323</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykling,discovery+,eurosport,feltetdk,peterpiil,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -390,7 +406,7 @@
       <itunes:duration>4299</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykling,discoveryplus,eurosport,feltet,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -406,7 +422,7 @@
       <itunes:duration>4028</itunes:duration>
       <itunes:keywords>brianholm,cykling,discoveryplus,eurosport,nickisørensen,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -422,7 +438,7 @@
       <itunes:duration>3947</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykling,discoveryplus,eurosport,feltet,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -438,7 +454,7 @@
       <itunes:duration>3977</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykling,feltet,mattibreschel,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -454,7 +470,7 @@
       <itunes:duration>1189</itunes:duration>
       <itunes:keywords>3dagesløb,banecykling,bastianemil,cykling,discovery+,feltet,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -470,7 +486,7 @@
       <itunes:duration>3100</itunes:duration>
       <itunes:keywords>3dagesløb,banecykling,bastianemil,cykling,discovery+,feltet,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -486,7 +502,7 @@
       <itunes:duration>4007</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,discovery+,eurosport,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -502,7 +518,7 @@
       <itunes:duration>4197</itunes:duration>
       <itunes:keywords>cykling,radiotour,tourdefrance</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -518,7 +534,7 @@
       <itunes:duration>4102</itunes:duration>
       <itunes:keywords>andreaskron,brianholm,cykling,discovery+,eurosport,peterpiil,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -534,7 +550,7 @@
       <itunes:duration>4087</itunes:duration>
       <itunes:keywords>brianholm,cykling,discovery+,eurosport,giroen,perbausager,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -550,7 +566,7 @@
       <itunes:duration>3926</itunes:duration>
       <itunes:keywords>andersmielke,bastianemil,brianholm,cykling,discovery+,eurosport,peterpiil,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -566,7 +582,7 @@
       <itunes:duration>1529</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykling,discovery+,eurosport,jesperworre,lombardietrundt,peterpiil,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -582,7 +598,7 @@
       <itunes:duration>3602</itunes:duration>
       <itunes:keywords>brianholm,lombardietrundt,mattibreschel,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -598,7 +614,7 @@
       <itunes:duration>3986</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykling,discovery+,eurosport,feltet,peterpiil,thomasbay,vm</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -614,7 +630,7 @@
       <itunes:duration>3893</itunes:duration>
       <itunes:keywords>cykling,discovery+,eurosport,jesperworre,peterpiil,thomasbay,vm</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -630,7 +646,7 @@
       <itunes:duration>3481</itunes:duration>
       <itunes:keywords>cykling,discovery+,eurosport,jesperworre,mattibreschel,peterpiil,vuelta</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -646,7 +662,7 @@
       <itunes:duration>3998</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykling,discovery+,eurosport,peterpiil,thomasbay,vuelta</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -662,7 +678,7 @@
       <itunes:duration>3923</itunes:duration>
       <itunes:keywords>cycling,discovery+,eurosport,jesperworre,peterpiil,thomasbay,vueltaaespana</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -678,7 +694,7 @@
       <itunes:duration>3682</itunes:duration>
       <itunes:keywords>cykling</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -694,7 +710,7 @@
       <itunes:duration>3781</itunes:duration>
       <itunes:keywords>bastianemil,cycling,cykling,discovery+,eurosport,jesperworre,peterpiil,thomasbay,vueltaaespana</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -710,7 +726,7 @@
       <itunes:duration>2542</itunes:duration>
       <itunes:keywords>cykling</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -726,7 +742,7 @@
       <itunes:duration>3834</itunes:duration>
       <itunes:keywords>brianholm,cycling,cykling,discovery+,eurosport,peterpiil,thomasbay,trineschmidt</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -742,7 +758,7 @@
       <itunes:duration>3723</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cycling,cykling,discovery+,eurosport,nickisørensen,peterpiil,tourdefrance</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -758,7 +774,7 @@
       <itunes:duration>4118</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cycling,cykling,discovery+,eurosport,jørgenleth,peterpiil,tourdefrance,trineschmidt</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -774,7 +790,7 @@
       <itunes:duration>1112</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cycling,cykling,discovery+,eurosport,peterpiil,radiotour,sport,thomasbay,tourdefrance</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -790,7 +806,7 @@
       <itunes:duration>4043</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cycling,cykling,discovery+,eurosport,peterpiil,radiotour,sport,thomasbay,tourdefrance</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -806,7 +822,7 @@
       <itunes:duration>3800</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cycling,cykling,discovery+,eurosport,jesperworre,peterpiil,radiotour,sport,tourdefrance</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -822,7 +838,7 @@
       <itunes:duration>1510</itunes:duration>
       <itunes:keywords>cykling,discovery,letour,radiotour,sport,tdf,tourdefrance</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -838,7 +854,7 @@
       <itunes:duration>1521</itunes:duration>
       <itunes:keywords>cykling,discovery,letour,radiotour,sport,tdf,tourdefrance</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -854,7 +870,7 @@
       <itunes:duration>1559</itunes:duration>
       <itunes:keywords>brianholm,cykling,discovery+,eurosport,letour,peterpiil,radiotour,thomasbay,tourdefrance</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -870,7 +886,7 @@
       <itunes:duration>3766</itunes:duration>
       <itunes:keywords>cykling,radiotour,sport</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -885,7 +901,7 @@
       <itunes:summary><![CDATA[Bastian Emil Goldschmidt gæster denne uges Radio Tour til en snak om blandt andet Valgrens styrt i Occitanie og Mads Pedersens triumf i Belgien Rundt. Brian Holm er hjemvendt fra Schweiz Rundt, og han har et par anekdoter i ærmet fra blandt andet de schweiziske landeveje.]]></itunes:summary>
       <itunes:duration>4421</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -901,7 +917,7 @@
       <itunes:duration>3762</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cycling,cykling,discovery+,eurosport,jesperworre,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -916,7 +932,7 @@
       <itunes:summary><![CDATA[I dette afsnit af Radio Tour kan du høre om Brian Holms tur til Belgien, få en fyldig optakt til Criterium du Dauphiné og et dugfriskt interview med Mikkel Honoré.]]></itunes:summary>
       <itunes:duration>3409</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -931,7 +947,7 @@
       <itunes:summary><![CDATA[I dette afsnit af Radio Tour skal den netop afsluttede Giro d’Italia vendes og drejes. Peter Piil ledsages af Thomas Bay, Brian Holm og Bastian Emil Goldschmidt, og der er rigeligt at tage fat på efter årets første Grand Tour.]]></itunes:summary>
       <itunes:duration>3526</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -947,7 +963,7 @@
       <itunes:duration>1359</itunes:duration>
       <itunes:keywords>brianholm,cycling,cykling,giro,giroditalia,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -962,7 +978,7 @@
       <itunes:summary><![CDATA[I dagens afsnit af Radio Tour - Taler Giro stiller Peter Piil, Thomas Bay, Jesper Worre og Brian Holm skarpt på blandt andet 20. etape af Giro d'Italia, hvor førertrøjen skiftede ejermand.]]></itunes:summary>
       <itunes:duration>1375</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -977,7 +993,7 @@
       <itunes:summary><![CDATA[På dagens etape af Giro d’Italia kørte man for en kort stund ind i Slovenien. Det gav anledning til at diskutere de to stjerneryttere, Tadej Pogacar og Primoz Roglic, i dagens Radio Tour.]]></itunes:summary>
       <itunes:duration>1387</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -992,7 +1008,7 @@
       <itunes:summary><![CDATA[Elitechef i Danmarks Cykle Union, Morten Bennekou, er dagens gæst i Radio Tour - Taler Giro. Her vender panelet blandt andet dagens etape, hvor Magnus Cort fik en 3. plads.]]></itunes:summary>
       <itunes:duration>1319</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1007,7 +1023,7 @@
       <itunes:summary><![CDATA[I dagens udgave af Radio Tour -Taler Giro er Jesper Worre og Bastian Emil gæster. Panelet snakker blandt andet om Leemreizes fjerde top-10-placering ved årets Giro d'Italia.]]></itunes:summary>
       <itunes:duration>1279</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1022,7 +1038,7 @@
       <itunes:summary><![CDATA[I denne udgave af Radio Tour - Taler Giro gæster landstræneren Anders Lund studiet til en snak om blandt andet dagens etape.]]></itunes:summary>
       <itunes:duration>1353</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1037,7 +1053,7 @@
       <itunes:summary><![CDATA[I dagens afsnit af Radio Tour gennemgår studiet 15. etape ved Giro d'Italia, italiensk dominans, ømme ben og manglende angreb på førertrøjen. Der er besøg af Peter Meinert.]]></itunes:summary>
       <itunes:duration>1682</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1052,7 +1068,7 @@
       <itunes:summary><![CDATA[Peter Meinert er på besøg i Radio Tour i dag, hvor snakken falder på den spændende Giro-etape og også på flere gamle bekendte fra cykelverdenen.]]></itunes:summary>
       <itunes:duration>1309</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1067,7 +1083,7 @@
       <itunes:summary><![CDATA[Fotograf og forfatteren bag "Le Tour", Nils Mejlvang, gæstede i dag Radio Tour-studiet til en snak om blandt andet dét at være fotograf ved verdens største cykelløb.]]></itunes:summary>
       <itunes:duration>1781</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1082,7 +1098,7 @@
       <itunes:summary><![CDATA[I denne episode af Radio Tour - Taler Giro er Emil Axelgaard fra feltet.dk gæst.]]></itunes:summary>
       <itunes:duration>1760</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1098,7 +1114,7 @@
       <itunes:duration>1787</itunes:duration>
       <itunes:keywords>giro,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1113,7 +1129,7 @@
       <itunes:summary><![CDATA[I denne episode af Radio Tour – Taler Giro ser panelet nærmere på 10. etape af Giro d’Italia, hvor Biniam Girmay slog Mathieu van der Poel på opløbsstrækningen og tog sejren.]]></itunes:summary>
       <itunes:duration>1342</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1128,7 +1144,7 @@
       <itunes:summary><![CDATA[9. etape af Giro d'Italia bød på det første klassementsopgør. Se med her, når Radio Tour - Taler Giro blandt andet diskuterer dagens etape.]]></itunes:summary>
       <itunes:duration>1563</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1141,7 +1157,7 @@
       <itunes:duration>1268</itunes:duration>
       <itunes:keywords>giro</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1157,7 +1173,7 @@
       <itunes:duration>1473</itunes:duration>
       <itunes:keywords>brianholm,cycling,cykling,discovery+,eurosport,giro,giroditalia,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1170,7 +1186,7 @@
       <itunes:duration>1061</itunes:duration>
       <itunes:keywords>giro</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1186,7 +1202,7 @@
       <itunes:duration>1245</itunes:duration>
       <itunes:keywords>giro</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1202,7 +1218,7 @@
       <itunes:duration>1311</itunes:duration>
       <itunes:keywords>giro</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1215,7 +1231,7 @@
       <itunes:duration>1633</itunes:duration>
       <itunes:keywords>giro</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1228,7 +1244,7 @@
       <itunes:duration>1434</itunes:duration>
       <itunes:keywords>giro</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1243,7 +1259,7 @@
       <itunes:summary><![CDATA[Radio Tour snakker 1. etape af dette års Giro d'Italia, hvor Mathieu van der Poel blev første rytter, der kunne iklæde sig den lyserøde førertrøje.]]></itunes:summary>
       <itunes:duration>1271</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1258,7 +1274,7 @@
       <itunes:summary><![CDATA[I dette afsnit af Radio Tour gæster Trine Schmidt og Bastian Emil Goldschmidt programmet til en snak om det nye skandinaviske etapeløb for kvinder, Tour of Scandinavia, samt det forestående Giro d'Italia, der starter på fredag. Peter Piil ringer også til Christopher Juul-Jensen, der kan fortælle, at han stiller til start i årets første Grand Tour.]]></itunes:summary>
       <itunes:duration>4276</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1273,7 +1289,7 @@
       <itunes:summary><![CDATA[Matti Breschel er gæst i Radio Tour i denne uge. EF-sportsdirektøren er netop hjemvendt efter søndagens Liège-Bastogne-Liège, hvor han blandt andet kan berette om det store styrt undervejs. Bastian Emil er med på en telefon og kan fortælle om QuickSteps fejring af Evenepoel og de belgiske fans' hyldester af de nationale helte.]]></itunes:summary>
       <itunes:duration>3665</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1288,7 +1304,7 @@
       <itunes:summary><![CDATA[I denne uge af Radio Tour stiller Peter Piil, Thomas Bay, Brian Holm og Bastian Emil Goldschmidt skarpt på Paris-Roubaix. Panelet vender alt fra afgørende momenter i løbet, danske præstationer og vildt mekaniker-styrt.]]></itunes:summary>
       <itunes:duration>3894</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1303,7 +1319,7 @@
       <itunes:summary><![CDATA[Stemmen bag den virkelige Radio Tour – Sébastien Piquet – er gæst i Radio Tour-studiet i denne uge til en snak om sit job og betydningen af løbsradioen. Bastian Emil Goldschmidt er med, når panelet taler om det forestående Paris-Roubaix, hvor blandt andet Arenberg Skoven og danske favoritter vendes.]]></itunes:summary>
       <itunes:duration>4555</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1318,7 +1334,7 @@
       <itunes:summary><![CDATA[Flandern Rundt er det helt store samtaleemne i denne uge i Radio Tour, hvor Peter Piil, Thomas Bay og Jesper Worre gennemgår det ikoniske løb. Panelet snakker Pogacar-angreb på Kwaremont, Asgreens punktering på Koppenberg, og så ringer de til Bastian Emil, der oplevede løbet på tætteste hold.]]></itunes:summary>
       <itunes:duration>3785</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1333,7 +1349,7 @@
       <itunes:summary><![CDATA[Trek-Segafredo-rytteren Mattias Skjelmose gæster Radio Tour i denne uge til en snak om Catalonien Rundt og den unges danskers vilde styrt på 2. etape. Panelet stiller også skarpt på årets andet monument, Flandern Rundt, og diskuterer danske favoritter.]]></itunes:summary>
       <itunes:duration>3525</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1349,7 +1365,7 @@
       <itunes:duration>3841</itunes:duration>
       <itunes:keywords>cykling,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1364,7 +1380,7 @@
       <itunes:summary><![CDATA[I dette afsnit af Radio Tour er Jesper Worre på besøg, og panelet stiller skarpt på årets første monument, Milano-Sanremo, som køres på lørdag.]]></itunes:summary>
       <itunes:duration>3742</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1379,7 +1395,7 @@
       <itunes:summary><![CDATA[Vi stiller skarpt på 7. og sidste etape af Tirreno-Adriatico.]]></itunes:summary>
       <itunes:duration>1425</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1394,7 +1410,7 @@
       <itunes:summary><![CDATA[Vi stiller skarpt på 6. etape af Tirreno-Adriatico. Du kan følge hele løbet på 6'eren og discovery+ fra 7.-13. marts.]]></itunes:summary>
       <itunes:duration>1291</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1410,7 +1426,7 @@
       <itunes:duration>1473</itunes:duration>
       <itunes:keywords>bastianemil,cycling,cykling,discovery+,eurosport,jesperworre,radiotour,thomasbay,tirreno-adriatico</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1425,7 +1441,7 @@
       <itunes:summary><![CDATA[Vi stiller skarpt på 4. etape af Tirreno-Adriatico, hvor Jonas Vingegaard sikrede en 2. plads. Du kan følge hele løbet på 6'eren og discovery+ fra 7.-13. marts.]]></itunes:summary>
       <itunes:duration>1599</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1440,7 +1456,7 @@
       <itunes:summary><![CDATA[Vi stiller skarpt på 3. etape af Tirreno-Adriatico, hvor Caleb Ewan løb med sejren. Du kan følge hele løbet på 6'eren og discovery+ fra 7.-3. marts.]]></itunes:summary>
       <itunes:duration>1405</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1455,7 +1471,7 @@
       <itunes:summary><![CDATA[Vi stiller skarpt på 2. etape af Tirreno-Adriatico. Du kan følge hele løbet på 6'eren og discovery+ fra 7.-13. marts.]]></itunes:summary>
       <itunes:duration>1348</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1470,7 +1486,7 @@
       <itunes:summary><![CDATA[Husk at følg med i hele Tirreno-Adriatico på discovery+ helt uden afbrydelser.]]></itunes:summary>
       <itunes:duration>1352</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1485,7 +1501,7 @@
       <itunes:summary><![CDATA[Jesper Worre er denne gang med i Radio Tour-studiet, og her falder snakken bl.a. på den belgiske åbningsweekend samt de flotte danske præstationer af både Magnus Cort og Jonas Vingegaard.]]></itunes:summary>
       <itunes:duration>3883</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1497,7 +1513,7 @@
       <itunes:author>discoveryplus.dk</itunes:author>
       <itunes:duration>3880</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1513,7 +1529,7 @@
       <itunes:duration>3860</itunes:duration>
       <itunes:keywords>cykling,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1529,7 +1545,7 @@
       <itunes:duration>4038</itunes:duration>
       <itunes:keywords>cykling,ineos,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1544,7 +1560,7 @@
       <itunes:summary><![CDATA[Hør med når Kim "Kix" Jeppesen gæster Radio Tour-studiet.]]></itunes:summary>
       <itunes:duration>4081</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1556,7 +1572,7 @@
       <itunes:author>discoveryplus.dk</itunes:author>
       <itunes:duration>3988</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1571,7 +1587,7 @@
       <itunes:summary><![CDATA[Michael Mørkøv er denne uges gæst i Radio Tour til et stort tema om træningslejre i cykelsport.]]></itunes:summary>
       <itunes:duration>4246</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1587,7 +1603,7 @@
       <itunes:duration>4252</itunes:duration>
       <itunes:keywords>cycling,cykling,radio,radiotour,tour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1603,7 +1619,7 @@
       <itunes:duration>3213</itunes:duration>
       <itunes:keywords>cykling</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1618,7 +1634,7 @@
       <itunes:summary><![CDATA[Kom med til bords når Radio Tour holder julefrokost. Undervejs får de besøg af Kasper Asgreen, Mikkel Honoré, Asbjørn Kragh og Frederik Wandahl]]></itunes:summary>
       <itunes:duration>3239</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1634,7 +1650,7 @@
       <itunes:duration>3937</itunes:duration>
       <itunes:keywords>brianholm,cycling,cykling,discovery+,eurosport,frenchcycling,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1649,7 +1665,7 @@
       <itunes:summary><![CDATA[Bastian Emil debuterer som vært i denne uges udgave af Radio Tour, der har besøg af journalist Lars Werge, der har dækket cykelsporten i mange år, til en snak om doping i cykelsporten.]]></itunes:summary>
       <itunes:duration>3876</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1665,7 +1681,7 @@
       <itunes:duration>4455</itunes:duration>
       <itunes:keywords>cykling</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1681,7 +1697,7 @@
       <itunes:duration>3977</itunes:duration>
       <itunes:keywords>cykling,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1696,7 +1712,7 @@
       <itunes:summary><![CDATA[I denne uges Radio Tour er der fornemt besøg i studiet af den tidligere danmarksmester i cykelcross, Kenneth Hansen. Sammen med Piil, Bay og Holm snakker de om Kenneths karriere i cykelcroos og om sporten generelt.]]></itunes:summary>
       <itunes:duration>4170</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1712,7 +1728,7 @@
       <itunes:duration>4153</itunes:duration>
       <itunes:keywords>cykling</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1727,7 +1743,7 @@
       <itunes:summary><![CDATA[Cykelsæsonen går på hæld og Radio Tour ser sammen med Andreas Kron nærmere på, hvad en cykelrytter laver i sin offseason.]]></itunes:summary>
       <itunes:duration>3810</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1743,7 +1759,7 @@
       <itunes:duration>3694</itunes:duration>
       <itunes:keywords>cykling,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1758,7 +1774,7 @@
       <itunes:summary><![CDATA[I denne uges Radio Tour snakker Piil, Holm & Worre om næste års Tour de France-start i Danmark. Jesper Worre afslører spændende deltaljer om de tre etaper, der køres i Danmark. Der bliver også ringet op til Matteo Trentin for at snakke med ham om hans mange andenpladser i løbet af sæsonen.]]></itunes:summary>
       <itunes:duration>3069</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1773,7 +1789,7 @@
       <itunes:summary><![CDATA[Andreas Kron, og Matti Breschel og Bastian Emil er gæster i denne uges Radio Tour. Sammen med Thomas Bay vender de den seneste uges cykelløb. Der bliver snakket om Pogačar, Lombardiet Rundt, Paris-Tours og EM i Banecykling.]]></itunes:summary>
       <itunes:duration>3941</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1788,7 +1804,7 @@
       <itunes:summary><![CDATA[I denne uges Radio Tour evaluerer Peter Piil, Thomas Bay, Brain Holm og Trine Schmidt på kvindernes og herrernes Paris Roubiax. De ringer op til André Greipel, der stopper sin aktive karriere. Sammen ser de tilbage på nogle af højdepunkterne i tyskernes flotte karriere.]]></itunes:summary>
       <itunes:duration>3978</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1803,7 +1819,7 @@
       <itunes:summary><![CDATA[I denne uges Radio Tour runder Piil, Bay og Holm ugens VM af med både evalueringer af danskernes løb og stærke analyser. De ringer unge Tobias Lund op for at tale om hans første elitesejr, og så bliver der kigget frem mod Paris Roubaix, som er lige på trapperne.]]></itunes:summary>
       <itunes:duration>4107</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1819,7 +1835,7 @@
       <itunes:duration>3328</itunes:duration>
       <itunes:keywords>chrisankersørensen,cycling,discovery+,eurosport,jesperworre,michaelvalgren,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1835,7 +1851,7 @@
       <itunes:duration>2960</itunes:duration>
       <itunes:keywords>cykling</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1850,7 +1866,7 @@
       <itunes:summary><![CDATA[Radio Tour-studiet ser tilbage på Primoz Roglic’ sejr i Vueltaen og Magnus Corts flotte etapesejre. Derudover får Radio Tour fint besøg af en dansk business developer fra Team Qhubeka NextHash.]]></itunes:summary>
       <itunes:duration>5154</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1866,7 +1882,7 @@
       <itunes:duration>3939</itunes:duration>
       <itunes:keywords>cykling,radiotour,vuelta</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1881,7 +1897,7 @@
       <itunes:summary><![CDATA[Peter Piil, Brian Holm, Thomas Bay og Jesper Worre ser tilbage på den første tredjedel af Vuelta a Espana. Corts flotte etapesejr og favoritværdigheden til den røde trøje vendes. Derudover ser vi tilbage på OL, der kastede flere flotte cykel-præstationer af sig – især på banen.]]></itunes:summary>
       <itunes:duration>4193</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1897,7 +1913,7 @@
       <itunes:duration>4774</itunes:duration>
       <itunes:keywords>cavendish,cycling,cykling</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1912,7 +1928,7 @@
       <itunes:summary><![CDATA[Radio Tour er gået i Tour-mode, og kigger frem mod sommerens Tour de France. Bastian Emil, Holm og Bay har kridtet skoene, og Piil forsøger at holde snor i debatten.]]></itunes:summary>
       <itunes:duration>4524</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1928,7 +1944,7 @@
       <itunes:duration>4344</itunes:duration>
       <itunes:keywords>brianholm,cykling,feltet,peterpiil,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1943,7 +1959,7 @@
       <itunes:summary><![CDATA[Peter Piil, Thomas Bay og Brian Holm er tilbage i det klassiske Radio Tour efter en intens Giro d'Italia dækning. Dagens gæst er René Wenzel.]]></itunes:summary>
       <itunes:duration>4229</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1958,7 +1974,7 @@
       <itunes:summary><![CDATA[Giro d'Italia 2021 er overstået, og det betyder at der i Radio Tour - taler Giro, er lagt op til den helt store kåring. Bay, Worre og Bastian Emil runder Giroen af med manér.]]></itunes:summary>
       <itunes:duration>2107</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1973,7 +1989,7 @@
       <itunes:summary><![CDATA[I dag handler afsnittet i høj grad om dagens store vinder, Damiano Caruso.]]></itunes:summary>
       <itunes:duration>1543</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1989,7 +2005,7 @@
       <itunes:duration>1820</itunes:duration>
       <itunes:keywords>cycling,cykelsport,cykling,discovery+,eurosport,giro,giroditalia</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2004,7 +2020,7 @@
       <itunes:summary><![CDATA[18. etape var en lang, relativt simpel etape, hvilket førte til en snak om, at man faktisk godt kan kede sig enormt meget på sådan en lang tur, og hvordna man ergonomisk bliver påvirket af så mange timer på cyklen.]]></itunes:summary>
       <itunes:duration>1509</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2020,7 +2036,7 @@
       <itunes:duration>1756</itunes:duration>
       <itunes:keywords>cycling,cykling,giro,giroditalia,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2035,7 +2051,7 @@
       <itunes:summary><![CDATA[I dag vender Radio Tour panelet Qhubeka-mandskabet og det store massestyrt, som neutraliserede etapen i en kort periode]]></itunes:summary>
       <itunes:duration>1830</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2051,7 +2067,7 @@
       <itunes:duration>1890</itunes:duration>
       <itunes:keywords>cycling,cykling,giro,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2066,7 +2082,7 @@
       <itunes:summary><![CDATA[Efter 13. etape af Giro d’Italia sættes Giacomo Nizzolos sæson under luppen og i Gavirias ånd kigges der nærmere på tidligere spurter, der er blevet gennemført uden cykelsadel.]]></itunes:summary>
       <itunes:duration>1847</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2081,7 +2097,7 @@
       <itunes:summary><![CDATA[Radio Tour – taler Giro har besøg af Trine Schmidt, og de ser i dag nærmere på rytternes sorte bog og fortæller vilde historier om styrt og skader.]]></itunes:summary>
       <itunes:duration>1811</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2096,7 +2112,7 @@
       <itunes:summary><![CDATA[Efter 11. etape kigger Radio Tour-panelet nærmere på, hvem der var de store tabere efter dagens etape, og kigger også nærmere på hviledage.]]></itunes:summary>
       <itunes:duration>1631</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2111,7 +2127,7 @@
       <itunes:summary><![CDATA[Radio Tour har besøg af Per Bausager, og de ser i dag nærmere på ikonet Peter Sagan og den unikke rosa førertrøje.]]></itunes:summary>
       <itunes:duration>1827</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2126,7 +2142,7 @@
       <itunes:summary><![CDATA[Bastian Emil, Jesper Worre og Thomas Bay gør i denne udgave af Radio Tour – taler Giro status over en begivenhedsrig 9. etape, der både havde succes og fiaskohistorier, og så tages der et historisk kig på den vitale rolle, terrænet spiller i cykelsporten.]]></itunes:summary>
       <itunes:duration>1508</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2141,7 +2157,7 @@
       <itunes:summary><![CDATA[I dagens afsnit snakker panelet om dagens vinder, Caleb Ewan, og den uheldige Hugh Carthy.]]></itunes:summary>
       <itunes:duration>1835</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2156,7 +2172,7 @@
       <itunes:summary><![CDATA[I denne udgave af Radio Tour - taler Giro samler Peter Piil, Jesper Worre, Thomas Bay og Brian Holm op på en begivenhedsrig 6. etape af Giro d'Italia, hvor man blandt andet var vidne til et bizart styrt, der involverede en sportsdirektørbil.]]></itunes:summary>
       <itunes:duration>1825</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2171,7 +2187,7 @@
       <itunes:summary><![CDATA[Thomas Bay, Simon Egeskov, Brian Holm og Michael Mørkøv ser tilbage på femte etape af Giroen, hvor særligt et styrt med 4,5 kilometer til målstregen fik stor betydning.]]></itunes:summary>
       <itunes:duration>1326</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2187,7 +2203,7 @@
       <itunes:duration>1816</itunes:duration>
       <itunes:keywords>cykling,giro,giroditalia,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2203,7 +2219,7 @@
       <itunes:duration>1896</itunes:duration>
       <itunes:keywords>bastianemil,cycling,cykling,discovery+,eurosport,giro,giroditalia,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2219,7 +2235,7 @@
       <itunes:duration>1839</itunes:duration>
       <itunes:keywords>brianholm,cykling,discovery+,eurosport,giroditalia,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2234,7 +2250,7 @@
       <itunes:summary><![CDATA[I denne udgave af Radio Tour varmes der op til den kommende Giro, og så er danske Magnus Cort med til et interview via en telefonforbindelse.]]></itunes:summary>
       <itunes:duration>3885</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2249,7 +2265,7 @@
       <itunes:summary><![CDATA[I denne uges udgave af Radio Tour taler Bay, Holm og Piil om det helt og aldeles vilde forår, og hvad status på danskerne er for nu.]]></itunes:summary>
       <itunes:duration>3774</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2265,7 +2281,7 @@
       <itunes:duration>4271</itunes:duration>
       <itunes:keywords>cavendish,cycling,cykling,grandtour,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2281,7 +2297,7 @@
       <itunes:duration>4149</itunes:duration>
       <itunes:keywords>brianholm,cycling,cykelsport,cykling,discovery+,eurosport,jesperworre,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2297,7 +2313,7 @@
       <itunes:duration>3991</itunes:duration>
       <itunes:keywords>cykling</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2309,7 +2325,7 @@
       <itunes:author>discoveryplus.dk</itunes:author>
       <itunes:duration>4027</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2325,7 +2341,7 @@
       <itunes:duration>3826</itunes:duration>
       <itunes:keywords>cykling,radio,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2341,7 +2357,7 @@
       <itunes:duration>4267</itunes:duration>
       <itunes:keywords>bastianemil,bay,cykling,discovery,eurosport,holm,magnuscort,parisnice,piil,podcast,radiotour,tirreno</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2357,7 +2373,7 @@
       <itunes:duration>3982</itunes:duration>
       <itunes:keywords>brianholm,cycling,cykelsport,cykling,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2373,7 +2389,7 @@
       <itunes:duration>3922</itunes:duration>
       <itunes:keywords>brianholm,cycling,cykelsport,cykling,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2388,7 +2404,7 @@
       <itunes:summary><![CDATA[Peter Piil, Thomas Bay og Brian Holm snakker i denne uge om fransk cykling - lyt med her!]]></itunes:summary>
       <itunes:duration>3163</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2404,7 +2420,7 @@
       <itunes:duration>3942</itunes:duration>
       <itunes:keywords>brianholm,cykelsport,cykling,discovery+,eurosport,mattibreschel,mellemøsten,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2420,7 +2436,7 @@
       <itunes:duration>1226</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykelsport,cykeltrøjer,cykling,discovery+,eurosport,radiotour,simonegeskov</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2436,7 +2452,7 @@
       <itunes:duration>3389</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,cykelsport,cykling,discovery+,eurosport,peterpiil,radiotour,thomasbay,tyskland</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2452,7 +2468,7 @@
       <itunes:duration>3792</itunes:duration>
       <itunes:keywords>2021,bastianemil,brianholm,cykelsport,cykling,discovery+,eurosport,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2468,7 +2484,7 @@
       <itunes:duration>3817</itunes:duration>
       <itunes:keywords>brianholm,cycling,cykelsport,cykling,discovery+,eurosport,filippoganna,italien,italy,jensveggerby,marcopantani,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2484,7 +2500,7 @@
       <itunes:duration>3389</itunes:duration>
       <itunes:keywords>cycling,cykling,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2500,7 +2516,7 @@
       <itunes:duration>3664</itunes:duration>
       <itunes:keywords>af,afsnit,amerikansk,besøg,cykelhistorie.,cykelrytter,der,fået,forhenværende,har,hvor,i,radio,rené,tales,tour,ugens,vi,wenzel</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2516,7 +2532,7 @@
       <itunes:duration>3148</itunes:duration>
       <itunes:keywords>brianholm,cykling,discovery+,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2532,7 +2548,7 @@
       <itunes:duration>2869</itunes:duration>
       <itunes:keywords>radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2545,7 +2561,7 @@
       <itunes:duration>3565</itunes:duration>
       <itunes:keywords>radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2561,7 +2577,7 @@
       <itunes:duration>2872</itunes:duration>
       <itunes:keywords>brianholm,cykling,dplay,eurosport,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2577,7 +2593,7 @@
       <itunes:duration>3095</itunes:duration>
       <itunes:keywords>brianholm,cykelcross,cykling,dplay,eurosport,radiotour,sebastianfini,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2590,7 +2606,7 @@
       <itunes:duration>3659</itunes:duration>
       <itunes:keywords>brian,cykling,de,france,giro,holm,radio,tour,vuelta</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2605,7 +2621,7 @@
       <itunes:summary><![CDATA[I ugens afsnit af Radio Tour bliver der sendt roser afsted til Vueltaen, Magnus Corts sejr bliver vendt til stor glæde for Bay og så er der også plads til både Worres mave, kasettebånd og en vinterhue.]]></itunes:summary>
       <itunes:duration>2847</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2621,7 +2637,7 @@
       <itunes:duration>2993</itunes:duration>
       <itunes:keywords>cykling,dplay,eurosport,radiotour,vuelta</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2637,7 +2653,7 @@
       <itunes:duration>1667</itunes:duration>
       <itunes:keywords>bastianemil,giro,giroditalia,jakobfuglsang,jesperworre,peterpiil,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2653,7 +2669,7 @@
       <itunes:duration>1561</itunes:duration>
       <itunes:keywords>bastianemil,cykling,giro,giroitalia,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2669,7 +2685,7 @@
       <itunes:duration>1435</itunes:duration>
       <itunes:keywords>bay,cykling,giro,piil,radiotour,worre</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2685,7 +2701,7 @@
       <itunes:duration>1636</itunes:duration>
       <itunes:keywords>cykling,giro,giroditalia,jesperworre,larsbak,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2701,7 +2717,7 @@
       <itunes:duration>1282</itunes:duration>
       <itunes:keywords>cykling,dk_cykling,giro,giroditalia,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2717,7 +2733,7 @@
       <itunes:duration>1717</itunes:duration>
       <itunes:keywords>cykling,denmark,dk_cykling,feltet,giro,language:danish</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2733,7 +2749,7 @@
       <itunes:duration>1681</itunes:duration>
       <itunes:keywords>brianholm,cycling,cykling,eurosport,giro,giroditalia,jakobfuglsang,jesperworre,peterpiil,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2749,7 +2765,7 @@
       <itunes:duration>1674</itunes:duration>
       <itunes:keywords>cykling,denmark,dk_cykling,feltet,giro,language:danish</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2764,7 +2780,7 @@
       <itunes:summary><![CDATA[I dagens udgave af Radio Tour - taler Giro kommer Bay, Piil og Holm selvfølgelig ind på nyheden om, at EF Pro Cykling ønsker at stoppe Giro d'Italia før tid på grund af corona-virus, men der bliver også tid til en dansk midtvejsstatus og et blik på 13. etape.]]></itunes:summary>
       <itunes:duration>1170</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2780,7 +2796,7 @@
       <itunes:duration>1354</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,giro,giroditalia,radiotour,simonegeskov,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2796,7 +2812,7 @@
       <itunes:duration>1608</itunes:duration>
       <itunes:keywords>brianholm,cykling,giro,giroditalia,peterpiil,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2812,7 +2828,7 @@
       <itunes:duration>1547</itunes:duration>
       <itunes:keywords>cykling,denmark,dk_cykling,feltet,giro,language:danish</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2828,7 +2844,7 @@
       <itunes:duration>1581</itunes:duration>
       <itunes:keywords>brianholm,cykling,giroditalia,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2844,7 +2860,7 @@
       <itunes:duration>1819</itunes:duration>
       <itunes:keywords>7.etape,brianholm,cykling,fodboldtrøjefredag,giroditalia,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2860,7 +2876,7 @@
       <itunes:duration>1174</itunes:duration>
       <itunes:keywords>cykling,denmark,dk_cykling,feltet,giro,language:danish</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2876,7 +2892,7 @@
       <itunes:duration>1491</itunes:duration>
       <itunes:keywords>brianholm,eurosport,giro,giroditalia,radiotour,simonegeskov,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2892,7 +2908,7 @@
       <itunes:duration>1878</itunes:duration>
       <itunes:keywords>cykling,denmark,dk_cykling,feltet,giro,language:danish</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2908,7 +2924,7 @@
       <itunes:duration>1472</itunes:duration>
       <itunes:keywords>cykling,denmark,dk_cykling,feltet,giro,language:danish</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2924,7 +2940,7 @@
       <itunes:duration>2937</itunes:duration>
       <itunes:keywords>binckbanktour,brianholm,cykling,dplay,eurosport,giroditalia,peterpiil,radiotour,thomasbay,vm</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2940,7 +2956,7 @@
       <itunes:duration>3219</itunes:duration>
       <itunes:keywords>cykling,dplay,eurosport,holm&amp;bay,tourdefrance</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2956,7 +2972,7 @@
       <itunes:duration>2558</itunes:duration>
       <itunes:keywords>brianholm,georgehincapie,lancearmstrong,peterpiil,radiotour,thomasbay,tourdefrance</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2971,7 +2987,7 @@
       <itunes:summary><![CDATA[I denne episode af Radio Tour er der fuld fokus på den første uge af årets Tour de France. Bastian Emil gæster studiet, og så er den tidligere cykelrytter, Michael Rasmussen, med på telefonen.]]></itunes:summary>
       <itunes:duration>2544</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -2986,7 +3002,7 @@
       <itunes:summary><![CDATA[I denne uges afsnit af Radio Tour bliver de to første etaper af årets Tour de France sat under lup. Samtidig diskuterer panelet, bestående af Jesper Worre, Thomas Bay og Peter Piil, hvem der bliver den næste store, franske rytter.]]></itunes:summary>
       <itunes:duration>2547</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3002,7 +3018,7 @@
       <itunes:duration>2928</itunes:duration>
       <itunes:keywords>eurosport,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3018,7 +3034,7 @@
       <itunes:duration>2706</itunes:duration>
       <itunes:keywords>eurosport,radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3034,7 +3050,7 @@
       <itunes:duration>2873</itunes:duration>
       <itunes:keywords>brianholm,fabiojakobsen,jesperworre,peterpiil,polenrundt,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3050,7 +3066,7 @@
       <itunes:duration>2951</itunes:duration>
       <itunes:keywords>brianholm,milano-sanremo,peterpiil,radiotour,remcoevenepoel,stradebianche,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3066,7 +3082,7 @@
       <itunes:duration>2782</itunes:duration>
       <itunes:keywords>radiotour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3082,7 +3098,7 @@
       <itunes:duration>2738</itunes:duration>
       <itunes:keywords>brianholm,cykling,madspetersen,perbausager,radiotour,thomasbay,vm</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3098,7 +3114,7 @@
       <itunes:duration>2615</itunes:duration>
       <itunes:keywords>froome,gravel-cykling,jackpetersen,jespermørkøv,radiotour,thomasbay,unitedcycling</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3114,7 +3130,7 @@
       <itunes:duration>2737</itunes:duration>
       <itunes:keywords>bastianemil,brianholm,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3130,7 +3146,7 @@
       <itunes:duration>2302</itunes:duration>
       <itunes:keywords>bjarnekratholm,brianholm,peterbheki,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3146,7 +3162,7 @@
       <itunes:duration>2496</itunes:duration>
       <itunes:keywords>brianholm,radiotour,thomasbay,tonnyvorm</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3162,7 +3178,7 @@
       <itunes:duration>3417</itunes:duration>
       <itunes:keywords>brianholm,cykling,jacobstaehelin,radiotour,thomasbay,tourdefrance</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3179,7 +3195,7 @@ Vært:...</itunes:subtitle>
       <itunes:duration>3040</itunes:duration>
       <itunes:keywords>albertocontador,brianholm,jacobstaehelin,klassikere,radiotour,thomasbay,tourdefrance</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3195,7 +3211,7 @@ Vært:...</itunes:subtitle>
       <itunes:duration>3648</itunes:duration>
       <itunes:keywords>brianholm,cykling,jacobstaehelin,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3212,7 +3228,7 @@ Læn dig tilbage og nyd en hel time i selskab med Holm, Bay &amp; Staehelin.</it
       <itunes:duration>3550</itunes:duration>
       <itunes:keywords>brianholm,cykling,flandernrundt,jacobstaehelin,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3230,7 +3246,7 @@ Engang var sportsdirektøren en mytisk skikkelse med stor magt. I dag er han vok
       <itunes:duration>2392</itunes:duration>
       <itunes:keywords>brianholm,cykling,jacobstaehelin,larsbak,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3248,7 +3264,7 @@ Radio Tour er rykket hjem i stuerne. Fra hver deres videoskærm stiller Holm, Ba
       <itunes:duration>3027</itunes:duration>
       <itunes:keywords>belgien,brianholm,cykling,forårsklassikere,jacobstaehelin,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3264,7 +3280,7 @@ Radio Tour er rykket hjem i stuerne. Fra hver deres videoskærm stiller Holm, Ba
       <itunes:duration>2652</itunes:duration>
       <itunes:keywords>brianholm,corona,cykling,paris-nice,radiotour,sørenkraghandersen,thomasbay,worldtour</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3280,7 +3296,7 @@ Radio Tour er rykket hjem i stuerne. Fra hver deres videoskærm stiller Holm, Ba
       <itunes:duration>2689</itunes:duration>
       <itunes:keywords>brianholm,corona,cykling,nickisørensen,paris-nice,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3296,7 +3312,7 @@ Radio Tour er rykket hjem i stuerne. Fra hver deres videoskærm stiller Holm, Ba
       <itunes:duration>2738</itunes:duration>
       <itunes:keywords>cykling,jesperworre,kasperasgreen,kuurne-bruxelles-kuurne,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3312,7 +3328,7 @@ Radio Tour er rykket hjem i stuerne. Fra hver deres videoskærm stiller Holm, Ba
       <itunes:duration>2093</itunes:duration>
       <itunes:keywords>brianholm,cykling,dplay,fuglsang,quick-step,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -3328,7 +3344,7 @@ Radio Tour er rykket hjem i stuerne. Fra hver deres videoskærm stiller Holm, Ba
       <itunes:duration>2621</itunes:duration>
       <itunes:keywords>brianholm,cykling,dplay,eurosport,radiotour,thomasbay</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e9d5dcf1c78dd59b8ae214243f6d76d.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa2e8982a0454818fc0943835227d22f.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
