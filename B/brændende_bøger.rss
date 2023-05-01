@@ -1,274 +1,332 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>RealityRadio</title>
-    <link>https://www.spreaker.com/show/realityradio_1</link>
-    <description><![CDATA[I RealityRadio får du seneste nyt og seriøse samtaler fra en verden fyldt med fest og farver, intriger og drama, kærlighed og sex. Hver uge inviterer vært Cecilie Dumanski realitydeltagere til ærlige og filterløse samtaler i et program, der tager realityverden og dets indbyggere alvorligt.]]></description>
-    <atom:link href="https://www.spreaker.com/show/5748724/episodes/feed" rel="self" type="application/rss+xml"/>
+    <title>Brændende Bøger</title>
+    <link>https://www.spreaker.com/show/braendende-boeger</link>
+    <description><![CDATA[Litteratur skal ikke være skøn. Litteratur skal være beskidt, mærkelig og farlig. Litteratur skal forandre verden. Fra Pippi Langstrømpes oprør mod de voksne og Harry Potters genfortrylning af verden —  over Yahya Hassans eksplosive digte og Suzanne Brøggers angreb på kernefamilien, til 1984’s klaustrofobiske overvågningsverden og fatwaen mod Salman Rushdie. Lyt med, når oprørske læsere og kompromisløse forfattere læser og taler om de Brændende Bøger.]]></description>
+    <atom:link href="https://www.spreaker.com/show/5748725/episodes/feed" rel="self" type="application/rss+xml"/>
     <language>da</language>
-    <category>TV &amp; Film</category>
+    <category>Books</category>
     <copyright>Copyright 24syv</copyright>
     <image>
-      <url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg</url>
-      <title>RealityRadio</title>
-      <link>https://www.spreaker.com/show/realityradio_1</link>
+      <url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg</url>
+      <title>Brændende Bøger</title>
+      <link>https://www.spreaker.com/show/braendende-boeger</link>
     </image>
-    <lastBuildDate>Wed, 26 Apr 2023 16:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2023 10:30:52 +0000</lastBuildDate>
     <itunes:author>24syv</itunes:author>
     <itunes:owner>
       <itunes:name>24syv</itunes:name>
       <itunes:email>podcast@24syv.dk</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
-    <itunes:subtitle>I RealityRadio får du seneste nyt og seriøse samtaler fra en verden fyldt med fest og farver, intriger og drama, kærlighed og sex. Hver uge inviterer vært Cecilie Dumanski realitydeltagere til ærlige og filterløse samtaler i et program, der tager...</itunes:subtitle>
-    <itunes:summary><![CDATA[I RealityRadio får du seneste nyt og seriøse samtaler fra en verden fyldt med fest og farver, intriger og drama, kærlighed og sex. Hver uge inviterer vært Cecilie Dumanski realitydeltagere til ærlige og filterløse samtaler i et program, der tager realityverden og dets indbyggere alvorligt.]]></itunes:summary>
-    <itunes:category text="TV &amp; Film"/>
-    <itunes:category text="Society &amp; Culture">
-      <itunes:category text="Personal Journals"/>
+    <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+    <itunes:subtitle>Litteratur skal ikke være skøn. Litteratur skal være beskidt, mærkelig og farlig. Litteratur skal forandre verden. Fra Pippi Langstrømpes oprør mod de voksne og Harry Potters genfortrylning af verden —  over Yahya Hassans eksplosive digte og Suzanne...</itunes:subtitle>
+    <itunes:summary><![CDATA[Litteratur skal ikke være skøn. Litteratur skal være beskidt, mærkelig og farlig. Litteratur skal forandre verden. Fra Pippi Langstrømpes oprør mod de voksne og Harry Potters genfortrylning af verden —  over Yahya Hassans eksplosive digte og Suzanne Brøggers angreb på kernefamilien, til 1984’s klaustrofobiske overvågningsverden og fatwaen mod Salman Rushdie. Lyt med, når oprørske læsere og kompromisløse forfattere læser og taler om de Brændende Bøger.]]></itunes:summary>
+    <itunes:category text="Arts">
+      <itunes:category text="Books"/>
     </itunes:category>
+    <itunes:category text="History"/>
     <itunes:category text="Society &amp; Culture"/>
-    <itunes:explicit>clean</itunes:explicit>
+    <itunes:explicit>yes</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
-      <title>Historien bag 'Årgang 0'</title>
-      <link>https://www.spreaker.com/user/radiolouddk/realityradio-skiller-1_9</link>
-      <description><![CDATA[Den danske dokumentarserie 'Årgang 0', hvor vi følger en lille håndfuld børn og deres familier, fra de blev født ved årtusindskiftede til de kunne fejre 18 års fødselsdag, har været en samlingspunkt for mange danske familier. I dagens særafsnit af RealityRadio tager vi i selskab med to af de medvirkende og to fra produktionen en tur down memory lane og taler om de største øjeblikke fra dokumentaren, relationen mellem de mevirkende og produktionsfolkene, de etiske overvejelser og meget meget mere. <br /><br />Gæster: <br />Jan Bacher Dirchsen, tilrettelægger og producent på 'Årgang 0' <br />Anne Hjort, tilrettelægger på 'Årgang 0'<br />Rachel Ellebye, medvirkende i 'Årgang 0'<br />Stephanie Siguenza, medvirkende i 'Årgang 0'<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski <br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/53641113</guid>
-      <pubDate>Wed, 26 Apr 2023 16:16:33 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/53641113/rgang_0_podcast.mp3" length="51150720" type="audio/mpeg"/>
+      <title>Ruslands intime og uofficielle historie</title>
+      <link>https://www.spreaker.com/user/radiolouddk/svetlana</link>
+      <description><![CDATA[I mere end 20 år rejste den hviderussiske forfatter Svetlana Aleksijevitj rundt i de lande der tidligere var en del af Sovjetunionen, for at indsamle et bibliotek af virkelige livshistorier. I bogen “Secondhand-tid” udgør disse dybt intime samtaler en uofficiel historie om, hvordan det var at leve under sovjetkommunismen, og hvordan det føltes, da Sovjetunionen pludseligt en dag ophørte med at eksistere.<br /><br />“Den her bog er uomgængelig, når man vil forstå hvad der sker i Rusland lige nu. De fortæller virkelig noget om en dyb fatalisme, en dyb resignation, en moralsk opløsning, en manglende tiltro ikke kun til fremtiden, men også til sig selv, som gør det det næsten umuligt at skabe en handlekraftig opposition.”<br /><br />Sådan siger dagens gæst - forfatteren Carsten Jensen - der har mødt, interviewet og holdt en tale til Aleksijevitj. Han har også selv oplevet den voldsomme overgang fra kommunisme til en rå kapitalisme på tæt hånd, da han i samme år skrev reportager fra de tidligere sovjetstater.<br /><br />Lyt med, når vi snakker om de famøse køkkensamtaler, om de sjælelige konsekvenser af kommunismen, og den måske bedste bog for at forstå Sovjetunionens fald og Vladimir Putin.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53666740</guid>
+      <pubDate>Thu, 27 Apr 2023 16:05:01 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53666740/svetlana.mp3" length="51008618" type="audio/mpeg"/>
       <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>Den danske dokumentarserie 'Årgang 0', hvor vi følger en lille håndfuld børn og deres familier, fra de blev født ved årtusindskiftede til de kunne fejre 18 års fødselsdag, har været en samlingspunkt for mange danske familier. I dagens særafsnit af...</itunes:subtitle>
-      <itunes:summary><![CDATA[Den danske dokumentarserie 'Årgang 0', hvor vi følger en lille håndfuld børn og deres familier, fra de blev født ved årtusindskiftede til de kunne fejre 18 års fødselsdag, har været en samlingspunkt for mange danske familier. I dagens særafsnit af RealityRadio tager vi i selskab med to af de medvirkende og to fra produktionen en tur down memory lane og taler om de største øjeblikke fra dokumentaren, relationen mellem de mevirkende og produktionsfolkene, de etiske overvejelser og meget meget mere. <br /><br />Gæster: <br />Jan Bacher Dirchsen, tilrettelægger og producent på 'Årgang 0' <br />Anne Hjort, tilrettelægger på 'Årgang 0'<br />Rachel Ellebye, medvirkende i 'Årgang 0'<br />Stephanie Siguenza, medvirkende i 'Årgang 0'<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski <br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3193</itunes:duration>
+      <itunes:subtitle>I mere end 20 år rejste den hviderussiske forfatter Svetlana Aleksijevitj rundt i de lande der tidligere var en del af Sovjetunionen, for at indsamle et bibliotek af virkelige livshistorier. I bogen “Secondhand-tid” udgør disse dybt intime samtaler en...</itunes:subtitle>
+      <itunes:summary><![CDATA[I mere end 20 år rejste den hviderussiske forfatter Svetlana Aleksijevitj rundt i de lande der tidligere var en del af Sovjetunionen, for at indsamle et bibliotek af virkelige livshistorier. I bogen “Secondhand-tid” udgør disse dybt intime samtaler en uofficiel historie om, hvordan det var at leve under sovjetkommunismen, og hvordan det føltes, da Sovjetunionen pludseligt en dag ophørte med at eksistere.<br /><br />“Den her bog er uomgængelig, når man vil forstå hvad der sker i Rusland lige nu. De fortæller virkelig noget om en dyb fatalisme, en dyb resignation, en moralsk opløsning, en manglende tiltro ikke kun til fremtiden, men også til sig selv, som gør det det næsten umuligt at skabe en handlekraftig opposition.”<br /><br />Sådan siger dagens gæst - forfatteren Carsten Jensen - der har mødt, interviewet og holdt en tale til Aleksijevitj. Han har også selv oplevet den voldsomme overgang fra kommunisme til en rå kapitalisme på tæt hånd, da han i samme år skrev reportager fra de tidligere sovjetstater.<br /><br />Lyt med, når vi snakker om de famøse køkkensamtaler, om de sjælelige konsekvenser af kommunismen, og den måske bedste bog for at forstå Sovjetunionens fald og Vladimir Putin.]]></itunes:summary>
+      <itunes:duration>3188</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Mathias fra 'Fboy Island': &quot;Jeg græd hver anden dag&quot;</title>
-      <link>https://www.spreaker.com/user/radiolouddk/gyrith-jokes</link>
-      <description><![CDATA[Kan du spotte en fuckboy? I realityprogrammet 'Fboy Island' forsøger tre danske kvinder at navigere mellem selverklærede fuckboys og nice guys for at finde kærligheden. Men det er ikke en nem opgave, for fyrene lyver og kæmper med næb og klør for enten at vinde kvinden eller den store pengepremie. Men for nogle blev konkurrencen og presset lidt for hårdt.<br /><br />Gæster:<br />Lady Lola Matwara, deltager i Fboy Island<br />Mantas Hansen, deltager i Fboy Island<br />Mathias Ciesla Kjeldsen, deltager i Fboy Island<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/53580761</guid>
-      <pubDate>Wed, 19 Apr 2023 16:17:57 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/53580761/fboy_island_podcast.mp3" length="51856128" type="audio/mpeg"/>
+      <title>Hvorfor fik Bob Dylan Nobelprisen i litteratur?</title>
+      <link>https://www.spreaker.com/user/radiolouddk/bob-dylan</link>
+      <description><![CDATA[Som den første musiker nogensinde modtog Bob Dylan i 2016 nobelprisen i litteratur til stor overraskelse og efterfølgende kritik.<br /><br />For hvorfor gav man prisen til en sangskriver, der aldrig selv har tænkt over, at han skrev litteratur? Hvad er det ved Bob Dylans karriere og poesi, der fortjener verdens mest prestigefyldte litteraturpris? <br /><br />Sammen med Anne Marie Mai - professor i litteratur ved Syddansk Universitet - går vi tilbage til debatten. Hun er en af de mest betydende person for, at han modtog prisen, da hun er en del af det internationale netværk af litterater, som Nobelkomiteen i Stockholm søger inspiration hos. Siden 2007 indsendte hun en motivation til komiteen med argumenter for, hvorfor netop Bob Dylan skulle modtage prisen.<br /><br />I udsendelsen hører vi om processen med at påvirke Det såkaldte Svenske Akademi. Vi dykker ned i Bob Dylans mere end 60 år lange karriere for at forstå, hvordan han har påvirket vores kultur. Vi lytter til sange, diskuterer tekster, snakker samfundskritik, ungdomsoprør og grænseoverskridende kunst.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53592626</guid>
+      <pubDate>Thu, 20 Apr 2023 16:05:01 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53592626/bob_dylan.mp3" length="51777663" type="audio/mpeg"/>
       <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>Kan du spotte en fuckboy? I realityprogrammet 'Fboy Island' forsøger tre danske kvinder at navigere mellem selverklærede fuckboys og nice guys for at finde kærligheden. Men det er ikke en nem opgave, for fyrene lyver og kæmper med næb og klør for...</itunes:subtitle>
-      <itunes:summary><![CDATA[Kan du spotte en fuckboy? I realityprogrammet 'Fboy Island' forsøger tre danske kvinder at navigere mellem selverklærede fuckboys og nice guys for at finde kærligheden. Men det er ikke en nem opgave, for fyrene lyver og kæmper med næb og klør for enten at vinde kvinden eller den store pengepremie. Men for nogle blev konkurrencen og presset lidt for hårdt.<br /><br />Gæster:<br />Lady Lola Matwara, deltager i Fboy Island<br />Mantas Hansen, deltager i Fboy Island<br />Mathias Ciesla Kjeldsen, deltager i Fboy Island<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
+      <itunes:subtitle>Som den første musiker nogensinde modtog Bob Dylan i 2016 nobelprisen i litteratur til stor overraskelse og efterfølgende kritik.
+
+For hvorfor gav man prisen til en sangskriver, der aldrig selv har tænkt over, at han skrev litteratur? Hvad er det ved...</itunes:subtitle>
+      <itunes:summary><![CDATA[Som den første musiker nogensinde modtog Bob Dylan i 2016 nobelprisen i litteratur til stor overraskelse og efterfølgende kritik.<br /><br />For hvorfor gav man prisen til en sangskriver, der aldrig selv har tænkt over, at han skrev litteratur? Hvad er det ved Bob Dylans karriere og poesi, der fortjener verdens mest prestigefyldte litteraturpris? <br /><br />Sammen med Anne Marie Mai - professor i litteratur ved Syddansk Universitet - går vi tilbage til debatten. Hun er en af de mest betydende person for, at han modtog prisen, da hun er en del af det internationale netværk af litterater, som Nobelkomiteen i Stockholm søger inspiration hos. Siden 2007 indsendte hun en motivation til komiteen med argumenter for, hvorfor netop Bob Dylan skulle modtage prisen.<br /><br />I udsendelsen hører vi om processen med at påvirke Det såkaldte Svenske Akademi. Vi dykker ned i Bob Dylans mere end 60 år lange karriere for at forstå, hvordan han har påvirket vores kultur. Vi lytter til sange, diskuterer tekster, snakker samfundskritik, ungdomsoprør og grænseoverskridende kunst.]]></itunes:summary>
       <itunes:duration>3237</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Kan en tur 'Ombord' ændre dit liv?</title>
-      <link>https://www.spreaker.com/user/radiolouddk/realityradio-skiller-1_8</link>
-      <description><![CDATA[“Kan man finde sig selv ved at rejse ud i det ukendte?” Det undersøger otte unge i TV2’s realityprogram ‘Ombord’. De har hver især en udfordring, de kæmper med i hverdagen, men på en båd i det filipinske øhav skal de i løbet af 30 dage og med hjælp fra de andre deltagere finde svar. I dagens afsnit gæster Josephine, der kæmper med massiv dødsangst, og Emma, der efter et massivt vægttab forsøger at finde sig tilrette i sin nye krop.<b><br /></b><br />Gæster:<br />Josephine Heilmann, deltager i TV2s realityprogram Ombord<br />Emma Hansen Davidsen, deltager i TV2s realityprogram Ombord<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/53510707</guid>
-      <pubDate>Wed, 12 Apr 2023 16:16:56 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/53510707/ombord_podcast.mp3" length="53256576" type="audio/mpeg"/>
+      <title>Madame Bovary</title>
+      <link>https://www.spreaker.com/user/radiolouddk/madame-bovary</link>
+      <description><![CDATA[Begår Emma Bovary selvmord på grund af sin kærlighed til litteraturen?<br /><br />Madame Bovary er fortællingen om provinsfruen Emma, som drømmer om luksus, Paris og stormfulde romancer, men lever et smertende kedeligt og ensomt liv som husmor i provinsen.<br /><br />Emma kan ikke forstå at hendes liv ikke ligner de romantiske bøger, hun siden hendes ungdom har læst og levet igennem. Så da den lavadelige Rodolphe en dag forfører hende, kaster hun sig straks ud i affæren, ligeglad med konsekvenserne.<br /><br />Portrættet af Emma er alt andet end sympatisk: Dårlig hustru, dårlig mor, skruppelløs, ensom, depressiv. Selv i kærligheden beskrives hun som en egoistisk elsker. Men samtidig er romanen også en skarp kritik af det samfund, som ikke kan klare en kvinde, der lever på sine egne præmisser. Efter to affærer der begge skuffer hende, ser hun ingen anden udvej end at tage sit eget liv.<br /><br />Lyt med, når vi sammen med Nanna Schmidt Nordestgaard dykker ned i et af de bedste eksempel på litteraturens (destruktive) magt. En roman der sendte forfatteren Gustave Flaubert i retten for at ødelægge den offentlige moral.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53523590</guid>
+      <pubDate>Thu, 13 Apr 2023 16:05:01 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53523590/madame_bovary.mp3" length="51704520" type="audio/mpeg"/>
       <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>“Kan man finde sig selv ved at rejse ud i det ukendte?” Det undersøger otte unge i TV2’s realityprogram ‘Ombord’. De har hver især en udfordring, de kæmper med i hverdagen, men på en båd i det filipinske øhav skal de i løbet af 30 dage og med hjælp...</itunes:subtitle>
-      <itunes:summary><![CDATA[“Kan man finde sig selv ved at rejse ud i det ukendte?” Det undersøger otte unge i TV2’s realityprogram ‘Ombord’. De har hver især en udfordring, de kæmper med i hverdagen, men på en båd i det filipinske øhav skal de i løbet af 30 dage og med hjælp fra de andre deltagere finde svar. I dagens afsnit gæster Josephine, der kæmper med massiv dødsangst, og Emma, der efter et massivt vægttab forsøger at finde sig tilrette i sin nye krop.<b><br /></b><br />Gæster:<br />Josephine Heilmann, deltager i TV2s realityprogram Ombord<br />Emma Hansen Davidsen, deltager i TV2s realityprogram Ombord<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3325</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Historien bag 'Paradise Hotel'</title>
-      <link>https://www.spreaker.com/user/radiolouddk/realityradio-jingle-med-underlaeg_2</link>
-      <description><![CDATA[Paradise Hotel har på TV3 rullet over din skærm i 18 år. Men de seneste år har det ikoniske realityprogram gennemgået nogle ændringer, der ikke er faldet i lige god jord hos alle. I dagens særafsnit af RealityRadio tager vi i selskab med to mænd fra produktionen, der sammenlagt har været med i (næsten) alle 18 år, en tur down memory lane og får genopfrisket de vildeste scener, største paradisoer - og ikke mindst et sjældent indblik bag kameraet.<br /><br />Gæster: <br />Jesper Kynde, tilknyttet Paradise Hotel sæson 1-7 samt Paradise sæson 4 som <br />tilrettelægger, redaktionschef, postproducer og TV3-redaktør <br />Rasmus Gejl, tilknyttet Paradise Hotel sæson 12, 13, 16, 17, 18 samt Paradise sæson 2 som redaktionschef, postproducer, kontrolrumsredaktør og posttilrettelægger<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/53453641</guid>
-      <pubDate>Wed, 05 Apr 2023 17:08:23 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/53453641/historien_bag_ph_podcast.mp3" length="53396736" type="audio/mpeg"/>
-      <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>Paradise Hotel har på TV3 rullet over din skærm i 18 år. Men de seneste år har det ikoniske realityprogram gennemgået nogle ændringer, der ikke er faldet i lige god jord hos alle. I dagens særafsnit af RealityRadio tager vi i selskab med to mænd fra...</itunes:subtitle>
-      <itunes:summary><![CDATA[Paradise Hotel har på TV3 rullet over din skærm i 18 år. Men de seneste år har det ikoniske realityprogram gennemgået nogle ændringer, der ikke er faldet i lige god jord hos alle. I dagens særafsnit af RealityRadio tager vi i selskab med to mænd fra produktionen, der sammenlagt har været med i (næsten) alle 18 år, en tur down memory lane og får genopfrisket de vildeste scener, største paradisoer - og ikke mindst et sjældent indblik bag kameraet.<br /><br />Gæster: <br />Jesper Kynde, tilknyttet Paradise Hotel sæson 1-7 samt Paradise sæson 4 som <br />tilrettelægger, redaktionschef, postproducer og TV3-redaktør <br />Rasmus Gejl, tilknyttet Paradise Hotel sæson 12, 13, 16, 17, 18 samt Paradise sæson 2 som redaktionschef, postproducer, kontrolrumsredaktør og posttilrettelægger<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3334</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Fie og Lucas: 'Første til verdens ende' var en rutsjebanetur</title>
-      <link>https://www.spreaker.com/user/radiolouddk/lucas-fie-podcast</link>
-      <description><![CDATA[(05:30) Kæresteparret Fie og Lucas har i TV2's realityprogram 'Først til verdens ende' kastet sig ud i noget af et eventyr, der har budt på narkodealer, hungryness, angstanfald og pepsi max. Kæresteparret har ikke tidligere haft råd til at rejse sammen, da de hver især i en ung alder tog nogle "dumme, økonomiske beslutninger". I dagens afsnit af RealityRadio kommer vi tæt på kæresteparret og får et indblik i Fies angstanfald, parrets kæmpe pengegæld og de største øjeblikke fra New York til Buenos Aires.<br /><br />(47:43) Og så tjekker vi ind hos tvillingerne fra den tidligere sæson af 'Først til verdens ende', der inden optagelserne ikke havde talt sammen i næsten 18 år. For har deres relation ændret sig efter optagelserne, eller er de røget tilbage til de gamle roller.<br /><br />Gæster:<br />Lucas Schweitz, deltager i 'Først til verdens ende' sæson 3<br />Anne Sophie Nygaard, deltager i 'Først til verdens ende' sæson 3<br />René Mallin, deltager i 'Først til verdens ende' sæson 2<br />Michael Mallin, deltager i 'Først til verdens ende' sæson 2<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/53364789</guid>
-      <pubDate>Tue, 28 Mar 2023 12:47:33 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/53364789/ftve_fie_lucas_podcastttt.mp3" length="53014656" type="audio/mpeg"/>
-      <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>(05:30) Kæresteparret Fie og Lucas har i TV2's realityprogram 'Først til verdens ende' kastet sig ud i noget af et eventyr, der har budt på narkodealer, hungryness, angstanfald og pepsi max. Kæresteparret har ikke tidligere haft råd til at rejse...</itunes:subtitle>
-      <itunes:summary><![CDATA[(05:30) Kæresteparret Fie og Lucas har i TV2's realityprogram 'Først til verdens ende' kastet sig ud i noget af et eventyr, der har budt på narkodealer, hungryness, angstanfald og pepsi max. Kæresteparret har ikke tidligere haft råd til at rejse sammen, da de hver især i en ung alder tog nogle "dumme, økonomiske beslutninger". I dagens afsnit af RealityRadio kommer vi tæt på kæresteparret og får et indblik i Fies angstanfald, parrets kæmpe pengegæld og de største øjeblikke fra New York til Buenos Aires.<br /><br />(47:43) Og så tjekker vi ind hos tvillingerne fra den tidligere sæson af 'Først til verdens ende', der inden optagelserne ikke havde talt sammen i næsten 18 år. For har deres relation ændret sig efter optagelserne, eller er de røget tilbage til de gamle roller.<br /><br />Gæster:<br />Lucas Schweitz, deltager i 'Først til verdens ende' sæson 3<br />Anne Sophie Nygaard, deltager i 'Først til verdens ende' sæson 3<br />René Mallin, deltager i 'Først til verdens ende' sæson 2<br />Michael Mallin, deltager i 'Først til verdens ende' sæson 2<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3310</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Historien bag 'Landmand søger kærlighed'</title>
-      <link>https://www.spreaker.com/user/radiolouddk/realityradio-skiller-1_7</link>
-      <description><![CDATA[TV2’s populære datingprogram, Landmand søger kærlighed, skyder til sommer sæson 10 i gang. I dagens særafsnit af RealityRadio dykker vi i selskab med nogle af de produktionsfolk, der har været med fra begyndelsen, ned i historien bag programmet - og fremhæver de allerstørste øjeblikke fra programmet. <br /><br />Gæster:<br />Mads Volck, TV2’s Underholdningsredaktør<br />Mette Beck Lisberg, redaktionschef på Landmand søger kærlighed<br />Lene Beier, vært på Landmand søger kærlighed<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/53299053</guid>
-      <pubDate>Wed, 22 Mar 2023 17:18:12 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/53299053/landmand_s_ger_k_rlighed_podcast.mp3" length="51375360" type="audio/mpeg"/>
-      <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>TV2’s populære datingprogram, Landmand søger kærlighed, skyder til sommer sæson 10 i gang. I dagens særafsnit af RealityRadio dykker vi i selskab med nogle af de produktionsfolk, der har været med fra begyndelsen, ned i historien bag programmet - og...</itunes:subtitle>
-      <itunes:summary><![CDATA[TV2’s populære datingprogram, Landmand søger kærlighed, skyder til sommer sæson 10 i gang. I dagens særafsnit af RealityRadio dykker vi i selskab med nogle af de produktionsfolk, der har været med fra begyndelsen, ned i historien bag programmet - og fremhæver de allerstørste øjeblikke fra programmet. <br /><br />Gæster:<br />Mads Volck, TV2’s Underholdningsredaktør<br />Mette Beck Lisberg, redaktionschef på Landmand søger kærlighed<br />Lene Beier, vært på Landmand søger kærlighed<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3207</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Mathias Hjort om mobning i reality-tv</title>
-      <link>https://www.spreaker.com/user/radiolouddk/realityradio-skiller-1_6</link>
-      <description><![CDATA[Vi har set flere eksempler på mobning i reality-tv. Senest i realityprogrammet Good Luck Guys, hvor den tidligere paradise-deltager Mathias Hjort følte sig mobbet. Men er mobning en uundgåelig del af reality? Hvis nej, hvem har så ansvaret for at få den usunde kultur stoppet? <br /><br />Gæst: <br />Mathias Hjort, deltager i Paradise Hotel sæson 14 i 2018 og sæson 17 i 2021<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/53211393</guid>
-      <pubDate>Wed, 15 Mar 2023 17:12:14 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/53211393/mathias_hjort_podcast.mp3" length="51485952" type="audio/mpeg"/>
-      <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>Vi har set flere eksempler på mobning i reality-tv. Senest i realityprogrammet Good Luck Guys, hvor den tidligere paradise-deltager Mathias Hjort følte sig mobbet. Men er mobning en uundgåelig del af reality? Hvis nej, hvem har så ansvaret for at få...</itunes:subtitle>
-      <itunes:summary><![CDATA[Vi har set flere eksempler på mobning i reality-tv. Senest i realityprogrammet Good Luck Guys, hvor den tidligere paradise-deltager Mathias Hjort følte sig mobbet. Men er mobning en uundgåelig del af reality? Hvis nej, hvem har så ansvaret for at få den usunde kultur stoppet? <br /><br />Gæst: <br />Mathias Hjort, deltager i Paradise Hotel sæson 14 i 2018 og sæson 17 i 2021<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3214</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Er der et ligestillingsproblem i reality-branchen?</title>
-      <link>https://www.spreaker.com/user/radiolouddk/realityradio-skiller-1_5</link>
-      <description><![CDATA[I anledningen af kvindernes internationale kampdag gør RealityRadio status på realitybranchen i forhold til ligestilling mellem mænd og kvinder. For hvordan bliver kvinder i reality-tv portrætteret, omtalt og behandlet? Og hvem har ansvaret for at ændre de problematikker, der fortsat måtte være i branchen? <br /><br />Gæster:<br />Jill Liv Nielsen, vinder af første sæson af Big Brother i 2001 og Korpset i 2022<br />Samanta Stojkovic, deltager i Paradise Hotel sæson 6 i 2010 og Divaer i junglen i 2012<br />Amanda Sascha, deltager i De dyre piger sæson 1 i 2021 og Robinson Ekspeditionen i 2022<br />Julie Iben Kristensen, deltager i Paradise sæson 2 i 2023<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/53137414</guid>
-      <pubDate>Wed, 08 Mar 2023 18:17:35 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/53137414/kampdag_reality.mp3" length="51615744" type="audio/mpeg"/>
-      <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>I anledningen af kvindernes internationale kampdag gør RealityRadio status på realitybranchen i forhold til ligestilling mellem mænd og kvinder. For hvordan bliver kvinder i reality-tv portrætteret, omtalt og behandlet? Og hvem har ansvaret for at...</itunes:subtitle>
-      <itunes:summary><![CDATA[I anledningen af kvindernes internationale kampdag gør RealityRadio status på realitybranchen i forhold til ligestilling mellem mænd og kvinder. For hvordan bliver kvinder i reality-tv portrætteret, omtalt og behandlet? Og hvem har ansvaret for at ændre de problematikker, der fortsat måtte være i branchen? <br /><br />Gæster:<br />Jill Liv Nielsen, vinder af første sæson af Big Brother i 2001 og Korpset i 2022<br />Samanta Stojkovic, deltager i Paradise Hotel sæson 6 i 2010 og Divaer i junglen i 2012<br />Amanda Sascha, deltager i De dyre piger sæson 1 i 2021 og Robinson Ekspeditionen i 2022<br />Julie Iben Kristensen, deltager i Paradise sæson 2 i 2023<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3222</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>25 år med reality - så vildt har det været</title>
-      <link>https://www.spreaker.com/user/radiolouddk/realityradio-jingle-med-underlaeg_1</link>
-      <description><![CDATA[I år er det 25 år siden, at det første reality-program dukkede op på dansk tv, og siden har du kunne svælge dig i adskillige reality-programmer, hvor almindelige mennesker deler ud af deres oplevelser, liv og følelser. Der er sket utrolig meget på den danske reality-scene, siden Robinson Ekspiditionen dukkede op på skærmen i 1998. Både på og bag ved skærmen. Og den udviklingen dykker RealityRadio ned i i dag.<br /><br />Gæster: <br />Rasmus Gejl, redaktionschef, tilrettelægger, postproducer og kontrolrumsredaktør<br />Henrik Høgh-Olesen, professor i social-og personlighedspsykologi på Psykologisk Institut ved Aarhus Universitet<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/52912829</guid>
-      <pubDate>Wed, 01 Mar 2023 17:59:51 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/52912829/reality_25_r.mp3" length="52332288" type="audio/mpeg"/>
-      <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>I år er det 25 år siden, at det første reality-program dukkede op på dansk tv, og siden har du kunne svælge dig i adskillige reality-programmer, hvor almindelige mennesker deler ud af deres oplevelser, liv og følelser. Der er sket utrolig meget på den...</itunes:subtitle>
-      <itunes:summary><![CDATA[I år er det 25 år siden, at det første reality-program dukkede op på dansk tv, og siden har du kunne svælge dig i adskillige reality-programmer, hvor almindelige mennesker deler ud af deres oplevelser, liv og følelser. Der er sket utrolig meget på den danske reality-scene, siden Robinson Ekspiditionen dukkede op på skærmen i 1998. Både på og bag ved skærmen. Og den udviklingen dykker RealityRadio ned i i dag.<br /><br />Gæster: <br />Rasmus Gejl, redaktionschef, tilrettelægger, postproducer og kontrolrumsredaktør<br />Henrik Høgh-Olesen, professor i social-og personlighedspsykologi på Psykologisk Institut ved Aarhus Universitet<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3267</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Thomas Rode om sammenstødet med Mille Gori i 'Øen VIP'</title>
-      <link>https://www.spreaker.com/user/radiolouddk/realityradio-skiller-1_4</link>
-      <description><![CDATA[(08:44) Bølgerne går højt, når otte kendte danskere i programmet Øen VIP skal forsøge at overleve på en øde, tropisk ø i Stillehavet. Og tonen er særligt skarp mellem tv-vært Mille Gori og kok Thomas Rode. Men hvorfor endte netop de to med at clashe op til flere gange på øen? <br /><br />Gæst: <br />Thomas Rode Andersen, kok<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/52814506</guid>
-      <pubDate>Wed, 22 Feb 2023 17:19:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/52814506/reality_en_vip_podcast.mp3" length="51674880" type="audio/mpeg"/>
-      <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>(08:44) Bølgerne går højt, når otte kendte danskere i programmet Øen VIP skal forsøge at overleve på en øde, tropisk ø i Stillehavet. Og tonen er særligt skarp mellem tv-vært Mille Gori og kok Thomas Rode. Men hvorfor endte netop de to med at clashe...</itunes:subtitle>
-      <itunes:summary><![CDATA[(08:44) Bølgerne går højt, når otte kendte danskere i programmet Øen VIP skal forsøge at overleve på en øde, tropisk ø i Stillehavet. Og tonen er særligt skarp mellem tv-vært Mille Gori og kok Thomas Rode. Men hvorfor endte netop de to med at clashe op til flere gange på øen? <br /><br />Gæst: <br />Thomas Rode Andersen, kok<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3226</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Er det nye 'Paradise' en fiasko?</title>
-      <link>https://www.spreaker.com/user/radiolouddk/reality-paradise-podcast</link>
-      <description><![CDATA[Paradise, der er et af landets største realityprogrammer, har gennemgået store ændringer de seneste to sæsoner. Men spørgsmålet er, om ændringerne er for det bedre, eller om produktionsselskabet gør klogt i at ændre 'Paradise' tilbage til 'Paradise Hotel'? For kan realityprogrammet både være woke og underholdende? De to vindere af Paradise sæson 2 kommer med deres indspark til debatten. <br /><br />Gæster: <br />Freya Sollid, vinder af Paradise sæson 2<br />Methea Baltzer, vinder af Paradise sæson 2<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/52672555</guid>
-      <pubDate>Wed, 08 Feb 2023 17:41:46 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/52672555/reality_paradise_podcast.mp3" length="52290048" type="audio/mpeg"/>
-      <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>Paradise, der er et af landets største realityprogrammer, har gennemgået store ændringer de seneste to sæsoner. Men spørgsmålet er, om ændringerne er for det bedre, eller om produktionsselskabet gør klogt i at ændre 'Paradise' tilbage til 'Paradise...</itunes:subtitle>
-      <itunes:summary><![CDATA[Paradise, der er et af landets største realityprogrammer, har gennemgået store ændringer de seneste to sæsoner. Men spørgsmålet er, om ændringerne er for det bedre, eller om produktionsselskabet gør klogt i at ændre 'Paradise' tilbage til 'Paradise Hotel'? For kan realityprogrammet både være woke og underholdende? De to vindere af Paradise sæson 2 kommer med deres indspark til debatten. <br /><br />Gæster: <br />Freya Sollid, vinder af Paradise sæson 2<br />Methea Baltzer, vinder af Paradise sæson 2<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3265</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Realitydeltagere var forsøgskaniner i 'Good Luck Guys'</title>
-      <link>https://www.spreaker.com/user/radiolouddk/realityradio-skiller-1_3</link>
-      <description><![CDATA[(11:04) Sult, hedeslag, sår med betændelse og dyr, gråd, ensomhed, uvished, kedsomhed og sammenstød. Sådan beskriver nogle af deltagerne oplevelsen af at være med i det nye realityprogram ‘Good Luck Guys’, der lige nu bliver sendt på Amazon Prime Video. I dagens afsnit af RealityRadio kommer vi bag kameraet og får et indblik i forholdene under produktionen. <br /><br />Gæster:<br />Kirstine Natalie, deltager i Good Luck Guys<br />Camilla Frederikke, deltager i Good Luck Guys<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/52606811</guid>
-      <pubDate>Wed, 01 Feb 2023 17:00:17 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/52606811/good_luck_guys_podcast.mp3" length="52189824" type="audio/mpeg"/>
-      <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>(11:04) Sult, hedeslag, sår med betændelse og dyr, gråd, ensomhed, uvished, kedsomhed og sammenstød. Sådan beskriver nogle af deltagerne oplevelsen af at være med i det nye realityprogram ‘Good Luck Guys’, der lige nu bliver sendt på Amazon Prime...</itunes:subtitle>
-      <itunes:summary><![CDATA[(11:04) Sult, hedeslag, sår med betændelse og dyr, gråd, ensomhed, uvished, kedsomhed og sammenstød. Sådan beskriver nogle af deltagerne oplevelsen af at være med i det nye realityprogram ‘Good Luck Guys’, der lige nu bliver sendt på Amazon Prime Video. I dagens afsnit af RealityRadio kommer vi bag kameraet og får et indblik i forholdene under produktionen. <br /><br />Gæster:<br />Kirstine Natalie, deltager i Good Luck Guys<br />Camilla Frederikke, deltager i Good Luck Guys<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3258</itunes:duration>
-      <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Er et opgør med stoffer et opgør med realityverden?</title>
-      <link>https://www.spreaker.com/user/radiolouddk/realityradio-skiller-1_2</link>
-      <description><![CDATA[(01:29) I datingprogrammet 'En svedig date' på Prime Video dater en række letpåklædte singler i en sauna. Men hvorfor søren melder man sig til sådan et program?<br /><br />(12:32) Realitybranchen er kendt for sine vilde fester med alkohol og stoffer i lange baner. Den festlige tilværelse førte til et reelt kokainmisbrug for Philip May, der i forvejen var på flugt fra sine traumer fra militæret. Men hvordan lykkedes det Philip at komme ud af sit misbrug - og kan han som eks-misbruger stadig tage til realityfester?<br /><br />Gæster:<br />Jeppe Zingg, deltager i En Svedig Date<br />Philip May, deltager i Paradise Hotel <br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/52539861</guid>
-      <pubDate>Wed, 25 Jan 2023 17:29:04 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/52539861/realityradio_stoffer.mp3" length="51746304" type="audio/mpeg"/>
-      <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>(01:29) I datingprogrammet 'En svedig date' på Prime Video dater en række letpåklædte singler i en sauna. Men hvorfor søren melder man sig til sådan et program?
+      <itunes:subtitle>Begår Emma Bovary selvmord på grund af sin kærlighed til litteraturen?
 
-(12:32) Realitybranchen er kendt for sine vilde fester med alkohol og stoffer i lange...</itunes:subtitle>
-      <itunes:summary><![CDATA[(01:29) I datingprogrammet 'En svedig date' på Prime Video dater en række letpåklædte singler i en sauna. Men hvorfor søren melder man sig til sådan et program?<br /><br />(12:32) Realitybranchen er kendt for sine vilde fester med alkohol og stoffer i lange baner. Den festlige tilværelse førte til et reelt kokainmisbrug for Philip May, der i forvejen var på flugt fra sine traumer fra militæret. Men hvordan lykkedes det Philip at komme ud af sit misbrug - og kan han som eks-misbruger stadig tage til realityfester?<br /><br />Gæster:<br />Jeppe Zingg, deltager i En Svedig Date<br />Philip May, deltager i Paradise Hotel <br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3231</itunes:duration>
+Madame Bovary er fortællingen om provinsfruen Emma, som drømmer om luksus, Paris og stormfulde romancer, men lever et smertende kedeligt og ensomt liv som husmor i provinsen....</itunes:subtitle>
+      <itunes:summary><![CDATA[Begår Emma Bovary selvmord på grund af sin kærlighed til litteraturen?<br /><br />Madame Bovary er fortællingen om provinsfruen Emma, som drømmer om luksus, Paris og stormfulde romancer, men lever et smertende kedeligt og ensomt liv som husmor i provinsen.<br /><br />Emma kan ikke forstå at hendes liv ikke ligner de romantiske bøger, hun siden hendes ungdom har læst og levet igennem. Så da den lavadelige Rodolphe en dag forfører hende, kaster hun sig straks ud i affæren, ligeglad med konsekvenserne.<br /><br />Portrættet af Emma er alt andet end sympatisk: Dårlig hustru, dårlig mor, skruppelløs, ensom, depressiv. Selv i kærligheden beskrives hun som en egoistisk elsker. Men samtidig er romanen også en skarp kritik af det samfund, som ikke kan klare en kvinde, der lever på sine egne præmisser. Efter to affærer der begge skuffer hende, ser hun ingen anden udvej end at tage sit eget liv.<br /><br />Lyt med, når vi sammen med Nanna Schmidt Nordestgaard dykker ned i et af de bedste eksempel på litteraturens (destruktive) magt. En roman der sendte forfatteren Gustave Flaubert i retten for at ødelægge den offentlige moral.]]></itunes:summary>
+      <itunes:duration>3232</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Fra butt plug til slåskamp - Reality Awards' vildeste øjeblikke</title>
-      <link>https://www.spreaker.com/user/radiolouddk/realityradio-skiller-1_1</link>
-      <description><![CDATA[(06:37) I dag bliver den røde løber - for 10. gang - rullet ud til realitybranchens største awardshow, nemlig Reality Awards. I dagens udgave af RealityRadio gennemgår vi de mest pinlige, sjove, romantiske, letpåklædte og skandaløse øjeblikke i awardshowets historie - og så får vi slået fast, hvorfor awardshowet er så vigtigt for realitydeltagere og realitybranchen.<br /><br />Gæster:<br />Kit Nielsen, stifter og ejer af Reality Awards<br />Philip May, realitydeltager<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/52473727</guid>
-      <pubDate>Wed, 18 Jan 2023 17:13:29 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/52473727/reality_awards_podcast.mp3" length="51974016" type="audio/mpeg"/>
+      <title>Det anarkistiske manifest?</title>
+      <link>https://www.spreaker.com/user/radiolouddk/de-udstoedte</link>
+      <description><![CDATA[Hvordan ville verden se ud, hvis vi ikke havde nogen regering, love eller fængsler? Hvis vi ikke kendte til penge eller privat ejendom? Hvis det at være passe på vores børn og være monogam blev anset som egoistisk?<br /><br />I 1974 udkommer den amerikanske forfatter Ursula K. Le Guin med bogen “The Dispossessed” — “De udstødte” på dansk. Her følger man den geniale fysiker Shevek, som rejser fra sit fødehjem på planeten Anarras til Urras.<br /><br />De to søsterplaneter kunne ikke være mere forskellige. Mens man på Urras finder kapitalisme, profit og stor ulighed, er Anarras et eksempel på, hvordan et anarkistisk samfund kunne se ud, baseret på ansvar og gensidig hjælp, uden penge og privat ejendom.<br /><br />Anarres er dog ikke langt fra den perfekte utopi. Shevek mærker på egen krop, hvordan selv anarkismen med tiden kan glemme at tilpasse sig skiftende forhold og stagnere, og derfor må han sætte livet på spil for at komme tilbage til ideologiens grundidé om evig forandring.<br /><br />Lyt med, når vi sammen med Siri Ranva Hjem Jacobsen og Andreas Vermehren Holm taler om mesterforfatteren Ursula K. Le Guins store udforskning af den anarkistiske idé, og hvordan de to planeter spejler vores egen verden i dag.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53463513</guid>
+      <pubDate>Thu, 06 Apr 2023 16:29:40 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53463513/de_udst_dte.mp3" length="51483420" type="audio/mpeg"/>
       <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>(06:37) I dag bliver den røde løber - for 10. gang - rullet ud til realitybranchens største awardshow, nemlig Reality Awards. I dagens udgave af RealityRadio gennemgår vi de mest pinlige, sjove, romantiske, letpåklædte og skandaløse øjeblikke i...</itunes:subtitle>
-      <itunes:summary><![CDATA[(06:37) I dag bliver den røde løber - for 10. gang - rullet ud til realitybranchens største awardshow, nemlig Reality Awards. I dagens udgave af RealityRadio gennemgår vi de mest pinlige, sjove, romantiske, letpåklædte og skandaløse øjeblikke i awardshowets historie - og så får vi slået fast, hvorfor awardshowet er så vigtigt for realitydeltagere og realitybranchen.<br /><br />Gæster:<br />Kit Nielsen, stifter og ejer af Reality Awards<br />Philip May, realitydeltager<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3245</itunes:duration>
+      <itunes:subtitle>Hvordan ville verden se ud, hvis vi ikke havde nogen regering, love eller fængsler? Hvis vi ikke kendte til penge eller privat ejendom? Hvis det at være passe på vores børn og være monogam blev anset som egoistisk?
+
+I 1974 udkommer den amerikanske...</itunes:subtitle>
+      <itunes:summary><![CDATA[Hvordan ville verden se ud, hvis vi ikke havde nogen regering, love eller fængsler? Hvis vi ikke kendte til penge eller privat ejendom? Hvis det at være passe på vores børn og være monogam blev anset som egoistisk?<br /><br />I 1974 udkommer den amerikanske forfatter Ursula K. Le Guin med bogen “The Dispossessed” — “De udstødte” på dansk. Her følger man den geniale fysiker Shevek, som rejser fra sit fødehjem på planeten Anarras til Urras.<br /><br />De to søsterplaneter kunne ikke være mere forskellige. Mens man på Urras finder kapitalisme, profit og stor ulighed, er Anarras et eksempel på, hvordan et anarkistisk samfund kunne se ud, baseret på ansvar og gensidig hjælp, uden penge og privat ejendom.<br /><br />Anarres er dog ikke langt fra den perfekte utopi. Shevek mærker på egen krop, hvordan selv anarkismen med tiden kan glemme at tilpasse sig skiftende forhold og stagnere, og derfor må han sætte livet på spil for at komme tilbage til ideologiens grundidé om evig forandring.<br /><br />Lyt med, når vi sammen med Siri Ranva Hjem Jacobsen og Andreas Vermehren Holm taler om mesterforfatteren Ursula K. Le Guins store udforskning af den anarkistiske idé, og hvordan de to planeter spejler vores egen verden i dag.]]></itunes:summary>
+      <itunes:duration>3218</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Fra dødstrusler til kærlighed - realityverdens udvikling ift. queermilljøet</title>
-      <link>https://www.spreaker.com/user/radiolouddk/babylon-skiller-2_22</link>
-      <description><![CDATA["Jeg er stolt af, at jeg har kunnet skrive historie for mit queermiljø." Sådan lyder det fra paradise-vært Emil Olsen. Man hvad er det, Emil har skrevet i paradise-historiebøgerne? Og hvordan er queerpersoner blevet behandlet og portrætteret, hvis vi bladrer tilbage til 2012, og sammenligner det med i dag? RealityRadio inviterer til historietime i realityverdens udvikling ift. queermiljøet. <br /><br />Gæster:<br />Emil Olsen, vært på Paradise Hotel sæson 18 og Paradise sæson 1 og 2<br />Nichole Valentina, tidl. paradise-deltager sæson 8, 2012<br />Frederikke Marciniak, paradise-deltager sæson 2, 2022<br />Mads Andersen, adjunk ved film og medievidenskab på Københavns Universitet<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/52413947</guid>
-      <pubDate>Wed, 11 Jan 2023 17:40:44 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/52413947/reality_og_queer.mp3" length="52151424" type="audio/mpeg"/>
+      <title>“Allerede dagen efter at Elin blev dræbt, begyndte jeg at skrive noter.”</title>
+      <link>https://www.spreaker.com/user/radiolouddk/fandentagedig</link>
+      <description><![CDATA[Sidst i marts 2021 bliver en kvinde ved navn Elin slået ihjel af sin eksmand Peter, mens store dele af familien ser på. Elin og Peter har været gift i 30 år og har to voksne sønner sammen. Tre måneder tidligere bliver det psykiske voldelige forhold for meget for Elin, og hun ikke kun forlader ham, men flytter også rundt mellem hemmelige adresser, bange for hvad Peter kan finde på. <br /><br />Elin er forfatter Niels Franks søster. Allerede kort efter drabet begynder han at skrive på den bog om drabet, som er udkommet under titlen, “Fanden tage dig”. En hjerteskærende og ekstremt ærlig fortælling om tiden op til drabet, om frustrationen i mødet med det offentlige system der skal dømme Peter, og om de partnerdrab, som jævnligt i Danmark begås mod kvinder.<br /> <br />“Et helvedsrum”. Sådan beskriver Niels Frank den virkelighed han skrev bogen i. Vi spørger ham, hvorfor han følte sig nødsaget til overhovedet at skrive den, og hvilken reaktion han har fået, når han har rejst rundt i Danmark for at dele sin fortælling om partnerdrab. Vi spørger, om skriveprocessen har hjulpet hans egen sorg, og om han synes at bogen ifølge ham giver en bedre fremstilling af drabet og årsagerne bag end retssagen.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53389369</guid>
+      <pubDate>Thu, 30 Mar 2023 16:00:02 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53389369/fandentagedig.mp3" length="51826564" type="audio/mpeg"/>
       <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>&quot;Jeg er stolt af, at jeg har kunnet skrive historie for mit queermiljø.&quot; Sådan lyder det fra paradise-vært Emil Olsen. Man hvad er det, Emil har skrevet i paradise-historiebøgerne? Og hvordan er queerpersoner blevet behandlet og portrætteret, hvis vi...</itunes:subtitle>
-      <itunes:summary><![CDATA["Jeg er stolt af, at jeg har kunnet skrive historie for mit queermiljø." Sådan lyder det fra paradise-vært Emil Olsen. Man hvad er det, Emil har skrevet i paradise-historiebøgerne? Og hvordan er queerpersoner blevet behandlet og portrætteret, hvis vi bladrer tilbage til 2012, og sammenligner det med i dag? RealityRadio inviterer til historietime i realityverdens udvikling ift. queermiljøet. <br /><br />Gæster:<br />Emil Olsen, vært på Paradise Hotel sæson 18 og Paradise sæson 1 og 2<br />Nichole Valentina, tidl. paradise-deltager sæson 8, 2012<br />Frederikke Marciniak, paradise-deltager sæson 2, 2022<br />Mads Andersen, adjunk ved film og medievidenskab på Københavns Universitet<br /><br />Vært og tilrettelægger:<br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
-      <itunes:duration>3256</itunes:duration>
+      <itunes:subtitle>Sidst i marts 2021 bliver en kvinde ved navn Elin slået ihjel af sin eksmand Peter, mens store dele af familien ser på. Elin og Peter har været gift i 30 år og har to voksne sønner sammen. Tre måneder tidligere bliver det psykiske voldelige forhold...</itunes:subtitle>
+      <itunes:summary><![CDATA[Sidst i marts 2021 bliver en kvinde ved navn Elin slået ihjel af sin eksmand Peter, mens store dele af familien ser på. Elin og Peter har været gift i 30 år og har to voksne sønner sammen. Tre måneder tidligere bliver det psykiske voldelige forhold for meget for Elin, og hun ikke kun forlader ham, men flytter også rundt mellem hemmelige adresser, bange for hvad Peter kan finde på. <br /><br />Elin er forfatter Niels Franks søster. Allerede kort efter drabet begynder han at skrive på den bog om drabet, som er udkommet under titlen, “Fanden tage dig”. En hjerteskærende og ekstremt ærlig fortælling om tiden op til drabet, om frustrationen i mødet med det offentlige system der skal dømme Peter, og om de partnerdrab, som jævnligt i Danmark begås mod kvinder.<br /> <br />“Et helvedsrum”. Sådan beskriver Niels Frank den virkelighed han skrev bogen i. Vi spørger ham, hvorfor han følte sig nødsaget til overhovedet at skrive den, og hvilken reaktion han har fået, når han har rejst rundt i Danmark for at dele sin fortælling om partnerdrab. Vi spørger, om skriveprocessen har hjulpet hans egen sorg, og om han synes at bogen ifølge ham giver en bedre fremstilling af drabet og årsagerne bag end retssagen.]]></itunes:summary>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:keywords>fandentagedig,nielsfrank,partnerdrab</itunes:keywords>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Paradise-deltagere sælger deres sjæl til Mastiff</title>
-      <link>https://www.spreaker.com/user/radiolouddk/realityradio-skiller-1</link>
-      <description><![CDATA[“Grov udnyttelse”, “jerngreb” og “slavelignende forhold”. Sådan lyder kritikken fra eksperter og politikere af den kontrakt, paradisedeltagere underskriver inden programmet. Men hvor slem er den egentlig? Og hvorfor underskriver paradisedeltagere kontrakten, hvis den er så urimelig og ensidig? <br /><br />Gæster:<br />Monique von Appen, paradisedeltager og -vinder af sæson 11, 2015<br />Damien Smith, paradisedeltager af sæson 19, 2022<br />Peter Breum, partner og advokat i advokatfirmaet ‘SIRIUS advokater’<br /><br />Vært og tilrettelægger: <br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/52353099</guid>
-      <pubDate>Wed, 04 Jan 2023 17:54:46 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/52353099/reality_040123.mp3" length="51734784" type="audio/mpeg"/>
+      <title>Soft Boys</title>
+      <link>https://www.spreaker.com/user/radiolouddk/mads-ananda</link>
+      <description><![CDATA[Mads Ananda Lodahls nye bog “Soft Boys” består af ti noveller om ti teenagedrenge, der alle sammen er nogle outsidere. Underlige, ensomme, sårbare og oversete, kommer de alle sammen tæt på at blive knust af en rå virkelighed.<br /><br />Der er dog noget i bogen, som ikke vil lade det ske. I deres mest sårbare øjeblikke reddes drengene af en pludselig forelskelse, en ny ven eller en afgørende indsigt. En håndstrækning, der indtræffer for ofte til at være tilfældighed med en næsten magisk timing, og som derfor står i stor kontrast til nutidens mere eksplicit politiske litteratur, hvor man skal lede længe efter den slags livslinier. Men hvorfor insisterer forfatteren på netop den blødhed? <br /><br />Lyt med, når vi taler om, hvordan det er at være en blød outsider udenfor kasserne, om uheldige kærester, karma og UFO’er, og udviklingen i et forfatterskab, der er gået fra eksplicit politiske og aktivistiske essays til en mere åben skønlitteratur.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53314753</guid>
+      <pubDate>Thu, 23 Mar 2023 17:42:00 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53314753/mads_ananda.mp3" length="51676517" type="audio/mpeg"/>
       <itunes:author>24syv</itunes:author>
-      <itunes:subtitle>“Grov udnyttelse”, “jerngreb” og “slavelignende forhold”. Sådan lyder kritikken fra eksperter og politikere af den kontrakt, paradisedeltagere underskriver inden programmet. Men hvor slem er den egentlig? Og hvorfor underskriver paradisedeltagere...</itunes:subtitle>
-      <itunes:summary><![CDATA[“Grov udnyttelse”, “jerngreb” og “slavelignende forhold”. Sådan lyder kritikken fra eksperter og politikere af den kontrakt, paradisedeltagere underskriver inden programmet. Men hvor slem er den egentlig? Og hvorfor underskriver paradisedeltagere kontrakten, hvis den er så urimelig og ensidig? <br /><br />Gæster:<br />Monique von Appen, paradisedeltager og -vinder af sæson 11, 2015<br />Damien Smith, paradisedeltager af sæson 19, 2022<br />Peter Breum, partner og advokat i advokatfirmaet ‘SIRIUS advokater’<br /><br />Vært og tilrettelægger: <br />Cecilie Dumanski<br /><br />Reporter og producer:<br />Maja F. K. Østergaard]]></itunes:summary>
+      <itunes:subtitle>Mads Ananda Lodahls nye bog “Soft Boys” består af ti noveller om ti teenagedrenge, der alle sammen er nogle outsidere. Underlige, ensomme, sårbare og oversete, kommer de alle sammen tæt på at blive knust af en rå virkelighed.
+
+Der er dog noget i...</itunes:subtitle>
+      <itunes:summary><![CDATA[Mads Ananda Lodahls nye bog “Soft Boys” består af ti noveller om ti teenagedrenge, der alle sammen er nogle outsidere. Underlige, ensomme, sårbare og oversete, kommer de alle sammen tæt på at blive knust af en rå virkelighed.<br /><br />Der er dog noget i bogen, som ikke vil lade det ske. I deres mest sårbare øjeblikke reddes drengene af en pludselig forelskelse, en ny ven eller en afgørende indsigt. En håndstrækning, der indtræffer for ofte til at være tilfældighed med en næsten magisk timing, og som derfor står i stor kontrast til nutidens mere eksplicit politiske litteratur, hvor man skal lede længe efter den slags livslinier. Men hvorfor insisterer forfatteren på netop den blødhed? <br /><br />Lyt med, når vi taler om, hvordan det er at være en blød outsider udenfor kasserne, om uheldige kærester, karma og UFO’er, og udviklingen i et forfatterskab, der er gået fra eksplicit politiske og aktivistiske essays til en mere åben skønlitteratur.]]></itunes:summary>
       <itunes:duration>3230</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ville verden være bedre, hvis den var ledet af kvinder?</title>
+      <link>https://www.spreaker.com/user/radiolouddk/wonder-woman</link>
+      <description><![CDATA[Under 2. verdenskrig støder de udsendte amerikanske soldater i deres tegneserier pludselig på en kvindelig superhelt; Wonder Woman. Iklædt sit ikoniske korset, tiara og armbånd, kæmper hun mod alt fra kvindehadende skurke til nazister på amerikansk jord.<br /><br />Hun er imidlertid alt andet end en tom actionfigur. I en verden ødelagt af krig inkarnerer hun nemlig sin skabers - den polyamorøse feminist William Moulton Marston - personlige vision om, at verden ville være bedre, hvis den var ledet af de mere empatiske kvinder. En kompromisløs feministisk utopi, som igen og igen kommer til udtryk i de mange scener, hvor Wonder Woman binder, fanger og undertvinger mænd, alt imens hun opfordrer andre kvinder til at tage magten.<br /><br />Sammen med forsker i filosofi og superhelte, Carsten Fogh Nielsen, sætter vi fokus på historien bag Wonder Woman og diskuterer, hvordan hun som både sexsymbol og feministisk ikon har spejlet og påvirket sin samtid fra 1940’erne til i dag.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53226700</guid>
+      <pubDate>Thu, 16 Mar 2023 17:28:51 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53226700/wonder_woman.mp3" length="51356778" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Under 2. verdenskrig støder de udsendte amerikanske soldater i deres tegneserier pludselig på en kvindelig superhelt; Wonder Woman. Iklædt sit ikoniske korset, tiara og armbånd, kæmper hun mod alt fra kvindehadende skurke til nazister på amerikansk...</itunes:subtitle>
+      <itunes:summary><![CDATA[Under 2. verdenskrig støder de udsendte amerikanske soldater i deres tegneserier pludselig på en kvindelig superhelt; Wonder Woman. Iklædt sit ikoniske korset, tiara og armbånd, kæmper hun mod alt fra kvindehadende skurke til nazister på amerikansk jord.<br /><br />Hun er imidlertid alt andet end en tom actionfigur. I en verden ødelagt af krig inkarnerer hun nemlig sin skabers - den polyamorøse feminist William Moulton Marston - personlige vision om, at verden ville være bedre, hvis den var ledet af de mere empatiske kvinder. En kompromisløs feministisk utopi, som igen og igen kommer til udtryk i de mange scener, hvor Wonder Woman binder, fanger og undertvinger mænd, alt imens hun opfordrer andre kvinder til at tage magten.<br /><br />Sammen med forsker i filosofi og superhelte, Carsten Fogh Nielsen, sætter vi fokus på historien bag Wonder Woman og diskuterer, hvordan hun som både sexsymbol og feministisk ikon har spejlet og påvirket sin samtid fra 1940’erne til i dag.]]></itunes:summary>
+      <itunes:duration>3210</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Kvinder uden mænd</title>
+      <link>https://www.spreaker.com/user/radiolouddk/parsipur-mp3</link>
+      <description><![CDATA[Den 16. september 2022 dør den kun 22-årige iranske kvinde Mahsa Amini, efter at være blevet banket ihjel af moralpolitiet for at bære sin hijap på en upassende måde. Siden da har der været demonstrationer og protester over hele Iran med masseanholdelser, henrettelser og undertrykkelse til følge.<br /> <br />Under parolen “Kvinde, Liv, Frihed”, er protestbevægelsen blevet kaldt for verdens første feministiske revolution. Ifølge kritiker, oversætter og dagens gæst, Nazila Ghavami Kivi, er den påvirket af en lang iransk tradition for aktivistisk litteratur i opposition til magten.<br /> <br />Et af de bedste eksempler på det, er måske Sharnush Parsipurs undergrundsklassiker, “Kvinder uden mænd” fra 1989. Her følger vi fem kvinder, der bryder med patriarkatet for at skabe sig en alternativ virkelighed i en have udenfor Teheran.<br /> <br />Lyt med, når vi i anledning af kvindernes internationale kampdag snakker om et af de skæringspunkter, hvor litteratur, kvinderettigheder og brutal magt blandes på en af de mest voldsomme måder. Lyt med, når vi hylder en kompromisløs forfatter, snakker om oversættelse som aktivisme og en kvindekamp, som overskrider landegrænser.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53148680</guid>
+      <pubDate>Thu, 09 Mar 2023 17:05:01 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53148680/parsipur_mp3.mp3" length="51860419" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Den 16. september 2022 dør den kun 22-årige iranske kvinde Mahsa Amini, efter at være blevet banket ihjel af moralpolitiet for at bære sin hijap på en upassende måde. Siden da har der været demonstrationer og protester over hele Iran med...</itunes:subtitle>
+      <itunes:summary><![CDATA[Den 16. september 2022 dør den kun 22-årige iranske kvinde Mahsa Amini, efter at være blevet banket ihjel af moralpolitiet for at bære sin hijap på en upassende måde. Siden da har der været demonstrationer og protester over hele Iran med masseanholdelser, henrettelser og undertrykkelse til følge.<br /> <br />Under parolen “Kvinde, Liv, Frihed”, er protestbevægelsen blevet kaldt for verdens første feministiske revolution. Ifølge kritiker, oversætter og dagens gæst, Nazila Ghavami Kivi, er den påvirket af en lang iransk tradition for aktivistisk litteratur i opposition til magten.<br /> <br />Et af de bedste eksempler på det, er måske Sharnush Parsipurs undergrundsklassiker, “Kvinder uden mænd” fra 1989. Her følger vi fem kvinder, der bryder med patriarkatet for at skabe sig en alternativ virkelighed i en have udenfor Teheran.<br /> <br />Lyt med, når vi i anledning af kvindernes internationale kampdag snakker om et af de skæringspunkter, hvor litteratur, kvinderettigheder og brutal magt blandes på en af de mest voldsomme måder. Lyt med, når vi hylder en kompromisløs forfatter, snakker om oversættelse som aktivisme og en kvindekamp, som overskrider landegrænser.]]></itunes:summary>
+      <itunes:duration>3242</itunes:duration>
+      <itunes:keywords>kvindelivfrihed,kvinder,kvinderudenmænd,sharnushparsipur</itunes:keywords>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Hvorfor genopliver Dostojevskij Jesus kun for at slå ham ihjel igen?</title>
+      <link>https://www.spreaker.com/user/radiolouddk/dostoj</link>
+      <description><![CDATA[I den russiske forfatter Fjodor Dostojevskijs sidste roman, Brødrene Karamazov, finder man historien om “Storinkvisitoren”, der kaldes højdepunktet i forfatterskabets meditation over religion, filosofi og meningen med livet. Her genopstår Jesus i 1500-tallets Spanien under inkvisitionen, for straks derefter at blive dømt til kætterbålet. <br /><br />Men hvad er det ved Jesus, som Storinkvisitoren ikke kan lide? Hvorfor accepterer nogle mennesker frivilligt accepterer at leve under autoritære regimer? Og hvad der er vigtigst - frihed eller lykke? <br /><br />Sammen med podcastvært og foredragsholder Lise Lotte Frederiksen dykker vi ned i den måske største af alle forfatters kaotiske personlige liv, vender hans vildeste bøger, og snakker om deres efterliv - helt op til Putin, der i dag bruger bøgerne som propaganda.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53074254</guid>
+      <pubDate>Thu, 02 Mar 2023 17:38:31 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/53074254/dostoj.mp3" length="50988556" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>I den russiske forfatter Fjodor Dostojevskijs sidste roman, Brødrene Karamazov, finder man historien om “Storinkvisitoren”, der kaldes højdepunktet i forfatterskabets meditation over religion, filosofi og meningen med livet. Her genopstår Jesus i...</itunes:subtitle>
+      <itunes:summary><![CDATA[I den russiske forfatter Fjodor Dostojevskijs sidste roman, Brødrene Karamazov, finder man historien om “Storinkvisitoren”, der kaldes højdepunktet i forfatterskabets meditation over religion, filosofi og meningen med livet. Her genopstår Jesus i 1500-tallets Spanien under inkvisitionen, for straks derefter at blive dømt til kætterbålet. <br /><br />Men hvad er det ved Jesus, som Storinkvisitoren ikke kan lide? Hvorfor accepterer nogle mennesker frivilligt accepterer at leve under autoritære regimer? Og hvad der er vigtigst - frihed eller lykke? <br /><br />Sammen med podcastvært og foredragsholder Lise Lotte Frederiksen dykker vi ned i den måske største af alle forfatters kaotiske personlige liv, vender hans vildeste bøger, og snakker om deres efterliv - helt op til Putin, der i dag bruger bøgerne som propaganda.]]></itunes:summary>
+      <itunes:duration>3187</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>“Junk er at skyde kærlighed direkte ind i kroppen&quot;</title>
+      <link>https://www.spreaker.com/user/radiolouddk/de-andre</link>
+      <description><![CDATA[Hvem er de mennesker, der sælger Hus Forbi ude foran din Netto, Rema, Superbrugsen? Hvordan er deres hverdag? Hvor kommer de fra, hvad kæmper de med og hvad drømmer de om?<br /><br />Glem alt om arbejderlitteratur: I Mikael Josephsens roman “De Andre” møder vi de mennesker, der er faldet igennem sikkerhedsnettet og ikke engang kvalificerer sig til underklassen. Vi følger deres brutale tilværelse, hvor misbrug, barndomstraumer og hjemløshed betyder en kamp for at overleve fra dag til dag. <br /><br />Bogen er fiktion, men baseret på virkelige skæbner, og udgør derfor samtidig en syngende lussing til velfærdsstaten Danmark, som ikke formår at passe på sine svageste medborgere.<br /><br />Vi taler med Mikael Josephsen om hans tanker om hjemløshed, forholdet mellem misbrug og hans litteratur, og hvorfor han sendte sin bog som en opfordring til alle partilederne.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/52827868</guid>
+      <pubDate>Thu, 23 Feb 2023 17:22:00 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/52827868/de_andre.mp3" length="51437862" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Hvem er de mennesker, der sælger Hus Forbi ude foran din Netto, Rema, Superbrugsen? Hvordan er deres hverdag? Hvor kommer de fra, hvad kæmper de med og hvad drømmer de om?
+
+Glem alt om arbejderlitteratur: I Mikael Josephsens roman “De Andre” møder vi...</itunes:subtitle>
+      <itunes:summary><![CDATA[Hvem er de mennesker, der sælger Hus Forbi ude foran din Netto, Rema, Superbrugsen? Hvordan er deres hverdag? Hvor kommer de fra, hvad kæmper de med og hvad drømmer de om?<br /><br />Glem alt om arbejderlitteratur: I Mikael Josephsens roman “De Andre” møder vi de mennesker, der er faldet igennem sikkerhedsnettet og ikke engang kvalificerer sig til underklassen. Vi følger deres brutale tilværelse, hvor misbrug, barndomstraumer og hjemløshed betyder en kamp for at overleve fra dag til dag. <br /><br />Bogen er fiktion, men baseret på virkelige skæbner, og udgør derfor samtidig en syngende lussing til velfærdsstaten Danmark, som ikke formår at passe på sine svageste medborgere.<br /><br />Vi taler med Mikael Josephsen om hans tanker om hjemløshed, forholdet mellem misbrug og hans litteratur, og hvorfor han sendte sin bog som en opfordring til alle partilederne.]]></itunes:summary>
+      <itunes:duration>3215</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Lolita</title>
+      <link>https://www.spreaker.com/user/radiolouddk/lolita</link>
+      <description><![CDATA[Man behøver ikke at have læst Lolita for at vide, hvad bogen handler om. Nabokov’s klassiker var fra udgivelsen i 1955 stærkt skandaløst på grund af dens behandling af vores kulturs allerstørste tabuer: Det pædofile begær efter et barn.<br /> <br />Sammen med kulturskribent Linea Maja Ernst taler vi om, hvorfor man skal læse den alligevel. Fortalt af Humbert Humbert, den måske mest arrogante, upålidelige, velformulerede, selvbevidste og dekadente fortæller nogensinde, er roman samtidig kendt for at være så smuk skrevet, at man næsten glemmer det forfærdelige overgreb.<br /> <br />Dyk med ned i en enestående meditation over en begyndende teenage-kultur, efterkrigstidens USA, og et af det erotiske begærs mest uhyggelige sider.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/52757004</guid>
+      <pubDate>Thu, 16 Feb 2023 17:27:56 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/52757004/lolita.mp3" length="84672512" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Man behøver ikke at have læst Lolita for at vide, hvad bogen handler om. Nabokov’s klassiker var fra udgivelsen i 1955 stærkt skandaløst på grund af dens behandling af vores kulturs allerstørste tabuer: Det pædofile begær efter et barn.
+ 
+Sammen med...</itunes:subtitle>
+      <itunes:summary><![CDATA[Man behøver ikke at have læst Lolita for at vide, hvad bogen handler om. Nabokov’s klassiker var fra udgivelsen i 1955 stærkt skandaløst på grund af dens behandling af vores kulturs allerstørste tabuer: Det pædofile begær efter et barn.<br /> <br />Sammen med kulturskribent Linea Maja Ernst taler vi om, hvorfor man skal læse den alligevel. Fortalt af Humbert Humbert, den måske mest arrogante, upålidelige, velformulerede, selvbevidste og dekadente fortæller nogensinde, er roman samtidig kendt for at være så smuk skrevet, at man næsten glemmer det forfærdelige overgreb.<br /> <br />Dyk med ned i en enestående meditation over en begyndende teenage-kultur, efterkrigstidens USA, og et af det erotiske begærs mest uhyggelige sider.]]></itunes:summary>
+      <itunes:duration>3205</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Litteratur fra et bosted</title>
+      <link>https://www.spreaker.com/user/radiolouddk/fine</link>
+      <description><![CDATA[Et opgør mod psykiatriens hårde og kliniske sprog. En kritik af sundhedssystemet og de fordomme vi har om mennesker med psykiske lidelser. En vild og intim fortælling indefra et bosted, et underbelyst sted i litteraturen.<br /> <br />Fine Gråbøls bog “Ungeenheden” fra 2021, er blevet læst på mange forskellige måder. I bogen følger vi en gruppe unge mennesker på et bosted for mennesker med psykiske lidelser i alle deres gøremål: Når de forsøger at koge suppe, når de forsøger at begå selvmord. Her er der ingen løfter om at karakterne bliver rask.<br /> <br />Lyt med, når vi snakker om litteraturens kritiske og helende potentiale på et af de mest sårbare og vigtigste samfundsområder.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/52662243</guid>
+      <pubDate>Tue, 07 Feb 2023 18:02:23 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/52662243/fine.mp3" length="50979779" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Et opgør mod psykiatriens hårde og kliniske sprog. En kritik af sundhedssystemet og de fordomme vi har om mennesker med psykiske lidelser. En vild og intim fortælling indefra et bosted, et underbelyst sted i litteraturen.
+ 
+Fine Gråbøls bog...</itunes:subtitle>
+      <itunes:summary><![CDATA[Et opgør mod psykiatriens hårde og kliniske sprog. En kritik af sundhedssystemet og de fordomme vi har om mennesker med psykiske lidelser. En vild og intim fortælling indefra et bosted, et underbelyst sted i litteraturen.<br /> <br />Fine Gråbøls bog “Ungeenheden” fra 2021, er blevet læst på mange forskellige måder. I bogen følger vi en gruppe unge mennesker på et bosted for mennesker med psykiske lidelser i alle deres gøremål: Når de forsøger at koge suppe, når de forsøger at begå selvmord. Her er der ingen løfter om at karakterne bliver rask.<br /> <br />Lyt med, når vi snakker om litteraturens kritiske og helende potentiale på et af de mest sårbare og vigtigste samfundsområder.]]></itunes:summary>
+      <itunes:duration>3187</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Nekrolog: Henrik Nordbrandt</title>
+      <link>https://www.spreaker.com/user/radiolouddk/nordbrandt_1</link>
+      <description><![CDATA[Særudsendelse om Henrik Nordbrandt.<br /> <br />Siden den første digtsamling udkom i 1966, har Nordbrandt udgivet mere end 40 bøger. Sammen med litteraturkritiker og digter, Lars Bukdahl, mindes vi "Danmarks sureste digter", som modsatte sig alt fra kongehuset til årstidernes skiften, var bange for døden, og skrev nogle uforglemmelige digte.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/52615134</guid>
+      <pubDate>Thu, 02 Feb 2023 13:45:28 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/52615134/nordbrandt.mp3" length="26402107" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Særudsendelse om Henrik Nordbrandt.
+ 
+Siden den første digtsamling udkom i 1966, har Nordbrandt udgivet mere end 40 bøger. Sammen med litteraturkritiker og digter, Lars Bukdahl, mindes vi &quot;Danmarks sureste digter&quot;, som modsatte sig alt fra kongehuset...</itunes:subtitle>
+      <itunes:summary><![CDATA[Særudsendelse om Henrik Nordbrandt.<br /> <br />Siden den første digtsamling udkom i 1966, har Nordbrandt udgivet mere end 40 bøger. Sammen med litteraturkritiker og digter, Lars Bukdahl, mindes vi "Danmarks sureste digter", som modsatte sig alt fra kongehuset til årstidernes skiften, var bange for døden, og skrev nogle uforglemmelige digte.]]></itunes:summary>
+      <itunes:duration>1651</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Kunsten at sulte</title>
+      <link>https://www.spreaker.com/user/radiolouddk/sult</link>
+      <description><![CDATA[“Det var i den tid, jeg gik omkring og sulted i Kristiania, denne forunderlige by, som ingen forlader, før han har fået mærker af den.”<br /> <br />Romanen “Sult” fra 1890 regnes af mange som et af de vildeste og mest grænseoverskridende værker nogensinde skrevet på dansk. Efter mange år i skammekrogen og hele fire redigeringer af Knut Hamsun selv, har vi nu igen muligheden for at læse bogen, som den først blev skrevet.<br /> <br />“Blasfemisk”, “radikal”, “liderlig”, “et mirakel” - sammen med to af eksperter der har genudgivet den, undersøger vi, hvad den første udgave gemmer på. Hvem den mystiske og meget omdiskuterede Knut Hamsun var. Og hvorfor Sult bliver ved med at påvirke litteraturen og vores idé om kunstneren i dag.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/52602417</guid>
+      <pubDate>Wed, 01 Feb 2023 06:47:56 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/52602417/sult.mp3" length="51524380" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>“Det var i den tid, jeg gik omkring og sulted i Kristiania, denne forunderlige by, som ingen forlader, før han har fået mærker af den.”
+ 
+Romanen “Sult” fra 1890 regnes af mange som et af de vildeste og mest grænseoverskridende værker nogensinde...</itunes:subtitle>
+      <itunes:summary><![CDATA[“Det var i den tid, jeg gik omkring og sulted i Kristiania, denne forunderlige by, som ingen forlader, før han har fået mærker af den.”<br /> <br />Romanen “Sult” fra 1890 regnes af mange som et af de vildeste og mest grænseoverskridende værker nogensinde skrevet på dansk. Efter mange år i skammekrogen og hele fire redigeringer af Knut Hamsun selv, har vi nu igen muligheden for at læse bogen, som den først blev skrevet.<br /> <br />“Blasfemisk”, “radikal”, “liderlig”, “et mirakel” - sammen med to af eksperter der har genudgivet den, undersøger vi, hvad den første udgave gemmer på. Hvem den mystiske og meget omdiskuterede Knut Hamsun var. Og hvorfor Sult bliver ved med at påvirke litteraturen og vores idé om kunstneren i dag.]]></itunes:summary>
+      <itunes:duration>3221</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Hvordan startede Goethe en selvmordsbølge med &quot;Den Unge Werthers Lidelser&quot;?</title>
+      <link>https://www.spreaker.com/user/radiolouddk/werther-faerdig_1</link>
+      <description><![CDATA[I 1774 udkommer bogen “Den Unge Werthers Lidelser”, kendt som en af verdenshistoriens farligste bøger.<br /><br />Skrevet af Tysklands måske største forfatter nogensinde, Johann Wolfgang von Goethe, er det fortællingen om stalker- og emo-karakteren Werther, som forelsker sig voldsomt i bondepigen Lotte. Hun vil ikke have Werther. Werther begår selvmord.<br /><br />Det samme gjorde eftersigende en hel generation af unge og følsomme mænd, som følte sig beslægtet med Werthers overdrevne følelsesliv. Lyt med, når vi undersøger hvad Werthers lidelser konkret består i, hvorfor bogen var forbudt i Danmark, og hvordan den har påvirket vores kærlighedsliv. <br /><br />]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/52531805</guid>
+      <pubDate>Tue, 24 Jan 2023 18:14:01 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/52531805/werther_f_rdig.mp3" length="51679025" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>I 1774 udkommer bogen “Den Unge Werthers Lidelser”, kendt som en af verdenshistoriens farligste bøger.
+
+Skrevet af Tysklands måske største forfatter nogensinde, Johann Wolfgang von Goethe, er det fortællingen om stalker- og emo-karakteren Werther, som...</itunes:subtitle>
+      <itunes:summary><![CDATA[I 1774 udkommer bogen “Den Unge Werthers Lidelser”, kendt som en af verdenshistoriens farligste bøger.<br /><br />Skrevet af Tysklands måske største forfatter nogensinde, Johann Wolfgang von Goethe, er det fortællingen om stalker- og emo-karakteren Werther, som forelsker sig voldsomt i bondepigen Lotte. Hun vil ikke have Werther. Werther begår selvmord.<br /><br />Det samme gjorde eftersigende en hel generation af unge og følsomme mænd, som følte sig beslægtet med Werthers overdrevne følelsesliv. Lyt med, når vi undersøger hvad Werthers lidelser konkret består i, hvorfor bogen var forbudt i Danmark, og hvordan den har påvirket vores kærlighedsliv. <br /><br />]]></itunes:summary>
+      <itunes:duration>3230</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Underkastelse: Houellebecq forestiller sig Vestens mareridt</title>
+      <link>https://www.spreaker.com/user/radiolouddk/houllebcq</link>
+      <description><![CDATA[Kvinder bærer tørklæder og trækker sig fra arbejdsmarkedet. Mænd konverterer til islam og tager sig flere koner. Den franske præsident er muslim, og samler med stor succes landet for første gang i mange år.<br /><br />I bogen “Underkastelse” forestiller Michel Houellebecq sig et fremtidigt Frankrig ledet af partiet Det Muslimske Broderskab. Bogen udkom samme dag som angrebet på Charlie Hebdo, og er herfra blevet diskuteret som et enten et skræmmeeksempel på Europas fremtid eller en satire over den vestlige mand, alt efter hvem man spørger.<br /><br />Bogen er politisk, polemisk og vidunderligt spekulativ. Vi snakker med Houellebecqs danske forlægger, Marie Vinter, om den fremtid han forestiller sig, hvordan bogen passer ind i forfatterskabets søgen efter meningen med livet, og hvorfor det er så vigtigt at adskille kunst fra kunsteren selv.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/52471370</guid>
+      <pubDate>Wed, 18 Jan 2023 10:22:04 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/52471370/houllebcq.mp3" length="51439116" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Kvinder bærer tørklæder og trækker sig fra arbejdsmarkedet. Mænd konverterer til islam og tager sig flere koner. Den franske præsident er muslim, og samler med stor succes landet for første gang i mange år.
+
+I bogen “Underkastelse” forestiller Michel...</itunes:subtitle>
+      <itunes:summary><![CDATA[Kvinder bærer tørklæder og trækker sig fra arbejdsmarkedet. Mænd konverterer til islam og tager sig flere koner. Den franske præsident er muslim, og samler med stor succes landet for første gang i mange år.<br /><br />I bogen “Underkastelse” forestiller Michel Houellebecq sig et fremtidigt Frankrig ledet af partiet Det Muslimske Broderskab. Bogen udkom samme dag som angrebet på Charlie Hebdo, og er herfra blevet diskuteret som et enten et skræmmeeksempel på Europas fremtid eller en satire over den vestlige mand, alt efter hvem man spørger.<br /><br />Bogen er politisk, polemisk og vidunderligt spekulativ. Vi snakker med Houellebecqs danske forlægger, Marie Vinter, om den fremtid han forestiller sig, hvordan bogen passer ind i forfatterskabets søgen efter meningen med livet, og hvorfor det er så vigtigt at adskille kunst fra kunsteren selv.]]></itunes:summary>
+      <itunes:duration>3215</itunes:duration>
+      <itunes:keywords>dystopi,houellebecq,underkastelse</itunes:keywords>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Er Bibelen verdenshistoriens mest magtfulde bog?</title>
+      <link>https://www.spreaker.com/user/radiolouddk/gud</link>
+      <description><![CDATA[Om vi vil det eller ej, hjemsøger Bibelens fortællinger og myter vores kollektive fantasi. Højst sandsynligt stammer vores frygt for helvedet herfra. Det samme gør alt efter hvem du spørger vores syn på kvinder, vores forhold til naturen. <br /><br />Sammen med lektor i teologi, Søren Holst, undersøger vi i dagens afsnit af Brændende Bøger, hvordan Bibelen har påvirket os.<br /> <br />Fra papirruller i dødehavet til Sørens gaffatapede Bibel i studiet, går vi herfra på sporet af den rodede kollektive skriveproces, som i dag er blevet til Biblen. For hvis ikke Jesus, hvem har så skrevet den? Hvornår? Og hvorfor?]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/52403197</guid>
+      <pubDate>Tue, 10 Jan 2023 17:24:25 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/52403197/gud.mp3" length="51632631" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>Om vi vil det eller ej, hjemsøger Bibelens fortællinger og myter vores kollektive fantasi. Højst sandsynligt stammer vores frygt for helvedet herfra. Det samme gør alt efter hvem du spørger vores syn på kvinder, vores forhold til naturen. 
+
+Sammen med...</itunes:subtitle>
+      <itunes:summary><![CDATA[Om vi vil det eller ej, hjemsøger Bibelens fortællinger og myter vores kollektive fantasi. Højst sandsynligt stammer vores frygt for helvedet herfra. Det samme gør alt efter hvem du spørger vores syn på kvinder, vores forhold til naturen. <br /><br />Sammen med lektor i teologi, Søren Holst, undersøger vi i dagens afsnit af Brændende Bøger, hvordan Bibelen har påvirket os.<br /> <br />Fra papirruller i dødehavet til Sørens gaffatapede Bibel i studiet, går vi herfra på sporet af den rodede kollektive skriveproces, som i dag er blevet til Biblen. For hvis ikke Jesus, hvem har så skrevet den? Hvornår? Og hvorfor?]]></itunes:summary>
+      <itunes:duration>3228</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>JEG ANERKENDER IKKE LÆNGERE JERES AUTORITET</title>
+      <link>https://www.spreaker.com/user/radiolouddk/glennbech</link>
+      <description><![CDATA[“Et menneske der beskylder en kunstner for at være politisk, har nok aldrig haft sine egne menneskerettigheder til debat.”<br /><br />Sådan skriver forfatter og psykolog Glenn Bech i sit bestseller manifest, der har genantændt klassekampen, og muligvis startet en græsrodsbevægelse mod etablerede autoriteter.<br /><br />I det første afsnit af litteraturprogrammet “Brændende Bøger” tager han os med på sin egen klasserejse. Fra en hård opvækst i Horsens med farens selvmord, homofobiske mobbere og en mor, der kæmpede alene nederst i samfundet, til anerkendelse i det Københavnske kulturliv og sin nytårstale til hele nationen.<br /><br />Glenn Bech forklarer, hvorfor han ikke selv har privilegiet at skrive for sjov. Hvorfor kunst og politik for ham altid vil hænge sammen. Hvor ensomt det føles at være mønsterbryderen, og hvorfor han stadig er vred på alt imellem den øvre middelklasse, landets rigeste, woke-sproget, politikerne, digterne, København og Jylland.<br /><br />—<br /><br />Litteratur skal ikke være skøn. Litteratur skal være beskidt, mærkelig og farlig. Litteratur skal forandre verden. Fra Pippi Langstrømpes oprør mod de voksne og Harry Potters genfortrylning af verden — over Yahya Hassans eksplosive digte og Suzanne Brøggers angreb på kernefamilien, til 1984’s klaustrofobiske overvågningsverden og fatwaen mod Salman Rushdie. Lyt med, når oprørske læsere og kompromisløse forfattere læser og taler om de Brændende Bøger.]]></description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/52342909</guid>
+      <pubDate>Tue, 03 Jan 2023 17:05:01 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/52342909/glennbech.mp3" length="50693059" type="audio/mpeg"/>
+      <itunes:author>24syv</itunes:author>
+      <itunes:subtitle>“Et menneske der beskylder en kunstner for at være politisk, har nok aldrig haft sine egne menneskerettigheder til debat.”
+
+Sådan skriver forfatter og psykolog Glenn Bech i sit bestseller manifest, der har genantændt klassekampen, og muligvis startet...</itunes:subtitle>
+      <itunes:summary><![CDATA[“Et menneske der beskylder en kunstner for at være politisk, har nok aldrig haft sine egne menneskerettigheder til debat.”<br /><br />Sådan skriver forfatter og psykolog Glenn Bech i sit bestseller manifest, der har genantændt klassekampen, og muligvis startet en græsrodsbevægelse mod etablerede autoriteter.<br /><br />I det første afsnit af litteraturprogrammet “Brændende Bøger” tager han os med på sin egen klasserejse. Fra en hård opvækst i Horsens med farens selvmord, homofobiske mobbere og en mor, der kæmpede alene nederst i samfundet, til anerkendelse i det Københavnske kulturliv og sin nytårstale til hele nationen.<br /><br />Glenn Bech forklarer, hvorfor han ikke selv har privilegiet at skrive for sjov. Hvorfor kunst og politik for ham altid vil hænge sammen. Hvor ensomt det føles at være mønsterbryderen, og hvorfor han stadig er vred på alt imellem den øvre middelklasse, landets rigeste, woke-sproget, politikerne, digterne, København og Jylland.<br /><br />—<br /><br />Litteratur skal ikke være skøn. Litteratur skal være beskidt, mærkelig og farlig. Litteratur skal forandre verden. Fra Pippi Langstrømpes oprør mod de voksne og Harry Potters genfortrylning af verden — over Yahya Hassans eksplosive digte og Suzanne Brøggers angreb på kernefamilien, til 1984’s klaustrofobiske overvågningsverden og fatwaen mod Salman Rushdie. Lyt med, når oprørske læsere og kompromisløse forfattere læser og taler om de Brændende Bøger.]]></itunes:summary>
+      <itunes:duration>3169</itunes:duration>
+      <itunes:keywords>autoritet,forlagetgyldendal,glennbech,gyldendal,horsens,klassekamp,mønsterbryder</itunes:keywords>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c0a44ab1714e26f994c89417c20d8468.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
