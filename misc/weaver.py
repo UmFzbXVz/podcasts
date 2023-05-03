@@ -4,7 +4,7 @@ from datetime import datetime
 import xml.dom.minidom
 from xml.sax.saxutils import escape
 
-with open('fil_med_json', 'r') as f:
+with open('data.json', 'r') as f:
     podcasts = json.load(f)
 
 # Iterer gennem hver podcast i JSON-filen
@@ -31,8 +31,8 @@ for podcast_id, podcast_data in podcasts.items():
         ET.SubElement(channel, '{%s}summary' % itunes_ns).text = escape(podcast_data['summary'])
     if 'author' in podcast_data:
         ET.SubElement(channel, '{%s}author' % itunes_ns).text = escape(podcast_data['author'])
-    if 'image' in podcast_data:
-        image_url = podcast_data['image']
+    if 'image_url' in podcast_data:
+        image_url = podcast_data['image_url']
         ET.SubElement(channel, '{%s}image' % itunes_ns, {'href': image_url})
     if 'category' in podcast_data:
         ET.SubElement(channel, '{%s}category' % itunes_ns, {'text': escape(podcast_data['category'])})
@@ -83,8 +83,7 @@ for podcast_id, podcast_data in podcasts.items():
             ET.SubElement(item, '{%s}summary' % itunes_ns).text = escape(episode['summary'])
         if 'author' in episode:
             ET.SubElement(item, '{%s}author' % itunes_ns).text = escape(episode['author'])
-        if 'image' in episode:
-            ET.SubElement(item, '{%s}image' % itunes_ns, {'href': episode['image']})
+            
 
     # Gem RSS-feedet i en fil
     file_name = podcast_data['alt_text'].replace('/', '_').replace('?', '_').replace(' ', '_').lower()
