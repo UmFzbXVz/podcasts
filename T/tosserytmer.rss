@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Tosserytmer</title>
+		<link>https://web.24syv.dk/channels/4753</link>
+		<description>Søren E. Jensen taler med Steen Claësson, tidligere medlem af bandet Hyldemor.</description>
+		<language>da-DK</language>
+		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/632/Tosserytmer.png"/>
+		<item>
+			<title>Tosserytmer 20-06-2015</title>
+			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110160/11706280-audio.mp3</link>
+			<description>Søren E. Jensen taler med Steen Claësson, tidligere medlem af bandet Hyldemor. Søren E. Jensen</description>
+			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110160/11706280-audio.mp3</guid>
+			<pubDate>Sat, 20 Jun 2015 13:03:46 +0000</pubDate>
+			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/110160/11706280-audio.mp3" length="3299" type="audio/mpeg"/>
+			<itunes:duration>00:54:59</itunes:duration>
+		</item>
+	</channel>
+</rss>
