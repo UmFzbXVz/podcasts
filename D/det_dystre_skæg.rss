@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+	<channel>
+		<atom:link href="http://rss.castbox.fm/everest/fb26a54124f34532b0220e78e0294041.xml" type="application/rss+xml" rel="self"/>
+		<copyright></copyright>
+		<link>https://castbox.fm/ch/5380490</link>
+		<language>en-us</language>
+		<title>Det Dystre Skæg</title>
+		<description>
+			<![CDATA[Martin Nørgaard og Elias Ehlers]]>
+		</description>
+		<castbox:uid>153b22b94b17438badf99d470e1bee30</castbox:uid>
+		<castbox:pid>5380490</castbox:pid>
+		<castbox:type></castbox:type>
+		<itunes:summary>
+			<![CDATA[Martin Nørgaard og Elias Ehlers]]>
+		</itunes:summary>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:author>Gloomy Beard Ltd.</itunes:author>
+		<itunes:owner>
+			<itunes:email>jasdjaosdijasd@asd.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://s3.castbox.fm/f7/5d/65/90d0d741aabec95520796b9da5.jpg"/>
+		<itunes:keywords>Comedy</itunes:keywords>
+		<itunes:category text="Comedy"/>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Episode 43 - Apokalypso</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/34/b2/a2/d0798c4da8a7097ff1573a9935.mp3" type="audio/mp3" length="67733965"/>
+			<itunes:duration>01:10:24</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-90e1a8b20b314d628910194a77bc84a9</guid>
+			<pubDate>Fri, 31 Mar 2023 09:37:30 +0000</pubDate>
+			<castbox:tid>583786945</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 42 - Gid man måtte slå</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/49/d9/af/0b743a4205a5d4f4125c3c3305.mp3" type="audio/mp3" length="56558164"/>
+			<itunes:duration>00:58:45</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-4adaa51e42bd4a9e908daf8ff3fe6c35</guid>
+			<pubDate>Fri, 31 Mar 2023 09:36:55 +0000</pubDate>
+			<castbox:tid>583786829</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 41 - Vi har lavet børn</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/61/1e/3e/fe098748cba9b23d45d43cf645.mp3" type="audio/mp3" length="56624618"/>
+			<itunes:duration>00:58:49</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-65af2694ab8844188ad0eb4594dfca8a</guid>
+			<pubDate>Fri, 31 Mar 2023 09:36:24 +0000</pubDate>
+			<castbox:tid>583786740</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 40 - Marokko og onemanshow</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/1b/1f/55/78309548a595df7d6e63c31576.mp3" type="audio/mp3" length="58094124"/>
+			<itunes:duration>01:00:21</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-55148f9e309d45fbbadfba85664fa547</guid>
+			<pubDate>Fri, 31 Mar 2023 09:35:50 +0000</pubDate>
+			<castbox:tid>583786666</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 39 - Bag om touren</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/67/2f/9c/92bd5b4a6db821bdff082c8e96.mp3" type="audio/mp3" length="34878191"/>
+			<itunes:duration>00:36:10</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-b68c1e3cf122427a9a8c40a449c1d327</guid>
+			<pubDate>Fri, 31 Mar 2023 09:35:18 +0000</pubDate>
+			<castbox:tid>583786573</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 38 - Direkte ud af Viborg</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/66/b5/90/a8276946379c063bbfac930e52.mp3" type="audio/mp3" length="42932049"/>
+			<itunes:duration>00:44:32</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-b0bad00a868d4c1fa6fc659470201afc</guid>
+			<pubDate>Fri, 31 Mar 2023 09:34:52 +0000</pubDate>
+			<castbox:tid>583786473</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 37 - Kan du ikke ringe til en ven?</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/60/d7/38/121f2a40e9ae9b5ca02d36aa93.mp3" type="audio/mp3" length="53702866"/>
+			<itunes:duration>00:55:45</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-262f1ca0fc664a189ea6babb6f4690bd</guid>
+			<pubDate>Fri, 31 Mar 2023 09:33:58 +0000</pubDate>
+			<castbox:tid>583786316</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 36 - Live fra Skuespilhuset m. Simon Jul</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/5b/df/aa/a9d07c4fccaa0115e7379a15ff.mp3" type="audio/mp3" length="58758711"/>
+			<itunes:duration>01:01:12</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-2c9c8355d3854b3dbca5fa2cf1d658c2</guid>
+			<pubDate>Fri, 31 Mar 2023 09:33:11 +0000</pubDate>
+			<castbox:tid>583786112</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 35 - Live fra Skuespilhuset m. Mikkel Klint Thorius</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/c3/91/88/03796e41a987235c601acd2995.mp3" type="audio/mp3" length="60660843"/>
+			<itunes:duration>01:03:11</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-1189897224394f3eba73e7e5d4b0d79f</guid>
+			<pubDate>Fri, 31 Mar 2023 09:32:37 +0000</pubDate>
+			<castbox:tid>583785926</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 34 - Retro raseri</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/b7/90/16/e87d414cfd864f6925bfab610b.mp3" type="audio/mp3" length="53536502"/>
+			<itunes:duration>00:55:34</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-8dc8d7227aea482dbdf7694d7176e183</guid>
+			<pubDate>Fri, 31 Mar 2023 09:29:32 +0000</pubDate>
+			<castbox:tid>583785326</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 33 - Live på Skipperlab</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/a5/9c/dc/44b27d4237a0913e86e2c34154.mp3" type="audio/mp3" length="56345812"/>
+			<itunes:duration>00:58:41</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-5b0e39ba7ac64a3086a9ffeb1756e3a7</guid>
+			<pubDate>Fri, 31 Mar 2023 09:29:05 +0000</pubDate>
+			<castbox:tid>583785241</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 32 - Eventyrøen</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/43/c5/34/2d2a7145a5ab379597c9d5692c.mp3" type="audio/mp3" length="68243408"/>
+			<itunes:duration>01:10:53</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-cd26012abe48455b8e2d883152427113</guid>
+			<pubDate>Fri, 31 Mar 2023 09:27:30 +0000</pubDate>
+			<castbox:tid>583784934</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 31 - Rorschachtesten</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/82/3c/38/b3eeb0420281307d203637d4e9.mp3" type="audio/mp3" length="43820778"/>
+			<itunes:duration>00:45:27</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-a3f8e2b3a92749e5b1bd4738fee9610b</guid>
+			<pubDate>Fri, 31 Mar 2023 09:26:39 +0000</pubDate>
+			<castbox:tid>583784841</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 30 - Hampesnaps</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/e1/c5/78/e24a764e9195869f8f13c3bd57.mp3" type="audio/mp3" length="57770161"/>
+			<itunes:duration>00:59:59</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-a779153fe26e46bf88bc1edbd52531fb</guid>
+			<pubDate>Fri, 31 Mar 2023 09:26:16 +0000</pubDate>
+			<castbox:tid>583784794</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 29 - Anal Sadist</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/b0/51/b1/b685f4416eb5ff03fb2c3ac035.mp3" type="audio/mp3" length="62035435"/>
+			<itunes:duration>01:04:25</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-f9fc861bab8245ffa361ac5e3a58b03a</guid>
+			<pubDate>Fri, 31 Mar 2023 09:25:47 +0000</pubDate>
+			<castbox:tid>583784711</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 28 - Kønsquizzen</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/5f/84/41/a3edb44ac4b19a4fdf1a9b5eb1.mp3" type="audio/mp3" length="67083991"/>
+			<itunes:duration>01:09:41</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-e54fdf9e91114190bc940e46eeb99487</guid>
+			<pubDate>Fri, 31 Mar 2023 09:25:21 +0000</pubDate>
+			<castbox:tid>583784670</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 27 - Nittenfireogfirs</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/34/86/9f/3d4cf7490e80e63fd03477128d.mp3" type="audio/mp3" length="66946879"/>
+			<itunes:duration>01:09:32</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-2bc594f414d94f56890711809923ed49</guid>
+			<pubDate>Fri, 31 Mar 2023 09:24:59 +0000</pubDate>
+			<castbox:tid>583784630</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 26 - Trubadurius</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/fc/16/ed/0cd0e2457b8dd43cf5f46d58ef.mp3" type="audio/mp3" length="47466632"/>
+			<itunes:duration>00:49:15</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-64916b623ed9489bbdbd6f0b9ddfa65a</guid>
+			<pubDate>Fri, 31 Mar 2023 09:24:34 +0000</pubDate>
+			<castbox:tid>583784593</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 25 - Deep throat</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/8c/6b/ce/6344154e9ab3a546595ef3344d.mp3" type="audio/mp3" length="57096830"/>
+			<itunes:duration>00:59:17</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-aad4c25fdddb44cf939d65c745466bc6</guid>
+			<pubDate>Fri, 31 Mar 2023 09:23:21 +0000</pubDate>
+			<castbox:tid>583784423</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 24 - Bedre sent end aldrig</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/9f/8d/ac/75093a4da6b1261c246d4798f3.mp3" type="audio/mp3" length="59663945"/>
+			<itunes:duration>01:01:57</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-2018e05785774d99995e06fcd8c09e78</guid>
+			<pubDate>Fri, 31 Mar 2023 09:23:02 +0000</pubDate>
+			<castbox:tid>583784384</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 23 - Kommunalvalg og kattekrise</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/d7/bc/e7/6db6ad45b5bb171b67550b7131.mp3" type="audio/mp3" length="73543962"/>
+			<itunes:duration>01:16:25</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-6137a993d2fd487d85f7cec0e5bb3ece</guid>
+			<pubDate>Fri, 31 Mar 2023 09:22:33 +0000</pubDate>
+			<castbox:tid>583784318</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 22 - Allergi og evigt liv</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/bf/52/a9/14e9d64ad1bf0e1f9dd7b078cc.mp3" type="audio/mp3" length="76734238"/>
+			<itunes:duration>01:19:44</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-355c2317086944eea06d844155c5ab1c</guid>
+			<pubDate>Fri, 31 Mar 2023 09:22:04 +0000</pubDate>
+			<castbox:tid>583784242</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 21 - Ét skridt ad gangen</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/a9/5d/bf/3c71554e28a3d52923334c558c.mp3" type="audio/mp3" length="71646938"/>
+			<itunes:duration>01:14:26</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-1b0e0b07b6314e2fb5bae76ce7e217ca</guid>
+			<pubDate>Fri, 31 Mar 2023 09:21:40 +0000</pubDate>
+			<castbox:tid>583784183</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 20 - Halal på badehotellet</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/05/80/84/68e6244121a8b27db86ac2246f.mp3" type="audio/mp3" length="64462626"/>
+			<itunes:duration>01:06:57</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-41e7f9ad36724f54bc125ff5767f0b08</guid>
+			<pubDate>Fri, 31 Mar 2023 09:21:14 +0000</pubDate>
+			<castbox:tid>583784125</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 19 - Nu med ulv</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/af/b4/62/52d7374a3facc2db35518b0eef.mp3" type="audio/mp3" length="54538555"/>
+			<itunes:duration>00:56:37</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-8c7264e45de14612807a910675ccd4bb</guid>
+			<pubDate>Fri, 31 Mar 2023 09:20:46 +0000</pubDate>
+			<castbox:tid>583784063</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 18 - Teknisk uheld</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/f9/46/91/6ab639470bb879eb9c281f944b.mp3" type="audio/mp3" length="60754029"/>
+			<itunes:duration>01:03:05</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-d0197b8111fd41b8ad61d61cd00558e4</guid>
+			<pubDate>Fri, 31 Mar 2023 09:20:18 +0000</pubDate>
+			<castbox:tid>583783947</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 17 - Elias elsker bodybuilding</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/d0/74/c5/ca952048e7bce5d56be5a4173c.mp3" type="audio/mp3" length="47196283"/>
+			<itunes:duration>00:48:58</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-caeae7f91d6e46f8b01b8126801dffeb</guid>
+			<pubDate>Fri, 31 Mar 2023 09:19:55 +0000</pubDate>
+			<castbox:tid>583783905</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 16 - Hartmann er voksen</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/a8/73/4f/579c064bb7ace7f6c8be791372.mp3" type="audio/mp3" length="68608743"/>
+			<itunes:duration>01:11:16</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-67d3b1bc22c94cc2ae5b6d43c5e7c344</guid>
+			<pubDate>Fri, 31 Mar 2023 09:19:31 +0000</pubDate>
+			<castbox:tid>583783863</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 15 - I love danish butter</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/0c/36/3b/a707c240458b77b37e7d6b228c.mp3" type="audio/mp3" length="45643142"/>
+			<itunes:duration>00:47:21</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-c644731c15274f34a2159dfc4b022edd</guid>
+			<pubDate>Fri, 31 Mar 2023 09:19:10 +0000</pubDate>
+			<castbox:tid>583783678</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 14 - Martin er dåm</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/54/33/dc/d1d6fc492c9c227e92c4ee8dad.mp3" type="audio/mp3" length="62746889"/>
+			<itunes:duration>01:05:10</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-907626fb5cda408fae6e6e9dc25f0c9a</guid>
+			<pubDate>Fri, 31 Mar 2023 09:18:00 +0000</pubDate>
+			<castbox:tid>583783536</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 13 - Synkront Shoutout</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/22/73/7d/e7335f40b0bc2fb7232f7ae95c.mp3" type="audio/mp3" length="59174149"/>
+			<itunes:duration>01:01:27</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-48dedc5df3a843049911da58bcdb50d4</guid>
+			<pubDate>Fri, 31 Mar 2023 09:17:34 +0000</pubDate>
+			<castbox:tid>583783502</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 12 - Kvote 2</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/26/0b/f5/cc84524cac883da8f4979aacab.mp3" type="audio/mp3" length="55284611"/>
+			<itunes:duration>00:57:24</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-633a0eb4212a4bc59aedffc3e506593f</guid>
+			<pubDate>Fri, 31 Mar 2023 09:17:07 +0000</pubDate>
+			<castbox:tid>583783381</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 11 - Dødskørsel</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/88/d8/c7/b125f94ccb8b970e7ba666aaad.mp3" type="audio/mp3" length="53427230"/>
+			<itunes:duration>00:55:28</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-da9dc5589792492e87b42bde9f73721d</guid>
+			<pubDate>Fri, 31 Mar 2023 09:16:39 +0000</pubDate>
+			<castbox:tid>583783319</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 10 - Snaps med Stokholm</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/d5/b6/64/73049d4688b00f7130b8edbe9f.mp3" type="audio/mp3" length="57072652"/>
+			<itunes:duration>00:59:15</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-0116477642e14cee8670e0e9a8c6c565</guid>
+			<pubDate>Fri, 31 Mar 2023 09:16:14 +0000</pubDate>
+			<castbox:tid>583783264</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 09 - Kryddersnaps</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/5a/f0/d9/111b6f4d37a05fa27806879630.mp3" type="audio/mp3" length="46246210"/>
+			<itunes:duration>00:47:59</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-724fbdfc008c40c190112115a50b6983</guid>
+			<pubDate>Fri, 31 Mar 2023 09:15:49 +0000</pubDate>
+			<castbox:tid>583783218</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 08 - Død og Ødelæggelse</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/75/77/0e/82decd45ec8745b36813ec7fd9.mp3" type="audio/mp3" length="53946731"/>
+			<itunes:duration>00:56:00</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-29f0a24c840344118d9749851217cc68</guid>
+			<pubDate>Fri, 31 Mar 2023 09:15:26 +0000</pubDate>
+			<castbox:tid>583783166</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 07 - Elias-tis-tis</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/56/d3/08/b498da4eda83bc75c7029a88aa.mp3" type="audio/mp3" length="53236160"/>
+			<itunes:duration>00:55:16</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-cf608bbcfbc5443a9f6cbff0aecd8c78</guid>
+			<pubDate>Fri, 31 Mar 2023 09:15:01 +0000</pubDate>
+			<castbox:tid>583783039</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 06 - 120 procent lort</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/e6/0b/cc/846f964d399e499d87d275ab04.mp3" type="audio/mp3" length="51317313"/>
+			<itunes:duration>00:53:16</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-77b82c40001146d2a7df613ed93e02ce</guid>
+			<pubDate>Fri, 31 Mar 2023 09:14:40 +0000</pubDate>
+			<castbox:tid>583782951</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 05 - Religion er en bitch</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/2d/8f/17/e2490d4edfa78b07edf5463e2b.mp3" type="audio/mp3" length="49864491"/>
+			<itunes:duration>00:51:45</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-feb3e6313b5a4dcd974b54f72d836713</guid>
+			<pubDate>Fri, 31 Mar 2023 09:14:18 +0000</pubDate>
+			<castbox:tid>583782922</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 04 - Sursødsovs</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/26/f5/38/a2d45c407d99356c519fea6906.mp3" type="audio/mp3" length="54983000"/>
+			<itunes:duration>00:57:05</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-b7343d0411dc4881a612b63af749b9fe</guid>
+			<pubDate>Fri, 31 Mar 2023 09:13:54 +0000</pubDate>
+			<castbox:tid>583782890</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 03 - En snak om reklamer</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/dd/b2/50/f089a54441885ee67b352773c4.mp3" type="audio/mp3" length="43879487"/>
+			<itunes:duration>00:45:31</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-eb50e9b7290a4b9b871036dbeb859430</guid>
+			<pubDate>Fri, 31 Mar 2023 09:13:27 +0000</pubDate>
+			<castbox:tid>583782842</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 02 - Det Dystre Skæg</title>
+			<description>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Elias Ehlers og Martin Nørgaard</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Elias Ehlers og Martin Nørgaard</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/38/7b/c6/bfe9c045ebaeae700a88211a5c.mp3" type="audio/mp3" length="45513144"/>
+			<itunes:duration>00:47:13</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-0ca27ac811724e0cb651e5fa51f4f118</guid>
+			<pubDate>Fri, 31 Mar 2023 09:12:05 +0000</pubDate>
+			<castbox:tid>583782651</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+		<item>
+			<title>Episode 01 - Vores første forsøg på en podcast</title>
+			<description>
+				<![CDATA[  <p>Dummy</p>  ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[  <p>Dummy</p>  ]]>
+			</content:encoded>
+			<itunes:summary>Dummy</itunes:summary>
+			<itunes:image href=""/>
+			<enclosure url="https://s3.castbox.fm/ce/5b/9e/d2cc364c3ab458e619d321c2a9.mp3" type="audio/mp3" length="45865857"/>
+			<itunes:duration>00:47:35</itunes:duration>
+			<guid isPermaLink="false">album-fb26a54124f34532b0220e78e0294041-7f9f07638eae43c5a404b18f0dbeddc4</guid>
+			<pubDate>Fri, 31 Mar 2023 09:11:13 +0000</pubDate>
+			<castbox:tid>583782489</castbox:tid>
+			<castbox:episode_premium></castbox:episode_premium>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:season>1</itunes:season>
+		</item>
+	</channel>
+</rss>
