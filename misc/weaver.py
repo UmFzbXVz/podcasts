@@ -1,142 +1,76 @@
 import json
-import os
 import xml.etree.ElementTree as ET
-import xml.dom.minidom as minidom
-import re
-from email.utils import formatdate
-from datetime import datetime, timedelta
+from datetime import datetime
+import xml.dom.minidom
 
-# Definer RSS-namespace og version
-RSS_NS = "http://www.w3.org/2005/Atom"
-RSS_VERSION = "2.0"
+with open('fil_med_json', 'r') as f:
+    podcasts = json.load(f)
 
-# Definer iTunes-namespace
-ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
+for podcast_id, podcast_data in podcasts.items():
+    rss = ET.Element('rss', {'version': '2.0'})
+    channel = ET.SubElement(rss, 'channel')
+    ET.SubElement(channel, 'title').text = podcast_data['alt_text']
+    ET.SubElement(channel, 'link').text = podcast_data['url']
+    ET.SubElement(channel, 'description').text = podcast_data['description']
+    ET.SubElement(channel, 'language').text = 'da-DK'
 
-# Definer de datoformater, der skal kontrolleres for
-DATE_FORMATS = [
-    "%Y-%m-%dT%H:%M:%SZ",
-    "%Y-%m-%dT%H:%M:%S.%fZ",
-    "%Y-%m-%dT%H:%M:%S.%f",
-    "%Y-%m-%d %H:%M:%S",
-    "%Y-%m-%d %H:%M:%S.%f",
-    "%Y-%m-%d",
-    "%Y-%m-%d %H:%M:%S %Z",
-    "%a, %d %b %Y %H:%M:%S %z",
-    "%a, %d %b %Y %H:%M:%S %Z",
-    "%Y-%m-%dT%H:%M:%S.%f"
-]
+    # Tilføj iTunes-specifikke tags
+    itunes_ns = 'http://www.itunes.com/dtds/podcast-1.0.dtd'
+    ET.register_namespace('itunes', itunes_ns)
+    if 'subtitle' in podcast_data:
+        ET.SubElement(channel, '{%s}subtitle' % itunes_ns).text = podcast_data['subtitle']
+    if 'summary' in podcast_data:
+        ET.SubElement(channel, '{%s}summary' % itunes_ns).text = podcast_data['summary']
+    if 'author' in podcast_data:
+        ET.SubElement(channel, '{%s}author' % itunes_ns).text = podcast_data['author']
+    if 'image' in podcast_data:
+        image_url = podcast_data['image']
+        ET.SubElement(channel, '{%s}image' % itunes_ns, {'href': image_url})
+    if 'category' in podcast_data:
+        ET.SubElement(channel, '{%s}category' % itunes_ns, {'text': podcast_data['category']})
 
-# Iterer gennem alle JSON-filer i den aktuelle mappe
-for filename in os.listdir():
-    if not filename.endswith(".json"):
-        continue
+    seen_ids = set()  # Hold øje med IDs (for at undgå duplicates)
+    for episode in podcast_data['episodes']:
+        if episode['id'] in seen_ids:
+            continue  # Skip duplicate
+        seen_ids.add(episode['id'])
 
-    # Indlæs JSON-data
-    with open(filename) as f:
-        data = json.load(f)
+        publish_time = episode['publish_time'].replace('Z', '+0000')
+        item = ET.SubElement(channel, 'item')
+        ET.SubElement(item, 'title').text = episode['title']
+        ET.SubElement(item, 'link').text = episode['uri']
+        ET.SubElement(item, 'description').text = episode.get('description', '')
+        ET.SubElement(item, 'guid', {'isPermaLink': 'true'}).text = episode['uri']
+        pub_date = datetime.strptime(publish_time, '%Y-%m-%dT%H:%M:%S%z').strftime('%a, %d %b %Y %H:%M:%S %z')
+        ET.SubElement(item, 'pubDate').text = pub_date
 
-    # Ekstraher podcastinformation
-    alt_text = data[list(data.keys())[0]]["alt_text"]
-    image_url = data[list(data.keys())[0]]["image_url"]
-    url = data[list(data.keys())[0]]["url"]
-    description = data[list(data.keys())[0]]["description"]
+        # Beregn længden af afsnittet i millisekunder
+        duration = episode['duration']
+        duration_parts = list(map(int, duration.split(':')))
+        if len(duration_parts) == 2:
+            duration_parts.insert(0, 0)
+        length = duration_parts[0] * 3600 + duration_parts[1] * 60 + duration_parts[2]
 
-    # Opret RSS-elementet
-    rss = ET.Element("rss", version=RSS_VERSION)
-    rss.set("xmlns:itunes", ITUNES_NS) # Tilføj iTunes-namespace til RSS-elementet
+        ET.SubElement(item, 'enclosure', {
+            'url': episode['uri'],
+            'length': str(length),
+            'type': 'audio/mpeg'
+        })
 
-    # Opret channel-elementet
-    channel = ET.SubElement(rss, "channel")
+        # Indsæt iTunes-specifikke sager
+        duration_formatted = f"{duration_parts[0]:02d}:{duration_parts[1]:02d}:{duration_parts[2]:02d}"
+        ET.SubElement(item, '{%s}duration' % itunes_ns).text = duration_formatted
+        if 'subtitle' in episode:
+            ET.SubElement(item, '{%s}subtitle' % itunes_ns).text = episode['subtitle']
+        if 'summary' in episode:
+            ET.SubElement(item, '{%s}summary' % itunes_ns).text = episode['summary']
+        if 'author' in episode:
+            ET.SubElement(item, '{%s}author' % itunes_ns).text = episode['author']
+        ET.SubElement(item, '{%s}explicit' % itunes_ns).text = 'no'
+        if 'image' in podcast_data:
+            ET.SubElement(item, '{%s}image' % itunes_ns, {'href': image_url})
 
-    # Tilføj podcastinformation til channel-elementet
-    title = ET.SubElement(channel, "title")
-    title.text = alt_text
-
-    link = ET.SubElement(channel, "link")
-    link.text = url
-
-    atom_link = ET.SubElement(channel, "link")
-    atom_link.set("href", url)
-    atom_link.set("rel", "self")
-    atom_link.set("type", "application/rss+xml")
-
-    description_elem = ET.SubElement(channel, "description")
-    description_elem.text = description
-
-    image = ET.SubElement(channel, "itunes:image") # Brug iTunes-namespace for image-elementet
-    image.set("href", image_url)
-
-    # Tilføj hver episode til channel-elementet
-    for episode_data in data[list(data.keys())[0]]["episodes"].values():
-        episode = ET.SubElement(channel, "item")
-
-        title = ET.SubElement(episode, "title")
-        title.text = episode_data["title"]
-
-        guid = ET.SubElement(episode, "guid")
-        guid.text = episode_data["src"]
-        guid.set("isPermaLink", "false")
-
-        enclosure = ET.SubElement(episode, "enclosure")
-        enclosure.set("url", episode_data["src"])
-        enclosure.set("length", str(episode_data["duration"]))
-        enclosure.set("type", "audio/mpeg")
-
-        description = ET.SubElement(episode, "description")
-        description.text = episode_data["description"]
-
-        # Analyser datostrengen til et datetime-objekt
-        for date_format in DATE_FORMATS:
-            try:
-                pubdate_datetime = datetime.strptime(episode_data["date"], date_format)
-                break
-            except ValueError:
-                pass
-        else:
-            raise ValueError(f"Kan ikke analysere datostreng: {episode_data['date']}")
-
-        # Konverter datetime-objektet til Unix-timestamp og formater som RFC-822 datostreng
-        pubdate_timestamp = pubdate_datetime.timestamp()
-        pubDate = ET.SubElement(episode, "pubDate")
-        pubDate.text = formatdate(pubdate_timestamp, localtime=True)
-        
-        # Beregn varigheden i det ønskede format (HH:MM:SS eller millisekunder)
-        duration_milliseconds = episode_data["duration"]
-        duration_seconds = duration_milliseconds // 1000
-
-        if duration_seconds >= 86400:
-            # Hvis varigheden er mere end 24 timer, formater den i millisekunder
-            duration_formatted = str(duration_milliseconds)
-        else:
-            # Ellers formater den i sekunder
-            duration_formatted = str(timedelta(seconds=duration_seconds))
-
-        # Tilføj nøglen duration_formatted til episode_data-dictionary
-        episode_data["duration_formatted"] = duration_formatted
-
-        # Tilføj duration og order-tags
-        duration = ET.SubElement(episode, "itunes:duration")
-        duration.text = episode_data["duration_formatted"]
-
-        order = ET.SubElement(episode, "itunes:order")
-        order.text = pubdate_datetime.strftime("%Y%m%d%H%M%S")
-
-    # Pretty-print XML og skriv det til en fil med podcastens titel som filnavn
-    filename = re.sub(r'[^\w\s-]', '', alt_text).strip().lower()
-    filename = re.sub(r'[-\s]+', '_', filename)
-
-    # Sæt RSS-attributterne
-    rss.set("xmlns:atom", RSS_NS)
-    rss.set("xmlns:itunes", ITUNES_NS)
-    rss.set("xmlns:media", "http://search.yahoo.com/mrss/")
-    rss.set("xmlns:content", "http://purl.org/rss/1.0/modules/content/")
-    rss.set("xmlns:dc", "http://purl.org/dc/elements/1.1/")
-    rss.set("xmlns:rdf", "http://www.w3.org/1999/02/22-rdf-syntax-ns#")
-
-    xml_string = ET.tostring(rss, encoding="unicode")
-    xml_string_pretty = minidom.parseString(xml_string).toprettyxml(indent="  ")
-
-    with open(f"{filename}.xml", "w") as f:
-        f.write(xml_string_pretty)
-
+    tree = ET.ElementTree(rss)
+    pretty_xml = xml.dom.minidom.parseString(ET.tostring(rss)).toprettyxml(indent='\t')
+    with open(f"{podcast_data['alt_text'].lower().replace(' ', '_')}.rss", 'w', encoding='utf-8') as feed_file:
+        feed_file.write(pretty_xml)
