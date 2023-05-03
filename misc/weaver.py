@@ -3,8 +3,9 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 import xml.dom.minidom
 from xml.sax.saxutils import escape
+from bs4 import BeautifulSoup
 
-with open('data.json', 'r') as f:
+with open('fil_med_json', 'r') as f:
     podcasts = json.load(f)
 
 # Iterer gennem hver podcast i JSON-filen
@@ -53,9 +54,16 @@ for podcast_id, podcast_data in podcasts.items():
         item = ET.SubElement(channel, 'item')
         ET.SubElement(item, 'title').text = escape(episode['title'])
         ET.SubElement(item, 'link').text = episode['uri']
-        description = ET.SubElement(item, 'description')
-        description_text = f"<![CDATA[{escape(episode['description']) if 'description' in episode and episode['description'] is not None else ''}]]>"
-        description.text = description_text
+        
+        # Fix for handling empty and NoneType descriptions
+        description_html = episode.get('description', '')
+        if description_html is not None and description_html.strip() != '':
+            description_text = BeautifulSoup(description_html, 'html.parser').get_text()
+        else:
+            description_text = ''
+        
+        ET.SubElement(item, 'description').text = description_text
+        
         ET.SubElement(item, 'guid', {'isPermaLink': 'true'}).text = episode['uri']
         pub_date = datetime.strptime(publish_time, '%Y-%m-%dT%H:%M:%S%z').strftime('%a, %d %b %Y %H:%M:%S %z')
         ET.SubElement(item, 'pubDate').text = pub_date
@@ -83,7 +91,6 @@ for podcast_id, podcast_data in podcasts.items():
             ET.SubElement(item, '{%s}summary' % itunes_ns).text = escape(episode['summary'])
         if 'author' in episode:
             ET.SubElement(item, '{%s}author' % itunes_ns).text = escape(episode['author'])
-            
 
     # Gem RSS-feedet i en fil
     file_name = podcast_data['alt_text'].replace('/', '_').replace('?', '_').replace(' ', '_').lower()
