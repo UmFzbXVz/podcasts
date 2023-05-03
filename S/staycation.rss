@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Staycation</title>
+		<link>https://web.24syv.dk/channels/5057</link>
+		<description>Sommerferien sydpå er aflyst. Hvad gør man så? Man tager da på staycation i gamle Danmark sammen med Caspar Jexlev. Gennem 10 afsnit rejser han landet rundt og guider dig til steder, der måske ikke står øverst i turistbrochuren, men både er besøget værd og fortæller dramatiske kapitler af danmarkshistorien. Produceret af Vores Tid for LOUD.</description>
+		<language>da-DK</language>
+		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/897/858e64e5d68f1a0a0affa27ffd1806b4.jpg"/>
+		<item>
+			<title>Teaser: Staycation</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45934876/teaser_staycation.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45934876/teaser_staycation.mp3</guid>
+			<pubDate>Mon, 06 Dec 2021 11:48:42 +0000</pubDate>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45934876/teaser_staycation.mp3" length="33" type="audio/mpeg"/>
+			<itunes:duration>00:00:33</itunes:duration>
+		</item>
+	</channel>
+</rss>
