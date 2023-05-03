@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Politisk Portræt</title>
+		<link>https://web.24syv.dk/channels/4570</link>
+		<description>I ”Politisk portræt” taler vi med nogle af Christiansborgs udskældte stemmer. De har alle opnået fremtrædende pladser i deres parti, selvom de ikke lige passer ind, og selvom deres vej til toppen på den ene eller anden måde har været usædvanlig. Enten, fordi de nærmest er dumpet ind i politik, eller fordi de aldrig har tænkt på andet.</description>
+		<language>da-DK</language>
+		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/567/Politisk_Portr_t.png"/>
+		<item>
+			<title>Politisk Portræt Carolina Magdalene Maier</title>
+			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109188/20536165-audio.m4a</link>
+			<description>Politisk portræt af Carolina Magdalene Maier</description>
+			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109188/20536165-audio.m4a</guid>
+			<pubDate>Fri, 29 Dec 2017 07:08:13 +0000</pubDate>
+			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109188/20536165-audio.m4a" length="3299" type="audio/mpeg"/>
+			<itunes:duration>00:54:59</itunes:duration>
+		</item>
+		<item>
+			<title>Politisk Portræt Marcus Knuth</title>
+			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109189/20524838-audio.m4a</link>
+			<description>Politisk portræt af Marcus Knuth</description>
+			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109189/20524838-audio.m4a</guid>
+			<pubDate>Thu, 28 Dec 2017 07:07:55 +0000</pubDate>
+			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109189/20524838-audio.m4a" length="3299" type="audio/mpeg"/>
+			<itunes:duration>00:54:59</itunes:duration>
+		</item>
+		<item>
+			<title>Politisk Portræt Kenneth Kristensen Berth</title>
+			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109187/20514227-audio.m4a</link>
+			<description>Politisk portræt af Kenneth Kristensen Berth</description>
+			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109187/20514227-audio.m4a</guid>
+			<pubDate>Wed, 27 Dec 2017 07:07:21 +0000</pubDate>
+			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109187/20514227-audio.m4a" length="3300" type="audio/mpeg"/>
+			<itunes:duration>00:55:00</itunes:duration>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Popcorntid</title>
+		<link>https://web.24syv.dk/channels/5055</link>
+		<description>Det er svært at vælge film. Og det er svært at stole på anmeldere. Men du kan trygt stole på os. I hvert fald en af os.</description>
+		<language>da-DK</language>
+		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/895/f807ffecd12f5666b97fcb2369eaefed.jpg"/>
+		<item>
+			<title>Ternet Ninja 2</title>
+			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46215385/ternet_ninja_7_pocorn.mp3</link>
+			<description>Popcorntid giver dig de mest korrekte filmanmeldelser af de nyeste film, hevet op af papæsken direkte fra biografsalens mørke. Hvor mange popcorn får Ternet Ninja 2?
+
+Værter: Ida Gaunø og Mathias Stilling 
+
+Redaktør: Toke With</description>
+			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46215385/ternet_ninja_7_pocorn.mp3</guid>
+			<pubDate>Mon, 06 Dec 2021 11:42:05 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46215385/ternet_ninja_7_pocorn.mp3" length="1273" type="audio/mpeg"/>
+			<itunes:duration>00:21:13</itunes:duration>
+		</item>
+		<item>
+			<title>Respect</title>
+			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46359026/respect.mp3</link>
+			<description>Popcorntid giver dig de mest korrekte filmanmeldelser af de nyeste film, hevet op af papæsken direkte fra biografsalens mørke. Hvor mange popcorn får Respect, filmen om Aretha Franklins liv?
+
+Værter: Ida Gaunø og Frederik Westergaard</description>
+			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46359026/respect.mp3</guid>
+			<pubDate>Mon, 06 Dec 2021 11:42:05 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46359026/respect.mp3" length="835" type="audio/mpeg"/>
+			<itunes:duration>00:13:55</itunes:duration>
+		</item>
+		<item>
+			<title>Dune</title>
+			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46561557/dune_anmeldelse.mp3</link>
+			<description>Popcorntid giver dig de mest korrekte filmanmeldelser af de nyeste film, hevet op af papæsken direkte fra biografsalens mørke. Hvor mange popcorn får sci-fi blockbusteren Dune?
+
+Værter: Frederik Westergaard &amp; Mathias Stilling</description>
+			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46561557/dune_anmeldelse.mp3</guid>
+			<pubDate>Mon, 06 Dec 2021 11:42:05 +0000</pubDate>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46561557/dune_anmeldelse.mp3" length="814" type="audio/mpeg"/>
+			<itunes:duration>00:13:34</itunes:duration>
+		</item>
+	</channel>
+</rss>
