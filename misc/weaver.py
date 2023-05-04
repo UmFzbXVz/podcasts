@@ -20,6 +20,7 @@ def create_rss_feed(podcasts):
                 item = ET.SubElement(channel, 'item')
                 append_episode_basic_tags(item, episode)
                 append_episode_itunes_tags(item, episode)
+                append_enclosure_tag(item, episode)
 
         write_rss_feed_to_file(rss, podcast_data)
 
@@ -69,6 +70,13 @@ def append_episode_itunes_tags(item, episode):
     for tag in ['subtitle', 'summary', 'author']:
         if tag in episode:
             ET.SubElement(item, '{%s}%s' % (itunes_ns, tag)).text = escape(episode[tag])
+
+def append_enclosure_tag(item, episode):
+    ET.SubElement(item, 'enclosure', {
+        'url': episode['uri'],
+        'length': '31457280',
+        'type': 'audio/mpeg'
+    })
 
 def convert_duration_to_formatted_string(duration):
     duration_parts = list(map(int, duration.split(':')))
