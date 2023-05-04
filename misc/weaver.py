@@ -91,7 +91,7 @@ def write_rss_feed_to_file(rss, podcast_data):
         xml_string = xml.dom.minidom.parseString(ET.tostring(rss)).toprettyxml()
         feed_file.write(xml_string)
 
-with open('data.json', 'r') as f:
+with open('podcast_oversigt.json', 'r') as f:
     podcasts = json.load(f)
 
 create_rss_feed(podcasts)
