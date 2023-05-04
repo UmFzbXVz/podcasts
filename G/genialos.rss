@@ -1,108 +1,208 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Globalisten</title>
-		<link>https://web.24syv.dk/channels/5030</link>
-		<description>Weekendavisens udenrigsredaktør og korrespondenter ser i de første syv afsnit nærmere på de populister, som sætter afgørende præg på europæisk politik. Hvem er for eksempel Victor Orbán, Marine Le Pen og Matteo Salvini, og hvorfor stormer de frem?</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/866/image.jpg"/>
-		<item>
-			<title>Episode 01: Orbán og det »illiberale demokrati«</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/61c4126d-9a5a-4c4a-9fc0-ad0800b33725/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</link>
-			<description>Ungarns Viktor Orbán gav navn til et system, hvor demokratiet så at sige afskaffer sig selv. Han er den mest magtfulde af alle Europas populister.
+  <channel>
+    <title>Genialos</title>
+    <link>https://web.24syv.dk/channels/4146</link>
+    <language>da</language>
+    <description>Genialos - Året der gik, og året der kommer. Revy med superbrugerne Holger Bech Nielsen og Sidney Lee.</description>
+    <itunes:image>
+      <title>Genialos</title>
+      <url>https://assets.listentonews.com/uploads/provider/logo/462/bf4e5f72-0f43-447e-b896-a5f271e22aef_400x400.png</url>
+    </itunes:image>
+    <item>
+      <title>Året der kommer 2019</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106768/38399619-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/106768/38399619-audio.mp3</guid>
+      <description>I året der kommer taler Holger Bech Nielsen og Sidney Lee blandt andet om Mortal Kombat 11 og om “Dommedags-argumentet”: Om 1000 år har menneskeheden udslettet sig selv. Godt nytår!</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106768/38399619-audio.mp3" length="3287" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Dec 2018 13:17:01 +0000</pubDate>
+      <itunes:duration>00:54:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Året der gik 2018</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106769/38363816-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/106769/38363816-audio.mp3</guid>
+      <description>Heller ikke i år kommer vi uden om Mandela-effekten i Genialos, men derudover vender Holger Bech Nielsen og Sidney Lee blandt andet også Kim Larsen, Prins Henrik og klimaforandringer. Og nåh ja, så er der Ubådssagen, der rystede hele Danmark, og udlandet, den er gået Sidney Lees næse fuldstændig forbi</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106769/38363816-audio.mp3" length="3287" type="audio/mpeg"/>
+      <pubDate>Wed, 19 Dec 2018 15:41:55 +0000</pubDate>
+      <itunes:duration>00:54:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Frem mod 2018 - Det sorte stof, Universet er fladt, Atom</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106770/20438995-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/106770/20438995-audio.mp3</guid>
+      <description>Som en fast tradition inviterer Radio24syv &quot;Danmarks klogeste mand”, Holger Bech Nielsen, i studiet, for at gennemgå årets gang i selskab med - hvad mange mener er - landets &quot;dummeste mand”, Sidney Lee, i samtaleprogrammet “Genialos!&quot;. Det er simpelthen lyden af to af universets vildeste partikler, der tørner sammen! I denne udsendelse ser Holger og Sidney frem mod 2018 med alt fra det sorte stof og videogames</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106770/20438995-audio.mp3" length="3283" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Dec 2017 13:39:45 +0000</pubDate>
+      <itunes:duration>00:54:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Et tilbageblik på 2017 - Er jorden flad?,  Hvem er konge i Danmark</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106771/20438458-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/106771/20438458-audio.mp3</guid>
+      <description>Som en fast tradition inviterer Radio24syv &quot;Danmarks klogeste mand”, Holger Bech Nielsen, i studiet, for at gennemgå årets gang i selskab med - hvad mange mener er - landets &quot;dummeste mand”, Sidney Lee, i samtaleprogrammet “Genialos!&quot;. Genialos er lyden af to af universets vildeste partikler, der tørner sammen. I denne udsendelse tørner konspirationsteorien &quot;Flat Earth&quot; sammen med fysikkens verden. Derudover runder Holger Bech Nielsen og Sidney Lee også #Metoo og Prinsgemalen.</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106771/20438458-audio.mp3" length="3282" type="audio/mpeg"/>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Smagsprøve: Dronningen er Kongen</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106772/20419524-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/106772/20419524-audio.mp3</guid>
+      <description>Glæd dig til Genialos 2017.
 
-
-
-See omnystudio.com/listener for privacy information.
-
-See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/61c4126d-9a5a-4c4a-9fc0-ad0800b33725/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</guid>
-			<pubDate>Wed, 25 Aug 2021 11:53:58 +0000</pubDate>
-			<itunes:duration>00:22:51</itunes:duration>
-		</item>
-		<item>
-			<title>Episode 02: Forvandlingskuglen Åkesson</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/8ae32527-d48d-444b-ae9a-ad0800b2d5ff/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</link>
-			<description>Sverigedemokraternas Jimmie Åkesson gjorde op med partiets rod i nazimiljøet og har gjort det til landets tredjestørste. Endnu holdes det uden for indflydelse, men hvor længe?
-
-
-
-See omnystudio.com/listener for privacy information.
-
-See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/8ae32527-d48d-444b-ae9a-ad0800b2d5ff/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</guid>
-			<pubDate>Wed, 25 Aug 2021 11:53:58 +0000</pubDate>
-			<itunes:duration>00:21:34</itunes:duration>
-		</item>
-		<item>
-			<title>Episode 03:  Matteo Salvini – samler et bange Italien</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/9e5b11ff-6ba1-4083-a68a-ad0800b279dc/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</link>
-			<description>Han er tydeligt inspireret af Mussolini og kommunikerer gerne gennem madvideoer. Alligevel, eller måske derfor, er Matteo Salvini blevet utroligt populær blandt italienerne, og nu forsøger han at samle Europas yderste højrefløj.
-
-
-
-See omnystudio.com/listener for privacy information.
-
-See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/9e5b11ff-6ba1-4083-a68a-ad0800b279dc/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</guid>
-			<pubDate>Wed, 25 Aug 2021 11:53:58 +0000</pubDate>
-			<itunes:duration>00:23:55</itunes:duration>
-		</item>
-		<item>
-			<title>Episode 04: Kammerat Corbyn, venstrefløjens populist</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/760d0270-12dc-4530-aba1-ad0800b21f2b/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</link>
-			<description>Ingen troede på Jeremy Corbyn, men nu er han muligvis Storbritanniens næste premierminister. Samtidig er han et levende eksempel på, at populisme ikke kun trives på højrefløjen.
-
-
-
-See omnystudio.com/listener for privacy information.
-
-See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/760d0270-12dc-4530-aba1-ad0800b21f2b/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</guid>
-			<pubDate>Wed, 25 Aug 2021 11:53:58 +0000</pubDate>
-			<itunes:duration>00:23:16</itunes:duration>
-		</item>
-		<item>
-			<title>Episode 05: Gauland vil genrejse Tyskland</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/9b2fe053-23e9-4f80-bb98-ad0800b1d275/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</link>
-			<description>Tyskerne skal have lov at være stolte af deres land og deres fortid, lyder kravet fra Alternative für Deutschland, som vil gøre op med tysk indvandrerpolitik og fokuseringen på nazi-tiden.
-
-
-
-See omnystudio.com/listener for privacy information.
-
-See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/9b2fe053-23e9-4f80-bb98-ad0800b1d275/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</guid>
-			<pubDate>Wed, 25 Aug 2021 11:53:58 +0000</pubDate>
-			<itunes:duration>00:19:55</itunes:duration>
-		</item>
-		<item>
-			<title>Episode 06: Familiedynastiet Le Pen</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/1767246c-67dc-4c58-b8a1-ad0800b18747/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</link>
-			<description>Marine Le Pen overtog Front National fra sin far og gjorde partiet spiseligt for en bredere vælgerskare. Nu venter hendes niece i kulissen, og hun kan måske blive Frankrigs næste præsident.
-
-
-
-See omnystudio.com/listener for privacy information.
-
-See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/1767246c-67dc-4c58-b8a1-ad0800b18747/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</guid>
-			<pubDate>Wed, 25 Aug 2021 11:53:58 +0000</pubDate>
-			<itunes:duration>00:24:13</itunes:duration>
-		</item>
-		<item>
-			<title>Episode 07: Populisterne vandt – og tabte</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/65b9e74b-3367-49ba-8579-ad0800b14cba/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</link>
-			<description>Ole Nyeng og Martin Krasnik analyserer Europaparlamentsvalget, som nok gav højrepopulisterne fremgang, men ikke den indflydelse, de havde håbet på.
-
-
-
-See omnystudio.com/listener for privacy information.
-
-See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/8c0ce2e6-e75a-4b82-8924-ad0800b11403/65b9e74b-3367-49ba-8579-ad0800b14cba/audio.mp3?utm_source=Podcast&amp;in_playlist=33254b99-59ed-4aa9-988a-ad0800b1140d</guid>
-			<pubDate>Wed, 25 Aug 2021 11:53:58 +0000</pubDate>
-			<itunes:duration>00:20:05</itunes:duration>
-		</item>
-	</channel>
+Holger Bech Nielsen og Sidney Lee er igen klar til at give dig deres syn på året der er gået og deres forudsigelser om året 2018.
+Året der gik: 25-12-2017 
+Året der kommer: 01-01-2017</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106772/20419524-audio.mp3" length="173" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Dec 2017 09:39:18 +0000</pubDate>
+      <itunes:duration>00:02:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Frem mod 2017</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106773/15235885-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/106773/15235885-audio.mp3</guid>
+      <description>Som en fast tradition inviterer Radio24syv &quot;Danmarks klogeste mand”, Holger Bech Nielsen, i studiet, for atgennemgå årets gang  i selskab med - hvad mange mener er - landets &quot;dummeste mand”, Sidney Lee, i samtaleprogrammet “Genialos!&quot;. Det er simpelthen lyden af to af universets vildeste partikler, der tørner sammen! I denne udsendelse ser Holger og Sidney frem mod 2017 med alt fra Trump til Google.</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106773/15235885-audio.mp3" length="3300" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Dec 2016 12:05:53 +0000</pubDate>
+      <itunes:duration>00:55:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Et tilbageblik på 2016</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106774/15210506-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/106774/15210506-audio.mp3</guid>
+      <description>Som en fast tradition inviterer Radio24syv &quot;Danmarks klogeste mand”, Holger Bech Nielsen, i studiet, for at gennemgå årets gang i selskab med - hvad mange mener er - landets &quot;dummeste mand”, Sidney Lee, i samtaleprogrammet “Genialos!&quot;. Genialos er lyden af to af universets vildeste partikler, der tørner sammen. I denne udsendelse tørner konspirationsteorien &quot;Mandela-effekten&quot; sammen med fysikkens verden. Holger Bech Nielsen, Sidney Lee, Ayse Dudu Tepe</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106774/15210506-audio.mp3" length="3300" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Dec 2016 12:06:03 +0000</pubDate>
+      <itunes:duration>00:55:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Anden smagsprøve på Genialos 2016</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106775/15133077-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/106775/15133077-audio.mp3</guid>
+      <description>Sidney Lee og Holger Bech Nielsen diskuterer bl.a. Googles stemmeassistent.
+Årets Genialos sendes den 26. og den 30. december kl. 12-13.</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106775/15133077-audio.mp3" length="133" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Dec 2016 03:00:00 +0000</pubDate>
+      <itunes:duration>00:02:13 </itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Smagsprøve på Genialos 2016</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106776/15133078-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/106776/15133078-audio.mp3</guid>
+      <description>Sidney Lee og Holger Bech Nielsen diskuterer bl.a. hvad der er et godt kattenavn.
+Årets Genialos sendes den 26. og den 30. december kl. 12-13.</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106776/15133078-audio.mp3" length="57" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Dec 2016 13:48:00 +0000</pubDate>
+      <itunes:duration>00:00:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Frem mod 2016</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106777/12571640-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/106777/12571640-audio.mp3</guid>
+      <description>Radio24syvs årskavalkade. Vi ser frem mod 2016. For at komme så godt rundt om året som muligt, har vi inviteret to personer med hver deres speciale i studiet, fysiker Holger Bech Nielsen og kongen af reality, Sidney Lee. Det er femte år med Bech Nielsen og Lee.</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106777/12571640-audio.mp3" length="3109" type="audio/mpeg"/>
+      <pubDate>Fri, 25 Dec 2015 12:15:00 +0000</pubDate>
+      <itunes:duration>00:51:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Et tilbageblik på 2015</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/182585/12580076-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/182585/12580076-audio.mp3</guid>
+      <description>Radio24syv ser tilbage på 2015. For at komme så godt rundt om året som muligt, har vi inviteret to personer med hver deres speciale i studiet, fysiker Holger Bech Nielsen og kongen af reality, Sidney Lee. Det er femte år med Bech Nielsen og Lee.  Holger Bech Nielsen og Sidney Lee</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/182585/12580076-audio.mp3" length="3300" type="audio/mpeg"/>
+      <pubDate>Fri, 25 Dec 2015 12:04:51 +0000</pubDate>
+      <itunes:duration>00:55:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Frem mod 2015</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/182586/10770284-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/182586/10770284-audio.mp3</guid>
+      <description>Radio24syvs årskavalkade. Vi ser frem mod 2015. For at komme så godt rundt om året som muligt, har vi inviteret to personer med hver deres speciale i studiet, fysiker Holger Bech Nielsen og kongen af reality, Sidney Lee. Det er fjerde år med Bech Nielsen og Lee. Hør tidligere udsendelser i arkivet.  Holger Bech Nielsen og Sidney Lee</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/182586/10770284-audio.mp3" length="3316" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Jan 2015 15:03:11 +0000</pubDate>
+      <itunes:duration>00:55:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Et tilbageblik på året 2014</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/182587/10769013-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/182587/10769013-audio.mp3</guid>
+      <description>Radio24syvs årskavalkade. Vi ser tilbage på 2014. For at komme så godt rundt om året som muligt, har vi inviteret to personer med hver deres speciale i studiet, fysiker Holger Bech Nielsen og kongen af reality, Sidney Lee. Det er fjerde år med Bech Nielsen og Lee. Hør tidligere udsendelser i arkivet.  Holger Bech Nielsen og Sidney Lee</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/182587/10769013-audio.mp3" length="3331" type="audio/mpeg"/>
+      <pubDate>Wed, 31 Dec 2014 15:03:25 +0000</pubDate>
+      <itunes:duration>00:55:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Et tilbageblik på 2013 (2)</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/182588/9122847-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/182588/9122847-audio.mp3</guid>
+      <description>I anledning af højtiderne kigger teoretisk højenergifysiker Holger Bech Nielsen og realitystjerne Sidney Lee tilbage på de vigtigste begivenheder i 2013 og frem mod 2014 og de ting, som de ser frem til. Dette er den anden af to udsendelser - den handler om det nye år. Holger Bech Nielsen, Sidney Lee, Otto Lerche</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/182588/9122847-audio.mp3" length="3319" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jan 2014 13:02:39 +0000</pubDate>
+      <itunes:duration>00:55:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Et tilbageblik på 2013</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/182589/9101293-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/182589/9101293-audio.mp3</guid>
+      <description>Et tilbageblik på 2013</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/182589/9101293-audio.mp3" length="3325" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Dec 2013 15:03:03 +0000</pubDate>
+      <itunes:duration>00:55:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Genialos  29-12-2012</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/182590/7524950-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/182590/7524950-audio.mp3</guid>
+      <description>Genialos - Året der kommer. Fysiker Holger Bech Nielsen og realitystjerne Sidney Lee, ser frem mod året der kommer 2013.  Holger Bech Nielsen og Sidney Lee. Vært: Otto Lerche Kristiansen</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/182590/7524950-audio.mp3" length="3322" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Dec 2012 12:02:44 +0000</pubDate>
+      <itunes:duration>00:55:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Genialos  22-12-2012</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/182591/7497098-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/182591/7497098-audio.mp3</guid>
+      <description>Genialos - Året der gik. I anledning af højtiden kigger vi tilbage på de vigtigste begivenheder fra 2012. For at komme så godt rundt om året som muligt så har vi inviteret to personer med hver deres speciale i studiet – fysiker Holger Bech Nielsen og realitystjerne Sidney Lee. Holger Bech Nielsen og Sidney Lee. Vært: Otto Lerche Kristiansen</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/182591/7497098-audio.mp3" length="3313" type="audio/mpeg"/>
+      <pubDate>Sat, 22 Dec 2012 12:02:50 +0000</pubDate>
+      <itunes:duration>00:55:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Genialos - Året der gik, og året der kommer. (2)</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/182592/4197943-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/182592/4197943-audio.mp3</guid>
+      <description>Lyt med når to af de vildeste partikler i universet mødes. Fysiker Holger Bech Nielsen og realitystjerneSidney Lee ser tilbage på året der gik, og året der kommer.</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/182592/4197943-audio.mp3" length="3318" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Dec 2011 15:04:14 +0000</pubDate>
+      <itunes:duration>00:55:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Genialos - Året der gik, og året der kommer. (1)</title>
+      <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/182593/4197796-audio.mp3</link>
+      <guid>https://assets.listentonews.com/uploads/audio_clip/rss_file/182593/4197796-audio.mp3</guid>
+      <description>Lyt med når to af de vildeste partikler i universet mødes. Fysiker Holger Bech Nielsen og realitystjerneSidney Lee ser tilbage på året der gik, og året der kommer.</description>
+      <enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/182593/4197796-audio.mp3" length="00:55:24" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Dec 2011 14:03:55 +0000</pubDate>
+      <itunes:duration>00:55:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
 </rss>
