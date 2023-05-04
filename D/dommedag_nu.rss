@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Dommedag Nu</title>
+		<link>https://web.24syv.dk/channels/5118</link>
+		<description/>
+		<language>da-DK</language>
+		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/963/dommedag_nu.png"/>
+		<item>
+			<title>Tre liter virus kan dræbe 100.000 mennesker</title>
+			<link>https://api.spreaker.com/download/episode/51607998/afsnit_2_biologiske_v_ben.mp3</link>
+			<description>Hvad ville der ske, hvis København blev ramt af et biologisk angreb? Er vi som samfund forberedt på, at stater i dag har mulighed for at skabe en designervirus, som får Corona til at blegne? Og hvad er egentlig forskellen på at bruge bakterier som biologisk våben frem for virus? I denne uge tager jeg og ugens gæst Thomas Krohn en snak om, hvordan ukontrollerbare biologiske våben kan betyde dommedag.  Vært: Jeppe Olesen Gæst: Thomas C. Krohn</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/51607998/afsnit_2_biologiske_v_ben.mp3</guid>
+			<pubDate>Mon, 24 Oct 2022 04:00:02 +0000</pubDate>
+			<itunes:duration>00:54:01</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/51607998/afsnit_2_biologiske_v_ben.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Dommedag Nu</title>
+			<link>https://api.spreaker.com/download/episode/51462750/trailer_dommedag_nu_jeppe.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/51462750/trailer_dommedag_nu_jeppe.mp3</guid>
+			<pubDate>Tue, 04 Oct 2022 07:38:24 +0000</pubDate>
+			<itunes:duration>00:01:14</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/51462750/trailer_dommedag_nu_jeppe.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+	</channel>
+</rss>
