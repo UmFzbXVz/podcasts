@@ -1,7 +1,7 @@
 import json
 import requests
 
-with open('podcast_oversigt.json', 'r') as f:
+with open('data.json', 'r') as f:
     podcasts = json.load(f)
 
 for podcast_id, podcast_data in podcasts.items():
@@ -24,5 +24,5 @@ for podcast_id, podcast_data in podcasts.items():
             })
         page_number += 1
 
-with open('podcast_oversigt.json', 'w') as f:
+with open('data.json', 'w') as f:
     json.dump(podcasts, f, indent=4)
