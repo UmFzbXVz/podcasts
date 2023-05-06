@@ -45,7 +45,7 @@ for podcast_id in list(podcasts.keys()):
             # Fjern overskydende podcasts efter sammenfletning
             del podcasts[podcast_id]
     else:
-        # Hvis podcast ikke findes i forvejen, så tilføjer vi den
+        # Hvis podcast ikke findes i forvejen, så tilføjer vi den 
         podcast_dict[podcast_name] = podcast_id
 
 for podcast_name, podcast_id in podcast_dict.items():
