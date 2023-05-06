@@ -5,24 +5,23 @@ import xml.dom.minidom
 from xml.sax.saxutils import escape
 from bs4 import BeautifulSoup
 
-def create_rss_feed(podcasts):
-    for podcast_id, podcast_data in podcasts.items():
-        rss = ET.Element('rss', {'version': '2.0'})
-        channel = ET.SubElement(rss, 'channel')
+def create_rss_feed(podcast_data):
+    rss = ET.Element('rss', {'version': '2.0'})
+    channel = ET.SubElement(rss, 'channel')
 
-        append_basic_tags(channel, podcast_data)
-        append_itunes_tags(channel, podcast_data)
-        
-        seen_ids = set()
-        for episode in podcast_data['episodes']:
-            if episode['id'] not in seen_ids:
-                seen_ids.add(episode['id'])
-                item = ET.SubElement(channel, 'item')
-                append_episode_basic_tags(item, episode)
-                append_episode_itunes_tags(item, episode)
-                append_enclosure_tag(item, episode)
+    append_basic_tags(channel, podcast_data)
+    append_itunes_tags(channel, podcast_data)
 
-        write_rss_feed_to_file(rss, podcast_data)
+    seen_ids = set()
+    for episode in podcast_data['episodes']:
+        if episode['id'] not in seen_ids:
+            seen_ids.add(episode['id'])
+            item = ET.SubElement(channel, 'item')
+            append_episode_basic_tags(item, episode)
+            append_episode_itunes_tags(item, episode)
+            append_enclosure_tag(item, episode)
+
+    write_rss_feed_to_file(rss, podcast_data)
 
 def append_basic_tags(channel, podcast_data):
     ET.SubElement(channel, 'title').text = escape(podcast_data['alt_text'])
@@ -94,4 +93,5 @@ def write_rss_feed_to_file(rss, podcast_data):
 with open('data.json', 'r') as f:
     podcasts = json.load(f)
 
-create_rss_feed(podcasts)
+for podcast_data in podcasts:
+    create_rss_feed(podcast_data)
