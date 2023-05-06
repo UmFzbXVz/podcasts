@@ -1,3 +1,4 @@
+import argparse
 import json 
 import xml.etree.ElementTree as ET
 from datetime import datetime
@@ -90,8 +91,29 @@ def write_rss_feed_to_file(rss, podcast_data):
         xml_string = xml.dom.minidom.parseString(ET.tostring(rss)).toprettyxml()
         feed_file.write(xml_string)
 
-with open('data.json', 'r') as f:
-    podcasts = json.load(f)
+def parse_args():
+    parser = argparse.ArgumentParser(description='Værktøj til at generere RSS-feeds fra podcastinformation i data.json')
+    parser.add_argument('-a', '--all', action='store_true', help='Generér RSS-feeds til samtlige podcasts')
+    parser.add_argument('-i', '--ids', type=str, help='Komma-separeret liste af podcast-IDs til RSS-generering')
+    return parser.parse_args()
 
-for podcast_data in podcasts:
-    create_rss_feed(podcast_data)
+def main():
+    args = parse_args()
+
+    with open('data.json', 'r') as f:
+        podcasts = json.load(f)
+
+    if args.all:
+        for podcast_data in podcasts.values():
+            create_rss_feed(podcast_data)
+    elif args.ids:
+        ids = args.ids.split(',')
+        for id in ids:
+            if id in podcasts:
+                podcast_data = podcasts[id]
+                create_rss_feed(podcast_data)
+            else:
+                print(f'Podcast med ID {id} ikke fundet i data.json')
+
+if __name__ == '__main__':
+    main()
