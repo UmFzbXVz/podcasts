@@ -1,11 +1,30 @@
 <?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>Pop Culture Happy Hour</title>
 		<link>https://web.24syv.dk/channels/94</link>
 		<description>Get obsessed with us. Five days a week, Pop Culture Happy Hour serves you recommendations and commentary on the buzziest movies, TV, music, books, videogames and more. Join arts journalists Linda Holmes, Glen Weldon, Stephen Thompson, and Aisha Harris - plus a rotating cast of guest pop culture aficionados. The Happy Hour team leaves room at the table for exploring a range of reactions and opinions on every bit of the pop universe. From lowbrow to highbrow to the stuff in between, they take it all with a shot of cheer.Make your happy hour even happier with Pop Culture Happy Hour Plus! Your subscription supports the podcast and unlocks a sponsor-free feed. Learn more at plus.npr.org/happyhour</description>
 		<language>da-DK</language>
 		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/346/pchh_podcast-tile-21_sq-16ede85b6991ee201c4a839ece7e5bcc19da55ef.jpg"/>
+		<item>
+			<title>Guardians Of The Galaxy Vol. 3 And What's Making Us Happy</title>
+			<link>https://play.podtrac.com/npr-510282/edge1.pod.npr.org/anon.npr-mp3/npr/pchh/2023/05/20230505_pchh_faad6358-45a2-4bf0-89fb-f1aaa32f0c65.mp3?d=1411&amp;size=22581125&amp;e=1172249372&amp;t=podcast&amp;p=510282&amp;awEpisodeId=1172249372&amp;awCollectionId=510282</link>
+			<description>In Marvel's Guardians Of The Galaxy Vol. 3, our heroes are attacked by a new mysterious villain, and must embark on a dangerous mission to save the life of Rocket Raccoon. Written and directed by James Gunn, the movie brings back Chris Pratt, Zoe Saldana, Karen Gillan, Pom Klementieff, Dave Bautista, Bradley Cooper and Vin Diesel as our ever-expanding Guardians team. It's in theaters now.</description>
+			<guid isPermaLink="true">https://play.podtrac.com/npr-510282/edge1.pod.npr.org/anon.npr-mp3/npr/pchh/2023/05/20230505_pchh_faad6358-45a2-4bf0-89fb-f1aaa32f0c65.mp3?d=1411&amp;size=22581125&amp;e=1172249372&amp;t=podcast&amp;p=510282&amp;awEpisodeId=1172249372&amp;awCollectionId=510282</guid>
+			<pubDate>Fri, 05 May 2023 04:10:32 +0000</pubDate>
+			<itunes:duration>00:23:46</itunes:duration>
+			<enclosure url="https://play.podtrac.com/npr-510282/edge1.pod.npr.org/anon.npr-mp3/npr/pchh/2023/05/20230505_pchh_faad6358-45a2-4bf0-89fb-f1aaa32f0c65.mp3?d=1411&amp;size=22581125&amp;e=1172249372&amp;t=podcast&amp;p=510282&amp;awEpisodeId=1172249372&amp;awCollectionId=510282" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Mrs. Davis</title>
+			<link>https://play.podtrac.com/npr-510282/edge1.pod.npr.org/anon.npr-mp3/npr/pchh/2023/05/20230504_pchh_b6a65998-6648-46c4-a7c3-c4c1955954c3.mp3?d=1145&amp;size=18335914&amp;e=1170628351&amp;t=podcast&amp;p=510282&amp;awEpisodeId=1170628351&amp;awCollectionId=510282</link>
+			<description>A nun, an all-knowing AI, the Holy Grail, a secret society of women, and a falafel shop. These are just some of the many elements that collide in the messy, delightful, joyfully silly Mrs. Davis. Starring Betty Gilpin, and co-created by talent from Lost, The Leftovers, and The Big Bang Theory, the Peacock series lives up to all the chaotic promise of that lineup.</description>
+			<guid isPermaLink="true">https://play.podtrac.com/npr-510282/edge1.pod.npr.org/anon.npr-mp3/npr/pchh/2023/05/20230504_pchh_b6a65998-6648-46c4-a7c3-c4c1955954c3.mp3?d=1145&amp;size=18335914&amp;e=1170628351&amp;t=podcast&amp;p=510282&amp;awEpisodeId=1170628351&amp;awCollectionId=510282</guid>
+			<pubDate>Thu, 04 May 2023 04:10:30 +0000</pubDate>
+			<itunes:duration>00:19:26</itunes:duration>
+			<enclosure url="https://play.podtrac.com/npr-510282/edge1.pod.npr.org/anon.npr-mp3/npr/pchh/2023/05/20230504_pchh_b6a65998-6648-46c4-a7c3-c4c1955954c3.mp3?d=1145&amp;size=18335914&amp;e=1170628351&amp;t=podcast&amp;p=510282&amp;awEpisodeId=1170628351&amp;awCollectionId=510282" length="31457280" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title>Are You There God? It's Me, Margaret.</title>
 			<link>https://play.podtrac.com/npr-510282/edge1.pod.npr.org/anon.npr-mp3/npr/pchh/2023/05/20230503_pchh_16048a62-899a-48cd-abdd-b999b1d3d209.mp3?d=1216&amp;size=19462732&amp;e=1173031283&amp;t=podcast&amp;p=510282&amp;awEpisodeId=1173031283&amp;awCollectionId=510282</link>
