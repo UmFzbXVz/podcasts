@@ -1,11 +1,57 @@
 <?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>The Economist Radio</title>
 		<link>https://web.24syv.dk/channels/90</link>
 		<description>Every weekday our global network of correspondents makes sense of the stories beneath the headlines. We bring you surprising trends and tales from around the world, current affairs, business and finance—as well as science and technology. Our GDPR privacy policy was updated on August 8, 2022. Visit acast.com/privacy for more information.</description>
 		<language>da-DK</language>
 		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/337/-ktk9yczf-econ_square_1_.jpg"/>
+		<item>
+			<title>Checks and Balance: Entitled</title>
+			<link>https://sphinx.acast.com/p/open/s/57cc3c7d-b0fd-4930-9279-4e84c75df457/a/theeconomistallaudio/e/64552dfe18dbd500124741f7/media.mp3</link>
+			<description>While Washington debates the debt ceiling, the entitlements time bomb is ticking. The trust fund that pays for much of Medicare, the health-insurance scheme for the elderly, will run out of money by 2031. The fund that pays old-age benefits for Social Security, the state pension scheme, will be exhausted by 2033. Politicians need to agree to a fix, but it’s not clear that they will. What would happen if these funds reach insolvency? And how could that be avoided? John Prideaux hosts with Charlotte Howard and Idrees Kahloon.You can now find every episode of Checks and Balance in one place and sign up to our weekly newsletter. For full access to print, digital and audio editions, as well as exclusive live events, subscribe to The Economist at economist.com/uspod.  Hosted on Acast. See acast.com/privacy for more information.</description>
+			<guid isPermaLink="true">https://sphinx.acast.com/p/open/s/57cc3c7d-b0fd-4930-9279-4e84c75df457/a/theeconomistallaudio/e/64552dfe18dbd500124741f7/media.mp3</guid>
+			<pubDate>Fri, 05 May 2023 16:25:33 +0000</pubDate>
+			<itunes:duration>00:43:44</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/57cc3c7d-b0fd-4930-9279-4e84c75df457/a/theeconomistallaudio/e/64552dfe18dbd500124741f7/media.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Another season of the crown: the coronation of Charles III</title>
+			<link>https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6454d9236de49d00119443df/media.mp3</link>
+			<description>He has been king since September; now it is time for the pomp. We examine the modern monarchy—and the ancient frippery of coronations. Despite prior reluctance to do much about climate change, America is set to become a clean-energy superpower. And reflecting on the life of Carolyn Bryant, whose testimony led to a lynching that set off America’s civil-rights movement.For full access to print, digital and audio editions of The Economist, try a free 30-day digital subscription by going to www.economist.com/intelligenceoffer Hosted on Acast. See acast.com/privacy for more information.</description>
+			<guid isPermaLink="true">https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6454d9236de49d00119443df/media.mp3</guid>
+			<pubDate>Fri, 05 May 2023 10:23:31 +0000</pubDate>
+			<itunes:duration>00:29:34</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6454d9236de49d00119443df/media.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Money Talks: A business podcast on the business of podcasts</title>
+			<link>https://sphinx.acast.com/p/open/s/39fc4a99-8861-437d-81e2-684d13e48f92/a/theeconomistallaudio/e/6453d4f99a120f0011f1c35e/media.mp3</link>
+			<description>Around a third of Americans now listen to at least one podcast a week. That fact has not escaped the attention of advertisers, who spent nearly $2bn on podcast ads last year. But with more than 4m podcasts for listeners to choose from, the industry is facing a reckoning. On this week’s podcast, hosts Tom Lee-Devlin and Mike Bird ask what the future holds for the business of podcasts. Michael Mignano, who used to manage Spotify’s podcasting arm, tells them that companies have realised they can be much leaner. And Nick Hilton, a podcast production company founder, explains why he thinks 2022 is the year when podcasting died.Sign up for our new weekly newsletter dissecting the big themes in markets, business and the economy at www.economist.com/moneytalks For full access to print, digital and audio editions, subscribe to The Economist at www.economist.com/podcastoffer Hosted on Acast. See acast.com/privacy for more information.</description>
+			<guid isPermaLink="true">https://sphinx.acast.com/p/open/s/39fc4a99-8861-437d-81e2-684d13e48f92/a/theeconomistallaudio/e/6453d4f99a120f0011f1c35e/media.mp3</guid>
+			<pubDate>Thu, 04 May 2023 15:53:29 +0000</pubDate>
+			<itunes:duration>00:31:51</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/39fc4a99-8861-437d-81e2-684d13e48f92/a/theeconomistallaudio/e/6453d4f99a120f0011f1c35e/media.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Difference between right and Ron: DeSantis miscalculates</title>
+			<link>https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/645382cbf12b200011532347/media.mp3</link>
+			<description>Florida’s governor has made a headline-grabbing rightward lurch as part of a presumed bid for the White House. But both Mr DeSantis’s critics and his donors are starting to think he has overplayed his hand. Our correspondent finds that jihadist violence has, as was long feared, come to Burkina Faso. And rural America’s love affair with Japan’s tiny Kei trucks.For full access to print, digital and audio editions of The Economist, try a free 30-day digital subscription by going to www.economist.com/intelligenceoffer Hosted on Acast. See acast.com/privacy for more information.</description>
+			<guid isPermaLink="true">https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/645382cbf12b200011532347/media.mp3</guid>
+			<pubDate>Thu, 04 May 2023 10:02:51 +0000</pubDate>
+			<itunes:duration>00:23:47</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/645382cbf12b200011532347/media.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Babbage: The urgency to green the electric grid</title>
+			<link>https://sphinx.acast.com/p/open/s/e421d786-ec36-4148-aa99-7a3b2928a779/a/theeconomistallaudio/e/64529710e9e17b001152c1c1/media.mp3</link>
+			<description>The vast majority of the energy used on Earth comes from fossil fuels. But as governments enact climate-friendly policies, electric grids need to be decarbonised, by using renewable-energy sources. And much more electricity needs to be generated too—to power transport, homes and heavy industry. Despite its urgency, redesigning electric grids is both a political and technological challenge. How can such a revolution happen?Host Kenneth Cukier explores the mechanics of how electric grids work and how to upgrade them with The Economist’s Hal Hodson. Hal travels to Drax, a power station in the north of England, to visualise this supersized circuit with Bruce Heppenstall, the plant’s director. Plus, Hal asks Gerhard Salge, the chief technology officer of Hitachi Energy, how the latest generation of high voltage direct current cables will transform energy systems.If you love Babbage, why not work with us? We’re hiring for an Assistant Audio Producer to work on the show. Apply by May 15th.For full access to The Economist’s print, digital and audio editions subscribe at economist.com/podcastoffer and sign up for our weekly science newsletter at economist.com/simplyscience. Hosted on Acast. See acast.com/privacy for more information.</description>
+			<guid isPermaLink="true">https://sphinx.acast.com/p/open/s/e421d786-ec36-4148-aa99-7a3b2928a779/a/theeconomistallaudio/e/64529710e9e17b001152c1c1/media.mp3</guid>
+			<pubDate>Wed, 03 May 2023 17:45:01 +0000</pubDate>
+			<itunes:duration>00:39:52</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/e421d786-ec36-4148-aa99-7a3b2928a779/a/theeconomistallaudio/e/64529710e9e17b001152c1c1/media.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title>Another think coming? An AI pioneer steps down </title>
 			<link>https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/64523918e487c200115dc620/media.mp3</link>
