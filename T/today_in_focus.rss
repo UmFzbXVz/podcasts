@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<rss
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>Today in Focus</title>
 		<link>https://web.24syv.dk/channels/86</link>
@@ -7125,6 +7124,15 @@
 			<pubDate>Mon, 21 Sep 2020 15:21:53 +0000</pubDate>
 			<itunes:duration>00:33:46</itunes:duration>
 			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2020/09/19-32499-20200921_TIF_QANON.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Cotton Capital: the Guardian and reparations</title>
+			<link>https://flex.acast.com/audio.guim.co.uk/2023/05/06-77978-202300508TIFcotton.mp3</link>
+			<description>Cotton Capital editor and Guardian journalist Maya Wolfe-Robinson looks at the subject of reparations. What do reparations mean for the communities and descendants of transatlantic enslavement – and what is the Guardian planning to do in its own programme of measures?. Help support our independent journalism at theguardian.com/infocus</description>
+			<guid isPermaLink="true">https://flex.acast.com/audio.guim.co.uk/2023/05/06-77978-202300508TIFcotton.mp3</guid>
+			<pubDate>Mon, 08 May 2023 02:00:36 +0000</pubDate>
+			<itunes:duration>00:50:08</itunes:duration>
+			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2023/05/06-77978-202300508TIFcotton.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>
