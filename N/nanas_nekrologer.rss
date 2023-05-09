@@ -1536,5 +1536,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:32</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/49267167/oliver_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Sarahs Nekrolog: En ballerina bryder fri</title>
+			<link>https://api.spreaker.com/download/episode/53657449/sara_stream.mp3</link>
+			<description>Da Sarah er bare 12 år gammel bliver hun optaget på Det Kongelige Teaters balletskole, og skal flytte fra sin mor og økolandsbyen i Jylland, til et kollegie for unge aspiranter i København. De næste mange år bruger hun på at forfølge en drøm, der faktisk ikke er hendes egen. Hør Sarah fortælle om magien ved at leve i et eventyr, om skurkene, om bagsiden af medaljen og om endelig at turde kappe navlestrengen til den institution, hun altid har kaldt for hjem.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53657449/sara_stream.mp3</guid>
+			<pubDate>Mon, 08 May 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:53:12</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53657449/sara_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
