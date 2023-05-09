@@ -1482,5 +1482,23 @@
 			<itunes:duration>01:05:37</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/43488393/rt41.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>1. etape Giro d’Italia: Vanvittige Evenepoel og tidskørsler</title>
+			<link>https://api.spreaker.com/download/episode/53759917/rttalergiro1podcast.mp3</link>
+			<description>Giro d'Italia er skudt i gang, og det fejres med et kort afsnit af Radio Tour. Husk, du kan se alle etaper på Kanal 5 og uden afbrydelser på discovery+.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53759917/rttalergiro1podcast.mp3</guid>
+			<pubDate>Sat, 06 May 2023 16:28:51 +0000</pubDate>
+			<itunes:duration>00:20:56</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53759917/rttalergiro1podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>3. etape Giro d'Italia: Ærgrelse, olivenolie og rytternes ritualer</title>
+			<link>https://api.spreaker.com/download/episode/53778719/rt_taler_giro_3_pod.mp3</link>
+			<description>Efter 3. etape af Giro d’Italia vender Radio Tour – taler Giro dagens etape, hvor Mads Pedersen var ufatteligt tæt på en etapesejr. Du kan også høre om, hvilke ritualer der gør sig gældende hos cykelryttere, og om der er overtro med i spil.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53778719/rt_taler_giro_3_pod.mp3</guid>
+			<pubDate>Mon, 08 May 2023 16:28:47 +0000</pubDate>
+			<itunes:duration>00:24:28</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53778719/rt_taler_giro_3_pod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
