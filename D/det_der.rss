@@ -413,5 +413,23 @@ Som et overtræt højskolehus, eller festivalslejren samlingspunkt.
 			<itunes:duration>00:00:24</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/52484006/det_der.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Søndag med Pharfar: Del 2</title>
+			<link>https://api.spreaker.com/download/episode/53774587/pharfar_del_2.mp3</link>
+			<description>Søndagen står for skud og Pharfar er søndagens ven af studiet. Der er meget at vende men de vigtigste spørgsmål består...Kan Pharfar virkelig spytte 8 meter på en tirsdag?! Og hvorfor er hans yndlingssupermarked Lidl?? Søndages tømmermænds afsnit af Det Der byder på grin, anekdoter og følelser. Dine værter er Marcus Eklund og Adrian Tvede.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53774587/pharfar_del_2.mp3</guid>
+			<pubDate>Mon, 08 May 2023 10:24:36 +0000</pubDate>
+			<itunes:duration>00:53:50</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53774587/pharfar_del_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Søndag med Pharfar: Del 1</title>
+			<link>https://api.spreaker.com/download/episode/53774395/pharfar_del_1.mp3</link>
+			<description>Søndagen står for skud og Pharfar er søndagens ven af studiet. Der er meget at vende men de vigtigste spørgsmål består...Kan Pharfar virkelig spytte 8 meter på en tirsdag?! Og hvorfor er hans yndlingssupermarked Lidl?? Søndages tømmermænds afsnit af Det Der byder på grin, anekdoter og følelser. Dine værter er Marcus Eklund og Adrian Tvede.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53774395/pharfar_del_1.mp3</guid>
+			<pubDate>Mon, 08 May 2023 10:18:48 +0000</pubDate>
+			<itunes:duration>00:54:00</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53774395/pharfar_del_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
