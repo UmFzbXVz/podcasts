@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<rss
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>Reporterne</title>
 		<link>https://web.24syv.dk/channels/5043</link>
@@ -6659,6 +6658,24 @@ Redaktør: Pola Rojan Bagger.</description>
 			<pubDate>Wed, 03 Nov 2021 11:17:55 +0000</pubDate>
 			<itunes:duration>01:47:21</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47288961/031121_reporterne.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>AstraZeneca gjorde Maibritt for syg til at arbejde: Men hun får ingen erstatning</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53776396/vaccine.mp3</link>
+			<description>Maibritt var en powerwoman, der knoklede 40 timer om ugen som afdelingsleder på et botilbud.Men få timer efter hun blev stukket med AstraZeneca-vaccinen, startede hendes mareridt. Hovedpine, koncentrationsbesvær og træthed i en sådan grad, at hun ikke kan arbejde. Nu står hun til at gå på førtidspension uden at få en erstatning.I Reporterne i dag spørger vi de ansvarlige - hvis ikke Maibritt kan få erstatning, hvem kan så? Gæster:Razan El-Nakieb, journalist,Christine Stabell Benn, professor i global sundhed ved Syddansk UniversitetKaren-Inger Bast -direktør i PatienterstatningenVært:Niels Frederik Rickers Tilrettelægger:Razan El-NakiebProducer:Nana Margrethe HaugaardRedaktør:Mille Ørsted</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53776396/vaccine.mp3</guid>
+			<pubDate>Mon, 08 May 2023 14:08:06 +0000</pubDate>
+			<itunes:duration>00:27:10</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53776396/vaccine.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>DF: Det er ulideligt, når Grønland taler om løsrivelse</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53776163/df_gr_nland_taler_ut_leligt_om_l_srivelse.mp3</link>
+			<description>Syv år efter nedsættelsen af en forfatningskommission, så er udkastet til en grønlandsk grundlov klar.Det er en grundlov, der kan tages i brug, hvis Grønland endegyldigt beslutter sig for at løsrive sig fra Danmark. Men er det realistisk, at Grønlands dugfriske forfatning vil blive taget i brug, og hvis den bliver det, skal Grønland så vinke farvel til bloktilskuddet? Det mener Dansk Folkeparti, der kræver, at Grønland enten beslutter sig for at blive en del af fællesskabet - eller sige nej tak til økonomisk støtte fra Danmark.Vært: Niels Frederik RickersTilrettelæggere:Nana Margrethe Haugaard Jeppe Aamand ØvigProducer:Nana Margrethe HaugaardRedaktør:Mille Ørsted</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53776163/df_gr_nland_taler_ut_leligt_om_l_srivelse.mp3</guid>
+			<pubDate>Mon, 08 May 2023 13:41:39 +0000</pubDate>
+			<itunes:duration>00:26:38</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53776163/df_gr_nland_taler_ut_leligt_om_l_srivelse.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>
