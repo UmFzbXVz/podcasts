@@ -177,5 +177,14 @@
 			<itunes:duration>00:52:48</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/52342909/glennbech.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Spræng fabrikken!</title>
+			<link>https://api.spreaker.com/download/episode/53824350/malte.mp3</link>
+			<description>Sådan lyder titlen på Malte Tellerups nye bog, hvor tre unge venner planlægger og udfører et bombeattentat på Cheminova, en virkelig kemifabrik i Vestjylland. Bogen er kort, men stiller nogle vigtige spørgsmål om, hvornår kan sabotage retfærdiggøres; om det kan være nødvendigt for at ændre vores samfund, også hvis der ender med at koste menneskeliv. Og hvilken rolle kan og skal litteratur spille i klimakampen. Lyt med når Malte forklarer, hvordan man konkret laver en bombe, hvorfor Cheminova står tilbage som et momument over et giftigt tilgang til klimaet, og hvilken rolle litteratur kan spille i klimakampen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53824350/malte.mp3</guid>
+			<pubDate>Thu, 11 May 2023 16:37:32 +0000</pubDate>
+			<itunes:duration>00:53:47</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53824350/malte.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
