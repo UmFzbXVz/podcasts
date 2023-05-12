@@ -234,5 +234,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>00:00:44</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/52245903/verdens_syv_vidundere_intro.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 bedste sange fra Dansk Melodi Grand Prix</title>
+			<link>https://api.spreaker.com/download/episode/53812551/v7v_mgp.mp3</link>
+			<description>I aften skal slaget slås i LVIV-erpool!! Semifinaleslaget. Melodi Grand - Eruovision - meloduntegrand prix er emnet for dagens episode af VERDENS 7 VIDÙNDERE.Få konkurrencer har vel flere dedikerede fans og flere erklærede hadere. Er det god smag eller ej - gennem 57 år har konkurrencen formået at forene et ofte splittet Europa og måske også sprede kendskabet en smule til fjerne egnes kultur og sprog. Og i år er ingen undtagelse, når den Ukrainske sejr fra 2022 må fejres på britisk jord pga. krig og konflikt. Der kæmpes på scenen og der sendes budskaber langt ud over orkestergraven. Få er vel større entusiaster - ej heller større eksperter på dette særlige - end dagens gæster: HILDA OG KELD HEICK, som i dagens program øser af anekdoterne og forklarer deres egen lange kærlighed til musikkonkurrencen. Lyt med - og få fif til at blive komponisten af den næste vindersang!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53812551/v7v_mgp.mp3</guid>
+			<pubDate>Thu, 11 May 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:12:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53812551/v7v_mgp.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
