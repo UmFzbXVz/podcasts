@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<rss
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>It's Been a Minute with Sam Sanders</title>
 		<link>https://web.24syv.dk/channels/93</link>
@@ -3057,6 +3056,15 @@
 			<pubDate>Thu, 24 Sep 2020 15:29:06 +0000</pubDate>
 			<itunes:duration>00:32:12</itunes:duration>
 			<enclosure url="https://play.podtrac.com/npr-510317/edge1.pod.npr.org/anon.npr-mp3/npr/sam/2020/09/20200923_sam_rbgencorefinal.mp3?awCollectionId=510317&amp;awEpisodeId=915724052&amp;orgId=1&amp;d=1919&amp;p=510317&amp;story=915724052&amp;t=podcast&amp;e=915724052&amp;size=30641160&amp;ft=pod&amp;f=510317" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Beyoncé's Renaissance tour begins; revisiting house music history with DJ Honey Dijon</title>
+			<link>https://play.podtrac.com/npr-510317/edge1.pod.npr.org/anon.npr-mp3/npr/sam/2023/05/20230509_sam_69f1dc35-7a43-4263-b2f0-b8735ab104c3.mp3?d=1418&amp;size=22701498&amp;e=1174081216&amp;t=podcast&amp;p=510317&amp;awEpisodeId=1174081216&amp;awCollectionId=510317</link>
+			<description>Host Brittany Luse revisits her 2022 conversation with the legendary DJ Honey Dijon. As one of the only Black trans DJs playing the biggest venues in the world, she's not only become an icon of the scene, but an arbiter of the culture. It's no surprise that Beyoncé tapped Honey for her biggest album yet, Renaissance. Brittany and Honey talk house music's Black roots, the evolution of the club scene, and working with Beyoncé on &quot;Alien Superstar&quot; and &quot;Cozy.&quot; You can follow us on Twitter @NPRItsBeenAMin and email us at ibam@npr.org.</description>
+			<guid isPermaLink="true">https://play.podtrac.com/npr-510317/edge1.pod.npr.org/anon.npr-mp3/npr/sam/2023/05/20230509_sam_69f1dc35-7a43-4263-b2f0-b8735ab104c3.mp3?d=1418&amp;size=22701498&amp;e=1174081216&amp;t=podcast&amp;p=510317&amp;awEpisodeId=1174081216&amp;awCollectionId=510317</guid>
+			<pubDate>Tue, 09 May 2023 15:56:40 +0000</pubDate>
+			<itunes:duration>00:23:38</itunes:duration>
+			<enclosure url="https://play.podtrac.com/npr-510317/edge1.pod.npr.org/anon.npr-mp3/npr/sam/2023/05/20230509_sam_69f1dc35-7a43-4263-b2f0-b8735ab104c3.mp3?d=1418&amp;size=22701498&amp;e=1174081216&amp;t=podcast&amp;p=510317&amp;awEpisodeId=1174081216&amp;awCollectionId=510317" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>
