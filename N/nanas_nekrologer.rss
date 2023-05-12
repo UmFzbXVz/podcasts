@@ -1545,5 +1545,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:12</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53657449/sara_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Carolines Nekrolog: Luk øjnene og tænk på jordbær</title>
+			<link>https://api.spreaker.com/download/episode/53658058/caroline_stream.mp3</link>
+			<description>Måske Carolines datter burde fylde mere i dette afsnit, end hun gør. Det ville i hvert fald være oplagt, at nævne øjeblikke med sit barn som de stolteste, lykkeligste og mest definerende. Men Caroline er ikke en oplagt kvinde, og hun gider desuden heller ikke kun huskes, for at være nogens mor - hun vil også huskes for at være nogens datter, nogens kæreste, veninde, søster og for at være sig selv. Så hør om Carolines liv i Nepal, at blive gift med en smøg i hånden og om remoulade på roastbeef. Tro mig, når du har lyttet, vil du aldrig kunne kigge på et stykke mozzarellaost på samme måde igen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53658058/caroline_stream.mp3</guid>
+			<pubDate>Tue, 09 May 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:53:24</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53658058/caroline_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
