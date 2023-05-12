@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>Døgnrapporten</title>
 		<link>https://web.24syv.dk/channels/5075</link>
@@ -5102,6 +5103,33 @@ Producer: Agnes Vesth</description>
 			<pubDate>Mon, 08 May 2023 14:34:50 +0000</pubDate>
 			<itunes:duration>00:25:53</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53776284/louise_del_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Korsør-manden: Politiet klar med nye oplysninger</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53822935/dna_n_rderi_32_rig_f_ngslet_final_110523.mp3</link>
+			<description>Politiet vil udvide fængslingsgrundlaget for den 32-årige mand, der er sigtet og varetægtsfængslet for at frihedsberøve og voldtage en 13-årig pige i Kirkerup. Sidenhen har politiet også sigtet ham for et uopklaret voldtægtsforsøg i Sorø i 2022 og drabet på Emilie Meng i 2016. Det bliver i et retsmøde i Retten i Næstved, at politiet vil lade en dommer vurdere nye oplysninger i sagen. I dagens Døgnrapporten ser vi på, hvad det kan betyde, hvem den 32-årige er, og om der - syv år senere - stadig kan findes DNA-spor, der kan koble den 32-årige til Emilie Meng-drabet.Medvirkende:Sten Schaumburg-Müller, juraprofessor på Syddansk UniversitetBo Thisted Simonsen, afdelingsleder på Retsgenetisk Afdeling på Retsmedicinsk Institut på Københavns UniversitetMichelle Færch, reporter Døgnrapporten Vært:Agnes Vesth Tilrettelæggere:Michelle Færch Redaktør:Emma Vinkel</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53822935/dna_n_rderi_32_rig_f_ngslet_final_110523.mp3</guid>
+			<pubDate>Thu, 11 May 2023 14:42:12 +0000</pubDate>
+			<itunes:duration>00:33:54</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53822935/dna_n_rderi_32_rig_f_ngslet_final_110523.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Angreb dreng med machete på legeplads: Nu er dommen faldet</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53805619/machete_dom_f_rdig.mp3</link>
+			<description>Mandag faldt der dom i sagen, hvor en 16-årig var tiltalt for at have angrebet og hugget en jævnaldrende i baghovedet med en machete. Det blodige drabsforsøg fandt sted på en legeplads i Valby i december 2021, hvor også to andre personer har været tiltalt for grov vold i forbindelse med overfaldet. Offeret overlevede ifølge retten kun, fordi han fik hurtig behandling.Medvirkende:Kåre Traberg Smidt, forsvarsadvokatSøren Bak, reporter på DøgnrapportenVært:Agnes VesthTilrettelæggere:Søren BakRedaktør:Emma Vinkel</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53805619/machete_dom_f_rdig.mp3</guid>
+			<pubDate>Wed, 10 May 2023 13:52:08 +0000</pubDate>
+			<itunes:duration>00:25:45</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53805619/machete_dom_f_rdig.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Iben fundet dræbt i spabad - Nu er der faldet dom</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53791946/f_rdig_iben_part_to.mp3</link>
+			<description>For 3,5 år siden bliver 38-årige Iben Salling Syrik fundet død og nøgen i et udendørs spabad i et sommerhuskvarter i Midtjylland. Hurtigt peger politiets mistanke mod Ibens eksmand, Kim Søemod, men i årevis står de uden et fældende bevis. Nu er sagen blevet afsluttet i retten, hvor eksmanden har nægtet sig skyldig i drab. Han mener derimod, der er et tale om et uheld. Retten har nu afgjort, om der var tale om drab eller ej.Medvirkende:Line Schmidt Mouridsen, reporter på DøgnrapportenVært:Agnes VesthTilrettelæggere:Josefine PilLine Schmidt MouridsenRedaktør:Emma Vinkel</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53791946/f_rdig_iben_part_to.mp3</guid>
+			<pubDate>Tue, 09 May 2023 14:25:35 +0000</pubDate>
+			<itunes:duration>00:20:44</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53791946/f_rdig_iben_part_to.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>
