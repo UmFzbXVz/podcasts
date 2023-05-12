@@ -168,5 +168,14 @@
 			<itunes:duration>00:00:59</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/52332717/reality_teaser.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>'Først til verdens ende'-brødre: &quot;Dødskulturen i Danmark er ringe&quot;</title>
+			<link>https://api.spreaker.com/download/episode/53774705/tue_asger_podcast.mp3</link>
+			<description>(06:19) Den 4. oktober 2020 mistede Tue og Asger fra TV2-programmet 'Først til verdens ende' deres far, efter han i to år havde kæmpet mod prostatakræft. I dagens afsnit fortæller brødrene om, hvordan de oplevede døden og den enorme sorg, der efterfølgende fulgte, hvordan de tacklede sorgen på forskellige måder, hvordan deres omgangskreds havde berøringsangst med emnet, og hvordan de i programmet fik åbnet op for en dialog om sorgen. Gæster:Asger Ammundsen, deltager i 'Først til verdens ende' sæson 3Tue Ammundsen, deltager i 'Først til verdens ende' sæson 3Vært og tilrettelægger:Cecilie Dumanski</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53774705/tue_asger_podcast.mp3</guid>
+			<pubDate>Wed, 10 May 2023 16:06:48 +0000</pubDate>
+			<itunes:duration>00:54:05</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53774705/tue_asger_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
