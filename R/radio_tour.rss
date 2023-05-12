@@ -1500,5 +1500,32 @@
 			<itunes:duration>00:24:28</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53778719/rt_taler_giro_3_pod.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>6. etape Giro d'Italia: Udbrud, tæt afslutning og Mads P-sejr</title>
+			<link>https://api.spreaker.com/download/episode/53824837/radiotourgiro6.mp3</link>
+			<description>Udbruddet var uhyre tæt på at holde hjem på 6. etape af Giro d'Italia, men de blev hentet på de sidste par hundrede meter, og så stod den på massespurt. Her var danske Mads Pedersen bedst, og han kunne dermed tage sin første sejr i Giro d'Italia.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53824837/radiotourgiro6.mp3</guid>
+			<pubDate>Thu, 11 May 2023 17:32:58 +0000</pubDate>
+			<itunes:duration>00:22:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53824837/radiotourgiro6.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>5. etape Giro d’Italia: Uvejr, styrt og overtro</title>
+			<link>https://api.spreaker.com/download/episode/53808984/rttalergiro5podcastmp4.mp3</link>
+			<description>Danske Mads Pedersen hev en tredjeplads hjem efter en vanvittig etape, der bød på massivt regnvejr og en masse styrt. Radio Tour vender de største øjeblikke fra 5. etape af Giro d'Italia 2023.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53808984/rttalergiro5podcastmp4.mp3</guid>
+			<pubDate>Wed, 10 May 2023 17:15:14 +0000</pubDate>
+			<itunes:duration>00:25:30</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53808984/rttalergiro5podcastmp4.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>4. etape Giro d'Italia: Norsk stjerneskud og akrobatiske ryttere</title>
+			<link>https://api.spreaker.com/download/episode/53794773/talergiropod4.mp3</link>
+			<description>Radio Tour - taler Giro vender i dag 4. etape, hvor norske Andreas Leknessund sikrede sig den lyserøde førertrøje trods en glippet etapesejr, en kold Remco Evenepoel og hvordan blandt andre Jay Vine og Sepp Kuss viste tegn på akrobatik på cyklen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53794773/talergiropod4.mp3</guid>
+			<pubDate>Tue, 09 May 2023 16:40:57 +0000</pubDate>
+			<itunes:duration>00:24:44</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53794773/talergiropod4.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
