@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>It's Been a Minute with Sam Sanders</title>
 		<link>https://web.24syv.dk/channels/93</link>
@@ -3065,6 +3066,15 @@
 			<pubDate>Tue, 09 May 2023 15:56:40 +0000</pubDate>
 			<itunes:duration>00:23:38</itunes:duration>
 			<enclosure url="https://play.podtrac.com/npr-510317/edge1.pod.npr.org/anon.npr-mp3/npr/sam/2023/05/20230509_sam_69f1dc35-7a43-4263-b2f0-b8735ab104c3.mp3?d=1418&amp;size=22701498&amp;e=1174081216&amp;t=podcast&amp;p=510317&amp;awEpisodeId=1174081216&amp;awCollectionId=510317" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>A Black, trans journey through TV and film; plus, inside Beyoncé's 'Renaissance' tour</title>
+			<link>https://play.podtrac.com/npr-510317/edge1.pod.npr.org/anon.npr-mp3/npr/sam/2023/05/20230512_sam_325d0846-4430-4e79-937c-48a81caa44aa.mp3?d=1821&amp;size=29148936&amp;e=1174996769&amp;t=podcast&amp;p=510317&amp;awEpisodeId=1174996769&amp;awCollectionId=510317</link>
+			<description>Since releasing one of the most critically acclaimed albums in 2022, pop titan Beyoncé has withheld the visuals for almost a year. NPR Senior Culture editor Bilal Qureshi went to the first stop on the Renaissance World Tour and joins producer Corey Antonio Rose to reveal one of the most highly anticipated musical secrets.Then, journalist Tre'vell Anderson takes host Brittany Luse through a groundbreaking look at the history of transgender representation onscreen, in their new book, &quot;We See Each Other: A Black, Trans Journey Through TV and Film.&quot;You can follow us on Twitter @NPRItsBeenAMin and email us at ibam@npr.org.</description>
+			<guid isPermaLink="true">https://play.podtrac.com/npr-510317/edge1.pod.npr.org/anon.npr-mp3/npr/sam/2023/05/20230512_sam_325d0846-4430-4e79-937c-48a81caa44aa.mp3?d=1821&amp;size=29148936&amp;e=1174996769&amp;t=podcast&amp;p=510317&amp;awEpisodeId=1174996769&amp;awCollectionId=510317</guid>
+			<pubDate>Fri, 12 May 2023 16:23:31 +0000</pubDate>
+			<itunes:duration>00:30:21</itunes:duration>
+			<enclosure url="https://play.podtrac.com/npr-510317/edge1.pod.npr.org/anon.npr-mp3/npr/sam/2023/05/20230512_sam_325d0846-4430-4e79-937c-48a81caa44aa.mp3?d=1821&amp;size=29148936&amp;e=1174996769&amp;t=podcast&amp;p=510317&amp;awEpisodeId=1174996769&amp;awCollectionId=510317" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>
