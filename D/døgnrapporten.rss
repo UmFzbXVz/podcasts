@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<rss
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>Døgnrapporten</title>
 		<link>https://web.24syv.dk/channels/5075</link>
@@ -5130,6 +5129,15 @@ Producer: Agnes Vesth</description>
 			<pubDate>Tue, 09 May 2023 14:25:35 +0000</pubDate>
 			<itunes:duration>00:20:44</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53791946/f_rdig_iben_part_to.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>16-årig får hård straf: Han ville hverve sin ven til terror</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53832184/feuerkrig_dom_final_120523.mp3</link>
+			<description>En 16-årig dreng fra en lille by på Vestsjælland er blevet dømt ved Retten i Holbæk for bl.a. at ville hverve sin ven til den nynazistiske terrororganisationen Feuerkrieg Division. Men selvom drengen delte bombemanualer og skrev i sin dagbog, at terrorangreb er nødvendigt for et hvidt overherredømme, blev han ikke kendt skyldig i at ville begå terror - det mest alvorlige forhold i sagen. Hør hvordan det hænger sammen i dagens episode. Medvirkende:Line Schmidt Mouridsen, reporter på DøgnrapportenVært:Michelle Færch Tilrettelægger:Line Schmidt MouridsenRedaktør:Emma Vinkel</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53832184/feuerkrig_dom_final_120523.mp3</guid>
+			<pubDate>Fri, 12 May 2023 12:59:24 +0000</pubDate>
+			<itunes:duration>00:30:51</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53832184/feuerkrig_dom_final_120523.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>
