@@ -1527,5 +1527,23 @@
 			<itunes:duration>00:24:44</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53794773/talergiropod4.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>8. etape Giro d'Italia: Vilde Ben Healy og klassementetape</title>
+			<link>https://api.spreaker.com/download/episode/53846843/rttalergiro8podcastmp4.mp3</link>
+			<description>Ben Healy tog en flot sejr på 8. etape af Giro d’Italia, da han kørte overlegent og alene i mål lørdag eftermiddag. Hør Radio Tour-studiet blandt andet snakke om den unge irer i det nyeste afsnit af Radio Tour - taler Giro.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53846843/rttalergiro8podcastmp4.mp3</guid>
+			<pubDate>Sat, 13 May 2023 16:17:54 +0000</pubDate>
+			<itunes:duration>00:24:43</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53846843/rttalergiro8podcastmp4.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>7. etape Giro d'Italia: Davide Bais-triumf, snelandskab og største skuffelser</title>
+			<link>https://api.spreaker.com/download/episode/53835179/talergiro07pod.mp3</link>
+			<description>I denne udgave af Radio Tour - taler Giro følger Peter Piil og co. op på en noget begivenhedsfattig 7. etape, der blandt andet bød på snelandskab og et udbrud, der varede i 210 kilometer.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53835179/talergiro07pod.mp3</guid>
+			<pubDate>Fri, 12 May 2023 16:50:14 +0000</pubDate>
+			<itunes:duration>00:24:15</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53835179/talergiro07pod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
