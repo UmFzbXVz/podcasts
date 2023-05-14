@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>The NPR Politics Podcast</title>
 		<link>https://web.24syv.dk/channels/92</link>
@@ -7412,6 +7413,15 @@
 			<pubDate>Tue, 09 May 2023 20:49:57 +0000</pubDate>
 			<itunes:duration>00:17:55</itunes:duration>
 			<enclosure url="https://play.podtrac.com/npr-510310/edge1.pod.npr.org/anon.npr-mp3/npr/nprpolitics/2023/05/20230509_nprpolitics_ba34138b-d782-4eda-808f-044e4f5517d3.mp3?d=1075&amp;size=17208260&amp;e=1175040926&amp;t=podcast&amp;p=510310&amp;awEpisodeId=1175040926&amp;awCollectionId=510310" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Debt, Ohio &amp;amp; A Really Old Dog</title>
+			<link>https://play.podtrac.com/npr-510310/edge1.pod.npr.org/anon.npr-mp3/npr/nprpolitics/2023/05/20230512_nprpolitics_ad8b4edd-ca51-49f1-8add-0478bc63f83a.mp3?d=1297&amp;size=20753808&amp;e=1175859927&amp;t=podcast&amp;p=510310&amp;awEpisodeId=1175859927&amp;awCollectionId=510310</link>
+			<description>Lawmakers have yet to reach a deal to avert U.S. default, which could come as soon as next month. In Ohio, Republican lawmakers are attempting to amend the state's constitution to waylay reproductive rights activists' push to safeguard access to abortion. And, in Can't Let It Go, news of a dog who is very old.This episode: White House correspondent Tamara Keith, political correspondent Kelsey Snell, senior political editor and correspondent Domenico Montanaro, and Ohio Statehouse News Bureau Karen Kasler.The podcast is produced by Elena Moore and Casey Morell. Our editor is Eric McDaniel. Our executive producer is Muthoni Muturi. Unlock access to this and other bonus content by supporting The NPR Politics Podcast+. Sign up via Apple Podcasts or at plus.npr.org. Connect:Email the show at nprpolitics@npr.orgJoin the NPR Politics Podcast Facebook Group.Subscribe to the NPR Politics Newsletter.</description>
+			<guid isPermaLink="true">https://play.podtrac.com/npr-510310/edge1.pod.npr.org/anon.npr-mp3/npr/nprpolitics/2023/05/20230512_nprpolitics_ad8b4edd-ca51-49f1-8add-0478bc63f83a.mp3?d=1297&amp;size=20753808&amp;e=1175859927&amp;t=podcast&amp;p=510310&amp;awEpisodeId=1175859927&amp;awCollectionId=510310</guid>
+			<pubDate>Fri, 12 May 2023 20:18:55 +0000</pubDate>
+			<itunes:duration>00:21:37</itunes:duration>
+			<enclosure url="https://play.podtrac.com/npr-510310/edge1.pod.npr.org/anon.npr-mp3/npr/nprpolitics/2023/05/20230512_nprpolitics_ad8b4edd-ca51-49f1-8add-0478bc63f83a.mp3?d=1297&amp;size=20753808&amp;e=1175859927&amp;t=podcast&amp;p=510310&amp;awEpisodeId=1175859927&amp;awCollectionId=510310" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>
