@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>The Economist Radio</title>
 		<link>https://web.24syv.dk/channels/90</link>
@@ -14061,6 +14062,24 @@
 			<pubDate>Tue, 09 May 2023 10:56:16 +0000</pubDate>
 			<itunes:duration>00:30:58</itunes:duration>
 			<enclosure url="https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/645a26d03699f60011ea5a4c/media.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Checks and Balance: Man problems</title>
+			<link>https://sphinx.acast.com/p/open/s/57cc3c7d-b0fd-4930-9279-4e84c75df457/a/theeconomistallaudio/e/645e6e23eff373001145507f/media.mp3</link>
+			<description>There have long been worries about manhood in the United States. Today, nearly half of men believe traditional masculinity is under threat. While the left talk about toxic masculinity, some politicians on the right fear men’s very “deconstruction”. Researchers point to data showing a relative decline in men’s education rates and rise in deaths from drugs and suicide. Does the debate over masculinity obscure actual problems for boys and men? And what does the fight over America’s men mean for the country’s women, and its politics? Richard Reeves, author of “Of Boys And Men”, talks us through what is behind problems facing men. We go back to another time masculinity was in flux. And Alice Evans of King’s College London discusses whether American men are international outliers. Charlotte Howard hosts with Sacha Nauta and Idrees Kahloon.We would love to hear from you. Please fill out our listener survey at economist.com/uspodsurvey. You can now find every episode of Checks and Balance in one place and sign up to our weekly newsletter. For full access to print, digital and audio editions, as well as exclusive live events, subscribe to The Economist at economist.com/podcastoffer.  Hosted on Acast. See acast.com/privacy for more information.</description>
+			<guid isPermaLink="true">https://sphinx.acast.com/p/open/s/57cc3c7d-b0fd-4930-9279-4e84c75df457/a/theeconomistallaudio/e/645e6e23eff373001145507f/media.mp3</guid>
+			<pubDate>Fri, 12 May 2023 16:49:38 +0000</pubDate>
+			<itunes:duration>00:44:48</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/57cc3c7d-b0fd-4930-9279-4e84c75df457/a/theeconomistallaudio/e/645e6e23eff373001145507f/media.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Suck in the middle: the hole in America’s consumer base</title>
+			<link>https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/645e0b1ed83e7600112b1484/media.mp3</link>
+			<description>The past few years have proved tumultuous both for American consumers and for retailers selling to them. The end result is a curious slump for middle-of-the-road brands. Artificial intelligence like ChatGPT stands to disrupt everything from art to coding; we self-interestedly explore probable effects on journalism. And remembering Ranajit Guha, a historian who saw a different India by looking bottom-up. Take our listener survey at www.economist.com/intelligencesurveyAnd for full access to print, digital and audio editions of The Economist, try a free 30-day digital subscription by going to www.economist.com/intelligenceoffer Hosted on Acast. See acast.com/privacy for more information.</description>
+			<guid isPermaLink="true">https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/645e0b1ed83e7600112b1484/media.mp3</guid>
+			<pubDate>Fri, 12 May 2023 09:47:10 +0000</pubDate>
+			<itunes:duration>00:26:05</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/645e0b1ed83e7600112b1484/media.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>
