@@ -249,5 +249,14 @@
 			<itunes:duration>00:53:32</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53737251/mensfri.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Kan kvinder svejse?</title>
+			<link>https://api.spreaker.com/download/episode/53823080/ha_ndv_rker.mp3</link>
+			<description>95 % af de danske håndværkere. Det er mænd. Det er et problem for ligestillingen, for de u-uddannede unge og fordi vi mangler hænder i branchen! Men det er også et problem blandt de få håndværker-kvinder, der brænder for faget, som skal kæmpe ekstra hårdt for at vise sit værd og lægge øre til sexisme, som elektriker Clara Walter Jensen og smed Mikkeline Christiansen har oplevet. Hvorfor er det så svært at tiltrække kvinder til uddannelsen? Eller hvorfor er det så svært for branchen at tage imod pigerne og kvinderne? Det snakker jeg med direktør og founder af virksomheden Divérs, som står bag initiativet Boss Ladies, Nina Groes om i dette afsnit af Hvad er stillingen?</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53823080/ha_ndv_rker.mp3</guid>
+			<pubDate>Mon, 15 May 2023 04:00:02 +0000</pubDate>
+			<itunes:duration>00:56:58</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53823080/ha_ndv_rker.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
