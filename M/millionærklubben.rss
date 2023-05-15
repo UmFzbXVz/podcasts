@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<rss
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>Millionærklubben</title>
 		<link>https://web.24syv.dk/channels/42</link>
@@ -14484,6 +14483,15 @@ Læs mere om Millionærklubben Eksklusiv og find billetter til det næste arrang
 			<pubDate>Fri, 12 May 2023 08:22:35 +0000</pubDate>
 			<itunes:duration>00:53:58</itunes:duration>
 			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/27dfeb66-f61a-4fcc-aa6d-ad0800b05139/0a78c1d0-b1e6-4c4d-a5ad-b00000880349/audio.mp3?utm_source=Podcast&amp;in_playlist=dc61232c-7e07-438e-981a-ad0800b05142" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Tid til obligationer?</title>
+			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/27dfeb66-f61a-4fcc-aa6d-ad0800b05139/09101aa4-c9d2-4fcb-b7de-b0030085611c/audio.mp3?utm_source=Podcast&amp;in_playlist=dc61232c-7e07-438e-981a-ad0800b05142</link>
+			<description>Efter en periode med hurtigt stigende renter synes mange private investorer stadig at være i tvivl, om der skal obligationer i depotet. Millionærklubben ser på sagen sammen med obligationschef Gustav Bundgaard Smidth fra Maj Invest, der serverer gode råd og “do’s and don’ts” til obligationsinvestering. I studiet sætter Lau Svenssen scenen for dagens aktiemarked og samler op på seneste regneskab fra Zealand Pharma. Vært: Bodil Johanne Gantzel.See omnystudio.com/listener for privacy information.</description>
+			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/27dfeb66-f61a-4fcc-aa6d-ad0800b05139/09101aa4-c9d2-4fcb-b7de-b0030085611c/audio.mp3?utm_source=Podcast&amp;in_playlist=dc61232c-7e07-438e-981a-ad0800b05142</guid>
+			<pubDate>Mon, 15 May 2023 08:12:30 +0000</pubDate>
+			<itunes:duration>00:55:05</itunes:duration>
+			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/27dfeb66-f61a-4fcc-aa6d-ad0800b05139/09101aa4-c9d2-4fcb-b7de-b0030085611c/audio.mp3?utm_source=Podcast&amp;in_playlist=dc61232c-7e07-438e-981a-ad0800b05142" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>

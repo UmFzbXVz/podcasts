@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<rss
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>The Economist Radio</title>
 		<link>https://web.24syv.dk/channels/90</link>
@@ -14080,6 +14079,15 @@
 			<pubDate>Fri, 12 May 2023 09:47:10 +0000</pubDate>
 			<itunes:duration>00:26:05</itunes:duration>
 			<enclosure url="https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/645e0b1ed83e7600112b1484/media.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Changing the Guard? Turkey’s inconclusive election</title>
+			<link>https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/64620f214f68050011c6e43e/media.mp3</link>
+			<description>Despite the opposition’s lead in the pre-election polls, the incumbent president seems to have performed better than expected. What does a run-off mean for the nation? The mental health of teenage girls is plummeting and according to our data, social media might be to blame. And, have you ever wondered what it takes to be a spy? Start with our reading list. Take our listener survey at www.economist.com/intelligencesurveyAnd for full access to print, digital and audio editions of The Economist, try a free 30-day digital subscription by going to www.economist.com/intelligenceoffer Hosted on Acast. See acast.com/privacy for more information.</description>
+			<guid isPermaLink="true">https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/64620f214f68050011c6e43e/media.mp3</guid>
+			<pubDate>Mon, 15 May 2023 10:53:21 +0000</pubDate>
+			<itunes:duration>00:24:49</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/64620f214f68050011c6e43e/media.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>
