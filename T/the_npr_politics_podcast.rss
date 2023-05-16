@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<rss
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>The NPR Politics Podcast</title>
 		<link>https://web.24syv.dk/channels/92</link>
@@ -7422,6 +7421,15 @@
 			<pubDate>Fri, 12 May 2023 20:18:55 +0000</pubDate>
 			<itunes:duration>00:21:37</itunes:duration>
 			<enclosure url="https://play.podtrac.com/npr-510310/edge1.pod.npr.org/anon.npr-mp3/npr/nprpolitics/2023/05/20230512_nprpolitics_ad8b4edd-ca51-49f1-8add-0478bc63f83a.mp3?d=1297&amp;size=20753808&amp;e=1175859927&amp;t=podcast&amp;p=510310&amp;awEpisodeId=1175859927&amp;awCollectionId=510310" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Bipartisan Senators Try To Regulate Social Media. Will They Succeed?</title>
+			<link>https://play.podtrac.com/npr-510310/edge1.pod.npr.org/anon.npr-mp3/npr/nprpolitics/2023/05/20230515_nprpolitics_3823f163-580a-428e-a98c-13ea0351e9a3.mp3?d=856&amp;size=13702836&amp;e=1176230830&amp;t=podcast&amp;p=510310&amp;awEpisodeId=1176230830&amp;awCollectionId=510310</link>
+			<description>Four senators — two Democrats, two Republicans — are joining forces on a bill to regulate how social media companies can interact with users under the age of 18. They're one of many groups in Congress trying to increase oversight and regulation in this field, but given the country's polarized politics, does their legislation have any chance of making its way to President Biden's desk? This episode: White House correspondent Tamara Keith, congressional correspondent Deirdre Walsh, and technology correspondent Dara Kerr.The podcast is produced by Elena Moore and Casey Morell. Our editor is Eric McDaniel. Our executive producer is Muthoni Muturi. Unlock access to this and other bonus content by supporting The NPR Politics Podcast+. Sign up via Apple Podcasts or at plus.npr.org. Connect:Email the show at nprpolitics@npr.orgJoin the NPR Politics Podcast Facebook Group.Subscribe to the NPR Politics Newsletter.</description>
+			<guid isPermaLink="true">https://play.podtrac.com/npr-510310/edge1.pod.npr.org/anon.npr-mp3/npr/nprpolitics/2023/05/20230515_nprpolitics_3823f163-580a-428e-a98c-13ea0351e9a3.mp3?d=856&amp;size=13702836&amp;e=1176230830&amp;t=podcast&amp;p=510310&amp;awEpisodeId=1176230830&amp;awCollectionId=510310</guid>
+			<pubDate>Mon, 15 May 2023 20:49:34 +0000</pubDate>
+			<itunes:duration>00:14:16</itunes:duration>
+			<enclosure url="https://play.podtrac.com/npr-510310/edge1.pod.npr.org/anon.npr-mp3/npr/nprpolitics/2023/05/20230515_nprpolitics_3823f163-580a-428e-a98c-13ea0351e9a3.mp3?d=856&amp;size=13702836&amp;e=1176230830&amp;t=podcast&amp;p=510310&amp;awEpisodeId=1176230830&amp;awCollectionId=510310" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>

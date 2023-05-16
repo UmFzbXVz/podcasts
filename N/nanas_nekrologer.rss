@@ -1554,5 +1554,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:24</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53658058/caroline_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Astrids Nekrolog: Messias-komplekset</title>
+			<link>https://api.spreaker.com/download/episode/53658605/astrid_stream.mp3</link>
+			<description>Selvom Astrid er tilfreds med sit liv indtil videre, ved hun ikke, om hun ville kunne holde til at gennemleve sine 22 år igen. Hendes folkeskoletid var forfærdeligt ensom, og gymnasiet blev synonym med angst i biologitimer og handlingslammede idrætstimer. Men hun har også følt øjeblikke at lykke og af, at høre til. Hør også Astrid fortælle om at finde håbet i mørke metal-tekster og om at finde glæden i, at bruge sine egne problemer til at hjælpe andre.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53658605/astrid_stream.mp3</guid>
+			<pubDate>Mon, 15 May 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:53:30</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53658605/astrid_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

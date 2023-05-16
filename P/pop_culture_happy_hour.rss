@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<rss
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>Pop Culture Happy Hour</title>
 		<link>https://web.24syv.dk/channels/94</link>
@@ -6270,6 +6269,15 @@
 			<pubDate>Wed, 10 May 2023 04:10:26 +0000</pubDate>
 			<itunes:duration>00:24:58</itunes:duration>
 			<enclosure url="https://play.podtrac.com/npr-510282/edge1.pod.npr.org/anon.npr-mp3/npr/pchh/2023/05/20230510_pchh_5a9f8e94-1bb9-4967-b75c-272ec181eea8.mp3?d=1498&amp;size=23971676&amp;e=1174267434&amp;t=podcast&amp;p=510282&amp;awEpisodeId=1174267434&amp;awCollectionId=510282" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Book Club: The Next Chapter</title>
+			<link>https://play.podtrac.com/npr-510282/edge1.pod.npr.org/anon.npr-mp3/npr/pchh/2023/05/20230516_pchh_1d4dcf45-ebf3-49a8-9f6a-d4f205bb8cb0.mp3?d=834&amp;size=13347153&amp;e=1172808072&amp;t=podcast&amp;p=510282&amp;awEpisodeId=1172808072&amp;awCollectionId=510282</link>
+			<description>Book Club: The Next Chapter is a sequel that reunites four legendary actresses: Jane Fonda, Diane Keaton, Candice Bergen, and Mary Steenburgen. In this iteration, the ladies jet-set to Italy. It's a light-hearted, very silly romp with a meet-cute, an old paramour, lost luggage, and multiple jokes about meatballs.</description>
+			<guid isPermaLink="true">https://play.podtrac.com/npr-510282/edge1.pod.npr.org/anon.npr-mp3/npr/pchh/2023/05/20230516_pchh_1d4dcf45-ebf3-49a8-9f6a-d4f205bb8cb0.mp3?d=834&amp;size=13347153&amp;e=1172808072&amp;t=podcast&amp;p=510282&amp;awEpisodeId=1172808072&amp;awCollectionId=510282</guid>
+			<pubDate>Tue, 16 May 2023 04:10:45 +0000</pubDate>
+			<itunes:duration>00:13:54</itunes:duration>
+			<enclosure url="https://play.podtrac.com/npr-510282/edge1.pod.npr.org/anon.npr-mp3/npr/pchh/2023/05/20230516_pchh_1d4dcf45-ebf3-49a8-9f6a-d4f205bb8cb0.mp3?d=834&amp;size=13347153&amp;e=1172808072&amp;t=podcast&amp;p=510282&amp;awEpisodeId=1172808072&amp;awCollectionId=510282" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>
