@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<rss
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>It's Been a Minute with Sam Sanders</title>
 		<link>https://web.24syv.dk/channels/93</link>
@@ -3075,6 +3074,15 @@
 			<pubDate>Fri, 12 May 2023 16:23:31 +0000</pubDate>
 			<itunes:duration>00:30:21</itunes:duration>
 			<enclosure url="https://play.podtrac.com/npr-510317/edge1.pod.npr.org/anon.npr-mp3/npr/sam/2023/05/20230512_sam_325d0846-4430-4e79-937c-48a81caa44aa.mp3?d=1821&amp;size=29148936&amp;e=1174996769&amp;t=podcast&amp;p=510317&amp;awEpisodeId=1174996769&amp;awCollectionId=510317" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>It's been one year since the Buffalo shooting. How has it changed the community?</title>
+			<link>https://play.podtrac.com/npr-510317/edge1.pod.npr.org/anon.npr-mp3/npr/sam/2023/05/20230516_sam_5d7a85d3-4d30-444f-b8e1-d9ad18cb93d9.mp3?d=2541&amp;size=40667055&amp;e=1176490762&amp;t=podcast&amp;p=510317&amp;awEpisodeId=1176490762&amp;awCollectionId=510317</link>
+			<description>It has been one year since a white supremacist drove to a predominantly Black neighborhood with an AR-15 style rifle and murdered 10 people and injured 3 others. NPR's Embedded podcast has followed a cheerleading troop over the past year to understand how the mass shooting changed the community. This week, Brittany brings you the first episode in their multi-part series.You can follow us on Twitter @NPRItsBeenAMin and email us at ibam@npr.org.</description>
+			<guid isPermaLink="true">https://play.podtrac.com/npr-510317/edge1.pod.npr.org/anon.npr-mp3/npr/sam/2023/05/20230516_sam_5d7a85d3-4d30-444f-b8e1-d9ad18cb93d9.mp3?d=2541&amp;size=40667055&amp;e=1176490762&amp;t=podcast&amp;p=510317&amp;awEpisodeId=1176490762&amp;awCollectionId=510317</guid>
+			<pubDate>Tue, 16 May 2023 21:37:18 +0000</pubDate>
+			<itunes:duration>00:42:21</itunes:duration>
+			<enclosure url="https://play.podtrac.com/npr-510317/edge1.pod.npr.org/anon.npr-mp3/npr/sam/2023/05/20230516_sam_5d7a85d3-4d30-444f-b8e1-d9ad18cb93d9.mp3?d=2541&amp;size=40667055&amp;e=1176490762&amp;t=podcast&amp;p=510317&amp;awEpisodeId=1176490762&amp;awCollectionId=510317" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>

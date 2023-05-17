@@ -1563,5 +1563,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:30</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53658605/astrid_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvem har du gjort indtryk på? #3</title>
+			<link>https://api.spreaker.com/download/episode/53676019/mandagsepi_1_stream.mp3</link>
+			<description>I løbet af vores liv skaber vi ringe i vandet med vores handlinger - handlinger, der efterlader et aftryk på omgivelserne og mennesker omkring os. Magnus drikker ikke rigtigt alkohol og har været tutor på sit universitet. Her gjorde han en forskel for de nyudklækkede studerende, ved at vise dem, at man ikke behøver drikke for at have det sjovt. Hør også, hvem og hvad Luna, Nyx og Maya har haft indflydelse på.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53676019/mandagsepi_1_stream.mp3</guid>
+			<pubDate>Tue, 16 May 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:23:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53676019/mandagsepi_1_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
