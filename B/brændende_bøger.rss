@@ -186,5 +186,14 @@
 			<itunes:duration>00:52:48</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/52342909/glennbech.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Det liberalistiske manifest?</title>
+			<link>https://api.spreaker.com/download/episode/53887206/atlas_shrugged.mp3</link>
+			<description>“Atlas Shrugged” er kendt som liberalismens uofficielle manifest. Skrevet af den russiskfødte amerikanske forfatter, Ayn Rand, bliver den over 1000 sider lange bog igen og igen fremhævet som inspirationskilde for verdens største iværksættere og liberale tænkere. Det er måske ikke så underligt, da det er fortællingen om et dystopisk USA, hvor en socialistisk stat kvæler al intiativ til at innovere og forbedre industrien. Togbaner nationaliseres, socialismen gør sit indtog, og langsomt skrænter både økonomien og befolkingens lyst til livet. Men hvad er det ved denne murstensroman og forfatteren Ayn Rand, som kan få selv de mest travle iværksættere til at sætte sig i lænestolen og drømme? Hvorfor oversatte og genudgav Saxo Bank for egen regning bogen, og gav dem til enhver der ville have en kopi? Og hvordan påvirker boges os stadigvæk i dag? Lyt med, når vi sammen med iværksætter, investor og mangemillionær, Lars Tvede, forsøger at forstå den filosofi, som har dannet skole for nogle af verdens mest magtfulde mennesker.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53887206/atlas_shrugged.mp3</guid>
+			<pubDate>Thu, 18 May 2023 16:05:01 +0000</pubDate>
+			<itunes:duration>00:53:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53887206/atlas_shrugged.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
