@@ -1662,5 +1662,14 @@
 			<itunes:duration>00:30:45</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53901971/vid_onsdag.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ferietid: Frederik Vad</title>
+			<link>https://api.spreaker.com/download/episode/53904240/vid_torsdag.mp3</link>
+			<description>Socialdemokratiet stemte for nylig nej til oppositionens beslutningsforslag om at sikre, at Muhammed-krisen indgår som del af historiekanonen og dermed er tilgængelig for undervisning i landets folkeskoler. Frederik Vad var regeringspartiets ordfører i sagen, der for den unge værdikriger var svær, fordi han tidligere har været fortaler for det modsatte.Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53904240/vid_torsdag.mp3</guid>
+			<pubDate>Thu, 18 May 2023 03:05:01 +0000</pubDate>
+			<itunes:duration>00:12:20</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53904240/vid_torsdag.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

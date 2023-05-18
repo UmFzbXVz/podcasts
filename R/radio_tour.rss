@@ -1554,5 +1554,23 @@
 			<itunes:duration>00:22:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53858673/radiotour9etape_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>10. etape Giro d'Italia: Corts sejr og polsk eventyr</title>
+			<link>https://api.spreaker.com/download/episode/53892037/rt10podcast.mp3</link>
+			<description>I det nyeste afsnit af Radio Tour - taler Giro, vender studiet blandt andet Magnus Corts etapesejr på 10. etape af Giro d'Italia. Derudover gæster Jappe Pallesen studiet til en snak om sit cykeleventyr i Polen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53892037/rt10podcast.mp3</guid>
+			<pubDate>Tue, 16 May 2023 16:29:18 +0000</pubDate>
+			<itunes:duration>00:19:40</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53892037/rt10podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>11. etape Giro d'Italia: Ackermann er tilbage og Tao Geoghegan Hart exit</title>
+			<link>https://api.spreaker.com/download/episode/53908790/rt11_etape_podcast.mp3</link>
+			<description>Radio Tour taler om Pascal Ackermanns sejr på målfoto og Tao Geoghegan Harts ærgerlige exit af Giroen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53908790/rt11_etape_podcast.mp3</guid>
+			<pubDate>Wed, 17 May 2023 16:28:38 +0000</pubDate>
+			<itunes:duration>00:21:25</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53908790/rt11_etape_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

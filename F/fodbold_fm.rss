@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-<rss
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>Fodbold FM</title>
 		<link>https://web.24syv.dk/channels/44</link>
@@ -9096,6 +9095,21 @@ Udsendelsens vært er Sebastian Peebles, mens Kasper Damgaard agerer producer.Se
 			<pubDate>Mon, 08 May 2023 17:23:48 +0000</pubDate>
 			<itunes:duration>00:55:08</itunes:duration>
 			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/08d79b7b-5d5a-4643-b3e7-ad0800ae3c34/25ee8cc5-72f4-45e4-ac52-affc011bc562/audio.mp3?utm_source=Podcast&amp;in_playlist=940fc24c-76e8-4c46-89e5-ad0800ae3c42" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>29. Spillerunde af Superligaen og ugens udenlands-danskere</title>
+			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/08d79b7b-5d5a-4643-b3e7-ad0800ae3c34/cc99521c-f0fe-4561-8395-b0030111ed8c/audio.mp3?utm_source=Podcast&amp;in_playlist=940fc24c-76e8-4c46-89e5-ad0800ae3c42</link>
+			<description>I denne omgang af Fodbold FM dykker vi ned i 29. spillerunde af vores kære Superliga, hvor vi blandt andet kaster os over et dramatisk derby, et topopgør i Aarhus og ikke mindst den vilde bundstrid i ligaen.Dette afsnit forløber således:
+00:00 – 10:23 – Præsentation af gæster, skulderklap og tacklinger
+10:23 – 28:49 – BIF-FCK
+28:49 – 45:19 – AGF-FCN
+45:19 – 49:02 – Bundstriden i Superligaen
+49:02 – 53:40 – Ugens udenlands-danskere
+Panelet består af den tidligere professionelle fodboldspiller, Mads Thomsen, Kasper Larsen fra Kvart i Bold og Rasmus Damsholt fra Nordsjælland Dreamin’.Udsendelsens vært er Sebastian Peebles, mens Kasper Damgaard agerer producer.See omnystudio.com/listener for privacy information.</description>
+			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/08d79b7b-5d5a-4643-b3e7-ad0800ae3c34/cc99521c-f0fe-4561-8395-b0030111ed8c/audio.mp3?utm_source=Podcast&amp;in_playlist=940fc24c-76e8-4c46-89e5-ad0800ae3c42</guid>
+			<pubDate>Mon, 15 May 2023 16:43:36 +0000</pubDate>
+			<itunes:duration>00:53:40</itunes:duration>
+			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/08d79b7b-5d5a-4643-b3e7-ad0800ae3c34/cc99521c-f0fe-4561-8395-b0030111ed8c/audio.mp3?utm_source=Podcast&amp;in_playlist=940fc24c-76e8-4c46-89e5-ad0800ae3c42" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>

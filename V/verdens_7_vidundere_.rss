@@ -243,5 +243,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:12:54</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53812551/v7v_mgp.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 bedste museer i verden</title>
+			<link>https://api.spreaker.com/download/episode/53912461/v7v_museer.mp3</link>
+			<description>Gæst: Ole Winther&quot;Ærten kom paa Kunstkammeret, hvor den endnu er at see, dersom ingen har taget den.&quot; - Engang var gode museer statiske og støvede, men i dag skal de forny sig og orientere sig mod publikum. Ole Winther har endda foreslået, at man smider 50% af museernes genstande ud, for at få plads til det relevante. Hør med, når han udlægger teksten og kårer verdens 7 bedste museer.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53912461/v7v_museer.mp3</guid>
+			<pubDate>Thu, 18 May 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:00:56</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53912461/v7v_museer.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

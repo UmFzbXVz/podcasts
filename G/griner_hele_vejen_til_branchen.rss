@@ -97,5 +97,23 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:00:23</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/52865846/griner_hele_vejen_teaser.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Sorte T-Shirts</title>
+			<link>https://api.spreaker.com/download/episode/53739554/s1_a9_noget_om_sorte_t_shirts_podcast.mp3</link>
+			<description>I denne uge snakker vi med Julius, som er i gang med en lystekniker-uddannelse i London.Dine værter er Mia Marie Lyngsø og Jeppe Schartau.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53739554/s1_a9_noget_om_sorte_t_shirts_podcast.mp3</guid>
+			<pubDate>Sun, 07 May 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53739554/s1_a9_noget_om_sorte_t_shirts_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Noget om Frontsession og Musiklivet med Peter Clausen</title>
+			<link>https://api.spreaker.com/download/episode/53804590/s1_a10_noget_om_frontsession_og_musiklivet_med_peter_clausen_podcast.mp3</link>
+			<description>I denne uge snakker vi med Peter Clausen, som til dagligt er underviser på dagshøjskolen Frontsession i Aarhus. Vi kommer til at snakke om hans vej ind i musikbranchen og om livet som underviser i musik.Dine værter er Mia Marie Lyngsø og Jeppe Schartau.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53804590/s1_a10_noget_om_frontsession_og_musiklivet_med_peter_clausen_podcast.mp3</guid>
+			<pubDate>Sun, 14 May 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53804590/s1_a10_noget_om_frontsession_og_musiklivet_med_peter_clausen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
