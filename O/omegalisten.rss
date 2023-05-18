@@ -1315,5 +1315,23 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>00:00:17</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/48932473/omegalisten_teaser.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Late night Venture er i konstant udvikling.</title>
+			<link>https://api.spreaker.com/download/episode/53915722/late_night.mp3</link>
+			<description> Omegalisten har i denne udsendelse besøg af bandet Late Night Venture. Deres musik er tungt, eksperimenterende, dystert og enormt atmosfæriskLate Night Venture udgav her d. 17 marts deres femte album Bones Of The Extinct.Lyt med når Jens &amp; Jonas fortæller om deres nyeste album og am al den musik de er dannet af det gør Late Night Venture til det band det er,  selv 20 år efter de startede projektet. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53915722/late_night.mp3</guid>
+			<pubDate>Thu, 18 May 2023 08:04:31 +0000</pubDate>
+			<itunes:duration>01:02:12</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53915722/late_night.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Koncertfotograf Adriana Zak ser mennesket i et sort hvids parallel universe</title>
+			<link>https://api.spreaker.com/download/episode/53915612/adriana.mp3</link>
+			<description>Stine Omega har i denne udsendelse, fået besøg af den gudbenådede koncertfotograf Adriana Zak.I den følgende time træder lytterne ind i Adrinanas sort/hvide univers og taler om hendes fotokunst og al den musik som har været med til at danne hende personligt, men også den musik som  en stor del af hendes kunstneriske univers.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53915612/adriana.mp3</guid>
+			<pubDate>Thu, 18 May 2023 07:35:39 +0000</pubDate>
+			<itunes:duration>01:19:36</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53915612/adriana.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
