@@ -5,6 +5,10 @@ from datetime import datetime
 import xml.dom.minidom
 from xml.sax.saxutils import escape
 from bs4 import BeautifulSoup
+import os
+import warnings
+
+warnings.filterwarnings("ignore", category=UserWarning, module='bs4')
 
 def create_rss_feed(podcast_data):
     rss = ET.Element('rss', {'version': '2.0'})
@@ -86,8 +90,14 @@ def convert_duration_to_formatted_string(duration):
     return duration_formatted
 
 def write_rss_feed_to_file(rss, podcast_data):
+    folder_name = podcast_data['alt_text'][0]
+    if folder_name.isdigit():
+        folder_name = '0-9'
     file_name = podcast_data['alt_text'].replace('/', '_').replace('?', '_').replace(' ', '_').lower()
-    with open(f"{file_name}.rss", 'w', encoding='utf-8') as feed_file:
+    folder_path = os.path.join('podcasts', folder_name)
+    os.makedirs(folder_path, exist_ok=True)
+    file_path = os.path.join(folder_path, f"{file_name}.rss")
+    with open(file_path, 'w', encoding='utf-8') as feed_file:
         xml_string = xml.dom.minidom.parseString(ET.tostring(rss)).toprettyxml()
         feed_file.write(xml_string)
 

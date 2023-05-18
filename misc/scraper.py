@@ -7,7 +7,7 @@ auth_key = "din egen nøgle"
 with open('data.json', 'r') as f:
     podcasts = json.load(f)
 
-blacklist = []
+blacklist = ['5087', '4904', '4008']
 
 # Opret en dictionary til at holde navnet på podcasten og dens episoder
 podcast_dict = {}
