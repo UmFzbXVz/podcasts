@@ -7,6 +7,15 @@
 		<language>da-DK</language>
 		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/952/Med_noget_pa%CC%8A_spil.jpeg"/>
 		<item>
+			<title>S3, E10: Tour de venner - ved vejs ende</title>
+			<link>https://api.spreaker.com/download/episode/53789807/e10_pod.mp3</link>
+			<description>I dagens og sæsonens sidste afsnit er konceptet blevet vendt på hovedet: efter en sejlivet snak om tyverne de sidste 9 afsnit er der kun ét at gøre, idet William og Mille drikker sig fulde, og på skift får nye venner ind i studiet. Der skal i øvrigt lyde et stort tak for denne gang, og for det delte værtskab for Med Noget På Spil.Næste gang gives batonen videre til Christoffer og Morten, der åbner ballet for en ny sæson om hvordan det er at leve af kreativitet.Tilrettelæggere &amp; moderatorer: Mille Mai Kofoed, moderator @Millemkofoed &amp; William Skov Rogaczewski Kristensen, moderator @Williamskov_kristensenProgramidé &amp; tekniker: Lin Hartley (Elev- og StudenterKooperativet)Klipper: Jon BjarnhofGæster: Sarah Basse, Ulrike Trabjierg, Oscar Bendix, Lasse Borris Andersen, Oliver Asmund Bornemann, Isabella Skov Rogaczewski Kristensen, Aldo Zocca, Sille Bennet &amp; Isolde Johnsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53789807/e10_pod.mp3</guid>
+			<pubDate>Mon, 15 May 2023 05:00:01 +0000</pubDate>
+			<itunes:duration>01:23:44</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53789807/e10_pod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
 			<title>S3, E09: Welcome to the big apple</title>
 			<link>https://api.spreaker.com/download/episode/53663303/e9_pod.mp3</link>
 			<description>I dagens afsnit har vi inviteret en helt særlig gæst ind: Flora. København fremstår som en summende metropol, som tit giver anledning til FOMO - men hvad vil det egentligt sige at være københavner? Kan man overhovedet opstille ét sådant begreb? I dagens afsnit har William og Mille inviteret en OG-københavner ind. Flora har en unicorn og har levet hele sit liv i København, og deler ud af sine gode tips og tricks og do’s and don’ts. Mille og William fortsætter med at sætte skarpt på 20’erne, med store spørgsmål, latter og god musik, det skal nok blive sjovt! Tilrettelæggere &amp; moderatorer: Mille Mai Kofoed, moderator @Millemkofoed &amp; William Skov Rogaczewski Kristensen, moderator @Williamskov_kristensen.Programidé og klipper: Lin Hartley (Elev- og StudenterKooperativet)Tekniker og klipper: Jon Modahl BjarnhofGæst: Flora Frydendal</description>
@@ -293,15 +302,6 @@
 			<pubDate>Thu, 04 Aug 2022 13:07:13 +0000</pubDate>
 			<itunes:duration>00:00:38</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/50812937/med_noget_p_spil_teaser_mp3_1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>S3, E10: Tour de venner - ved vejs ende</title>
-			<link>https://api.spreaker.com/download/episode/53789807/e10_pod.mp3</link>
-			<description>I dagens og sæsonens sidste afsnit er konceptet blevet vendt på hovedet: efter en sejlivet snak om tyverne de sidste 9 afsnit er der kun ét at gøre, idet William og Mille drikker sig fulde, og på skift får nye venner ind i studiet. Der skal i øvrigt lyde et stort tak for denne gang, og for det delte værtskab for Med Noget På Spil.Næste gang gives batonen videre til Christoffer og Morten, der åbner ballet for en ny sæson om hvordan det er at leve af kreativitet.Tilrettelæggere &amp; moderatorer: Mille Mai Kofoed, moderator @Millemkofoed &amp; William Skov Rogaczewski Kristensen, moderator @Williamskov_kristensenProgramidé &amp; tekniker: Lin Hartley (Elev- og StudenterKooperativet)Klipper: Jon BjarnhofGæster: Sarah Basse, Ulrike Trabjierg, Oscar Bendix, Lasse Borris Andersen, Oliver Asmund Bornemann, Isabella Skov Rogaczewski Kristensen, Aldo Zocca, Sille Bennet &amp; Isolde Johnsen.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53789807/e10_pod.mp3</guid>
-			<pubDate>Mon, 15 May 2023 05:00:01 +0000</pubDate>
-			<itunes:duration>01:23:44</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53789807/e10_pod.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>

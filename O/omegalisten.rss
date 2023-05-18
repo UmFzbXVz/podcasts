@@ -7,6 +7,24 @@
 		<language>da-DK</language>
 		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/930/3ce5799caf7d2b75029a6b34df6dd324.png"/>
 		<item>
+			<title>Louise Lolle - Musikken healer alt.</title>
+			<link>https://api.spreaker.com/download/episode/53826462/lolle_spreaker.mp3</link>
+			<description>Louise Lolle er nok mest kendt fra at havde været en del af den succesfulde gruppe Eyeq.Men udover det har hun en årlang karriere som, journalist, radiovært og musiker. Hun var sidste  sit første udgav hun sit første soloalbum ´Elle Elle´, som hun selv udtaler, har taget hende 20 år at udgive.Lyt med når Louise igennem musik, fortæller hendes egen historie fra barnsben og optil i dag.En fortælling om at bliver suget ind i en giftig branche,opgøret med de traumer der fulgte med og finde helt ind til sig selv igen og ture stole på at man er god nok til at stå helt forrest på scenen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53826462/lolle_spreaker.mp3</guid>
+			<pubDate>Fri, 12 May 2023 05:14:44 +0000</pubDate>
+			<itunes:duration>00:53:51</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53826462/lolle_spreaker.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Al Jacobi - 100 koncerter på 100 dage</title>
+			<link>https://api.spreaker.com/download/episode/53826458/al_jacobi.mp3</link>
+			<description>Bag kunstnernavnet Al Jacobi, gemmer sig personen Rune Mørch.Rune er rapper men også sangskriver med stort S. Han er ikke bange for at lege med forskellige elementer i hans musik og vil gerne gøre op med nogle af de fordomme der er i omkring hip hop.Og så har netop afsluttet sin tour hvor han har spillet over 100 koncerter i både hjem og udland.Lyt med når Rune fortæller sin personlige musikalske historie og hvad der giver ham et drive til at blive ved med at udfordre og udvikle sin sangskrivning og sin musik.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53826458/al_jacobi.mp3</guid>
+			<pubDate>Fri, 12 May 2023 04:59:47 +0000</pubDate>
+			<itunes:duration>00:53:56</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53826458/al_jacobi.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
 			<title>Riverhead - 0806 ud af mørket.</title>
 			<link>https://api.spreaker.com/download/episode/53670160/riverheas_spreaker.mp3</link>
 			<description>Det danske band Riverhead udgiver d.28 april deres andet album `Cancer´Et album som har været længe undervejs og lavet i en periode med personligt kaos og sygdom i bandet.Men trods bandets udfordringer, har de formået at komme i mål med pladen, glade og veltilfredse.Nøglen til at albummet lykkes kan måske være det stærke venskab og og kemien der er i bandet ?Lyt med når Martin, Mads, Jacob &amp; Mixen fortæller om hvordan bandet opstod, deres helt unikke og intense rejse samt udvilkingen til det band de er i dag.</description>
@@ -385,15 +403,6 @@
 			<enclosure url="https://api.spreaker.com/download/episode/52198026/radio_loud_on_air_2022_12_15_18_06_06.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
-			<title>The New Weavers - Hvad betyder Fællesskab &amp;amp; Rock N Roll ?</title>
-			<link>https://api.spreaker.com/download/episode/52133358/radio_loud_on_air_2022_12_08_18_06_03.mp3</link>
-			<description>Omegalisten har i denne time besøg af et rock band som flirter med lyden af 70erne. Tænk på bands som Creedence Clearwater Revival, 70ernes Rolling Stones of meget mere. Men hvorfor have et band i 2022 hvor lyden er som i 1970erne ? Hvad er det som er så specielt ved 70 ernes lyd? Og er der andet musik end 70erne som inspirerer dette retroband ? Alt det og meget mere skal vi tale om i denne time hvor jeg har besøg af Morten og Niels fra The New Weavers.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/52133358/radio_loud_on_air_2022_12_08_18_06_03.mp3</guid>
-			<pubDate>Fri, 09 Dec 2022 07:00:03 +0000</pubDate>
-			<itunes:duration>00:53:48</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/52133358/radio_loud_on_air_2022_12_08_18_06_03.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
 			<title>Omegalisten praktikant Solbjørk anbefaler</title>
 			<link>https://api.spreaker.com/download/episode/52133453/radio_loud_on_air_2022_12_08_20_12_16.mp3</link>
 			<description>Omegalisten har haft besøg af en praktikant, Solbjørk Fuglsang Svendsen. Solbjørk er vokset op i en familie med meget musik. Hendes forældre er musikere og har selv en kæmpe interesse for musik.Lyt med når Stine og Solbjørk anbefaler forskellige artister.</description>
@@ -401,6 +410,15 @@
 			<pubDate>Fri, 09 Dec 2022 07:00:03 +0000</pubDate>
 			<itunes:duration>00:47:28</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/52133453/radio_loud_on_air_2022_12_08_20_12_16.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>The New Weavers - Hvad betyder Fællesskab &amp;amp; Rock N Roll ?</title>
+			<link>https://api.spreaker.com/download/episode/52133358/radio_loud_on_air_2022_12_08_18_06_03.mp3</link>
+			<description>Omegalisten har i denne time besøg af et rock band som flirter med lyden af 70erne. Tænk på bands som Creedence Clearwater Revival, 70ernes Rolling Stones of meget mere. Men hvorfor have et band i 2022 hvor lyden er som i 1970erne ? Hvad er det som er så specielt ved 70 ernes lyd? Og er der andet musik end 70erne som inspirerer dette retroband ? Alt det og meget mere skal vi tale om i denne time hvor jeg har besøg af Morten og Niels fra The New Weavers.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/52133358/radio_loud_on_air_2022_12_08_18_06_03.mp3</guid>
+			<pubDate>Fri, 09 Dec 2022 07:00:03 +0000</pubDate>
+			<itunes:duration>00:53:48</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/52133358/radio_loud_on_air_2022_12_08_18_06_03.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
 			<title>HOLM - Om familiebånd, selvindsigt og ny lyd</title>
@@ -547,15 +565,6 @@
 			<enclosure url="https://api.spreaker.com/download/episode/51637614/marie_hald.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
-			<title>Anders Rex - Music By Idiots `Historien om punk og en mands musikalske livstykke´</title>
-			<link>https://api.spreaker.com/download/episode/51568632/radio_loud_on_air_2022_10_13_18_06_26.mp3</link>
-			<description>Omegaliste har i denne episode besøg af en ret så erfaren herre og komponist. Han startede med at spille punkmusik som 14 årig i 1979 og har et kæmpe musikalsk bagkatalog hvor han blandt andet har spillet sammen med kunstnere som Peter Kyed og har også arbejdet sammen med Peter Peter i Bleeder Groupe. Lyden af hans egen musik er eksperimenterende,  rå, grænsesøgende og ikke mindst kunstnerisk og med plads til den gode melodi.  Han er d.27 oktober aktuel med hans debut album Tiden Flyver under navnet Music By Idiots.Fandenivoldsk og uden filter i ord og lyd byder jeg velkommen til Anders Rex. .</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/51568632/radio_loud_on_air_2022_10_13_18_06_26.mp3</guid>
-			<pubDate>Fri, 14 Oct 2022 06:30:02 +0000</pubDate>
-			<itunes:duration>00:51:53</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/51568632/radio_loud_on_air_2022_10_13_18_06_26.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
 			<title>Kirstine Stubbe Teglbjærg - Sitrekin, rollemodeller, hamskifte og blomstring</title>
 			<link>https://api.spreaker.com/download/episode/51568695/radio_loud_on_air_2022_10_13_19_06_22.mp3</link>
 			<description>Omegalisten har i aften besøg af sangskriver, producer og komponist som har en helt unik evne til at kreere et drømmende og atmosfærisk univers tilsat et drys af pop vibes. Hun har været en del af den danske musikbranche i mange år og kendt for hendes ja vel nærmest ikoniske vokal.Navnet Kirstine Stubbe Teglbjærg, kendt fra bandet Blue Foundation, medstifter af Hunsolo og nu aktuel med sit solo projekt Sitrekin og det er mig en kæmpe fornøjelse at byde hende velkommen til denne time af Omegalisten!</description>
@@ -563,6 +572,15 @@
 			<pubDate>Fri, 14 Oct 2022 06:30:02 +0000</pubDate>
 			<itunes:duration>00:53:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/51568695/radio_loud_on_air_2022_10_13_19_06_22.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Anders Rex - Music By Idiots `Historien om punk og en mands musikalske livstykke´</title>
+			<link>https://api.spreaker.com/download/episode/51568632/radio_loud_on_air_2022_10_13_18_06_26.mp3</link>
+			<description>Omegaliste har i denne episode besøg af en ret så erfaren herre og komponist. Han startede med at spille punkmusik som 14 årig i 1979 og har et kæmpe musikalsk bagkatalog hvor han blandt andet har spillet sammen med kunstnere som Peter Kyed og har også arbejdet sammen med Peter Peter i Bleeder Groupe. Lyden af hans egen musik er eksperimenterende,  rå, grænsesøgende og ikke mindst kunstnerisk og med plads til den gode melodi.  Han er d.27 oktober aktuel med hans debut album Tiden Flyver under navnet Music By Idiots.Fandenivoldsk og uden filter i ord og lyd byder jeg velkommen til Anders Rex. .</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/51568632/radio_loud_on_air_2022_10_13_18_06_26.mp3</guid>
+			<pubDate>Fri, 14 Oct 2022 06:30:02 +0000</pubDate>
+			<itunes:duration>00:51:53</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/51568632/radio_loud_on_air_2022_10_13_18_06_26.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
 			<title>Mythic Sunship -  Magic cards og fællesskabet i den musikalske skabelsesprocess.</title>
@@ -727,15 +745,6 @@
 			<enclosure url="https://api.spreaker.com/download/episode/50889918/omega_uh_rt.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
-			<title>Omegalisten - Frigjort festivalen</title>
-			<link>https://api.spreaker.com/download/episode/50816457/frigjort.mp3</link>
-			<description>I dette herrens år 2022 har der aldrig været flere festivaler rundt om i Danmark. Det spirer med nye tiltag, genre og unikke musikalske herligheder.  Denne episodes gæster er ingen undtagelse, Frigjort festivalen har fokus på undergrunden i den danske musikbranche.  Derfor byder Stine Omega i denne time velkommen til tre af de personer som har været med til at lave frigjort festival, nemlig Niklas, Frederik og Sara som sammen med Stine Omega, vil skabe en helt speciel playliste i Frigjorts ånd.Hør Frigjort festivalens playliste her:https://open.spotify.com/playlist/7uCd3JKIZ5F1RKhIKWejnk?si=40cdf39d8faf4d12</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50816457/frigjort.mp3</guid>
-			<pubDate>Fri, 05 Aug 2022 06:30:02 +0000</pubDate>
-			<itunes:duration>00:52:36</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50816457/frigjort.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
 			<title>Omegalisten - Gutter Island festivalen</title>
 			<link>https://api.spreaker.com/download/episode/50816498/gutter_island.mp3</link>
 			<description>Gutter Island Festivalen, er nok en af Danmarks mest hæs blæsende Rock´n´Roll festivaller !I denne udgave af Omegalisten, får Stine Omega besøg af Gutter Island booker Anderz og for-kalif Kasper, som har været med helt fra starten og op til i dag. Sammen taler de om, den helt specielle Gutter Island stemning,  face slaps med pølser og vilde røver historier og laver en helt unik Gutter Island playliste.Hold på hat og briller!Lyt til Gutter Islands playliste her: https://open.spotify.com/playlist/2oE3jPwhhvTWKDdSFRJB2M?si=5283d457b12843ad</description>
@@ -745,13 +754,13 @@
 			<enclosure url="https://api.spreaker.com/download/episode/50816498/gutter_island.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
-			<title>Omegalisten - Om at finde det smukke i det grimme</title>
-			<link>https://api.spreaker.com/download/episode/50744401/radio_loud_on_air_2022_07_28_19_06_07.mp3</link>
-			<description>Omegalisten handler i denne episode om at finde det smukke og tiltalende i det smadrede og grimme.Om det så er i musikken, kunsten eller livet. Må vi opretholde en balance med det grimme og det smukke i livet for at kunne været til? Alt det og meget mere får i svar på i denne udgave af Omegalisten, ikke mindst og med kyndig hjælp og selskab fra de to kunstner John Kenn Mortensen og Jakob Hammer Møgelvang</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50744401/radio_loud_on_air_2022_07_28_19_06_07.mp3</guid>
-			<pubDate>Fri, 29 Jul 2022 06:30:02 +0000</pubDate>
-			<itunes:duration>00:53:47</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50744401/radio_loud_on_air_2022_07_28_19_06_07.mp3" length="31457280" type="audio/mpeg"/>
+			<title>Omegalisten - Frigjort festivalen</title>
+			<link>https://api.spreaker.com/download/episode/50816457/frigjort.mp3</link>
+			<description>I dette herrens år 2022 har der aldrig været flere festivaler rundt om i Danmark. Det spirer med nye tiltag, genre og unikke musikalske herligheder.  Denne episodes gæster er ingen undtagelse, Frigjort festivalen har fokus på undergrunden i den danske musikbranche.  Derfor byder Stine Omega i denne time velkommen til tre af de personer som har været med til at lave frigjort festival, nemlig Niklas, Frederik og Sara som sammen med Stine Omega, vil skabe en helt speciel playliste i Frigjorts ånd.Hør Frigjort festivalens playliste her:https://open.spotify.com/playlist/7uCd3JKIZ5F1RKhIKWejnk?si=40cdf39d8faf4d12</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50816457/frigjort.mp3</guid>
+			<pubDate>Fri, 05 Aug 2022 06:30:02 +0000</pubDate>
+			<itunes:duration>00:52:36</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/50816457/frigjort.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
 			<title>Omegalisten- John Kenn Mortensen</title>
@@ -761,6 +770,15 @@
 			<pubDate>Fri, 29 Jul 2022 06:30:02 +0000</pubDate>
 			<itunes:duration>00:53:47</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/50744382/radio_loud_on_air_2022_07_28_18_06_07.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Omegalisten - Om at finde det smukke i det grimme</title>
+			<link>https://api.spreaker.com/download/episode/50744401/radio_loud_on_air_2022_07_28_19_06_07.mp3</link>
+			<description>Omegalisten handler i denne episode om at finde det smukke og tiltalende i det smadrede og grimme.Om det så er i musikken, kunsten eller livet. Må vi opretholde en balance med det grimme og det smukke i livet for at kunne været til? Alt det og meget mere får i svar på i denne udgave af Omegalisten, ikke mindst og med kyndig hjælp og selskab fra de to kunstner John Kenn Mortensen og Jakob Hammer Møgelvang</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50744401/radio_loud_on_air_2022_07_28_19_06_07.mp3</guid>
+			<pubDate>Fri, 29 Jul 2022 06:30:02 +0000</pubDate>
+			<itunes:duration>00:53:47</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/50744401/radio_loud_on_air_2022_07_28_19_06_07.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
 			<title>Omegalisten - The Lost Weekend</title>
@@ -816,6 +834,18 @@ Lyt til Trentemøllers playliste her: https://open.spotify.com/playlist/17l2qbx2
 			<enclosure url="https://api.spreaker.com/download/episode/50575092/omegalisten_trentem_ller.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
+			<title>Omegalisten Goes Country Del 2 - Tobias Berblinger</title>
+			<link>https://api.spreaker.com/download/episode/50500793/country_del_to.mp3</link>
+			<description>Endnu en time i country musikkens tegn. Musiker og country expert Peter Knudsen er med i første del og i anden del har Stine Omega &quot;besøg&quot; via telefon af musiker, producer og DJ Tobias Berblinger, kendt fra bands som Roselit Bone og Kassi Valassa. 
+
+Lyt til den store country playliste her:
+https://open.spotify.com/playlist/0a0cCCkc1B18ikHYjAVuXA?si=84a72c3275ec40d8</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50500793/country_del_to.mp3</guid>
+			<pubDate>Fri, 08 Jul 2022 06:30:02 +0000</pubDate>
+			<itunes:duration>00:53:55</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/50500793/country_del_to.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
 			<title>Omegalisten goes Country del 1. med Peter Knudsen</title>
 			<link>https://api.spreaker.com/download/episode/50500753/country_listemn_f_rste_time.mp3</link>
 			<description>En ægte nørdet time, i country musikkens tegn.
@@ -829,18 +859,6 @@ https://open.spotify.com/playlist/34uBJIeGCsH1GhHt8iy0fl?si=23606a3fde33449c</de
 			<pubDate>Fri, 08 Jul 2022 06:30:02 +0000</pubDate>
 			<itunes:duration>00:53:48</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/50500753/country_listemn_f_rste_time.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Omegalisten Goes Country Del 2 - Tobias Berblinger</title>
-			<link>https://api.spreaker.com/download/episode/50500793/country_del_to.mp3</link>
-			<description>Endnu en time i country musikkens tegn. Musiker og country expert Peter Knudsen er med i første del og i anden del har Stine Omega &quot;besøg&quot; via telefon af musiker, producer og DJ Tobias Berblinger, kendt fra bands som Roselit Bone og Kassi Valassa. 
-
-Lyt til den store country playliste her:
-https://open.spotify.com/playlist/0a0cCCkc1B18ikHYjAVuXA?si=84a72c3275ec40d8</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50500793/country_del_to.mp3</guid>
-			<pubDate>Fri, 08 Jul 2022 06:30:02 +0000</pubDate>
-			<itunes:duration>00:53:55</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50500793/country_del_to.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
 			<title>Omegalisten - Whistler</title>
@@ -871,6 +889,16 @@ https://open.spotify.com/playlist/5lCgZgrbayDvTa2h5yeL3z?si=709770fea4c44446</de
 			<enclosure url="https://api.spreaker.com/download/episode/50424475/whistler_anbefaler.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
+			<title>Omegalisten - Mai Ulrikka Sydendal &amp;amp; Gorilla Angreb</title>
+			<link>https://api.spreaker.com/download/episode/50311548/mai_omega.mp3</link>
+			<description>Frontperson i nok et af de mest legendariske punk bands - Gorilla Angreb. Tager os igennem hendes musikalske ophav, fra barns ben med 80er musik, til grunge og punk.
+Mai Ulrikka Sydendal er gæst og det går ikke stille for sig, når hun guider os alle sammen igennem et musikalsk univers fyldt med vildskabens skønhed.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50311548/mai_omega.mp3</guid>
+			<pubDate>Fri, 24 Jun 2022 06:30:02 +0000</pubDate>
+			<itunes:duration>00:53:44</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/50311548/mai_omega.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
 			<title>Omegalisten - HEX HEX HEX!</title>
 			<link>https://api.spreaker.com/download/episode/50311520/hex_omega.mp3</link>
 			<description>I dene time af Omegalisten, har Stine Omega besøg af sangerinde og praktiserende heks Mai Ulrikka Sydendal til en samtale om heksens væsen og værk.
@@ -883,30 +911,6 @@ https://open.spotify.com/playlist/3WbBGzSN3l28gyv1tsrN5R?si=63d1f7c7219b4298</de
 			<pubDate>Fri, 24 Jun 2022 06:30:02 +0000</pubDate>
 			<itunes:duration>00:53:51</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/50311520/hex_omega.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Omegalisten - Mai Ulrikka Sydendal &amp;amp; Gorilla Angreb</title>
-			<link>https://api.spreaker.com/download/episode/50311548/mai_omega.mp3</link>
-			<description>Frontperson i nok et af de mest legendariske punk bands - Gorilla Angreb. Tager os igennem hendes musikalske ophav, fra barns ben med 80er musik, til grunge og punk.
-Mai Ulrikka Sydendal er gæst og det går ikke stille for sig, når hun guider os alle sammen igennem et musikalsk univers fyldt med vildskabens skønhed.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50311548/mai_omega.mp3</guid>
-			<pubDate>Fri, 24 Jun 2022 06:30:02 +0000</pubDate>
-			<itunes:duration>00:53:44</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50311548/mai_omega.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Leizure anbefaler!</title>
-			<link>https://api.spreaker.com/download/episode/50229600/leizure_anbefaler.mp3</link>
-			<description>I denne time af Omegalisten anbefaler Leizure forskellige bands og artister som vi alle burde lytte lidt mere til.
-Listen spænder bredt fra Iransk 70erne rock til New Yorker Hip Hop.
-Et super spændene mix.
-
-Se playlisten her:
-https://open.spotify.com/playlist/1C892QExJw3PclQeNfgGam?si=6261d802ac8641ef</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50229600/leizure_anbefaler.mp3</guid>
-			<pubDate>Fri, 17 Jun 2022 06:30:02 +0000</pubDate>
-			<itunes:duration>00:53:28</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50229600/leizure_anbefaler.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
 			<title>Omegalisten med Leizure</title>
@@ -923,14 +927,18 @@ https://open.spotify.com/playlist/4giPZWPivXq1RvoJeIhqLV?si=ac71a18fcb3d41a9</de
 			<enclosure url="https://api.spreaker.com/download/episode/50229462/leizure_omegalisten.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
-			<title>Omegalisten med Aske Skat</title>
-			<link>https://api.spreaker.com/download/episode/50147422/omegalisten_aske_skat.mp3</link>
-			<description>Musikeren og ikke mindst magikeren Aske Skat er med i denne time af Omegalisten.
-Lyt med når han sammen med Stine Omega gennemgår hans musikalske ophav og taler om, George Harrison, MF Doom og hans nye plade The Highland.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50147422/omegalisten_aske_skat.mp3</guid>
-			<pubDate>Fri, 10 Jun 2022 06:30:02 +0000</pubDate>
-			<itunes:duration>00:53:41</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50147422/omegalisten_aske_skat.mp3" length="31457280" type="audio/mpeg"/>
+			<title>Leizure anbefaler!</title>
+			<link>https://api.spreaker.com/download/episode/50229600/leizure_anbefaler.mp3</link>
+			<description>I denne time af Omegalisten anbefaler Leizure forskellige bands og artister som vi alle burde lytte lidt mere til.
+Listen spænder bredt fra Iransk 70erne rock til New Yorker Hip Hop.
+Et super spændene mix.
+
+Se playlisten her:
+https://open.spotify.com/playlist/1C892QExJw3PclQeNfgGam?si=6261d802ac8641ef</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50229600/leizure_anbefaler.mp3</guid>
+			<pubDate>Fri, 17 Jun 2022 06:30:02 +0000</pubDate>
+			<itunes:duration>00:53:28</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/50229600/leizure_anbefaler.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
 			<title>Omegalisten med Banjo &amp;amp; Disco aka  Tobias Winberg &amp;amp; Aske Skat</title>
@@ -946,6 +954,16 @@ https://open.spotify.com/playlist/6GX96hFXqLnnE4KJOibp9s?si=cc6d29e102af4944</de
 			<pubDate>Fri, 10 Jun 2022 06:30:02 +0000</pubDate>
 			<itunes:duration>00:53:14</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/50147345/aske_og_tobias.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Omegalisten med Aske Skat</title>
+			<link>https://api.spreaker.com/download/episode/50147422/omegalisten_aske_skat.mp3</link>
+			<description>Musikeren og ikke mindst magikeren Aske Skat er med i denne time af Omegalisten.
+Lyt med når han sammen med Stine Omega gennemgår hans musikalske ophav og taler om, George Harrison, MF Doom og hans nye plade The Highland.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50147422/omegalisten_aske_skat.mp3</guid>
+			<pubDate>Fri, 10 Jun 2022 06:30:02 +0000</pubDate>
+			<itunes:duration>00:53:41</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/50147422/omegalisten_aske_skat.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 		<item>
 			<title>Omegalisten - Depeche Mode Special</title>
@@ -1296,24 +1314,6 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<pubDate>Thu, 03 Mar 2022 08:11:56 +0000</pubDate>
 			<itunes:duration>00:00:17</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/48932473/omegalisten_teaser.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Louise Lolle - Musikken healer alt.</title>
-			<link>https://api.spreaker.com/download/episode/53826462/lolle_spreaker.mp3</link>
-			<description>Louise Lolle er nok mest kendt fra at havde været en del af den succesfulde gruppe Eyeq.Men udover det har hun en årlang karriere som, journalist, radiovært og musiker. Hun var sidste  sit første udgav hun sit første soloalbum ´Elle Elle´, som hun selv udtaler, har taget hende 20 år at udgive.Lyt med når Louise igennem musik, fortæller hendes egen historie fra barnsben og optil i dag.En fortælling om at bliver suget ind i en giftig branche,opgøret med de traumer der fulgte med og finde helt ind til sig selv igen og ture stole på at man er god nok til at stå helt forrest på scenen.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53826462/lolle_spreaker.mp3</guid>
-			<pubDate>Fri, 12 May 2023 05:14:44 +0000</pubDate>
-			<itunes:duration>00:53:51</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53826462/lolle_spreaker.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Al Jacobi - 100 koncerter på 100 dage</title>
-			<link>https://api.spreaker.com/download/episode/53826458/al_jacobi.mp3</link>
-			<description>Bag kunstnernavnet Al Jacobi, gemmer sig personen Rune Mørch.Rune er rapper men også sangskriver med stort S. Han er ikke bange for at lege med forskellige elementer i hans musik og vil gerne gøre op med nogle af de fordomme der er i omkring hip hop.Og så har netop afsluttet sin tour hvor han har spillet over 100 koncerter i både hjem og udland.Lyt med når Rune fortæller sin personlige musikalske historie og hvad der giver ham et drive til at blive ved med at udfordre og udvikle sin sangskrivning og sin musik.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53826458/al_jacobi.mp3</guid>
-			<pubDate>Fri, 12 May 2023 04:59:47 +0000</pubDate>
-			<itunes:duration>00:53:56</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53826458/al_jacobi.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>

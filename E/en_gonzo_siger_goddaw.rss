@@ -8,6 +8,15 @@
 		<language>da-DK</language>
 		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/987/gonzo_goddaw_ny.png"/>
 		<item>
+			<title>Afsnit 6: Mediepsykokatens vennekreds</title>
+			<link>https://api.spreaker.com/download/episode/53905859/gonzo6.mp3</link>
+			<description>Bøtten ankom til radioen glad, frisk og udadvendt, og spurtede lige ind i en glasvæg. På den måde ligner Bøtten måske mere René end sin ejermand, Maya Tekeli. Vi bruger en time på at gøre os klar til at dechifrere medie-skolegården ud fra temaerne mediepsykopat vs. medienarkoman. Og selvfølgelig genopfindelse vs. genopdagelse. Og ikke mindst følelsen af utilstrækkelighed. Da vi næsten er klar til at gå i seriøs optagelse, er tiden brugt. Det skal vi beklage.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53905859/gonzo6.mp3</guid>
+			<pubDate>Thu, 18 May 2023 04:00:02 +0000</pubDate>
+			<itunes:duration>00:59:11</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53905859/gonzo6.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
 			<title>Afsnit 5: This is not a fjolleafsnit #2 feat. Manden, der badede med krokodiller</title>
 			<link>https://api.spreaker.com/download/episode/53738814/gonzo_goddag_5.mp3</link>
 			<description>Det går op for René, at den nye sæson af Gonzo er første sæson indspillet baglæns. Og at det muligvis kræver en såkaldt psykiatrisk udredning at komme væk fra gentagelserne i det hele taget. Vi ringer derfor (igen) til efterskolevennen Jan René, der er vendt tilbage til livet efter en hjerneskade. Han besluttede sig for at finde ud, hvad han var bange for.</description>
@@ -51,15 +60,6 @@
 			<pubDate>Tue, 04 Apr 2023 07:46:36 +0000</pubDate>
 			<itunes:duration>00:27:45</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53437256/gonzo_1_prolog.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Afsnit 6: Mediepsykokatens vennekreds</title>
-			<link>https://api.spreaker.com/download/episode/53905859/gonzo6.mp3</link>
-			<description>Bøtten ankom til radioen glad, frisk og udadvendt, og spurtede lige ind i en glasvæg. På den måde ligner Bøtten måske mere René end sin ejermand, Maya Tekeli. Vi bruger en time på at gøre os klar til at dechifrere medie-skolegården ud fra temaerne mediepsykopat vs. medienarkoman. Og selvfølgelig genopfindelse vs. genopdagelse. Og ikke mindst følelsen af utilstrækkelighed. Da vi næsten er klar til at gå i seriøs optagelse, er tiden brugt. Det skal vi beklage.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53905859/gonzo6.mp3</guid>
-			<pubDate>Thu, 18 May 2023 04:00:02 +0000</pubDate>
-			<itunes:duration>00:59:11</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53905859/gonzo6.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>

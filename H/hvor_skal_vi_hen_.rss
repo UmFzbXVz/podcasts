@@ -7,6 +7,15 @@
 		<language>da-DK</language>
 		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/986/dd.jpeg"/>
 		<item>
+			<title>Jonas Bøgedal: &quot;Hvad skulle livet ellers være udover at gå efter at blive succesfuld&quot; ft. Anton Nørbæk</title>
+			<link>https://api.spreaker.com/download/episode/53888857/jonas_og_anton_uploud_online_audio_converter_com.mp3</link>
+			<description>Dette er en lidt anderledes udgave af 'Hvor skal vi hen?' - For Aleksander har i dag taget Anton Nørbæk med som gæstevært, og Anton har taget en overraskelse med. Overraskelsen er Jonas Bøgedal, som er en vaskeægte iværksætter og content creator. Han har 15 års erfaring i videoproduktionenbranchen - og det er ikke så lidt når man er 25 år gammel. Han har bl.a. lavet YouTube-sentationen OddMoles, arbejdet for nogen af de største youtubere i Danmark og skabt sit eget produktionsselskab Ejour.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53888857/jonas_og_anton_uploud_online_audio_converter_com.mp3</guid>
+			<pubDate>Wed, 17 May 2023 05:05:01 +0000</pubDate>
+			<itunes:duration>00:53:45</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53888857/jonas_og_anton_uploud_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
 			<title>Daniel Schulz</title>
 			<link>https://api.spreaker.com/download/episode/53684947/daniel_uploud_online_audio_converter_com.mp3</link>
 			<description/>
@@ -68,15 +77,6 @@
 			<pubDate>Fri, 03 Mar 2023 05:55:34 +0000</pubDate>
 			<itunes:duration>00:53:56</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53076042/sebastian_bull_interview_uploud_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jonas Bøgedal: &quot;Hvad skulle livet ellers være udover at gå efter at blive succesfuld&quot; ft. Anton Nørbæk</title>
-			<link>https://api.spreaker.com/download/episode/53888857/jonas_og_anton_uploud_online_audio_converter_com.mp3</link>
-			<description>Dette er en lidt anderledes udgave af 'Hvor skal vi hen?' - For Aleksander har i dag taget Anton Nørbæk med som gæstevært, og Anton har taget en overraskelse med. Overraskelsen er Jonas Bøgedal, som er en vaskeægte iværksætter og content creator. Han har 15 års erfaring i videoproduktionenbranchen - og det er ikke så lidt når man er 25 år gammel. Han har bl.a. lavet YouTube-sentationen OddMoles, arbejdet for nogen af de største youtubere i Danmark og skabt sit eget produktionsselskab Ejour.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53888857/jonas_og_anton_uploud_online_audio_converter_com.mp3</guid>
-			<pubDate>Wed, 17 May 2023 05:05:01 +0000</pubDate>
-			<itunes:duration>00:53:45</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53888857/jonas_og_anton_uploud_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
 	</channel>
 </rss>
