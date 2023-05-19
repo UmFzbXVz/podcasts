@@ -1671,5 +1671,14 @@
 			<itunes:duration>00:00:41</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/50958825/valg_i_danmark_teaser.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Et fossilfrit afsnit</title>
+			<link>https://api.spreaker.com/download/episode/53904296/vid_fredag.mp3</link>
+			<description>Borgerrepræsentationen i Københavns Kommune vil arbejde for, at København bliver fri for fossilbiler senest i 2030. Men er det overhovedet muligt? Og hvad siger nabokommunerne? Interview med to sure borgmestre og en ung, håbefuld folkesocialist. Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53904296/vid_fredag.mp3</guid>
+			<pubDate>Fri, 19 May 2023 03:05:01 +0000</pubDate>
+			<itunes:duration>00:35:00</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53904296/vid_fredag.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

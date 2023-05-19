@@ -1572,5 +1572,14 @@
 			<itunes:duration>01:05:37</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/43488393/rt41.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>12. etape Giro d'Italia: Forventet udbryderdag og tyske triumfer</title>
+			<link>https://api.spreaker.com/download/episode/53921252/rttalergiroen1805111.mp3</link>
+			<description>Efter 13. etape af årets Giro d'Italia fik Radio Tour-herrerne besøg af Peter Meinert, der deltog i en snak om forudsigelighed og tyske Grand Tour-triumfer.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53921252/rttalergiroen1805111.mp3</guid>
+			<pubDate>Thu, 18 May 2023 16:50:39 +0000</pubDate>
+			<itunes:duration>00:22:00</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53921252/rttalergiroen1805111.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
