@@ -330,5 +330,14 @@
 			<itunes:duration>00:52:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/51382416/marcus_og_realitypanelet_med_jeppe_og_asbj_rn_inkl_jingle.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ugens panel: Lenny, Marco &amp;amp; Jonas Ptak: &quot;STRESS ER IKKE EN TING!&quot;</title>
+			<link>https://api.spreaker.com/download/episode/53907180/lenny_marco_og_jonas.mp3</link>
+			<description>Lytterspørgsmål er det nye! Marcus får ihvertfald hjælp af hans producer som læser lytterspørgsmål op for panelet. Derudover er drengenes energi niveau, som forventet, helt oppe at ringe. Men spørgsmålet består; hvorfor hader Lenny og Marco, Mathias Hjort? Vi kommer igennem Jakob Ellemann og hans tilbagevenden fra stress, Britney Spears og hendes forhold samt Nick Cannons relation til hans 12 børn. Din vært er Marcus Eklund og du er med på en lytter.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53907180/lenny_marco_og_jonas.mp3</guid>
+			<pubDate>Fri, 19 May 2023 04:00:03 +0000</pubDate>
+			<itunes:duration>00:53:51</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53907180/lenny_marco_og_jonas.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
