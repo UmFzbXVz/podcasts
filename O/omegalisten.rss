@@ -1333,5 +1333,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>01:19:36</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53915612/adriana.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Kira Skov - My Heart Is A Mountain</title>
+			<link>https://api.spreaker.com/download/episode/53927581/kira_skov.mp3</link>
+			<description>Kira Skovs er aktuel med sit nyeste album My heart Is a Mountain.Lyt med i denne episode af Omegalisten hvor Kira fortæller om at skabe sit nye album, gøre sig fri fra de tidligere dogmer, finde inspirationen i fustrationer, hylde seje kvinder og den altsigende kærlighedserklæring. Plus en masse gode historier fra Kiras liv og al dem musik hun er dannet som gør hende til lige præcis den musiker og kunstner hun er i dag.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53927581/kira_skov.mp3</guid>
+			<pubDate>Fri, 19 May 2023 09:14:35 +0000</pubDate>
+			<itunes:duration>00:53:56</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53927581/kira_skov.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
