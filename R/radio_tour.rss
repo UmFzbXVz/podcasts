@@ -1581,5 +1581,14 @@
 			<itunes:duration>00:22:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53921252/rttalergiroen1805111.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>13. etape: Ekstremt vejr, forkortet etape og eksplosiv afslutning</title>
+			<link>https://api.spreaker.com/download/episode/53931515/rt13.mp3</link>
+			<description>Efter 13. etape af Giro d'Italia vender Radio Tour - taler Giro dagens etape, hvor Einer Rubio overraskede og endte som sejrherre. Dagens etape blev forkortet med over 100km grundet ektremt vejr, men det gjorde det kun mere interessant og eksplosivt.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53931515/rt13.mp3</guid>
+			<pubDate>Fri, 19 May 2023 16:23:42 +0000</pubDate>
+			<itunes:duration>00:15:01</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53931515/rt13.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
