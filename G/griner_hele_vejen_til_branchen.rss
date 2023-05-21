@@ -115,5 +115,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:00:23</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/52865846/griner_hele_vejen_teaser.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Music Management og Volume Village med Anni Nguyen</title>
+			<link>https://api.spreaker.com/download/episode/53893016/s1_a11_noget_om_music_management_og_volume_village_med_anni_nguyen_podcast.mp3</link>
+			<description>I denne uge snakker vi med Anni Nguyen, som, udover at være booker ved Volume Village i Aarhus, også er manager for 2 Aarhusianske artister.Dine værter er Mia Marie Lyngsø og Jeppe Schartau.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53893016/s1_a11_noget_om_music_management_og_volume_village_med_anni_nguyen_podcast.mp3</guid>
+			<pubDate>Sun, 21 May 2023 09:00:01 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53893016/s1_a11_noget_om_music_management_og_volume_village_med_anni_nguyen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

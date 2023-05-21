@@ -695,5 +695,14 @@ Wo ist Brünnhilde: https://open.spotify.com/track/2yg1MCk4sGXIT1vsyIWdPK?si=e51
 			<itunes:duration>00:56:59</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47780014/kammertonen_s1e1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Elektra</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53927083/kammertonen_elektra_mixdown_16_lufs.mp3</link>
+			<description>Fra børneopera til massemord. Det er, hvad Signe Sneh Durholms sangkarriere har budt på – på blot et år! Sidste forår fortalte hun nemlig her på kammertonen om at formidle Klodshans og andre eventyr som opera for børn. Dette forår har hun været med i Strauss’ voldsomme mesterværk, Elektra, der for nyligt kunne høres på Operaen på Holmen – og som vi denne søndag derfor dykker ned.</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53927083/kammertonen_elektra_mixdown_16_lufs.mp3</guid>
+			<pubDate>Sun, 21 May 2023 06:00:02 +0000</pubDate>
+			<itunes:duration>00:53:50</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/53927083/kammertonen_elektra_mixdown_16_lufs.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
