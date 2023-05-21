@@ -1590,5 +1590,14 @@
 			<itunes:duration>00:15:01</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53931515/rt13.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>14. etape: Førertrøjeskift, schweizisk prominens og kulissernes betydning</title>
+			<link>https://api.spreaker.com/download/episode/53943818/talergiro14pod.mp3</link>
+			<description>I denne udgave af Radio Tour - taler Giro, hvor Bastian Emil afløser Peter Piil som vært, bliver der samlet op på 14. etape af Giro d'Italia og blandt andet snakket om den nye indehaver af den lyserøde førertrøje, schweiziske cykelrytteres plads på sportens tidslinje og hvilken rolle landskabet kan betyde i et cykelløb.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53943818/talergiro14pod.mp3</guid>
+			<pubDate>Sat, 20 May 2023 16:56:18 +0000</pubDate>
+			<itunes:duration>00:19:31</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53943818/talergiro14pod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
