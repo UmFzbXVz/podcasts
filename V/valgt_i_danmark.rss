@@ -1680,5 +1680,14 @@
 			<itunes:duration>00:35:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53904296/vid_fredag.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>DF om tomt hovedkontor: &quot;Ja det var lidt ærgerligt&quot;</title>
+			<link>https://api.spreaker.com/download/episode/53955141/220523_valgt_i_danmark_podcast.mp3</link>
+			<description>Dansk Folkeparti var ikke hjemme, da Valgt i Danmark kom forbi deres nye hovedkontor i Ejstrupholm for små tre uger siden. Det er partisekretær Simon Vanggaard ked af. Derfor har han inviteret Valgt i Danmark forbi til en rundvisning på kontoret. Konservative i Københavns Borgerrepræsentation synes, at aftalen om at gøre kommunen fri for fossilbiler i 2030 er noget bras, men partiet stemte alligvel ja for at få indflydelse på udformningen af projektet, lyder det fra medlem af Kultur- og fritidsudvalgt Niels Peder Ravn (K) (19:40).Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53955141/220523_valgt_i_danmark_podcast.mp3</guid>
+			<pubDate>Mon, 22 May 2023 07:24:26 +0000</pubDate>
+			<itunes:duration>00:29:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53955141/220523_valgt_i_danmark_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

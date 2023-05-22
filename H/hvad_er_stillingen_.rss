@@ -258,5 +258,14 @@
 			<itunes:duration>00:01:04</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/51450306/trailer.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>ADHD hos kvinder</title>
+			<link>https://api.spreaker.com/download/episode/53949417/adhd_hos_kvinder.mp3</link>
+			<description>30 år... går der i gennemsnit før piger - nu kvinder med en ADHD-diagnose bliver opdaget. Det er 11 år senere end end hos mænd. Årsagen den finder vi hos den manglende forskning i ADHD hos piger og kvinder, som betyder, at sundhedspersonale og omsorgspersoner ikke ved, hvad de skal kigge efter hos pigerne og kvinderne, der mistrives. Det gør psykiater og associate professer Lotta Borg Skoglund heldigvis og derfor har hun skrevet bogen - Fra flittig pige til udbrændt kvinde - der forklarer, hvordan ADHD kommer anderledes til udtryk hos nogle piger og kvinder. For Ditte Grønbæk Korsgaard, som skulle igennem 10-20 forskellige behandlingsforløb over 37 år før hun fik sin diagnose, har det haft haft konsekvenser. Og har det stadig den dag i dag. Hvad det har af konsekvenser at gå med en uopdaget og derfor fejlbehandlet diagnose, og hvorfor interessen for forskning i ADHD hos piger og kvinder ikke eksisterer (endnu), kan du få nogle svar på i dette afsnit af Hvad er stillingen?</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53949417/adhd_hos_kvinder.mp3</guid>
+			<pubDate>Mon, 22 May 2023 04:00:03 +0000</pubDate>
+			<itunes:duration>00:59:42</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53949417/adhd_hos_kvinder.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
