@@ -1599,5 +1599,14 @@
 			<itunes:duration>00:19:31</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53943818/talergiro14pod.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>15. etape: McNultys sejr og amerikansk cykelkultur</title>
+			<link>https://api.spreaker.com/download/episode/53949437/rtgiro15.mp3</link>
+			<description>Efter 15. etape bliver der i dagens afsnit af Radio Tour - taler Giro samlet op på anden uge af den italienske Grand Tour. Du kan også høre om amerikansk cykelkultur efter Brandon McNultys etapesejr.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53949437/rtgiro15.mp3</guid>
+			<pubDate>Sun, 21 May 2023 16:32:29 +0000</pubDate>
+			<itunes:duration>00:19:36</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53949437/rtgiro15.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
