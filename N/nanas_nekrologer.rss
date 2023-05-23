@@ -1572,5 +1572,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:32</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/49267167/oliver_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvem har gjort indtryk på dig? #3</title>
+			<link>https://api.spreaker.com/download/episode/53676276/mandagsepi_2_stream.mp3</link>
+			<description>TW: spiseforstyrrelse. De mennesker og oplevelser, vi møder i vores tid på jorden, efterlader aftryk på os og vores liv. I Magnus’ tilfælde er det en sang, han har hørt 1000 gange før, men som pludselig betyder noget andet. I Lunas tilfælde er det en samtale over en pizza i en pjækketime, der for evigt ændrer hendes forhold til mad. Hør også hvem og hvad der har sat sit aftryk på Nyx og Maya.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53676276/mandagsepi_2_stream.mp3</guid>
+			<pubDate>Mon, 22 May 2023 20:00:03 +0000</pubDate>
+			<itunes:duration>00:35:15</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53676276/mandagsepi_2_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
