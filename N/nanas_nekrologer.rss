@@ -1581,5 +1581,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:35:15</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53676276/mandagsepi_2_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Rebekkas Nekrolog: Jeg er ikke i stykker, men jeg er frosset i tid</title>
+			<link>https://api.spreaker.com/download/episode/53794932/rebekka_stream.mp3</link>
+			<description>Et sted inden i, vil Rebekka altid og stadig være 6 år gammel. Og selvom hun er 24 nu, kan hun stadig godt savne og sørge over de kram, hun ikke altid fik nok af som lille. På den måde er Rebekka mere rundet af hvad hun ikke har oplevet, end hvad hun har. I dag gør vi status over hendes liv - alt der var, af kampe, kærlighed og kulørte lamper, og alt det, der ikke var, af omfavnelse og undtagelser.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53794932/rebekka_stream.mp3</guid>
+			<pubDate>Tue, 23 May 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:54:20</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53794932/rebekka_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

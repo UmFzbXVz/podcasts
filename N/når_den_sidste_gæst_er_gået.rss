@@ -258,5 +258,14 @@
 			<itunes:duration>00:02:33</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/50746138/n_r_den_sidste_g_st_er_g_et_teaser_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvorfor Udebliver De Frivillige På Festivalerne?</title>
+			<link>https://api.spreaker.com/download/episode/53970572/festival_mp3_spreaker.mp3</link>
+			<description>Hvorfor mangler festivalerne frivillige? Hvor mange timer tager det at stable en festival på benene? Og hvad koster artisterne? Festivals sæsonen er lige rundt om hjørnet og det betyder at vi skal til at bestille den dyreste vodka marthe drink i en plastic kop, der næsten koster ligeså meget som drinken, og stå til en koncert mens vi sender vores live lokation til vores venner og skriver beskeder ‘Hfor er dub’ som tekstbesked fordi der ingen dækning er. Og i og med der jo faktisk ikke er så lang tid til at vi skal stå og optage alle koncerter og smide på vores instagram story, synes Anne det var oplagt lige at dykke ned ned i bagsiden af sommerens højdepunkter. RIGTIG GOD LYTTER!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53970572/festival_mp3_spreaker.mp3</guid>
+			<pubDate>Wed, 24 May 2023 02:00:01 +0000</pubDate>
+			<itunes:duration>00:54:13</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53970572/festival_mp3_spreaker.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

@@ -1608,5 +1608,14 @@
 			<itunes:duration>00:19:36</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53949437/rtgiro15.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>16. etape: Almeida bekender kulør, middelmådige Roglic-ben og største Cavendish-minder</title>
+			<link>https://api.spreaker.com/download/episode/53973324/talergiro16pod111.mp3</link>
+			<description>Med Per Bausager som gæst samler Radio Tour - taler Giro i dette afsnit op på 16. etape, hvor Joao Almeida viste tænder, Jumbo-Vismas Roglic-sats og de minder af Mark Cavendish, der står klarest i hukommelsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53973324/talergiro16pod111.mp3</guid>
+			<pubDate>Tue, 23 May 2023 16:44:02 +0000</pubDate>
+			<itunes:duration>00:25:29</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53973324/talergiro16pod111.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
