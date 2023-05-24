@@ -744,5 +744,14 @@
 			<itunes:duration>00:14:22</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53971652/nicki.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Banko24syv: Det storslåede bankoshow bliver planlagt</title>
+			<link>https://api.spreaker.com/download/episode/53985878/0524_bankooo_mp3.mp3</link>
+			<description>Tirsdag den 6. juni bliver dagen, hvor bankoshowet i foreningen Banko24syv finder sted.I dagens program skal vi finde støtter hos de andre bankoforeninger, som vi gerne vil have til at dele arrangementet og møde op på dagen.Vi skal have arrangeret underholdning i form af fløjtenist Ivan Tønder og Tommy Jo, manden bag Hvide Sokker. Derudover ringer lytteren Anna ind og får to gratis bankoplader.Værter: Anton Ringdal og Kristoffer Kristensen Redaktion: Simon Porse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53985878/0524_bankooo_mp3.mp3</guid>
+			<pubDate>Wed, 24 May 2023 15:17:28 +0000</pubDate>
+			<itunes:duration>00:53:51</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53985878/0524_bankooo_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
