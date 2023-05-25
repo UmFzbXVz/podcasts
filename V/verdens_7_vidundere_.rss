@@ -252,5 +252,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>00:00:44</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/52245903/verdens_syv_vidundere_intro.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 mest spektakulære komponisttilværelser</title>
+			<link>https://api.spreaker.com/download/episode/53989082/v7v_komponister.mp3</link>
+			<description>Gæst: Mathias HammerHører den klassiske musikquiz til blandt dine favoritter og elsker du, når Mathias Hammer ruller sig ud med finurlig viden og præcise årstal om komponister og traditioner?Hvis det er tilfældet, så vil du finde dagens episode af VERDENS 7 VIDUNDERE helt i verdensklasse, når MATHIAS HAMMER netop er gæsten og vi ser ganske bort fra musikken, men lader Mathias gå linen helt ud og fortælle om de 7 MEST SPEKTAKULÆRE KOMPONISTTILVÆRELSERLyt med og få alle snurrigheder og skandaler.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53989082/v7v_komponister.mp3</guid>
+			<pubDate>Thu, 25 May 2023 08:00:02 +0000</pubDate>
+			<itunes:duration>01:28:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53989082/v7v_komponister.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

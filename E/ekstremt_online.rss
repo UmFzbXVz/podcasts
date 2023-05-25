@@ -1137,5 +1137,14 @@ Gucci + Bourgeois: https://www.youtube.com/watch?v=tcHYVjWn-TI&amp;ab_channel=Ke
 			<itunes:duration>00:56:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/48556456/220128_01.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Smarthome: Tør du invitere robotterne indenfor?</title>
+			<link>https://api.spreaker.com/download/episode/53984277/40_hele_program.mp3</link>
+			<description>Lys, der tænder på forskellig styrke alt efter tidspunktet på døgnet. Selvkørende støvsugere, der kan sende dig billeder af, hvor der er ting i vejen. Køleskabe, der fortæller, at mælken bliver sur. Internet of Things er udtrykket for dimser, der er forbundet til internettet. Støvsuger, lys og køleskab er blot et par måder, hvor internetforbundne teknologier kan være i hjemmet. For hvorfor selv gå hen og justere på radioatoren, hvis du kan installere en dims, der gør det muligt for dig at regulere temperaturen fra arbejdet, så du aldrig skal komme hjem og småfryse indtil de er varmet op? David McNally har bloggen mettesigernej.dk hvor han beskriver sine erfaringer med automatisering af hjemmet. Han elsker den komfort, de internetforbundne dimser giver hans familie. Han giver en rundtur gennem de mange smarte dimser, han har installeret. Men når man forbinder flere ting i hjemmet til internettet, er der også flere muligheder for at være sårbar overfor hackere. Jeg får dystopiske scenarier i hovedet og klaustrofobi over at tænke på uvildig overvågning, elektriske dører, der ikke åbner og komfurer der tænder af sig selv. Men her giver ekspert i cybersikkerhed, Keld Norman fra IT-sikkerhedsvirksomheden Dubex, mig lidt mere ro på. Han fortæller hvad virksomheder eller forsikringsselskaber kan bruge den data, vi genererer med vores devices til (spiser den her familie mange eller få citronmåner? Hvor meget træner de?). Han fortæller også om risiko for hackerangreb. Vært: Nanna Schmidt NordestgaardDer bruges lyd fra: Ex Machina Rumrejse 2001</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53984277/40_hele_program.mp3</guid>
+			<pubDate>Thu, 25 May 2023 03:40:01 +0000</pubDate>
+			<itunes:duration>00:50:55</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53984277/40_hele_program.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

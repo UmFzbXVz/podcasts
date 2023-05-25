@@ -89,5 +89,14 @@ I samtaleprogrammet “Hvem Der?” åbner vi hver uge dørene op til et nyt ung
 			<itunes:duration>00:32:25</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53967578/euromikespreak.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Vennebogens tredje side: Camille</title>
+			<link>https://api.spreaker.com/download/episode/53984295/f_rdig_camamama.mp3</link>
+			<description>Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.I denne uge er Line vært. Hun har valgt at støve sin gamle sagnomspundne vennebog af. I denne omgang har hun inviteret Camille med ud i det fri for at få svar på alt fra stjernetegnets store betydning til livets store spørgsmål. Gæst: Camille Landberger Vært og tilrettelægger: Line Schmidt Mouridsen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53984295/f_rdig_camamama.mp3</guid>
+			<pubDate>Thu, 25 May 2023 06:59:47 +0000</pubDate>
+			<itunes:duration>00:54:00</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53984295/f_rdig_camamama.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
