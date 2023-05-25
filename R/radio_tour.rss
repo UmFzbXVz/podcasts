@@ -1617,5 +1617,14 @@
 			<itunes:duration>00:25:29</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53973324/talergiro16pod111.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>17. etape: Italiensk etapesejr og gode forbindelser</title>
+			<link>https://api.spreaker.com/download/episode/53987114/rt_taler_giro_17_pod.mp3</link>
+			<description>I dagens afsnit er Jens Veggerby gæst i studiet, hvor der bliver talt om 17. etapes italienske sejrherre og om at have tætte forbindelser inden for cykelsporten.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53987114/rt_taler_giro_17_pod.mp3</guid>
+			<pubDate>Wed, 24 May 2023 16:58:51 +0000</pubDate>
+			<itunes:duration>00:23:30</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53987114/rt_taler_giro_17_pod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
