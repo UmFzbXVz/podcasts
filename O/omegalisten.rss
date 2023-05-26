@@ -1342,5 +1342,23 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>00:53:56</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53927581/kira_skov.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Chopper - Velkommen til Choppers wicked verden.</title>
+			<link>https://api.spreaker.com/download/episode/54004035/chopper.mp3</link>
+			<description>Omegalisten har i denne udsendelse besøg af musiker undergrundsfænomen Jonathan K Magnussen.Jonathan er aktuel med soloprojektet Chopper. Hvor han med et glimt i øjet smeder kitch, pop og teatralske følelser sammen i et stort lydunivers.Vi skal i denne time tale om Jonatan, Chopper og selvfølgelig al den musik han er dannet af.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54004035/chopper.mp3</guid>
+			<pubDate>Fri, 26 May 2023 06:48:21 +0000</pubDate>
+			<itunes:duration>00:53:30</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54004035/chopper.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Kollapse - Det skal være lidt ubehageligt.</title>
+			<link>https://api.spreaker.com/download/episode/54004029/kollapse.mp3</link>
+			<description>Omegalisten har haft  besøg af Peter &amp; Thomas fra Kollapse Kollapse er en aalborgensisk trio, der spiller tung, dyster, dyb og følelsesladet post hardcore. Lyrikken er på dansk og det er de store følelser og menneskelige kriser, der er omdrejningspunktet i deres musik. Lyt med når Thomas og Peter fortæller om Kollapse og al den musik de er dannet af.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54004029/kollapse.mp3</guid>
+			<pubDate>Fri, 26 May 2023 06:44:44 +0000</pubDate>
+			<itunes:duration>01:18:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54004029/kollapse.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
