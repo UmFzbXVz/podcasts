@@ -78,5 +78,14 @@
 			<itunes:duration>00:53:56</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53076042/sebastian_bull_interview_uploud_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ukendt Kunstner i fokus (Liveudsendelse fra d. 13. maj)</title>
+			<link>https://api.spreaker.com/download/episode/53996942/ukendt_kunstner.mp3</link>
+			<description>Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i dybden på bandet der har lagt hele Danmark ned 2 gange.**Dette er en liveudsendelse fra lørdag d. 13 maj**Du kan hver lørdag lytte med på 24syv, hvor Aleksander Bruun har et band/kunstner i fokus fra 11-13.God fornøjelse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53996942/ukendt_kunstner.mp3</guid>
+			<pubDate>Thu, 25 May 2023 15:06:55 +0000</pubDate>
+			<itunes:duration>01:42:59</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53996942/ukendt_kunstner.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

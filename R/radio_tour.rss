@@ -1626,5 +1626,14 @@
 			<itunes:duration>00:23:30</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53987114/rt_taler_giro_17_pod.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>18. etape: Flot italiensk sejr, klassementkamp og cykelskifte</title>
+			<link>https://api.spreaker.com/download/episode/53998538/talergiro18.mp3</link>
+			<description>Efter 18. etape vender Radio Tour - taler Giro etapen, hvor italienske Filippo Zana endte som sejrsherre, hvor klassementkampen igen rørte på sig med hjælp fra sublime hjælperyttere, og hvor Thibaut Pinot viste håndbogseksempel på det perfekte cykelskifte.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53998538/talergiro18.mp3</guid>
+			<pubDate>Thu, 25 May 2023 16:25:43 +0000</pubDate>
+			<itunes:duration>00:20:55</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53998538/talergiro18.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

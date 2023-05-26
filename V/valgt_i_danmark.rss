@@ -1716,5 +1716,14 @@
 			<itunes:duration>00:31:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53993124/vid_torsdag.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ellemanns uriaspost</title>
+			<link>https://api.spreaker.com/download/episode/53994987/vid_fredag.mp3</link>
+			<description>Ifølge Klaus Riskær Pedersen er Jakob Ellemann uegnet som statsminister, fordi Ellemann har været sygemeldt. Og spørger man Tim Knudsen, professor emeritus i statskundskab og forfatter til et fembindsværk om landets statsministre, er påstanden ikke helt på månen. Knudsen medgiver nemlig, at det er et forbandet hårdt job, og at alle danske statsministre før eller siden tynges af det ekstreme arbejdspres. Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53994987/vid_fredag.mp3</guid>
+			<pubDate>Fri, 26 May 2023 03:05:01 +0000</pubDate>
+			<itunes:duration>00:25:51</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53994987/vid_fredag.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

@@ -195,5 +195,14 @@
 			<itunes:duration>00:53:54</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53887206/atlas_shrugged.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>American Psycho</title>
+			<link>https://api.spreaker.com/download/episode/53994066/american_psycho_f_rdig.mp3</link>
+			<description>“Her lades alt håb ude”. Med de ord begynder &quot;American Psycho&quot;. Over de næste knap 500 sider følger vi den seksogtyve-årige børsmægler Patrick Batemans liv og tanker, fra han står op om morgen, tager i fitness, på arbejde, hippe restauranter og natklubber, men også, når han torturerer og myrder hjemløse, dyr, børn og kvinder — En klaustrofobisk rejse gennem slutfirsernes supermaterialistiske New York, hvor vi som læsere er tvangsindlagt til at følge en ekstrem overfladisk generation optaget af statussymboler. Men hvordan det er muligt, at så stor en psykopat og morder, kan blive ved med at leve i toppen af samfundet uden at blive opdaget? Er han et produkt af sin tid, og hvorfor er han så fuldstændigt ude af stand at danne nogle menneske relationer? Sammen med Rune Lykkeberg som dagens gæst, taler vi om den måske mest uhyggelig bog om yuppierne, deres ynglingsmusik, syn på hjemløse og kvinder, om U2, David Bowie og Donald Trump, om tidlig cancel culture og en bog, der var så voldsom, at man nægtede at udgive den.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53994066/american_psycho_f_rdig.mp3</guid>
+			<pubDate>Thu, 25 May 2023 16:05:01 +0000</pubDate>
+			<itunes:duration>00:50:21</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53994066/american_psycho_f_rdig.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
