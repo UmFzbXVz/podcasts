@@ -1635,5 +1635,14 @@
 			<itunes:duration>00:20:55</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53998538/talergiro18.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>19. etape: Vanvittige Cort og kongeetape</title>
+			<link>https://api.spreaker.com/download/episode/54009124/rtpod19.mp3</link>
+			<description>Radio Tour - taler Giro taler efter 19. etape blandt andet Magnus Corts tredjeplads og den vanvittige kongeetape.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54009124/rtpod19.mp3</guid>
+			<pubDate>Fri, 26 May 2023 17:00:08 +0000</pubDate>
+			<itunes:duration>00:23:31</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54009124/rtpod19.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
