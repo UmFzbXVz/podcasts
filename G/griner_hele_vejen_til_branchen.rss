@@ -124,5 +124,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53893016/s1_a11_noget_om_music_management_og_volume_village_med_anni_nguyen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Musikterapi med Hanne Mette Oschner Ridder</title>
+			<link>https://api.spreaker.com/download/episode/53974253/s1_a12_noget_om_musikterapi_med_hanne_mette_oschner_ridder_podcast.mp3</link>
+			<description>I denne uge snakker vi med musikterapeuten Hanne Mette Oschner Ridder som til daglig er underviser i musikterapi på Aarhus Universitet. Vi kommer til at berøre studiet Musikterapi på AAU og arbejdet som musikterapeut.Dine værter er Mia Marie Lyngsø og Jeppe Schartau.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53974253/s1_a12_noget_om_musikterapi_med_hanne_mette_oschner_ridder_podcast.mp3</guid>
+			<pubDate>Sun, 28 May 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/53974253/s1_a12_noget_om_musikterapi_med_hanne_mette_oschner_ridder_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
