@@ -1644,5 +1644,14 @@
 			<itunes:duration>00:23:31</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54009124/rtpod19.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>20. etape: Højdepunkter, lavpunkter og Roglič-sejr</title>
+			<link>https://api.spreaker.com/download/episode/54017385/rt20pod.mp3</link>
+			<description>Det var spænding til det sidste, da Primož Roglič og Geraint Thomas skulle kæmpe om den samlede sejr i årets Giro d’Italia. Det endte dog med slovensk sejr, trods kædeproblemer sent på enkeltstarten. Det, og meget andet, taler Radio Tour-studiet om i dag.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54017385/rt20pod.mp3</guid>
+			<pubDate>Sat, 27 May 2023 17:51:11 +0000</pubDate>
+			<itunes:duration>00:20:53</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54017385/rt20pod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
