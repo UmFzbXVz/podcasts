@@ -1653,5 +1653,14 @@
 			<itunes:duration>00:20:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54017385/rt20pod.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>21. etape: Cavendish-brillance, største momenter og potential løbsmangel</title>
+			<link>https://api.spreaker.com/download/episode/54023465/sequence_04.mp3</link>
+			<description>I denne udgave af Radio Tour – taler Giro sætter Peter Piil og co. Mark Cavendishs sejr på 21. etape under luppen. Derudover udpeger eksperterne deres højdepunkter fra årets Giro, og så diskuteres det, hvorvidt man kan tale om, at cykelløbskalenderen er for tynd.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54023465/sequence_04.mp3</guid>
+			<pubDate>Sun, 28 May 2023 18:29:16 +0000</pubDate>
+			<itunes:duration>00:20:35</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54023465/sequence_04.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
