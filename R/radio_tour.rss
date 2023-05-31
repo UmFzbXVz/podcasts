@@ -1662,5 +1662,14 @@
 			<itunes:duration>00:20:35</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54023465/sequence_04.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Den store Giro-opsamling</title>
+			<link>https://api.spreaker.com/download/episode/54045508/rt_300523.mp3</link>
+			<description>Giro d'Italia 2023 er nu blevet fortid, og i dette afsnit kan du høre Brian Holm, Bastian Emil og Thomas Bay vende stort og småt fra dette års Giro.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54045508/rt_300523.mp3</guid>
+			<pubDate>Tue, 30 May 2023 19:56:37 +0000</pubDate>
+			<itunes:duration>01:03:32</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54045508/rt_300523.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

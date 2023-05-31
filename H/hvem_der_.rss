@@ -98,5 +98,14 @@ I samtaleprogrammet “Hvem Der?” åbner vi hver uge dørene op til et nyt ung
 			<itunes:duration>00:54:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53984295/f_rdig_camamama.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Michelin-helvede: Jeg besvimede, fik hjernerystelse og hul i hagen</title>
+			<link>https://api.spreaker.com/download/episode/54042424/sandra_hvem_der.mp3</link>
+			<description>Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.I denne uge er Nana vært. Hun taler med den unge konditorchef Sandra Kjeldsen om en hård branche, der kan give ar på både krop og sjæl. Gæst:Sandra KjeldsenVært og tilrettelægger:Nana Margrethe Haugaard</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54042424/sandra_hvem_der.mp3</guid>
+			<pubDate>Tue, 30 May 2023 15:04:25 +0000</pubDate>
+			<itunes:duration>00:52:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54042424/sandra_hvem_der.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
