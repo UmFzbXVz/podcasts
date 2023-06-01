@@ -14305,5 +14305,14 @@
 			<itunes:duration>00:26:39</itunes:duration>
 			<enclosure url="https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6477146ec4bb74001129e597/media.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Babbage: What if generative AI destroys biometric security?</title>
+			<link>https://sphinx.acast.com/p/open/s/e421d786-ec36-4148-aa99-7a3b2928a779/a/theeconomistallaudio/e/64778a1162b0900011d18a28/media.mp3</link>
+			<description>Recent years have seen a boom in biometric security systems—identification measures based on a person’s individual biology—from unlocking smartphones, to automating border controls. As this technology becomes more prevalent, some cybersecurity researchers are worried about how secure biometric data is—and the risk of spoofs. If generative AI becomes so powerful and easy-to-use that deepfake audio and video could hack into our security systems, what can be done? Bruce Schneier, a security technologist at Harvard University and the author of “A Hacker’s Mind”, explores the cybersecurity risks associated with biometrics, and Matthias Marx, a security researcher, discusses the consequences of bad actors obtaining personal data. If artificial intelligence could overcome security systems, human implants may be used as authentication, according to Katina Michael, a professor at Arizona State University. Plus, Joseph Lindley, a design academic at Lancaster University, proposes how security systems can be better designed to avoid vulnerabilities. To think about practical solutions, Scott Shapiro, professor at Yale Law School and author of “Fancy Bear Goes Phishing”, puts generative AI into the wider context of cybersecurity. Finally, Tim Cross, The Economist’s deputy science editor, weighs up the real-world implications of our thought experiment. Kenneth Cukier hosts.Learn more about detecting deepfakes at economist.com/detecting-deepfakes-pod, or listen to all of our generative AI coverage at economist.com/AI-pods.For full access to The Economist’s print, digital and audio editions subscribe at economist.com/podcastoffer and sign up for our weekly science newsletter at economist.com/simplyscience. Hosted on Acast. See acast.com/privacy for more information.</description>
+			<guid isPermaLink="true">https://sphinx.acast.com/p/open/s/e421d786-ec36-4148-aa99-7a3b2928a779/a/theeconomistallaudio/e/64778a1162b0900011d18a28/media.mp3</guid>
+			<pubDate>Wed, 31 May 2023 17:55:29 +0000</pubDate>
+			<itunes:duration>00:39:11</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/e421d786-ec36-4148-aa99-7a3b2928a779/a/theeconomistallaudio/e/64778a1162b0900011d18a28/media.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
