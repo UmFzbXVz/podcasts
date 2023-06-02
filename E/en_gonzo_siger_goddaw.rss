@@ -61,5 +61,14 @@
 			<itunes:duration>00:27:45</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53437256/gonzo_1_prolog.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 7: GIV SLIP ELLER GIV OP!</title>
+			<link>https://api.spreaker.com/download/episode/54072904/gonzo7.mp3</link>
+			<description>Din diagnose er: Du er et menneske. Siger sognepræst i Sorgenfri - Ane Sofie Lindegaard. Det er en forklaringsmodel, som René for alvor fatter i sit lange seje træk på at forstå sig selv og alle andre. Således bliver Katinka PA's klage over aldersdiskrimination håndteret forbilledligt. Og endelig skal vi på forhånd beklage, at du skal høre en pattestiv René synge sang nr. 13 fra ‘Grease' som godnatsang. Indslaget fungerer udelukkende som en slags forherligelse af alkohol og pot. Eller som Kierkegaard sagde det: Det største bedrag er selvbedraget.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54072904/gonzo7.mp3</guid>
+			<pubDate>Fri, 02 Jun 2023 09:35:01 +0000</pubDate>
+			<itunes:duration>00:52:20</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54072904/gonzo7.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
