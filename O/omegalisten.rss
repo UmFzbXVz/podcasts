@@ -1360,5 +1360,23 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>01:18:38</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54004029/kollapse.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Anti Ritual - Det kan ikke gå for hurtigt!</title>
+			<link>https://api.spreaker.com/download/episode/54068806/anti_ritual.mp3</link>
+			<description>Omegalisten har i denne episode besøg af Jacob, Nicolai, Marco &amp; K.B fra det københavnske black/grind/ hardcore bandet Anti Ritual.Bandet er aktuel med deres seneste EP - Green Terrorism. En hurtig makker på på 7 min og 31 sekunder.Lyt med når bandet fortæller historien om Anti Ritual og al den musik bandet er dannet af.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54068806/anti_ritual.mp3</guid>
+			<pubDate>Fri, 02 Jun 2023 05:42:14 +0000</pubDate>
+			<itunes:duration>01:45:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54068806/anti_ritual.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Thomas Burø - 22 år senere og en del erfaring rigere</title>
+			<link>https://api.spreaker.com/download/episode/54054157/bur_spreaker.mp3</link>
+			<description>Omegalisten har i denne udsendelse besøg af forsker og musiker Thomas Burø. De fleste kender Thomas fra at have været en del af hardcorescenen i mange år. Blandt andet med det legendariske band Lack og med sit nuværende band Tvivler.Stine Omega &amp; Thomas vil i  den næste times tid tale om Thomas, musikalske og personlige udvikling de sidste 22 år og lytte til al den musik han er dannet af.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54054157/bur_spreaker.mp3</guid>
+			<pubDate>Fri, 02 Jun 2023 05:14:48 +0000</pubDate>
+			<itunes:duration>01:25:13</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54054157/bur_spreaker.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
