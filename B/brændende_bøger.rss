@@ -204,5 +204,14 @@
 			<itunes:duration>00:50:21</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53994066/american_psycho_f_rdig.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvorfor skriver så mange af Danmarks bedste forfattere om at blive mor?</title>
+			<link>https://api.spreaker.com/download/episode/54067009/moder.mp3</link>
+			<description>De sidste 10 år har en hel bølge af bøger sat fokus på erfaringen at være gravid, at føde og blive mor. En generation af forfattere, der virker til at være enige om at ville tage et opgør med idéen om det lykkelige og problemløse moderskab. Olga Ravns “Mit arbejde” fra 2020, er en af de bøger, der tager læseren helt ind i en nybagt mors mest private og uhyggelige tanker. Her sættes der fokus på det enorme følelsesmæssige og fysiske arbejde, det kræver at være mor. Lyt med, når vi sammen med Elizabeth Blicher undersøger, hvorfor alle taler om fødslen som det lykkeligste øjeblik i en moders liv, hvilken pris det kræver at få et barn, og hvorfor denne bølge af moderskabslitteratur kommer netop nu.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54067009/moder.mp3</guid>
+			<pubDate>Thu, 01 Jun 2023 16:18:37 +0000</pubDate>
+			<itunes:duration>00:53:35</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54067009/moder.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

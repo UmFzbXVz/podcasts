@@ -1752,5 +1752,14 @@
 			<itunes:duration>00:28:01</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54062631/vid_torsdag.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>En regering i krise</title>
+			<link>https://api.spreaker.com/download/episode/54063505/vid_fredag.mp3</link>
+			<description>Hvad skal regerinspartierne efterhånden bruge hinanden til, når de tunge, mørke skyer ikke længere hænger over nationen og dansk økonomi? Og frygter de, at den indre sammenhængskraft nu forvitrer? Socialdemokratiets politiske ordfører, Christian Rabjerg Madsen, og Moderaternes gruppeformand, Henrik Frandsen, tager arbejdsfællesskabets eksistens i forsvar. Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54063505/vid_fredag.mp3</guid>
+			<pubDate>Fri, 02 Jun 2023 03:05:01 +0000</pubDate>
+			<itunes:duration>00:28:25</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54063505/vid_fredag.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
