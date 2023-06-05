@@ -133,5 +133,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53974253/s1_a12_noget_om_musikterapi_med_hanne_mette_oschner_ridder_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Spillestedet Radar og Booking med Martin Aagaard</title>
+			<link>https://api.spreaker.com/download/episode/54056816/s1_a13_noget_om_spillestedet_radar_og_booking_med_martin_aagaard_podcast.mp3</link>
+			<description>I denne uge snakker vi med Martin Aagaard fra spillestedet Radar i Aarhus! Vi kommer til at snakke om hans vej ind i musikbranchen og hvad han arbejder med i dag.Dine værter er som altid Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54056816/s1_a13_noget_om_spillestedet_radar_og_booking_med_martin_aagaard_podcast.mp3</guid>
+			<pubDate>Sun, 04 Jun 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54056816/s1_a13_noget_om_spillestedet_radar_og_booking_med_martin_aagaard_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
