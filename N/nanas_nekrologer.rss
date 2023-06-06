@@ -1590,5 +1590,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:54:20</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53794932/rebekka_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Amalies Nekrolog: En romantisering af kampen</title>
+			<link>https://api.spreaker.com/download/episode/54089117/amalie_stream.mp3</link>
+			<description>Amalie har måtte kæmpe for meget i sit liv. For et “egnet-til-gymnasiet”-stempel, for at føle sig ligesom alle andre og for en pladekontrakt. Og selvom hun er endt med at få næsten alle de ting, vil hun lige så gerne huskes for vejen til at få dem, som for at have dem. For i Amalies liv høre lyset og mørket unægteligt sammen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54089117/amalie_stream.mp3</guid>
+			<pubDate>Mon, 05 Jun 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:54:13</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54089117/amalie_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
