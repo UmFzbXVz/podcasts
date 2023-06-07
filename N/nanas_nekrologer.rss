@@ -1599,5 +1599,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:54:13</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54089117/amalie_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Fridas Nekrolog: Når lykke er frihed</title>
+			<link>https://api.spreaker.com/download/episode/54089355/frida_stream.mp3</link>
+			<description>Frida elsker at rejse, for der føler hun sig mest fri. Når hun er hjemme i Danmark for at studere, rejser hun til andre lande og kulturer i studiebøgerne i stedet. Men der er også mange andre måder at være fri på, som Frida dyrker - frigjort fra deadlines, frigjort fra andres forventninger og frigjort seksuelt.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54089355/frida_stream.mp3</guid>
+			<pubDate>Tue, 06 Jun 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:54:22</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54089355/frida_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
