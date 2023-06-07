@@ -276,5 +276,14 @@
 			<itunes:duration>01:07:54</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54045474/dj_special.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Anne Og A-Holdet</title>
+			<link>https://api.spreaker.com/download/episode/54105882/anne_og_a_holdet.mp3</link>
+			<description>I aller bedste Mads Steffensen og Sara Bro stil har Anne fundet på noget så originalt som at skulle løse jeres dillemmaer fra restarantionsbranchen. Det gør hun selvfølgelig i fantastisk selskab med hendes A-hold Neda, Nicolai og Astrid.Dagens dillemmaer lyder således:1.Min bedsteven/chef tager personalets drikke penge til sig selv,2.Bliver jeg snydt for en lønforhøjelse?3.Skal restaurenterne sætte priserne op, så personalet kan få bedre lønninger? 4. Min bedsteveninde er blevet min chef, skal jeg sige op? 5. Jeg er blevet fyret, og tør ikke at sige det højtRigtig god lytter!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54105882/anne_og_a_holdet.mp3</guid>
+			<pubDate>Wed, 07 Jun 2023 07:52:29 +0000</pubDate>
+			<itunes:duration>01:23:12</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54105882/anne_og_a_holdet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
