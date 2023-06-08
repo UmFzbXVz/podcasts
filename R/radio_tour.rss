@@ -1671,5 +1671,14 @@
 			<itunes:duration>01:03:32</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54045508/rt_300523.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Mattis Giro-røverhistorier og den gode jubelscene</title>
+			<link>https://api.spreaker.com/download/episode/54129936/rt_podcasttt.mp3</link>
+			<description>Matti Breschel gæster Radio Tour-studiet til en snak om Giroen, starten på Dauphiné og den perfekte jubelscene.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54129936/rt_podcasttt.mp3</guid>
+			<pubDate>Wed, 07 Jun 2023 16:41:21 +0000</pubDate>
+			<itunes:duration>01:04:03</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54129936/rt_podcasttt.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

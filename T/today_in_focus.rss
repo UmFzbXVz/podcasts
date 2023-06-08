@@ -7341,5 +7341,14 @@
 			<itunes:duration>00:33:35</itunes:duration>
 			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2023/06/06-69902-20230607TIFAI.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>The destruction of the Kakhovka dam</title>
+			<link>https://flex.acast.com/audio.guim.co.uk/2023/06/07-60710-20230608TIFdam.mp3</link>
+			<description>The UN has blamed the destruction of the Kakhovka dam on Russia. What impact will the flooding have on the war in Ukraine? Dan Sabbagh reports. Help support our independent journalism at theguardian.com/infocus</description>
+			<guid isPermaLink="true">https://flex.acast.com/audio.guim.co.uk/2023/06/07-60710-20230608TIFdam.mp3</guid>
+			<pubDate>Thu, 08 Jun 2023 02:00:53 +0000</pubDate>
+			<itunes:duration>00:27:31</itunes:duration>
+			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2023/06/07-60710-20230608TIFdam.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

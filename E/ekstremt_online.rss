@@ -1146,5 +1146,14 @@ Gucci + Bourgeois: https://www.youtube.com/watch?v=tcHYVjWn-TI&amp;ab_channel=Ke
 			<itunes:duration>00:50:55</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53984277/40_hele_program.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Prompt engineering: big bucks eller 4000 år gammel vin på nye flasker?</title>
+			<link>https://api.spreaker.com/download/episode/54125736/podcast_41_prompt_engi_holger_og_mthias.mp3</link>
+			<description>I USA kan du tjene 2 millioner kroner om året ved at arbejde i tech - uden at have en tech-uddannelse! Lige nu trender betegnselsen prompt engineer. Det dækker over evnen til at være ufatteligt god til at skrive præcise prompts, eller inputs, til de kunstige intelligenser. Altså stille dem spørgsmål på en måde, der giver de helt rigtige svar. Det lyder jo som noget, der er værd at tjekke ud. Men konsulent Holger Wilcks slår koldt vand i blodet på drømmen om at betale topskat. For ifølge Holger er prompt engineering på den ene side slet ikke noget nyt, men et helt fundamentalt skillset, som selv mennesker i det gamle Babylon gjorde brug af. Og for det andet bliver prompt engineerne snart overhalet af kunstige intelligenser, der selv kan optimere de halvbagte inputs, menneskerne kommer med til den. Alligevel er det smart at have en basal forståelse af, hvordan man kommunikerer med eks. ChatGPT. Derfor guider ekspert i kunstig intelligens, Mathias Torp, historie-studerende Markus, til at skrive den mest historisk korrekte novelle, der beskriver den komplicerede menneskelige følelse forelskelse ved hjælp af ChatGPT. Vært: Nanna Schmidt Nordestgaard</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54125736/podcast_41_prompt_engi_holger_og_mthias.mp3</guid>
+			<pubDate>Thu, 08 Jun 2023 03:05:01 +0000</pubDate>
+			<itunes:duration>01:00:05</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54125736/podcast_41_prompt_engi_holger_og_mthias.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
