@@ -1797,5 +1797,14 @@
 			<itunes:duration>00:30:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54136083/vid_torsdag.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Er Mette Frederiksen egnet som generalsekretær?</title>
+			<link>https://api.spreaker.com/download/episode/54136844/vid_fredag.mp3</link>
+			<description>Hvad kan vi udlede af Mette Frederiksens møde med Joe Biden? Er hendes kandidatur til NATO-generalsekretærposten styrket? Og ikke mindst: Har hun overhovedet den nødvendige personlighed til et bureaukratisk internationalt embede? Reaktioner og analyse fra en række folketingspolitikere, USA-ekspert Mads Dalgaard Madsen og Weekendavisens chefredaktør Martin Krasnik. Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54136844/vid_fredag.mp3</guid>
+			<pubDate>Fri, 09 Jun 2023 03:05:01 +0000</pubDate>
+			<itunes:duration>00:37:05</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54136844/vid_fredag.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

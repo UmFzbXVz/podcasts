@@ -213,5 +213,14 @@
 			<itunes:duration>00:53:35</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54067009/moder.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Fifty Shades of Grey</title>
+			<link>https://api.spreaker.com/download/episode/54140584/fifty.mp3</link>
+			<description>I 2011 udkommer en bog, der lynhurtigt bliver en verdensomspændende succes. Skrevet af pseudonymet E. L. James, antænder “Fifty Shades of Grey” intet mindre end en revolution indenfor erotisk litteratur, ved at hive det frem fra alverdens sengeborde og frem i lyset. Men hvad var der ved denne bog, som gjorde den så populær? Skyldtes det, at et kvindelige begær blev placeret allerforrest i mainstreamkulturen? Et ulige magtforhold i en tid med større ligestilling? At ingen har skrevet om dens slags i mange år? Lyt med når vi sammen med Elisa Lykke - skaberen af “Kvindefantasier” snakker om hvordan verden aldrig mere blev den samme efter udgivelsen af e-bogen “Fifty Shades of Grey”, og hvordan den stadigvæk i dag påvirker vores populærkultur.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54140584/fifty.mp3</guid>
+			<pubDate>Thu, 08 Jun 2023 16:11:15 +0000</pubDate>
+			<itunes:duration>00:53:00</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54140584/fifty.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
