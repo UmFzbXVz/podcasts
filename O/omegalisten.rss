@@ -1378,5 +1378,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>01:25:13</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54054157/bur_spreaker.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De Høje Hæle - Slår atter hælene sammen med fornyet energi !</title>
+			<link>https://api.spreaker.com/download/episode/54146979/de_h_je_h_le.mp3</link>
+			<description>Det er 10 år siden de sidste gang slog hælene sammen, og nu er de vendt stærkt tilbage med med nye numre og måske et nyt album på vej?Det er selvfølgelig tale om undergrunds super-bandet ´De høje Hæle´ .Stine Omega er så heldig at have besøg i studiet af Magnus og Myren fra DHH og sammen vilde næste par timer tale om de høje hæle og al den musik de er dannet af.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54146979/de_h_je_h_le.mp3</guid>
+			<pubDate>Fri, 09 Jun 2023 05:52:15 +0000</pubDate>
+			<itunes:duration>01:46:32</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54146979/de_h_je_h_le.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
