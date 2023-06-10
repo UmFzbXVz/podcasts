@@ -270,5 +270,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:24:08</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54070023/v7v_kvinder_demokrati.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 vigtigste bakterier for vores klode</title>
+			<link>https://api.spreaker.com/download/episode/54166221/v7v_bakterier.mp3</link>
+			<description>Gæst: Kai FinsterSidder de, som Maude frygter i nøglehullerne? Er de gode eller dårlige? Farlige eller vigtige dele af klodens symbiotiske fællesskab og, som sådan, helt nødvendige for vores overlevelse? Og kan svaret på alle disse spørgsmål monstro være “Ja!”? Det bliver vi meget klogere på i dagens episode, hvor professor i Astrobiologi, Kai Finster fortæller om de 7 mest fascinerende bakterier.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54166221/v7v_bakterier.mp3</guid>
+			<pubDate>Sat, 10 Jun 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:11:44</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54166221/v7v_bakterier.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
