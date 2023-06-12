@@ -276,5 +276,14 @@
 			<itunes:duration>01:01:11</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54004968/k_n.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Samtaler, der redder mænds liv</title>
+			<link>https://api.spreaker.com/download/episode/54271826/ensomme_m_nd.mp3</link>
+			<description>Hver 4. mand i alderen 25-39 år har ikke nogen fortrolige relationer. Ifølge Forum for Mænds Sundhed har det indflydelse på, at mænd dør i gennemsnit 4 år tidligere end kvinder, at dobbelt så mange mænd som kvinder er indlagt på psykiatrisk afdeling, at halvt så mange mænd, som kvinder har en videregående uddannelse… OG at selvmordsraten er 3 gange højere hos mænd end kvinder. Hvordan det hænger sammen og hvad vi kan gøre for at ændre på isolationen og mistrivslen besvarer Rasmus Hald Møller, debattør og næstformand i foreningen Dansk Mandesamfund og Jeppe Trolle Linnet, antropolog og projektleder for mandegrupperne hos Daregender.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54271826/ensomme_m_nd.mp3</guid>
+			<pubDate>Mon, 12 Jun 2023 07:24:24 +0000</pubDate>
+			<itunes:duration>01:09:39</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54271826/ensomme_m_nd.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
