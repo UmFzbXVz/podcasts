@@ -42,5 +42,14 @@
 			<itunes:duration>00:00:16</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/52692350/teaser.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på at være en moderne mand med Jesper Zuschlag</title>
+			<link>https://api.spreaker.com/download/episode/54124777/jesper_program_klippet.mp3</link>
+			<description>Dagens gæst er både skuespiller, manuskriptforfatter og instruktør. Han er den ene halvdel af dansk fiktions power duo med Julie Rudbæk. Han har udforsket 30 års krisen, det moderne parforhold, klassiske kønsroller og vist hvordan man er elite-dater. Alt dette med en god blanding af alvor og komik. Ugens gæst er: Jesper Zuschlag!Hvornår er Jesper mindst en moderne mand? Hvordan er man en rigtig mand? Hvad er der med Jesper og fodbold? Dagens opskrift lyder bl.a. På 2kg alderskrise og 3 dl bløde værdier. Lyt med for at få resten. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54124777/jesper_program_klippet.mp3</guid>
+			<pubDate>Mon, 12 Jun 2023 03:00:02 +0000</pubDate>
+			<itunes:duration>00:53:53</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54124777/jesper_program_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
