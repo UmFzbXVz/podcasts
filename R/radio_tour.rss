@@ -1680,5 +1680,14 @@
 			<itunes:duration>01:04:03</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54129936/rt_podcasttt.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Danskerdominans i Dauphiné og kaos på tværs af løb</title>
+			<link>https://api.spreaker.com/download/episode/54344847/rtpodcast13062023.mp3</link>
+			<description>Jonas Vingegaard, Mikkel Bjerg og kaos i forskellige cykelløb er nogle af emnerne i ugens Radio Tour.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54344847/rtpodcast13062023.mp3</guid>
+			<pubDate>Tue, 13 Jun 2023 11:41:09 +0000</pubDate>
+			<itunes:duration>01:02:58</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54344847/rtpodcast13062023.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
