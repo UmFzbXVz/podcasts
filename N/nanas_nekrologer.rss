@@ -1608,5 +1608,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:54:22</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54089355/frida_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvem har du gjort indtryk på? #4</title>
+			<link>https://api.spreaker.com/download/episode/54092417/indtryk_p_mig_a_stream.mp3</link>
+			<description>Astrid så engang en besked i et internetforum. Den var skrevet af en fyr, hun aldrig havde mødt og som havde det svært. Han spurgte, om nogle ikke godt ville lægge et lyttende øre til, og ham og Astrid endte med at tale sammen i flere timer. Et år senere, på samme dato, skrev han til hende igen, for at sige tak. Hør også Caroline, Rebekka og Frida fortælle om, hvornår de har efterladt et indtryk på andre. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54092417/indtryk_p_mig_a_stream.mp3</guid>
+			<pubDate>Mon, 12 Jun 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:31:55</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54092417/indtryk_p_mig_a_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

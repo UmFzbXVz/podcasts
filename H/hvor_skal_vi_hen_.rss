@@ -87,5 +87,14 @@
 			<itunes:duration>01:42:59</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53996942/ukendt_kunstner.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Harry Styles i fokus (Livesending 27 maj)</title>
+			<link>https://api.spreaker.com/download/episode/54300521/harry_styles_i_fokus.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54300521/harry_styles_i_fokus.mp3</guid>
+			<pubDate>Mon, 12 Jun 2023 15:43:46 +0000</pubDate>
+			<itunes:duration>01:47:08</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54300521/harry_styles_i_fokus.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

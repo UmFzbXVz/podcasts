@@ -771,5 +771,14 @@
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54053998/0531_banko_igen_igen_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Banko24syv: Danmarks Største Ulovlige Bankospil!</title>
+			<link>https://api.spreaker.com/download/episode/54127244/bankoshow.mp3</link>
+			<description>Tirsdag blev vores helt store bankoshow en realitet! Op til showet blev knap 1000 plader solgt, og oppe i Salonen i Berlingske Media var bordene propfyldte.Hør her, hvordan det blandt andet lød, da vi brød loven på live radio.(Hele showet kan ses på Facebook - bare søg på Danmarks Største Ulovlige Bankoshow)Værter: Anton Ringdal &amp; Kristoffer Kristensen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54127244/bankoshow.mp3</guid>
+			<pubDate>Mon, 12 Jun 2023 14:49:16 +0000</pubDate>
+			<itunes:duration>01:12:25</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54127244/bankoshow.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
