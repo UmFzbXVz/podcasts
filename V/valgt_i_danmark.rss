@@ -1833,5 +1833,14 @@
 			<itunes:duration>00:24:45</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54373254/vid_1406.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Paludan på FM23: Jeg vil ødelægge det for Mette F</title>
+			<link>https://api.spreaker.com/download/episode/54378715/paludan_bornholm.mp3</link>
+			<description>Paludan er landet på Bornholm, og 24Syvs Valgt i Danmark har fanget ham som de første. paludan vil gøre alt hvad han kan for at spolere Mette Frederiksens chancer for at lande et NATO-topjob, siger han, da vi fanger ham på en øde rasteplads. Gæst: Rasmus Paludan, partileder, Stram Kurs Vært: Alexander Wils Lorenzen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54378715/paludan_bornholm.mp3</guid>
+			<pubDate>Wed, 14 Jun 2023 10:14:24 +0000</pubDate>
+			<itunes:duration>00:10:10</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54378715/paludan_bornholm.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
