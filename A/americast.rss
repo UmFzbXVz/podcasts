@@ -2478,5 +2478,14 @@ This episode was made by Daniel Wittenberg, with Alix Pickles, Natasha Fernandes
 			<itunes:duration>00:42:14</itunes:duration>
 			<enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0ft4jcw.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>16/06/2023</title>
+			<link>http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0fv0qw6.mp3</link>
+			<description>Americast delves into the issues and controversies that define the US as a nation</description>
+			<guid isPermaLink="true">http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0fv0qw6.mp3</guid>
+			<pubDate>Wed, 14 Jun 2023 02:29:00 +0000</pubDate>
+			<itunes:duration>00:36:12</itunes:duration>
+			<enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0fv0qw6.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

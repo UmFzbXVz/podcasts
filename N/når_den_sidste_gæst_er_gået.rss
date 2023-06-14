@@ -285,5 +285,14 @@
 			<itunes:duration>01:23:12</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54105882/anne_og_a_holdet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Jobsamtalens Don'ts And Does</title>
+			<link>https://api.spreaker.com/download/episode/54300192/jobsamtalen.mp3</link>
+			<description>Hvordan spotter man redflags på en arbejdplads til en jobsamtale? Hvordan spørger man ind til løn og arbejdsforhold når de ikke selv nævner det? Og hvordan holder man den gode ansættelses samtale? Anne har været til ufattelige mange dårlige jobsamtaler i restaurationsbranchen, og kunne potentielt have sparet sig selv for ræddi' mange ræderlige arbejdpladser hvis hun havde lært hvordan man spotter farsignalerne. Derfor har Anne allieret sig med tidligere CFO for en restarentkæde, der igennem headhuntere og rekuteringsfirmaer har fået stor anderkendelse i hans måde at holde jobsamtaler på. Anne har også rekunstrueret en klassisk job samtale fra branchen med en tidligere Restaurentchef som hun spiller klip fra så den CFO Tim kan giver feedback - Både til den jobsøgende og arbejdspladsen. GOD LYTTER!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54300192/jobsamtalen.mp3</guid>
+			<pubDate>Wed, 14 Jun 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:17:32</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54300192/jobsamtalen.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

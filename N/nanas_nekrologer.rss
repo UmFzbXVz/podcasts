@@ -1617,5 +1617,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:31:55</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54092417/indtryk_p_mig_a_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Karolines Nekrolog: Små øjeblikke af kærlig revolution</title>
+			<link>https://api.spreaker.com/download/episode/54089698/karoline_stream.mp3</link>
+			<description>Karoline er vokset op på Det Kongelige Teaters Balletskole, med takt og tone og stramme regler for, hvordan man måtte gebærde sig. Men en dag får Karoline nok. Hun bliver da den måske mest uskyldige rebel i verdenshistorien, da hun for første gang tør rulle øjne, komme for sent til time, og vigtigst af alt, trøster sin veninde til træning, selvom Karoline har fået besked på at danse videre. Det er disse små øjeblikke af kærlig revolution, som hun gerne vil huskes for.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54089698/karoline_stream.mp3</guid>
+			<pubDate>Tue, 13 Jun 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:51:50</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54089698/karoline_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
