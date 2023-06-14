@@ -1824,5 +1824,14 @@
 			<itunes:duration>00:29:46</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54324711/vid_tirsdag.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Wammen eller Hummelgaard?</title>
+			<link>https://api.spreaker.com/download/episode/54373254/vid_1406.mp3</link>
+			<description>Er Mette Frederiksen på vej til NATO som generalsekretær? Og i så fald: Hvem skal lede partiet og regeringen? Det har vi ringet rundt og spurgt en række socialdemokratiske lokalformænd om. Men vi starter med at vende de vigtigste nyheder fra det seneste døgn i dansk politik.Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54373254/vid_1406.mp3</guid>
+			<pubDate>Wed, 14 Jun 2023 08:17:26 +0000</pubDate>
+			<itunes:duration>00:24:45</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54373254/vid_1406.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
