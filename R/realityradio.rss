@@ -204,5 +204,14 @@
 			<itunes:duration>00:53:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54051811/j_disk_matchmaking_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>'Fboy Island'-kvinderne var underlagt et massivt pres</title>
+			<link>https://api.spreaker.com/download/episode/54389797/fboy_podcast.mp3</link>
+			<description>Det var ikke en dans på røde roser, da de tre kvinder Sina, Therese og Lady skulle forsøge at finde kærligheden blandt en række selverklærede nice guys og fuckbuys i realityprogrammet 'Fboy Island'. De var nemlig underlagt et et kæmpe mentalt pres, som resulterede i, at de havde det svært og mistede sig selv, da de kom hjem. I dagens afsnit åbner de tre kvinder op for deres medvirken i programmet.Gæster:Sina Stirnimann, deltager i 'Fboy Island' sæson 1Therese Paxvig, deltager i 'Fboy Island' sæson 1Lady Matwara, deltager i 'Fboy Island' sæson 1Vært og tilrettelægger:Cecilie Dumanski Reporter og producer:Maja F. K. Østergaard</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54389797/fboy_podcast.mp3</guid>
+			<pubDate>Wed, 14 Jun 2023 15:56:12 +0000</pubDate>
+			<itunes:duration>00:53:56</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54389797/fboy_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

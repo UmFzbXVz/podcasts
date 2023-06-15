@@ -1842,5 +1842,14 @@
 			<itunes:duration>00:10:10</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54378715/paludan_bornholm.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Øl, spindoktornosser og stoffer på Folkemødet</title>
+			<link>https://api.spreaker.com/download/episode/54287013/folkem_de_podcast.mp3</link>
+			<description>I dag starter det årligt tilbagevendende Folkemøde på Bornholm. I den anledning har Valgt i Danmark-redaktionen samlet et Folkemødekyndigt panel i studiet til en snak om, hvor folkeligt Folkemødet egentlig er. Men panelet deler også deres egne mest mindeværdige stunder fra Allinge. Der er både en hævngerrig tidligere statsminister, et par spindoktornosser og stoffer skjult i en autocamper på programmet. Gæster: Sanne Fahnøe, tidl politisk redaktør, Søndagsavisen, tidl. debatredaktør, BT og nuværende radiovært på 24Syv Ali Aminali, politisk kommentator og radiovært, 24Syv Rene Fredensborg, kulturkommentator, forfatter og journalist på Ekstra Bladet Vært: Alexander Wils Lorenzen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54287013/folkem_de_podcast.mp3</guid>
+			<pubDate>Thu, 15 Jun 2023 03:00:01 +0000</pubDate>
+			<itunes:duration>00:35:46</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54287013/folkem_de_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

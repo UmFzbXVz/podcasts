@@ -279,5 +279,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:11:44</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54166221/v7v_bakterier.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>The 7 most important life lessons from living in Denmark</title>
+			<link>https://api.spreaker.com/download/episode/54411071/v7v_rufus.mp3</link>
+			<description>Guest: Rufus Gifford“Where there is not community, trust, respect, ethical behavior are difficult for the young to learn and for the old to maintain”, wrote Robert K. Greenleaf, and in many ways community and trust and how we create and preserve them are at the centre of todays episode of VERDENS 7 VIDUNDERE, where the guest is RUFUS GIFFORD former US ambassador to Denmark and currently Chief of Protocol in the White House. Hence todays episode is in English as we discuss Rufus’ 7 MOST IMPORTANT LIFE LESSONS FROM LIVING IN DENMARK.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54411071/v7v_rufus.mp3</guid>
+			<pubDate>Thu, 15 Jun 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:14:58</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54411071/v7v_rufus.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
