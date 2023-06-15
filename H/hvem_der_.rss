@@ -116,5 +116,14 @@ I samtaleprogrammet “Hvem Der?” åbner vi hver uge dørene op til et nyt ung
 			<itunes:duration>00:36:46</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54140113/capdensv_retoer.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Vennebogens fjerde side: Sanna</title>
+			<link>https://api.spreaker.com/download/episode/54355738/f_rdig_sanna_banana.mp3</link>
+			<description>Samtaleprogrammet “Hvem Der?” åbner hver uge dørene op til et nyt ungt menneskes liv. Præmissen er simpel: To mennesker, én samtale. Hver uge skifter værtskabet imellem 24syvs praktikanter, og derfor vil ingen afsnit ligne hinanden.I denne uge er Line vært. Hun har valgt at støve sin gamle sagnomspundne vennebog af. I denne omgang har hun inviteret Sanna med ud i det fri for at få svar på alt fra den store mening med livet til hvem hendes store idol er. Gæst: Sanna Baunbæk Joensen Vært og tilrettelægger: Line Schmidt Mouridsen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54355738/f_rdig_sanna_banana.mp3</guid>
+			<pubDate>Thu, 15 Jun 2023 09:03:47 +0000</pubDate>
+			<itunes:duration>00:54:00</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54355738/f_rdig_sanna_banana.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
