@@ -96,5 +96,14 @@
 			<itunes:duration>01:47:08</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54300521/harry_styles_i_fokus.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Sofie Lippert: &quot;De syntes åbenbart, jeg var for ung til at mene noget&quot;</title>
+			<link>https://api.spreaker.com/download/episode/54390797/sofielippert_online_audio_converter_com.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54390797/sofielippert_online_audio_converter_com.mp3</guid>
+			<pubDate>Thu, 15 Jun 2023 06:15:01 +0000</pubDate>
+			<itunes:duration>00:54:19</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54390797/sofielippert_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
