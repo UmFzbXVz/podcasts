@@ -1860,5 +1860,14 @@
 			<itunes:duration>00:09:13</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54444509/paludan_frihedsber_vet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Solen skinner ikke på Paludan</title>
+			<link>https://api.spreaker.com/download/episode/54337512/vid_fredag.mp3</link>
+			<description>Partlederen for Stram Kurs, Rasmus Paludan, er blevet forment adgang til årets demokratifestival på Bornholm. Poltiets forklaring er, at man er bange for den fare, som både Paludan og gæsterne vil blive udsat for. Men hvad med ytringsfriheden? Paludan har været gæst i programmet, hvor vi også har reaktioner fra SF's statsrevisor Serdal Benli og Bornholm-kommunalpolitikerne Søren Schow, Claus Larsen og Kirstine van Sabben. Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54337512/vid_fredag.mp3</guid>
+			<pubDate>Fri, 16 Jun 2023 04:30:02 +0000</pubDate>
+			<itunes:duration>00:34:55</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54337512/vid_fredag.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
