@@ -1851,5 +1851,14 @@
 			<itunes:duration>00:35:46</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54287013/folkem_de_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Paludan: Jeg bliver chikaneret på Folkemødet</title>
+			<link>https://api.spreaker.com/download/episode/54444509/paludan_frihedsber_vet.mp3</link>
+			<description>Stram Kurs partileder, Rasmus Paludan, føler sig chikaneret af Bornholms Politi, efter han er ankommet til Folkemødet. På mødets første dag blev Rasmus Paludan frihedsberøvet af Bornholms Politi, da han gik ind på Folkemødeområdet, som han er blevet påbudt ikke at gøre. Paludan selv mener dog, at politiet har gjort det så svært for ham at afkode, hvor han må færdes, så det bliver lettere at frihedsberøve ham. Valgt i Danmark har mødt Rasmus Paludan efter frihedsberøvelsen. Vært: Alexander Wils Lorenzen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54444509/paludan_frihedsber_vet.mp3</guid>
+			<pubDate>Thu, 15 Jun 2023 13:25:07 +0000</pubDate>
+			<itunes:duration>00:09:13</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54444509/paludan_frihedsber_vet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
