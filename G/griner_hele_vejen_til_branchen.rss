@@ -151,5 +151,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54141733/s1_a14_noget_om_evigby_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Giddy Goye</title>
+			<link>https://api.spreaker.com/download/episode/54447765/s1_a15_noget_om_giddy_goye_podcast.mp3</link>
+			<description>I denne uge snakker vi med kunstneren Giddy Goye om hendes vej ind i musikbranchen, dét at optræde live og hendes arbejde med musikken.Dine værter er Mia Marie Lyngsø og Jeppe Schartau.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54447765/s1_a15_noget_om_giddy_goye_podcast.mp3</guid>
+			<pubDate>Sun, 18 Jun 2023 09:00:01 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54447765/s1_a15_noget_om_giddy_goye_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
