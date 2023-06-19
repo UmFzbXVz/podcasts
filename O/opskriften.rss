@@ -51,5 +51,14 @@
 			<itunes:duration>00:53:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54124777/jesper_program_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på et ikonisk konditori med Marianne Stagetorn Kolos</title>
+			<link>https://api.spreaker.com/download/episode/54124789/marianne_program_klippet.mp3</link>
+			<description>Dagens gæst, ejer stedet med en af Danmarks mest kendte kager - Sportskagen. Hun er nemlig indehaver af Danmarks fineste konditori La Glace og en vaskeægte powerwoman. Hun elsker kager, Nik &amp; Jay og gode rim - og så ved hun i dén grad noget om hvordan man driver forretning.Ugens gæst er: Marianne Stagetorn Kolos!Hvorfor elsker Marianne Nik &amp; Jay? Hvorfor skulle La Glace bare rives ned? Hvad synes Marianne egentlig om La Glaces slogan? Dagens opskrift består bl.a. Af 1 kg bondepige og 5 kg kageglæde. Lyt dog med for at få resten??</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54124789/marianne_program_klippet.mp3</guid>
+			<pubDate>Mon, 19 Jun 2023 03:00:01 +0000</pubDate>
+			<itunes:duration>00:53:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54124789/marianne_program_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
