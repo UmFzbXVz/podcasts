@@ -1869,5 +1869,14 @@
 			<itunes:duration>00:34:55</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54337512/vid_fredag.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>DF og LA vil rejse Paludans sag i Folketinget</title>
+			<link>https://api.spreaker.com/download/episode/54505043/vid_mandag.mp3</link>
+			<description>Vi er tilbage fra Bornholm og bruger ugens første udsendelse på Rasmus Paludan, der blev forment adgang til Folkemødets debatter og frihedsberøvet undervejs. Vi fangede Stram Kurs-lederen i Rønne onsdag, og da han fik ballade i Allinge torsdag, og så har vi reaktioner fra Liberal Alliances Steffen Larsen, Dansk Folkepartis Anders Vistisen og Nick Zimmermann, Ekstra Bladets tidligere chefredaktør Poul Madsen og Radikales partiformand Martin Lidegaard. Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54505043/vid_mandag.mp3</guid>
+			<pubDate>Mon, 19 Jun 2023 07:14:44 +0000</pubDate>
+			<itunes:duration>00:30:34</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54505043/vid_mandag.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
