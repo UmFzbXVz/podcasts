@@ -780,5 +780,14 @@
 			<itunes:duration>01:12:25</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54127244/bankoshow.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Rotterne kommer! Sådan hjælper du dem i tørken</title>
+			<link>https://api.spreaker.com/download/episode/54522769/0619_rotter.mp3</link>
+			<description>Danmark koger. Det varme - og meget tørre - vejr har slået rekord som den længste tørkeperiode i 20 år. Og selv om nogen synes, det kan være rart med en varm sommer, så er der nogle, der er mindre tilfredse; Rotterne.De mangler både vådt og tørt. Tim Gradimir er tidligere hjemløs og har igennem mange året boet med rotter. Sammen med ham laver vi den komplette guide til, hvordan du kan hjælpe de nødlidende rotter.Vi taler også med Kjeld Nyhus. Han har “stor respekt” for rotter og dræbte for første gang én som seksårig.Værter: Anton Ringdal og Kristoffer KristensenRedaktion: Simon Porse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54522769/0619_rotter.mp3</guid>
+			<pubDate>Mon, 19 Jun 2023 14:50:36 +0000</pubDate>
+			<itunes:duration>00:23:59</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54522769/0619_rotter.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

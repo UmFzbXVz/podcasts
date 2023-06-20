@@ -105,5 +105,14 @@
 			<itunes:duration>00:54:19</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54390797/sofielippert_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Roskilde Festival, hvad skal vi høre?</title>
+			<link>https://api.spreaker.com/download/episode/54522656/roskilde_special.mp3</link>
+			<description>Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.Gæster:- Björk Brandt Aabling: Anmelder på Bands of Tomorrow og skribent på Sein Magasin- Nicoline Ulrichs Olsen: Radiovært The Voice, uddannet i Musikvidenskab med speciale i Christine and the queens og frivillig ved HUN SOLO- Teis Zacho: Radiovært på programmet Ørehænger, producer og sangsskriverVært: Aleksander Bruun**Dette er en liveudsendelse fra søndag d. 18 juni, 11-14**</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54522656/roskilde_special.mp3</guid>
+			<pubDate>Mon, 19 Jun 2023 14:46:43 +0000</pubDate>
+			<itunes:duration>02:30:59</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54522656/roskilde_special.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
