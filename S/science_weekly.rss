@@ -2877,5 +2877,14 @@
 			<itunes:duration>00:16:36</itunes:duration>
 			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2023/06/14-61435-gnl.sci.20230614.eb.cancer.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Cybercrime: what does psychology have to do with phishing?</title>
+			<link>https://flex.acast.com/audio.guim.co.uk/2023/06/19-65499-gnl.sci.20230620.mf.hacking.mp3</link>
+			<description>At the start of 2023, the UK postal service Royal Mail was hit with an ultimatum: pay $80m (£67m) or continue to have international shipments blocked. The demand came from Russian-linked hackers the LockBit group, who had infiltrated Royal Mail’s software. Royal Mail refused to pay and eventually reinstated its overseas deliveries, but the cyber-attack came at a huge cost to the company and others that depend on its service. Ransomware attacks like this one are on the rise. So too are phishing attempts, emails and texts that try to fool recipients into clicking on links that contain malware or ask for personal information. Ian Sample speaks to the Yale law professor and author Scott Shapiro about cybercrime, how attacks hack into our psychology and what individuals and governments could do to stop it. Help support our independent journalism at theguardian.com/sciencepod</description>
+			<guid isPermaLink="true">https://flex.acast.com/audio.guim.co.uk/2023/06/19-65499-gnl.sci.20230620.mf.hacking.mp3</guid>
+			<pubDate>Tue, 20 Jun 2023 04:00:31 +0000</pubDate>
+			<itunes:duration>00:18:42</itunes:duration>
+			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2023/06/19-65499-gnl.sci.20230620.mf.hacking.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
