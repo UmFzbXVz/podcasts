@@ -5373,5 +5373,26 @@ Producer: Agnes Vesth</description>
 			<itunes:duration>00:17:41</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/54522935/d_gnrapporten_190623.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Forsker udpeget som “Ridseren”: Østerbro-dramaet har nået sin ende</title>
+			<link>https://api.spreaker.com/download/episode/54550213/200623_d_gnrapporten.mp3</link>
+			<description>En flok beboere på Østerbro i København gik sammen og tog sagen i egen hånd, da de gang på gang oplevede, at deres SUV’er fik store, hvide ridser i lakken. De fik en i dag 38-årig mand anholdt og tiltalt for serie-hærværket. Nu har retten så talt, om den 38-årige mand nu engang også var “Ridseren”.
+
+Medvirkende:
+Emma Vinkel, redaktør på Døgnrapporten
+
+Vært:
+Agnes Vesth
+
+Tilrettelæggere:
+Emma Vinkel
+
+Redaktør:
+Emma Vinkel</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54550213/200623_d_gnrapporten.mp3</guid>
+			<pubDate>Tue, 20 Jun 2023 14:00:02 +0000</pubDate>
+			<itunes:duration>00:27:04</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54550213/200623_d_gnrapporten.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
