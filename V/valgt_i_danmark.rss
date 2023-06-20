@@ -1878,5 +1878,14 @@
 			<itunes:duration>00:30:34</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54505043/vid_mandag.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Vanopslagh: SMS-sagen viser, at Frederiksens magt skal begrænses</title>
+			<link>https://api.spreaker.com/download/episode/54537734/vid_tirsdag.mp3</link>
+			<description>Troels Lund Poulsen har informeret Folketingets partier om, at det ikke er muligt at genskabe Mette Frederiksens slettede SMS’er fra mink-sagen. Kan vi stole på Forsvarsministeriet og Forsvarets Efterretningstjeneste? Reaktioner fra Alex Vanopslagh og IT-ekspert John Foley (0:11). Kommunalt ansatte har enten en dårlig arbejdsmoral eller er for svage, siden de i gennemsnit melder sig syg hver 14. dag. Liberal Alliances erhvervsordfører, Lars Christian Brask, undskylder sin egen udmelding og kan ikke komme årsagen til sygefraværet nærmere (19:50).Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54537734/vid_tirsdag.mp3</guid>
+			<pubDate>Tue, 20 Jun 2023 07:13:44 +0000</pubDate>
+			<itunes:duration>00:28:45</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54537734/vid_tirsdag.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
