@@ -789,5 +789,23 @@
 			<itunes:duration>00:23:59</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54522769/0619_rotter.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Robotværten: Fremtidens Radioprogram</title>
+			<link>https://api.spreaker.com/download/episode/54604101/0621_robot_kort_mp3.mp3</link>
+			<description>Velkommen til dagens radioprogram. I dag vil vi udfordre status quo og eksperimentere med en spændende idé. Som I måske har hørt, er der en voksende trend i mediebranchen, hvor flere medier overvejer at erstatte menneskelige journalister med robotter. Denne udvikling har rejst mange spørgsmål om teknologi, automatisering og vores forhold til nyhedsformidling. I dag vil vi selv teste denne idé ved at have en AI-baseret robot som vores radioprogramvært.Vært: En robot der lyder som Lars ThiesgaardRedaktion: Anton Ringdal, Kristoffer Kristensen &amp; Simon Porse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54604101/0621_robot_kort_mp3.mp3</guid>
+			<pubDate>Wed, 21 Jun 2023 14:40:28 +0000</pubDate>
+			<itunes:duration>00:24:07</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54604101/0621_robot_kort_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>4 ud af 5 danskere har ingen anelse om, hvornår man skal skifte tændrør</title>
+			<link>https://api.spreaker.com/download/episode/54552379/t_ndr_r.mp3</link>
+			<description>En undersøgelse foretaget af Danmarks Mindste Nyheder viser, at 4 ud af 5 danskere ikke aner, hvornår man skal skifte tændrør. Vi dykker ned i konsekvenserne - og går i dybden med tændrøret. Det gør vi (selvfølgelig) sammen med Jim Birch. Han er uddannet mekaniker og nærmest ekspert i tændrør.Værter: Anton Ringdal og Kristoffer KristensenRedaktion: Marcus Alvarado Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54552379/t_ndr_r.mp3</guid>
+			<pubDate>Tue, 20 Jun 2023 15:21:57 +0000</pubDate>
+			<itunes:duration>00:53:46</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54552379/t_ndr_r.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

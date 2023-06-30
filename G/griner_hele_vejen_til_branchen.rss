@@ -160,5 +160,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54447765/s1_a15_noget_om_giddy_goye_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Musik til Film med Kasper Juul</title>
+			<link>https://api.spreaker.com/download/episode/54827006/s1_a16_noget_om_musik_til_film_med_kasper_juul_podcast.mp3</link>
+			<description>I denne uge snakker vi med Kasper Juul, som har begivet sig ind i musikbranchen efter at have haft financiel succes andre steder. Kasper Juul har lavet titelsangen til den nye krimifilm Englemageren, og han kommer til at snakke om den process, samt skiftet fra at køre selvstændigt firma til at være fuldtidsmusiker. Han giver en masse gode råd, som man selv kan bruge, hvis man vil ind i musikbranchen, så lyt med!Dine værter er Mia Marie Lyngsø og Jeppe Schartau.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54827006/s1_a16_noget_om_musik_til_film_med_kasper_juul_podcast.mp3</guid>
+			<pubDate>Sun, 25 Jun 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54827006/s1_a16_noget_om_musik_til_film_med_kasper_juul_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

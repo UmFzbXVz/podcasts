@@ -79,5 +79,14 @@
 			<itunes:duration>00:59:11</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54324778/gonzo8.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 9: På bagsiden af hjertet - samtalen om mor</title>
+			<link>https://api.spreaker.com/download/episode/55233395/gonzo_9_ny.mp3</link>
+			<description>Anders har længe presset på for den store samtale om Renés forhold til sin mor. Renés tidligere psykolog, Pernille Andrés Blidsøe, møder op til en times session - og meget falder på plads. For hvordan opnår man frihed fra svære relationer? Hvordan genkender man sin smertes mønster? Hvordan håndterer man manglende anerkendelse? Tiden er kommet, hvor vi langt om længe kommer til bunds i René Fredensborg.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/55233395/gonzo_9_ny.mp3</guid>
+			<pubDate>Tue, 27 Jun 2023 10:20:55 +0000</pubDate>
+			<itunes:duration>01:25:22</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/55233395/gonzo_9_ny.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

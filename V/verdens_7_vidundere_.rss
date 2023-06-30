@@ -288,5 +288,23 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:14:58</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54411071/v7v_rufus.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 bedste balletkoreografer</title>
+			<link>https://api.spreaker.com/download/episode/55024454/v7v_ballet.mp3</link>
+			<description>Gæst: Erik Aschengreen“Det skønne beholder stedse nyhedens friskhed, det forbavsende trætter i længden”, skrev Bournonville i sin Koreografiske trosbekendelse fra 1865 - men står det udsagn som alle koreografers pejlemærke? Det dykker vi ned i i dagens episode af VERDENS 7 VIDUNDERE, hvor gæsten er ERIK ASCHENGREEN, Doyen af dansk balletkritik og emnet er VERDENS 7 BEDSTE KOREOGRAFER!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/55024454/v7v_ballet.mp3</guid>
+			<pubDate>Thu, 29 Jun 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:22:00</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/55024454/v7v_ballet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>De 7 største øjebæer i Danmark</title>
+			<link>https://api.spreaker.com/download/episode/54652911/v7v_arkitektur.mp3</link>
+			<description>Gæst: Ane CortzenØjebæ! Skændsel! Klods! Vreden ligger tæt under overfladen eller bobler somme tider helt over, når folk reagerer på ringe, fejlplaceret eller grimt byggeri. Men hvorfor reagerer vi så stærkt? Er vi alle arkitekter og kan have en holdning, eller bør lægfolk klappe i og lade arkitekterne om hvordan der bygges? Dette og meget mere rundes i dagens episode af VERDENS 7 VIDUNDERE, hvor gæsten, ANE CORTZEN skyder med skarpt og kårer DANMARKS 7 STØRSTE ØJEBÆER</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54652911/v7v_arkitektur.mp3</guid>
+			<pubDate>Thu, 22 Jun 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>00:57:41</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54652911/v7v_arkitektur.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

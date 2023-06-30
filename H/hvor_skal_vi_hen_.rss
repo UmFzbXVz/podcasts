@@ -114,5 +114,23 @@
 			<itunes:duration>02:30:59</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54522656/roskilde_special.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>August Høyen: &quot;Jeg har totalt følehornene ude hele tiden&quot;</title>
+			<link>https://api.spreaker.com/download/episode/54652918/augustpodcast.mp3</link>
+			<description>August Høyen er en af de varmeste upcoming artister vi har i Danmark lige nu. Han har lige landet Store Vega, han skal spille på Roskilde og hans debut EP 'Det hele handler om dig' bliver rost til skyerne. Men hvordan har han det egentlig?Aleksander Bruun er taget til Nordvest, hvor August er født og opvokset, for at snakke om at være super sensitiv, en karriere der tager fart og en drøm om at blive venner med Christopher - plus meget mere.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54652918/augustpodcast.mp3</guid>
+			<pubDate>Wed, 21 Jun 2023 22:02:06 +0000</pubDate>
+			<itunes:duration>01:01:45</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54652918/augustpodcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Den danske hiphop-scene</title>
+			<link>https://api.spreaker.com/download/episode/54652082/danskrap.mp3</link>
+			<description>Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.Gæster:Tais Holm: Musikanmelder på De Sorte PladerAnton Nørbæk: Musikanmelder, alias BadboitontonVært: Aleksander Bruun</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54652082/danskrap.mp3</guid>
+			<pubDate>Wed, 21 Jun 2023 19:44:29 +0000</pubDate>
+			<itunes:duration>01:47:39</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54652082/danskrap.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

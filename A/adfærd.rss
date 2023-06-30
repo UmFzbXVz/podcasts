@@ -1123,5 +1123,14 @@ I denne samtale giver Dennis dig et indblik i 5 måder, du kan bekæmpe pseudoar
 			<itunes:duration>00:47:25</itunes:duration>
 			<enclosure url="https://chtbl.com/track/17FCFB/api.spreaker.com/download/episode/43871377/46_adfaerd_saeson_7_episode_5.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Min nye sommerskole åbner på tirsdag. Og du er inviteret.</title>
+			<link>https://api.spreaker.com/download/episode/55487200/adf_rd_sommerskole_intro_kopi.mp3</link>
+			<description>I juli udkommer der 9 bonusafsnit af Adfærd. Vi gennemgår min seneste bog Jytte Vender Tilbage og uddrager de væsentligste redskaber og røverhistorier til dig. Du finder bogen her: https://www.saxo.com/dk/jytte-vender-tilbage_morten-sehested-munster_haeftet_9788702297690Rabatkoden, der giver 10 procent er: SommerskoleHåber, du vil lytte med:-)</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/55487200/adf_rd_sommerskole_intro_kopi.mp3</guid>
+			<pubDate>Thu, 29 Jun 2023 10:56:20 +0000</pubDate>
+			<itunes:duration>00:01:51</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/55487200/adf_rd_sommerskole_intro_kopi.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

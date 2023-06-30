@@ -1689,5 +1689,32 @@
 			<itunes:duration>01:02:58</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54344847/rtpodcast13062023.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Beretninger fra DM og 11 danskere i Tour-feltet</title>
+			<link>https://api.spreaker.com/download/episode/55267793/rtpodcast_1.mp3</link>
+			<description>Mielke og Holm kommer med anekdoter fra DM, og så ses der nærmere på de 11 danskere i Tour-feltet.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/55267793/rtpodcast_1.mp3</guid>
+			<pubDate>Tue, 27 Jun 2023 13:25:35 +0000</pubDate>
+			<itunes:duration>01:03:39</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/55267793/rtpodcast_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Tour de France special med Jørgen Leth</title>
+			<link>https://api.spreaker.com/download/episode/54772898/rtlethpodcast.mp3</link>
+			<description>Jørgeb Leth er på besøg i Radio Tour-studiet til en snak om det legendariske Tour de France.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54772898/rtlethpodcast.mp3</guid>
+			<pubDate>Thu, 22 Jun 2023 10:39:13 +0000</pubDate>
+			<itunes:duration>01:08:26</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54772898/rtlethpodcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Leadouts, tragedien i Schweiz og Skjelmoses sejr</title>
+			<link>https://api.spreaker.com/download/episode/54552096/rt_med_m_rk_v_pod.mp3</link>
+			<description>Michael Mørkøv gæster studiet til en snak om det perfekte leadout og tragedien i Schweiz.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54552096/rt_med_m_rk_v_pod.mp3</guid>
+			<pubDate>Tue, 20 Jun 2023 15:05:30 +0000</pubDate>
+			<itunes:duration>01:03:18</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54552096/rt_med_m_rk_v_pod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

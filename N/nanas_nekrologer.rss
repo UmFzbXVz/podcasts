@@ -1626,5 +1626,23 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:51:50</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54089698/karoline_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Et råd til dit tidligere jeg #4</title>
+			<link>https://api.spreaker.com/download/episode/54092665/r_d_til_tidligere_jeg_a_stream.mp3</link>
+			<description>Hvad er et råd du ville give til dit tidligere jeg? Hvis hun kunne, ville Sarah sætte en daglig påmindelse på sit yngre jegs telefon. Hver dag skulle skærmen lyse op med en besked om, at det er sejt, hun prøver. Sejt, hun prøver at blive professionel ballerina. Men også, at hun gerne må prøve lidt mere som sig selv, og ikke som hun tror, hun skal være. Hør også hvad Karoline, Daniel og Amalie ville fortælle dem selv, hvis de fik muligheden.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54092665/r_d_til_tidligere_jeg_a_stream.mp3</guid>
+			<pubDate>Tue, 27 Jun 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:33:06</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54092665/r_d_til_tidligere_jeg_a_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Hvem har gjort indtryk på dig? #4</title>
+			<link>https://api.spreaker.com/download/episode/54092586/indtryk_p_mig_a_stream.mp3</link>
+			<description>En mor. En klasselærer. En tatovør i Nepal. En åbenlys men alligevel livsændrende sætning. Hør hvad der, bogstaveligt og metaforisk talt, har gjort indtryk på Astrid, Frida, Caroline og Rebekka. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54092586/indtryk_p_mig_a_stream.mp3</guid>
+			<pubDate>Mon, 26 Jun 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:29:37</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54092586/indtryk_p_mig_a_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
