@@ -917,5 +917,18 @@ Producer: Silas Moody</description>
 			<itunes:duration>00:53:30</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54835226/230623_metteogdebl.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>BBB dukket op på mystisk billede og Å i traumebehandling pga. komælk</title>
+			<link>https://api.spreaker.com/download/episode/55590339/mette_og_bl_30juni_mp3.mp3</link>
+			<description>Vi slutter denne sæson af med et brag og får besøg af programmets eneste socialdemokratiske ven - nemlig Netavisen Pios chefredaktør Niels Jespersen, der varmer op til den kommende politiske sæson og svarer på spørgsmålene: kan Mette F. redde resterne af SVM-regeringen, når nu hun ikke skal til NATO? Hvad sker der med arvefølgen i S, og kan Ellemann klare mosten, når han kommer tilbage? 
+
+Værter: Sanne Fahnøe og Anna Thygesen.
+Gæst: Chefredaktør på Netavisen Pio Niels Jespersen.
+Producer: Pola Rojan Bagger.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/55590339/mette_og_bl_30juni_mp3.mp3</guid>
+			<pubDate>Fri, 30 Jun 2023 11:21:16 +0000</pubDate>
+			<itunes:duration>00:53:34</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/55590339/mette_og_bl_30juni_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
