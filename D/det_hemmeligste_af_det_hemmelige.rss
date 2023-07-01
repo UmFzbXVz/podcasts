@@ -933,5 +933,14 @@
 			<itunes:duration>00:37:40</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/55299705/det_hemmeligste_carlsen.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Jan Stocklassas arv</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/55580637/det_hemmeligste_stocklassa.mp3</link>
+			<description>Den svenske forfatter Jan Stocklassa, som har skrevet bogen &quot;Stieg Larssons arv&quot; er hovedperson i en dokumentarserie om Palmemordet, som bla. kan ses på HBO MAX. Jan er gæst i DHADH.</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/55580637/det_hemmeligste_stocklassa.mp3</guid>
+			<pubDate>Sat, 01 Jul 2023 04:00:03 +0000</pubDate>
+			<itunes:duration>00:56:42</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/55580637/det_hemmeligste_stocklassa.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
