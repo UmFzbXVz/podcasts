@@ -169,5 +169,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54827006/s1_a16_noget_om_musik_til_film_med_kasper_juul_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Musikindustrien og Lydkunst med Silje Marie Schjødt aka Lihme (Del 1 af 2)</title>
+			<link>https://api.spreaker.com/download/episode/55269771/s1_a17_noget_om_musikindustrien_lydkunst_og_lyddesign_med_silje_marie_schj_dt_aka_lihme_mp3.mp3</link>
+			<description>I denne uge snakker vi med Silje Marie Schjødt, som har lavet alt fra forelæsninger til liveoptræden til lydkunst.(Del 1 af 2)Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/55269771/s1_a17_noget_om_musikindustrien_lydkunst_og_lyddesign_med_silje_marie_schj_dt_aka_lihme_mp3.mp3</guid>
+			<pubDate>Sun, 02 Jul 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/55269771/s1_a17_noget_om_musikindustrien_lydkunst_og_lyddesign_med_silje_marie_schj_dt_aka_lihme_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
