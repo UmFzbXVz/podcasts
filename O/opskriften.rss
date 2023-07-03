@@ -69,5 +69,14 @@
 			<itunes:duration>00:53:49</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54124807/mette_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på en gastronomisk revolution med Claus Meyer</title>
+			<link>https://api.spreaker.com/download/episode/54124832/clausmeyer_klippet.mp3</link>
+			<description>Dagens gæst er et fyrtårn i dansk gastronomi. Han har været på den danske madscene i over 30 år og lavet så mange forskellige projekter, at man bliver helt forpustet bare ved tanken. Han har revolutioneret det nordiske køkken med Noma, givet danskerne bedre brød, lavet mad i både fængsler og New York, startet festivaler og æbleplantager - alt sammen med en kæmpe passion og begejstring for mad. Dagens gæst er: Claus Meyer!Hvorfor elsker Claus Meyer Jesus? Hvordan har han det med Noma i dag? Og hvordan er det at vokse op i et hjem med 4 kummefrysere? Dagens opskrift lyder bl.a. på 1 kg lortemad og 3 spsk spiritualitet. Resten må du lytte dig til.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54124832/clausmeyer_klippet.mp3</guid>
+			<pubDate>Mon, 03 Jul 2023 03:00:02 +0000</pubDate>
+			<itunes:duration>00:53:47</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54124832/clausmeyer_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
