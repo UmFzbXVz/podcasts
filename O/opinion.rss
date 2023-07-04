@@ -690,5 +690,14 @@ David Trads er vært.</description>
 			<itunes:duration>00:53:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/55893982/pest_eller_kolera.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Må du som gæst besøge din værts toilet inden for 15 minutter?</title>
+			<link>https://api.spreaker.com/download/episode/55895581/15_minuttersreglen.mp3</link>
+			<description>Sommerdebatprogrammet Opinion dykker hver dag ned i livets helt store spørgsmål, vendinger, dilemmaer og ordsprog fra ordbogen, sangskatten, populærkulturen og dagligdagen - og ser om vi en gang for alle kan debattere os frem til et endeligt svar. Dagens emner:(00:58) Kommer der altid en sporvogn og en pige til?(23:35) Holder 15minutters reglen? Gæster:Lene Bojer, psykoterapeut &amp; kærlighedscoachRené Fredensborg, forfatter og journalistUwe Max Jensen, provokunstnerVært:Cecilie DumanskiTilrettelæggere: Oliver BærentsenJacob Pedersen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/55895581/15_minuttersreglen.mp3</guid>
+			<pubDate>Mon, 03 Jul 2023 11:54:13 +0000</pubDate>
+			<itunes:duration>00:52:58</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/55895581/15_minuttersreglen.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

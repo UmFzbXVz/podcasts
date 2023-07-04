@@ -1132,5 +1132,14 @@ I denne samtale giver Dennis dig et indblik i 5 måder, du kan bekæmpe pseudoar
 			<itunes:duration>00:01:51</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/55487200/adf_rd_sommerskole_intro_kopi.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Kapitel 1: Vidundermidlet 'slack' (Sommerskole)</title>
+			<link>https://api.spreaker.com/download/episode/55523315/sommerskole_afsnit_01_edit.mp3</link>
+			<description>Få al info om min Masterclass i adfærdesign lige her: https://mortenmunster.com/masterclass/ Vil du have fat i bogen ’Jytte Vender Tilbage’, så finder du den her: https://rb.gy/i05bb Brug rabatkoden: Sommerskole ///Dette er første afsnit af sommerskole, hvor vi gennemgår min bog Jytte Vender Tilbage. Hver tredje dag i hele juli går vi i dybden med et afsnit og uddrager de væsentligste redskaber og røverhistorier. Se det som et Rosé-supplement til din sommerferie, hvor du kan lære endnu mere om at ændre adfærd og skabe forandringer.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/55523315/sommerskole_afsnit_01_edit.mp3</guid>
+			<pubDate>Tue, 04 Jul 2023 04:30:02 +0000</pubDate>
+			<itunes:duration>00:28:26</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/55523315/sommerskole_afsnit_01_edit.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
