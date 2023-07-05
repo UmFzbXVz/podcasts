@@ -213,5 +213,14 @@
 			<itunes:duration>00:30:14</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54520922/reportagefm.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Er der et problem med Feminisme i Danmark?</title>
+			<link>https://api.spreaker.com/download/episode/55903649/femi33.mp3</link>
+			<description>I følge debattør Selma Voldtofte Rian er feminismen i Danmark udfordret. For når kvinder adopterer det undertrykkende sprog, som kvinder historisk har været udsat for, skaber vi ikke mere ligestilling i samfundet. Selma kalder denne form for feminisme for 'Girl Boss Feminism', - og hvad hun mener med det, det kan du høre i den her episode. Ungdomsbureauet ser nærmere på forskellige aspekter af ungdomslivet. Din vært Gunvor Barkholt dykker ned i nogle af de bekymringer, tanker og drømme der fylder hos ungdommen. Med andre ord, så ser vi nærmere på unges udfordringer og muligheder – En ad gangen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/55903649/femi33.mp3</guid>
+			<pubDate>Wed, 05 Jul 2023 05:00:03 +0000</pubDate>
+			<itunes:duration>00:30:01</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/55903649/femi33.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

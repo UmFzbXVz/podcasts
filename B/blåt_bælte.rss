@@ -783,5 +783,20 @@ Producer: Alexander Brøndum</description>
 			<itunes:duration>00:54:02</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/55993312/04072023.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Lars Tvede: Hvad kan Danmark lære af Schweiz?</title>
+			<link>https://api.spreaker.com/download/episode/56001558/selektion.mp3</link>
+			<description>I denne særudgave af Blåt Bælte taler Claes Theilgaard med serieiværksætter, investor og forfatter Lars Tvede.
+
+Samtalen kredser om, hvad Danmark kan lære af Schweiz, hvor Lars Tvede har boet i de sidste tre årtier. For selvom Danmark og Schweiz på nogle punkter minder om hinanden - begge er små, men rige europæiske lande - har Schweiz indrettet sig fundamentalt anderledes end os. F.eks. er den schweiziske stat er langt mindre og meget mere decentralt styret end den danske, og det kan vi danskere - hvis man spørger Lars Tvede - lære en hel del af.
+
+Vært og tilrettelægger: Claes Theilgaard
+
+Gæst: Lars Tvede</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56001558/selektion.mp3</guid>
+			<pubDate>Wed, 05 Jul 2023 11:49:22 +0000</pubDate>
+			<itunes:duration>00:53:22</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56001558/selektion.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
