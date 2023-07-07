@@ -992,5 +992,23 @@ Mille Ørsted</description>
 			<itunes:duration>00:16:26</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56002024/1_ruteoptakt.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Optakt til 7. etape: Mont-de-Marsan - Bordeaux</title>
+			<link>https://api.spreaker.com/download/episode/56015430/6_optakt_til_7_etape.mp3</link>
+			<description>Efter Pyrenæerne får sprinterne endnu en chance, når Tour de France besøger den klassiske sprinterby, Bordeaux. Hvem slår til, hvilken dansker klarer sig bedst, og bliver 7. etape dagen, hvor Mark Cavendish i hans karrieres absolutte efterår tangerne den legendariske Eddy Mercxk’s rekord på 35. etapesejre? Lyt med, når vi snakker optakt til Bordeaux</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56015430/6_optakt_til_7_etape.mp3</guid>
+			<pubDate>Thu, 06 Jul 2023 16:16:22 +0000</pubDate>
+			<itunes:duration>00:08:55</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56015430/6_optakt_til_7_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Analyse af 6. etape: Tarbes - Cauterets-Cambasque</title>
+			<link>https://api.spreaker.com/download/episode/56015421/5_analyse_af_6_etape.mp3</link>
+			<description>Hvad der lignede en veludført masterplan af Jumbo Visma på den dag, hvor de for alvor skulle isolere Pogacar og forsegle sejren til Jonas Vingegaard, blev med et enkelt angreb af det slovenske talent vendt totalt på hovedet.Vingegaard er i gult, men kun med 25 sølle sekunder til Pogacar, som har tanket fornyet selvtillid. Løbet er sprængt vidt åbnet, og i analysen vender vi, hvilken betydning det får for resten af et historisk spændende Tour de France.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56015421/5_analyse_af_6_etape.mp3</guid>
+			<pubDate>Thu, 06 Jul 2023 16:16:01 +0000</pubDate>
+			<itunes:duration>00:20:39</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56015421/5_analyse_af_6_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
