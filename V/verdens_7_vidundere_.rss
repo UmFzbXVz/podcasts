@@ -306,5 +306,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>00:57:41</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54652911/v7v_arkitektur.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 vigtigste resultater for LGBT+ Danmark gennem tiden</title>
+			<link>https://api.spreaker.com/download/episode/56013045/v7v_lgbtq.mp3</link>
+			<description>Gæst: Peter EdelbergKamp skal der til skal livet gro” fik Axel Axgil noteret på sin gravsten, citeret fra hans yndlingssalme. I år fejrer vi 75-året for den kamporganisation, Axel stiftede i 1948. Men hvilke er de 7 VIGTIGSTE RESULTATER AF 75 ÅRS KAMP for lighed og ret - og har det fået livet til at gro?Dagens episode af VERDENS 7 VIDUNDERE fokuserer på LGBT+ Danmark - verdens næstældste eksisterende LGBTI+ organisation og gæsten er PETER EDELBERG, Seksualitetshistoriker og pt. i færd med et forskningsprojekt om LGBTI+ aktivismen i Skandinavien!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56013045/v7v_lgbtq.mp3</guid>
+			<pubDate>Fri, 07 Jul 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:12:08</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56013045/v7v_lgbtq.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
