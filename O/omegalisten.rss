@@ -1414,5 +1414,23 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>02:37:19</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56000309/guilty_pleasure_vol_3_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>ALGA - En rejse ind i et fængende mørke.</title>
+			<link>https://api.spreaker.com/download/episode/56024228/alga.mp3</link>
+			<description>Dystopisk electro pop med iørefaldende hooks, desperation og en sjælfuld vokal.ALGA hedder duoen, og de er aktuel med deres første EP Don't buy me flowers, der udkom i Maj måned. Lyt med når  Alberte og Gabriel fra ALGA, tager lytterne med ind i deres mørke og magiske electro univers.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56024228/alga.mp3</guid>
+			<pubDate>Fri, 07 Jul 2023 09:23:01 +0000</pubDate>
+			<itunes:duration>01:05:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56024228/alga.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Nicolei Martin Aagaard Rasmusssen - Sort Nadver</title>
+			<link>https://api.spreaker.com/download/episode/56024233/nicolai_sort_nadver.mp3</link>
+			<description>Musik og kunst hænger ofte sammen - derfor er denne episode af Omegalisten, en smule anderledes.Stine Omega har nemlig besøg af Musiker og tegner Nicolei Martin Aagard Rassmussen. Han er aktuel med sin tegneserie Sort Nadver, som man blandt andet kunne opleve på dette års Copenhell. En grafisk novelle, fyldt med schlocky horror, nonner, sex og andre gustne ting. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56024233/nicolai_sort_nadver.mp3</guid>
+			<pubDate>Fri, 07 Jul 2023 09:13:52 +0000</pubDate>
+			<itunes:duration>01:09:14</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56024233/nicolai_sort_nadver.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
