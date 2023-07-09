@@ -293,5 +293,14 @@ Mail: radioteket@radioteket.dk</description>
 			<itunes:duration>00:46:38</itunes:duration>
 			<enclosure url="https://traffic.libsyn.com/secure/duftenafharpiks/Gidsel_02.mp3?dest-id=1587878" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Gul feber!</title>
+			<link>https://traffic.libsyn.com/secure/duftenafharpiks/Gul_feber_dah1.mp3?dest-id=1587878</link>
+			<description>Find podcast-serien her:  https://podcasts.apple.com/dk/podcast/michael-rasmussen-i-skyggen-af-den-gule-tr%C3%B8je/id1694266439   Giv den meget gerne stjerner, så bliver den mere synlig for andre, der måske vil lytte med.   Lyt på DR LYD https://www.dr.dk/lyd/special-radio/michael-rasmussen-podcast-3  </description>
+			<guid isPermaLink="true">https://traffic.libsyn.com/secure/duftenafharpiks/Gul_feber_dah1.mp3?dest-id=1587878</guid>
+			<pubDate>Sat, 08 Jul 2023 17:38:00 +0000</pubDate>
+			<itunes:duration>00:01:45</itunes:duration>
+			<enclosure url="https://traffic.libsyn.com/secure/duftenafharpiks/Gul_feber_dah1.mp3?dest-id=1587878" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
