@@ -1091,5 +1091,23 @@ Mille Ørsted</description>
 			<itunes:duration>00:18:39</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56052366/10_analyse_af_8_etape.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Optakt til 11. etape: Clermond-Ferrand - Moulins</title>
+			<link>https://api.spreaker.com/download/episode/56063587/16_optakt_til_11_etape.mp3</link>
+			<description>Halvvejs gennem løbet kommer den måske sidste mulighed for sprinterne inden Paris. Hvem skal levere, hvem kan overraske, og hvad skal vi forvente af denne 11. etape?</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56063587/16_optakt_til_11_etape.mp3</guid>
+			<pubDate>Tue, 11 Jul 2023 16:15:13 +0000</pubDate>
+			<itunes:duration>00:10:51</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56063587/16_optakt_til_11_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Analyse af 10. etape: Vulcania - Issoire</title>
+			<link>https://api.spreaker.com/download/episode/56063581/15_analyse_af_10_etape.mp3</link>
+			<description>Bagholdangreb! Snigmord! Pogacar tester Vingegaard på en profil, der på papiret lignede en tilforladelig udbrudsetape. Ingen lur på denne etape, hvor kun de stærkeste motorer kunne være med. Lyt med, når vi vender en af de mest intense etaper nogensinde i Massive Centrale, snakker om den svære udbryderkunst, snakker om de to flotte danske præstationer af Mathias Skjelmose og Kasper Asgreen, og stiller spørgsmålstegn ved Wout van Aert.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56063581/15_analyse_af_10_etape.mp3</guid>
+			<pubDate>Tue, 11 Jul 2023 16:14:10 +0000</pubDate>
+			<itunes:duration>00:23:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56063581/15_analyse_af_10_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

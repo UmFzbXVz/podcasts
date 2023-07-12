@@ -222,5 +222,14 @@
 			<itunes:duration>00:30:01</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/55903649/femi33.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Unge ravne i nattelivet</title>
+			<link>https://api.spreaker.com/download/episode/56010952/unge3.mp3</link>
+			<description>Hvis du en gang imellem er ude og feste i nattelivet, så har du måske lagt mærke til nogle personer, som går i rundt i gule jakker med sorte ravne på – det er de såkaldte natteravne, som skal skabe mere tryghed og sikkerhed i nattelivet. Men i de seneste par år er der en anden slags ravne, der er begyndt at gå på gaderne om natten, nemlig De Unge Ravne - og det er dem det handler om i den her episode. Vi har besøg af projektleder Turid Christensen og frivillig Nathalie Knudsen fra Unge Ravne.Ungdomsbureauet ser nærmere på forskellige aspekter af ungdomslivet. Din vært Gunvor Barkholt dykker ned i nogle af de bekymringer, tanker og drømme der fylder hos ungdommen. Med andre ord, så ser vi nærmere på unges udfordringer og muligheder – En ad gangen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56010952/unge3.mp3</guid>
+			<pubDate>Wed, 12 Jul 2023 05:00:03 +0000</pubDate>
+			<itunes:duration>00:34:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56010952/unge3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
