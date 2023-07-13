@@ -1109,5 +1109,23 @@ Mille Ørsted</description>
 			<itunes:duration>00:23:49</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56063581/15_analyse_af_10_etape.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Optakt til 12. etape: Roanne - Belleville-en-Beaujolais</title>
+			<link>https://api.spreaker.com/download/episode/56072759/18_optakt_til_12_etape.mp3</link>
+			<description>Der er dømt udbrud, når feltet bevæger sig ud på den stærkt kuperede 13. etape. Hvem er favoritter, hvem af danskerne kan vi regne med, og sætter Pogacar et overraskelsesangreb ind, når Vingegaard kigger den anden vej? Lyt med her. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56072759/18_optakt_til_12_etape.mp3</guid>
+			<pubDate>Thu, 13 Jul 2023 06:12:50 +0000</pubDate>
+			<itunes:duration>00:10:50</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56072759/18_optakt_til_12_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Analyse af 11. etape: Clermont-Ferrand - Moulins</title>
+			<link>https://api.spreaker.com/download/episode/56072758/17_analyse_af_11_etape.mp3</link>
+			<description>Jasper Philipsen gør det igen! En ny storhedstids blev indvarslet med sin 4 etapesejr ud af 5 mulige til den belgiske supersprinter. Lyt med når vi analyserer en etape, der bød på et kedeligt udbrud, rygter om sidevind, og en meget overbevisende afslutning. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56072758/17_analyse_af_11_etape.mp3</guid>
+			<pubDate>Thu, 13 Jul 2023 06:12:32 +0000</pubDate>
+			<itunes:duration>00:12:34</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56072758/17_analyse_af_11_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
