@@ -1432,5 +1432,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>01:09:14</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56024233/nicolai_sort_nadver.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Guilty Pleasure vol. 3.2 med Marie Louise Bank, Benjamin Clemens, Hanna Sandvik &amp;amp; Mads Folmer Vennits Richter</title>
+			<link>https://api.spreaker.com/download/episode/56083280/guilty_pleasure_vol_3_2.mp3</link>
+			<description>Omegalisten Guilty Pleasure er nu klar med endnu et toptunet panel som de næste par timer vi bekende deres musikalske synder. En udsendelse uden skam i livet.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56083280/guilty_pleasure_vol_3_2.mp3</guid>
+			<pubDate>Thu, 13 Jul 2023 07:28:34 +0000</pubDate>
+			<itunes:duration>02:36:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56083280/guilty_pleasure_vol_3_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
