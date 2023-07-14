@@ -1127,5 +1127,23 @@ Mille Ørsted</description>
 			<itunes:duration>00:12:34</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56072758/17_analyse_af_11_etape.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Optakt af 13. etape: Châtillon-Sur-Chalaronne - Grand Colombier</title>
+			<link>https://api.spreaker.com/download/episode/56090313/20_optakt_til_13_etape.mp3</link>
+			<description>Første slag i alperne! Grand Colombier venter som en historisk stigning, og glimrende mulighed for at tage tid på de værste konkurrenter. Jonas skal kæmpe mod Tadej, måske også om selve etapesejren. Lyt med, når vi kigger frem mod 13. etape af året tour. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56090313/20_optakt_til_13_etape.mp3</guid>
+			<pubDate>Thu, 13 Jul 2023 16:31:50 +0000</pubDate>
+			<itunes:duration>00:09:39</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56090313/20_optakt_til_13_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Analyse af 12. etape: Roanne - Belleville-en-Beaujolais</title>
+			<link>https://api.spreaker.com/download/episode/56090312/19_analyse_af_12_etape.mp3</link>
+			<description>Ingen hvile til feltets ryttere, som på denne sidste udbrudsetape I Massive Centrale kæmpede hele ubarmhjertige 80 kilometer på at komme væk. Mads P. kom med i det afgørende udbrud, Jonas Vingegaard måtte flere gange selv lukke huller, Wout van Aert prøvede igen sin egen chance, inden det blev til baskisk sejr. Lyt med, når vi analyser 12. etape af årets Tour de France</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56090312/19_analyse_af_12_etape.mp3</guid>
+			<pubDate>Thu, 13 Jul 2023 16:31:24 +0000</pubDate>
+			<itunes:duration>00:20:24</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56090312/19_analyse_af_12_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
