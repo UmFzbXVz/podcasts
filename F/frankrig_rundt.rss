@@ -1145,5 +1145,32 @@ Mille Ørsted</description>
 			<itunes:duration>00:20:24</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56090312/19_analyse_af_12_etape.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Optakt til 15. etape: Les Gets Les Portes du Soleil - Saint-Gervais Mont Blanc</title>
+			<link>https://api.spreaker.com/download/episode/56103010/23_optakt_til_15_etape.mp3</link>
+			<description>Inden en ekstremt hård og farlig etape dybt inde i Alperne, hvor klassement kan gennemrystes endnu en gang. Alt afhænger af hvordan lørdagens etape bliver kørt, men mange rytter har interesse i at komme alle i front, for enten etapesejren eller det samlede klassement. Lyt med, når vi varmer op til bjergkørsel, og sætter fokus på de danske muligheder. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56103010/23_optakt_til_15_etape.mp3</guid>
+			<pubDate>Fri, 14 Jul 2023 16:23:53 +0000</pubDate>
+			<itunes:duration>00:05:57</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56103010/23_optakt_til_15_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Optakt til 14. etape: Annemasse - Morzine les Portes de Soleil</title>
+			<link>https://api.spreaker.com/download/episode/56103009/22_optakt_til_14_etape.mp3</link>
+			<description>Vingegaard day a.k.a. nedslagtningen i alperne. Hvis alt går vel og som Jumbo Visma har planlagt bliver dette dagen, hvor Vingegaard genvinder Tour-tronen. 151 kilometer. 5. klassificerede stigninger. Den hidtil hårdeste etape i årets Tour de France med ubarmhjertige 4281 højdemeter. På profilen ligner den de etaper som Jonas brugte til at smadre Pogcar i 2022. Nu er spørgsmålet blot: Kan han gøre det igen? </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56103009/22_optakt_til_14_etape.mp3</guid>
+			<pubDate>Fri, 14 Jul 2023 16:23:37 +0000</pubDate>
+			<itunes:duration>00:09:05</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56103009/22_optakt_til_14_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Analyse af 13. etape: Chatillon-sur-Chalaronne - Grand Colombier</title>
+			<link>https://api.spreaker.com/download/episode/56103006/21_analyse_af_13_etape_rigtig.mp3</link>
+			<description>I det første bjergslag tog Pogacar sig yderligere sekunder i kampen mod Vingegaard. Men er det nok, inden weekendens alperæs? Hvor var Jumbo Visma henne, og kan Jonas være tilfreds? </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56103006/21_analyse_af_13_etape_rigtig.mp3</guid>
+			<pubDate>Fri, 14 Jul 2023 16:23:17 +0000</pubDate>
+			<itunes:duration>00:17:13</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56103006/21_analyse_af_13_etape_rigtig.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
