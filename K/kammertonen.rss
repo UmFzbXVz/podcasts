@@ -767,5 +767,14 @@ Wo ist Brünnhilde: https://open.spotify.com/track/2yg1MCk4sGXIT1vsyIWdPK?si=e51
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/55993420/kammertonen_9_juli_dr_mmed_den_mixdown_rx.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opera i sommervarmen</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/56109786/kammertonen_mp3.mp3</link>
+			<description>Hvad skal man høre i sommervarmen? Det har Johanne spurgt om på mailen kammertonen@24syv.dk – og søndagens program er derfor dedikeret til musik fra operaens verden, som kan få os til at blive helt væk i varmen…</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/56109786/kammertonen_mp3.mp3</guid>
+			<pubDate>Sun, 16 Jul 2023 12:00:02 +0000</pubDate>
+			<itunes:duration>00:54:20</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/56109786/kammertonen_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

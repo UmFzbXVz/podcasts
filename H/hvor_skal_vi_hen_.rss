@@ -141,5 +141,14 @@
 			<itunes:duration>00:54:19</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56000750/hvorskalvihen_anton_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Alfred Hestbech</title>
+			<link>https://api.spreaker.com/download/episode/56117181/alfreduploud_online_audio_converter_com.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56117181/alfreduploud_online_audio_converter_com.mp3</guid>
+			<pubDate>Sun, 16 Jul 2023 08:32:26 +0000</pubDate>
+			<itunes:duration>00:53:59</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56117181/alfreduploud_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

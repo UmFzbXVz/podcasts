@@ -187,5 +187,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56015159/s1_a18_noget_om_musikindustrien_og_lydkunst_med_silje_marie_schj_dt_aka_lihme_del_2_af_2_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Syncopation Studios og Roskilde Festival 2023 med Mikkel Mortensen</title>
+			<link>https://api.spreaker.com/download/episode/56064407/s1_a19_noget_om_syncopation_studios_og_roskilde_festival_2023_med_mikkel_mortensen_podcast.mp3</link>
+			<description>ROSKILDE SPECIAL! Roskilde 2023 var fedt! Mia Marie deler sine oplevelser, og så snakker vi med Mikkel Mortensen om Syncopation Studios.Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56064407/s1_a19_noget_om_syncopation_studios_og_roskilde_festival_2023_med_mikkel_mortensen_podcast.mp3</guid>
+			<pubDate>Sun, 16 Jul 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56064407/s1_a19_noget_om_syncopation_studios_og_roskilde_festival_2023_med_mikkel_mortensen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
