@@ -1172,5 +1172,41 @@ Mille Ørsted</description>
 			<itunes:duration>00:17:13</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56103006/21_analyse_af_13_etape_rigtig.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Kunsten at køre mod sig selv</title>
+			<link>https://api.spreaker.com/download/episode/56129005/27_lidt_l_l_l_om_enkeltstart.mp3</link>
+			<description>Frem mod morgendagens etape skal rytterne køre én og én og én. Lyt med, når vi taler om enkeltstarten i historisk perspektiv og taler om den helt unikke disciplin. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56129005/27_lidt_l_l_l_om_enkeltstart.mp3</guid>
+			<pubDate>Mon, 17 Jul 2023 16:21:29 +0000</pubDate>
+			<itunes:duration>00:18:27</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56129005/27_lidt_l_l_l_om_enkeltstart.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Optakt af 16. etape: Passy - Combloux</title>
+			<link>https://api.spreaker.com/download/episode/56129003/26_optakt_til_16_etape.mp3</link>
+			<description>Med sølle 10 sekunders forspring bliver enkeltstarten afgørende. 22,4 kilometer, med et regulært bjerg til sidst. Hvem har fordelen mellem Jonas og Tadej? Skifter de cykel, og får Danmark sin anden etapesejr? </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56129003/26_optakt_til_16_etape.mp3</guid>
+			<pubDate>Mon, 17 Jul 2023 16:21:10 +0000</pubDate>
+			<itunes:duration>00:15:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56129003/26_optakt_til_16_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Analyse af 15. etape: Les Gets les portes del Soleil - Saint Gervais Mont Blanc</title>
+			<link>https://api.spreaker.com/download/episode/56128991/25_analyse_af_15_etape.mp3</link>
+			<description>Pogacars pokerspil. Vingegaards kølighed. Tilskuerstyrt. 10 sekunder. Tour de France giver og giver, og ingen af de to konkurrenter kan sætte hinanden det mindste. Lyt med, når vi vender dagens vindere og tabere i det seneste bjergslag.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56128991/25_analyse_af_15_etape.mp3</guid>
+			<pubDate>Mon, 17 Jul 2023 16:20:31 +0000</pubDate>
+			<itunes:duration>00:19:58</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56128991/25_analyse_af_15_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Analyse af 14 etape: Annemasse - Morize Portes-des-Soleil</title>
+			<link>https://api.spreaker.com/download/episode/56128989/24_analyse_af_14_etape.mp3</link>
+			<description>Pogacar overrasker alle og får et hul til Vingegaard på den etape, der burde passe danskeren bedst. Vingegaard lukker hullet, og scorer bonussekunder på bjergtoppen. Kæmpe styrt, neutralisering, nedslidning, motorcykelfadæse og en overraskende vinder. Lyt med, når vi analyserer den vilde 15. etape. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56128989/24_analyse_af_14_etape.mp3</guid>
+			<pubDate>Mon, 17 Jul 2023 16:20:10 +0000</pubDate>
+			<itunes:duration>00:27:59</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56128989/24_analyse_af_14_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
