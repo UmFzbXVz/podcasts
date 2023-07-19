@@ -1653,5 +1653,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:18:34</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54092835/l_restreg_a_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Annas Nekrolog: Et argument for kærligheden</title>
+			<link>https://api.spreaker.com/download/episode/54835463/anna_stream.mp3</link>
+			<description>I mange år var Anna selverklæret kyniker. Men ét definerende øjeblik ændrede hendes liv og måden hun anskuede det på, for evigt. Nu føler hun sig som det heldigste menneske der nok nogensinde har gået på denne klode, og hvis hendes eftermæle bliver et rent argument for kærligheden, så er hun godt tilfreds.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54835463/anna_stream.mp3</guid>
+			<pubDate>Tue, 18 Jul 2023 20:00:03 +0000</pubDate>
+			<itunes:duration>00:53:58</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54835463/anna_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

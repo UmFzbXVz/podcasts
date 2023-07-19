@@ -231,5 +231,14 @@
 			<itunes:duration>00:34:54</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56010952/unge3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Fremtidens generationer og forholdet til teknologi</title>
+			<link>https://api.spreaker.com/download/episode/56070117/future3.mp3</link>
+			<description>”Unge er pionerer når de kommer til at håndtere nye teknologier og begå sig i forskellige virtuelle verdener. Samtidig fylder ungdommen meget lidt, når det kommer til den demokratiske samtale om teknologier og digitale platforme” – de her ord de stammer fra en udgivelse der har titlen ”Fremtiden med teknologi, ungdom og Demokrati”. Bag udgivelsen er Ungdomsbureauets projekt ’Future Generations Shaping Future Technology’ der er støttet af Meta. Hvad det er for et projekt og hvilket forhold unge har til teknologi skal vi blive klogere på i dag, og derfor er projektleder Oliver Anton og projektmedarbejder Anna Klode.Ungdomsbureauet ser nærmere på forskellige aspekter af ungdomslivet. Din vært Gunvor Barkholt dykker ned i nogle af de bekymringer, tanker og drømme der fylder hos ungdommen. Med andre ord, så ser vi nærmere på unges udfordringer og muligheder – En ad gangen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56070117/future3.mp3</guid>
+			<pubDate>Wed, 19 Jul 2023 05:00:02 +0000</pubDate>
+			<itunes:duration>00:31:18</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56070117/future3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

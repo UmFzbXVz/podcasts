@@ -1336,5 +1336,14 @@ Den her podcast er til dig, der har prøvet at være forelsket. Dig, der engang 
 			<itunes:duration>01:05:41</itunes:duration>
 			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/54542153/glenn_bech.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Vi er tilbage fra ferie på fredag</title>
+			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/55298324/ferie_afslutning_knuste_hjerter.mp3</link>
+			<description>Første afsnit efter ferien udkommer først på fredag d. 21 juli. For første gang nogensinde har jeg rykket et afsnit fra onsdag til fredag - så I kan høre hele historien fra den mand, der imorgen får den næstsidste rose i Bachelorette på TV2.</description>
+			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/55298324/ferie_afslutning_knuste_hjerter.mp3</guid>
+			<pubDate>Tue, 18 Jul 2023 22:05:01 +0000</pubDate>
+			<itunes:duration>00:00:56</itunes:duration>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/55298324/ferie_afslutning_knuste_hjerter.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
