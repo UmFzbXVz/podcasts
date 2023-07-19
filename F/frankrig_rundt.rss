@@ -1208,5 +1208,23 @@ Mille Ørsted</description>
 			<itunes:duration>00:27:59</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56128989/24_analyse_af_14_etape.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Optakt til 17. etape: Saint-Gervais Mont-Blanc - Courchevel</title>
+			<link>https://api.spreaker.com/download/episode/56139950/29_optakt_til_17_etape.mp3</link>
+			<description>Kongeetape. Knap 5500 højdemeter over 165 kilometer. Maks 24 procent. Efter gårsdagens magtdemonstration bliver det spændende at se, hvordan Jonas og Jumbo griber etapen an. Kører de hårdt for endegyldigt at knække Pogacar? Hvad skal sloveneren finde på, og er Vingegaards sejr sikker? </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56139950/29_optakt_til_17_etape.mp3</guid>
+			<pubDate>Tue, 18 Jul 2023 16:25:45 +0000</pubDate>
+			<itunes:duration>00:09:10</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56139950/29_optakt_til_17_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Analyse af 16. etape: Passy - Combloux</title>
+			<link>https://api.spreaker.com/download/episode/56139946/28_analyse_af_16_etape.mp3</link>
+			<description>Vingegaard smadrer alt og alle! Hvad der skulle afgøres på sekunder, er nu blevet en total magtdemonstration. Pogacar kunne intet stille op mod sømonstret fra Glyngøre. Så resterer kun spørgsmålet: Har Vingegaard vundet Tour de France? </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56139946/28_analyse_af_16_etape.mp3</guid>
+			<pubDate>Tue, 18 Jul 2023 16:25:27 +0000</pubDate>
+			<itunes:duration>00:13:02</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56139946/28_analyse_af_16_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
