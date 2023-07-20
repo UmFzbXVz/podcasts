@@ -1244,5 +1244,23 @@ Mille Ørsted</description>
 			<itunes:duration>00:10:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56156414/30_benovelse_over_17_etape.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Optakt til 19. etape: Moirans-en-Montagne - Poligny</title>
+			<link>https://api.spreaker.com/download/episode/56168777/33_optakt_til_19_etape.mp3</link>
+			<description>Sidste store udbrudsdag. Med knap 2000 højdemeter venter en kuperet etape, hvor mange ryttere drømmer om karrierens største sejr. Lyt med, når vi kigger frem mod touren 19. etape. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56168777/33_optakt_til_19_etape.mp3</guid>
+			<pubDate>Thu, 20 Jul 2023 16:17:54 +0000</pubDate>
+			<itunes:duration>00:10:01</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56168777/33_optakt_til_19_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Analyse af d. 18. etape: Moûtiers - Bourg-en-Bresse</title>
+			<link>https://api.spreaker.com/download/episode/56168776/32_analyse_og_jubel_over_18_etape.mp3</link>
+			<description>Hvem var det der vandt i dag? Det var ham fra SliceTown af! Kasper Asgreen holder det jagtende felt bag sig og vinder efter en hel dag i udbrudet. 3 danske etapesejre til tre forskellige ryttere!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56168776/32_analyse_og_jubel_over_18_etape.mp3</guid>
+			<pubDate>Thu, 20 Jul 2023 16:17:18 +0000</pubDate>
+			<itunes:duration>00:12:44</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56168776/32_analyse_og_jubel_over_18_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
