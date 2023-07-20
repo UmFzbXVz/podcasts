@@ -1226,5 +1226,23 @@ Mille Ørsted</description>
 			<itunes:duration>00:13:02</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56139946/28_analyse_af_16_etape.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Optakt til 18. etape: Moûtiers - Bourg-en-Bresse</title>
+			<link>https://api.spreaker.com/download/episode/56156415/31_opakt_til_en_ligegyldig_18_etape.mp3</link>
+			<description>I morgen kan feltet trække vejret. De få, resterende sprintere får endnu en mulighed for at vinde en etape. Men spørgsmålet er: Har holdene kræfterne til at holde udbryderne i kort snor? Får Philipsen sin femte etapesejr, og hvad med en vis Mads P.?</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56156415/31_opakt_til_en_ligegyldig_18_etape.mp3</guid>
+			<pubDate>Wed, 19 Jul 2023 16:17:52 +0000</pubDate>
+			<itunes:duration>00:05:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56156415/31_opakt_til_en_ligegyldig_18_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Analyse af 17. etape: Saint-Gervais Mont-Blanc - Courchevel</title>
+			<link>https://api.spreaker.com/download/episode/56156414/30_benovelse_over_17_etape.mp3</link>
+			<description>Slagteri. Gentænkning af den moderne cykelsport. Pogacar oplever karrierens største krise og Jonas Vingegaard vinder Tour de France. Lyt med, når vi analyser den vanvittige kongeetape. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56156414/30_benovelse_over_17_etape.mp3</guid>
+			<pubDate>Wed, 19 Jul 2023 16:17:25 +0000</pubDate>
+			<itunes:duration>00:10:53</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56156414/30_benovelse_over_17_etape.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
