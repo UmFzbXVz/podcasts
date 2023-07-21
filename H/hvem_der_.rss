@@ -125,5 +125,14 @@ I samtaleprogrammet “Hvem Der?” åbner vi hver uge dørene op til et nyt ung
 			<itunes:duration>00:54:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54355738/f_rdig_sanna_banana.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>True 'Hvem Der': Jonathans mystiske forsvinden</title>
+			<link>https://api.spreaker.com/download/episode/56166356/truehvemder.mp3</link>
+			<description>True Crime podcast-værten Casper Ell Hylander er klar med første og sidste afsnit af Hvem Ders true crime satsning: 'Spøgefuglen Jonathan.'Hør den hjerteskærende historie om den unge mand Jonathan, der forsandt sporløst i 2017 fra sit hjem i den lille amerikansk by, Havenholm. Sagen fik byen på den anden ende, og vennerne Mark og Lisa gjorde alt i deres magt for at finde Jonathan. Men var det nok?Og er det ægte, true, true crime, hvis der slet ikke er et mord i historien?Og hvor længe kan man egentlig læse op meget stift, mens en masse lyttere stadig hænger på? Alt det, og ikke ret meget mere i dette afsnit.*Dette afsnit er fiktion. Vært og tilrettelægger:Casper Ell Hausner Olsen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56166356/truehvemder.mp3</guid>
+			<pubDate>Thu, 20 Jul 2023 12:24:03 +0000</pubDate>
+			<itunes:duration>00:23:44</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56166356/truehvemder.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
