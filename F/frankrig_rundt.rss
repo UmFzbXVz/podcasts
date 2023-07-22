@@ -1262,5 +1262,23 @@ Mille Ørsted</description>
 			<itunes:duration>00:12:44</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56168776/32_analyse_og_jubel_over_18_etape.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Optakt til 20. etape: Belfort - Le Markstein</title>
+			<link>https://api.spreaker.com/download/episode/56178630/24syv_on_air_ukomprimeret_processeret_wav_20230721153021_9416.mp3</link>
+			<description>Slaget i Vogeserne: Angriber sloveneren fra starten i håbet om oprejsning? Vil Vingegaard slutte touren af med endnu en etapesejr? Kommer der et bagholdsangreb? Lyt med, når vi ser frem mod den 20. og sidste farlige etape i Tour de France, hvor feltet over kun 133 kilometer skal forcere hele 6 kategoriserede stigninger. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56178630/24syv_on_air_ukomprimeret_processeret_wav_20230721153021_9416.mp3</guid>
+			<pubDate>Fri, 21 Jul 2023 16:24:12 +0000</pubDate>
+			<itunes:duration>00:12:57</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56178630/24syv_on_air_ukomprimeret_processeret_wav_20230721153021_9416.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Analyse af 19. etape: Moirans-en-Montagne - Poligny</title>
+			<link>https://api.spreaker.com/download/episode/56178504/24syv_on_air_ukomprimeret_processeret_wav_20230721151823_9520.mp3</link>
+			<description>D. 19 etape af årets tour blev udbrydernes dag. Og det blev nææææsten... med et enkelt dækbredde også Kasper Asgreens dag, efter at han på de allersidste centimer tabte etapen til den snu slovener, Matej Mohoric. Lyt med, når vi diskuterer en vild etape stopfuld af angreb dybt inde i tourens tredje uge, hvor en masse flotte danske præstationer lå lige under overfladen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56178504/24syv_on_air_ukomprimeret_processeret_wav_20230721151823_9520.mp3</guid>
+			<pubDate>Fri, 21 Jul 2023 16:19:51 +0000</pubDate>
+			<itunes:duration>00:10:05</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56178504/24syv_on_air_ukomprimeret_processeret_wav_20230721151823_9520.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
