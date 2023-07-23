@@ -196,5 +196,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56064407/s1_a19_noget_om_syncopation_studios_og_roskilde_festival_2023_med_mikkel_mortensen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Første Season af Griner Hele Vejen til Branchen</title>
+			<link>https://api.spreaker.com/download/episode/56156138/s1_a20_noget_om_f_rste_season_af_ghvtb_podcast.mp3</link>
+			<description>Season afslutningen er her! I denne uge kigger vi tilbage på hvad vi har lært, og snakker om vores fremtidige planer.Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56156138/s1_a20_noget_om_f_rste_season_af_ghvtb_podcast.mp3</guid>
+			<pubDate>Sun, 23 Jul 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56156138/s1_a20_noget_om_f_rste_season_af_ghvtb_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
