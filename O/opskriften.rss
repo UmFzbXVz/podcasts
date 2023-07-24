@@ -96,5 +96,14 @@
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54124848/ane_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på et langt liv i showbiz med Pernille Højmark</title>
+			<link>https://api.spreaker.com/download/episode/54739204/pernille_klippet.mp3</link>
+			<description>Dagens gæst er både skuespiller og sanger, og hun har medvirket i utallige film og teaterstykker som bl.a. tæller TAXA og Krøniken. Hun er en mester i at synge dansktop, og så har hun opvarmet for selveste Whitney Houston. Hun elsker Pippi, og så er hun ikke færdig i showbizz! Dagens gæst er: Pernille Højmark! Hvordan rejser man sig fra en meget hård opvækst? Hvordan slår man igennem i showbizz? Hvordan var det at varme op for Whitney Houston? Og hvad er der galt med filmcastingen i Danmark? Så prøv da at give programmet et lyt????</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54739204/pernille_klippet.mp3</guid>
+			<pubDate>Mon, 24 Jul 2023 03:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54739204/pernille_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
