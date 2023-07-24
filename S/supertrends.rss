@@ -251,5 +251,14 @@ Jakob Lave - LinkedInTilrettelægger: Liselotte Lyngsø og Denis Rivin - LinkedI
 			<itunes:duration>01:06:18</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54835125/fremtidens_rumfart_master.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Cybersikkerhed</title>
+			<link>https://api.spreaker.com/download/episode/56175773/cyberspace_master.mp3</link>
+			<description>Cyberangreb stjæler 1% af BNP.Det bliver både lettere, mere sikkert og lige så rentabelt at lave cyberangreb fremfor narkohandel. Hør hvordan vi beskytter os selv i en rivende udvikling med nye former for globale angreb, blockchain og kvante computere der ændrer spillebanen for både borgere, White og Black Hat Hackere.Værter:Liselotte Lyngsø - LinkedInIværksætter og forfatter Lars Tvede - LinkedInMedvirkende:Eskil Sørensen, CEO Cybercue - LinkedInTilrettelægger:Liselotte Lyngsø og Denis Rivin - LinkedInProducent: Kim Pihl-Vester - LinkedIn</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56175773/cyberspace_master.mp3</guid>
+			<pubDate>Mon, 24 Jul 2023 04:10:02 +0000</pubDate>
+			<itunes:duration>00:54:04</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56175773/cyberspace_master.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
