@@ -5790,5 +5790,27 @@ Emma Vinkel</description>
 			<itunes:duration>00:30:45</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56176787/d_gnrapporten_210723.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ekspert i seriemordere: Vi er nødt til at forstå dem for at stoppe dem</title>
+			<link>https://api.spreaker.com/download/episode/56198199/florence_f_rdig_med_rettelser.mp3</link>
+			<description>Ifølge kriminalpsykolog og ekspert i seriemordere Florence McLean er mordere ikke onde, selvom deres onde handlinger kan gennemsyre deres personlighed. I stedet er vi nødt til at interessere os for, hvordan mordere bliver til, hvis vi skal forebygge, at uskyldige bliver slået ihjel.
+
+Medvirkende: 
+Florence McLean, kriminalpsykolog og forfatter til flere bøger om seriemordere
+
+Vært:
+Toke Gripping
+
+Tilrettelæggere: 
+Majlinda Urban Kuci
+Søren Bak
+
+Redaktør: 
+Emma Vinkel</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56198199/florence_f_rdig_med_rettelser.mp3</guid>
+			<pubDate>Mon, 24 Jul 2023 13:00:03 +0000</pubDate>
+			<itunes:duration>00:31:07</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56198199/florence_f_rdig_med_rettelser.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
