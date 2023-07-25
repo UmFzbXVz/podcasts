@@ -176,5 +176,23 @@ Gæster: Emil Winckler, politisk redaktør og Oscar Rothstein, Danwatch</descrip
 			<itunes:duration>00:00:07</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/50416737/trodsig.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Tak til Løkke!</title>
+			<link>https://api.spreaker.com/download/episode/56207984/del_2.mp3</link>
+			<description>Tak til Lars Løkke Rasmussen for at fordømme Koran-afbrændingerne, udbryder vært David Trads!Og Morten Reimar, politisk kommentator, kritiser SVM-regeringen for ikke at ane, hvad den vil. Vært: David TradsGæst: Morten Reimar</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56207984/del_2.mp3</guid>
+			<pubDate>Tue, 25 Jul 2023 08:30:39 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56207984/del_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>'Selvfølgelig er jeg dansker…jeg har bare også en tyrkisk baggrund'</title>
+			<link>https://api.spreaker.com/download/episode/56207983/del_1.mp3</link>
+			<description>‘Selvfølgelig er jeg dansker…jeg har bare også en tyrkisk baggrund,’ fortæller Cihat Bardak i en åbenhjertig samtale med vært David Trads om den danske udlændingedebat.Vært: David TradsGæst: Cihat Bardak</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56207983/del_1.mp3</guid>
+			<pubDate>Tue, 25 Jul 2023 08:29:09 +0000</pubDate>
+			<itunes:duration>00:53:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56207983/del_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
