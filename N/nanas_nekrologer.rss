@@ -1662,5 +1662,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:58</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54835463/anna_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Josephines Nekrolog: Med et hjerte så stort, at man kan kravle ind i det</title>
+			<link>https://api.spreaker.com/download/episode/56155706/josephine_stream.mp3</link>
+			<description>Josephine elsker at lave kunstværker af tekstil - blandt andet har hun undstillet en blød hybenrose-skulptur på 3 1/2 meter, og et kæmpe, anatomisk hjerte, som hun har efterladt på Testrup Højskole. I dag gennemgår hun sit liv med os. Blandt andet hendes år på handelsskolen som hun fortryder, fordi de såede en grundtvivl i hende, der slog rødder og stadig sidder i hende i dag. Men samtidig med, at Josephine følte sig mindre og mindre, begyndte hendes kunst at vokse sig større og større.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56155706/josephine_stream.mp3</guid>
+			<pubDate>Mon, 24 Jul 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:54:03</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56155706/josephine_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
