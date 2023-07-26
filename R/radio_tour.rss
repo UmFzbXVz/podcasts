@@ -1716,5 +1716,14 @@
 			<itunes:duration>01:03:18</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54552096/rt_med_m_rk_v_pod.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Vingegaards store triumf og farvel til store profiler</title>
+			<link>https://api.spreaker.com/download/episode/56211337/rttilpod.mp3</link>
+			<description>Radio Tour analyserer årets Tour de France og hvilke oplevelser, der står klarest i hukommelsen for dagens panel.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56211337/rttilpod.mp3</guid>
+			<pubDate>Tue, 25 Jul 2023 12:25:36 +0000</pubDate>
+			<itunes:duration>01:07:10</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56211337/rttilpod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

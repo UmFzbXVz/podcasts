@@ -1671,5 +1671,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:54:03</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56155706/josephine_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Mathias' Nekrolog: Et forsvar af co-dependence</title>
+			<link>https://api.spreaker.com/download/episode/56156232/mathias_stream.mp3</link>
+			<description>Mathias er ikke bange for at indrømme, at han har brug for andre mennesker - særligt sin partner. Mathias anfægter faktisk den stigende insisteren på selvstændighed i samfundet. Han lever i et meget symbiotisk forhold med sin forlovede, og skammer sig ikke over det. Og når han en dag skal dø, håber han, at det sidste han vil se, er deres første møde.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56156232/mathias_stream.mp3</guid>
+			<pubDate>Tue, 25 Jul 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:53:05</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56156232/mathias_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
