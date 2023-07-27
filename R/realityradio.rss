@@ -231,5 +231,14 @@
 			<itunes:duration>00:53:15</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54585454/vild_k_rlighed_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Har landmænd sværere ved at finde kærligheden?</title>
+			<link>https://api.spreaker.com/download/episode/56228924/realityradio_lsk_podcast.mp3</link>
+			<description>For tiende gang er en række landmænd klar til at lede efter kærligheden i TV2’s datingprogram ‘Landmand søger kærlighed’. Men hvorfor er det så svært for landmænd at date og finde kærligheden, siden de skal have et specifikt datingprogram? Og hvordan har det været for landmændene, der i forvejen har svært ved date, pludselig at skulle gøre det for rullende kamera og Hr. og Fru Danmark? Gæster:Linea Pedersen, medvirkende i 'Landmand søger kærlighed' sæson 10 Niels Erik Wegger, medvirkende i 'Landmand søger kærlighed' sæson 10Katja Gullaksen, medvirkende i 'Landmand søger kærlighed' sæson 9Vært og tilrettelægger: Cecilie Dumanski</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56228924/realityradio_lsk_podcast.mp3</guid>
+			<pubDate>Wed, 26 Jul 2023 16:54:14 +0000</pubDate>
+			<itunes:duration>01:02:24</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56228924/realityradio_lsk_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
