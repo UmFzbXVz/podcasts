@@ -249,5 +249,14 @@
 			<itunes:duration>00:53:39</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54138199/frankenstein.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Når Satan kommer til byen</title>
+			<link>https://api.spreaker.com/download/episode/56249439/bulgakov.mp3</link>
+			<description>I Mikhail Bulgakovs mesterværk “Mesteren og Margarita” er djævlen bogstaveligt talt løs i 1930’erne Moskva. Med sit farverige følge skal han holde et storslået bal med verdenshistoriens største skurke som gæster, og samtidig tjekke, om den kommunistiske ideologi vitterligt har forbedret menneskeheden. Gang på gang ender Satan kaldet Woland med at afsløre sovjetternes hykleri. Hovederne ruller og bureaukraterne mister forstanden i det kaos, der hurtigt. Man forstår hurtigt, hvorfor bogen ikke kunne trykkes i Sovjetunionen før 1968: Den er simpelthen for farlig en satire over den sovjetiske drøm. Lyt med, når vi sammen med forfatter og oversætter Jakob Levinsen snakker om den diabolske bog, som naturligvis også inspirerede The Rollings Stones “Sympathy for the Devil”.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56249439/bulgakov.mp3</guid>
+			<pubDate>Thu, 27 Jul 2023 16:18:59 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56249439/bulgakov.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
