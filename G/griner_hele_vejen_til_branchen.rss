@@ -205,5 +205,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56156138/s1_a20_noget_om_f_rste_season_af_ghvtb_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Musikanmeldelse og Musiklivet med Niels Andersen</title>
+			<link>https://api.spreaker.com/download/episode/56251874/s2_a1_noget_om_musikanmeldelse_og_musiklivet_med_niels_andersen_podcast.mp3</link>
+			<description>I denne uge snakker vi med Niels Anderson, som har studeret musikvidenskab på Aarhus universitet, om musikanmeldelse og livet med musik.Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56251874/s2_a1_noget_om_musikanmeldelse_og_musiklivet_med_niels_andersen_podcast.mp3</guid>
+			<pubDate>Sun, 30 Jul 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:53</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56251874/s2_a1_noget_om_musikanmeldelse_og_musiklivet_med_niels_andersen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
