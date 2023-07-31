@@ -105,5 +105,14 @@
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54739204/pernille_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på god arkitektur med Bjarke Ingels</title>
+			<link>https://api.spreaker.com/download/episode/54740908/bjarke_klippet.mp3</link>
+			<description>Dagens gæst er en vaskeægte verdensstjerne. Han har Elon Musk på speed-dial og hygger med Robert De Niro. Hans tegnestue BIG, har tegnet nogle af de vildeste bygninger i verden, som tæller et forbrændingsanlæg med en skibakke, en selvforsynende ø med huse bygget af strå og tang, og et museum i en bro. Han er energisk, visionær, kreativ, og så har han altid ja-hatten på! Dagens gæst er: Bjarke Ingels!!Hvad er dårlig arkitektur ifølge Bjarke? Hvorfor levede han af pasta ansjos i 6 måneder? Hvordan bevarer man ja-hatten? Og blev han arkitekt ved et tilfælde? Lyt med og få hele opskriften. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54740908/bjarke_klippet.mp3</guid>
+			<pubDate>Mon, 31 Jul 2023 03:00:02 +0000</pubDate>
+			<itunes:duration>00:53:48</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/54740908/bjarke_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
