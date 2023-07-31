@@ -807,5 +807,23 @@
 			<itunes:duration>00:53:46</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54552379/t_ndr_r.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Låsesmed taler ud: &quot;Hans hoved var blevet spist&quot;</title>
+			<link>https://api.spreaker.com/download/episode/56318509/laasesmed2.mp3</link>
+			<description>Antallet af låsesmede er faldet markant. I 2012 blev der udlært 19 låsesmede, og ti år efter kun to. Det er på trods af, at livet som låsesmed er fyldt med spænding. Vi har talt med Preben Hansen, cand.fil, forfatteren bag bogen 'Nøglehullet', som fortæller om de både sjove og skrækindjagende situationer, man kan stå i som låsesmed.Værter: Anton Ringdal &amp; Kristoffer KristensenRedaktion: Simon PorseProducer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56318509/laasesmed2.mp3</guid>
+			<pubDate>Mon, 31 Jul 2023 14:25:37 +0000</pubDate>
+			<itunes:duration>00:53:40</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56318509/laasesmed2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Låsesmed taler ud: &quot;Jeg kan sende 2-3 politibetjente i fængsel&quot;</title>
+			<link>https://api.spreaker.com/download/episode/56318508/laasesmed1.mp3</link>
+			<description>Antallet af låsesmede er faldet markant. I 2012 blev der udlært 19 låsesmede, og ti år efter kun to. Det er på trods af, at livet som låsesmed er fyldt med spænding. Vi har talt med Preben Hansen, cand.fil, forfatteren bag bogen 'Nøglehullet', som fortæller om de både sjove og skrækindjagende situationer, man kan stå i som låsesmed.Værter: Anton Ringdal &amp; Kristoffer KristensenRedaktion: Simon PorseProducer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56318508/laasesmed1.mp3</guid>
+			<pubDate>Mon, 31 Jul 2023 14:25:20 +0000</pubDate>
+			<itunes:duration>01:05:43</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56318508/laasesmed1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
