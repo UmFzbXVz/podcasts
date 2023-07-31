@@ -5902,5 +5902,26 @@ Emma Vinkel</description>
 			<itunes:duration>00:25:22</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56228851/d_gnrapporten_280723.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Pædagogen Klaus uskyldigt anklaget 1:2: “Det var et helvede”</title>
+			<link>https://api.spreaker.com/download/episode/56319273/310723_d_gnrapporten.mp3</link>
+			<description>I efteråret 2021 blev 49-årige Klaus Nygaard fra Rødovre anholdt og varetægtsfængslet på grund af anklager om, at han skulle have voldtaget en beboer på det bosted, hvor han arbejdede. Først i 2023 vælger politiet at droppe sagen mod ham. Nu står han frem og fortæller sin historie. 
+
+Medvirkende:
+Klaus Nygård, pædagog
+
+Vært:
+Søren Bak
+
+Tilrettelæggere:
+Søren Bak
+
+Redaktør:
+Emma Vinkel</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56319273/310723_d_gnrapporten.mp3</guid>
+			<pubDate>Mon, 31 Jul 2023 13:00:02 +0000</pubDate>
+			<itunes:duration>01:44:20</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56319273/310723_d_gnrapporten.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
