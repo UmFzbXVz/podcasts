@@ -1680,5 +1680,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:05</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56156232/mathias_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Charlies Nekrolog: Skaberen af rum - bogstaveligt &amp;amp; i overført betydning</title>
+			<link>https://api.spreaker.com/download/episode/56199914/charlie_stream.mp3</link>
+			<description>I Spanien står et hus Charlie selv har tegnet i et 3D-program, da han var 14 år gammel. Lige siden da har han elsket og viet sit liv til digital 3D-kunst. Charlie har også bygget møblerne til sit eget værelse - et værelse i en lejlighed i Sydhavnen, han har gjort til sit hjem, med højt til loftet og langt væk fra en presserende skilsmisse. Hør Charlie gøre status over sit liv og sætte ord på det mærkelige forhold mellem at være virkelig lykkelig for, endelig at flytte hjemmefra, men samtidig også at være ked af, at det ikke gik at bo derhjemme.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56199914/charlie_stream.mp3</guid>
+			<pubDate>Mon, 31 Jul 2023 20:00:03 +0000</pubDate>
+			<itunes:duration>00:54:04</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56199914/charlie_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
