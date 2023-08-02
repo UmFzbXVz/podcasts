@@ -1725,5 +1725,14 @@
 			<itunes:duration>01:07:10</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56211337/rttilpod.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>En skål i St. Raphael og fokus på VM</title>
+			<link>https://api.spreaker.com/download/episode/56343458/radio_tour_0208.mp3</link>
+			<description>Der er mandefald i Radio Tour studiet, men det holder ikke Brian Holm og Per Bausager tilbage.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56343458/radio_tour_0208.mp3</guid>
+			<pubDate>Wed, 02 Aug 2023 07:30:51 +0000</pubDate>
+			<itunes:duration>00:57:00</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56343458/radio_tour_0208.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

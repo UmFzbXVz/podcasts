@@ -2931,5 +2931,18 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:28:45</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56332798/konfliktzonen_0108.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Droneangreb i Moskva</title>
+			<link>https://api.spreaker.com/download/episode/56343366/konfliktzonen_0208.mp3</link>
+			<description>Gentagende droneangreb i den russiske hovedstad bliver af Kreml kaldt for ukrainske terrorangreb. Og den russiske regering benytter angrebene til at argumentere for, at der skal skrues op for indsatsen i Ukraine. På den anden side står den ukrainske regering, som mener, at krigen rykker tættere på Rusland.
+Medvirkende:
+(01:05) Esben Salling Larsen, major og militæranalytiker ved Forsvarsakademiet.
+(10:30) Stefan Weichert, dansk journalist i Kyiv, Ukraine.
+(18:15) Valentyna Shapovalova, ph.d.-studerende ved Københavns Universitet med særligt fokus på disinformation og propaganda i russiske medier.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56343366/konfliktzonen_0208.mp3</guid>
+			<pubDate>Wed, 02 Aug 2023 07:20:58 +0000</pubDate>
+			<itunes:duration>00:28:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56343366/konfliktzonen_0208.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
