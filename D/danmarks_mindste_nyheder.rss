@@ -825,5 +825,14 @@
 			<itunes:duration>01:05:43</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56318508/laasesmed1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Live fra Barbie-museet: &quot;Barbie og Ken er faktisk søskende&quot;</title>
+			<link>https://api.spreaker.com/download/episode/56346869/0802_barbie_mp3.mp3</link>
+			<description>Folk styrter ind i biografen for at se filmen om verdens mest kendte plastickvinde, 'Barbie', og dukken er populær som aldrig før. Og én, der virkelig kender Barbie, er Lene Darlie Pedersen, der ejer Danmarks eneste Barbie-museum.Vi kommer helt tæt på hendes personlige samling af hundredvis af dukker, og så giver hun sin anmeldelse af filmen.Værter: Anton Ringdal &amp; Kristoffer KristensenRedaktion: Simon Porse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56346869/0802_barbie_mp3.mp3</guid>
+			<pubDate>Wed, 02 Aug 2023 15:11:17 +0000</pubDate>
+			<itunes:duration>00:53:48</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56346869/0802_barbie_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
