@@ -2944,5 +2944,17 @@ Medvirkende:
 			<itunes:duration>00:28:38</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56343366/konfliktzonen_0208.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Trumps historiske retssag</title>
+			<link>https://api.spreaker.com/download/episode/56353246/konfliktzonen_0308.mp3</link>
+			<description>Donald Trump turnerede efter præsidentvalgkampen i 2020 med budskabet om, at valgsejren var blevet stjålet. Løgnen eskalerede, da vrede Trump-støtter gik til angreb den 6. januar. Nu venter en historisk retssag, hvor Trump er anklaget for at have sammensværget mod det amerikanske demokrati. Men - det behøver ikke nødvendigvis være en ulempe for hans politiske karriere.
+Medvirkende:
+(01:20) Anne Alling, journalist i Nashville, Tennessee.
+(16:15) Mads Dalgaard Madsen, ledelsesrådgiver i Ramböll og tidl. indenrigspolitisk rådgiver ved den danske ambassade i USA.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56353246/konfliktzonen_0308.mp3</guid>
+			<pubDate>Thu, 03 Aug 2023 06:49:30 +0000</pubDate>
+			<itunes:duration>00:28:40</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56353246/konfliktzonen_0308.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
