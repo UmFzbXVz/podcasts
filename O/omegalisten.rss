@@ -1441,5 +1441,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>02:36:49</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56083280/guilty_pleasure_vol_3_2.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hyggetime med hardcore bandet Rot Away</title>
+			<link>https://api.spreaker.com/download/episode/56360362/rot_away.mp3</link>
+			<description>Selvom de fleste kalder det københavnske hardcore Rot Away for et bølleriff- band, med hang til at gå over grænsen med deres vilde live optrædener.Er de rent faktisk bare et band, som gerne vil hygge sig, og have det sjovt! Det er de virkelig også gode til! Lyt med når Ole &amp; Jonathan fra Rotaway er forbi Omegalisten til to timers råhygge, med en masse fedt musik og dybe historier.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56360362/rot_away.mp3</guid>
+			<pubDate>Fri, 04 Aug 2023 04:35:02 +0000</pubDate>
+			<itunes:duration>02:12:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56360362/rot_away.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

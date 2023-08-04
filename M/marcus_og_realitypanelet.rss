@@ -393,5 +393,14 @@
 			<itunes:duration>00:54:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56229914/de_dyre_piger_thit_ida_og_sabrina.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Bachelorette panelet: Adam og Kasper: &quot;SANDHEDEN OM BACHELORETTE!&quot;</title>
+			<link>https://api.spreaker.com/download/episode/56335344/adam_og_kasper_bachelorette.mp3</link>
+			<description>Hvorfor tog Kasper en ølbong med røven? Har Stig knaldet med Mette? Droppede Adam virkelig sociale medier? Marcus har mange spørgsmål til de 2 drenge, der har fået til opgave at besvare alle de spørgsmål der er opstået i forbindelse med Bachelorette. Udover at drengene fortæller hvad der egentlig foregik bag kameraerne, hjælper de både Dennis Knudsen, Cardi B og 8Ball bandet, ud af deres shitstorm. Din vært er Marcus Eklund og du er med på en lytter.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56335344/adam_og_kasper_bachelorette.mp3</guid>
+			<pubDate>Fri, 04 Aug 2023 04:00:03 +0000</pubDate>
+			<itunes:duration>00:54:04</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56335344/adam_og_kasper_bachelorette.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
