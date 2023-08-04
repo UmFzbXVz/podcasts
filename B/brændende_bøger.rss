@@ -258,5 +258,14 @@
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56249439/bulgakov.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Twilight</title>
+			<link>https://api.spreaker.com/download/episode/56357975/twillight.mp3</link>
+			<description>Hvis der var en bog, der satte millioner af teenagehjerter i brand, og påvirkede en hel generation med sine indbyggede idéer om begær og kærlighed, må det være Twilight. Skrevet af den amerikanske forfatter Stephenie Meyer, er det historien om teenagepigen Isabella Swan, der flytter op til sin far i en lille by midt i Washingtons-statens skove, for der at forelske sig i den 109-årige vampyr, Edward Cullen.   Men hvad var det ved den her teenageromance, som gjorde bogen til en verdensomspændende succes? Hvad lærte en hel generation om kærlighedens veje og vildveje i Bella og Edwards forhold, og hvorfor er de i en af verdenshistoriens største romancer så langt fra nogensinde at have sex?Lyt med, når vi sammen med Nanna Schmidt Nordestgaard sætter fokus på en af de mest udskælte og elskede læseoplevelser.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56357975/twillight.mp3</guid>
+			<pubDate>Thu, 03 Aug 2023 16:18:15 +0000</pubDate>
+			<itunes:duration>00:53:22</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56357975/twillight.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
