@@ -214,5 +214,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56251874/s2_a1_noget_om_musikanmeldelse_og_musiklivet_med_niels_andersen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om en ny Introsang med Valdemar Harris</title>
+			<link>https://api.spreaker.com/download/episode/56251876/s2_a2_noget_om_en_ny_introsang_med_valdemar_harris_podcast.mp3</link>
+			<description>I denne uge laver vi en ny introsang med hjælpe fra produceren Valdemar Harris!!!Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56251876/s2_a2_noget_om_en_ny_introsang_med_valdemar_harris_podcast.mp3</guid>
+			<pubDate>Sun, 06 Aug 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56251876/s2_a2_noget_om_en_ny_introsang_med_valdemar_harris_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
