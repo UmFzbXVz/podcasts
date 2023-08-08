@@ -88,5 +88,14 @@
 			<itunes:duration>01:25:22</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/55233395/gonzo_9_ny.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 10: Kost kost med hård bagkant</title>
+			<link>https://api.spreaker.com/download/episode/56401815/gonzo10.mp3</link>
+			<description>Evalueringsafsnit, hvor vi gennemgår vores såkaldte ‘Sommernoter’, og gør klar til at lancere koncepterne: ‘Skamløs’, ‘Prispolitiet’, ‘På pletten i Parcelhus-Danmark - Oliver Bjerrehuus flytter ind’, Sange, der ændrer ordlyd over afstand (Stupid Man - Stomic Pain fx)., ‘Svineren - jokes på et dårligt oplæg- fire komikere konkurrerer i at returnere platte jokes’ og ikke mindst: ‘Selvmordsklubben - aktiv livshjælp’. Desuden hører vi René øve sin lejlighedssang til hans brors bryllup. Og i anledning af, at Renés bror hedder Dennis Knudsen, ringer vi til den anden Dennis Knudsen for at hylde angrebet på Molslinjen. Få også svar på spørgsmålet om, hvordan Anders forkæler sig selv.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56401815/gonzo10.mp3</guid>
+			<pubDate>Tue, 08 Aug 2023 11:36:25 +0000</pubDate>
+			<itunes:duration>00:53:27</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56401815/gonzo10.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

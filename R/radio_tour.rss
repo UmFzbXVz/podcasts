@@ -1734,5 +1734,14 @@
 			<itunes:duration>00:57:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56343458/radio_tour_0208.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Van der Poels mesterstykke og et forrygende VM</title>
+			<link>https://api.spreaker.com/download/episode/56402069/rt_8_8mp3.mp3</link>
+			<description>Radio Tour analyserer weekendens flotte VM i Glasgow og tager hatten af for mesteren, Mathieu van der Poel.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56402069/rt_8_8mp3.mp3</guid>
+			<pubDate>Tue, 08 Aug 2023 11:08:45 +0000</pubDate>
+			<itunes:duration>01:05:08</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56402069/rt_8_8mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
