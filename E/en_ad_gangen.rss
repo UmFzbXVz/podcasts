@@ -249,5 +249,14 @@
 			<itunes:duration>00:29:32</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56086004/sexogsamfund3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Et bredere maskulinitetsbegreb</title>
+			<link>https://api.spreaker.com/download/episode/56404445/sikora33.mp3</link>
+			<description>”Det maskulinitetsbegreb, vi mænd bliver underlagt i dag, tvinger os til enten at være idioter eller at stå tilbage som undskyldninger for os selv.” De her ord stammer fra et debatindlæg, som blev udgivet for tre uger siden i Politiken, der er jo lidt tid siden, så det kunne være dejligt at sige at det var forældet, men ud at dømme fra indlæggets kommentarfelt er det stadig et aktuelt emne. Debattøren bag indlægget, Mathias Sikora, er i studiet for at uddybe.Ungdomsbureauet ser nærmere på forskellige aspekter af ungdomslivet. Din vært Gunvor Barkholt dykker ned i nogle af de bekymringer, tanker og drømme der fylder hos ungdommen. Med andre ord, så ser vi nærmere på unges udfordringer og muligheder – En ad gangen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56404445/sikora33.mp3</guid>
+			<pubDate>Wed, 09 Aug 2023 05:00:02 +0000</pubDate>
+			<itunes:duration>00:31:37</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56404445/sikora33.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
