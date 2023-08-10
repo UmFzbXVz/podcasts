@@ -240,5 +240,14 @@
 			<itunes:duration>01:02:24</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56228924/realityradio_lsk_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Medvirkende i 'De dyre piger' anklager DR og BLU for manipulation</title>
+			<link>https://api.spreaker.com/download/episode/56412286/dyre_piger_kritik_dr_podcast.mp3</link>
+			<description>Det var ikke den oplevelse, Sabrina Sau og Ida McKenna havde forventet, da de sagde ja til at medvirke i tredje sæson af DR-programmet ‘De dyre piger’. Produktionen bag DR-programmet 'De dyre piger' har ifølge kvinderne både fordrejet virkeligheden, presset de medvirkende til at udlevere private detaljer og lovet dem et andet koncept end det, de medvirker i. (47:40) DR svarer på kritikkenGæster:Sabrina Sau, medvirkende i 'De dyre piger' sæson 3Ida McKenna, medvirkende i 'De dyre piger' sæson 3Linda Edgar, områdechef for DR Ung TVVært og tilrettelægger: Cecilie Dumanski</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56412286/dyre_piger_kritik_dr_podcast.mp3</guid>
+			<pubDate>Wed, 09 Aug 2023 14:17:16 +0000</pubDate>
+			<itunes:duration>01:10:30</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56412286/dyre_piger_kritik_dr_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

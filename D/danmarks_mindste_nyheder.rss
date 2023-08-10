@@ -843,5 +843,14 @@
 			<itunes:duration>00:55:56</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56393791/0807_paedofil_karma_mp3_ny.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Lars Thiesgaard har fået stjålet sin stemme: “Det er misbrug”</title>
+			<link>https://api.spreaker.com/download/episode/56413801/0809_lars_thiesgaard_mp3.mp3</link>
+			<description>Manden med de 1000 stemmer, Lars Thiesgaard, kan købes for $19 om måneden - eller det kan hans stemme. Den kendte stemmeskuespiller er nemlig en af mange stemmer på hjemmesiden NaturalReaders.com - og det er måske faktisk ulovligt.Vi taler med ham om, hvordan det føles, at få stjålet sin stemme. Vi spørger også formand for Skuespillerforbundet, Benjamin Boe Rasmussen, hvad man kan gøre ved det - og får stemmen vurderet af professor i machine-learning Morten Mørup.Værter: Anton Ringdal &amp; Kristoffer KristensenRedaktion: Simon Porse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56413801/0809_lars_thiesgaard_mp3.mp3</guid>
+			<pubDate>Wed, 09 Aug 2023 14:55:56 +0000</pubDate>
+			<itunes:duration>00:34:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56413801/0809_lars_thiesgaard_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
