@@ -6075,5 +6075,26 @@ Emma Vinkel</description>
 			<itunes:duration>00:34:28</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56401364/090823_d_gnrapporten.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Retten har talt: Robert Hansen tævede Nynne med guitar</title>
+			<link>https://api.spreaker.com/download/episode/56423075/robert_hansen_dom_100823.mp3</link>
+			<description>Den 43-årige skuespiller Robert Hansen, der vandt manges hjerter for sin rolle som Viktor i ‘Kærlighed ved første hik’, blev i 2020 stormende forelsket i influencer Nynne Larsen. Men derfra er det hele langt fra lyserødt. Robert Hansen bliver tiltalt for vold mod Nynne Larsen, og nu er sagen netop afgjort ved Frederiksberg Byret.
+
+Medvirkende: 
+Birger A. Andersen, kriminalreporter på B.T.
+
+Vært:
+Majlinda Urban Kuci
+
+Tilrettelægger:
+Josefine Pil
+
+Redaktør:
+Emma Vinkel</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56423075/robert_hansen_dom_100823.mp3</guid>
+			<pubDate>Thu, 10 Aug 2023 14:31:05 +0000</pubDate>
+			<itunes:duration>00:34:57</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56423075/robert_hansen_dom_100823.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
