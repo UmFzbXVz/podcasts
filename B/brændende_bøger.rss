@@ -267,5 +267,14 @@
 			<itunes:duration>00:53:22</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56357975/twillight.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Koranen</title>
+			<link>https://api.spreaker.com/download/episode/56424977/koran.mp3</link>
+			<description>Hvorfor er Koranen Islams helligste bog? Hvornår og hvordan blev den til? Hvem taler til hvem i bogen, og hvad handler Koranen i det hele taget om? Må man oversætte den,  hvilke vers er de vigtigste, og hvilken betydning har den i muslimernes daglige liv? Lyt med, når vi sammen med assisterende imam, Ahmet Talat, taler om den bog som nogle vil brænde, andre beskytte, men hvis ord i sig selv udgør en guddommelig oplevelse for 1,5 millarder mennesker.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56424977/koran.mp3</guid>
+			<pubDate>Thu, 10 Aug 2023 16:36:17 +0000</pubDate>
+			<itunes:duration>00:48:18</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56424977/koran.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
