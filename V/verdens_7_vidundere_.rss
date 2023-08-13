@@ -342,5 +342,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:20:12</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56358547/v7v_ikke_alkoholiske_drikke_2.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 bedste paver</title>
+			<link>https://api.spreaker.com/download/episode/56451241/v7v_paver.mp3</link>
+			<description>Gæst: Andreas Rude“Enhver kan blive valgt til Pave”, sagde Johannes XXIII, “Beviset på det er, at jeg er blevet det!”. Men er det for enhver? Trods alt har det blot været 266 beskåret siden Skt Peter. Og ikke alle pontifikater var mesterstykker. Men nogle var! I dagens episode af VERDENS 7 VIDUNDERE udforsker vi hvilke, der klarede opgaven bedst, når gæsten: ANDREAS RUDE, fortæller om HISTORIENS 7 BEDSTE PAVER.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56451241/v7v_paver.mp3</guid>
+			<pubDate>Sun, 13 Aug 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:38:50</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56451241/v7v_paver.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
