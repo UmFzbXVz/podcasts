@@ -223,5 +223,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56251876/s2_a2_noget_om_en_ny_introsang_med_valdemar_harris_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Latin Klaver og Det Jyske Musikkonservatorie med Theo Benjamin Hjorth</title>
+			<link>https://api.spreaker.com/download/episode/56345635/s2_a3_noget_om_latin_klaver_og_det_jyske_musikkonservatorie_med_theo_benjamin_hjorth_podcast.mp3</link>
+			<description>I denne uge får vi besøg af Theo Benjamin Hjorth, som til daglig spiller klaver professionelt, primært Cubansk Latin style. Derudover studerer Theo også på Det Jyske Musikkonservatorie som solist, samtidig med at han arbejder som underviser.Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56345635/s2_a3_noget_om_latin_klaver_og_det_jyske_musikkonservatorie_med_theo_benjamin_hjorth_podcast.mp3</guid>
+			<pubDate>Sun, 13 Aug 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56345635/s2_a3_noget_om_latin_klaver_og_det_jyske_musikkonservatorie_med_theo_benjamin_hjorth_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
