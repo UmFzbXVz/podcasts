@@ -1707,5 +1707,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:51:28</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56392964/mai_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvornår grinte du sidst? #4</title>
+			<link>https://api.spreaker.com/download/episode/56393099/ep01_stream.mp3</link>
+			<description>Charlie har engang fået en støjklage fra underboen, over hvor højt ham og hans skolekammerat havde grineflip. Sarah griner mest, når hun er sammen med sin søster. Hør, hvad der får vores generation til at grine så meget, at det gør ondt.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56393099/ep01_stream.mp3</guid>
+			<pubDate>Mon, 14 Aug 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:33:27</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56393099/ep01_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

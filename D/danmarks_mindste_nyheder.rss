@@ -852,5 +852,14 @@
 			<itunes:duration>00:34:49</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56413801/0809_lars_thiesgaard_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Katastrofal produktionsfejl i Sommerdahl: &quot;Vi lægger os fladt ned&quot;</title>
+			<link>https://api.spreaker.com/download/episode/56464826/0814_sommerdahl_og_tyskere_mp3.mp3</link>
+			<description>Den populære serie 'Sommerdahl' har taget Danmark og hele verden med storm, og har budt på seer-rekorder på den folkekære kanal TV2 Charlie. Det viser sig dog, at der er ridser i lakken. Vi kan i dag afsløre en række graverende fejl i serien. Vi taler med Baron von Støcken, der opdagede fejlen, og seriens producer, Janni Helleskov.Vi planter også et bundt koriander om sammen med en række tyske turister, og får den måske sidste historie fra vandtårnet i Vinderup.Værter: Anton Ringdal &amp; Kristoffer KristensenRedaktion: Simon Porse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56464826/0814_sommerdahl_og_tyskere_mp3.mp3</guid>
+			<pubDate>Mon, 14 Aug 2023 15:10:20 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56464826/0814_sommerdahl_og_tyskere_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
