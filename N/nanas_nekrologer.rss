@@ -1716,5 +1716,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:33:27</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56393099/ep01_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvornår græd du sidst? #4</title>
+			<link>https://api.spreaker.com/download/episode/56393572/e02_stream.mp3</link>
+			<description>Charlie plejer kun at græde, når han er alene. Men for nylig fældede han tårer foran andre, da han var til terapi med sin far. Patrice derimod græder altid i mørket, og det gjorde han også i nat. Hør om disse samt Josephines og Mathias’ nyligste tårer.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56393572/e02_stream.mp3</guid>
+			<pubDate>Tue, 15 Aug 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:27:06</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56393572/e02_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

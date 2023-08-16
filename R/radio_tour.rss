@@ -1743,5 +1743,14 @@
 			<itunes:duration>01:05:08</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56402069/rt_8_8mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Evenepoels revanche og afrunding af VM i Glasgow</title>
+			<link>https://api.spreaker.com/download/episode/56476161/rt_pod_1508.mp3</link>
+			<description>Radio Tour sætter fokus på det afsluttede VM i Glasgow med fokus på enkeltstarten, kvindernes løb og også en snak om radioer eller ej.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56476161/rt_pod_1508.mp3</guid>
+			<pubDate>Tue, 15 Aug 2023 12:26:16 +0000</pubDate>
+			<itunes:duration>01:03:15</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56476161/rt_pod_1508.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
