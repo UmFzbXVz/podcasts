@@ -861,5 +861,14 @@
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56464826/0814_sommerdahl_og_tyskere_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Vi hører AI-krimier: &quot;Der er jo ingen DNA-spor&quot;</title>
+			<link>https://api.spreaker.com/download/episode/56487432/0816_krimier_mp3.mp3</link>
+			<description>En krimi af Sara Blædel og Mads Peder Nordbo har fået kritik, fordi man alt for hurtigt kan gætte morderen. Derfor har vi sat AI - altså kunstig intelligens - til at skrive nogle gode krimier. Men er de gode, og hvor hurtigt gætter man morderen?Vi hører dem igennem med vores reporter og ven af programmet, Jim Birk.Værter: Anton Ringdal &amp; Kristoffer KristensenRedaktion: Simon Porse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56487432/0816_krimier_mp3.mp3</guid>
+			<pubDate>Wed, 16 Aug 2023 16:02:55 +0000</pubDate>
+			<itunes:duration>00:53:51</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56487432/0816_krimier_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
