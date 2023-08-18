@@ -951,5 +951,22 @@ Producer: Marcus Eklund</description>
 			<itunes:duration>00:53:55</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56437841/mette_og_de_bl_m_nd_ellemann.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Jon er færdig, Løkkes Kina-røvslikkeri og regeringen skal på bustur</title>
+			<link>https://api.spreaker.com/download/episode/56510813/bl_m_nd_18aug_mp3.mp3</link>
+			<description>Moderaterne har smidt Jon Stephensen ud - det glemte han bare lige selv at fortælle til Ritzau, da han fortalte, at han melder sig ud af partiet. Vi får besøg af en Kina-kritiker, der mener, udenrigsminister Løkkes Kina-tur er rent røveslikkeri, og så taler vi om regeringens helt store genstart og Ellemanns slagtning af blå blok.
+
+Værter: Anna Thygesen og Sanne Fahnøe.
+
+Gæster: 
+Thomas Rohden, stifter af Dansk Kina-Kritisk Selskab.
+Alexander Wills Lorenzen, politisk redaktør, 24syv.
+
+Producer: Pola Rojan Bagger</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56510813/bl_m_nd_18aug_mp3.mp3</guid>
+			<pubDate>Fri, 18 Aug 2023 09:32:08 +0000</pubDate>
+			<itunes:duration>00:53:50</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56510813/bl_m_nd_18aug_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
