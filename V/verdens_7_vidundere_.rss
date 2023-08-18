@@ -351,5 +351,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:38:50</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56451241/v7v_paver.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 vigtigste filminstruktører, for fransk film</title>
+			<link>https://api.spreaker.com/download/episode/56506239/v7v_filminstrukt_rer.mp3</link>
+			<description>Gæst: Peter Christian Rude”Film er til for underholdning – hvis du vil sende budskaber, kan det gøres med Western Union”, brummede Samuel Goldwyn, grundlæggeren af det, som siden skulle blive til MGM Studios, da han blev spurgt om sin holdning til Europæisk – og særligt fransk – film. Om han, med denne observation, formår at indkapsle den afgørende forskel på de to filmtraditioner og det særligt franske fortæller FILMKRITIKER PETER CHRISTIAN RUDE i dagens episode af VERDENS 7 VIDUNDERE, hvor emnet er DE 7 INSTRUKTØRER, SOM HAR HAFT MEST AFGØRENDE INDFLYDELSE PÅ FRANSK FILM.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56506239/v7v_filminstrukt_rer.mp3</guid>
+			<pubDate>Fri, 18 Aug 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:10:03</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56506239/v7v_filminstrukt_rer.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

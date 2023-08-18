@@ -1468,5 +1468,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>02:15:24</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56480029/guilty_pleasure_vol_3_3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>PLEASER er en vibe !</title>
+			<link>https://api.spreaker.com/download/episode/56508982/pleaser.mp3</link>
+			<description>Stine Omega har i denne udsendelse besøg af Annie &amp; Sofie fra DIY punk bandet Pleaser.De beskriver Pleaser som,, cute, dark og sejt -  Lollipop Chainsaw punk! Deres debutalbum Pleaser udkommer d. 8 september og vi skal de næste par timer tale om Pleasers historie og selvfølgelig lytte til en masse god musik.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56508982/pleaser.mp3</guid>
+			<pubDate>Fri, 18 Aug 2023 04:52:59 +0000</pubDate>
+			<itunes:duration>01:32:04</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56508982/pleaser.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
