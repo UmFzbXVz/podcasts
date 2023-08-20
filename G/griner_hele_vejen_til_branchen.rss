@@ -232,5 +232,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56345635/s2_a3_noget_om_latin_klaver_og_det_jyske_musikkonservatorie_med_theo_benjamin_hjorth_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om DMF med Camilla Overgaard og Thomas Sandberg (Del 1)</title>
+			<link>https://api.spreaker.com/download/episode/56475082/s2_a4_noget_om_dmf_med_camilla_overgaard_og_thomas_sandberg_del_1_podcast.mp3</link>
+			<description>I denne uge snakker vi med Camilla Overgaard og Thomas Sandberg, som arbejder for DMF (Dansk Musiker Forbund). DMF er en fagforening for musikere, der kan hjælpe med kontrakter og betaling af koncerter.Dine værter er Mia Marie Lyngsø og Jeppe Schartau(Del 1 af 2)</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56475082/s2_a4_noget_om_dmf_med_camilla_overgaard_og_thomas_sandberg_del_1_podcast.mp3</guid>
+			<pubDate>Sun, 20 Aug 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56475082/s2_a4_noget_om_dmf_med_camilla_overgaard_og_thomas_sandberg_del_1_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
