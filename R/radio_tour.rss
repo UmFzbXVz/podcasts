@@ -1752,5 +1752,14 @@
 			<itunes:duration>01:03:15</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56476161/rt_pod_1508.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Mads Pedersens mirakler og Vuelta-optakt</title>
+			<link>https://api.spreaker.com/download/episode/56553666/rt_pod_2208.mp3</link>
+			<description>Radio Tour sætter fokus på weekendens store præstationer af Mads Pedersen og sæsonens sidste Grand Tour i form af Vuelta a España.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56553666/rt_pod_2208.mp3</guid>
+			<pubDate>Tue, 22 Aug 2023 11:22:47 +0000</pubDate>
+			<itunes:duration>01:02:05</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56553666/rt_pod_2208.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
