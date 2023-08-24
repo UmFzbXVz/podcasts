@@ -249,5 +249,14 @@
 			<itunes:duration>01:10:30</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56412286/dyre_piger_kritik_dr_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Kan ændringer i 'Gift ved første blik' øge succesraten?</title>
+			<link>https://api.spreaker.com/download/episode/56567346/gift_ved_f_rste_blik_podcast.mp3</link>
+			<description>34 par er gennem otte sæsoner blevet matchet i DR's datingprogram 'Gift ved første blik'. Fire par er fortsat sammen i dag. Ikke den mest prængende succesrate, men måske kan et par justeringer i den kommende sæson 9, der har premiere den 24. august, forbedre betingelserne for kærligheden. Det er i hvertfald DR's forhåbning. I dagens afsnit vender Cecilie bl.a. ændringerne med Mette Blume, der i den seneste sæson blev gift og skilt med Steen Theill. Gæst: Mette Blume, medvirkende i 'Gift ved første blik' sæson 8Vært og tilrettelægger: Cecilie Dumanski</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56567346/gift_ved_f_rste_blik_podcast.mp3</guid>
+			<pubDate>Wed, 23 Aug 2023 16:23:28 +0000</pubDate>
+			<itunes:duration>00:53:42</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56567346/gift_ved_f_rste_blik_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
