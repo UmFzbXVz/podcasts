@@ -285,5 +285,14 @@
 			<itunes:duration>00:54:01</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56500955/2666.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvorfor vil Asta Olivia Nordenhof skrive 7 bøger om Scandinavian Star?</title>
+			<link>https://api.spreaker.com/download/episode/56500977/scandinavian_star.mp3</link>
+			<description>“Djævlebogen”. Sådan lyder titlen på det andet bind i forfatteren Asta Olivia Nordenhofs længe ventede romanserie, der har Scandinavian Star som hovedmotiv. På bagsiden beskrives bogen som noget så sjældent som en erotisk gyser, og en roman om kærlighed i kapitalismens tidsalder. Men hvad har mordbranden på Scandinavian Star med djævlen at gøre? Hvordan påvirker økonomiske omstændigheder vores inderste og mest intime relationer? Og kommer vi til at ende kapitalismen? Lyt med, når vi sammen med Asta Olivia Nordenhof taler om djævlen, penge og skriveprocessen i fortsættelsen på den måske mest ambitiøse romanserie i vores tid.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56500977/scandinavian_star.mp3</guid>
+			<pubDate>Thu, 24 Aug 2023 16:05:02 +0000</pubDate>
+			<itunes:duration>00:52:57</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56500977/scandinavian_star.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
