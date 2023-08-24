@@ -97,5 +97,14 @@
 			<itunes:duration>00:53:27</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56401815/gonzo10.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 11: Det inderste af det inderste</title>
+			<link>https://api.spreaker.com/download/episode/56574401/gonzo11_1.mp3</link>
+			<description>Ærlighedsforløbet i de nu 11 ud af 20 timers tilbagebetalingsradio fortsætter helt uden skam. Nu med indfrielsen af et længe både ventet og frygtet løfte: Kan René synge en selvkomponeret kærlighedssang fra 90'erne inderligt og uden ironi? (og bør Anders synge kor på værket?)Det og andre helt store spørgsmål om kunst, lyttertal og kærlighed i endnu en omgang avantgardistisk medieteater, hvor vi også for alvor lancerer 'Selvmordsklubben - aktiv livshjælp'.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56574401/gonzo11_1.mp3</guid>
+			<pubDate>Thu, 24 Aug 2023 07:04:17 +0000</pubDate>
+			<itunes:duration>00:43:35</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56574401/gonzo11_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
