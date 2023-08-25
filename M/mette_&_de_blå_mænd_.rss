@@ -968,5 +968,14 @@ Producer: Pola Rojan Bagger</description>
 			<itunes:duration>00:53:50</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56510813/bl_m_nd_18aug_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ellemann giver Troels Lund en tikkende bombe, er Dragsted venstrefløjens nye (gamle) håb, og det socialdemokratiske tusindårsrige</title>
+			<link>https://api.spreaker.com/download/episode/56587836/mette_og_de_bl_m_nd_andreas_kaka.mp3</link>
+			<description>Tirsdag morgen var der heftig aktivitet på Sannes og Annas messengertråd, for den ene bombe efter den anden blev smidt i dansk politik. Vi går dem alle igennem i dag, hvor Andreas Karker kommer med den påstand, at Ellemann ikke holder et år og har givet Troels Lund en værre stinker. Værter: Anna Thygesen og Sanne Fahnøe Gæst: Andreas Karker Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56587836/mette_og_de_bl_m_nd_andreas_kaka.mp3</guid>
+			<pubDate>Fri, 25 Aug 2023 09:42:22 +0000</pubDate>
+			<itunes:duration>00:53:50</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56587836/mette_og_de_bl_m_nd_andreas_kaka.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
