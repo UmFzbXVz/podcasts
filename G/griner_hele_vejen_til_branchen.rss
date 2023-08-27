@@ -241,5 +241,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56475082/s2_a4_noget_om_dmf_med_camilla_overgaard_og_thomas_sandberg_del_1_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om DMF (Del 2 af 2) og Downtown July</title>
+			<link>https://api.spreaker.com/download/episode/56577024/s2_a5_noget_om_dmf_del_2_af_2_og_downtown_july_podcast.mp3</link>
+			<description>I denne uge afrunder vi snakken med DMF (Dansk Musiker Forbund) og snakker med 2 medlemmer fra bandet Downtown July, nemlig forsanger Leo og trommeslager Mikkel.Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56577024/s2_a5_noget_om_dmf_del_2_af_2_og_downtown_july_podcast.mp3</guid>
+			<pubDate>Sun, 27 Aug 2023 09:00:03 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56577024/s2_a5_noget_om_dmf_del_2_af_2_og_downtown_july_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
