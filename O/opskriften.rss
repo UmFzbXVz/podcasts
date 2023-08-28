@@ -114,5 +114,14 @@
 			<itunes:duration>00:53:48</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/54740908/bjarke_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på at lægge sit liv om med Jokeren</title>
+			<link>https://api.spreaker.com/download/episode/56485464/jokeren_klippet.mp3</link>
+			<description>Ugens gæst er en vaskeægte rap-legende. Han slog igennem med Den Gale Pose med Spændt Op til Lir. Og står bag utallige hits såsom Havnen, Godt Taget og Nogen Spørgsmål?. Han har kaldt sig selv for stodder, og har levet et vildt liv med sex, drugs &amp; rock n’roll - men nu har han lagt sit liv om og er gået en anden vej. Ugens gæst er: Jesper &quot;Jokeren&quot; Dahl! Hvordan opstod Jokerens misbrug? Hvorfor er det så svært at komme ud af? Hvordan kom Jokeren ud af det - og hvorfor var psykedelisk terapi løsningen? Det og meget mere kan du høre om i dagens episode.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56485464/jokeren_klippet.mp3</guid>
+			<pubDate>Mon, 28 Aug 2023 03:00:03 +0000</pubDate>
+			<itunes:duration>00:53:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56485464/jokeren_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
