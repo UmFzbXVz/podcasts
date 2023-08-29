@@ -1761,5 +1761,14 @@
 			<itunes:duration>01:02:05</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56553666/rt_pod_2208.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Krons triumf og Vuelta-kaos</title>
+			<link>https://api.spreaker.com/download/episode/56625324/rtpod.mp3</link>
+			<description>Radio Tour sætter ord på Andreas Krons flotte sejr på anden etape af Vueltaen og det kaos der hersker omkring løbet, blandt andet med Evenepoels mærkelige styrt.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56625324/rtpod.mp3</guid>
+			<pubDate>Tue, 29 Aug 2023 13:03:54 +0000</pubDate>
+			<itunes:duration>01:02:28</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56625324/rtpod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

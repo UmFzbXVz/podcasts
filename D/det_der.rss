@@ -620,5 +620,32 @@ Som et overtræt højskolehus, eller festivalslejren samlingspunkt.
 			<itunes:duration>00:53:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56456181/det_der_med_kind_mod_kind_del_3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Borgerrepræsentanterne - Liselotte &amp;amp; Nikolaj</title>
+			<link>https://api.spreaker.com/download/episode/56625119/det_der_del_3.mp3</link>
+			<description>Det er en rigtig hygge søndag. I dag er det bare Marcus og Adrian i studiet og de har savnet hinanden! Der bliver fortalt historier fra hver deres ferie, gode som dårlige. Tiden i studiet i dag bliver brugt på at komme hinanden nærmere. Selvfølgelig kommer borgerrepræsentanterne også et smut forbi. Dine værter er Marcus Eklund og Adrian Tvede</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56625119/det_der_del_3.mp3</guid>
+			<pubDate>Tue, 29 Aug 2023 12:31:17 +0000</pubDate>
+			<itunes:duration>00:53:56</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56625119/det_der_del_3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Så er det historie tid!</title>
+			<link>https://api.spreaker.com/download/episode/56625063/det_der_del_2.mp3</link>
+			<description>Det er en rigtig hygge søndag. I dag er det bare Marcus og Adrian i studiet og de har savnet hinanden! Der bliver fortalt historier fra hver deres ferie, gode som dårlige. Tiden i studiet i dag bliver brugt på at komme hinanden nærmere. Selvfølgelig kommer borgerrepræsentanterne også et smut forbi. Dine værter er Marcus Eklund og Adrian Tvede</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56625063/det_der_del_2.mp3</guid>
+			<pubDate>Tue, 29 Aug 2023 12:27:03 +0000</pubDate>
+			<itunes:duration>00:53:57</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56625063/det_der_del_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Marcus og Adrian vurderer mad</title>
+			<link>https://api.spreaker.com/download/episode/56624974/det_der_del_1.mp3</link>
+			<description>Det er en rigtig hygge søndag. I dag er det bare Marcus og Adrian i studiet og de har savnet hinanden! Der bliver fortalt historier fra hver deres ferie, gode som dårlige. Tiden i studiet i dag bliver brugt på at komme hinanden nærmere. Selvfølgelig kommer borgerrepræsentanterne også et smut forbi. Dine værter er Marcus Eklund og Adrian Tvede</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56624974/det_der_del_1.mp3</guid>
+			<pubDate>Tue, 29 Aug 2023 12:20:04 +0000</pubDate>
+			<itunes:duration>00:53:55</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56624974/det_der_del_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
