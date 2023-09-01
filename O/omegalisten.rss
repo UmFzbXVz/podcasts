@@ -1513,5 +1513,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>02:25:02</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56629702/guilty_pleasure_vol_3_5.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Terminalist - Med Krisen som en betingelse!</title>
+			<link>https://api.spreaker.com/download/episode/56652196/terminalist.mp3</link>
+			<description>Omegalisten har i denne udgave besøg af Emil Hansen fra Hyper Thrash bandet Terminalist.Lyt med når Emil giver lytterne en grundig tour rundt i Thrash-land, deler sine tanker og hvordan kriser og pessimisme har været med til at skabe tematikken på Terminalists nyeste album The Crises As Condition som er ude 8. september 2023</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56652196/terminalist.mp3</guid>
+			<pubDate>Fri, 01 Sep 2023 05:38:38 +0000</pubDate>
+			<itunes:duration>02:27:35</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56652196/terminalist.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
