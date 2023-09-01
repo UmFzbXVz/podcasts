@@ -369,5 +369,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:06:36</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56587744/v7v_kryptozoologiske_dyr.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 bedste rapmusikere</title>
+			<link>https://api.spreaker.com/download/episode/56647899/v7v_rappere_2.mp3</link>
+			<description>Gæst: Teis Zacho Kahr ThornbergRap! Hiphop! Verdens hurtigst voksende og mest sælgende musikgenre. Men også en livsstil, historie- og kulturformidling, mod- og oprørskultur og terapi og skriftestol. Dette og meget mere dykker vi ned i i dagens episode af VERDENS 7 VIDUNDERE når dagens gæst, sangskriver, producer og radiovært TEIS ZACHO KAHR THORNBERG fortæller om Rapmusikkens rødder og udvikling gennem VERDENS 7 BEDSTE RAPMUSIKERE</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56647899/v7v_rappere_2.mp3</guid>
+			<pubDate>Fri, 01 Sep 2023 02:00:03 +0000</pubDate>
+			<itunes:duration>01:24:16</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56647899/v7v_rappere_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
