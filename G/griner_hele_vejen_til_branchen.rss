@@ -250,5 +250,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56577024/s2_a5_noget_om_dmf_del_2_af_2_og_downtown_july_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Folkemusik med Marie Hamborg</title>
+			<link>https://api.spreaker.com/download/episode/56646663/s2_a6_noget_om_folkemusik_med_marie_hamborg_podcast.mp3</link>
+			<description>I denne uge snakker vi med folkemusikeren Marie Hamborg om folkemusikken og studielivet.Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56646663/s2_a6_noget_om_folkemusik_med_marie_hamborg_podcast.mp3</guid>
+			<pubDate>Sun, 03 Sep 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56646663/s2_a6_noget_om_folkemusik_med_marie_hamborg_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
