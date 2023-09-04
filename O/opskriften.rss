@@ -123,5 +123,14 @@
 			<itunes:duration>00:53:54</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56485464/jokeren_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på et godt meme med Morfarfortæller</title>
+			<link>https://api.spreaker.com/download/episode/56577061/morfar_klippet.mp3</link>
+			<description>Ugens gæst er en vaskeægte memer. Han er uddannet slagter og det kan mærkes i hans memes. Han skærer i politikerne, samfundet, og populære holdninger - ikke med knive, men med humor. Han er også forfatter og kunstner, hvor han går under navnet Talentløs. Ugens gæst er : Morfarfortæller eller Jan Lillie LauritsenHvordan har Jan brugt memes som sit safe-space? Hvad er et godt meme ifølge ham? Og skaber hans memes egentlig mere splid end dialog? Lyt til programmet og få hele opskriften.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56577061/morfar_klippet.mp3</guid>
+			<pubDate>Mon, 04 Sep 2023 03:00:02 +0000</pubDate>
+			<itunes:duration>00:53:58</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56577061/morfar_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

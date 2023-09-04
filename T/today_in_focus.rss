@@ -7935,5 +7935,14 @@
 			<itunes:duration>00:34:21</itunes:duration>
 			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2023/08/31-44608-20230901TIFexperience.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>The chilling rise of AI scams</title>
+			<link>https://flex.acast.com/audio.guim.co.uk/2023/09/01-60883-20230904TIFscams.mp3</link>
+			<description>Criminals are cloning voices and making calls to trick victims into sending them money. How can they be stopped?. Help support our independent journalism at theguardian.com/infocus</description>
+			<guid isPermaLink="true">https://flex.acast.com/audio.guim.co.uk/2023/09/01-60883-20230904TIFscams.mp3</guid>
+			<pubDate>Mon, 04 Sep 2023 02:00:28 +0000</pubDate>
+			<itunes:duration>00:25:55</itunes:duration>
+			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2023/09/01-60883-20230904TIFscams.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
