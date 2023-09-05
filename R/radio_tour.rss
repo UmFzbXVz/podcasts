@@ -1770,5 +1770,14 @@
 			<itunes:duration>01:02:28</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56625324/rtpod.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Skjelmose på verdenskortet og Vuelta-update</title>
+			<link>https://api.spreaker.com/download/episode/56700148/rtskjel.mp3</link>
+			<description>Radio Tour taler om Mattias Skjelmoses flotte sejr i Maryland Cycling Classic og så får vueltaen en stor gennemgang.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56700148/rtskjel.mp3</guid>
+			<pubDate>Tue, 05 Sep 2023 15:18:20 +0000</pubDate>
+			<itunes:duration>00:58:40</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56700148/rtskjel.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
