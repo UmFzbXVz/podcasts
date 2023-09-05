@@ -1063,5 +1063,14 @@ Donna Summer - Hot Stuff (Kygo Edit)</description>
 			<itunes:duration>01:47:47</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/54586109/guldpladen_200623.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Guldpladen Warm Up</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/56686899/guldpladen_warm_up.mp3</link>
+			<description>Guldpladen spinner igen fra denne uge af.Theis Mahal fra Gents og pladeselskabsejer Andreas Elley hjælper Rasmus med at varme op til en ny sæson.</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/56686899/guldpladen_warm_up.mp3</guid>
+			<pubDate>Mon, 04 Sep 2023 14:34:32 +0000</pubDate>
+			<itunes:duration>00:50:40</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/56686899/guldpladen_warm_up.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

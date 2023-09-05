@@ -870,5 +870,14 @@
 			<itunes:duration>00:53:51</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56487432/0816_krimier_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Vi er på tunsafari: “Så du den?!”</title>
+			<link>https://api.spreaker.com/download/episode/56683839/0828_tunsafari.mp3</link>
+			<description>Vi har været på tunsafari. Det lyder måske lidt som en mærkelig blanding - altså tun og safari. Men i år er det gået helt amok med tunsafari hos Øresundsakvariet i nordsjællandske Helsingør. De har aldrig solgt så mange ture, som de gør lige nu, og på 90 procent af deres ture ser de tun. Derfor var vi selvfølgelig nødt til at tage på sådan en tur og se de op til 800 kg. tunge fisk.Det var akvariechef Jens Peder Jeppesen, der tog os med på safarituren ud i Øresund.Værter: Anton Ringdal &amp; Kristoffer Kristensen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56683839/0828_tunsafari.mp3</guid>
+			<pubDate>Mon, 04 Sep 2023 08:34:22 +0000</pubDate>
+			<itunes:duration>00:51:25</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56683839/0828_tunsafari.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
