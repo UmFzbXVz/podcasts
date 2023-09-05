@@ -879,5 +879,14 @@
 			<itunes:duration>00:51:25</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56683839/0828_tunsafari.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>&quot;Om lidt bli'r her stille&quot;: Vi siger farvel til Anton</title>
+			<link>https://api.spreaker.com/download/episode/56696484/0905_om_lidt_blir_her_stille.mp3</link>
+			<description>To programmer, flere hundrede udsendelser. Efter næsten to år flyver Anton fra reden.Vi har gennem tiden samlet på utrolig mange kuriøse souvenirs fra vores programmer - 'Pik er Gud'-CD'en af Carl Mar Møller, Vibeke Manniches bog om søvn og et satanisk værk malet med blod fra vores producer. Vi fordeler dem mellem os og siger farvel sammen med nogle af de ikoniske personligheder, der har gjort Danmarks Mindste Nyheder (og Ringdal &amp; Kristensen) til et show, vi sent vil glemme.Tak til alle der har bidraget.Værter: Anton Ringdal (RIP) og Kristoffer Kristensen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56696484/0905_om_lidt_blir_her_stille.mp3</guid>
+			<pubDate>Tue, 05 Sep 2023 08:51:12 +0000</pubDate>
+			<itunes:duration>00:55:17</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56696484/0905_om_lidt_blir_her_stille.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
