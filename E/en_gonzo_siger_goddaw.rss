@@ -106,5 +106,14 @@
 			<itunes:duration>00:43:35</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56574401/gonzo11_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 12: Børn er sjovere, når man selv er fuld</title>
+			<link>https://api.spreaker.com/download/episode/56699520/gonzo12.mp3</link>
+			<description>Denne gang skal vi lære Anders Christiansen bedre at kende via en ny quiz, hvor man helt uden at opdage det, overtræder de syv dødssynder. ‘Fredensborgs 13 eksistentielle spørgsmål’ er en slags moderne Marcel Proust, som med let fordøjelig dybde går både langt under bæltestedet og op i en højere enhed.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56699520/gonzo12.mp3</guid>
+			<pubDate>Wed, 06 Sep 2023 04:30:02 +0000</pubDate>
+			<itunes:duration>01:00:37</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56699520/gonzo12.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

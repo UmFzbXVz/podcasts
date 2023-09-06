@@ -3221,5 +3221,19 @@ Oliver Bærentsen</description>
 			<itunes:duration>00:24:11</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56695571/050923_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Kinesisk ø-kuller</title>
+			<link>https://api.spreaker.com/download/episode/56708063/060923_konfliktzonen_podcast.mp3</link>
+			<description>En omstridt ø på grænsen mellem Rusland og Kina har været delt mellem de to lande i snart 20 år, men på det nye officielle kinesiske landkort, der er den russiske del af øen pludselig blevet kinesisk.
+Hvad ligger bag det nye landkort? Og er den manglende russiske reaktion et udtryk for svaghed?
+Medvirkende: 
+Lasse Karner, 24syvs asiekkorrespondent
+Jens Worning, udenrigspolitiske kommentator på Kristeligt Dagblad
+Vært: Oliver Bærentsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56708063/060923_konfliktzonen_podcast.mp3</guid>
+			<pubDate>Wed, 06 Sep 2023 07:57:44 +0000</pubDate>
+			<itunes:duration>00:19:40</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56708063/060923_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

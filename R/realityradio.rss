@@ -267,5 +267,14 @@
 			<itunes:duration>00:52:43</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56637785/gdonation_og_stories_for_millioner_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Historien bag 'Robinson Ekspeditionen'</title>
+			<link>https://api.spreaker.com/download/episode/56708975/robinson_25_r_podcast.mp3</link>
+			<description>Danmarks allerførst realityshow ‘Robinson Ekspeditionen’ rullede for første gang over skærmen i 1998. Og i nu 25 sæsoner - fordelt på 25 år - har seerne kunne følge de modige og hårdtkæmpende deltagere, der er blevet udsat for lidt af hvert. I dagens særudgave af RealityRadio på 24syv skriver vært Jakob Kjeldberg og Jacob Juhl historien bag Robinson Ekspeditionen og fremhæver nogle af de vildeste scener foran og bagved kameraet. Gæster:Jakob Kjeldberg, vært på Robinson Ekspeditionen igennem 18 sæsonerJacob Juhl, producent af Robinson fra 2008-2012Vært og tilrettelægger:Cecilie Dumanski Reporter og producer:Maja F. K. Østergaard</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56708975/robinson_25_r_podcast.mp3</guid>
+			<pubDate>Wed, 06 Sep 2023 08:10:14 +0000</pubDate>
+			<itunes:duration>00:55:06</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56708975/robinson_25_r_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
