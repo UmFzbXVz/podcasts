@@ -378,5 +378,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:24:16</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56647899/v7v_rappere_2.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 bedste vittigheder</title>
+			<link>https://api.spreaker.com/download/episode/56727133/v7v_vittigheder.mp3</link>
+			<description>Gæst: Andreas Bo“Kærligheden, visdommen, skønheden har deres guder, men humoren ingen, måske fordi intet væsen med humor kunne udholde at være gud.” Men som Guder hævdes at være omnipotente og uden grænser - gælder det samme så for humoren? Har den grænser? Kan der gøres grin med alt - og af enhver? og hvad med dem, der ikke griner med, når latteren brøler? Dette og mange flere sider af humorens dilemma vender vi i dagens episode af VERDENS SYV VIDUNDERE, hvor gæsten, komiker mv ANDREAS BO har sammenstykket en liste over VERDENS 7 BEDSTE VITTIGHEDER</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56727133/v7v_vittigheder.mp3</guid>
+			<pubDate>Fri, 08 Sep 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:07:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56727133/v7v_vittigheder.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

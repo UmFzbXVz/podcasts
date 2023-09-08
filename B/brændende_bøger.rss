@@ -303,5 +303,14 @@
 			<itunes:duration>00:53:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56650202/tolkien.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Krigens poesi</title>
+			<link>https://api.spreaker.com/download/episode/56724005/ukraine.mp3</link>
+			<description>I Ukraines krig mod Rusland kæmpes der også med kultur og kunst. Mens Rusland har postet milliarder af rubler i kulturen, er poesien blevet en udbredt måde at dele krigserfaringer på i den ukrainske befolkning. Mens en hjemmeside har indsamlet over 30.000 digte skrevet af almindelige mennesker, findes også historien om Pavlo Vysjebaba - digter og korporal ved fronten - som læser op for soldaterne for at styrke sammenholdet.Samtidig er flere forfattere og digtere på Ruslands formodede liste over folk, der skal likvideres. De ved godt nemlig godt, hvilken magt og rolle poesien har spillet gennem flere århundreder for Ukraines uafhængighed.I dagens afsnit af “Brændende Bøger” taler vi med journalisten Andrey Kazankov og forsker i russisk desinformation og propaganda, Valentyna Shapovalova, om poesien som hjælp, magtværktøj og modstandskraft.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56724005/ukraine.mp3</guid>
+			<pubDate>Thu, 07 Sep 2023 16:05:01 +0000</pubDate>
+			<itunes:duration>00:54:10</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56724005/ukraine.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
