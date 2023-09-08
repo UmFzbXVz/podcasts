@@ -986,5 +986,14 @@ Producer: Pola Rojan Bagger</description>
 			<itunes:duration>00:53:47</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56658892/mette_og_de_bl_m_nd.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hash-kaos hos Løkke, et socialdemokratisk tusindårsrige, og K-balladen fortsætter</title>
+			<link>https://api.spreaker.com/download/episode/56733582/mette_og_de_bl_m_nd_8_september.mp3</link>
+			<description>Anna Thygesen er gået på senior-pension, så programmet får i dette afsnit besøg af dets eneste socialdemokratiske (u)ven Niels Jespersen fra Pio til at udlægge situationen med de utilfredse S-borgmestre og SVM-regeringens charme-turné. Og så har vi Ekstra Bladets Brian Weichardt med til at udlægge en historie om hash-kaos hos Moderaterne. Ps - Anne er tilbage næste uge - den der seniorpension er alligevel ikke så lukrativ! Værter: Sanne Fahnøe og Niels Jespersen Gæst: Brian Weichardt, Ekstra Bladet Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56733582/mette_og_de_bl_m_nd_8_september.mp3</guid>
+			<pubDate>Fri, 08 Sep 2023 09:54:40 +0000</pubDate>
+			<itunes:duration>00:53:06</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56733582/mette_og_de_bl_m_nd_8_september.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

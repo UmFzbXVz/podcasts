@@ -897,5 +897,14 @@
 			<itunes:duration>00:37:46</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56699926/0905_noegenkalender.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Live fra Guldkysten: &quot;Det er ikke sikkert, nogen gider tale med os&quot;</title>
+			<link>https://api.spreaker.com/download/episode/56709418/0904_guldkysten_mp3.mp3</link>
+			<description>Syd for Sydhavn ligger et område, der kunne være perfekt til et moderne boligbyggeri for millionærer. I stedet bor en række tilbagetrukne mennesker i selvbyggede blikskure og småhuse. Dér for enden af Lorterenden ligger Guldkysten.På Danmarks Mindste Nyheder er vi nysgerrige på, hvem beboerne er, men da de helst holder sig for sig selv og er svære at få i tale, er vi ikke alene afsted. Vi får nemlig hjælp af Tonny Munnecke, forfatter til “Gamle hermod og andre skrøner fra Guldkysten”, en bog om netop det her område.Han lærer os om stedet, og prøver vi at komme i snak med nogle af de lokale.Vært: Kristoffer Kristensen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56709418/0904_guldkysten_mp3.mp3</guid>
+			<pubDate>Fri, 08 Sep 2023 13:40:01 +0000</pubDate>
+			<itunes:duration>01:04:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56709418/0904_guldkysten_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
