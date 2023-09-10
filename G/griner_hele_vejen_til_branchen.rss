@@ -259,5 +259,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56646663/s2_a6_noget_om_folkemusik_med_marie_hamborg_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om at være underviser på gymnasiet med Anne Drivsholm</title>
+			<link>https://api.spreaker.com/download/episode/56728241/s2_a7_noget_om_at_v_re_underviser_p_gymnasiet_med_anne_drivsholm_podcast.mp3</link>
+			<description>I denne uge snakker vi med Anne Drivsholm som til dagligt underviser på gymnasiet i musik og samfundsfag. Vi får indblik i hvordan det er at være underviser, samt hører om hendes vej dertil. Det bliver spændende!Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56728241/s2_a7_noget_om_at_v_re_underviser_p_gymnasiet_med_anne_drivsholm_podcast.mp3</guid>
+			<pubDate>Sun, 10 Sep 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56728241/s2_a7_noget_om_at_v_re_underviser_p_gymnasiet_med_anne_drivsholm_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
