@@ -3248,5 +3248,18 @@ Vært: Oliver Bærentsen</description>
 			<itunes:duration>00:23:08</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56722143/070923_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ruslands opposition er en Potemkin-kulisse</title>
+			<link>https://api.spreaker.com/download/episode/56759408/110923_konfliktzonen_podcast.mp3</link>
+			<description>Den russiske opposition eksisterer stort set ikke, valgobservatører bliver truet og alle kender resultatet, inden stemmerne er talt op. Alligevel bliver der afholdt regionalvalg i Rusland, hvor styret bruger valghandlingerne til at skabe en form for normalitet og legitimitet. Men hvilken rolle spiller valgene for den russiske befolkning og resterne af oppositionen?
+Medvirkende: 
+Emil Rottbøll, Ruslandkorrespondent for Berlingske.
+Katrine Stevnhøj, ph.d. studerende med fokus på russiske protestbevægelser og politisk aktivisme ved Københavns Universitet (12:04).
+Vært: Oliver Bærenten</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56759408/110923_konfliktzonen_podcast.mp3</guid>
+			<pubDate>Mon, 11 Sep 2023 07:14:46 +0000</pubDate>
+			<itunes:duration>00:25:35</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56759408/110923_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
