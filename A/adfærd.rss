@@ -1213,5 +1213,14 @@ I denne samtale giver Dennis dig et indblik i 5 måder, du kan bekæmpe pseudoar
 			<itunes:duration>00:27:04</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56211235/min_film_6.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Trailer: Mening, vaner og uintelligente lyttere ...</title>
+			<link>https://api.spreaker.com/download/episode/56734636/adfrd_sson_11_trailer_080923.mp3</link>
+			<description>Den nye sæson lander den 19. september, hvor Morten Albæk er gæst.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56734636/adfrd_sson_11_trailer_080923.mp3</guid>
+			<pubDate>Tue, 12 Sep 2023 04:30:03 +0000</pubDate>
+			<itunes:duration>00:04:43</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56734636/adfrd_sson_11_trailer_080923.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

@@ -3261,5 +3261,18 @@ Vært: Oliver Bærenten</description>
 			<itunes:duration>00:25:35</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56759408/110923_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Den Anden Kolde Krig</title>
+			<link>https://api.spreaker.com/download/episode/56773023/120923_konfliktzonen_podcast.mp3</link>
+			<description>Spionagen mellem stormagterne stiger og det lader til, at vi er på vej ind i en ny kold krig. Det er dommen ovenpå en sag om en mulig kinesisk spion dybt inde i det britiske parlament. Men hvordan ser spionernes kampplads ud anno 2023?
+Medvirkende:
+Liselotte Odgaard, professor ved Norges Institut for Forsvarsstudier
+André Ken Jakobsen, adjunkt ved Center for War Studies på Syddansk Universitet (12:04).
+Vært: Oliver Bærentsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56773023/120923_konfliktzonen_podcast.mp3</guid>
+			<pubDate>Tue, 12 Sep 2023 07:08:21 +0000</pubDate>
+			<itunes:duration>00:32:33</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56773023/120923_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
