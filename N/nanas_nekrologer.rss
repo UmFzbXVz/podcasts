@@ -1734,5 +1734,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:21:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56767308/lauren_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Sebastians Nekrolog: Livet, en disciplin i taknemmelighed</title>
+			<link>https://api.spreaker.com/download/episode/56769569/sebastian_stream.mp3</link>
+			<description>Sebastian er billedet på den morderne mand. Han har aldrig været til OL i fodbold, for eksempel, men hvis selvrefleksion var en sportsgren, havde han vundet guld. Han dyrker yoga, skriver dagbog og praktiserer taknemmelighed. Men selvom man gør alt det rigtige, kan livet stadig godt gøre ondt. Hør Sebastian gør status over sit liv, sin hidtil sjælerejse og mød ungdommen anno 2023.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56769569/sebastian_stream.mp3</guid>
+			<pubDate>Tue, 12 Sep 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:54:01</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56769569/sebastian_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
