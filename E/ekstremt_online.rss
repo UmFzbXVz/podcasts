@@ -1236,5 +1236,14 @@ Gucci + Bourgeois: https://www.youtube.com/watch?v=tcHYVjWn-TI&amp;ab_channel=Ke
 			<itunes:duration>00:53:33</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56712079/50_anton.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>“And the Oscar goes to… ChatGPT”</title>
+			<link>https://api.spreaker.com/download/episode/56787924/51_podcast_martin_schmidt.mp3</link>
+			<description>Manuskriptforfatterne i Hollywood har været på strejke siden 2. maj 2023 for bedre lønvilkår og med krav til at kunstig intelligens ikke må overtage deres jobs i fremtiden, men er frygten for at AI kan skrive den næste store blockbuster overhovedet realistisk? Det undersøger Nanna Schmidt Nordestgaard sammen med universitetspraktikant Josefine Schlie, ved at få GPT-4, som er den seneste version af ChatGPT, til at skrive et udkast til en ny horrorserie. Instruktør og forfatter Martin Schmidt gæster også denne episode af Ekstremt Online, hvor han fortæller om at arbejde i filmbranchen og hvorfor han mener at den fremadstormende AI-teknologi kan true både arbejdsvilkår og kreativitet - og så får vi ham selvfølgelig til at give sin faglige vurdering GPT-4’s evner som manuskriptforfatter. Derefter skal vi drømme os lidt frem i tiden sammen med Jesper Bo Jensen, direktør i Center for fremtidsforskning, som kommer med et bud på hvordan kunstig intelligens kan påvirke vores forbrug af film og medier i fremtiden. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56787924/51_podcast_martin_schmidt.mp3</guid>
+			<pubDate>Thu, 14 Sep 2023 04:05:01 +0000</pubDate>
+			<itunes:duration>01:06:34</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56787924/51_podcast_martin_schmidt.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
