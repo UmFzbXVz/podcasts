@@ -387,5 +387,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:07:38</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56727133/v7v_vittigheder.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 vigtigste forudsætning for dansk børne-tvs succes</title>
+			<link>https://api.spreaker.com/download/episode/56804617/v7v_b_rnetv.mp3</link>
+			<description>Gæst: Iben WurbsNøj, det er for børn!! Men hvad er for børn - og hvordan formidles det? Vidste du, at børneTV i 1970erne og 80erne kunne få 4-5000 personer til at skrive og klage. Så shitstorme hører ikke Onkel Reje og hvor tid til alene. Til gengæld var det IBEN WURBS’ opgave at besvare dem alle. Det fortæller hun om i dagens episode af VERDENS 7 VIDUNDERE, hvor vi taler om DE 7 VIGTIGSTE FORUDSÆTNINGER FOR DANSK BØRNE-TVS SUCCES</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56804617/v7v_b_rnetv.mp3</guid>
+			<pubDate>Fri, 15 Sep 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:14:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56804617/v7v_b_rnetv.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

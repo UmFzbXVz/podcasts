@@ -312,5 +312,14 @@
 			<itunes:duration>00:54:10</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56724005/ukraine.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>On the Road</title>
+			<link>https://api.spreaker.com/download/episode/56801857/on_the_road.mp3</link>
+			<description>Ifølge legenden tapede den amerikanske forfatter Jack Kerouac i april 1951 en masse papirer sammen, indtil de udgjorde en 37 meter lang rulle. Så satte han dem i sin skrivemaskine og skrev på kun 3 uger en af det 20. århundredes mest indflydelsesrige romaner på 320 sider, nemlig romanen, “On the Road.” I bogen findes der ingen afsnit, intet linjeskift, kun en sammenhængende mur af tekst, som inkluderer stavefejl, skrig, jazz og fart, omsat til skrift. Ekstremt kort fortalt er det historien om Jack og hans venner, og især den vilde, kaotiske og senere ikoniske Neal Cassady, som farer frem og tilbage over USA, fra østkysten til vestkysten, og tilbage igen. De kan ikke selv forklare hvorfor, de ved kun, at ikke føler sig til rette i efterkrigstidens USA, og må ud på vejen for at lede efter svar. Lyt med, når vi sammen med Lasse Yde Hegnet taler om den ultimative roadroman, der inspirerede musikere, forfattere og hele hippiebevægelsen. Når vi spørger, hvorfor Kerouac måtte opfinde et ny sprog og skrivestil med plads til jazz, improvisation og fart. Når vi undersøger hvem beat-generation var, og hvorfor “On the Road” var for voldsom til at blive udgivet i sin originale form.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56801857/on_the_road.mp3</guid>
+			<pubDate>Thu, 14 Sep 2023 16:18:21 +0000</pubDate>
+			<itunes:duration>00:52:44</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56801857/on_the_road.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
