@@ -268,5 +268,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56728241/s2_a7_noget_om_at_v_re_underviser_p_gymnasiet_med_anne_drivsholm_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Musikproduktion med Jonna Aspeklev</title>
+			<link>https://api.spreaker.com/download/episode/56802627/s2_a8_noget_om_musikproduktion_med_jonna_aspeklev_podcast.mp3</link>
+			<description>I denne uge snakker vi med musikproducer Jonna Aspeklev, som tidligere har arbejdet for Tape Town ved Lydhavnen i Aarhus. Hun er nu gået solo og kommer til at snakke om hendes ved ind i musikbranchen, herunder hvilke uddannelser hun har taget, samt om hvordan det er at leve af at producere musik.Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56802627/s2_a8_noget_om_musikproduktion_med_jonna_aspeklev_podcast.mp3</guid>
+			<pubDate>Sun, 17 Sep 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56802627/s2_a8_noget_om_musikproduktion_med_jonna_aspeklev_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
