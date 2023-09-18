@@ -1743,5 +1743,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:54:01</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56769569/sebastian_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Laurens Nekrolog: Gynger i kærestebrev</title>
+			<link>https://api.spreaker.com/download/episode/56838284/lauren_stream.mp3</link>
+			<description>Lauren gør status over sit liv og dvæler ved barndomsminder om sorgløse frikvarterer og en julekoncert, der ændrede alt. Og hvis i dag virkelig var Laurens sidste svingtur i manegen vi kalder livet, har hun været glad for at have været menneske - at have nået at være både barnet, der gyngede og den voksne, som skubbede til den.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56838284/lauren_stream.mp3</guid>
+			<pubDate>Mon, 18 Sep 2023 07:52:09 +0000</pubDate>
+			<itunes:duration>00:54:05</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56838284/lauren_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
