@@ -141,5 +141,14 @@
 			<itunes:duration>00:53:38</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56685217/anders_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på en trend med Julia Lahme</title>
+			<link>https://api.spreaker.com/download/episode/56773918/julia_klippet.mp3</link>
+			<description>Ugens gæst ved alt om livsstil og trends. Hun er uddannet etnolog, men arbejder med trendforskning og kommunikation i eget bureau. Hun har skrevet en lang række bøger om alt fra teenage-tackling, danmarkshistorie og kolonihaver. Hun elsker marcipan og alt der glimter, og så har hun aldrig fået kørekort.Ugens gæst er: Julia LahmeHvordan opstår en trend? Hvad skete der for hipsteren og nordisk mad? Hvad kommer der til at ske i fremtiden - og kan vi nå at redde 24syv? Lyt og få hele opskriften.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56773918/julia_klippet.mp3</guid>
+			<pubDate>Mon, 18 Sep 2023 03:00:02 +0000</pubDate>
+			<itunes:duration>00:53:55</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56773918/julia_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
