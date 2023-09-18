@@ -915,5 +915,14 @@
 			<itunes:duration>00:54:09</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56733061/0906_kun_en_hedder_1_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Nyt fra indkøbskurven: LIDLs varer vejer cirka, hvad de skal</title>
+			<link>https://api.spreaker.com/download/episode/56842457/0918_lidl.mp3</link>
+			<description>Den tyske dagligvarekæde LIDL har tidligere fået kritik for, at deres varer vejer for lidt. Altså, at man ikke får, hvad man betaler for. Her et halvt år efter har vi på Danmarks Mindste Nyheder været ude med vægten for at undersøge, om det stadig er tilfældet - og vi kan altså afsløre, at LIDLs varer vejer stort set, hvad de skal, måske endda lidt mere.Den historie er jo lige lovlig positiv, så vi prøver at se, om det samme gælder for den norske discountbutik Rema 1000.Vært: Kristoffer KristensenReporter: Peter ArveProducer: Simon Porse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56842457/0918_lidl.mp3</guid>
+			<pubDate>Mon, 18 Sep 2023 14:50:55 +0000</pubDate>
+			<itunes:duration>00:35:33</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56842457/0918_lidl.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
