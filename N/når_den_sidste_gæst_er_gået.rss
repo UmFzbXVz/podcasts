@@ -312,5 +312,14 @@
 			<itunes:duration>01:03:50</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56734662/ravn_og_kr_ger_spreaker_ny.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Et Michelin Mareridt</title>
+			<link>https://api.spreaker.com/download/episode/56846325/et_michelin_maridt.mp3</link>
+			<description>I dag skal vi snakker om et vaskeægte michelin mareridt.Det seneste år har TV 2s dokumentarredaktion talt med mere end 70 nuværende og tidligere ansatte på danske Michelin- og fine dining-restauranter og I sidste uge kunne vi se andet og sidste afsnit hvor flere tidligere medarbejdere beretter om dårlige arbejdsforhold på adskillige af landets mange Michelin-restauranter.Derfor har Anne inviteret Nicolai og Sara ind, som begeg to har arbejdet på Michelin restaurenter for at høre deres mening om både dokumentaren og branchen. Der bliver snakket om det er muligt at være verdens bedste til faget, uden at lave et moderen form for slaveri på en arbejdplads? Om det er gæsterne der sætter standarten for branchen som er tæt på umulige at opretholde? Og om vi skal stoppe med at uddele Michelin stjerne for at passe på de mennesker der arbejder i branchen.Rigtig god lytter! </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56846325/et_michelin_maridt.mp3</guid>
+			<pubDate>Tue, 19 Sep 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:16:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56846325/et_michelin_maridt.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
