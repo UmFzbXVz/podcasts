@@ -3314,5 +3314,18 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:23:07</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56809486/konfliktzonen_1809.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ræven og voldsspiralen</title>
+			<link>https://api.spreaker.com/download/episode/56850688/konfliktzonen_1909.mp3</link>
+			<description>Den svenske bande Foxtrottnettverket har igangsat en voldsspiral, som har fået den svenske regering til at indkalde til hastemøde. I spidsen for banden er Rawa Majid, også kaldet Den Kurdiske Ræv, som befinder sig i Tyrkiet. Og der er ikke noget, der tyder på, at han stopper sine aktiviteter - eller, at han bliver udleveret til Sverige.
+Medvirkende: 
+(01:00) Jesper Zølck, nordisk korrespondent for TV2 med base i Stockholm.
+(14:15) Deniz Serinci, journalist og forfatter med kendskab til Tyrkiet. 
+Vært: Pola Rojan Bagger.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56850688/konfliktzonen_1909.mp3</guid>
+			<pubDate>Tue, 19 Sep 2023 07:31:09 +0000</pubDate>
+			<itunes:duration>00:22:30</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56850688/konfliktzonen_1909.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
