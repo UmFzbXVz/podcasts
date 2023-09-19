@@ -1779,5 +1779,14 @@
 			<itunes:duration>00:58:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56700148/rtskjel.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Den store Vuelta-afrunding</title>
+			<link>https://api.spreaker.com/download/episode/56855383/rt_pod_1909.mp3</link>
+			<description>Radio Tour-studiet gennemgår de store højdepunkter og danskerpræstationer til dette års La Vuelta.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56855383/rt_pod_1909.mp3</guid>
+			<pubDate>Tue, 19 Sep 2023 14:17:11 +0000</pubDate>
+			<itunes:duration>01:03:39</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56855383/rt_pod_1909.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
