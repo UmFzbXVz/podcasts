@@ -276,5 +276,14 @@
 			<itunes:duration>00:47:18</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56767864/vallekilde3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Fremtiden bør være blågrøn - og regenerativ</title>
+			<link>https://api.spreaker.com/download/episode/56841257/havhoest3.mp3</link>
+			<description>Havhøst er en organisation, der på flere forskellige måder arbejder med dyrkning af spiselige afgrøder i havet. Formålet er at genskabe balance i havets økosystem, og dyrke bæredygtige fødekilder for mennesker. Helt kort handler det om at give havet mere end vi tager - i den her episode er formidlingschef og projektleder fra Havhøst, Bodil Sofie Espersen, i studiet for at fortælle, hvad det betyder.Ungdomsbureauet ser nærmere på forskellige aspekter af ungdomslivet. Din vært Gunvor Barkholt dykker ned i nogle af de bekymringer, tanker og drømme der fylder hos ungdommen. Med andre ord, så ser vi nærmere på unges udfordringer og muligheder – En ad gangen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56841257/havhoest3.mp3</guid>
+			<pubDate>Wed, 20 Sep 2023 05:00:03 +0000</pubDate>
+			<itunes:duration>00:31:42</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56841257/havhoest3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
