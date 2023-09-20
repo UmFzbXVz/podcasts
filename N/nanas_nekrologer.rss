@@ -1761,5 +1761,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:37</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56838790/cecilie_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>En livsfilosofi at hænge over kaminen #6</title>
+			<link>https://api.spreaker.com/download/episode/56839372/mandagsepi_g_glip_stream.mp3</link>
+			<description>Nogle har “Live, Laugh, Love” hængende derhjemme, men hvad er de livsfilosofier ungdommen anno 2023 læner sig op af i perioder? Mai har eksempelvis lånt et princip af “Yes Man”-filmen, og siger simpelthen ikke nej til ting. Sådan endte hun spontant på en scene foran 5000 mennesker. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56839372/mandagsepi_g_glip_stream.mp3</guid>
+			<pubDate>Tue, 19 Sep 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:35:33</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56839372/mandagsepi_g_glip_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
