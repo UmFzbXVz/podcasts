@@ -3341,5 +3341,20 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:24:36</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56864802/200923_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Polen eskalerer kornkonflikt</title>
+			<link>https://api.spreaker.com/download/episode/56878467/210923_konfliktzonen_podcast.mp3</link>
+			<description>Polen er raget uklar med både Ukraine og EU.
+Det polske regeringsparti PIS går nemlig stik imod en beslutning foretaget af EU-kommissionen om at lade Ukraine sælge korn på det europæiske marked. I Bruxelles er man sure på Polen over at bryde den fælles front og Ukraine har nu lagt sag an mod Polen ved Verdenshandelsorganisationen WTO.
+For PIS handler det om at vinde det tætte polske valg til oktober. 
+Medvirkende:
+Jacob Langvad, 24syvs korrespondent i Bruxelles
+Anna Werenberg, Polen-kender og forsker tilknyttet Koldkrigsmuseet Langelandsfortet (09:41).
+Vært: Oliver Bærentsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56878467/210923_konfliktzonen_podcast.mp3</guid>
+			<pubDate>Thu, 21 Sep 2023 07:27:38 +0000</pubDate>
+			<itunes:duration>00:23:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56878467/210923_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
