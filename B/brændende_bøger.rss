@@ -321,5 +321,14 @@
 			<itunes:duration>00:52:44</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56801857/on_the_road.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>&quot;Please, sir, I want some more&quot;</title>
+			<link>https://api.spreaker.com/download/episode/56885050/dickens.mp3</link>
+			<description>En af de mest kendte scener i den engelske forfatter Charles Dickens forfatterskab er, da den 9-årige Oliver Twist, opvokset i et såkaldt workhouse, rejser sig op efter at have spist sit sparsomme måltid og siger: “Please, sir, I want some more”. Hans spørgsmål vækker en enorm vrede, for hvordan kan man som et fattigt og forældreløst barn tillade sig at bede om mere, når staten allerede tager sig af en? Ønsket om en forbedret tilværelse og viljen til at række ud efter den, delte Oliver med sin forfatter, Charles Dickens. I bøger som  “Oliver Twist”, “David Copperfield”, “Store forventninger” og “Bleak House” løber en syleskarp kritik af de mest problematiske sociale forhold i det engelske samfund. Med beskrivelserne af børnearbejde, vold, sygehusvæsenet og det pilrådne juridiske system, chokerede han ikke kun sin samtid, men ændrede faktisk lovgivningen til det bedre. Lyt med, når vi sammen med formanden for Dickens Selskabet, Lise Lotte Frederiksen, snakker om en paradoksal og verdenskendt forfatter, om drabelige og pilrådne institutioner, korrupte sagfører, Londons tåge, om social ulighed i både fortiden og nutidens England, og hvordan Dickens forbedrede lovgivningen med sine bøger.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56885050/dickens.mp3</guid>
+			<pubDate>Thu, 21 Sep 2023 16:00:02 +0000</pubDate>
+			<itunes:duration>00:54:07</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56885050/dickens.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
