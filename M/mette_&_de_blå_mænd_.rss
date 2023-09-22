@@ -1004,5 +1004,14 @@ Producer: Pola Rojan Bagger</description>
 			<itunes:duration>00:53:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56809592/mette_og_de_bl_m_nd_15_september.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Karker elsker Mette F., springer der en bombe i S, og så er statsministeren folkelig</title>
+			<link>https://api.spreaker.com/download/episode/56893673/mette_og_de_bl_m_nd_d_22_september.mp3</link>
+			<description>Andreas Karker er blevet fan af Mette Frederiksen, Silas Moody er på besøg og har lavet en hitparade over Mette Frederiksens peeks, og så når vi også at runde kritikken fra S- og V-baglandet. Hvad er farligst? Værter: Sanne Fahnøe og Andreas Karker Gæst: Silas Moody Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56893673/mette_og_de_bl_m_nd_d_22_september.mp3</guid>
+			<pubDate>Fri, 22 Sep 2023 09:47:34 +0000</pubDate>
+			<itunes:duration>00:51:56</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56893673/mette_og_de_bl_m_nd_d_22_september.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

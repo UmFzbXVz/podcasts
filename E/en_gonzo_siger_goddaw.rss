@@ -115,5 +115,14 @@
 			<itunes:duration>01:00:37</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56699520/gonzo12.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 13: Lystløgnerlisten</title>
+			<link>https://api.spreaker.com/download/episode/56895541/gonzo14.mp3</link>
+			<description>I anledning af Jan Grarup-sagen, arbejder vi i denne uge på en liste over de mest prominente lystløgnere i Medie-Danmark. Derudover springer Anders nu også ud som kunstner, og opfører et hjemmekomponeret værk fra 1994, på fransk. Det er en sang om en fabrik, der fremstiller t-shirts.    Og endelig er der den besynderlige historie om, hvordan René engang drugrapede en kendt chefredaktør. Kort sagt: En knytnæve i røven og en pommesfrites på ærmet</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56895541/gonzo14.mp3</guid>
+			<pubDate>Fri, 22 Sep 2023 13:35:27 +0000</pubDate>
+			<itunes:duration>00:55:26</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56895541/gonzo14.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
