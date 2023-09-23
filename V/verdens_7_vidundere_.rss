@@ -396,5 +396,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:14:54</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56804617/v7v_b_rnetv.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 største røverhistorier om danmarkshistorien</title>
+			<link>https://api.spreaker.com/download/episode/56897196/v7v_r_verhistorier.mp3</link>
+			<description>Gæst: Asser AmdisenWie es eigentlich gewesen ist, er alle historikeres mål for beskrivelsen af fortiden. “Studer historikeren, før du studerer historien”, skrev Edward H. Carr. For er den historiske fremstilling i virkeligheden i højere grad en fortælling om den tid, den er skrevet i. Dette og meget mere taler vi om, når ASSER AMDISEN atter gæster VERDENS 7 VIDUNDEREtil en en snak om DANMARKSHISTORIENS 7 STØRSTE RØVERHISTORIER</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56897196/v7v_r_verhistorier.mp3</guid>
+			<pubDate>Sat, 23 Sep 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:17:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56897196/v7v_r_verhistorier.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
