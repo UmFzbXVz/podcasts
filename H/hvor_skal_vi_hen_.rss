@@ -159,5 +159,32 @@
 			<itunes:duration>00:54:04</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56188410/uploudfredagd7juli_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Jonas Johansson</title>
+			<link>https://api.spreaker.com/download/episode/56923204/jonas_uploud_1_online_audio_converter_com.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56923204/jonas_uploud_1_online_audio_converter_com.mp3</guid>
+			<pubDate>Mon, 25 Sep 2023 11:05:01 +0000</pubDate>
+			<itunes:duration>00:53:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56923204/jonas_uploud_1_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Petar Djukic</title>
+			<link>https://api.spreaker.com/download/episode/56923262/20230728_hvor_skal_vi_hen_s1e26_t20_online_audio_converter_com.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56923262/20230728_hvor_skal_vi_hen_s1e26_t20_online_audio_converter_com.mp3</guid>
+			<pubDate>Mon, 25 Sep 2023 10:16:56 +0000</pubDate>
+			<itunes:duration>00:54:04</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56923262/20230728_hvor_skal_vi_hen_s1e26_t20_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Josefine Villumsen</title>
+			<link>https://api.spreaker.com/download/episode/56923179/20230907_hvor_skal_vi_hen_s1e29_t22_online_audio_converter_com.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56923179/20230907_hvor_skal_vi_hen_s1e29_t22_online_audio_converter_com.mp3</guid>
+			<pubDate>Mon, 25 Sep 2023 09:56:04 +0000</pubDate>
+			<itunes:duration>00:53:39</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56923179/20230907_hvor_skal_vi_hen_s1e29_t22_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
