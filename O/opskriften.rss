@@ -150,5 +150,14 @@
 			<itunes:duration>00:53:55</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56773918/julia_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på et hit med Arto Eriksen</title>
+			<link>https://api.spreaker.com/download/episode/56788557/arto_klippet.mp3</link>
+			<description>Ugens gæst er en kæmpe hitmager. Han har produceret Tobias Rahims gigantiske hits såsom “Stor Mand”, “Mucki Bar” og faktisk alle hans andre hits. Han er samtidig en vild tech-house connoisseur og optræder under navnet Yo Johnny, hvis han da ikke lige laver sindssyg punk eller eksperimenterende lydflader. Ugens gæst er: Arto EriksenHvordan laver man et Tobias Rahim hit? Hvorfor begyndte de at lave musik sammen? Og hvornår spiller Yo Johnny deres første koncert på en rumstation? Lyt med og få hele opskriften.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56788557/arto_klippet.mp3</guid>
+			<pubDate>Mon, 25 Sep 2023 03:00:02 +0000</pubDate>
+			<itunes:duration>00:53:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56788557/arto_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
