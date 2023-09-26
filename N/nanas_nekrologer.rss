@@ -1770,5 +1770,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:35:33</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56839372/mandagsepi_g_glip_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvad går du glip af? #6</title>
+			<link>https://api.spreaker.com/download/episode/56839441/mandagsepi_g_glip_gte_stream.mp3</link>
+			<description>Cecilie vil være mest ked af, at ikke nå at blive mor. Sebastian har det på samme måde med at blive far. Mai anskuer det fra en anden vinkel: hun ser sig selv og alle menneskerne i sit liv som et tv-show, og ville være mest ked af, ikke at kunne se serien til ende. Hun vil gerne vide, hvordan plottet og hvor karaktererne ender. Hør også Lauren fortælle, hvilken oplevelse de ville være allermest kede af at gå glip af, hvis de skulle dø i morgen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56839441/mandagsepi_g_glip_gte_stream.mp3</guid>
+			<pubDate>Mon, 25 Sep 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:35:19</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56839441/mandagsepi_g_glip_gte_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

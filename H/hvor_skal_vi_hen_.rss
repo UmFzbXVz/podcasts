@@ -186,5 +186,14 @@
 			<itunes:duration>00:53:39</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56923179/20230907_hvor_skal_vi_hen_s1e29_t22_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Marcus Alvarado Eklund</title>
+			<link>https://api.spreaker.com/download/episode/56923225/20230908_hvor_skal_vi_hen_s1e30_t20_online_audio_converter_com.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56923225/20230908_hvor_skal_vi_hen_s1e30_t20_online_audio_converter_com.mp3</guid>
+			<pubDate>Tue, 26 Sep 2023 05:10:02 +0000</pubDate>
+			<itunes:duration>00:53:50</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56923225/20230908_hvor_skal_vi_hen_s1e30_t20_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

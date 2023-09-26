@@ -321,5 +321,14 @@
 			<itunes:duration>01:16:54</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56846325/et_michelin_maridt.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Micromanagement</title>
+			<link>https://api.spreaker.com/download/episode/56882472/mikro_nikita_intro.mp3</link>
+			<description>Hvad er mikromanegement? Hvordan påvirker det ens psyke at føle sig konstant overvåget? Og er grunden til at man hader mikromanagement, ikke fordi man bliver taget i, ikke at gøre sit arbejde godt nok? Vi ved der er mangel på god leder erfaring og uddannelse i restaurationsbrancen, og i Annes top 3 hade ting ligger den lederstil der eksisterer i allerbedste velgående, nemlig Mikromanagement klart i toppen. Derfor har Anne, inviteret Nikita og Teis ind til en snak om hvad deres oplevelser er med mikromanegement, om den egentlig er så dårlig som først antaget, og hvad løsningen kan være. Rigtig godt lytter!Link til de råd vi snakker om i programmet.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56882472/mikro_nikita_intro.mp3</guid>
+			<pubDate>Tue, 26 Sep 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>00:57:17</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56882472/mikro_nikita_intro.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
