@@ -195,5 +195,14 @@
 			<itunes:duration>00:53:50</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56923225/20230908_hvor_skal_vi_hen_s1e30_t20_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ju Kaia // Julie Moberg</title>
+			<link>https://api.spreaker.com/download/episode/56923384/jukaiauploud_online_audio_converter_com.mp3</link>
+			<description>Julie Moberg er hendes borgelige navn, men du kender hende helt sikkert som Ju Kaia. 'Hvor skal vi hen?', er taget til Månefiskeren på Christiania for at lære musikeren bedre at kende og snakke om hendes nye EP 'All of me but not even close.'</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56923384/jukaiauploud_online_audio_converter_com.mp3</guid>
+			<pubDate>Wed, 27 Sep 2023 05:25:01 +0000</pubDate>
+			<itunes:duration>00:54:19</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56923384/jukaiauploud_online_audio_converter_com.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
