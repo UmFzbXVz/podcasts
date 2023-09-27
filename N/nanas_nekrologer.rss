@@ -1779,5 +1779,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:35:19</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56839441/mandagsepi_g_glip_gte_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Sifs Nekrolog: Kunsten at kunne klare sig selv</title>
+			<link>https://api.spreaker.com/download/episode/56867509/sif_stream.mp3</link>
+			<description>Sif har siden barndommen været så bange for, at vågne op i sit eget Palle-Alene-I-Verden-scenarie, at hun har gjort alt hvad hun kan, for at forberede sig. Det indebærer blandt andet, at blive så gode venner med sig selv, at Sif ved, at hvis hun en dag vågner op til en tom verden, kan hun klare sig alligevel. Men hvordan vedholder man sin selvstændighed, samtidig med at man lever et liv, der unægteligt er sammenflettet med andres?</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56867509/sif_stream.mp3</guid>
+			<pubDate>Tue, 26 Sep 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:53:43</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56867509/sif_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

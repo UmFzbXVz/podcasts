@@ -1788,5 +1788,14 @@
 			<itunes:duration>01:03:39</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56855383/rt_pod_1909.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>EM-præstationer og de unge ryttere</title>
+			<link>https://api.spreaker.com/download/episode/56943453/rt_pod_2609.mp3</link>
+			<description>Snakken i denne uges Radio Tour går på præstationerne til EM og de unge rytteres indflydelse.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56943453/rt_pod_2609.mp3</guid>
+			<pubDate>Tue, 26 Sep 2023 14:32:03 +0000</pubDate>
+			<itunes:duration>01:02:48</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56943453/rt_pod_2609.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
