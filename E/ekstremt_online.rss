@@ -1254,5 +1254,14 @@ Gucci + Bourgeois: https://www.youtube.com/watch?v=tcHYVjWn-TI&amp;ab_channel=Ke
 			<itunes:duration>00:53:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56867110/52_therkel.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Skoleelevers data taget som gidsel + hvordan smager en AI-cola?</title>
+			<link>https://api.spreaker.com/download/episode/56958144/episode_53.mp3</link>
+			<description>Har du noget, ingen andre skal vide om dig?Fem sønderjyske skoler er blevet udsat for et hackerangreb, og dataen fra op mod 7500 elever og 500 ansatte er muligvis blevet lækket. Angrebet er et såkaldt ransomware-angreb, hvor hackerne får adgang til personfølsom- og privat data, og derefter kræver en løsesum for ikke at offentliggøre det på nettet. Men hvor alvorligt er det egentlig? Det er Allan Frank, IT-sikkerhedsspecialist fra Datatilsynet, i studiet for at svare på. Han gør os klogere på hvor ofte man ser den her slags hackerangreb og hvad man kan gøre, som bruger eller institution, for at sikre sine data bedre. Og så er Coca-Cola hoppet med på AI-bølgen. I samarbejde med kunstig intelligens har de udviklet en helt ny cola, som er baseret på forestillinger om livet i år 3000, indsamlet fra mennesker over hele verden. Sammen med universitetspraktikant Josefine Schlie smagstester Nanna Schmidt Nordestgaard fremtidens cola, og så snakker de om hvordan det at bruge AI til at lave opskrifter på alt fra drinks og mad til hækling og strik, er blevet en stor trend på TikTok.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56958144/episode_53.mp3</guid>
+			<pubDate>Thu, 28 Sep 2023 04:05:01 +0000</pubDate>
+			<itunes:duration>00:47:05</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56958144/episode_53.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

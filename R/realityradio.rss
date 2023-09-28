@@ -276,5 +276,14 @@
 			<itunes:duration>00:55:06</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56708975/robinson_25_r_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>RealityRadio - Best off</title>
+			<link>https://api.spreaker.com/download/episode/56961651/best_off_podcast.mp3</link>
+			<description>En æra er ved at være forbi. RealityRadio lukker og slukker. Men inden bindes der en fin sløjfe på programmet ved at slentre ned af memory lane og hive nogle af de bedste og største øjeblikke i RealityRadios historie frem samt et udvalg af de spændende gæster, der har gæstet programmet.Vært og tilrettelægger:Cecilie Dumanski</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56961651/best_off_podcast.mp3</guid>
+			<pubDate>Wed, 27 Sep 2023 16:06:13 +0000</pubDate>
+			<itunes:duration>00:53:50</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56961651/best_off_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

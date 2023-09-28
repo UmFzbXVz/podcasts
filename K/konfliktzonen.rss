@@ -3395,5 +3395,18 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:23:45</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56952642/270923_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>USA tager kampen op i Afrika</title>
+			<link>https://api.spreaker.com/download/episode/56972358/280923_konfliktzonen_podcast.mp3</link>
+			<description>Amerikanerne har sovet i timen, når det kommer til Afrika, mens russerne og særligt kineserne har investeret massivt på kontinentet. Men nu er USA vågnet op til dåd, og har blandt andet indgået en forsvarsaftale med Kenya om træning, udstyr og penge. Aftalen skal forsøge at øge amerikanernes indflydelse på et kontinent, der er ombejlet af stormagter.
+Medvirkende:
+Rasmus Sinding Søndergaard, forsker i amerikansk udenrigspolitik ved Dansk Institut for Internationale Studier.
+Thomas Mandrup, master i Afrika-studier og lektor ved Forsvarsakademiet (09:48).
+Vært: Oliver Bærentsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56972358/280923_konfliktzonen_podcast.mp3</guid>
+			<pubDate>Thu, 28 Sep 2023 07:46:49 +0000</pubDate>
+			<itunes:duration>00:23:37</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56972358/280923_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
