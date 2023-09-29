@@ -330,5 +330,14 @@
 			<itunes:duration>00:54:07</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56885050/dickens.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Døde Sjæle</title>
+			<link>https://api.spreaker.com/download/episode/56977488/d_de_sj_le.mp3</link>
+			<description>Alene titlen var for meget. Sjæle eksisterer ifølge kirken for til evig tid, så hvorfor skulle den russisk-ukrainske forfatter Nikolaj Gogol få lov til at trykke en bog om en mand, der handler med døde sjæle — et andet ord for afdøde slaver. I Gogol’s ufærdige mesterværk, “Døde Sjæle” fra 1842, ankommer Pavel Ivanovitj Tjitjikov til provinsbyen N.. Snart begynder han at opsøge alle godsejerne i nærheden, for at købe de af deres stavnsbundne bønder, som er døde siden den sidste skatteoptælling. Men hvorfor vil ønsker han overhovedet at opkøbe døde sjæle? Hvorfor sammenlignede Gogol sin fortælling om livet i Ruslands provins med helvedet? Og hvorfor brændte han den anden del af sin planlagte triologi, inden han sultede sig selv ihjel en uge senere? I dagens afsnit af “Brændende Bøger” rejser vi sammen med Simon Pasternak - forlagschef på Gyldendal - og bogens ironiske fortæller langt ud i den russiske provins, start 1800-tallet, for dér at møde et galleri af nærige, forfængelige, smålige, grove, voldelige, løgnagtige, alkoholiserede og direkte amoralske karakterer. En vidunderlig morsom satire over den russiske folkesjæl, når den viser sig fra sin grimmeste side.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56977488/d_de_sj_le.mp3</guid>
+			<pubDate>Thu, 28 Sep 2023 16:05:01 +0000</pubDate>
+			<itunes:duration>00:53:02</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56977488/d_de_sj_le.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

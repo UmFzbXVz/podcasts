@@ -1549,5 +1549,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>01:24:25</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56906945/troop_transporrt.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Myrkur om at give slip og lader musikken gro.</title>
+			<link>https://api.spreaker.com/download/episode/56981740/myrkur.mp3</link>
+			<description>Amalie Bruun, aka Myrkur er gæst i denne udgave af Omegalisten.Myrkur udsender sit fjerde album Spine 20. oktober. Et album der opstået over en længere periode og skabt i en tid med mange nye stærke følelser. En tid hvor Amalie finder sig selv i rollen som mor og bliver et helt og måske nyt menneske.Folkesange bliver lagt i graven for en stund og ny musik med et metallisk udtryk der gror op af den grønne skovbund.Lyt med når Amalie fortæller om tilblivelsen af SPINE og selvfølgelig også al den musik hun er dannet af.Vært: Stine Omega </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56981740/myrkur.mp3</guid>
+			<pubDate>Fri, 29 Sep 2023 05:11:50 +0000</pubDate>
+			<itunes:duration>01:47:48</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56981740/myrkur.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

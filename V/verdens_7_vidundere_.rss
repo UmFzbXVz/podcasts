@@ -405,5 +405,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:17:54</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56897196/v7v_r_verhistorier.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 bedste russiske romaner</title>
+			<link>https://api.spreaker.com/download/episode/56982985/v7v_russiske_romaner.mp3</link>
+			<description>Gæst: Marie Tetzlaff“Oh store, mægtige, ærlige og frie russiske sprog!” skrev Ivan Turgenjev i et af sine prosadigte. Men er det sproget, tiden eller den sociale og historiske kontekst, der bidrager til den russiske litteraturs højdepunkter. Og hvordan oversættes det til en dansk offentlighed? De og meget mere handler VERDENS 7 VIDUNDERE om i dagens episode, hvor gæsten er oversætteren MARIE TETZLAFF, som har sammen sat listen over DE 7 BEDSTE RUSSISKE ROMANER.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56982985/v7v_russiske_romaner.mp3</guid>
+			<pubDate>Fri, 29 Sep 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:14:32</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56982985/v7v_russiske_romaner.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
