@@ -3420,5 +3420,17 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:21:51</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57023309/021223_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Angreb på Ankara</title>
+			<link>https://api.spreaker.com/download/episode/57039281/031023_konfliktzonen_podcast.mp3</link>
+			<description>PKK står bag et bombeangreb på det tyrkiske indenrigsministerium, men ender måske med at spille tyrkerne gode kort på hånden. I hvert fald har tyrkerne allerede brugt opblusningen i konflikten med kurderne til at lægge pres på USA for at få lov til at købe amerikanske kampfly.
+Medvirkende: Pola Rojan Bagger, debatredaktør her på 24syv og tidligere Tyrkietkorrespondent og forfatter til en bog om Tyrkiet.
+Anne Sofie Schøtt, ph.d. I mellemøststudier og adjunkt ved Forsvarsakademiet (12:58).
+Vært: Oliver Bærentsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57039281/031023_konfliktzonen_podcast.mp3</guid>
+			<pubDate>Tue, 03 Oct 2023 07:16:26 +0000</pubDate>
+			<itunes:duration>00:23:33</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57039281/031023_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
