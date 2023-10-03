@@ -2484,5 +2484,20 @@ I redaktionen: Peter Eg Schwarz-Nielsen &amp; Jacob Pedersen</description>
 			<itunes:duration>00:24:20</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57002455/jon_til_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Jon Stephensen om Moderaternes politik: Det er et alt for stort eksperiment</title>
+			<link>https://api.spreaker.com/download/episode/57023400/jon_s_til_podcast_tirsdag.mp3</link>
+			<description>Jon Stephensen er tilbage fra orlov som løsgænger i Folketinget efter et tungt brud med Moderaterne. Valgt i Danmark har talt med Jon Stephensen forud for den nye folketingssæson, og her tager Stephensen bladet fra munden og kalder en del af Moderaternes politik for et alt for stort eksperiment. 
+
+Gæst: Jon Stephensen, læsgænger i Folketinget, tidl. Moderaterne 
+
+Vært: Alexander Wils Lorenzen 
+
+I redaktionen: Peter Eg Schwarz-Nielsen &amp; Jacob Pedersen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57023400/jon_s_til_podcast_tirsdag.mp3</guid>
+			<pubDate>Tue, 03 Oct 2023 03:00:02 +0000</pubDate>
+			<itunes:duration>00:28:19</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57023400/jon_s_til_podcast_tirsdag.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

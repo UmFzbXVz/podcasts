@@ -330,5 +330,14 @@
 			<itunes:duration>00:57:17</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56882472/mikro_nikita_intro.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Anne Og A-Holdet #2</title>
+			<link>https://api.spreaker.com/download/episode/57036673/anne_og_a_holdet_2.mp3</link>
+			<description>I allerbedste Mads Steffensen og Sara Bro-stil har Anne fundet på noget så originalt, som at løse jeres dilemmaer fra restaurationsbranchen. Det gør hun selvfølgelig i fantastisk selskab med sit helt eget A-hold Sara, Marina og Michelle.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57036673/anne_og_a_holdet_2.mp3</guid>
+			<pubDate>Tue, 03 Oct 2023 02:00:03 +0000</pubDate>
+			<itunes:duration>01:14:28</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57036673/anne_og_a_holdet_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
