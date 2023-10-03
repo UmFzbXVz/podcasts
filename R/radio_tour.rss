@@ -1797,5 +1797,14 @@
 			<itunes:duration>01:02:48</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56943453/rt_pod_2609.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Jumbo-spekulationer og de kontraktløse ryttere</title>
+			<link>https://api.spreaker.com/download/episode/57045234/radiotourpodcast.mp3</link>
+			<description>Dagens snak i Radio Tour går bl.a. på hvad fremtiden bringer for Jumbo, og hvordan det er for ryttere at stå uden en kontrakt.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57045234/radiotourpodcast.mp3</guid>
+			<pubDate>Tue, 03 Oct 2023 13:09:45 +0000</pubDate>
+			<itunes:duration>01:04:01</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57045234/radiotourpodcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
