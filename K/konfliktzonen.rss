@@ -3432,5 +3432,17 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:23:33</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57039281/031023_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Krig i Republikanerne</title>
+			<link>https://api.spreaker.com/download/episode/57054691/041023_konfliktzonen_podcast.mp3</link>
+			<description>I en historisk mistillidsafstemning er Kevin McCarthy blevet frataget formandskabet for Repræsentanternes hus. Kniven blev ført af flere af McCarthys egne partifæller og situationen afslører en dyb intern splid i det republikanske parti. En splittelse som (selvfølgelig) trækker tråde til Donald Trump, som evigt spøger i kulissen.
+Medvirkende: Anne Alling, journalist bosat i Nashville, Tennessee
+Mads Dalgaard Madsen, ledelsesrådgiver hos Rambøll og tidligere på Danmark ambassade i Washington D.C. (08:25).
+Vært: Oliver Bærentsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57054691/041023_konfliktzonen_podcast.mp3</guid>
+			<pubDate>Wed, 04 Oct 2023 07:22:26 +0000</pubDate>
+			<itunes:duration>00:24:02</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57054691/041023_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
