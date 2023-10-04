@@ -124,5 +124,14 @@
 			<itunes:duration>00:55:26</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56895541/gonzo14.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 14: &quot;Den må du selv ligge og rode med, René&quot;</title>
+			<link>https://api.spreaker.com/download/episode/57056470/gonzo14.mp3</link>
+			<description>Vi ringer til tidens store stjerner for at få et klart svar fra dem, der åbenbart ikke vil være med i Syvkabalen. Desuden tester vi et nyt et karaoke-koncept: &quot;Vi synger, du gætter tonen!&quot;   For er 24syv i gang med at udvikle eller afvikle? Multitasker mænd bedre end kvinder? Er der Frikadelle-stop i København? Hvad har metoo gjort ved René? Og ikke mindst: Hvorfor er alle så sure på ham?</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57056470/gonzo14.mp3</guid>
+			<pubDate>Wed, 04 Oct 2023 10:25:03 +0000</pubDate>
+			<itunes:duration>00:43:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57056470/gonzo14.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
