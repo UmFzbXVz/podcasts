@@ -339,5 +339,14 @@
 			<itunes:duration>00:53:02</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56977488/d_de_sj_le.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Fri os fra kærligheden</title>
+			<link>https://api.spreaker.com/download/episode/57090075/suxanne.mp3</link>
+			<description>I 1973 udkommer Suzanne Brøggers debutbog, essaysamlingen “Fri os fra kærligheden”.  Et sylespidst og ekstremt uforsonligt angreb på et af de mest personlige og intime områder i vores liv, nemlig den måde vi indretter vores kærlighedsliv på. I centrum for hendes kritik står kernefamilien, monogami og ægteskabet, som vi stadig dyrker trofast den dag i dag, 50 år senere, uden at de nødvendigvis gør os lykkelige. Men hvad er det ved de tre fænomener, hun mener spænder ben på kærligheden? Kan man forestille sig en anden måde at dyrke kærligheden på, og hvordan passer hendes idéer på samtiden i dag? Lyt med, når vi sammen med Nanna Schmidt Nordestgaard og Klaus Brix Andersen taler om den potentielt mest samfundsundergravende bog, der nogensinde er skrevet på dansk.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57090075/suxanne.mp3</guid>
+			<pubDate>Thu, 05 Oct 2023 16:31:29 +0000</pubDate>
+			<itunes:duration>00:53:41</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57090075/suxanne.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

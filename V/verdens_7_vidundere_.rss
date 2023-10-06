@@ -414,5 +414,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:14:32</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56982985/v7v_russiske_romaner.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 vigtigste danske opfindelser</title>
+			<link>https://api.spreaker.com/download/episode/57078961/v7v_opfindelser.mp3</link>
+			<description>Gæst: Albert HedegaardGeorg Gearløs, Professor Tournesol, Q! Fiktionen er fyldt med stereotypiske opfindere. Verdensfjerne og med krøllede hjerner. Men hvorfra kommer deres inspiration, og er deres indsats ikke til vores alles fordel?  Det taler jeg blandt andet med Æresmedlem af Opfinderforeningen ALBERT HEDEGAARD om i dagens episode af VERDENS 7 VIDUNDERE, hvor emner er DE 7 DANSKE OPFINDELSER DER PÅVIRKER VOR HVERDAG MEST</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57078961/v7v_opfindelser.mp3</guid>
+			<pubDate>Fri, 06 Oct 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>00:48:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57078961/v7v_opfindelser.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
