@@ -402,5 +402,14 @@
 			<itunes:duration>01:27:58</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56923972/mnps_s04e10_2023_08_08_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Teaser, sæson 5: Nybegynderens guide</title>
+			<link>https://api.spreaker.com/download/episode/57138180/teaser_klippet_v2_2023_10_03.mp3</link>
+			<description>Så starter sæson 5 af med Noget På Spil. Har du nogensinde tænkt: &quot;Jeg vil gerne prøve noget nyt?&quot; eller undret dig over hvorfor der kun er ét svar på spørgsmålet: “Hvad laver du så?”?I denne af Med Noget På Spil tager de to nye værter Ida og Jon de spørgsmål op. De tror på at det aldrig er for sent at prøve noget nyt, og kaster sig derfor ud at afprøve nye ting sammen, møde nye mennesker og kaste sig ud i nye aktiviteter, de aldrig har prøvet før, - sammen med dygtige entusiaster. De vil undervejs udforske hvordan man kommer i gang med nye aktiviteter, hvordan man øver sig og hvordan man holder ved.Velkommen til Nybegyndernes Guide!Tilrettelægger og værter: Jon Bjarnhof &amp; Ida NeubertGæster: Mads RaastedTekniker &amp; klipper: Jon BjarnhofRedaktør: Lin Hartley</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57138180/teaser_klippet_v2_2023_10_03.mp3</guid>
+			<pubDate>Sat, 07 Oct 2023 15:00:02 +0000</pubDate>
+			<itunes:duration>00:00:42</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57138180/teaser_klippet_v2_2023_10_03.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
