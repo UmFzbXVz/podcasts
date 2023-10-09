@@ -168,5 +168,14 @@
 			<itunes:duration>00:53:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56799444/jcw_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på en flot have med Søren Vester</title>
+			<link>https://api.spreaker.com/download/episode/56841207/s_renklippet.mp3</link>
+			<description>Ugens gæst kalder sig selv for en moderne bonderøv. Han er uddannet designer, og er en mester i at vende ting på hovedet og give dem et kreativt twist. Han har medvirket i programmer som “I hus til halsen”, “Vores Genbrugshjem” og nu viser han igen sin gigantiske have frem i “Søren Vesters have”. Han har en herlig dialekt, elsker friske farver og så hader han skyggereb!Ugens gæst er: Søren VesterHvornår åbner Sørens Blomsterpark? Hvordan satan får man egentlig en flot have? Og hvorfor er det genialt at tisse i haven? Lyt med og få hele opskriften</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56841207/s_renklippet.mp3</guid>
+			<pubDate>Mon, 09 Oct 2023 03:00:03 +0000</pubDate>
+			<itunes:duration>00:53:53</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/56841207/s_renklippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

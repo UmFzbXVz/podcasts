@@ -1806,5 +1806,14 @@
 			<itunes:duration>01:04:01</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57045234/radiotourpodcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Radio Tour taler Lombardiet Rundt</title>
+			<link>https://api.spreaker.com/download/episode/57145645/rt_lombardiet_pod.mp3</link>
+			<description>Tadej Pogačar stak af med sejren til dette års Lombardiet Rundt, og årets sidste monument skal naturligvis drøftes af herrerne i Radio Tour.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57145645/rt_lombardiet_pod.mp3</guid>
+			<pubDate>Sat, 07 Oct 2023 16:26:17 +0000</pubDate>
+			<itunes:duration>00:25:57</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57145645/rt_lombardiet_pod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

@@ -295,5 +295,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56980957/s2_a10_noget_om_k_nsminoriteter_i_musikbranchen_med_gry_harrit_del_1_af_2_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om kønsminoriteter i musikbranchen med Gry Harrit (Del 2 af 2)</title>
+			<link>https://api.spreaker.com/download/episode/57045267/s2_a11_noget_om_k_nsminoriteter_i_musikbranchen_med_gry_harrit_del_2_af_2_podcast.mp3</link>
+			<description>I denne uge fortsætter vi snakken med Gry Harrit!Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57045267/s2_a11_noget_om_k_nsminoriteter_i_musikbranchen_med_gry_harrit_del_2_af_2_podcast.mp3</guid>
+			<pubDate>Sun, 08 Oct 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57045267/s2_a11_noget_om_k_nsminoriteter_i_musikbranchen_med_gry_harrit_del_2_af_2_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
