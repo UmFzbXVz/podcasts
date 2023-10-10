@@ -1815,5 +1815,14 @@
 			<itunes:duration>00:25:57</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57145645/rt_lombardiet_pod.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Peter Sagan stop og tilbageblik på sæsonen</title>
+			<link>https://api.spreaker.com/download/episode/57177464/rt_101023_master_some_1.mp3</link>
+			<description>Radio Tours store tilbageblik på en sæson med mange højdepunkter.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57177464/rt_101023_master_some_1.mp3</guid>
+			<pubDate>Tue, 10 Oct 2023 11:33:37 +0000</pubDate>
+			<itunes:duration>00:57:43</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57177464/rt_101023_master_some_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

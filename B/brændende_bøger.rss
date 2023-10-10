@@ -348,5 +348,14 @@
 			<itunes:duration>00:53:41</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57090075/suxanne.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvem er Jon Fosse?</title>
+			<link>https://api.spreaker.com/download/episode/57176083/jon_fosse.mp3</link>
+			<description>Særudsendelse om nobelprisvinderen i litteratur 2023, den norske dramatiker og forfatter, Jon Fosse. Ifølge akademiet modtager han prisen med den begrundelse, at “hans innovative skuespil og prosa som giver stemme til det, der ikke kan siges.” Men hvad er det præcist, han giver stemme til? Hvad gør hans skrivestil så speciel og hvem er han overhovedet, denne norske forfatter? Lyt med når vi sammen med Fosses danske forlægger gennem mere end tyve år, Arild Batzer, snakker om langsommelighed, fødsel og død, gentagelser, nynorsk, mangel på punktummer og mysticisme i Jon Fosses forfatterskab.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57176083/jon_fosse.mp3</guid>
+			<pubDate>Tue, 10 Oct 2023 07:45:57 +0000</pubDate>
+			<itunes:duration>00:19:16</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57176083/jon_fosse.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
