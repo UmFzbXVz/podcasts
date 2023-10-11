@@ -1471,5 +1471,14 @@ Den her podcast er til dig, der har prøvet at være forelsket. Dig, der engang 
 			<itunes:duration>01:08:21</itunes:duration>
 			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/57051852/endeligt_afsnit_gobs.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Gift ved første blik - Teaser</title>
+			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/57152020/gvfb_teaser.mp3</link>
+			<description>Denne uges afsnit er rykket til i morgen, torsdag d. 12 oktober. Her ruller sidste afsnit af ‘Gift ved første blik’ nemlig over skærmen - og jeg har fået besøg af en af de medvirkende, som fortæller hele sin historie. Hvad der skete bag kameraerne, og siden de slukkede.Gæsten kommer ind i studiet for at fortælle om en åbenbaring - men ender med at forlade studiet med en anden.Lyt med i morgen - MEN FØRST EFTER, du har set det sidste afsnit af ‘Gift ved første blik’.</description>
+			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/57152020/gvfb_teaser.mp3</guid>
+			<pubDate>Tue, 10 Oct 2023 22:05:01 +0000</pubDate>
+			<itunes:duration>00:01:14</itunes:duration>
+			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/57152020/gvfb_teaser.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

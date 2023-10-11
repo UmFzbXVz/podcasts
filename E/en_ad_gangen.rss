@@ -294,5 +294,14 @@
 			<itunes:duration>00:27:23</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56977507/specialefestival3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Demokratisk selvtillid blandt japanske unge</title>
+			<link>https://api.spreaker.com/download/episode/57165620/japanskeunge3.mp3</link>
+			<description>Siden januar i år, der har Ungdomsbureauet, i det her radioprogram, undersøgt danske unges forhold til valgretsalder, demokratisk selvtillid, ligestilling, uddannelse og en masse andet inden for samfundsengagement. Aske Bang Vogelius har i sit speciale undersøgt nogle af de samme emner – dog i forhold til hvordan japanske unge oplever netop det. I den her episoder uddyber Aske nogle af de tendenser som tegnede sig i en række kvalitative interviews med unge japanere. Ungdomsbureauet ser nærmere på forskellige aspekter af ungdomslivet. Din vært Gunvor Barkholt dykker ned i nogle af de bekymringer, tanker og drømme der fylder hos ungdommen. Med andre ord, så ser vi nærmere på unges udfordringer og muligheder – En ad gangen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57165620/japanskeunge3.mp3</guid>
+			<pubDate>Wed, 11 Oct 2023 05:00:03 +0000</pubDate>
+			<itunes:duration>00:29:30</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57165620/japanskeunge3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
