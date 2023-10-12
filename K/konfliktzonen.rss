@@ -3490,5 +3490,17 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:23:39</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57175759/101023_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>AfD stormer frem</title>
+			<link>https://api.spreaker.com/download/episode/57190703/111023_konfliktzonen_podcast.mp3</link>
+			<description>En parlamentarisk sværvægter, der ikke længere kan ignoreres. Sådan beskriver Alternative für Deutschland sig nu efter at have fået henholdsvis 18 og 15 procent af stemmerne i delstatsvalgene i henholdsvis Hessen og Bayern. Det tyske højrefløjsparti bliver ellers kaldt et protestparti og højeekstremt og bliver - indtil videre - frosset ude af alle andre partier i landet. Men det er måske ved at ´ændre sig.
+Medvirkende: Mirko Kolundzic, talsperson for AfD i Bayern.
+Lasse Soll Sunde, 24syvs Tysklandkorrespondent (12:27).
+Vært: Oliver Bærentsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57190703/111023_konfliktzonen_podcast.mp3</guid>
+			<pubDate>Wed, 11 Oct 2023 07:15:27 +0000</pubDate>
+			<itunes:duration>00:23:21</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57190703/111023_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
