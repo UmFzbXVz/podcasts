@@ -3502,5 +3502,17 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:23:21</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57190703/111023_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Nord Stream 2.0</title>
+			<link>https://api.spreaker.com/download/episode/57205011/121023_konfliktzonen_podcast.mp3</link>
+			<description>En gasrørledning mellem Finland og Estland er holdt op med at virke og fejlen tyder på &quot;udefrakommende aktivitet&quot;, lyder det fra finnerne. Finland siger, at man går åbent ud med eventuelle beviser - også hvis de peger i retning af Rusland. Nu skal sagen undersøges, men en af dagens gæster tøver ikke med at kalde episoden for Nord Stream 2.0.
+Medvirkende: Jesper Zølck, nordisk korrespondent for TV2
+Søren Nørby, marinehistoriker og adjunkt ved Forsvarsakademiet (8:48)
+Vært: Oliver Bærentsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57205011/121023_konfliktzonen_podcast.mp3</guid>
+			<pubDate>Thu, 12 Oct 2023 07:18:17 +0000</pubDate>
+			<itunes:duration>00:22:03</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57205011/121023_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
