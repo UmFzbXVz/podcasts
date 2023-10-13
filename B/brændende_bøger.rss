@@ -357,5 +357,14 @@
 			<itunes:duration>00:19:16</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57176083/jon_fosse.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Min kamp</title>
+			<link>https://api.spreaker.com/download/episode/57213113/min_kamp.mp3</link>
+			<description>Mellem 2009 og 2011 skriver den norske forfatter Karl Ove Knausgård sit mest kendte værk med den provokerende titel, “Min kamp”. Bøgerne vakte dog ikke kun skandale på grund af den tydelige reference til Hitler. Først og fremmest blev bøgerne en sensation, fordi han skabte et radikal ærligt værk om sin egen person. Som læsere bliver vi inviteret helt ind i hans mest private minder, pinlige fejl og ufiltrerede tanker om sig selv og sine nærmeste relationer. Men hvad får Knausgård ud af at skrive 4000 sider om sig selv? Hvorfor insisterer han på at stirre på det uperfekte i mennesket, og hvorfor er han så optaget af Hitler? Lyt med, når vi sammen med forfatter og anmelder Bo Heiman diskuterer et af de mest grænsesøgende og ambitiøse værker i vores tid.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57213113/min_kamp.mp3</guid>
+			<pubDate>Thu, 12 Oct 2023 16:20:29 +0000</pubDate>
+			<itunes:duration>00:52:21</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57213113/min_kamp.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
