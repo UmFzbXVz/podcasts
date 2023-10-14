@@ -483,5 +483,14 @@
 			<itunes:duration>00:53:58</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57088422/helena_eva_og_rasmus.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ugens panel: Sy Lee og Pernille Nygaard: &quot;KÅRE OG JEG VAR ET GRIMT BRUD!&quot;</title>
+			<link>https://api.spreaker.com/download/episode/57226303/sy_lee_og_pernille.mp3</link>
+			<description>SÅ ER VI SATME I GANG! En lidt længere episode af Marcus og Realitypanelet, da gæsterne Sy Lee og Pernille Nygaard simpelthen er for nogle gode gæster. Vi får afsluttet hele Kåre Quist situationen og Sy Lee afslører hans ærkefjender samt at han har en hemmelig lover der spiller på det danske herre landshold i fodbold. Panelet giver råd omkring skilsmisser, børn, madvaner og kritik. Din vært er Marcus Eklung og du er med på en lytter.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57226303/sy_lee_og_pernille.mp3</guid>
+			<pubDate>Fri, 13 Oct 2023 17:40:59 +0000</pubDate>
+			<itunes:duration>01:00:53</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57226303/sy_lee_og_pernille.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
