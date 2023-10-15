@@ -1585,5 +1585,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>02:25:43</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57211998/musik_i_film_spreaker.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Vincent Ryder - Om ensomhed &amp;amp; Undergang</title>
+			<link>https://api.spreaker.com/download/episode/57239429/vincent_spreaker.mp3</link>
+			<description>Fredag d. 13 oktober udgav sangskriver og guitarist Vincent Ryder sit første solo album - The end of the world on TV.Et album der indeholder No Bull, shit. men også temaet undergang. og en appel til sin generation og ikke mindst os alle sammen. Lyt med når Stine Omega taler med Vincent om han musikalske univers og selvfølgelig al den musik han er dannet af.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57239429/vincent_spreaker.mp3</guid>
+			<pubDate>Sun, 15 Oct 2023 12:48:18 +0000</pubDate>
+			<itunes:duration>01:33:39</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57239429/vincent_spreaker.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

@@ -304,5 +304,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57045267/s2_a11_noget_om_k_nsminoriteter_i_musikbranchen_med_gry_harrit_del_2_af_2_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Kasernefestivalen</title>
+			<link>https://api.spreaker.com/download/episode/57045732/s2_a12_noget_om_kasernefestivalen_podcast.mp3</link>
+			<description>I denne uge er vi taget til Kasernefestivalen på Kasernen ved Aarhus Universitet. Vi kommer til at lave en musikquiz for de studerende som deltager til arrangementet. Det bliver fedt!Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57045732/s2_a12_noget_om_kasernefestivalen_podcast.mp3</guid>
+			<pubDate>Sun, 15 Oct 2023 09:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57045732/s2_a12_noget_om_kasernefestivalen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
