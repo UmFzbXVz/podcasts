@@ -3514,5 +3514,17 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:22:03</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57205011/121023_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Polsk skæbnevalg</title>
+			<link>https://api.spreaker.com/download/episode/57247786/161023_konfliktzonen_podcast.mp3</link>
+			<description>Polakkerne har været til stemmeurnerne i et valg, der beskrives som kampen om Polens demokrati. Valgdeltagelsen ser ud til at blive den højeste siden kommunismen faldt i 1989 og exit polls tyder på, at polakkerne har valgt at give magten til oppositionsleder Donald Tusk og dermed sende landet i en mere liberal og proeuropæisk retning.
+Medvirkende: Piotr Drabik, journalist og redaktør på Radio Zet i Warzsawa
+Anna Werenberg, Polen-kender og kommentator og forsker ved Koldkrigsmuseet Landelandsfortet (12:45).
+Vært: Oliver Bærentsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57247786/161023_konfliktzonen_podcast.mp3</guid>
+			<pubDate>Mon, 16 Oct 2023 07:04:58 +0000</pubDate>
+			<itunes:duration>00:23:17</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57247786/161023_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

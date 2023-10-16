@@ -411,5 +411,14 @@
 			<itunes:duration>00:00:42</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57138180/teaser_klippet_v2_2023_10_03.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>S05, E01 Counter-strike: Begynderheld eller sikre head shots?</title>
+			<link>https://api.spreaker.com/download/episode/57176366/s05e01_podcast.mp3</link>
+			<description>I denne første episode besøger Ida og Jon Mads Raasted, der spiller på Counter-strike-holdet Kattestroferne. Efter Mads’ intro til  Counter-strike, prøver Ida og Jon at spille det adrenalinpumpende spil. Desuden får de en god snak om fordomme om Counter-strike-nørder og om, sammenholdet man kan finde som del af et Counter-strike hold. Ida &amp; Jon tager nogle af de klassiske fordomme op om computerspils-nørder og prøver kræfter med et af de mest spil spillede computerspil.Tilrettelægger og værter: Jon Bjarnhof &amp; Ida NeubertGæster: Mads RaastedTekniker &amp; klipper: Jon BjarnhofRedaktør: Lin Hartley</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57176366/s05e01_podcast.mp3</guid>
+			<pubDate>Mon, 16 Oct 2023 05:00:02 +0000</pubDate>
+			<itunes:duration>01:26:22</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57176366/s05e01_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
