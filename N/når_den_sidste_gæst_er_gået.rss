@@ -339,5 +339,14 @@
 			<itunes:duration>01:14:28</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57036673/anne_og_a_holdet_2.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Den Drænede Tjener</title>
+			<link>https://api.spreaker.com/download/episode/57260953/ida_mp3.mp3</link>
+			<description>Du har måske selv været tjener, eller undret dig over hvorfor du stadigvæk er det?Den 30 august kl 22:21, modtog Anne en beskedanmodning på instagram, hvor det bland andet stod: ''Du og din mission er virkelig med til at give mig mod på at forsøge at sætte et endegyldigt punktum ved ekskæresten efter 9 år og stoppe med at vende tilbage til den evige fuser. Rigtig god aften til dig. Kram Ida den drænede tjener''Så i dag skal vi høre om Idas oplevelse med branchen, hvordan den har påvirket hede, og måske, hvem ved? Finde vi ud af om hun endegyldigt skal slå op med branchen. Rigtig God Lytter! </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57260953/ida_mp3.mp3</guid>
+			<pubDate>Tue, 17 Oct 2023 10:45:01 +0000</pubDate>
+			<itunes:duration>00:56:41</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57260953/ida_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
