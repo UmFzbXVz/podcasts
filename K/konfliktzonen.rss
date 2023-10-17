@@ -3526,5 +3526,18 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:23:17</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57247786/161023_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>&quot;Er du historielærer?&quot;</title>
+			<link>https://api.spreaker.com/download/episode/57266453/171023_konfliktzonen_podcast.mp3</link>
+			<description>Endnu en fransk lærer er blevet knivdræbt af en radikaliseret islamist. Drabet sker tæt på årsdagen for drabet på Samuel Paty og gerningsmanden spurgte under angrebet lærere på skolen, om de var historielærere - ligesom Paty.
+Angrebet kan bidrage til en selvcensur blandt lærere i hele Europa, lyder det fra Christian Marcussen.
+Medvirkende: Louise Sandager, 24syvs korrespondent i Frankrig
+Christian Marcussen, debattør, skribent og medlem af Det nationale integrationsråd (12:56).
+Vært: Oliver Bærentsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57266453/171023_konfliktzonen_podcast.mp3</guid>
+			<pubDate>Tue, 17 Oct 2023 07:25:05 +0000</pubDate>
+			<itunes:duration>00:23:22</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57266453/171023_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

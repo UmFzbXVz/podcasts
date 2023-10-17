@@ -1258,5 +1258,14 @@ I denne samtale giver Dennis dig et indblik i 5 måder, du kan bekæmpe pseudoar
 			<itunes:duration>00:46:55</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56869040/adfrd_sally_khallash_200923.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Replay: PowerPoint-kongens guide til at undgå ulidelige præsentationer - med Kenn Hansen</title>
+			<link>https://api.spreaker.com/download/episode/57255418/kennhansen_replay.mp3</link>
+			<description>Her er en episode fra bagkataloget. Det er episode 11 med Kenn Hansen, god fornøjelse:-)</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57255418/kennhansen_replay.mp3</guid>
+			<pubDate>Tue, 17 Oct 2023 04:30:03 +0000</pubDate>
+			<itunes:duration>00:38:30</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57255418/kennhansen_replay.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

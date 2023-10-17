@@ -1806,5 +1806,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:54:17</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57025614/ml_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Axels Nekrolog: Det går op og ned i showbiz</title>
+			<link>https://api.spreaker.com/download/episode/57213310/axel_stream.mp3</link>
+			<description>TW: selvskade. En dag gik Axel alene i biografen i Australien og da han trådte ud af mørket igen, var han en ændret mand. En mand med en drøm. Lige siden den dag har Axel gjort alt i sin magt for at blive professionel skuespiller - men hvad skal der til før han han vil føle, at han har made it? Og hvor mange gamle sår skal han rippe op i under processen?</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57213310/axel_stream.mp3</guid>
+			<pubDate>Mon, 16 Oct 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:54:02</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57213310/axel_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
