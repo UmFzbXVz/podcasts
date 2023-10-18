@@ -1824,5 +1824,14 @@
 			<itunes:duration>00:57:43</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57177464/rt_101023_master_some_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Årets sprinter og Skjelmoses bedrifter</title>
+			<link>https://api.spreaker.com/download/episode/57288006/podcast.mp3</link>
+			<description>I dette afsnit af Radio Tour tænker man tilbage på gamle cykelløb og kårer årets sprinter og gennembrud.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57288006/podcast.mp3</guid>
+			<pubDate>Wed, 18 Oct 2023 11:11:05 +0000</pubDate>
+			<itunes:duration>01:04:16</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57288006/podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
