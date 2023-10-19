@@ -3201,5 +3201,14 @@
 			<itunes:duration>00:17:22</itunes:duration>
 			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2023/10/16-68930-gnl.sci.20231016.eb.fear.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Could AI help diagnose schizophrenia?</title>
+			<link>https://flex.acast.com/audio.guim.co.uk/2023/10/18-63362-gnl.sci.20231018.eb.psychiatry.mp3</link>
+			<description>Madeleine Finlay meets neuroscientist and psychiatrist Matthew Nour, whose research looks at how artificial intelligence could help doctors and scientists bring precision to diagnosis of psychiatric conditions. He describes his latest study looking at patients with schizophrenia, and explains how he thinks large language models such as ChatGPT could one day be used in the clinic. Help support our independent journalism at theguardian.com/sciencepod</description>
+			<guid isPermaLink="true">https://flex.acast.com/audio.guim.co.uk/2023/10/18-63362-gnl.sci.20231018.eb.psychiatry.mp3</guid>
+			<pubDate>Thu, 19 Oct 2023 04:00:45 +0000</pubDate>
+			<itunes:duration>00:15:38</itunes:duration>
+			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2023/10/18-63362-gnl.sci.20231018.eb.psychiatry.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
