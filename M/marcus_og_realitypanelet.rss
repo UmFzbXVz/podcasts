@@ -492,5 +492,14 @@
 			<itunes:duration>01:00:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57226303/sy_lee_og_pernille.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ugens panel: Sille Nimholm &amp;amp; Patrick Holsøe: &quot;DERFOR BLEV JEG SPURGT IGEN OM JEG VILLE VÆRE MED IGEN!&quot;</title>
+			<link>https://api.spreaker.com/download/episode/57307683/sille_og_patrick.mp3</link>
+			<description>Ugens afsnit byder Sille Nimholm og Patrick Holsøe velkommen i studiet. Reddit runden er tilbage og Sille og Patrick svarer på alle spørgsmål! Ærligheden fylder rummet. Patrick er ked af at han ikke er mere inde i realityverdenen og Sille forklarer hvorfor hun blev spurgt om at være med igen. Panelet hjælper også Viaplay og Adele ud af deres shitstorm. Din vært er Marcus Eklund og du er med på en lytter.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57307683/sille_og_patrick.mp3</guid>
+			<pubDate>Fri, 20 Oct 2023 04:00:04 +0000</pubDate>
+			<itunes:duration>00:53:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57307683/sille_og_patrick.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
