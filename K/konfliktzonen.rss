@@ -3563,5 +3563,25 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:25:19</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57301180/191023_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Svenske &quot;børnesoldater&quot;</title>
+			<link>https://api.spreaker.com/download/episode/57362862/konfliktzonen_2410_ny.mp3</link>
+			<description>I midten af oktober bliver en mand dræbt i sit hjem i det sydvestlige Stockholm. Den efterfølgende nat bliver to kvinder dræbt i en villa lidt længere mod syd. Bag begge drab står én mistænkt: En 16-årig, der angiveligt er en del af det svenske bandemiljø. Ligesom mange unge svenskere er det. Peter Svensson, der er tidligere bandemedlem, sammenligner det med afrikanske børnesoldater. 
+Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57362862/konfliktzonen_2410_ny.mp3</guid>
+			<pubDate>Tue, 24 Oct 2023 07:46:50 +0000</pubDate>
+			<itunes:duration>00:27:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57362862/konfliktzonen_2410_ny.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Svensk debattør: &quot;Vi er i krig&quot;</title>
+			<link>https://api.spreaker.com/download/episode/57351389/konfliktzonen_2310.mp3</link>
+			<description>Sverige er ramt af en voldsspiral, hvor også uskyldige mennesker mister livet. Det skete for nyligt i Uppsala nord for Stockholm. Her bor debattør og journalist Ivar Arpi, som ikke længere kan genkende den by, han er opvokset i. Vi taler med Arpi, som mener, at Sverige lige nu er i krig.
+Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57351389/konfliktzonen_2310.mp3</guid>
+			<pubDate>Mon, 23 Oct 2023 08:00:30 +0000</pubDate>
+			<itunes:duration>00:29:43</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57351389/konfliktzonen_2310.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

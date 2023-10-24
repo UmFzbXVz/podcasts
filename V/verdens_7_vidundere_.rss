@@ -423,5 +423,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>00:48:54</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57078961/v7v_opfindelser.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 bedste danske film</title>
+			<link>https://api.spreaker.com/download/episode/57336249/v7v_bedste_danske_film.mp3</link>
+			<description>Gæst: Niels Henrik Hartvigson“Det interessante ved Filmen er jo, at vi spiller for alle Samfundsklasser og i alle Verdensdele.(..) Man kan maaske lære at blive Skuespiller, men man kan aldrig lære at filme .. tillærte Følelser bliver i Filmen uægte og falske .. “ udtalte Valdemar Psilander i et interview i 1913. Han var på højdepunktet af sin karriere og før overgangen til talefilm. Disse ting og meget mere taler vi om i dagens episode af VERDENS 7 VIDUNDERE, hvor filmhistoriker NIELS HENRIK HARTVIGSON gæster programmet og har sammensat listen over DE 7 BEDSTE DANSKE FILM</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57336249/v7v_bedste_danske_film.mp3</guid>
+			<pubDate>Sun, 22 Oct 2023 02:00:02 +0000</pubDate>
+			<itunes:duration>01:20:40</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57336249/v7v_bedste_danske_film.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

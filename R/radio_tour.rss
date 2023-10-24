@@ -1833,5 +1833,14 @@
 			<itunes:duration>01:04:16</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57288006/podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Radio Tour med Michael Mørkøv: Skiftet til Astana og OL 2024</title>
+			<link>https://api.spreaker.com/download/episode/57365737/rt_pod_2410.mp3</link>
+			<description>I dette afsnit af Radio Tour er Michael Mørkøv gæst i studiet. Her bliver der blandt andet talt om danskerens skifte til Astana og planerne frem mod OL i Paris 2024.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57365737/rt_pod_2410.mp3</guid>
+			<pubDate>Tue, 24 Oct 2023 11:22:40 +0000</pubDate>
+			<itunes:duration>01:05:16</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57365737/rt_pod_2410.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

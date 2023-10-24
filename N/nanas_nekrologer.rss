@@ -1824,5 +1824,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:51:22</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57215055/christoffer_stream_real.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>En livsfilosofi at hænge over kaminen #7</title>
+			<link>https://api.spreaker.com/download/episode/57276919/livsfilo_7_stream.mp3</link>
+			<description>Nogle har “Live, Laugh, Love” hængende derhjemme, men hvad er de livsfilosofier ungdommen anno 2023 læner sig op af i perioder? Da vi optager det her afsnit, er der få timer til Christoffer hopper på et fly til Paris. Han har stadig ikke fundet et sted at sove dernede. Men så er det heldigt, at han tilskriver sig mantraet “trust the process.”</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57276919/livsfilo_7_stream.mp3</guid>
+			<pubDate>Mon, 23 Oct 2023 20:00:02 +0000</pubDate>
+			<itunes:duration>00:28:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57276919/livsfilo_7_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
