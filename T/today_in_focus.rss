@@ -8277,5 +8277,14 @@
 			<itunes:duration>00:40:01</itunes:duration>
 			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2023/10/22-60128-20231023Tifhistory.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>In the wake of Storm Babet</title>
+			<link>https://flex.acast.com/audio.guim.co.uk/2023/10/24-70035-20231025TIFbabet.mp3</link>
+			<description>Thousands of homes across Scotland and the Midlands have been flooded in recent days. Jessica Murray reports from Chesterfield. Help support our independent journalism at theguardian.com/infocus</description>
+			<guid isPermaLink="true">https://flex.acast.com/audio.guim.co.uk/2023/10/24-70035-20231025TIFbabet.mp3</guid>
+			<pubDate>Wed, 25 Oct 2023 02:00:52 +0000</pubDate>
+			<itunes:duration>00:26:46</itunes:duration>
+			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2023/10/24-70035-20231025TIFbabet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

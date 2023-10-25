@@ -1833,5 +1833,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:28:38</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57276919/livsfilo_7_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvad går du glip af? #7</title>
+			<link>https://api.spreaker.com/download/episode/57277063/g_glip_7_stream.mp3</link>
+			<description>I de vestlige kulturer topper livet, når man er ung. Den idé abonnerer Jamie ikke på. Han glæder sig virkelig til at blive gammel og ville føle sig groft frarøvet, hvis han ikke nåede det. Maria Louise ville være mest ked af, ikke at se sin søster blive student. Hør også Axel og Christoffer fortælle, hvilken oplevelse de ville være allermest kede af at gå glip af, hvis de skulle dø i morgen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57277063/g_glip_7_stream.mp3</guid>
+			<pubDate>Tue, 24 Oct 2023 20:00:03 +0000</pubDate>
+			<itunes:duration>00:38:22</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57277063/g_glip_7_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
