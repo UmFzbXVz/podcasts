@@ -3,6 +3,7 @@
 	<channel>
 		<title>The Hamilton Morris Podcast</title>
 		<link>https://www.patreon.com/HamiltonMorris</link>
+		<description>Creating podcasts, chemistry, and videos.</description>
 		<language>en-GB</language>
 		<itunes:explicit>true</itunes:explicit>
                 <itunes:author>Hamilton Morris</itunes:author>
@@ -15,7 +16,6 @@
 			<pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/bf/50/bf504aaeeae0dc82c669790c6c680d1b88a49be568c7e62d2797e27685d0fae9.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:16:34</itunes:duration>
-			<itunes:order>20200430080000</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">37012316</guid>
@@ -25,7 +25,6 @@
 			<pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/70/90/7090a50782706707963fa6606239ea943eee44cb1482bab982487522cda82b9b.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>00:49:29</itunes:duration>
-			<itunes:order>20200512080000</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">37646727</guid>
@@ -34,7 +33,6 @@
 			<pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/08/ea/08eae72e5d33dbf5349a56406b49fdc2cf5fca7bf5f0c4bf648d04c901696dd7.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>00:43:51</itunes:duration>
-			<itunes:order>20200529080000</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">37745739</guid>
@@ -43,7 +41,6 @@
 			<pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/d7/21/d721001d5ac58eafc68ea90d71d40f5eb339d24f542d73c42d34227df1a0cd8b.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:51:57</itunes:duration>
-			<itunes:order>20200531080000</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">38669443</guid>
@@ -52,7 +49,6 @@
 			<pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/2b/e0/2be08839188e6a74c71f7da37c043e8ed679efe61b6fa4ab6cc65045d6151724.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:07:52</itunes:duration>
-			<itunes:order>20200627080000</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">42647842</guid>
@@ -61,16 +57,14 @@
 			<pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/5c/ab/5cab61abe3211c84ab81dab0bc9b155d32257fd608dc08551c1ba0eb4fc69d1f.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>00:33:52</itunes:duration>
-			<itunes:order>20201012080000</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">44026069</guid>
 			<title>#007 Production update 2</title>
 			<description>The end is in sight. Enjoy a second installment of the production podcast in which I am joined again by friend and producer Soren Shade.</description>
 			<pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
-			<enclosure url="https://c5.kemono.party/data/95/91/95913aa71fc9714c4245720fabccb4e847d6d73b7f6b75c880c9596d75688d3b.mp4" />
+			<enclosure url="https://c5.kemono.party/data/95/91/95913aa71fc9714c4245720fabccb4e847d6d73b7f6b75c880c9596d75688d3b.mp4" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>00:34:21</itunes:duration>
-			<itunes:order>20201118080000</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">44422985</guid>
@@ -79,7 +73,6 @@
 			<pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/92/22/9222c62f81c1ef08a6b93f4a62088f8d033048fec87a2ffa6d40fb85bbd9ab25.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:11:04</itunes:duration>
-			<itunes:order>20201129080000</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">46188962</guid>
@@ -95,7 +88,6 @@ I hope to have those out by the end of the week.
 (No audio files, only a YouTube video: https://www.youtube.com/watch?v=oXRcly_jDoM)</description>
 			<pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
 			<itunes:duration>00:00:00</itunes:duration>
-			<itunes:order>20210114080000</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">46893109</guid>
@@ -106,7 +98,6 @@ EDIT: I was interested in learning more about his technique for producing NaCN. 
 			<pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/71/1d/711dd5c13efb1b38ab67a4afe4958e34bf267e2d37048920170292eb1087d5ab.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:10:46</itunes:duration>
-			<itunes:order>20210131080000</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">47522915</guid>
@@ -125,7 +116,6 @@ My HBO piece that features NurdRage: https://www.youtube.com/watch?v=35XGfnmTm8E
 			<pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/c3/c9/c3c91d6ca715f4a772581cc4de4d085005dff209c126ac830aae73dad916cc48.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:01:48</itunes:duration>
-			<itunes:order>20210214080000</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">48027722</guid>
@@ -134,7 +124,6 @@ My HBO piece that features NurdRage: https://www.youtube.com/watch?v=35XGfnmTm8E
 			<pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/19/56/1956900873869234eaffc3dffb87a3ec0598032b481f8c48eace3ce6b12dd25f.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:02:13</itunes:duration>
-			<itunes:order>20210226080000</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">48249754</guid>
@@ -145,7 +134,6 @@ Fitting that the 13th upload would be fraught with problems, but the third time'
 			<pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/38/c1/38c17fb35351607df685173a8a98b37645da5f66b3ed8e604e6340c9941d5525.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:18:09</itunes:duration>
-			<itunes:order>20210302210455</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">48839628</guid>
@@ -154,7 +142,6 @@ Fitting that the 13th upload would be fraught with problems, but the third time'
 			<pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/2c/4d/2c4d7df92538b71d9223830c04d73f0076af41c5c3f4dfcbd02a696becadbb24.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:16:53</itunes:duration>
-			<itunes:order>20210316213623</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">49330103</guid>
@@ -163,7 +150,6 @@ Fitting that the 13th upload would be fraught with problems, but the third time'
 			<pubDate>Mon, 29 Mar 2021 02:35:03 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/dc/dc/dcdcff3cc7c515684cd766f098391fd2875a96c42ea0abf6de3e5e5ac8be0f05.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:29:55</itunes:duration>
-			<itunes:order>20210329023503</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">50507016</guid>
@@ -172,7 +158,6 @@ Fitting that the 13th upload would be fraught with problems, but the third time'
 			<pubDate>Mon, 26 Apr 2021 18:40:49 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/df/b4/dfb4219e48df519b5ea0718246f04e27478471b35e788ba5875b0aab8273b5c0.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:00:26</itunes:duration>
-			<itunes:order>20210426184049</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">50740223</guid>
@@ -181,7 +166,6 @@ Fitting that the 13th upload would be fraught with problems, but the third time'
 			<pubDate>Sat, 01 May 2021 23:08:18 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/92/49/924967e2bc662930bfe5668f443ae50a375898f96e39ef983a38ee64ad8de70a.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:34:18</itunes:duration>
-			<itunes:order>20210501230818</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">50828755</guid>
@@ -196,7 +180,6 @@ Kratom survey: tinyurl.com/kratomteasurvey
 			<pubDate>Tue, 04 May 2021 00:50:08 +0000</pubDate>
 			<enclosure url="https://c5.kemono.party/data/e8/4c/e84ca5ea218b627c091a22da95e172de532a1ba7ea5822d2da11ee004912ebc6.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:08:18</itunes:duration>
-			<itunes:order>20210504005008</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">51651964</guid>
@@ -205,7 +188,6 @@ Kratom survey: tinyurl.com/kratomteasurvey
 			<pubDate>Mon, 24 May 2021 23:19:05 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/59/5c/595cb512ed560886f5d3b232ded3e52aed0651d9eb1bfa6ef9dea383b779abaa.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:45:27</itunes:duration>
-			<itunes:order>20210524231905</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">52046643</guid>
@@ -216,7 +198,6 @@ Kratom survey: tinyurl.com/kratomteasurvey
 			<pubDate>Thu, 03 Jun 2021 05:43:08 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/e4/e4/e4e454ec9f6883384ffd3cf3760e57112fee784ac2ceef7b0209cef9833d339e.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:35:54</itunes:duration>
-			<itunes:order>20210603054308</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">53104899</guid>
@@ -227,7 +208,6 @@ Kratom survey: tinyurl.com/kratomteasurvey
 			<pubDate>Wed, 30 Jun 2021 06:50:36 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/08/b6/08b66690fc32c06f115733a55b511b6f79c2b01f9a8afc033b9d32367769f925.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:12:26</itunes:duration>
-			<itunes:order>20210630065036</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">53240173</guid>
@@ -238,7 +218,6 @@ Later this month I will release an interview that will contain the first ever pu
 			<pubDate>Sat, 03 Jul 2021 04:03:18 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/51/f2/51f2d6cc8cd3bcb8a8e1a0d40eebf82777cf0cbb25acde144b78081ea1587bb7.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>00:52:17</itunes:duration>
-			<itunes:order>20210703040318</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">53931022</guid>
@@ -249,7 +228,6 @@ Later this month I will release an interview that will contain the first ever pu
 			<pubDate>Wed, 21 Jul 2021 02:12:36 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/bd/b0/bdb0821a660601af3a3791c34f7d63cf721e008f30a9e61a753bdfe5ddde3d90.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:52:07</itunes:duration>
-			<itunes:order>20210721021236</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">54362943</guid>
@@ -260,7 +238,6 @@ Later this month I will release an interview that will contain the first ever pu
 			<pubDate>Sun, 01 Aug 2021 01:21:45 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/bb/aa/bbaa99eaee86f8e2fda50ec51bc3f27a2066a50f0c809c5dccf9972748e6724c.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:51:22</itunes:duration>
-			<itunes:order>20210801012145</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">55228463</guid>
@@ -271,7 +248,6 @@ Later this month I will release an interview that will contain the first ever pu
 			<pubDate>Mon, 23 Aug 2021 06:53:32 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/dc/9b/dc9b4c249d6ee0cd270f3b7a1c0c877d0584824dc1ebcbbda65af5f5cc7c1f07.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:46:34</itunes:duration>
-			<itunes:order>20210823065332</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">55506298</guid>
@@ -282,7 +258,6 @@ Later this month I will release an interview that will contain the first ever pu
 			<pubDate>Mon, 30 Aug 2021 02:34:20 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/67/13/6713982655923bc9712fa634d33bc2f253df153727bd895f679a726980304d9d.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:11:18</itunes:duration>
-			<itunes:order>20210830023420</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">55653035</guid>
@@ -293,7 +268,6 @@ Later this month I will release an interview that will contain the first ever pu
 			<pubDate>Thu, 02 Sep 2021 00:54:18 +0000</pubDate>
 			<enclosure url="https://c5.kemono.party/data/f9/6b/f96b9d5822de47674e976d045ed502a99e940c819bfe1905a0375392909e39c1.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:23:31</itunes:duration>
-			<itunes:order>20210902005418</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">56787397</guid>
@@ -304,7 +278,6 @@ My friend (and former Pharmacopeia producer) Soren is still collecting informati
 			<pubDate>Thu, 30 Sep 2021 04:50:45 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/ef/08/ef085a4b8f459024d16114331e5db19598d393c8150e7f20e5b416eba511037d.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:03:28</itunes:duration>
-			<itunes:order>20210930045045</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">56870816</guid>
@@ -315,7 +288,6 @@ My friend (and former Pharmacopeia producer) Soren is still collecting informati
 			<pubDate>Fri, 01 Oct 2021 18:39:55 +0000</pubDate>
 			<enclosure url="https://c5.kemono.party/data/10/b3/10b3b0fa19ee39de86f345d1a896f43dec6cd0344c40eb2b8a6ef1d0911a0c83.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:49:38</itunes:duration>
-			<itunes:order>20211001183955</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">57491778</guid>
@@ -332,7 +304,6 @@ I apologize for the fan sound in the first 12 minutes, it goes away during the i
 			<pubDate>Sun, 17 Oct 2021 00:00:35 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/28/a9/28a9990ab853294b6b680c583f5872f33fc929c1ea654c1e938955fb0e669dac.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:14:59</itunes:duration>
-			<itunes:order>20211017000035</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">58080277</guid>
@@ -343,7 +314,6 @@ A dramatically improved version of the audio was just uploaded, now it is ready 
 			<pubDate>Sat, 30 Oct 2021 23:33:03 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/64/bb/64bb2ca86b0981d64b5ec9e12e52cbef7591a146afb509791eb5579e190265eb.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>00:29:07</itunes:duration>
-			<itunes:order>20211030233303</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">58708009</guid>
@@ -354,7 +324,6 @@ A dramatically improved version of the audio was just uploaded, now it is ready 
 			<pubDate>Mon, 15 Nov 2021 00:11:36 +0000</pubDate>
 			<enclosure url="https://c5.kemono.party/data/44/69/44693a7235fc4465f9c2ff5b6b88e85226e85427aac6c494d1ee92a612db4410.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:31:21</itunes:duration>
-			<itunes:order>20211115001136</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">59224393</guid>
@@ -363,7 +332,6 @@ A dramatically improved version of the audio was just uploaded, now it is ready 
 			<pubDate>Sun, 28 Nov 2021 05:13:27 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/66/51/66515a32860b6d2e72c595a814816a216b3dc47e1176e3c77cab1cc6f4282f4c.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>03:58:16</itunes:duration>
-			<itunes:order>20211128051327</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">60163615</guid>
@@ -374,7 +342,6 @@ Also in the intro I suggest that methylergometrine is a natural product, I want 
 			<pubDate>Tue, 21 Dec 2021 07:41:50 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/26/a1/26a1d69f3e25a9c92c17ab2a91d84ae5ae097c07b5ee4c24deca57675e018dd3.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:31:01</itunes:duration>
-			<itunes:order>20211221074150</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">60339541</guid>
@@ -385,7 +352,6 @@ Chilton reference attached, many thanks to Gerald Billac</description>
 			<pubDate>Sun, 26 Dec 2021 02:05:21 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/57/1d/571d93002255e1aff42bf85302058f638219931a641b3bfbfe54e035cecfae35.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:11:43</itunes:duration>
-			<itunes:order>20211226020521</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">60492774</guid>
@@ -396,7 +362,6 @@ First description of P. bicolor use in 1925: https://erowid.org/references/refs_
 			<pubDate>Thu, 30 Dec 2021 07:07:56 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/53/2c/532caaa15c917701d2e94684f45f999f8ea0fdbe31af10dccfcec68f7e05fad3.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:42:50</itunes:duration>
-			<itunes:order>20211230070756</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">61222757</guid>
@@ -407,7 +372,6 @@ First description of P. bicolor use in 1925: https://erowid.org/references/refs_
 			<pubDate>Sun, 16 Jan 2022 05:36:47 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/ac/63/ac6323a584ffd438325108b4bd00d016844254b4b19b5dcc33fe77c8935561ee.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:04:56</itunes:duration>
-			<itunes:order>20220116053647</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">61939438</guid>
@@ -416,7 +380,6 @@ First description of P. bicolor use in 1925: https://erowid.org/references/refs_
 			<pubDate>Tue, 01 Feb 2022 05:25:51 +0000</pubDate>
 			<enclosure url="https://c5.kemono.party/data/b9/7c/b97c47deb31f481e3137abf191f0b7df808f20396630853b67bf6e36a5211e62.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:13:43</itunes:duration>
-			<itunes:order>20220201052551</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">62525028</guid>
@@ -433,9 +396,8 @@ https://vimeo.com/676939885
 
 password: kratom</description>
 			<pubDate>Mon, 14 Feb 2022 00:24:33 +0000</pubDate>
-			<enclosure url="https://c2.kemono.party/data/2b/38/2b388b5751eec034a4272bb45ca7b09db31f6468f57559a8e2ab11a9fbe4fa3f.mp4" />
+			<enclosure url="https://c2.kemono.party/data/2b/38/2b388b5751eec034a4272bb45ca7b09db31f6468f57559a8e2ab11a9fbe4fa3f.mp4" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:11:34</itunes:duration>
-			<itunes:order>20220214002433</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">63197091</guid>
@@ -444,7 +406,6 @@ password: kratom</description>
 			<pubDate>Tue, 01 Mar 2022 01:54:28 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/44/77/44771da88bc66bceabd2d13bfb12958a7b55d950ca0429b43b80b9a32903989f.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:39:31</itunes:duration>
-			<itunes:order>20220301015428</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">63629216</guid>
@@ -455,7 +416,6 @@ https://www.instagram.com/namaste.at.home.dad/</description>
 			<pubDate>Thu, 10 Mar 2022 17:28:21 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/95/11/9511ed853a3bceeb4e12cfe8903dba5384100f723c83b85a9a17e8c1688b7546.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:05:50</itunes:duration>
-			<itunes:order>20220310172821</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">64066145</guid>
@@ -470,7 +430,6 @@ https://www.bicycledaysf.org/speakers</description>
 			<pubDate>Mon, 21 Mar 2022 07:35:58 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/a1/0e/a10efffa77dc4a1e4ab982037ca587af6c58dcafb8c59dd61051e350d3a00213.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:17:55</itunes:duration>
-			<itunes:order>20220321073558</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">64560770</guid>
@@ -486,7 +445,6 @@ Online Amazonian biocultural archives https://biognosis.mckenna.academy/</descri
 			<pubDate>Fri, 01 Apr 2022 05:00:55 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/86/d6/86d62c356d992522acbd9092020de7b758609031c7b75a7abbc1b6829826169c.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:51:40</itunes:duration>
-			<itunes:order>20220401050055</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">65706229</guid>
@@ -502,7 +460,6 @@ https://cen.acs.org/people/Chemists-respond-invasion-Ukraine/100</description>
 			<pubDate>Thu, 28 Apr 2022 07:11:15 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/57/73/5773d787e2534acf56aff4b9afc32cad0bfc74eee2a9c8151300a3aa67aa64ec.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:55:09</itunes:duration>
-			<itunes:order>20220428071115</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">66315477</guid>
@@ -511,7 +468,6 @@ https://cen.acs.org/people/Chemists-respond-invasion-Ukraine/100</description>
 			<pubDate>Thu, 12 May 2022 01:25:54 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/9d/d2/9dd24df77e74cdd17b837d3971cdf0302bdfb2789a43eb6ada11299e3e93076c.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:29:21</itunes:duration>
-			<itunes:order>20220512012554</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">67221221</guid>
@@ -527,7 +483,6 @@ Psychedelic Party Footage - https://youtu.be/U-sfDEEcMQ8</description>
 			<pubDate>Thu, 02 Jun 2022 02:25:20 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/27/79/2779071b65a6d1d2a368ce56a36c3c0930789449976dd41bbdda8a3497c9bf1e.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:10:46</itunes:duration>
-			<itunes:order>20220602022520</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">68243828</guid>
@@ -542,7 +497,6 @@ https://pixels.com/featured/grateful-dreads-tweaked-anne-provost.html</descripti
 			<pubDate>Sat, 25 Jun 2022 17:58:24 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/66/66/6666704cff1839aa89b00574702077b5de0ce183d527f57716630e39af9f1a84.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:23:56</itunes:duration>
-			<itunes:order>20220625175824</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">68761318</guid>
@@ -551,7 +505,6 @@ https://pixels.com/featured/grateful-dreads-tweaked-anne-provost.html</descripti
 			<pubDate>Thu, 07 Jul 2022 02:10:47 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/b2/6b/b26b406ce71f7e41c23fb6d224097db97b1409ba284c61728b3e873b6756732c.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:34:36</itunes:duration>
-			<itunes:order>20220707021047</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">69005467</guid>
@@ -569,7 +522,6 @@ Lastly, at one point in this I say that ingestion of formic acid causes blindnes
 			<pubDate>Tue, 12 Jul 2022 19:27:07 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/09/4c/094c65da81e711ca0270849cbe7af82afbe2c1c995e14354dcbbfb8dbb7581da.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:32:29</itunes:duration>
-			<itunes:order>20220712192707</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">69068168</guid>
@@ -578,7 +530,6 @@ Lastly, at one point in this I say that ingestion of formic acid causes blindnes
 			<pubDate>Thu, 14 Jul 2022 04:26:28 +0000</pubDate>
 			<enclosure url="https://c5.kemono.party/data/92/04/92041b9a83f5f4414d8f57059907d46af0c5ea1712dbd8d7a1fad677e712e4cc.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:26:31</itunes:duration>
-			<itunes:order>20220714042628</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">69620551</guid>
@@ -587,7 +538,6 @@ Lastly, at one point in this I say that ingestion of formic acid causes blindnes
 			<pubDate>Tue, 26 Jul 2022 22:47:53 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/c9/fe/c9fe30a5929f1d77ed5e06489121c3c5606c44e93492ad75fe6afdcd54c6edf7.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>03:02:30</itunes:duration>
-			<itunes:order>20220726224753</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">69717202</guid>
@@ -596,7 +546,6 @@ Lastly, at one point in this I say that ingestion of formic acid causes blindnes
 			<pubDate>Thu, 28 Jul 2022 22:00:14 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/31/a1/31a1c0266f487f52ce7a3723d807280dbda45bb1a954d0153e00bf098e88c283.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:36:37</itunes:duration>
-			<itunes:order>20220728220014</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">70219579</guid>
@@ -607,7 +556,6 @@ Charles Innes blinded himself while under the influence of PCP in 1971, a traged
 			<pubDate>Mon, 08 Aug 2022 05:11:23 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/5b/99/5b99aa06ce8876ba53324e5b405e3f4e475e9ff36eaf360da2568ccfdb472391.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:53:36</itunes:duration>
-			<itunes:order>20220808051123</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">70951568</guid>
@@ -622,7 +570,6 @@ https://vimeo.com/742512199 </description>
 			<pubDate>Wed, 24 Aug 2022 04:36:13 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/01/af/01af9a05e5b32e3bb3b5c8807346b5aa5b0fb45991182bf2fa0c7522a91b3b72.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:36:46</itunes:duration>
-			<itunes:order>20220824043613</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">71349495</guid>
@@ -635,7 +582,6 @@ https://nypost.com/2015/02/24/cherry-company-owner-commits-suicide-amid-factory-
 			<pubDate>Thu, 01 Sep 2022 06:59:03 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/b5/41/b5418b8f1463720e9598daa497a46612b89b539720c2278da33e906cde1036e1.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:31:47</itunes:duration>
-			<itunes:order>20220901065903</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">72159748</guid>
@@ -652,7 +598,6 @@ https://www.roxycinemanewyork.com/screenings/hamiltons-pharmacopeia/</descriptio
 			<pubDate>Sun, 18 Sep 2022 20:47:12 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/67/99/6799b5cd5f47a01097ced1e955e55ceca948d3d854e7f0b51feeec70dfba0b33.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:43:53</itunes:duration>
-			<itunes:order>20220918204712</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">72393248</guid>
@@ -661,7 +606,6 @@ https://www.roxycinemanewyork.com/screenings/hamiltons-pharmacopeia/</descriptio
 			<pubDate>Fri, 23 Sep 2022 22:13:07 +0000</pubDate>
 			<enclosure url="https://c3.kemono.party/data/81/b4/81b49bdfbda4fa24b36de43eecd713ff7a13166eef5c1a0341af0cab2f83c0dd.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:37:16</itunes:duration>
-			<itunes:order>20220923221307</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">72697211</guid>
@@ -670,7 +614,6 @@ https://www.roxycinemanewyork.com/screenings/hamiltons-pharmacopeia/</descriptio
 			<pubDate>Fri, 30 Sep 2022 19:37:03 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/4c/4a/4c4a0b66849b1077a09d50e1bd2aae865d2843724c69b3b86625e3077b10ae70.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>00:58:00</itunes:duration>
-			<itunes:order>20220930193703</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">73789212</guid>
@@ -687,7 +630,6 @@ https://www.nytimes.com/1998/11/29/magazine/lethal-chemistry-at-harvard.html</de
 			<pubDate>Wed, 26 Oct 2022 04:01:24 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/27/5a/275a7ee244d380852cad63879f2f9af1d056d51fbe23eeb14d9e1102e85d344e.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:07:13</itunes:duration>
-			<itunes:order>20221026040124</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">73987290</guid>
@@ -702,7 +644,6 @@ https://twitter.com/4LOVofScience</description>
 			<pubDate>Sun, 30 Oct 2022 20:22:01 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/47/7e/477ea07932c0c2d6a136fd22517b53d83e37b5a68d03ddf7f48582c84586297d.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:42:33</itunes:duration>
-			<itunes:order>20221030202201</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">74668323</guid>
@@ -725,10 +666,9 @@ Ibogaine Cure Discovered In Brooklyn - https://en.wikipedia.org/wiki/Howard_Lots
 			<pubDate>Tue, 15 Nov 2022 03:47:47 +0000</pubDate>
 			<enclosure url="https://c5.kemono.party/data/0b/8a/0b8ab4f65f6eb09835e1c327d6e1bf995bd0178ac435f626bf940250b2459cd9.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>03:05:35</itunes:duration>
-			<itunes:order>20221115034747</itunes:order>
 </item>
 <item>
-			<guid isPermaLink="false" />
+			<guid isPermaLink="false">75198902</guid>
 			<title>#063 A Beginner's Experience Making MDMA In A Clandestine Lab</title>
 			<description>In this podcast I interview a young chemist about how he got interested in clandestine synthesis and his first encounter with law enforcement. The production of MDMA from PMK Ethyl Glycidate is discussed in detail.
 
@@ -752,7 +692,6 @@ Lizard Labs busted - https://www.shroomery.org/forums/showflat.php/Number/280461
 			<pubDate>Mon, 28 Nov 2022 05:56:41 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/a5/fc/a5fc1735b67c7d345c48de57dc4a399ef6254ef82249037f1e7338b054d392de.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:26:46</itunes:duration>
-			<itunes:order>20221128055641</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">76271384</guid>
@@ -767,7 +706,6 @@ https://erowid.org/experiences/subs/exp_TCB2.shtml</description>
 			<pubDate>Fri, 23 Dec 2022 06:30:27 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/3c/5a/3c5a0db1f7cab218a6b24cfae5f0df58b1a39bc29398a8559368871b35b52681.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:57:07</itunes:duration>
-			<itunes:order>20221223063027</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">76525101</guid>
@@ -776,7 +714,6 @@ https://erowid.org/experiences/subs/exp_TCB2.shtml</description>
 			<pubDate>Thu, 29 Dec 2022 23:27:57 +0000</pubDate>
 			<enclosure url="https://c5.kemono.party/data/8d/cb/8dcbcb309407cdea09bf01454cb7343c15bf2fbd3b4c5a983037e719e6844e5d.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:06:42</itunes:duration>
-			<itunes:order>20221229232757</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">77080871</guid>
@@ -789,7 +726,6 @@ https://www.instagram.com/atomstrauss</description>
 			<pubDate>Wed, 11 Jan 2023 06:10:18 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/7e/db/7edb4f1db51c177b6290dcf0f6affa98dc7ec9284ec4d61bf1aa3a082b4e85d5.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:36:16</itunes:duration>
-			<itunes:order>20230111061018</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">77890942</guid>
@@ -800,7 +736,6 @@ https://www.instagram.com/atomstrauss</description>
 			<pubDate>Sun, 29 Jan 2023 03:45:15 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/98/a3/98a359126307cfe4c888adbe1fd2dc84235ef8b2cba54c8d9282cf72528b60bd.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:26:36</itunes:duration>
-			<itunes:order>20230129034515</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">78614236</guid>
@@ -815,7 +750,6 @@ https://www.wired.com/story/race-to-engineer-new-psychedelic-drugs/</description
 			<pubDate>Mon, 13 Feb 2023 05:06:26 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/a2/0c/a20c3bf8da661059ceb7284ed9bd295fe2e4bac9c24116c503296b5dbf8543d1.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:49:34</itunes:duration>
-			<itunes:order>20230213050626</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">78764809</guid>
@@ -824,7 +758,6 @@ https://www.wired.com/story/race-to-engineer-new-psychedelic-drugs/</description
 			<pubDate>Thu, 16 Feb 2023 07:16:02 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/da/18/da185a6f44010c4aeb39de73404823ae9c69ee9efcd28c226cc4b952a9277ea0.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:51:22</itunes:duration>
-			<itunes:order>20230216071602</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">79380853</guid>
@@ -835,7 +768,6 @@ References added!</description>
 			<pubDate>Wed, 01 Mar 2023 06:47:44 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/12/c8/12c80dabebe1ac60bd3047d165a1edcf4d893019b0ae4fe4c567d32a8ada355c.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:09:39</itunes:duration>
-			<itunes:order>20230301064744</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">80415139</guid>
@@ -850,7 +782,6 @@ BONUS: Here is my SXSW talk with Nicolas Langlitz https://www.youtube.com/watch?
 			<pubDate>Thu, 23 Mar 2023 02:31:49 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/78/69/78699037d6223d875832ab7794fc4ad651db887133a949cadcec6bfcd1ec7417.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>02:21:14</itunes:duration>
-			<itunes:order>20230323023149</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">80895134</guid>
@@ -859,7 +790,6 @@ BONUS: Here is my SXSW talk with Nicolas Langlitz https://www.youtube.com/watch?
 			<pubDate>Sat, 01 Apr 2023 02:31:49 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/12/5f/125ff83bd66b77a74488cf59f24c8da6e950b7c995e8e5646cd41449bb1eccee.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:30:29</itunes:duration>
-			<itunes:order>20230401023149</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">81397839</guid>
@@ -868,7 +798,6 @@ BONUS: Here is my SXSW talk with Nicolas Langlitz https://www.youtube.com/watch?
 			<pubDate>Wed, 12 Apr 2023 02:31:49 +0000</pubDate>
 			<enclosure url="https://c4.kemono.party/data/d8/ba/d8bae776e4e64ee30b3d7cb7330027182960dbf2e6ace1bfca147cd8877639b1.mp3" length="31457280" type="audio/mpeg"/>
 			<itunes:duration>01:50:40</itunes:duration>
-			<itunes:order>20230412023149</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">82482398</guid>
@@ -877,7 +806,6 @@ BONUS: Here is my SXSW talk with Nicolas Langlitz https://www.youtube.com/watch?
 			<pubDate>Thu, 04 May 2023 01:44:34 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/89/68/8968730060721edd033871c2f6d44c9dd580c39fd72ca58d30b2d98c8bcbe892.mp3?f=Don%20KnowYourName%20for%20patreon%20final.mp3" length="130023424" type="audio/mpeg"/>
 			<itunes:duration>01:30:22</itunes:duration>
-			<itunes:order>20230504014434</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">82774192</guid>
@@ -886,7 +814,6 @@ BONUS: Here is my SXSW talk with Nicolas Langlitz https://www.youtube.com/watch?
 			<pubDate>Wed, 10 May 2023 01:33:58 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/ef/32/ef32e3f87ec33cc3ba97ffe42d758620ddb0c718a48b1a8ccb4fde1096ed9b80.mp3?f=Bizarro%20final%20patreon.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:49:28</itunes:duration>
-			<itunes:order>20230510013358</itunes:order>
 </item>		
 <item>
 			<guid isPermaLink="false">83402286</guid>
@@ -905,7 +832,6 @@ http://web.archive.org/web/20080409203334/http://www.geocities.com/satanid/art.h
 			<pubDate>Tue, 23 May 2023 00:35:12 +0000</pubDate>
 			<enclosure url="https://c5.kemono.party/data/4d/be/4dbe69e73ce2ec28b93ad746e1c90fc7165201a5b6741ff62a706ad01b4f40fc.mp3?f=Q%26A%20May%202023_1.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:08:45</itunes:duration>
-			<itunes:order>20230523003512</itunes:order>
 </item>	
 <item>
 			<guid isPermaLink="false">83881669</guid>
@@ -914,7 +840,6 @@ http://web.archive.org/web/20080409203334/http://www.geocities.com/satanid/art.h
 			<pubDate>Thu, 01 Jun 2023 05:48:49 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/6e/ec/6eec2ea8911bf0e5da73e829cd55960dd360a30b529368c73db3835650dc4323.mp3?f=Amanda%20final%20for%20patreon.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:03:56</itunes:duration>
-			<itunes:order>20230601054849</itunes:order>
 </item>	
 <item>
 			<guid isPermaLink="false">84786504</guid>
@@ -929,7 +854,6 @@ Wonderland talk coming soon...</description>
 			<pubDate>Mon, 19 Jun 2023 06:43:14 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/48/a5/48a5ab845663ce6972c4da88ac5ea029f9be5a7fc3d1df0ad28168a3d5e0907a.mp3?f=Matt%20Zorn%20final%20patreon.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:58:31</itunes:duration>
-			<itunes:order>20230619064314</itunes:order>
 </item>	
 <item>
 			<guid isPermaLink="false">85338379</guid>
@@ -942,7 +866,6 @@ Note: salt stoichiometry could also be determined by X-ray crystallography, melt
 			<pubDate>Fri, 30 Jun 2023 06:43:14 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/85/1b/851b6dd614d4b69771f1b6881797dfaa9ed3eb471248d416fb59ad9f176fc234.mp3?f=Q%26A%20June%20final%20for%20patreon.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:12:08</itunes:duration>
-			<itunes:order>20230630023731</itunes:order>
 </item>	
 <item>
 			<guid isPermaLink="false">86016341</guid>
@@ -959,7 +882,6 @@ https://www.science.org/content/blog-post/patents-and-prophecy</description>
 			<pubDate>Thu, 13 Jul 2023 03:07:24 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/f9/94/f99487a7f0a9b26c9bc50d6f8ef3f7ffe49d05231f380ce938c390e74502a0f1.mp3?f=Psilera%20final%20for%20patreon.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:20:35</itunes:duration>
-			<itunes:order>20230713030724</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">86620808</guid>
@@ -968,7 +890,6 @@ https://www.science.org/content/blog-post/patents-and-prophecy</description>
 			<pubDate>Tue, 25 Jul 2023 07:01:53 +0000</pubDate>
 			<enclosure url="https://c2.kemono.party/data/55/77/5577af93562c3893fb3ab610c0d0d605be7c5afd22fad603322705e1ad5f9a1d.mp3?f=MAPS%20final%20patreon%20nick%20cozzi%20carl%20hart.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:26:16</itunes:duration>
-			<itunes:order>20230725070153</itunes:order>
 </item>	
 <item>
 			<guid isPermaLink="false">86867367</guid>
@@ -981,7 +902,6 @@ science.org/content/blog-post/myth-ethidium-bromide</description>
 			<pubDate>Sat, 29 Jul 2023 23:28:18 +0000</pubDate>
 			<enclosure url="https://c5.kemono.party/data/fe/f0/fef0f4626eac0fb345df57d7a2aa1221dd0bde14ea53889a3511f70cc899ac6f.mp3?f=Q%26A%20July%20corrected%20final.%20mp3.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:23:46</itunes:duration>
-			<itunes:order>20230729232818</itunes:order>
 </item>	
 <item>
 			<guid isPermaLink="false">87406711</guid>
@@ -1006,7 +926,6 @@ Alan's Facebook Group - https://www.facebook.com/groups/MushID/</description>
 			<pubDate>Tue, 08 Aug 2023 23:43:42 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/37/f7/37f7e3949cd61ca14abaeea122c6ed5a1d80c876377ef0c11b514662c9250f4e.mp3?f=Alan%20final%20patreon.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:03:05</itunes:duration>
-			<itunes:order>20230808234342</itunes:order>
 </item>	
 <item>
 			<guid isPermaLink="false">88054528</guid>
@@ -1015,7 +934,6 @@ Alan's Facebook Group - https://www.facebook.com/groups/MushID/</description>
 			<pubDate>Tue, 22 Aug 2023 00:16:52 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/45/fc/45fcc30b69062a98dfb28a2dba321b7e6164f923096ba612197de72dd036a988.mp3?f=Jason%20Slot%20final%20for%20patreon.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:15:01</itunes:duration>
-			<itunes:order>20230822001652</itunes:order>
 </item>	
 <item>
 			<guid isPermaLink="false">88270152</guid>
@@ -1040,7 +958,6 @@ The Psilocybin Cup: https://www.oaklandhyphae510.com/post/oakland-hyphae-hyphae-
 			<pubDate>Sat, 26 Aug 2023 06:17:03 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/84/6c/846ca447d792a5ce45d8695a21ac67930ca00dc1d73136426c4a7968aa8649ca.mp3?f=Ian%20and%20Reggie.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:19:01</itunes:duration>
-			<itunes:order>20230826061703</itunes:order>
 </item>	
 <item>
 			<guid isPermaLink="false">89437831</guid>
@@ -1049,7 +966,6 @@ The Psilocybin Cup: https://www.oaklandhyphae510.com/post/oakland-hyphae-hyphae-
 			<pubDate>Mon, 18 Sep 2023 05:41:32 +0000</pubDate>
 			<enclosure url="https://c5.kemono.party/data/77/4d/774dfe680ec3c36bacd081915a70911fa754b40f42ab88c4360d4041c41df1e2.mp3?f=Amanda%20part%202%20for%20patreon.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:34:42</itunes:duration>
-			<itunes:order>20230918064132</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">89699698</guid>
@@ -1058,7 +974,6 @@ The Psilocybin Cup: https://www.oaklandhyphae510.com/post/oakland-hyphae-hyphae-
 			<pubDate>Sat, 23 Sep 2023 02:57:19 +0000</pubDate>
 			<enclosure url="https://c1.kemono.party/data/d0/e6/d0e67df01de6a2555dd9f4d9b98751fd35b83c589b791a9c560617fd03337567.mp3?f=ibogaine%20story.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>00:39:42</itunes:duration>
-			<itunes:order>20230923025719</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">89777503</guid>
@@ -1067,7 +982,6 @@ The Psilocybin Cup: https://www.oaklandhyphae510.com/post/oakland-hyphae-hyphae-
 			<pubDate>Sun, 24 Sep 2023 21:54:03 +0000</pubDate>
 			<enclosure url="https://c6.kemono.party/data/f7/49/f7495a59c13bcac86e236d192ea7176629d045caa2e86b4c6f40d5bd21df7b89.mp3?f=Willy%20myco%20patreon%20final.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>00:42:26</itunes:duration>
-			<itunes:order>20230924215403</itunes:order>
 </item>
 <item>
 			<guid isPermaLink="false">90883542</guid>
@@ -1076,7 +990,6 @@ The Psilocybin Cup: https://www.oaklandhyphae510.com/post/oakland-hyphae-hyphae-
 			<pubDate>Fri, 13 Oct 2023 06:20:15 +0000</pubDate>
 			<enclosure url="https://c5.kemono.su/data/da/4d/da4d193e257d67e120abf037c6805856e566235877de7338992d4d50be9e6315.mp3?f=qanda%20september%202023.mp3" length="158334976" type="audio/mpeg"/>
 			<itunes:duration>01:07:52</itunes:duration>
-			<itunes:order>20231013062015</itunes:order>
 </item>
 	</channel>
 </rss>
