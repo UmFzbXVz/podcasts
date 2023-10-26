@@ -7348,5 +7348,26 @@ Emma Vinkel</description>
 			<itunes:duration>00:25:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57320263/sprogretten.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Berygtet bandeveteran flygtede fra fængslet i tegneserie-stil</title>
+			<link>https://api.spreaker.com/download/episode/57380546/maleren.mp3</link>
+			<description>Den 45-årige bandeveteran Mohammed Figuigui, også kendt som ‘Maleren’, er kommet i søgelyset igen, efter at han mandag blev dømt for et groft overfald i Vestre Fængsel tilbage på en medindsat. Det er langt fra første gang, at ‘Maleren’ er blevet dømt for grov kriminalitet, ligesom han også flere gange har forsøgt at flygte fra danske fængsler.
+
+Medvirkende:
+Casper Ell Hausner, journalist på Døgnrapporten
+
+Vært:
+Søren Bak
+
+Tilrettelæggere:
+Casper Ell Hausner
+
+Redaktør:
+Emma Vinkel</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57380546/maleren.mp3</guid>
+			<pubDate>Wed, 25 Oct 2023 14:15:51 +0000</pubDate>
+			<itunes:duration>00:20:21</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57380546/maleren.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
