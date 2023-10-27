@@ -501,5 +501,14 @@
 			<itunes:duration>00:53:54</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57307683/sille_og_patrick.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ugens panel: Jeppe Risager &amp;amp; David Jarsbo &quot;SÅDAN HAR JEG DET MED RETSSAGEN!&quot;</title>
+			<link>https://api.spreaker.com/download/episode/57399659/jeppe_david.mp3</link>
+			<description>Hold nu op et afsnit! Jeppe og David prøver for første gang i programmet at lave en politisk analyse. Udover det vender drengene Britney Spears og Justin Timberlake, samt om det er okay at snyde og bedrage med sin succes. Selvfølgelig vender David også lige den kommende retssag. Din vært er Marcus Eklund og du er med på en lytter.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57399659/jeppe_david.mp3</guid>
+			<pubDate>Fri, 27 Oct 2023 04:00:03 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57399659/jeppe_david.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

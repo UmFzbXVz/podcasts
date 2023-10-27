@@ -375,5 +375,14 @@
 			<itunes:duration>00:53:08</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57307868/the_turner_diearies.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Tove Ditlevsen</title>
+			<link>https://api.spreaker.com/download/episode/57398433/tove_ditlevsen.mp3</link>
+			<description>Med arbejderbaggrunden fra Vesterbro, fire stormfulde ægteskaber, afhængigheden og lange perioder med indlæggelse på psykiatriske hospitaler, levede Tove Ditlevsen ikke noget nemt liv. Alligevel blotlagde hun det meste af det for os alle at læse. Gennem digtsamlinger, romaner, børnebøger og erindringsbøger mediterede hun over sin skæbne på godt og ondt, indtil hun begik selvmord i 1976. Men hvad er det præcist, der gør hendes litteratur så stærk, at vi stadig læser hende i dag? Hvordan har synet på Tove Ditlevsen og hendes forfatterskab ændret sig gennem tiden, og hvad kan vi lære af at kende til hendes private liv? Lyt med, når vi sammen med forfatter Anne Lise Marstrand Jørgensen tegner et nyt portræt af en af Danmarks mest læste og omdiskuterede forfattere.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57398433/tove_ditlevsen.mp3</guid>
+			<pubDate>Thu, 26 Oct 2023 16:13:21 +0000</pubDate>
+			<itunes:duration>00:51:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57398433/tove_ditlevsen.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
