@@ -322,5 +322,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57193127/24syv_s2_a13_noget_om_kor_musik_postyr_og_det_at_v_re_h_jskolel_rer_med_kristoffer_thorning_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om barejegvarmig</title>
+			<link>https://api.spreaker.com/download/episode/57382581/24syv_s2_a14_noget_om_barejegvarmig_podcast.mp3</link>
+			<description>I denne uge snakker vi med den legendariske kunstner barejegvarmig, som lige har udgivet første single med titlen HAM DER. Vi kommer til at snakke om hans vej ind i musikbranchen og sociale medier. Det bliver fedt!Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57382581/24syv_s2_a14_noget_om_barejegvarmig_podcast.mp3</guid>
+			<pubDate>Sun, 29 Oct 2023 10:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57382581/24syv_s2_a14_noget_om_barejegvarmig_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
