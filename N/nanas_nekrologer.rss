@@ -1842,5 +1842,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:38:22</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57277063/g_glip_7_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Cecilies Nekrolog: Døden bliver en hjemkomst</title>
+			<link>https://api.spreaker.com/download/episode/57268769/cecilie_stream.mp3</link>
+			<description>Lige siden Cecilie var lille har hun haft en hjemve for et hjem, der ikke var det, hun voksede op i i Tåstrup med sine forældre og lillebror. I stedet har hun altid følt et stort tilhørsforhold - ikke til de fysiske steder, men til universet som helhed. Derfor frygter hun heller ikke at skulle dø.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57268769/cecilie_stream.mp3</guid>
+			<pubDate>Mon, 30 Oct 2023 21:00:02 +0000</pubDate>
+			<itunes:duration>00:54:02</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57268769/cecilie_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
