@@ -1842,5 +1842,14 @@
 			<itunes:duration>01:05:16</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57365737/rt_pod_2410.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Tour-rute og verdens bedste Vingegaard</title>
+			<link>https://api.spreaker.com/download/episode/57457400/rt_pod_3110.mp3</link>
+			<description>I dette afsnit af Radio Tour bliver den nyligt offentliggjorte Tour de France-rute diskuteret, mens Jonas Vingegaards kåring som årets cykelrytter også bliver vendt.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57457400/rt_pod_3110.mp3</guid>
+			<pubDate>Tue, 31 Oct 2023 13:43:39 +0000</pubDate>
+			<itunes:duration>01:04:00</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57457400/rt_pod_3110.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

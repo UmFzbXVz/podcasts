@@ -1851,5 +1851,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:54:02</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57268769/cecilie_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Maries Nekrolog: To halve hjem og intet helt</title>
+			<link>https://api.spreaker.com/download/episode/57269782/marie_stream.mp3</link>
+			<description>Marie er vokset op som skilsmissebarn og er en del af generation 7/7. I dag gør vi status på hendes liv og over, hvad det har haft af betydning for sin barndom og ungdom. Men vi taler især også om, hvordan det har påvirket Maries egen måde at være forælder på.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57269782/marie_stream.mp3</guid>
+			<pubDate>Tue, 31 Oct 2023 21:00:02 +0000</pubDate>
+			<itunes:duration>00:53:17</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57269782/marie_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
