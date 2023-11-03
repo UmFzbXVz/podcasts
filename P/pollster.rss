@@ -357,5 +357,14 @@
 			<itunes:duration>00:48:02</itunes:duration>
 			<enclosure url="https://traffic.libsyn.com/secure/pollster/Pollster_Ep3_v3.mp3?dest-id=2312423" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>[51] Midten - Fatamorgana eller ny virkelighed?</title>
+			<link>https://api.spreaker.com/download/episode/57484414/pollster_ep_51_1.mp3</link>
+			<description>Dansk politik er vendt på vrangen. Rød og blå blok er i kaos, og på midten er der opstået en ny alliance mellem gamle fjender. SMV-regeringen har nu eksisteret et år og spørgsmålet er, om der er mere appetit på politiske løsninger henover midten i fremtidens Danmark. Pollster undersøger denne gang om der er en midtervælger eller om det er en fatamorgana? Så det nye vælgersegment ‘’Mads i Midten’’ dagens lys for et år siden, og vil denne vælgergruppe være afgørende for valg i fremtiden?Værter: Sune Steffen Hansen &amp; Jesper Claus LarsenProducer: Magnus Klarskov</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57484414/pollster_ep_51_1.mp3</guid>
+			<pubDate>Fri, 03 Nov 2023 04:00:03 +0000</pubDate>
+			<itunes:duration>00:56:48</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57484414/pollster_ep_51_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
