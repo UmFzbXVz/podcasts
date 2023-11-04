@@ -1612,5 +1612,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>01:30:06</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57400293/omsorg.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Dicte - Kunst og Kultur er livsnødvendigt!</title>
+			<link>https://api.spreaker.com/download/episode/57495184/dicte_spreaker.mp3</link>
+			<description>Omegalisten har haft besøg af sangerinden Dicte. Dicte udgav tidligere i år sin nyeste single ‘Mobile home’ og i den forbindelse kom hun forbi Omegalisten.Det blev dog til en samtale, hvor et helt andet emne kom til at fylde en del. Dicte har nemlig en mission, hun vil have mere kunst og musik ind i livet. For hende er kunst og musik livsnødvendigt. Lyt med når Dicte og jeg tager pulsen på kulturlivet og selvfølgelig lytter til en masse musik som Dicte er dannet af.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57495184/dicte_spreaker.mp3</guid>
+			<pubDate>Fri, 03 Nov 2023 08:15:35 +0000</pubDate>
+			<itunes:duration>01:47:40</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57495184/dicte_spreaker.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
