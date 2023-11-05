@@ -331,5 +331,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57382581/24syv_s2_a14_noget_om_barejegvarmig_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Persecutor</title>
+			<link>https://api.spreaker.com/download/episode/57488686/24syv_s2_a15_noget_om_persecutor_podcast.mp3</link>
+			<description>I denne uge snakker vi med det danske Thrash Metal band Persecutor, som for nylig har udgivet deres album Vendetta. Vi har i denne forbindelse fået nogle spørgsmål om musikbranchen ind på vores Instagram, som vi vil bede bandet besvare. Det bliver fedt!Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57488686/24syv_s2_a15_noget_om_persecutor_podcast.mp3</guid>
+			<pubDate>Sun, 05 Nov 2023 10:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57488686/24syv_s2_a15_noget_om_persecutor_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

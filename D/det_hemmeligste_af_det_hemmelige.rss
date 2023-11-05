@@ -1149,5 +1149,14 @@
 			<itunes:duration>00:47:23</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/57497515/det_hemmelige_fesagen.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Druserne</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/57496162/det_hemmelige_druserne.mp3</link>
+			<description>Som lovet et afsnit om druserne - naturligvis med en direkte forbindelse til Säpo, spioner og Sverige. Gæst: Professor Jakob Skovgaard-Petersen fra Københavns Universitet.</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/57496162/det_hemmelige_druserne.mp3</guid>
+			<pubDate>Sun, 05 Nov 2023 05:00:02 +0000</pubDate>
+			<itunes:duration>00:50:42</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/57496162/det_hemmelige_druserne.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
