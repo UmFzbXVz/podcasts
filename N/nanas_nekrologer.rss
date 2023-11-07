@@ -1860,5 +1860,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:17</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57269782/marie_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Melikas Nekrolog: Stædig som et æsel</title>
+			<link>https://api.spreaker.com/download/episode/57524829/melika_stream.mp3</link>
+			<description>Melika er et omvandrende modsvar på det, onde tunger siger om vores generation: at os unge i dag bare går, når det bliver svært. Men ikke Melika. Hun er stædig, loyal og dedikeret og bliver - nogle gange også til den bitre ende: 9 år med sin første kæreste, 15 år med korsang, 3,5 år med et arbejde, der bare skulle være midlertidigt. Hør hele Melikas historie i dagens afsnit.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57524829/melika_stream.mp3</guid>
+			<pubDate>Mon, 06 Nov 2023 21:00:03 +0000</pubDate>
+			<itunes:duration>00:50:18</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57524829/melika_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
