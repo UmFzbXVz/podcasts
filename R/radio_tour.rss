@@ -1851,5 +1851,14 @@
 			<itunes:duration>01:04:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57457400/rt_pod_3110.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Van Aerts rolle i Giroen og den bedste banerytter nogensinde</title>
+			<link>https://api.spreaker.com/download/episode/57544177/rtpod.mp3</link>
+			<description>I dette afsnite af Radio Tour bliver der bliver talt om van Aert som klassementsrytter i Giroen, og så er der fokus på banecykling, inklusiv kåringer af de bedste banecyklister nogensinde.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57544177/rtpod.mp3</guid>
+			<pubDate>Tue, 07 Nov 2023 15:36:40 +0000</pubDate>
+			<itunes:duration>01:02:32</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57544177/rtpod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
