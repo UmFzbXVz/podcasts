@@ -1299,5 +1299,14 @@ Gucci + Bourgeois: https://www.youtube.com/watch?v=tcHYVjWn-TI&amp;ab_channel=Ke
 			<itunes:duration>00:53:59</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57467165/57_helt_program_med_pa_trykte_profiler.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Stop tyven! Kunstig intelligens stjæler</title>
+			<link>https://api.spreaker.com/download/episode/57564987/58_episode.mp3</link>
+			<description>Hvordan føles det at finde ud af, ens arbejde er blevet tyvstjålet og brugt som tandhjul i en kunstig intelligens? Det er virkelig sjovt at lege med generative kunstige intelligenser. Nærmest uanset hvilket input man giver dem beder generere, finder de på overraskende, morsomme og gode bud. Man kunne for eksempel få de første 1000 titler på kriminalromaner. Eller en krimi i stil med ynglingsforfatteren? Men for at kunne komme med geniale krimi-titler som &quot;En Kold Vind Fra Nord&quot; må de kunstige intelligenser have adgang til komplekse datasæt, der eksempelvis indeholder netop krimier. Og de krimier er der rigtige mennesker, der har forfattet.For eksempel forfatteren Lone Theils. Da hun en dag blev ringet på af Rettighedsalliancen med nyheden om, at hendes bog &quot;Pigerne fra Englandsbåden&quot; var blevet samlet i et datasæt baseret på piratkopierede bøger, blev hun forarget og vred. Det lykkedes Rettighedsalliancen at begrænse adgangen til det ulovlige datasæt. Men hvad gør vi på sigt i en verden, hvor generativ AI bliver mere og mere udbredt for at beskytte rettighederne for kreative? Gæster: Lone Theils - forfatterMaria Fredenslund - direktør og grundlægger i Rettighedsalliancen Redaktion: Josefine Schlie Nanna Schmidt Nordestgaard</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57564987/58_episode.mp3</guid>
+			<pubDate>Thu, 09 Nov 2023 05:00:03 +0000</pubDate>
+			<itunes:duration>00:53:58</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57564987/58_episode.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
