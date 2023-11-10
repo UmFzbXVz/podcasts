@@ -1079,5 +1079,18 @@ Producer: Marcus Eklund</description>
 			<itunes:duration>00:53:49</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57498732/mette_og_de_bl_m_nd_d_3_november.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>S-legende advarer mod Løkkes 'farlige' plan, og BBB har fundet kærligheden</title>
+			<link>https://api.spreaker.com/download/episode/57588235/mette_og_de_bl_m_nd_d_10_november.mp3</link>
+			<description>Vi har besøg af den mangeårige amtsborgmester Vibeke Storm Rasmussen, der i 1987 fik mundkurv på af Svend Auken, fordi hun i en rapport advarede om masseindvandring. Hun var en af de famøse borgmestre på Vestegnen, der turde råbe op. Nu advarer hun igen mod Dansk Industri og Løkkes plan om at 'importere hænder' fra Afrika. 
+
+Værter: Anna Thygesen og Sanne Fahnøe
+Gæst: Tidligere amtsborgmester i København Vibeke Storm Rasmussen
+Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57588235/mette_og_de_bl_m_nd_d_10_november.mp3</guid>
+			<pubDate>Fri, 10 Nov 2023 11:26:12 +0000</pubDate>
+			<itunes:duration>00:53:37</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57588235/mette_og_de_bl_m_nd_d_10_november.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
