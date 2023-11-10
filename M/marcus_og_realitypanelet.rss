@@ -519,5 +519,14 @@
 			<itunes:duration>00:53:59</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57440689/stjerner_i_tr_jen_nicky_russell_jonas_schmidt_janni_ree.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Special: Anna Seneca: &quot;SÅDAN HAR JEG DET!&quot;</title>
+			<link>https://api.spreaker.com/download/episode/57531142/special_med_anna_seneca.mp3</link>
+			<description>For første gang i programmets levetid er der kun én gæst i studiet. Influencer, Realitystjerne og mor Anna Seneca fortæller hudløst ærligt om hendes nuværende og tidligere liv. I denne special dykker Marcus ned og undersøger bagsiden af medaljen af at være et offentligt ansigt. Din vært er Marcus Eklund og du er med på en lytter.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57531142/special_med_anna_seneca.mp3</guid>
+			<pubDate>Fri, 10 Nov 2023 05:00:03 +0000</pubDate>
+			<itunes:duration>00:44:41</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57531142/special_med_anna_seneca.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

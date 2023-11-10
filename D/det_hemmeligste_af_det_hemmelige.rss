@@ -1158,5 +1158,14 @@
 			<itunes:duration>00:50:42</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/57496162/det_hemmelige_druserne.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Et belejligt syndrom</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/57544632/det_hemmelige_syndrom.mp3</link>
+			<description>Det såkaldte Stockholm-syndrom udspringer fra et gidseldrama i Stockholm i 1973, hvor tre unge kvindelige bankassistenter holdes indspærret. Men syndromet er mest af alt en belejlig konstruktion, som skal dække over de svenske myndigheders forfærdelige håndtering af gidselsituationen.</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/57544632/det_hemmelige_syndrom.mp3</guid>
+			<pubDate>Fri, 10 Nov 2023 05:00:03 +0000</pubDate>
+			<itunes:duration>00:50:08</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/57544632/det_hemmelige_syndrom.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

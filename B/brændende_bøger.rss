@@ -393,5 +393,14 @@
 			<itunes:duration>00:53:34</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57223081/utopia.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>“Jeg ville foretrække at lade være”</title>
+			<link>https://api.spreaker.com/download/episode/57580849/bartleby.mp3</link>
+			<description>Sådan lyder Mr. Bartlebys ikoniske replik, når hans arbejdsgiver beder ham om at lave et stykke arbejde. Hvad svarer man til det? Siden udgivelsen i 1853 er novellen og Bartleby’s passivitet blevet læst af filosoffer og venstreorienterede protestbevægelser som et forbillede, når det handler om at sætte fokus på og bekæmpe kapitalismens magt over os.Lyt med, når vi sammen med oversætter Klaus Brix Andersen spørger, hvorfor Bartleby foretrækker at lade være, hvad den yderste konsekvens af hans modstandskamp ser ud, og hvordan vi kan bruge hans credo i vores eget liv.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57580849/bartleby.mp3</guid>
+			<pubDate>Thu, 09 Nov 2023 17:11:34 +0000</pubDate>
+			<itunes:duration>00:42:35</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57580849/bartleby.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
