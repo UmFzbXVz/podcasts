@@ -429,5 +429,14 @@
 			<itunes:duration>01:25:17</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57395951/s05e02_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>S05E03 Barbershop - stemmer det med en stejl læringskurve?</title>
+			<link>https://api.spreaker.com/download/episode/57589656/s05e03_podcast.mp3</link>
+			<description>I denne omgang tager Ida &amp; Jon til Ansgarkirken i Københavns Nordvest, hvor de skal forsøge at ramme tonerne sammen med barbershop-koret Copenhagen Barbershop Chorus. Alle synger jo lidt en gang imellem i badet eller måske på cyklen, men hvis man skal rigtig begynde at synge, hvorfor skulle man så lige starte med noget så udfordrende som de præcise firstemmige arrangementer fra den klassiske barbershop-genre. Det prøver Ida &amp; Jon at svare på, mens de prøver det bedste de har lært at ramme tonerne.Man kan finde mere info om Copenhagen Barbershop Chorus her:https://www.cphbarbershop.dk/https://www.youtube.com/@CopenhagenBarbershopChorus/https://www.facebook.com/BBSinCPHhttps://www.instagram.com/copenhagen.barbershop.chorus/</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57589656/s05e03_podcast.mp3</guid>
+			<pubDate>Mon, 13 Nov 2023 06:00:03 +0000</pubDate>
+			<itunes:duration>01:28:27</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57589656/s05e03_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

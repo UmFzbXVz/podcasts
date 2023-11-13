@@ -2793,5 +2793,16 @@ Vært: Alexander W. Lorenzen</description>
 			<itunes:duration>00:42:09</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57575175/valgt_i_danmark_torsdag.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>En omvendt Dolly Parton</title>
+			<link>https://api.spreaker.com/download/episode/57613673/vid_mandag.mp3</link>
+			<description>Alternativet kæmper videre for en 30 timers arbejdsuge. Til åbningsdebatten havde Rosenkilde svært ved at overbevise sine kollegaer. Alternativets Christina Olumeko er i studiet.
+
+Vært: Alexander Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57613673/vid_mandag.mp3</guid>
+			<pubDate>Mon, 13 Nov 2023 08:35:07 +0000</pubDate>
+			<itunes:duration>00:27:18</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57613673/vid_mandag.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

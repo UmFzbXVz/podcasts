@@ -213,5 +213,14 @@
 			<itunes:duration>00:53:31</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57409627/anne_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på at blive en kreativ blæksprutte med Laura Drasbæk</title>
+			<link>https://api.spreaker.com/download/episode/57511179/laura_klippet.mp3</link>
+			<description>Ugens gæst er en kreativ sjæl. Hun er uddannet skuespiller og har medvirket i bl.a. Lærkevej, Sommerdahl og Pusher. Men hun er også børnebogsforfatter, lydbogsspeaker og nu keramiker med egen butik! Hun er en sprudlende humørbombe, der trives godt i kaos.  Ugens gæst er: Laura Drasbæk!Hvordan bliver man en god skuespiller? Kan Laura bedst lide film eller teater? Hvorfor laver hun keramik nu? Og hvorfor er hendes drømmerolle en skrøbelig kattedame? Lyt med og få hele opskriften.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57511179/laura_klippet.mp3</guid>
+			<pubDate>Mon, 13 Nov 2023 04:00:03 +0000</pubDate>
+			<itunes:duration>00:53:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57511179/laura_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
