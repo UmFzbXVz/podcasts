@@ -142,5 +142,14 @@
 			<itunes:duration>00:52:58</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57438998/sjuft15.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 16: Langsommere end sin egen skygge</title>
+			<link>https://api.spreaker.com/download/episode/57627444/gonzo16_ny.mp3</link>
+			<description>Denne uge om venskaber. For hvis René Fredenborg nu skulle være venner med dagens gæst, Informations Lasse Lavrsen, ja, hva så? Hør tre kloge omend skrøbelige mænd tale om venskaber. Om følelser, instinkter og fænomenet ‘at lyve for at række ud’. Om at blive ‘minglet væk fra’. Om at opsøge sin egen ensomhed. Om at huske at vande sit venskab, som din hippiemor ville have sagt det.Vi runder også primalsskrigsterapi. Kvinders nusse-krav. Og en gammel beef mellem Signe Wenneberg og Martin Kongstad.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57627444/gonzo16_ny.mp3</guid>
+			<pubDate>Tue, 14 Nov 2023 08:55:43 +0000</pubDate>
+			<itunes:duration>01:00:15</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57627444/gonzo16_ny.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
