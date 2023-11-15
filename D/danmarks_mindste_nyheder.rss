@@ -978,5 +978,14 @@
 			<itunes:duration>00:53:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57482208/ufojagt_mp3_afsnit_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Farvel og tak: Højdepunkter fra Danmarks Mindste Nyheder</title>
+			<link>https://api.spreaker.com/download/episode/57628311/danmarks_mindste_nyheder_1_november_sidste_afsnit.mp3</link>
+			<description>Det sidste program af Danmarks Mindste Nyheder. Flere end 100 programmer er det blevet til det seneste års tid, men nu er det endegyldigt slut.Danmarks Mindste Nyheder sendte første gang 12 oktober 2022. I begyndelsen var det dét program, som vi - Anton Ringdal og Kristoffer Kristensen - sendte om mandagen, og fra januar begyndte vi så at sende Danmarks Mindste Nyheder tre gange om ugen.Programmet var en efterfølger til kulturprogrammet Ringdal &amp; Kristensen, som vi sendte allerførste gang for to år siden, altså 1. november 2021.I det her program ser vi tilbage på programmerne, der er blevet sendt. Vi hører klip fra de mange indslag om mere eller mindre vellykkede missioner, ture rundt i Danmark (og Egypten) - og vigtigst af alt hører vi nogle af de indslag, der har været med personer, som aldrig har været i radioen før. Et adelsmærke for et program med og til de mindre radiovante. Mange tak til især jer.Det har været en fornøjelse og et privilegium.Værter: Anton Ringdal og Kristoffer KristensenRedaktion gennem tiden: Simon Porse, Casper Ell Hausner Olsen, Nana Margrethe Haugaard, Asger Petersen og Peter Arve</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57628311/danmarks_mindste_nyheder_1_november_sidste_afsnit.mp3</guid>
+			<pubDate>Tue, 14 Nov 2023 10:56:46 +0000</pubDate>
+			<itunes:duration>00:53:42</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57628311/danmarks_mindste_nyheder_1_november_sidste_afsnit.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

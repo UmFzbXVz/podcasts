@@ -1887,5 +1887,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:30:14</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57525268/stream_r_d_til_tidligere.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Din dyreste &amp;amp; dyrebareste lærestreg #5</title>
+			<link>https://api.spreaker.com/download/episode/57525504/stream_l_restreg.mp3</link>
+			<description>Nogle gange må man lære livets lektioner på den hårde måde. Cecilies far fortalte hende engang noget, som var en hård men nødvendig pille for hende at sluge: livet er ikke bare en rød løber, ens forældre kan rulle ud for en. Sif har til gengæld erfaret sig, at man ikke tilgiver andre for deres skyld, men for sin egen. Hør også Marie og Melika fortælle, om hvad livet har lært dem.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57525504/stream_l_restreg.mp3</guid>
+			<pubDate>Tue, 14 Nov 2023 21:00:02 +0000</pubDate>
+			<itunes:duration>00:30:45</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57525504/stream_l_restreg.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
