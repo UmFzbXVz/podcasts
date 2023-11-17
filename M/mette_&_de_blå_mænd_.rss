@@ -1092,5 +1092,18 @@ Producer: Marcus Eklund</description>
 			<itunes:duration>00:53:37</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57588235/mette_og_de_bl_m_nd_d_10_november.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Barbara Bertelsens 50 års fødselsdag - og forbindelsen til Zetlands Lea Korsgaard, og Vestagers knuste drømme</title>
+			<link>https://api.spreaker.com/download/episode/57679215/mette_og_de_bl_m_nd_d_17_november.mp3</link>
+			<description>Hvad lavede mediet Zetlands chefredaktør Lea Korsgaard til Babara Bertelsens 50 års fødselsdag, når hun skrev et forsvar for hende i en leder ni dage efter begivenheden uden at proklamere, hun kender Mette F.s departementschef? Vi har Nicolai Dandanell fra Frihedsbrevet med, der har skrevet historien. Og så taler vi om, at kritikken af Margrethe Vestager for alvor har taget fart, mens hun har en masse tid til at gå og hygge sig med at strikke.
+
+Værter: Anna Thygesen og Sanne Fahnøe
+Gæster: Claes Theilgaard, Blåt Bælte, og Nicolai Dandanell, Frihedsbrevet
+Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57679215/mette_og_de_bl_m_nd_d_17_november.mp3</guid>
+			<pubDate>Fri, 17 Nov 2023 12:17:29 +0000</pubDate>
+			<itunes:duration>00:53:33</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57679215/mette_og_de_bl_m_nd_d_17_november.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
