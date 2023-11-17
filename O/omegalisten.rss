@@ -1630,5 +1630,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>02:48:26</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57583382/lana.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Elitist - Skud ud til...</title>
+			<link>https://api.spreaker.com/download/episode/57669893/elites.mp3</link>
+			<description>Lyt med når Stine Omega inviterer på et par brutale, hidsige, men hyggelige timer med dødmetal bandet Elitist.Elitist udgiver deres debut album her den 17 november udgiver deres debut album A Mirage Of Grandeur. Vær med til at kritisere eliten og brænd hele lortet ned på en hyggelig måde i selskab med Elitist.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57669893/elites.mp3</guid>
+			<pubDate>Fri, 17 Nov 2023 05:05:02 +0000</pubDate>
+			<itunes:duration>01:00:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57669893/elites.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

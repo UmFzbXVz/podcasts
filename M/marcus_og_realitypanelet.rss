@@ -528,5 +528,14 @@
 			<itunes:duration>00:44:41</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57531142/special_med_anna_seneca.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Ugens panel: Sarah Dohn &amp;amp; Vivi Bach: &quot;DET HER HAR JEG ALDRIG FORTALT FØR!&quot;</title>
+			<link>https://api.spreaker.com/download/episode/57667767/sarah_dohn_og_vivi_bach.mp3</link>
+			<description>Paradisoerne Sarah Dohn og Vivi Bach gæster studiet. Marcus har sørget for julestemning i form af whisky og Tuborg grøn (ik særlig juleagtigt). Panelet giver råd til Kronprins Frederik og Dansk Folkeparti medlem Mette Thiesen. De 2 piger er ihvertfald ikke enige! Til slut åbner Sarah op omkring hendes liv. Din vært er Marcus Eklund og du er med på en lytter.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57667767/sarah_dohn_og_vivi_bach.mp3</guid>
+			<pubDate>Fri, 17 Nov 2023 05:00:03 +0000</pubDate>
+			<itunes:duration>00:53:59</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57667767/sarah_dohn_og_vivi_bach.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
