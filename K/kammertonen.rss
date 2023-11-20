@@ -929,5 +929,14 @@ Wo ist Brünnhilde: https://open.spotify.com/track/2yg1MCk4sGXIT1vsyIWdPK?si=e51
 			<itunes:duration>00:53:50</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/57529858/kammertonen_ravnen_mixdown.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Frederic Chopin</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/57663111/kammertonen_chopin_mixdown_16_lufs.mp3</link>
+			<description>”I dag er du inviteret med på en fantastisk rejse tilbage til Frederic Chopins ophold på Mallorca i vinteren 1838/1839, som på mange måder blev skæbnesvangert for den skrøbelige komponist. Vi udforsker historien om den legendariske komponist og hans romantiske forhold til forfatteren George Sand. Lytterne føres på en auditiv rejse gennem tidens atmosfære, mens jeg som din guid førerdig gennem klostret, hvor Chopin skabte sin musikalske magi. Du vil høre de smukke toner af Chopins klaverkompositioner, der ledsager fortællingen om deres liv og kærlighed på den smukke ø, der rummer stemningen af både romantik, kunst og kreativitet – men også sorg og melankoli. Og ikke mindst giver et indblik i, hvordan disse mesterværker blev skabt på trods af udfordringerne”</description>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/57663111/kammertonen_chopin_mixdown_16_lufs.mp3</guid>
+			<pubDate>Sun, 19 Nov 2023 05:30:02 +0000</pubDate>
+			<itunes:duration>01:06:20</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/57663111/kammertonen_chopin_mixdown_16_lufs.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

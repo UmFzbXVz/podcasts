@@ -222,5 +222,14 @@
 			<itunes:duration>00:53:54</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57511179/laura_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på en god historie med Kim Fupz Aakeson</title>
+			<link>https://api.spreaker.com/download/episode/57558584/kim_klippet.mp3</link>
+			<description>Ugens gæst er en mester til at fortælle historier. Han har udgivet over 70 bøger til børn og voksne og vundet et hav af priser. Derudover har han også skrevet utallige manuskripter, bl.a. Til “Den Eneste Ene” , “En Soap” og “Hannibal og Jerry”. Han har en original, humoristisk og finurlig skrivestil, og så holder han sig fra at udgive krimier! Ugens gæst er: Kim Fupz AakesonHvordan laver man en god historie? Har Kim en syret og vild side eller er han kedelig i privaten? Hvorfor blev DR serien Huset til på en meget mærkelig måde? Og hvor grusomt er det at skrive en roman? Lyt med og få hele opskriften.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57558584/kim_klippet.mp3</guid>
+			<pubDate>Mon, 20 Nov 2023 04:00:03 +0000</pubDate>
+			<itunes:duration>00:53:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57558584/kim_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
