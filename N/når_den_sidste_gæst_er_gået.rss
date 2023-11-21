@@ -384,5 +384,14 @@
 			<itunes:duration>01:02:06</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57623588/brevkassen.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Branchens Brevkasse #2: Vagter, Uniformer Og De Dårlige Arbejdspladser</title>
+			<link>https://api.spreaker.com/download/episode/57725808/brevkasse_2.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57725808/brevkasse_2.mp3</guid>
+			<pubDate>Tue, 21 Nov 2023 03:00:02 +0000</pubDate>
+			<itunes:duration>00:58:33</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57725808/brevkasse_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
