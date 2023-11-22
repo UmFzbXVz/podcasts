@@ -1878,5 +1878,14 @@
 			<itunes:duration>01:00:03</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57627291/rt_away_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Gent 6-dages løb og kongen af vintertræning</title>
+			<link>https://api.spreaker.com/download/episode/57749647/rtpodgetnmp3.mp3</link>
+			<description>Michael Mørkøv er gæst i studiet og har giver en gennemgang af sin cykel.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57749647/rtpodgetnmp3.mp3</guid>
+			<pubDate>Tue, 21 Nov 2023 15:19:07 +0000</pubDate>
+			<itunes:duration>01:11:30</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57749647/rtpodgetnmp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
