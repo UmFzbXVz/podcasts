@@ -7832,5 +7832,27 @@ Emma Vinkel</description>
 			<itunes:duration>00:27:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57765691/vandpibedrab_3_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Politiet lukkede Pusher Street: Handel til sidste minut</title>
+			<link>https://api.spreaker.com/download/episode/57785843/pusher_street_reportage_f_rdig.mp3</link>
+			<description>Den karakteristiske lugt af hash hang stadig i luften, da politiet onsdag eftermiddag marcherede ind på Christiania for midlertidigt at lukke Pusher Street. Rydningen var højst usædvanligt blevet meldt ud af politiet på forhånd, men der var stadig gang i salget i minutterne op til den planlagte aktion. Døgnrapporten var til stede under rydningen.
+
+Medvirkende:
+Simon Hansen, vicepolitiinspektør ved Københavns Politi
+
+Vært: 
+Kristoffer Kristensen
+
+Tilrettelæggere: 
+Amalie Allerslev
+Søren Bak
+
+Redaktør: 
+Emma Vinkel</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57785843/pusher_street_reportage_f_rdig.mp3</guid>
+			<pubDate>Thu, 23 Nov 2023 17:23:55 +0000</pubDate>
+			<itunes:duration>00:25:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57785843/pusher_street_reportage_f_rdig.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

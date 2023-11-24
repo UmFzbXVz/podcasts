@@ -411,5 +411,14 @@
 			<itunes:duration>00:53:01</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57667979/kaspar.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvorfor skal Salman Rushdie slåes ihjel?</title>
+			<link>https://api.spreaker.com/download/episode/57664931/rushdie.mp3</link>
+			<description>Det sker efterhånden meget sjældent i den moderne litteraturs historie, at en bog bliver forbudt, dømt blasfemisk, brændt af, og ender i centrum for en global diskussion om ytringsfrihed, religion og kulturforskelle. Det sker heller ikke ofte, at en forfatter bliver truet på livet og forsøgt dræbt på baggrund af sine ord, og at vi som læsere bliver mindet om litteraturens magt i den virkelige verden. Det blev imidlertid tilfældet, da den indiskfødte britiske forfatter Salman Rushdie i 1989 fik udstedt en fatwa af Ayatollah Khomeini, som opfordrer alle til at dræbe både Rushdie, oversætterne og forlæggerne af hans bog “De Sataniske Vers”. En dødsdom, der stadig hænger over ham i dag.Men hvad var det præcist i “De Sataniske Vers”, der vakte så stor vrede? Hvilken betydning fik dødstruslen for Rushdies liv, og har den overhovedet noget at gøre med hans litteratur?</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57664931/rushdie.mp3</guid>
+			<pubDate>Thu, 23 Nov 2023 17:10:02 +0000</pubDate>
+			<itunes:duration>00:53:50</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57664931/rushdie.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
