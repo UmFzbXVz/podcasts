@@ -1105,5 +1105,18 @@ Producer: Marcus Eklund</description>
 			<itunes:duration>00:53:33</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57679215/mette_og_de_bl_m_nd_d_17_november.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Mike Fonsecas sexsag sammenlignet med Jeppe Kofods - ER det faktisk blevet en anden tid?</title>
+			<link>https://api.spreaker.com/download/episode/57795882/mette_og_de_bl_m_nd_d_24_november.mp3</link>
+			<description>B.T.-journalist Peter Astrup fik anden bølge af Jeppe Kofods gamle sex-skandale til at rulle igen i 2020 med et epokegørende interview. Nu fortæller han, hvad der skete bag kulisserne i Fonsecas sag og sammenligner den med Jeppe Kofods fra 2008. Vi har besøg af Astrup. Og så snakker vi selvfølgelig om rokaden - er Venstre helt på røven?
+
+Værter: Anna Thygesen og Sanne Fahnøe
+Gæst: Peter Astrup, B.T.
+Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57795882/mette_og_de_bl_m_nd_d_24_november.mp3</guid>
+			<pubDate>Fri, 24 Nov 2023 13:13:58 +0000</pubDate>
+			<itunes:duration>00:53:44</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57795882/mette_og_de_bl_m_nd_d_24_november.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
