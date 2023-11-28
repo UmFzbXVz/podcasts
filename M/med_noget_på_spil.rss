@@ -438,5 +438,14 @@
 			<itunes:duration>01:28:27</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57589656/s05e03_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>S05E04 Bouldering - et balancerende storbysfænomen?</title>
+			<link>https://api.spreaker.com/download/episode/57748531/mnps_s05e04_podcast.mp3</link>
+			<description>I denne episode tager Jon og Ida til Valby og tager en introtime i bouldering-hallen Boulders. Ida kæmper bravt med sin frygt, mens Jon knap for sved på panden. De får nogle gode snakke med underviseren Markus om at være “all-in”, og lukke alt ude, når han “er væggen”. Derudover snakker de med en ligesindet nybegynder, om at skabe god balance for storbyfolk, computerfolk og kontormus ved at lukke alt andet ude, når man går ind i bouldering-hallen.Det store spørgsmål bliver dog, om det er frisættende eller kedeligt, at det at være god til bouldering tilsyneladende ikke kan bruges til så meget udenfor hallen.Tilrettelægger og værter: Jon Bjarnhof &amp; Ida NeubertGæster: Nicky Torstensson og Markus JensenTekniker &amp; klipper: Jon Bjarnhof</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57748531/mnps_s05e04_podcast.mp3</guid>
+			<pubDate>Mon, 27 Nov 2023 06:00:03 +0000</pubDate>
+			<itunes:duration>01:23:40</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57748531/mnps_s05e04_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

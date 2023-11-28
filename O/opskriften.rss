@@ -231,5 +231,14 @@
 			<itunes:duration>00:53:54</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57558584/kim_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på at blive hjerneentusiast med Peter Lund Madsen</title>
+			<link>https://api.spreaker.com/download/episode/57662422/peter_klippet.mp3</link>
+			<description>Ugens gæst ved utrolig meget om hjernen. Han er både læge, forsker, psykiater, forfatter, tv- og radiovært. Han er en mester i at formidle viden om alle hjernens gåder og mysterier, og så går han under navnet “Hjernemadsen”. Ugens gæst er: Peter Lund MadsenHvorfor er Peter så fascineret af hjernen? Hvorfor skaber den irrationel angst i dag? Kommer computere til at overtage vores hjerner, og hvad er egentlig virkeligheden? Lyt med og få hele opskriften. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57662422/peter_klippet.mp3</guid>
+			<pubDate>Mon, 27 Nov 2023 04:00:04 +0000</pubDate>
+			<itunes:duration>00:53:53</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57662422/peter_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

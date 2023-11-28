@@ -1896,5 +1896,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:30:45</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57525504/stream_l_restreg.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Livas Nekrolog: Jagten på det næste helle</title>
+			<link>https://api.spreaker.com/download/episode/57809319/liva_stream.mp3</link>
+			<description>Når de andre børn i skolegården kravlede i træer, sad Liva og kiggede på og konsekvensberegnede: hvor mange smerter skal jeg døje med, hvis jeg falder ned? Liva har ledgigt og den er blevet hendes følgesvend i livet. På godt og på ondt. Derfor har meget af Livas liv handlet om, at finde sit næste helle, sine små oaser, hvor hun kan samle kræfter til en ny dag.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57809319/liva_stream.mp3</guid>
+			<pubDate>Mon, 27 Nov 2023 21:00:03 +0000</pubDate>
+			<itunes:duration>00:53:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57809319/liva_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
