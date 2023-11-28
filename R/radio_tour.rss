@@ -1887,5 +1887,14 @@
 			<itunes:duration>01:11:30</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57749647/rtpodgetnmp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Jan Ullrich og meget til morgenmad</title>
+			<link>https://api.spreaker.com/download/episode/57829910/radio_tour_teaser.mp3</link>
+			<description>Jesper Worre er med Radio Tour studiet, hvor snakken falder på bl.a. Jan Ullrichs indrømmelser om doping og Geraint Thomas' vilde offseason.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57829910/radio_tour_teaser.mp3</guid>
+			<pubDate>Tue, 28 Nov 2023 13:21:44 +0000</pubDate>
+			<itunes:duration>01:05:13</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57829910/radio_tour_teaser.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

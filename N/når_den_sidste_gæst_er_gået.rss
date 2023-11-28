@@ -393,5 +393,14 @@
 			<itunes:duration>00:58:33</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57725808/brevkasse_2.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>How To Communicate With A Chef</title>
+			<link>https://api.spreaker.com/download/episode/57822265/how_to_talk_chef.mp3</link>
+			<description>Hvordan får man kokken til at respektere en tjener via god kommunikation?Hvordan skaber man psykologisk tryghed på en arbejdsplads?Og hvorfor må man ikke råbe tilbage, når de andre starter med at råbe af dig?De fleste af os har nok en kommunikationsrådgiver i livet. En man kan sparre med, når der skal sendes en kedelig besked, eller man står midt i en konflikt. Annes rådgiver hedder Amalie, der er den tidligere kollega, som alle dage har været den, der var mest respekteret på deres fælles arbejdsplads.Derfor har Anne selvfølgelig inviteret Amalie ind til en snak om, hvordan fanden man lærer at snakke kokkenes sprog.Rigtig god lytter!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57822265/how_to_talk_chef.mp3</guid>
+			<pubDate>Tue, 28 Nov 2023 03:00:04 +0000</pubDate>
+			<itunes:duration>00:43:55</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57822265/how_to_talk_chef.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
