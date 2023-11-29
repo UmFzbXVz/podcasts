@@ -1905,5 +1905,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:49</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57809319/liva_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Lauges Nekrolog: Når stormen har lagt sig</title>
+			<link>https://api.spreaker.com/download/episode/57809470/lauge_stream.mp3</link>
+			<description>TW: presserende selvmordstanker. Da jeg møder Lauge fortæller han mig, at han vil sætte den nekrolog, jeg skriver til ham i dag, ind i sit sidste vilje. Hvis den altså er god. No pressure! Hør med i dag og find ud af, om jeg maler et portræt af Lauges liv, som han selv kan genkende og som skal læses op til hans begravelse!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57809470/lauge_stream.mp3</guid>
+			<pubDate>Tue, 28 Nov 2023 21:00:02 +0000</pubDate>
+			<itunes:duration>00:54:07</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57809470/lauge_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
