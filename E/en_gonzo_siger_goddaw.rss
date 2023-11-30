@@ -151,5 +151,14 @@
 			<itunes:duration>01:00:15</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57627444/gonzo16_ny.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 17: Kendis-pli med Casper Christensen</title>
+			<link>https://api.spreaker.com/download/episode/57860638/gonzo17.mp3</link>
+			<description>Er man som kendis hævet over at være dannet og svare på henvendelser? Vi foretager en rundringning til vildt kendte kulturpersonligheder. For eksempel Leonora Christina Skov, Ole Bornedal og Bjarke Ingels. Vi afbryder et opkald til Jon Stephensen, da Anders kan ikke udtale hans navn. Dog får vi kontakt med Casper Christensen i en bil fyldt med hans råbende børn. Han udsteder en helt særlig garanti.   Desuden introduktion til den såkaldte Kronprins Frederik-regel. Plus anekdoten om dengang, vi ringede til en dame, der havde det samme nummer som Thomas Helmig.  Og endelig: Skal Martin Kongstad have den allerallerfineste guldbelagte kulturelite-køkkenrulleholder til sin 60-års fødselsdag?</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57860638/gonzo17.mp3</guid>
+			<pubDate>Thu, 30 Nov 2023 09:25:52 +0000</pubDate>
+			<itunes:duration>00:51:41</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57860638/gonzo17.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

@@ -1326,5 +1326,14 @@ Gucci + Bourgeois: https://www.youtube.com/watch?v=tcHYVjWn-TI&amp;ab_channel=Ke
 			<itunes:duration>00:56:19</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57765232/60_katrine_pedersen_podcast_v2.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Drama i OpenAI + hvorfor er min ejendomsmægler blevet hacket?</title>
+			<link>https://api.spreaker.com/download/episode/57847370/61_episode.mp3</link>
+			<description>Hvad foregår der i OpenAI? Hvem er Sam Altman? Hvorfor går tech-verdenen amok over at han er blevet fyret? Er det forhistorien til en ny ‘The Social Network’ vi er vidne til lige nu - og hvorfor skal du bekymre dig om det?Der har tilsyneladende udspillet sig en magtkamp i den fremadstormende virksomhed OpenAI, som står bag ChatGPT. På bare fem dage nåede de at fyre deres ellers anerkendte CEO, Sam Altman, for derefter at vende om og ansætte ham igen, da størstedelen af OpenAI’s medarbejdere krævede ham tilbage.Men hvem er de gode og hvem er de onde i den her sag? Det får vi dataetisk rådgiver, Pernille Tranberg, til at give sit bud på, når hun fortæller om kampen mellem profit og sikker kunstig intelligens i OpenAI.Efterfølgende skal vi tilbage til Danmark, hvor endnu et ransomwareangreb har lækket næsten 100.000 danskeres CPR-numre, og andre personfølsomme oplysninger på nettet. Denne gang er det ejendomsmæglerkæden EDC, hvis kundekartotek er blevet hacket af den russiske hackergruppe Black Basta.Nanna Schmidt Nordestgaard ringer til IT-sikkerhedspecialist ved Datatilsynet, Allan Frank, for at høre hvor alvorlige konsekvenser, de her store ransomwareangreb kan have for de almindelige mennesker, der får lækket deres oplysninger.Gæster:Pernille TranbergAllan FrankJosefine Schlie</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57847370/61_episode.mp3</guid>
+			<pubDate>Thu, 30 Nov 2023 04:55:02 +0000</pubDate>
+			<itunes:duration>00:54:09</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57847370/61_episode.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
