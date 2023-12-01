@@ -420,5 +420,14 @@
 			<itunes:duration>00:53:50</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57664931/rushdie.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Stemmer fra deporteringslejren</title>
+			<link>https://api.spreaker.com/download/episode/57867707/k_rshovedga_rd.mp3</link>
+			<description>Har du hørt om Kærshovedgård? Ved du hvem der bor der, og hvorfor? Ved du, om man overhovedet kan bo der? I den nyudkomne tegneserie “Fortællinger fra Kærshovedgård” hører vi otte mennesker fortælle om deres liv på Kærshovedgård Udrejsecenter, hvor de bor på ubestemt tid efter at være blevet nægtet asyl i Danmark. Centrene beskrives som et fængsel, reglerne som umenneskelige, for Kærshovedgård har et specifikt og bevidst udtalt formål: At gøre forholdene så dårlige, at man presser folk til selv at rejse rejse hjem. Lyt med, når vi sammen med tegner, forlægger og en af mange initiativtager til bogen, Erlend Hjortland Sandøy, taler om en bog med stemmer indefra en af de mest uhyggeligste institutioner i Danmark.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57867707/k_rshovedga_rd.mp3</guid>
+			<pubDate>Thu, 30 Nov 2023 19:04:05 +0000</pubDate>
+			<itunes:duration>00:53:11</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57867707/k_rshovedga_rd.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
