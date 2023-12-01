@@ -1657,5 +1657,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>01:39:21</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57793250/no_nose.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Omegalisten Julespecial vol.l 1 - Vi skal ikke glemme hyggen!</title>
+			<link>https://api.spreaker.com/download/episode/57870396/julespecial_1.mp3</link>
+			<description>Juletiden står så småt for døren, og hvis der er nogle som vitterligt kendetegner julen, så er det musikken. I den forbindelse har Stine Omega inviteret et hold af gode musiknørder i studiet til en snak om julens forskellige faser, på godt og ondt og ikke mindst musikken dertil.Episode 1: Om julehyggen - hvordan fejre i jul ? Hvad kendetegner ægte julehygge og hvad er der bedste julehygge nummer? Gæster:Thomas LøppenthinNina MethlingRasmus Bang Nanna Frank Vært: Stine Omega </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57870396/julespecial_1.mp3</guid>
+			<pubDate>Fri, 01 Dec 2023 05:00:03 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57870396/julespecial_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
