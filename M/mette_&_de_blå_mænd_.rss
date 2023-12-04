@@ -1118,5 +1118,18 @@ Producer: Marcus Eklund</description>
 			<itunes:duration>00:53:44</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57795882/mette_og_de_bl_m_nd_d_24_november.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Regeringens Djøf-hykleri, Løkke i intim middag og en teater-finanslov</title>
+			<link>https://api.spreaker.com/download/episode/57875640/mette_og_de_bl_m_nd_d_1_december.mp3</link>
+			<description>Mens regeringen  har givet voksenskældud til kommunerne, fordi de har for mange bureaukrater ansat, er antallet af ansatte i staten bare vokset og vokset. Vi har Cepos i studiet, som har et markant forslag til at stoppe væksten i bureaukratiet. Og så gennemgår vi teatret omkring dette års finanslov, hvor den ene blå leder efter den anden roste julemanden Nicolai Wammen. Og så har har Løkke igen været til middag.
+
+Værter: Sanne Fahnøe og Claes Theilgaard
+Gæst: Karsten Bo Larsen, Cepos
+Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57875640/mette_og_de_bl_m_nd_d_1_december.mp3</guid>
+			<pubDate>Fri, 01 Dec 2023 12:15:11 +0000</pubDate>
+			<itunes:duration>00:53:57</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57875640/mette_og_de_bl_m_nd_d_1_december.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

@@ -2945,5 +2945,16 @@ Vært: Alexander Wils Lorenzen</description>
 			<itunes:duration>00:20:35</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57841106/onsdag.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hævn: Kyler Løkkes klovnehær under bussen</title>
+			<link>https://api.spreaker.com/download/episode/57902128/vid_mandag.mp3</link>
+			<description>Peter Hjorth langer ud efter flere navngivne medlemmer af Moderaterne, herunder Jakob Engel-Schmidt og Jeppe Søe, inden Naser Khader fortæller om sine dårlige erfaringer med at få et nyt parti på skinnerne. Vi kører en tur med den såkaldte klovnebus. 
+
+Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57902128/vid_mandag.mp3</guid>
+			<pubDate>Mon, 04 Dec 2023 08:27:57 +0000</pubDate>
+			<itunes:duration>00:29:12</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57902128/vid_mandag.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

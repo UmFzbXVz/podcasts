@@ -240,5 +240,14 @@
 			<itunes:duration>00:53:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57662422/peter_klippet.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opskriften på at blive So-Me madanmelder med Casper Drømme</title>
+			<link>https://api.spreaker.com/download/episode/57818682/casper_klippet.mp3</link>
+			<description>Ugens gæst er en ægte Vestegns-brumbasse. Han er influencer, podcaster og professionel livsnyder, der lever af at køre rundt i sin bil og anmelde mad. Du kender ham på hans farverige tophuer og linjen “Lad os se hvad det kan”. Han elsker når maden er helt oppe og spille superliga og når madtrolden river ham helt ned i kælderen.  Ugens gæst er:  Casper DrømmeHvorfor anmelder Casper maden i sin bil? Hedder han overhovedet Drømme? Hvad er det værste han har spist og hvorfor er Vestegnen så fedt? Lyt med og få hele Opskriften. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57818682/casper_klippet.mp3</guid>
+			<pubDate>Mon, 04 Dec 2023 04:00:03 +0000</pubDate>
+			<itunes:duration>00:53:27</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57818682/casper_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
