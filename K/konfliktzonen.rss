@@ -3871,5 +3871,17 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:23:28</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57915204/051223_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Krig i Sydamerika?</title>
+			<link>https://api.spreaker.com/download/episode/57925863/061223_konfliktzonen_podcast.mp3</link>
+			<description>Venezuela vil oprette en venezuelansk delstat i Essequibo-regionen. Problemet er bare, at regionen er en del af nabolandet Guyana. Præsident Maduro har afholdt en folkeafstemning, hvor 95 procent af vælgerne har stemt for en annektering. Så nu har Maduro bedt de statslige selskaber om at undersøge udvindingen af den olie og gas, som for nylig blev fundet i Essequibo. 
+Medvirkende: Lasse Yde Hegnet, vært på podcasten Det andet Amerika
+Lise Josefsen Hermann, journalist bosiddende i Ecuador (13:48).
+Vært: Oliver Bærentsen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57925863/061223_konfliktzonen_podcast.mp3</guid>
+			<pubDate>Wed, 06 Dec 2023 08:40:24 +0000</pubDate>
+			<itunes:duration>00:22:30</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57925863/061223_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
