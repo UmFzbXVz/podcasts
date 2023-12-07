@@ -3883,5 +3883,18 @@ Vært: Oliver Bærentsen.</description>
 			<itunes:duration>00:22:30</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57925863/061223_konfliktzonen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Wagners afrikanske fremtid</title>
+			<link>https://api.spreaker.com/download/episode/57937184/konfliktzonen_0712.mp3</link>
+			<description>Yevgeny Prigozjins død har efterladt et tomrum for den russiske Wagner-gruppe. Særligt i afrikanske lande er der usikkerhed om, hvem der egentlig har kontrollen her tre måneder efter Prigozjin døde i et flystyrt. Vi besøger Den Centralafrikanske Republik, hvor Wagner-gruppen lige nu sørger for at præsidenten kan fastholde magten. 
+Medvirkende:
+Niklas Rendboe, projektforsker ved Forsvarsakademiet med speciale i Wagner-gruppen. 
+Thomas Mandrup, lektor på Institut for Strategi og Krigsstudier ved Forsvarsakademiet. 
+Vært: Alexander Wils Lorenzen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57937184/konfliktzonen_0712.mp3</guid>
+			<pubDate>Thu, 07 Dec 2023 08:46:01 +0000</pubDate>
+			<itunes:duration>00:23:34</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57937184/konfliktzonen_0712.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
