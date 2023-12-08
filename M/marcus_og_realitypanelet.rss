@@ -555,5 +555,14 @@
 			<itunes:duration>00:53:57</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57862411/sabrina_og_mark.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Special: Mai Manniche: &quot;DERFOR ER JEG OMDISKUTERET!&quot;</title>
+			<link>https://api.spreaker.com/download/episode/57940294/mai_manniche_special.mp3</link>
+			<description>Mai Manniche er denne måneds special-gæst. Marcus undersøger nærmere hvem Mai Manniche i virkeligheden er. Hvad tænker hun om internettet, kærlighedsliv og hendes virksomhed. For har Mai Manniche en hård skal eller er der også et mere sårbart menneske bag? Din vært er Marcus Eklund og du er med på en lytter.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57940294/mai_manniche_special.mp3</guid>
+			<pubDate>Fri, 08 Dec 2023 05:00:03 +0000</pubDate>
+			<itunes:duration>00:51:40</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57940294/mai_manniche_special.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
