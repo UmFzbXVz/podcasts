@@ -447,5 +447,14 @@
 			<itunes:duration>01:23:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57748531/mnps_s05e04_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>S05E05 Yoga - Bliver man en bedre person af at dyrke yoga?</title>
+			<link>https://api.spreaker.com/download/episode/57919140/s05e05_podcast.mp3</link>
+			<description>I denne episode tager Ida og Jon til Gentofte og besøger Nana, der er uddannet filosof og forsker i sundhed, men ikke desto mindre også er blevet yoga-instruktør oven i. Det giver anledning til større og lidt filosofiske spørgsmål end ellers: Kan man adskille de medfølgende tanker fra praksissen på måtten og hvorfor yoga ikke bare er noget,man gør, men man dyrker. Det bliver til to meget forskellige, men dog værdifulde oplevelser, som giver masser at tale om for Jon og Ida.Tilrettelægger og værter: Jon Bjarnhof &amp; Ida NeubertGæster: Nana Cecilie Halmsted KongsholmTekniker &amp; klipper: Jon Bjarnhof</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57919140/s05e05_podcast.mp3</guid>
+			<pubDate>Mon, 11 Dec 2023 06:00:03 +0000</pubDate>
+			<itunes:duration>01:25:55</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57919140/s05e05_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

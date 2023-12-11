@@ -160,5 +160,14 @@
 			<itunes:duration>00:51:41</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57860638/gonzo17.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 18: Årets Rasmus Bruun 2023</title>
+			<link>https://api.spreaker.com/download/episode/57970937/gonzo18.mp3</link>
+			<description>I studiet er Rasmus Bruun 2.0  Hvad der foregår er en hemmelighed, som måske aldrig vil blive afsløret. Men man kan høre drøftelsen af den hemmelige proces under indflydelse af såkaldt blåbær-lambic.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57970937/gonzo18.mp3</guid>
+			<pubDate>Mon, 11 Dec 2023 07:32:52 +0000</pubDate>
+			<itunes:duration>00:58:28</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57970937/gonzo18.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
