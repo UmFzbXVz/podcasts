@@ -1914,5 +1914,14 @@
 			<itunes:duration>01:05:03</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57918421/rtpod.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Dansk banecykling og gaveregn</title>
+			<link>https://api.spreaker.com/download/episode/57984024/rt_pod_1212.mp3</link>
+			<description>Føtex-Jørgen er med som ugens gæst til en snak om bl.a. dansk banecykling.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57984024/rt_pod_1212.mp3</guid>
+			<pubDate>Tue, 12 Dec 2023 13:17:32 +0000</pubDate>
+			<itunes:duration>01:03:09</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57984024/rt_pod_1212.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
