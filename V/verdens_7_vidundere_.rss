@@ -432,5 +432,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:20:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57336249/v7v_bedste_danske_film.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 største etaper i Tour de France</title>
+			<link>https://api.spreaker.com/download/episode/58001515/v7v_tour_de_france.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58001515/v7v_tour_de_france.mp3</guid>
+			<pubDate>Thu, 14 Dec 2023 03:00:03 +0000</pubDate>
+			<itunes:duration>01:16:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58001515/v7v_tour_de_france.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
