@@ -1144,5 +1144,18 @@ Producer: Marcus Eklund</description>
 			<itunes:duration>00:53:51</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57951218/mette_og_de_bl_m_nd_8_december.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Heunicke mobbet for inaktivitet, Paludans teaterstykke og ny sag om kæresteforhold til 15-årig</title>
+			<link>https://api.spreaker.com/download/episode/58017590/mette_og_de_bl_m_nd_15_december.mp3</link>
+			<description>Havets minister har indkaldt til nul forhandlinger, selvom krisen i havet er lige så stor som coronakrisen, fortæller B.T.s Peter Astrup. Eller hov, for efter journalisten henvendte sig til Miljøministeriet, blev der lige pludselig indkaldt til forhandlinger otte timer senere - for første gang i regeringens levetid. Sammentræf? Og så taler vi med Alexander Wils Lorenzen, der har lavet historien om Rasmus Paludans nye virke som teatermand.
+
+Værter: Anna Thygesen og Sanne Fahnøe
+Gæster: Alexander Wils Lorenzen, politisk redaktør, og Peter Astrup, politisk journalist på B.T.
+Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58017590/mette_og_de_bl_m_nd_15_december.mp3</guid>
+			<pubDate>Fri, 15 Dec 2023 11:25:49 +0000</pubDate>
+			<itunes:duration>00:53:47</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58017590/mette_og_de_bl_m_nd_15_december.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

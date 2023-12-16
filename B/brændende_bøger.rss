@@ -438,5 +438,14 @@
 			<itunes:duration>00:51:44</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57942111/verden_af_i_ga_r.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Pigedyr</title>
+			<link>https://api.spreaker.com/download/episode/57992868/pigedyr.mp3</link>
+			<description>I 2022 udkommer den danske forfatter, Cecilie Lind, med “Pigedyr”. En bog, der ofte er blevet kaldt en Lolita-fortælling set fra pigens perspektiv. I bogen følger vi nemlig Sara, der fortæller om hendes problematiske og ret klaustrofobiske barndom og teenage-år, om hendes destruktive venskab med veninden Rosa, og frem for alt, hendes forelskelser i to mænd, langt ældre end hende selv. Hun begærer mændene, bruger bevidst sin seksuelle magt over dem, mens føler sig samtidig spærret inde i deres ejerfornemmelser, begær og manglende evne til at passe på hende. Lyt med, når vi spørger Cecilie Lind, hvad gør det ved et menneske at føle sig seksuelt begæret og objektiviseret. Hvordan både skønhed og seksualitet kan omsættes til magt. Hvorfor de unge piger begærer at blive begæret, og at vores samfund og kultur stadig er så fikseret på den purunge pige.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57992868/pigedyr.mp3</guid>
+			<pubDate>Thu, 14 Dec 2023 17:10:02 +0000</pubDate>
+			<itunes:duration>00:53:25</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57992868/pigedyr.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

@@ -564,5 +564,14 @@
 			<itunes:duration>00:51:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57940294/mai_manniche_special.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Julespecial: Boris Hjort, Nicolai Lydiksen &amp;amp; Morten Damstoft: &quot;JEG ØNSKER MIG ET BEDRE SELVVÆRD!&quot;</title>
+			<link>https://api.spreaker.com/download/episode/57986297/bachelorette_julefrokost.mp3</link>
+			<description>Det jul og det fejrer vi hos Marcus og Realitypanelet. Ligesom sidste år stikker julespecialen selvfølgelig af og kaos fylder rummet. Nicolai og Boris måler pik, imens Morten stille kigger på. Selvom der er en masse sjov og ballade, er der også plads til de følsomme sider. Bachelorette drengene mester det, og vi får nogle erfaringer på bordet der aldrig er hørt før. Din vært er Marcus Eklund og du er med på en lytter.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57986297/bachelorette_julefrokost.mp3</guid>
+			<pubDate>Fri, 15 Dec 2023 05:00:03 +0000</pubDate>
+			<itunes:duration>00:54:22</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57986297/bachelorette_julefrokost.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
