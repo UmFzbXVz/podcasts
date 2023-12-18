@@ -1693,5 +1693,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>01:47:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58011312/kim_rock.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Omegalisten julespecial vol. 3 Julefred eller juletraumer ?</title>
+			<link>https://api.spreaker.com/download/episode/57970584/jul_episode_3.mp3</link>
+			<description>Hvad er dit mest tydeligste juleminde? Det spørgsmål stiller Stine Omega hendes top tunet panel i den sidste podcast om julen på godt og ondt, tilsat en masse musik. Panelet består af:Nina MethingRasmus BangThomas LøppenthinNana Frank</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57970584/jul_episode_3.mp3</guid>
+			<pubDate>Sun, 17 Dec 2023 09:48:10 +0000</pubDate>
+			<itunes:duration>00:53:59</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57970584/jul_episode_3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

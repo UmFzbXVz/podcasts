@@ -3044,5 +3044,20 @@ Vært: Jacob Pedersen</description>
 			<itunes:duration>00:29:38</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57993045/onsdag1212.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Julespecial: Med Lars Løkke på toilettet</title>
+			<link>https://api.spreaker.com/download/episode/58017127/vid_highlights_mandag_podcast.mp3</link>
+			<description>Valgt i Danmarks tid lakker mod enden. Derfor ser vi frem mod jul tilbage på nogle af programmets højdepunkter. Hør blandt andet om folketingsvalgkampens største fadæse, politiske hyklerier og et toiletbesæg med Lars Løkke Rasmussen. 
+
+Værter: 
+Alexander Wils Lorenzen 
+Peter Schwarz-Nielsen 
+Oliver Bærentsen 
+Jacob Pedersen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58017127/vid_highlights_mandag_podcast.mp3</guid>
+			<pubDate>Mon, 18 Dec 2023 04:00:03 +0000</pubDate>
+			<itunes:duration>00:27:32</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58017127/vid_highlights_mandag_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

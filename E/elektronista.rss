@@ -4385,5 +4385,14 @@ I program #18 snakkede Christiane Vejlø om techfinanser med direktør for Hande
 			<itunes:duration>00:55:30</itunes:duration>
 			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/180107/3837753-audio.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>#52 Elektronista Juleprogram 2023</title>
+			<link>https://api.spreaker.com/download/episode/58045173/52_elektronista_juleprogram_2023.mp3</link>
+			<description>Så er den her. Absolut Elektronista julehygge podcasten 2023. Og ja naturligvis for 12 år i træk med Clara Mai Kunstmann og Susanna Rankenberg. Eksklusiv backstage information om R8dio, hunden Ulla, gadget julegaver, årets film, serier og søgninger. Links til Susannas talk anbefalinger. https://theconference.se/ Link til Christianes bog Argumenter for mennesker. argumenterformennesker.elektronista.dk Link til R8dio https://r8dio.dk/</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58045173/52_elektronista_juleprogram_2023.mp3</guid>
+			<pubDate>Mon, 18 Dec 2023 11:27:49 +0000</pubDate>
+			<itunes:duration>01:27:09</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58045173/52_elektronista_juleprogram_2023.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
