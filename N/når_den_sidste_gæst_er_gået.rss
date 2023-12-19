@@ -429,5 +429,14 @@
 			<itunes:duration>01:06:51</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57932773/kender_du_g_stetypen_3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Branchens Brevkasse #4: Chefer på gulvet, En flad i ansigtet, og Undertøj i personalegave d</title>
+			<link>https://api.spreaker.com/download/episode/58043585/fiona_og_ida.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58043585/fiona_og_ida.mp3</guid>
+			<pubDate>Tue, 19 Dec 2023 03:00:02 +0000</pubDate>
+			<itunes:duration>01:04:34</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58043585/fiona_og_ida.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
