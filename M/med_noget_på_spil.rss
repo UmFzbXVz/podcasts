@@ -456,5 +456,14 @@
 			<itunes:duration>01:25:55</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57919140/s05e05_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>S5E06 - Vær med på holdet - for dig selv eller din ven!</title>
+			<link>https://api.spreaker.com/download/episode/58085164/mnps_s05e06_podcast.mp3</link>
+			<description>I denne sidste omgang af Med Noget På Spil har Ida og Jon som noget inviteret to kloge gæster i studiet i stedet for at tage ud og prøve noget nyt. Først tager de en god snak med - og får et par gode historier med på vejen fra en coach, for derefter at tage et par skridt sammen med en psykolog mod nogle af de oplagte faldgruber, når motivationen er lav. Det bliver til en samtale om, hvad der sker, når vi gør nye ting og hvorfor det er vigtigt.Tilrettelægger og værter: Jon Bjarnhof &amp; Ida NeubertGæster: Henrik Leth &amp; Kamilla LangeTekniker &amp; klipper: Jon Bjarnhof</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58085164/mnps_s05e06_podcast.mp3</guid>
+			<pubDate>Mon, 25 Dec 2023 06:00:03 +0000</pubDate>
+			<itunes:duration>01:29:45</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58085164/mnps_s05e06_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

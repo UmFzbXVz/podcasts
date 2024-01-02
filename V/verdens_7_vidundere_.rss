@@ -441,5 +441,14 @@ Producer og teknikker: Teis Zacho</description>
 			<itunes:duration>01:16:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58001515/v7v_tour_de_france.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>De 7 vigtigste reformer i Islam</title>
+			<link>https://api.spreaker.com/download/episode/58138307/islam.mp3</link>
+			<description>Gæst: Sherin Khankan“Sæt dig, vær tavs - og lyt. For du er beruset og vi er ved tagets kant.”, således skriver den sufistiske digter Rumi midt i 1300-tallet og opfordringen skal lyde til alle her ved overgangen til et nyt år. Sæt dig, vær tavs og lyt og tag bestik af verden og dig selv. Det forsøger jeg i dagens episode af VERDENS 7 VIDUNDERE, hvor gæsten er Imam SHERIN KHANKAN og hvor samtalen drejer sig om DE 7 VIGTIGSTE REFORMER I ISLAM. Godt nytår!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58138307/islam.mp3</guid>
+			<pubDate>Fri, 29 Dec 2023 03:00:02 +0000</pubDate>
+			<itunes:duration>01:16:16</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58138307/islam.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

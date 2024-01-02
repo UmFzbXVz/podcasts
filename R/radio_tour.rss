@@ -1923,5 +1923,14 @@
 			<itunes:duration>01:03:09</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57984024/rt_pod_1212.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Frankrigs betydning for cykelsporten</title>
+			<link>https://api.spreaker.com/download/episode/58119998/rtpod_1.mp3</link>
+			<description>Frankrigs betydning for cykelsporten</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58119998/rtpod_1.mp3</guid>
+			<pubDate>Tue, 26 Dec 2023 09:34:41 +0000</pubDate>
+			<itunes:duration>01:05:03</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58119998/rtpod_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

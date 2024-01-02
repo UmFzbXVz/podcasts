@@ -3068,5 +3068,42 @@ Jacob Pedersen</description>
 			<itunes:duration>00:27:26</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58017413/best_of_vid_tirsdag_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Navlepilleri og højdepunkter</title>
+			<link>https://api.spreaker.com/download/episode/58083569/vid_slut.mp3</link>
+			<description>Valgt i Danmark har sendt for sidste gang. Dermed forsvinder et anderledes politisk magasin, der har bestræbt sig på at stille de spørgsmål, etablerede medier ikke stiller, og gøre tingene med kant og bid. I denne udsendelse kan du høre de bedste, skæveste og sjoveste indslag fra programmets levetid.
+
+Værter: 
+
+Alexander Wils Lorenzen
+
+Oliver Bærentsen 
+
+Peter Schwarz-Nielsen
+
+Jacob Pedersen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58083569/vid_slut.mp3</guid>
+			<pubDate>Wed, 27 Dec 2023 04:45:02 +0000</pubDate>
+			<itunes:duration>02:01:42</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58083569/vid_slut.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Julespecial: Da Anders Vistisen blev tyret under bussen af brormand</title>
+			<link>https://api.spreaker.com/download/episode/58046996/den_allersidste_dans_vid.mp3</link>
+			<description>Den uigenkaldeligt sidste udgave af Valgt i Danmark er ude. Vi slutter af med interviewet, der blacklistede os i Dansk Folkeparti.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58046996/den_allersidste_dans_vid.mp3</guid>
+			<pubDate>Thu, 21 Dec 2023 04:00:03 +0000</pubDate>
+			<itunes:duration>00:36:27</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58046996/den_allersidste_dans_vid.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Julespecial: Lex Paludan</title>
+			<link>https://api.spreaker.com/download/episode/58017670/best_of_onsdag_podcast.mp3</link>
+			<description>Valgt i Danmark lakker mod enden, og derfor bruger vi de sidste dage op til jul på at se tilbage på nogle af programmets højdepunkter. i dagens program kommer vi blandt andet med Rasmus Paludan i safehouse.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58017670/best_of_onsdag_podcast.mp3</guid>
+			<pubDate>Tue, 19 Dec 2023 23:00:03 +0000</pubDate>
+			<itunes:duration>00:28:34</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58017670/best_of_onsdag_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

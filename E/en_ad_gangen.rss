@@ -348,5 +348,14 @@
 			<itunes:duration>00:33:39</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57662990/skolereform3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Opsamling på 2023</title>
+			<link>https://api.spreaker.com/download/episode/58044811/opsamling3.mp3</link>
+			<description>I denne episoder samler vi lidt op på året der er gået i En ad gangen. Vi har været vidt omkring her i 2023. Der har været en masse forskellige gæster forbi studiet, som har delt deres tanker, bekymringer og håb for det samfund vi lever i. Hvis du kigger tilbage i vores podcast katalog, vil du finde programmer der handler, om hvordan unge tilgår arbejdsmarkedet, om unge kvinder med ADHD, om hvorfor valgretsalderen til Europa Parlaments valget måske skal sænkes og meget mere. I den her opsamling kan du høre klip fra fire forskellige programmer, der blev sendt i 2023.Ungdomsbureauet ser nærmere på forskellige aspekter af ungdomslivet. Din vært Gunvor Barkholt dykker ned i nogle af de bekymringer, tanker og drømme der fylder hos ungdommen. Med andre ord, så ser vi nærmere på unges udfordringer og muligheder – En ad gangen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58044811/opsamling3.mp3</guid>
+			<pubDate>Wed, 20 Dec 2023 06:00:03 +0000</pubDate>
+			<itunes:duration>00:31:25</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58044811/opsamling3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

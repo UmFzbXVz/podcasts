@@ -169,5 +169,14 @@
 			<itunes:duration>00:58:28</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57970937/gonzo18.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 19: Helt til månen (julestue)</title>
+			<link>https://api.spreaker.com/download/episode/58119623/gonzo19.mp3</link>
+			<description>René præsenterer en top ti over Facebookopslag, han overvejede at poste i 2023, men undlod.Alt imens Anders in real time komponerer og fremfører et topmoderne autotunes-hit (!) Der er med andre ord julestue i Gonzohulen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58119623/gonzo19.mp3</guid>
+			<pubDate>Tue, 26 Dec 2023 07:23:54 +0000</pubDate>
+			<itunes:duration>00:38:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58119623/gonzo19.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

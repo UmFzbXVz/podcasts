@@ -394,5 +394,23 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57994103/24syv_s2_a21_noget_om_musikbranchen_kreativitet_og_karriere_med_jakob_d_ssing_gunnertoft.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Nytårsspecial</title>
+			<link>https://api.spreaker.com/download/episode/58144892/24syv_s2_a23_nyt_rsspecial_podcast.mp3</link>
+			<description>GODT NYTÅR! I dag inviterer vi vores kære ven og kollega Mikkel Mortensen i studiet, hvor vi gennemgår hvad året har bydt på, samt snakker om hvad der skal ske i 2024. Vi glæder os!Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58144892/24syv_s2_a23_nyt_rsspecial_podcast.mp3</guid>
+			<pubDate>Sun, 31 Dec 2023 10:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58144892/24syv_s2_a23_nyt_rsspecial_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Noget om Julespecial</title>
+			<link>https://api.spreaker.com/download/episode/58064895/24syv_s2_a22_jul_podcast.mp3</link>
+			<description>NU DET JUL! I denne uge får vi Kenni fra Smugler på besøg igen, til at læse juleevangeliet og lave en lille julesang med os. Det bliver hyggeligt! Glædelig jul, hvis I fejrer det! Ellers så dejlig ferie til jer!:)Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58064895/24syv_s2_a22_jul_podcast.mp3</guid>
+			<pubDate>Sun, 24 Dec 2023 10:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58064895/24syv_s2_a22_jul_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

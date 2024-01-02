@@ -1157,5 +1157,31 @@ Producer: Marcus Eklund</description>
 			<itunes:duration>00:53:47</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58017590/mette_og_de_bl_m_nd_15_december.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Årets politiske skandaler</title>
+			<link>https://api.spreaker.com/download/episode/58145161/mette_og_de_bl_m_nd_291223.mp3</link>
+			<description>Vi kårer årets største politiske skandale og kommer omkring både FE-sagen, Mike Fonseca, Hummelgaards parkeringssag, havets lidelser og kræftskandalen - samt et par stykker til. Hvad er den største skandale i år, og er Sanne og Niels Jespersen enige? 
+
+Værter: Sanne Fahnøe og Niels Jespersen, Netavisen Pio
+Producer: Samuel Krogh Larsen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58145161/mette_og_de_bl_m_nd_291223.mp3</guid>
+			<pubDate>Fri, 29 Dec 2023 11:50:43 +0000</pubDate>
+			<itunes:duration>00:53:48</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58145161/mette_og_de_bl_m_nd_291223.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Året der gik i dansk politik med special guest star</title>
+			<link>https://api.spreaker.com/download/episode/58094503/24syv_on_air_archive_mp3_2023_12_22_10_06_07.mp3</link>
+			<description>Vi skal quizze! Silas Moody er i studiet, programmets gode ven og tidligere journalist, og han har forberedt en quiz til Anna og Sanne, om året der gik i dansk politik. Og så kommer special guest star Simon Emil Ammitzbøll-Bille forbi og deltager i quizzen. Kan du gætte med?
+
+
+Værter: Anna Thygesen og Sanne Fahnøe
+Gæster: Silas Moody, Niels Jespersen og Simon Emil Ammitzbøll-Bille
+Producer: Samuel Krogh Larsen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58094503/24syv_on_air_archive_mp3_2023_12_22_10_06_07.mp3</guid>
+			<pubDate>Fri, 22 Dec 2023 11:07:45 +0000</pubDate>
+			<itunes:duration>00:53:51</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58094503/24syv_on_air_archive_mp3_2023_12_22_10_06_07.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
