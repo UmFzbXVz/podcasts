@@ -1923,5 +1923,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:54:06</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57922629/katinka_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Oscars Nekrolog: 1000 grunde til at give op</title>
+			<link>https://api.spreaker.com/download/episode/57921972/oscar_stream.mp3</link>
+			<description>Oscar har i løbet af sit liv mødt over 1000 grunde til at givet op. Mange af grundende fandt han på jobcentret, i psykiatrien og i sine unge år, med hash og besøg på Jagtvej 69. Alligevel leder Oscar hver dag efter grundende til, at være glad for livet. Hør med i dag for at finde ud af, hvor han leder efter dem henne.  </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57921972/oscar_stream.mp3</guid>
+			<pubDate>Tue, 02 Jan 2024 21:00:03 +0000</pubDate>
+			<itunes:duration>00:53:56</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57921972/oscar_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
