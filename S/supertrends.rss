@@ -476,5 +476,14 @@ Jakob Lave - LinkedInTilrettelægger: Liselotte Lyngsø og Denis Rivin - LinkedI
 			<itunes:duration>00:52:45</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58057659/st_iv_rks_tteri_mixdown_16_lufs.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>AI</title>
+			<link>https://api.spreaker.com/download/episode/58207945/supertrends_ai.mp3</link>
+			<description>_</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58207945/supertrends_ai.mp3</guid>
+			<pubDate>Sun, 07 Jan 2024 06:00:03 +0000</pubDate>
+			<itunes:duration>00:53:31</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58207945/supertrends_ai.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
