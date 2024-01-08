@@ -412,5 +412,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58064895/24syv_s2_a22_jul_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om det nye år</title>
+			<link>https://api.spreaker.com/download/episode/58206274/24syv_s2_a24_noget_om_det_nye_r_podcast.mp3</link>
+			<description>I denne uge snakker vi om hvad der kommer til at ske i det nye år for Griner Hele Vejen til Branchen og Syncopation Studios, som er det studiefællesskab vi styrer sammen med Mikkel Mortensen. Vi kommer også til at berøre den koncert vi afholder den 16 marts 2024, herunde hvordan vi har søgt midler til afvikling. Det bliver fedt!Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58206274/24syv_s2_a24_noget_om_det_nye_r_podcast.mp3</guid>
+			<pubDate>Sun, 07 Jan 2024 10:00:02 +0000</pubDate>
+			<itunes:duration>00:53:51</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58206274/24syv_s2_a24_noget_om_det_nye_r_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
