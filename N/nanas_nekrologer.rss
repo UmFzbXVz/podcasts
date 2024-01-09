@@ -1932,5 +1932,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:56</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57921972/oscar_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Isabellas Nekrolog: En tango med livet</title>
+			<link>https://api.spreaker.com/download/episode/57922400/isabella_stream.mp3</link>
+			<description>Isabellas liv har ikke altid været en dans på roser. Der var depression og angst, som Isabella kun fik ro fra, når hun dansede. Så det gjorde hun. Isabella dansede til hun blev professionel, til hun så solnedgangen og til hun blev glad igen. Hør Isabellas vej til det liv hun ikke altid drømte om, men nu elsker, i dagens afsnit.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57922400/isabella_stream.mp3</guid>
+			<pubDate>Mon, 08 Jan 2024 21:00:02 +0000</pubDate>
+			<itunes:duration>00:53:47</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/57922400/isabella_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

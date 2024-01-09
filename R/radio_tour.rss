@@ -1932,5 +1932,14 @@
 			<itunes:duration>01:05:03</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58119998/rtpod_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Van Aert vs. Van der Poel og EM i banecykling</title>
+			<link>https://api.spreaker.com/download/episode/58230624/radiotour_080124_1.mp3</link>
+			<description>I denne uge er Jesper Mørkøv med som gæst i Radio Tour studiet til en snak om bl.a. Van Aert vs. Van der Poel.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58230624/radiotour_080124_1.mp3</guid>
+			<pubDate>Mon, 08 Jan 2024 14:20:30 +0000</pubDate>
+			<itunes:duration>01:01:19</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58230624/radiotour_080124_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
