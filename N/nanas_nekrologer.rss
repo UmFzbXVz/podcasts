@@ -1941,5 +1941,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:47</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/57922400/isabella_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Jeppes Nekrolog: Man kan aldrig være for meget sig selv, kun for lidt</title>
+			<link>https://api.spreaker.com/download/episode/58038843/jeppe_stream.mp3</link>
+			<description>Efter endt optagelse har Jeppe bedt mig knytte endnu et svar til et af spørgsmålene jeg stilte ham. Såfremt Jeppe virkelig skulle dø i morgen, ville han fortryde, ikke at have mødt Burhan G. Hav venligst dette in mente, når du høre dagens afsnit.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58038843/jeppe_stream.mp3</guid>
+			<pubDate>Tue, 09 Jan 2024 21:00:02 +0000</pubDate>
+			<itunes:duration>00:53:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58038843/jeppe_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
