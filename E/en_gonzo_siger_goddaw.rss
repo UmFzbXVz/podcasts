@@ -178,5 +178,14 @@
 			<itunes:duration>00:38:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58119623/gonzo19.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 20: Stram bagkant</title>
+			<link>https://api.spreaker.com/download/episode/58263404/gonzo20.mp3</link>
+			<description>Vi afrunder sæsonen med hele to breaking news-gule bjælker fra bunken med kultur-rariteter.   Er det Sussi uden Leo model på en brille-reklame?  Får Johnny Madsen royalties fra citatplakat.dk? Desuden får du som lytter fri adgang til GRATIS at benytte den ene af disse to sprogblomster fra Fredensborg-familiens håndDu kan vælge mellem: ‘Fisse, fadøl og fast arbejde’ eller: ‘Selvkontrol er godt. Kontrol af andre ikke godt’.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58263404/gonzo20.mp3</guid>
+			<pubDate>Thu, 11 Jan 2024 12:29:32 +0000</pubDate>
+			<itunes:duration>00:50:03</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58263404/gonzo20.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

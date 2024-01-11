@@ -474,5 +474,14 @@
 			<itunes:duration>00:52:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58199569/dante.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Harry Potter</title>
+			<link>https://api.spreaker.com/download/episode/58266734/harry.mp3</link>
+			<description>Kan du forestille dig en verden uden Harry Potter? Uden Hogwarts, Dumbledore og Voldemort? Siden “Harry Potter og de vise sten” udkom tilbage i 1997, har millioner af børn og unge mennesker delt en helt unik og magisk forestillingsverden. Bogserien blev lynhurtigt til den mest sælgende nogensinde; samtidig fik fantasy-genren et selvtillidsboost, der måske aldrig før er set, imens millioner af Harry Potter-fans stadig i dag taler om bøgerne som den største læseoplevelse i deres liv. Lyt med, når vi sammen med litterat og fan, Klaus Brix Andersen, taler om hvorfor og hvordan barnet med lynet i panden påvirkede en hel generation.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58266734/harry.mp3</guid>
+			<pubDate>Thu, 11 Jan 2024 17:11:45 +0000</pubDate>
+			<itunes:duration>00:52:43</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58266734/harry.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
