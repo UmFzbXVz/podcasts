@@ -1950,5 +1950,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:53:49</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58038843/jeppe_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvornår grinte du sidst? #5</title>
+			<link>https://api.spreaker.com/download/episode/58039118/grinte_sidst_5_stream.mp3</link>
+			<description>Lærke griner altid, når hun børster tænder. Lauge griner af pinlighed når han ser Love Is Blind. Og sidste gang Liva blev ramt af et grineflip, var da hun var på sit laveste, koldeste og mørkeste. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58039118/grinte_sidst_5_stream.mp3</guid>
+			<pubDate>Mon, 15 Jan 2024 21:00:02 +0000</pubDate>
+			<itunes:duration>00:31:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58039118/grinte_sidst_5_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
