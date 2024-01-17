@@ -1941,5 +1941,14 @@
 			<itunes:duration>01:01:19</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58230624/radiotour_080124_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Medaljehøst til EM og Tour Down Under</title>
+			<link>https://api.spreaker.com/download/episode/58327183/radiotour_150124_podcast.mp3</link>
+			<description>Radio Tour-studiet har igen besøg af Jesper Mørkøv til en snak om det netop afsluttede EM i banecykling, hvor der var gode danskerpræstationer.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58327183/radiotour_150124_podcast.mp3</guid>
+			<pubDate>Wed, 17 Jan 2024 08:20:51 +0000</pubDate>
+			<itunes:duration>01:02:09</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58327183/radiotour_150124_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
