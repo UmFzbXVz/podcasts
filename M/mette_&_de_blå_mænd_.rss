@@ -1209,5 +1209,18 @@ Producer: Pola Rojan Bagger</description>
 			<itunes:duration>00:53:44</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58273160/mbm_12jan_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Er Pernille Vermund levebrødspolitiker, for lidt Gud i Kongens vokabularium, og så er Troels Lund igen endt i sag om Rolex-ure</title>
+			<link>https://api.spreaker.com/download/episode/58365185/mette_og_de_bl_m_nd_19_januar.mp3</link>
+			<description>Igen et hæsblæsende show! Der er for lidt Gud i den nye konge, mener den Konservative rådmand på Frederiksberg Nikolaj Bøgh, der dog er mere rolig, efter at Kongen har sat ord på sin tro i bogen Kongeord, som Anna Thygesen i øvrigt anmelder. Andreas Karker tegner et portræt af Pernille Vermund, og tidligere LA- kronprins Simon Emil Ammitzbøll-Bille kommer forbi og forklarer, hvorfor han måtte 'gå op og lægge sig,' da han hørte, Vermund havde skiftet til LA.
+
+Værter: Anna Thygesen og Sanne Fahnøe
+Gæster: Andreas Karker, Nikolaj Bøgh og Simon Emil Ammitzbøl-Bille
+Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58365185/mette_og_de_bl_m_nd_19_januar.mp3</guid>
+			<pubDate>Fri, 19 Jan 2024 12:14:03 +0000</pubDate>
+			<itunes:duration>00:53:51</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58365185/mette_og_de_bl_m_nd_19_januar.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
