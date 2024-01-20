@@ -187,5 +187,14 @@
 			<itunes:duration>00:50:03</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58263404/gonzo20.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Afsnit 21: Janteloven skal ikke tro, den er noget.</title>
+			<link>https://api.spreaker.com/download/episode/58378340/en_gonzo_g_r_hvad_den_kan_1.mp3</link>
+			<description>Janteloven skal ikke tro, den er noget. Det er den omvendte Kejserens Nye Klæder. Af begge årsager skal der også være plads til Barbie-feminister, lyder det blandt andet i denne lørdagsanalyse af Diez-sagen. René fortæller for første gang om sit allerførste møde med ugens mest omtalte person. Desuden en udvidet genudsendelse af dengang, René blev cockblocket af Ulrich Thomsen i et scoringsforsøg på en meget kendt sangerinde. Dette er faktisk sæsonpremerien på 'En Gonzo giver aldrig op', men det er blevet virkelig svært at navnegive og finde rundt i titler, sæsoner, afsnitnummer osv.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58378340/en_gonzo_g_r_hvad_den_kan_1.mp3</guid>
+			<pubDate>Sat, 20 Jan 2024 08:14:51 +0000</pubDate>
+			<itunes:duration>00:43:43</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58378340/en_gonzo_g_r_hvad_den_kan_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
