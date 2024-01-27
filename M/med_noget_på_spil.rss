@@ -465,5 +465,23 @@
 			<itunes:duration>01:29:45</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58085164/mnps_s05e06_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>S6E01 - De 40 frivillige - I ungdomspolitik</title>
+			<link>https://api.spreaker.com/download/episode/58430217/s06e01_podcast.mp3</link>
+			<description>I dette første afsnit af den nye 6. Sæson af Med Noget På Spil har Ida og Jon inviteret Ingrid Rabek og Karoline Roder, der begge er engageret som frivillige i ungdomspolitik. Uden at snakke så meget om deres repsektive holdninger, så fortæller de om, hvordan de startede i henholdsvis Konservativ ungdom og Rød/Grøn ungdom og hvad det har ført med sig af gode erfaringer, venner samt modgang og et par hårde kommentarer. Hør dem svare på om, alle burde være engagerede i ungdomspolitik eller om, der måske er områder, hvor det kan være svært.Tilrettelægger og værter: Jon Bjarnhof &amp; Ida NeubertGæster: Ingrid Rabek &amp; Karoline RoderTekniker &amp; klipper: Jon Bjarnhof</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58430217/s06e01_podcast.mp3</guid>
+			<pubDate>Thu, 25 Jan 2024 14:30:02 +0000</pubDate>
+			<itunes:duration>01:08:16</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58430217/s06e01_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Teaser - De 40 frivillige</title>
+			<link>https://api.spreaker.com/download/episode/58430433/teaser_mnps_s06_2024_10_01.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58430433/teaser_mnps_s06_2024_10_01.mp3</guid>
+			<pubDate>Wed, 24 Jan 2024 13:30:41 +0000</pubDate>
+			<itunes:duration>00:00:47</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58430433/teaser_mnps_s06_2024_10_01.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

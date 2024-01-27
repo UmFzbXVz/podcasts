@@ -492,5 +492,14 @@
 			<itunes:duration>00:53:24</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58345877/fagre_nye_verden_vs_1984.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Kongens Fald</title>
+			<link>https://api.spreaker.com/download/episode/58445132/kongens_fald.mp3</link>
+			<description>Selv når man er færdig med at læse Johannes V. Jensens klassiker fra 1901, kan man godt være  i tvivl om, hvad man lige har læst, hvad den rent faktisk handlede om. Alligevel er bogen flere gange blevet udråbt til den bedste danske roman fra det 20. århundrede. Billedsproget, metaforerne og musikaliteten i teksten fremhæves som noget af det vildeste i det danske sprog. Samtidig følger vi den hævngærrige drømmer Mikkel Thøgersen, som ved siden af Kong Christian d. 2. oplever nogle af de største begivenheder i Danmarkshistorien ved siden af Christian d. 2. Men hvorfor er det så svært at få hold på handlingen? Hvorfor fokuserer Jensen så meget tilværelsens mest dystre fænomener i form af hævn, mord, voldtægt, krig, meningsløshed, død? Og er det Danmarks bedste roman?</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58445132/kongens_fald.mp3</guid>
+			<pubDate>Thu, 25 Jan 2024 17:05:01 +0000</pubDate>
+			<itunes:duration>00:53:53</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58445132/kongens_fald.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

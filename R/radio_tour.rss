@@ -1950,5 +1950,14 @@
 			<itunes:duration>01:02:09</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58327183/radiotour_150124_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Pressechefer og menneskelige cykelryttere</title>
+			<link>https://api.spreaker.com/download/episode/58442581/radiotour_220124_1.mp3</link>
+			<description>I Radio Tour studiet har holdet besøg af Ekstra Bladets sportschef Camilla Boraghi, som har en stor interesse i cykelsporten.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58442581/radiotour_220124_1.mp3</guid>
+			<pubDate>Thu, 25 Jan 2024 09:31:30 +0000</pubDate>
+			<itunes:duration>01:02:58</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58442581/radiotour_220124_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
