@@ -439,5 +439,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58321191/24syv_s2_a26_noget_om_sonic_college_og_pradan_ia_med_asbj_rn_n_rrind_hansen_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Musicalakademiet og musicals med Karoline Toksvig Gammelgaard</title>
+			<link>https://api.spreaker.com/download/episode/58415484/24syv_s2_a27_noget_om_musicalakademiet_og_musicals_med_karoline_toksvig_gammelgaard_podcast.mp3</link>
+			<description>I denne uge snakker vi med Karoline Toksvig Gammelgaard, som har studeret på Musicalakademiet ved Den Danske Scenekunstskole. Vi kommer til at berøre uddannelsen og arbejdet efter uddannelsen. Det bliver nice!Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58415484/24syv_s2_a27_noget_om_musicalakademiet_og_musicals_med_karoline_toksvig_gammelgaard_podcast.mp3</guid>
+			<pubDate>Sun, 28 Jan 2024 10:00:01 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58415484/24syv_s2_a27_noget_om_musicalakademiet_og_musicals_med_karoline_toksvig_gammelgaard_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
