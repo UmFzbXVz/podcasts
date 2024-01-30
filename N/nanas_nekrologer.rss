@@ -1968,5 +1968,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:40:04</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58039492/gr_d_sidst_5_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Kirstines Nekrolog: Livet, min foretrukne rutsjebane</title>
+			<link>https://api.spreaker.com/download/episode/58443558/kirstine_stream.mp3</link>
+			<description>Kirstines idyliske og smertefrie barndom står i skarp kontrast til en hård ungdom, der ledte Kirstine til at flytte hjemmefra, længe før de fleste andre, som hun gik i gymnasiet med. Men selvom der har været store op- og nedture, og selvom Kirstine aldrig har været glad for vilde forlystelser, ville hun tage en ekstra tur i livets gamle rutsjebane igen. Uden tøven. Hør hvorfor i dagens nekrolog. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58443558/kirstine_stream.mp3</guid>
+			<pubDate>Mon, 29 Jan 2024 21:00:02 +0000</pubDate>
+			<itunes:duration>00:51:44</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58443558/kirstine_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

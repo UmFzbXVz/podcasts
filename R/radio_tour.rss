@@ -1959,5 +1959,14 @@
 			<itunes:duration>01:02:58</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58442581/radiotour_220124_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>AI i cykelsporten og cykelferie til Mallorca</title>
+			<link>https://api.spreaker.com/download/episode/58492507/rt_podcast_29_01_24.mp3</link>
+			<description>I denne uge har Radio Tour besøg af Jens Veggerby. Snakken falder blandt andet på cykelferier til Mallorca og AI i cykelsporten.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58492507/rt_podcast_29_01_24.mp3</guid>
+			<pubDate>Mon, 29 Jan 2024 19:47:05 +0000</pubDate>
+			<itunes:duration>01:02:47</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58492507/rt_podcast_29_01_24.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
