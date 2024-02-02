@@ -501,5 +501,14 @@
 			<itunes:duration>00:53:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58445132/kongens_fald.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>&quot;Litteraturens Krav paa Frihed maa bøie sig for Samfundets Krav paa Tugt&quot;</title>
+			<link>https://api.spreaker.com/download/episode/58535514/herman_bang.mp3</link>
+			<description>Tugt betyder opdragelse og sådan lød politiets begrundelse, da man i 1881 beslagslagde Herman Bangs debutroman, Haabløse Slægter. Bang var kun 23 år gammel, og snart stod han til to års fængsel imens bogen kom for retten. Det endte dog med, at den delvist selvbiografiske bog herfra kun udkom i en stærkt censureret version, og som følge stort set blev glemt i mange år.I dagens afsnit af “Brændende Bøger” skal vi sammen med historiker og forfatter, Lars Henriksen, tilbage i tiden for at forstå, hvad der præcist gjorde debutbogen ulovlig. Samtidig mindes vi en særlig dansk forfatter, som blev født på Als, men døde på mystisk vis i Utah, USA, og som igennem sit liv mødte megen modgang, homofobi, kritik, men også fik stor berømmelse og betydning for dansk litteratur. Inden vi til sidst undersøger om vi kan, og bør(!), rejse et museum for Herman Bang.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58535514/herman_bang.mp3</guid>
+			<pubDate>Thu, 01 Feb 2024 17:38:44 +0000</pubDate>
+			<itunes:duration>00:53:28</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58535514/herman_bang.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
