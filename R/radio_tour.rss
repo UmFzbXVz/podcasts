@@ -1968,5 +1968,14 @@
 			<itunes:duration>01:02:47</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58492507/rt_podcast_29_01_24.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>AlUla Tour og undervurderede ryttere</title>
+			<link>https://api.spreaker.com/download/episode/58574819/rtpodcast.mp3</link>
+			<description>Radio Tour er tilbage i studiet denne gang med Jesper Worre og Bastian Emil som gæster.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58574819/rtpodcast.mp3</guid>
+			<pubDate>Mon, 05 Feb 2024 14:12:14 +0000</pubDate>
+			<itunes:duration>01:03:19</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58574819/rtpodcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
