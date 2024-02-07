@@ -1995,5 +1995,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:33:36</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58446800/hvad_er_du_pinlig_over_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Har du husket at ringe til din mor i dag? #4</title>
+			<link>https://api.spreaker.com/download/episode/58446933/hvorn_r_talte_du_sidst_med_mor_far_stream.mp3</link>
+			<description>Hvor tit taler vores generation egentlig med vores forældre? Oscar gør hver 4. dag, hvor de taler om løst og fast i telefonen. Sidst Kirstine ringede til sine forældre, var da hun havde været til gynækolog. Alligevel husker Kirstine et før og et efter, at hendes familiedynamik bristede. Hør også om Isabella og Johannes både komplicerede og ukomplicerede forhold til deres forældre.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58446933/hvorn_r_talte_du_sidst_med_mor_far_stream.mp3</guid>
+			<pubDate>Tue, 06 Feb 2024 21:00:01 +0000</pubDate>
+			<itunes:duration>00:27:21</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58446933/hvorn_r_talte_du_sidst_med_mor_far_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

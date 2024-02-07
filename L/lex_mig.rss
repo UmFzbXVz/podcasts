@@ -492,5 +492,23 @@
 			<itunes:duration>00:00:17</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56401820/20230808122502.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Kaste</title>
+			<link>https://api.spreaker.com/download/episode/58587697/kaste.mp3</link>
+			<description>Caroline Lillelund er gæste-eksperten i dagens afsnit af Lex Mig om kaste som begreb. Caroline er ph.d. i antropologi og specialiseret i indisk kunst, kultur og samfund. Hun er også en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58587697/kaste.mp3</guid>
+			<pubDate>Wed, 07 Feb 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:14:09</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58587697/kaste.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Dronning Mary</title>
+			<link>https://api.spreaker.com/download/episode/58587695/dronning_mary.mp3</link>
+			<description>Emma Paaske er gæste-eksperten i dagens afsnit af Lex Mig om dronning Mary. Emma er arkivar i Rigsarkivet og uddannet ved Københavns Universitet. Hun er også en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58587695/dronning_mary.mp3</guid>
+			<pubDate>Wed, 07 Feb 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:09:29</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58587695/dronning_mary.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
