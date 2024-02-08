@@ -132,5 +132,14 @@
 			<itunes:duration>00:53:36</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58005840/kultur1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Timerne, Tarjei Vesaas &amp;amp; The Holdovers</title>
+			<link>https://api.spreaker.com/download/episode/58607560/kultur12_klippet.mp3</link>
+			<description>“Giv mig mit salt, mit salt, mit salt, nå nej jeg mente salt” sådan lyder den berømte monolog fra King Lear i Shakespeares teaterstykke af samme navn. Og det er satme da også vigtigt. Igen i dag får i serveret en ordentlig kulturbong direkte ned i svælget.  I dagens program skal vi snakke om:Timerne - Det Kongelige Teater Den norske forfatter Tarjei Vesaas bøger “Fuglene” og “Isslottet”The Holdovers</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58607560/kultur12_klippet.mp3</guid>
+			<pubDate>Thu, 08 Feb 2024 08:58:50 +0000</pubDate>
+			<itunes:duration>00:53:41</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58607560/kultur12_klippet.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
