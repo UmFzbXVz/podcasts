@@ -4317,5 +4317,32 @@
 			<itunes:duration>00:06:05</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/58608481/12.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Nyhederne på 24syv kl. 12:00</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/58621701/kl12.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/58621701/kl12.mp3</guid>
+			<pubDate>Fri, 09 Feb 2024 11:08:59 +0000</pubDate>
+			<itunes:duration>00:05:58</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/58621701/kl12.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Nyhederne på 24syv kl. 11:00</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/58621309/kl11.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/58621309/kl11.mp3</guid>
+			<pubDate>Fri, 09 Feb 2024 10:11:27 +0000</pubDate>
+			<itunes:duration>00:06:02</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/58621309/kl11.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Nyhederne på 24syv kl. 10:00</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/58620977/kl10.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/58620977/kl10.mp3</guid>
+			<pubDate>Fri, 09 Feb 2024 09:13:39 +0000</pubDate>
+			<itunes:duration>00:06:00</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/58620977/kl10.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
