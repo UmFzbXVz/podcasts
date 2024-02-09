@@ -510,5 +510,14 @@
 			<itunes:duration>00:52:48</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/52342909/glennbech.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Satyrikon</title>
+			<link>https://api.spreaker.com/download/episode/58598581/satyrikon.mp3</link>
+			<description>“Det, som er tilladt, afskyr man. Sjælen er ude på at fare vild og elsker at krænke.&quot;I den antikke satiriske roadroman, Satyrikon, følger vi tre venner, elskere og rivaler, som rejser og/eller flygter ned gennem italien i det første århundrede.De er fattige, sultne og liderlige, og skal hustle sig igennem hverdagen for at overleve. De stjæler, bliver voldtaget og bytter hele tiden roller, imens et luksuriøst og hyklerisk romersk klassesamfund åbenbarer sig for os.Men hvordan er det muligt, at dens beskrivelser af sex og ombytning af heriarker stadigvæk både kan tænde og få os til at rødme den dag i dag - knap 2000 år efter den udkom? Hvem var forfatteren til den ekstremt fragmenterede bog, og hvordan har Satyrikon i det hele taget påvirket vores syn på antikken?</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58598581/satyrikon.mp3</guid>
+			<pubDate>Thu, 08 Feb 2024 17:05:01 +0000</pubDate>
+			<itunes:duration>00:53:43</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58598581/satyrikon.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
