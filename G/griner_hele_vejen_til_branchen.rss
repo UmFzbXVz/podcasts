@@ -457,5 +457,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:00:23</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/52865846/griner_hele_vejen_teaser.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Hospicekoncerter og Musikalsk Karriere med Mette Kirkegaard</title>
+			<link>https://api.spreaker.com/download/episode/58595976/24syv_s2_a29_noget_om_hospicekoncerter_og_musikalsk_karriere_med_mette_kirkegaard_podcast.mp3</link>
+			<description>I denne uge snakker vi med musiker og sangskriver Mette Kirkegaard, som har lavet mange spændende ting i sin musikalske karriere. Vi kommer blandt andet til at snakke om koncerter på hospice og om hvordan musikken kan indgå som et element i plejen. Det bliver herre fedt!Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58595976/24syv_s2_a29_noget_om_hospicekoncerter_og_musikalsk_karriere_med_mette_kirkegaard_podcast.mp3</guid>
+			<pubDate>Sun, 11 Feb 2024 10:00:02 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58595976/24syv_s2_a29_noget_om_hospicekoncerter_og_musikalsk_karriere_med_mette_kirkegaard_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
