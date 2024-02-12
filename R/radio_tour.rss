@@ -1977,5 +1977,14 @@
 			<itunes:duration>01:05:37</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/43488393/rt41.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Skiferie og struktur</title>
+			<link>https://api.spreaker.com/download/episode/58655789/radiotour.mp3</link>
+			<description>Radio Tour studiet har i denne uge besøg af Team Jayco AlUla-rytteren, Chrsitopher Juul-Jensen, til en snak om alt fra skiferie til strukturen i cykelsporten.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58655789/radiotour.mp3</guid>
+			<pubDate>Mon, 12 Feb 2024 12:44:08 +0000</pubDate>
+			<itunes:duration>01:05:33</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58655789/radiotour.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
