@@ -2004,5 +2004,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:27:21</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58446933/hvorn_r_talte_du_sidst_med_mor_far_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Cecilias Nekrolog: Et flokdyr</title>
+			<link>https://api.spreaker.com/download/episode/58482402/cilla_stream.mp3</link>
+			<description>Cecilia har både prøvet at være helt uden for flokken, og prøvet at være lederen af flokken. Nu er Cecilia et sted i sit liv, hvor hun bare er taknemmelig for, at overhovedet høre til i en flok, der er hendes egen - også selvom den ikke er særlig stor. I dag følger vi Cecilias historie, og hører hvad der skulle til, før hun faldt sin hylde og sine mennesker.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58482402/cilla_stream.mp3</guid>
+			<pubDate>Mon, 12 Feb 2024 21:00:01 +0000</pubDate>
+			<itunes:duration>00:55:32</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58482402/cilla_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
