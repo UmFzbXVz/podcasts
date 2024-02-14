@@ -510,5 +510,23 @@
 			<itunes:duration>00:09:29</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58587695/dronning_mary.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Dalitter</title>
+			<link>https://api.spreaker.com/download/episode/58675298/dalitter.mp3</link>
+			<description>Caroline Lillelund er gæste-eksperten i dagens afsnit af Lex Mig om dalitter. Caroline er ph.d. i antropologi og specialiseret i indisk kunst, kultur og samfund. Hun er også en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58675298/dalitter.mp3</guid>
+			<pubDate>Wed, 14 Feb 2024 05:00:03 +0000</pubDate>
+			<itunes:duration>00:13:32</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58675298/dalitter.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Adivasi</title>
+			<link>https://api.spreaker.com/download/episode/58675306/adivasi.mp3</link>
+			<description>Caroline Lillelund er gæste-eksperten i dagens afsnit af Lex Mig om adivasi. Caroline er ph.d. i antropologi og specialiseret i indisk kunst, kultur og samfund. Hun er også en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58675306/adivasi.mp3</guid>
+			<pubDate>Wed, 14 Feb 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:12:26</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58675306/adivasi.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
