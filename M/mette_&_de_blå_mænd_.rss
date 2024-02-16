@@ -1252,5 +1252,14 @@ Producer: Marcus Eklund</description>
 			<itunes:duration>00:53:10</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58622086/mette_og_de_bl_m_nd_9_februar.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Socialdemokratisk tilbagetogt, Mette F. + Kat og ugens hovedperson</title>
+			<link>https://api.spreaker.com/download/episode/58705015/24syv_on_air_archive_mp3_2024_02_16_10_06_03.mp3</link>
+			<description>Vi ser nærmere på Socialdemokratiets vredesudbrud på Nordic Waste, som det ser ud til, at de har brændt nallerne på. De har i hvert fald trukket følehornene til sig i sag om Borup Skole. Mette Frederiksen elsker katte. Og så har vi besøg af René Christensen, der har skiftet DF ud med Moderaterne. Vært: Silas Moody og Anna Thygesen Gæst: René Christensen Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58705015/24syv_on_air_archive_mp3_2024_02_16_10_06_03.mp3</guid>
+			<pubDate>Fri, 16 Feb 2024 11:12:57 +0000</pubDate>
+			<itunes:duration>00:53:52</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58705015/24syv_on_air_archive_mp3_2024_02_16_10_06_03.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
