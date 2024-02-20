@@ -1986,5 +1986,14 @@
 			<itunes:duration>01:05:33</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58655789/radiotour.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Klimaaktivister og Sepp Kuss-dramaet</title>
+			<link>https://api.spreaker.com/download/episode/58749716/rt_200224.mp3</link>
+			<description>Radio Tour studiet varmer i denne uge op til Omloop Het Nieuwsblad, kigger nærmere på Sepp Kuss-dramaet og diskuterer føretrøjer i cykelsporten.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58749716/rt_200224.mp3</guid>
+			<pubDate>Tue, 20 Feb 2024 12:24:08 +0000</pubDate>
+			<itunes:duration>01:01:39</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58749716/rt_200224.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
