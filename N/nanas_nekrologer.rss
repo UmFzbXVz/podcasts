@@ -2031,5 +2031,14 @@ Billedet fra Rebekkas første demo: https://imgur.com/a/kQFZSWH</description>
 			<itunes:duration>00:12:40</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58482689/indtryk_p_mig_cj_stream.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Nanas Nekrolog: Tak for alt</title>
+			<link>https://api.spreaker.com/download/episode/58498713/nanas_nekrolog_stream.mp3</link>
+			<description>I to år har jeg bedt fremmede og jævnaldrene afsløre og fortælle, om de dybeste og mest personlige tanker og tider i deres liv. Nu er det kun rimeligt, at jeg gør det samme. Af hjertet tak til alle der har delt ud af selv i programmet, og af hjertet tak til alle der har lyttet med.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58498713/nanas_nekrolog_stream.mp3</guid>
+			<pubDate>Tue, 20 Feb 2024 21:00:01 +0000</pubDate>
+			<itunes:duration>00:55:41</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58498713/nanas_nekrolog_stream.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

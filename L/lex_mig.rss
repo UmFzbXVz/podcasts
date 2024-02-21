@@ -528,5 +528,23 @@
 			<itunes:duration>00:12:26</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58675306/adivasi.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Athens demokrati</title>
+			<link>https://api.spreaker.com/download/episode/58705256/athensdemokrati.mp3</link>
+			<description>Thomas Heine Nielsen er gæste-eksperten i dagens afsnit af Lex Mig om Athens demokrati som begreb. Thomas er lektor i klassisk græsk ved Københavns Universitet, og så er han også en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58705256/athensdemokrati.mp3</guid>
+			<pubDate>Wed, 21 Feb 2024 05:00:01 +0000</pubDate>
+			<itunes:duration>00:15:26</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58705256/athensdemokrati.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Oligarki</title>
+			<link>https://api.spreaker.com/download/episode/58705257/oligarki.mp3</link>
+			<description>Thomas Heine Nielsen er gæste-eksperten i dagens afsnit af Lex Mig om Athens demokrati som begreb. Thomas er lektor i klassisk græsk ved Københavns Universitet, og så er han også en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58705257/oligarki.mp3</guid>
+			<pubDate>Wed, 21 Feb 2024 05:00:01 +0000</pubDate>
+			<itunes:duration>00:12:10</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58705257/oligarki.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
