@@ -1425,5 +1425,14 @@ Gucci + Bourgeois: https://www.youtube.com/watch?v=tcHYVjWn-TI&amp;ab_channel=Ke
 			<itunes:duration>00:17:53</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58607776/malene_ep_69.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>AI-Apocalypse Now?</title>
+			<link>https://api.spreaker.com/download/episode/58762222/70_podcast.mp3</link>
+			<description>Tech-virksomheden OpenAI, kendt for den populære chatbot-ChatGPT demonstrerer på den sociale medieplatform X deres kommende produkt Sora - en tekst-til-video-kunstig intelligens.   Sora er ikke frigivet endnu og indtil videre er det kun udvalgte personer der får lov at teste videogenereringsværktøjet. Og så OpenAis CEO Sam Altman, som på X delte videoer af folks prompts - en meget omtalt video, genereret med Sora, der viser to golden retrivwers, der laver podcast på siden af et bjerg.  Det er jo super sjovt og skræmmende livagtigt at se på - og Soras potentialer for videogenerering, hvis OpenAI en dag vælger at frigive Sora til alle, ligesom ChatGPT -  vækker både begejstring og bekymring.   I Ekstremt Online dækker jeg ofte kunstig intelligens. Og ofte bliver teknologiens skræmmende potentiale fremhævet. Er Sora AI-apokalypsen nu?Jeg taler med Tim Resdal, der er en optimistisk undersøger AI når han producerer reklamefilm som CEO i produktionsselskaber Plotworks. Og så Pernille Tranberg, der er dataetisk rådgiver og skeptisk overfor kunstig intelligens. Vært: Nanna Schmidt Nordestgaard</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58762222/70_podcast.mp3</guid>
+			<pubDate>Thu, 22 Feb 2024 04:25:01 +0000</pubDate>
+			<itunes:duration>00:50:11</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58762222/70_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
