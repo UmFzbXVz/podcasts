@@ -1261,5 +1261,18 @@ Producer: Marcus Eklund</description>
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58705015/24syv_on_air_archive_mp3_2024_02_16_10_06_03.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>LA i kønsbrøler, Venstre er ikke et borgerligt parti, og Martin Ågerup brænder os af</title>
+			<link>https://api.spreaker.com/download/episode/58795061/mette_og_de_bl_m_nd_23_februar.mp3</link>
+			<description>Vi har en høne at plukke med Cepos-legenden Martin Ågerup, der ikke udviser borgerlig ordentlighed og brænder os af. Han er dog med på telefon, hvor han indrømmer, at vi både er kloge OG smukke og lover en kvajebajer samt giver især Venstre et par borgerlige ord med på vejen. Og så har LA lavet en video om kønskvoter, der er helt ved siden af skiven. Vi overvejer nu at indføre kønskvoter i programmet. 
+
+Værter: Anna Thygesen og Sanne Fahnøe
+Gæst: Martin Ågerup (med på telefon, men skulle have været mødt op!)
+Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58795061/mette_og_de_bl_m_nd_23_februar.mp3</guid>
+			<pubDate>Fri, 23 Feb 2024 10:58:38 +0000</pubDate>
+			<itunes:duration>00:53:43</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58795061/mette_og_de_bl_m_nd_23_februar.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
