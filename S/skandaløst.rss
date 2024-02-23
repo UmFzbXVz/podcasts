@@ -330,5 +330,14 @@
 			<itunes:duration>00:57:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58674105/kofod_og_fonseca.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Kong Frederiks besøg hos mystisk veninde i Madrid</title>
+			<link>https://api.spreaker.com/download/episode/58786096/frederiks_bes_g_i_madrid.mp3</link>
+			<description>Da den kommende Konge, Kronprins Frederik, bliver fanget på en række billeder i det spanske sladdermagasin Lecturas med den mexikanske skønhed Casanova, hober spørgsmålene sig op. Hvem er hun, hvad lavede de sammen i Madrid, hvorfor går han rundt med en rullekuffert klokken otte om morgnen, og har han sovet i hendes lejlighed? Vi forsøger at besvare spørgsmålene med et veloplagt udbud af gæster.Vært og tilrettelægger: Sanne FahnøeGæster: Fie West, underholdningschef, B.T. Anna Thygesen, kommunikationsekspert, Lars Bajlum Holmgaard Christensen, skandalog og medieforsker.Lyddesign: Daniel Sarto Lassen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58786096/frederiks_bes_g_i_madrid.mp3</guid>
+			<pubDate>Fri, 23 Feb 2024 04:30:01 +0000</pubDate>
+			<itunes:duration>00:57:14</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58786096/frederiks_bes_g_i_madrid.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
