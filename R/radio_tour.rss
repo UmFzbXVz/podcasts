@@ -1995,5 +1995,14 @@
 			<itunes:duration>01:01:39</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58749716/rt_200224.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Radio Tour taler Omloop</title>
+			<link>https://api.spreaker.com/download/episode/58808653/rt_taleromloop_1.mp3</link>
+			<description>Radio Tour kigger i dette afsnit nærmere på sæsonens hidtil bedste cykelløb, Omloop Het Nieuwsblad.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58808653/rt_taleromloop_1.mp3</guid>
+			<pubDate>Sat, 24 Feb 2024 18:11:57 +0000</pubDate>
+			<itunes:duration>00:21:00</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58808653/rt_taleromloop_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
