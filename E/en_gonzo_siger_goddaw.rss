@@ -196,5 +196,14 @@
 			<itunes:duration>00:27:45</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/53437256/gonzo_1_prolog.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Sæson 3: Prolog: En Gonzo Gi'r Aldrig op - The Talk Show: En fransk klovn siger adjø</title>
+			<link>https://api.spreaker.com/download/episode/58845832/gonzo_talk_show_prolog.mp3</link>
+			<description>Den længe ventede start på sæson 3: En Gonzo Giver Aldrig Op - The Talkshow. Spørgsmål presser sig på: Var Gonzo nær gået i glemmebogen? Hvem opfandt egentlig sortfodsskinken? Og hvordan lyder den guitarsolo fra 1993, som Tim Christensen modtog fra René Fredensborg i 2017? (…Tim vendte aldrig tilbage)NB: Månedens afsnit er en prolog til et nyt talkshow formet helt efter Anders Christiansens hoved: Sjovt, nørdet og mærkeligt.Som vi siger: En cadeau til de oversete!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58845832/gonzo_talk_show_prolog.mp3</guid>
+			<pubDate>Tue, 27 Feb 2024 08:00:47 +0000</pubDate>
+			<itunes:duration>00:30:59</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58845832/gonzo_talk_show_prolog.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

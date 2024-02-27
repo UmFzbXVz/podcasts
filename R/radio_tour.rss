@@ -2004,5 +2004,14 @@
 			<itunes:duration>00:21:00</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58808653/rt_taleromloop_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Visma begejstring og Vingegaard-snak</title>
+			<link>https://api.spreaker.com/download/episode/58850686/radiotour_mp3.mp3</link>
+			<description>Matti Breschel er gæst i denne uge af Radio tour studiet, hvor der gennemgåes den seneste uges cykelløb og vi ser frem til de kommende løb.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58850686/radiotour_mp3.mp3</guid>
+			<pubDate>Tue, 27 Feb 2024 14:50:06 +0000</pubDate>
+			<itunes:duration>01:04:31</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58850686/radiotour_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
