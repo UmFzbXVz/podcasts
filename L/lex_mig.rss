@@ -546,5 +546,23 @@
 			<itunes:duration>00:12:10</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58705257/oligarki.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hinduisme</title>
+			<link>https://api.spreaker.com/download/episode/58705284/hinduisme_redigeret.mp3</link>
+			<description>Marianne Fibiger er gæste-eksperten i dagens afsnit af Lex Mig om hinduisme. Marianne er lektor og ph.d. ved Aarhus Universitet på afdelingen for religionsvidenskab. Hun er også en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58705284/hinduisme_redigeret.mp3</guid>
+			<pubDate>Wed, 28 Feb 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:13:24</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58705284/hinduisme_redigeret.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Socialarv</title>
+			<link>https://api.spreaker.com/download/episode/58705283/socialarv.mp3</link>
+			<description>Morten Ejrnæs er gæste-eksperten i dagens afsnit af Lex Mig om social arv. Morten er sociolog og lektor emeritus ved Aalborg Universitet og en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig. </description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58705283/socialarv.mp3</guid>
+			<pubDate>Wed, 28 Feb 2024 04:55:01 +0000</pubDate>
+			<itunes:duration>00:15:19</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58705283/socialarv.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
