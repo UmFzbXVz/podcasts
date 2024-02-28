@@ -123,5 +123,14 @@
 			<itunes:duration>00:55:06</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58753107/0220_click_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>'The Blind Side' lider af 'hvid frelser'-syndrom</title>
+			<link>https://api.spreaker.com/download/episode/58852641/0227_blindside_mp3.mp3</link>
+			<description>The Blind Side er en hjertevarm historie om familie, farve og football, hvor en rig, kristen, hvid familie løfter en hjemløs sort teenager ud af fattigdom og hjælper ham med blive en stjerne indenfor amerikansk fodbold.Men hvorfor giver filmen så Filmcensurens værter ondt i maven?For er filmen bare det ultimative eksempel på myten om den hvide frelser, som er designet til at overbevise hvide mennesker om, at de slet ikke er racister? Eller kan hvide godt hjælpe sorte uden at at blive stemplet som problematiske?Værter: Anne Lund, Inge Høeg &amp; Simon Porse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58852641/0227_blindside_mp3.mp3</guid>
+			<pubDate>Tue, 27 Feb 2024 16:42:39 +0000</pubDate>
+			<itunes:duration>00:53:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58852641/0227_blindside_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
