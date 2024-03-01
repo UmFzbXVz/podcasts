@@ -1274,5 +1274,18 @@ Producer: Marcus Eklund</description>
 			<itunes:duration>00:53:43</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58795061/mette_og_de_bl_m_nd_23_februar.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Løkkes gode sultan-ven, regeringen er et flop, og Sanne har et nyt idol i Venstre</title>
+			<link>https://api.spreaker.com/download/episode/58887924/mette_og_de_bl_m_nd_1_marts.mp3</link>
+			<description>Mens rygterne igen svirrer om Mette Frederiksens mulige internationale karriere, hygger Løkke sig med sin 'gode ven,' i De Forenede Arabiske Emirater. Regeringen har nået et nyt lavpunkt med endnu en katastrofemåling, og landbruget er på bistand.
+
+Værter: Anna Thygesen og Sanne Fahnøe
+Gæst: Peter Astrup
+Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58887924/mette_og_de_bl_m_nd_1_marts.mp3</guid>
+			<pubDate>Fri, 01 Mar 2024 12:05:00 +0000</pubDate>
+			<itunes:duration>00:53:41</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58887924/mette_og_de_bl_m_nd_1_marts.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
