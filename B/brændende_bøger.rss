@@ -537,5 +537,14 @@
 			<itunes:duration>00:53:44</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58786753/de_sade_endelig.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Mein Kampf</title>
+			<link>https://api.spreaker.com/download/episode/58875635/mein_kampf.mp3</link>
+			<description>I Adolf Hitlers autobiografiske manifest fra 1925, “Mein Kampf&quot;, finder man opskriften på den nazistiske ideologi, som ledte til 2. Verdenskrig. På uhyggelig vis forudser den Holocaust, Tysklands annektering af Østeuropa og den totale krig som snart blev til virkelighed.  Hitler dikterede bogens 700 sider til sin sekretær, mens han sad fængslet for højforræderi efter et kupforsøg. Den blev så stor en succes, at den i 1943 var udkommet i mere end 10 millioner eksemplarer. Indtil 2. Verdenskrig slutter, hvor den pludselig står tilbage på tyskernes boghylder som et urørligt dokument, der var forbudt at udgive. Lyt med, når vi sammen med lektor Moritz Schramm spørger, hvad står der rent faktisk i &quot;Mein Kampf&quot;, hvilken indflydelse manifestet fik I Tyskland, og om vi burde eller ikke burde forbyde bogen den dag i dag.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58875635/mein_kampf.mp3</guid>
+			<pubDate>Thu, 29 Feb 2024 17:05:01 +0000</pubDate>
+			<itunes:duration>00:52:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58875635/mein_kampf.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

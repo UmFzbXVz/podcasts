@@ -1801,5 +1801,14 @@ Programmet rundes hver uge af med at gæsten får stillet det sværeste spørgsm
 			<itunes:duration>01:50:34</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58804087/advocay_spreaker.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Filip Andersen fra Hexis om kraniebrud, tourlivet og nye tider</title>
+			<link>https://api.spreaker.com/download/episode/58879667/hexis.mp3</link>
+			<description>Omegalisten har i denne udsendelse besøg af Filip Andersen fra Hexis.Hexis har været i gang siden 2010, spillet utallige liveshows, og oplevet det vilde musikerliv på godt og ondt.I år udkommer Hexis med ny musik og besøger blandt andet dette års Copenhell.Det og meget mere kan i høre mere om når vært Stine Omega inviterer Filip Andersen ind i 24syv studiet.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58879667/hexis.mp3</guid>
+			<pubDate>Fri, 01 Mar 2024 05:15:01 +0000</pubDate>
+			<itunes:duration>01:46:40</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58879667/hexis.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

@@ -339,5 +339,14 @@
 			<itunes:duration>00:57:14</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58786096/frederiks_bes_g_i_madrid.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Helle Thorning og Skattesagen</title>
+			<link>https://api.spreaker.com/download/episode/58873635/helle_thorning.mp3</link>
+			<description>Da Helle Thorning-Schmidts mand Steven Kinnock i 2010 kommer på forsiden af B.T. med overskriften ‘Scorer kassen i skattely,’ begynder en årelang skandale, der også indbefatter rygter om Kinnocs påståede homoseksualitet. Vi jagter svar med manden, der skrev de opindelige artikler i B.T. Hvem lækkede parrets fortrolige skattepapirer, foregik der magtmisbrug helt oppe i toppen af Venstre, havde parret rent faktisk rod med Skat, og hvorfor var Kinnocks seksualitet relevant for sagen?Vært og tilrettelægger: Sanne FahnøeGæster: Thomas Nørmark Krog, B.T. og Lars Bajlum Holmgaard ChristensenLyddesign: Daniel Sarto Lassen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58873635/helle_thorning.mp3</guid>
+			<pubDate>Fri, 01 Mar 2024 04:30:02 +0000</pubDate>
+			<itunes:duration>00:57:38</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58873635/helle_thorning.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
