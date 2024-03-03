@@ -2013,5 +2013,14 @@
 			<itunes:duration>01:04:31</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58850686/radiotour_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Radio Tour taler Strade Bianche</title>
+			<link>https://api.spreaker.com/download/episode/58899335/radiotourstrade_podcast.mp3</link>
+			<description>Radio Tour vender Pogacars magtdemonstration i Strade Bianche og ser frem mod næste uges Paris-Nice med Mads P. og Tirreno–Adriatico med Vingegaad i en favoritrolle.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58899335/radiotourstrade_podcast.mp3</guid>
+			<pubDate>Sat, 02 Mar 2024 17:30:48 +0000</pubDate>
+			<itunes:duration>00:25:14</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58899335/radiotourstrade_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
