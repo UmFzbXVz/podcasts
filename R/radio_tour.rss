@@ -2022,5 +2022,14 @@
 			<itunes:duration>00:25:14</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58899335/radiotourstrade_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Grimme hjelme og Tirreno-Adriatico</title>
+			<link>https://api.spreaker.com/download/episode/58932071/rtlyd0503.mp3</link>
+			<description>De nye enkeltstarts-hjelme lægger op til debat om æstetikken ved dem, og der vendes Vingegaards indsats ved 1. etape af Tirreno-Adriatico.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58932071/rtlyd0503.mp3</guid>
+			<pubDate>Tue, 05 Mar 2024 14:14:40 +0000</pubDate>
+			<itunes:duration>01:02:50</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58932071/rtlyd0503.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
