@@ -1303,5 +1303,14 @@ I denne samtale giver Dennis dig et indblik i 5 måder, du kan bekæmpe pseudoar
 			<itunes:duration>00:47:25</itunes:duration>
 			<enclosure url="https://chtbl.com/track/17FCFB/api.spreaker.com/download/episode/43871377/46_adfaerd_saeson_7_episode_5.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Smuglyt til den nye sæson: På casino med Eske, filosofi med Svend, B-mennesker med Camilla og hjemmerenoveringer med Bent</title>
+			<link>https://api.spreaker.com/download/episode/58888966/sson_12_trailer_010324.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58888966/sson_12_trailer_010324.mp3</guid>
+			<pubDate>Tue, 05 Mar 2024 05:30:02 +0000</pubDate>
+			<itunes:duration>00:08:07</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58888966/sson_12_trailer_010324.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
