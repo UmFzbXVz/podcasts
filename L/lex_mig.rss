@@ -564,5 +564,23 @@
 			<itunes:duration>00:15:19</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58705283/socialarv.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Super Tuesday</title>
+			<link>https://api.spreaker.com/download/episode/58932099/super_tuesday.mp3</link>
+			<description>Niels Bjerre Poulsen er gæste-eksperten i dagens afsnit af Lex Mig om Super Tuesday. Niels er ph.d. i amerikansk historie fra University of California, Santa Barbara, og så er han en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58932099/super_tuesday.mp3</guid>
+			<pubDate>Wed, 06 Mar 2024 05:00:03 +0000</pubDate>
+			<itunes:duration>00:14:25</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58932099/super_tuesday.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Midtvejsvalg i USA</title>
+			<link>https://api.spreaker.com/download/episode/58932084/amerikanske_midtvejsvalg.mp3</link>
+			<description>Niels Bjerre Poulsen er gæste-eksperten i dagens afsnit af Lex Mig om midtvejsvalget i USA. Niels er ph.d. i amerikansk historie fra University of California, Santa Barbara, og så er han en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58932084/amerikanske_midtvejsvalg.mp3</guid>
+			<pubDate>Wed, 06 Mar 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:13:25</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58932084/amerikanske_midtvejsvalg.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

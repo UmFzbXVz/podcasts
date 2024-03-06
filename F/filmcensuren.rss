@@ -132,5 +132,14 @@
 			<itunes:duration>00:53:49</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58852641/0227_blindside_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Saturday Night Fever: Gadebander, voldtægt og disco-dans</title>
+			<link>https://api.spreaker.com/download/episode/58934590/0305_saturday_n_f_mp3.mp3</link>
+			<description>Musikken er svær ikke at danse med til, når Tony Manero både skal kæmpe med det hårde liv i Brooklyn, og vinde dansekonkurrencen på hans lokale diskotek - hvor han er kongen.Filmen er ikke ked af at vise både racisme, homofobi og seksuel vold allerede fra første scene... men bliver den hårde socialrealisme gemt væk i disco-lys og fløjlsbukser?Med andre ord: forherliger 'Saturday Night Fever' en forrået og upassende levevis?Værter:Anne Lund, Inge Høeg og Simon Porse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58934590/0305_saturday_n_f_mp3.mp3</guid>
+			<pubDate>Tue, 05 Mar 2024 17:49:00 +0000</pubDate>
+			<itunes:duration>00:53:37</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58934590/0305_saturday_n_f_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
