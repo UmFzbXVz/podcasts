@@ -126,8 +126,13 @@ async function displayResults(results) {
             rssIcon.alt = 'RSS';
             rssIcon.classList.add('rss-icon');
             rssIcon.addEventListener('click', () => {
-                window.open(rssLink, '_blank');
-            });
+    navigator.clipboard.writeText(rssLink).then(() => {
+        alert('RSS-link er kopieret til udklipsholderen');
+    }).catch(error => {
+        console.error('Fejl ved kopiering af RSS-link:', error);
+    });
+});
+
             li.appendChild(rssIcon);
         }
 
