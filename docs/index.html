@@ -32,8 +32,12 @@ async function fetchPodcastsData() {
 }
 
 searchInput.addEventListener('input', function() {
-    const searchText = this.value.toLowerCase();
-    filterPodcasts(searchText);
+    const searchText = this.value.trim().toLowerCase();
+    if (searchText.length >= 3) {
+        filterPodcasts(searchText);
+    } else {
+        displayResults([]);
+    }
 });
 
 async function filterPodcasts(searchText) {
