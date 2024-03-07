@@ -74,12 +74,16 @@ function displayResults(results) {
         img.src = podcast.image_url;
         img.alt = podcast.alt_text;
         img.classList.add('podcast-logo');
-        const rssUrl = convertToRawRSSLink(podcast.html_url);
-        const rssLink = document.createElement('a');
-        rssLink.href = rssUrl;
-        rssLink.innerHTML = '<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png" alt="RSS">';
-        a.insertBefore(img, a.firstChild);
-        a.appendChild(rssLink);
+        if (podcast.html_url) {
+            const rssUrl = convertToRawRSSLink(podcast.html_url);
+            const rssLink = document.createElement('a');
+            rssLink.href = rssUrl;
+            rssLink.innerHTML = '<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png" alt="RSS">';
+            a.insertBefore(img, a.firstChild);
+            a.appendChild(rssLink);
+        } else {
+            a.appendChild(img);
+        }
         li.appendChild(a);
         ul.appendChild(li);
     });
@@ -91,5 +95,7 @@ function convertToRawRSSLink(htmlUrl) {
 }
 
 </script>
+
+
 </body>
 </html>
