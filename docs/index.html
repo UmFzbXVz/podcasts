@@ -29,7 +29,7 @@ async function fetchPodcastsData() {
 }
     
 async function fetchRSSLink(podcastName) {
-    const formattedPodcastName = podcastName.toLowerCase().replace(/\s/g, '_') + '.rss';
+    const formattedPodcastName = podcastName.replace('/', '_').replace('?', '_').replace(' ', '_').toLowerCase() + '.rss';
     const apiUrl = `https://api.github.com/repos/UmFzbXVz/podcasts/contents`;
     try {
         const response = await fetch(apiUrl);
@@ -47,6 +47,7 @@ async function fetchRSSLink(podcastName) {
         throw error;
     }
 }
+
 
 const resultsContainer = document.getElementById('results');
 
