@@ -80,25 +80,21 @@ a:hover {
     color: #8b949e;
 }
 
-.result img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 5px;
-    margin-bottom: 10px;
-}
-
-.podcast-logo {
-    max-width: 20px;
-    max-height: 20px;
-    margin-right: 10px;
-    border-radius: 50%;
-}
-
 .result img,
 .result .podcast-logo,
 .result .rss-icon {
     width: 20px;
     height: 20px;
-    margin-right: 10px;
     border-radius: 50%;
+    margin-right: 10px;
+}
+
+.podcast-logo {
+    max-width: 20px;
+    max-height: 20px;
+}
+
+.rss-icon {
+    margin-left: 10px;
+    cursor: pointer; 
 }
