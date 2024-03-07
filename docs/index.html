@@ -46,7 +46,7 @@ async function getRSSLink(podcastName) {
     const formattedPodcastName = podcastName
         .toLowerCase()
         .replace(/\s+/g, '_') 
-        .replace(/[^a-z0-9æøå%._-]/g, '_')
+        .replace(/[^a-z0-9æøå%._-]/g, '') 
         .replace(/%/g, '%25')
         + '.rss';
 
@@ -57,6 +57,23 @@ async function getRSSLink(podcastName) {
     } else {
         folderName = firstChar.toUpperCase();
     }
+
+    const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${folderName}/${formattedPodcastName}`;
+
+    try {
+        const response = await fetch(rssUrl);
+        if (response.ok) {
+            return rssUrl;
+        } else {
+            console.error('Fejl ved hentning af RSS-fil:', response.statusText);
+            return null;
+        }
+    } catch (error) {
+        console.error('Fejl ved hentning af RSS-fil:', error);
+        return null;
+    }
+}
+
 
     const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${folderName}/${formattedPodcastName}`;
 
