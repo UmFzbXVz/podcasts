@@ -43,11 +43,13 @@ async function checkRSSExists(podcastName) {
 }
 
 async function getRSSLink(podcastName) {
+    const uniqueChar = '~'; 
+
     const formattedPodcastName = podcastName
         .toLowerCase()
-        .replace(/\s+/g, '_') 
-        .replace(/[^a-z0-9æøå%._]/g, '') 
-        .replace(/%/g, '%25')
+        .replace(/\s+/g, '_')
+        .replace(/-/g, uniqueChar) 
+        .replace(/%/g, '%25') 
         + '.rss';
 
     let folderName = '';
@@ -58,7 +60,8 @@ async function getRSSLink(podcastName) {
         folderName = firstChar.toUpperCase();
     }
 
-    const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${folderName}/${formattedPodcastName}`;
+    const finalPodcastName = formattedPodcastName.replace(new RegExp(uniqueChar, 'g'), '-');
+    const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${folderName}/${finalPodcastName}`;
 
     try {
         const response = await fetch(rssUrl);
@@ -73,6 +76,7 @@ async function getRSSLink(podcastName) {
         return null;
     }
 }
+
 
 
 
