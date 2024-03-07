@@ -85,6 +85,10 @@ async function displayResults(results) {
         const a = document.createElement('a');
         a.href = podcast.url;
         a.textContent = podcast.alt_text;
+        const img = document.createElement('img');
+        img.src = podcast.image_url;
+        img.alt = podcast.alt_text;
+        img.classList.add('podcast-logo');
         li.appendChild(img);
         li.appendChild(a);
 
