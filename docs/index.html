@@ -8,5 +8,45 @@
 </head>
 <body>
 
+<div class="container">
+    <input type="text" id="search" placeholder="Søg efter podcasts...">
+    <div id="results" />
+</div>
+
+<script>
+const searchInput = document.getElementById('search');
+const resultsContainer = document.getElementById('results');
+
+searchInput.addEventListener('input', function() {
+    const searchText = this.value.toLowerCase();
+    const filteredPodcasts = filterPodcasts(searchText);
+    displayResults(filteredPodcasts);
+});
+
+function filterPodcasts(searchText) {
+    const dummyPodcasts = [
+        "Podcast 1",
+        "Podcast 2",
+        "Podcast 3"
+    ];
+
+    return dummyPodcasts.filter(podcast => podcast.toLowerCase().includes(searchText));
+}
+
+function displayResults(results) {
+    resultsContainer.innerHTML = '';
+
+    if (results.length === 0) {
+        resultsContainer.innerHTML = '<p>Ingen resultater fundet</p>';
+        return;
+    }
+
+    results.forEach(result => {
+        const resultElement = document.createElement('div');
+        resultElement.textContent = result;
+        resultsContainer.appendChild(resultElement);
+    });
+}
+</script>
 </body>
 </html>
