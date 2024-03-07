@@ -92,6 +92,15 @@ function displayResults(results) {
         img.alt = podcast.alt_text;
         img.classList.add('podcast-logo');
         a.insertBefore(img, a.firstChild);
+        const rssIcon = document.createElement('img');
+        rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
+        rssIcon.alt = 'RSS';
+        rssIcon.classList.add('rss-icon');
+        rssIcon.addEventListener('click', function(event) {
+            event.preventDefault();
+            window.open(podcast.rssLink, '_blank');
+        });
+        a.appendChild(rssIcon);
         li.appendChild(a);
         ul.appendChild(li);
     });
