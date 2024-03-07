@@ -88,8 +88,8 @@ a:hover {
 }
 
 .podcast-logo {
-    width: 20px; 
-    height: 20px;
+    max-width: 20px;
+    max-height: 20px;
     margin-right: 10px;
     border-radius: 50%;
 }
