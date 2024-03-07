@@ -20,26 +20,38 @@
         const filteredPodcasts = await filterPodcasts(searchText);
         displayResults(filteredPodcasts);
     });
+async function filterPodcasts(searchText) {
+    const filteredPodcasts = [];
 
-    async function filterPodcasts(searchText) {
-        const filteredPodcasts = [];
-
-        const alphabet = 'abcdefghijklmnopqrstuvwxyzæøå';
-        for (const letter of alphabet) {
-            const folderUrl = `https://api.github.com/repos/UmFzbXVz/podcasts/contents/${letter}?ref=main`;
-            const rssFiles = await fetchPodcastsFromFolder(folderUrl);
-            for (const rssFile of rssFiles) {
-                const podcastUrl = rssFile.download_url;
-                const response = await fetch(podcastUrl);
-                const rssContent = await response.text();
-                if (rssContent.toLowerCase().includes(searchText)) {
-                    filteredPodcasts.push(rssFile.html_url);
-                }
+    const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZÆØÅ';
+    for (const letter of alphabet) {
+        const folderUrl = `https://api.github.com/repos/UmFzbXVz/podcasts/contents/${letter}?ref=main`;
+        const rssFiles = await fetchPodcastsFromFolder(folderUrl);
+        for (const rssFile of rssFiles) {
+            const podcastUrl = rssFile.download_url;
+            const response = await fetch(podcastUrl);
+            const rssContent = await response.text();
+            if (rssContent.toLowerCase().includes(searchText)) {
+                filteredPodcasts.push(rssFile.html_url);
             }
         }
-
-        return filteredPodcasts;
     }
+
+    // Håndter mappe "0-9"
+    const digitFolderUrl = `https://api.github.com/repos/UmFzbXVz/podcasts/contents/0-9?ref=main`;
+    const digitRssFiles = await fetchPodcastsFromFolder(digitFolderUrl);
+    for (const rssFile of digitRssFiles) {
+        const podcastUrl = rssFile.download_url;
+        const response = await fetch(podcastUrl);
+        const rssContent = await response.text();
+        if (rssContent.toLowerCase().includes(searchText)) {
+            filteredPodcasts.push(rssFile.html_url);
+        }
+    }
+
+    return filteredPodcasts;
+}
+
 
     async function fetchPodcastsFromFolder(folderUrl) {
         const folderContents = await fetch(folderUrl);
