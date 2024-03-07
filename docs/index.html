@@ -45,8 +45,8 @@ async function checkRSSExists(podcastName) {
 async function getRSSLink(podcastName) {
     const formattedPodcastName = podcastName
         .toLowerCase()
-        .replace(/\s+/g, '_')
-        .replace(/[^a-z0-9æøå%._-]/g, '')
+        .replace(/\s+/g, '_') 
+        .replace(/[^a-z0-9æøå%._-]/g, '') 
         .replace(/%/g, '%25')
         + '.rss';
 
@@ -73,6 +73,7 @@ async function getRSSLink(podcastName) {
         return null;
     }
 }
+
 
 
 const resultsContainer = document.getElementById('results');
