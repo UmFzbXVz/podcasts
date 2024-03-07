@@ -86,3 +86,10 @@ a:hover {
     border-radius: 5px;
     margin-bottom: 10px;
 }
+
+.podcast-logo {
+    width: 20px; 
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
