@@ -45,8 +45,8 @@ async function checkRSSExists(podcastName) {
 async function getRSSLink(podcastName) {
     const formattedPodcastName = podcastName
         .toLowerCase()
-        .replace(/\s+/g, '_') // Erstatt mellemrum med underscores
-        .replace(/[^a-zæøå\d._-]/g, '') // Fjern tegn der ikke er bogstaver, tal, æ, ø, å, punktum eller bindestreg
+        .replace(/\s+/g, '_')
+        .replace(/[^a-z0-9æøå%._-]/g, '')
         + '.rss';
 
     const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
@@ -65,6 +65,7 @@ async function getRSSLink(podcastName) {
         return null;
     }
 }
+
 
 
 const resultsContainer = document.getElementById('results');
