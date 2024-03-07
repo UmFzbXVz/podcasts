@@ -46,3 +46,43 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.results-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.result {
+    background-color: #161b22;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.result:hover {
+    transform: translateY(-5px);
+}
+
+.result a {
+    color: #58a6ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.result a:hover {
+    text-decoration: underline;
+}
+
+.result p {
+    margin-top: 10px;
+    color: #8b949e;
+}
+
+.result img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
