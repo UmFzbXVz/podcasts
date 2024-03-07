@@ -126,12 +126,8 @@ async function displayResults(results) {
             rssIcon.alt = 'RSS';
             rssIcon.classList.add('rss-icon');
             rssIcon.addEventListener('click', () => {
-    navigator.clipboard.writeText(rssLink).then(() => {
-        alert('RSS-link er kopieret til udklipsholderen');
-    }).catch(error => {
-        console.error('Fejl ved kopiering af RSS-link:', error);
-    });
-});
+            navigator.clipboard.writeText(rssLink)
+            });
 
             li.appendChild(rssIcon);
         }
