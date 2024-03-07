@@ -14,6 +14,20 @@
 </div>
 
 <script>
+async function fetchPodcastsData() {
+    try {
+        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
+        if (!response.ok) {
+            throw new Error('Fejl ved indlæsning af podcasts data');
+        }
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Fejl ved indlæsning af podcasts data:', error);
+        return null;
+    }
+}
+    
 async function checkRSSExists(podcastName) {
     const formattedPodcastName = podcastName.replace('/', '_').replace('?', '_').replace(' ', '_').toLowerCase() + '.rss';
     const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
