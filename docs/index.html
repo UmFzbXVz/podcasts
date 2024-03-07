@@ -97,9 +97,18 @@ function displayResults(results) {
         rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
         rssIcon.alt = 'RSS';
         rssIcon.classList.add('rss-icon');
-        rssIcon.addEventListener('click', function(event) {
+        rssIcon.addEventListener('click', async function(event) {
             event.preventDefault();
-            window.open(podcast.rssLink, '_blank');
+            try {
+                const response = await fetch(podcast.rss_url);
+                if (!response.ok) {
+                    throw new Error('Fejl ved hentning af RSS-link');
+                }
+                const rssData = await response.json();
+                window.open(rssData.download_url, '_blank');
+            } catch (error) {
+                console.error('Fejl ved hentning af RSS-link:', error);
+            }
         });
         a.appendChild(rssIcon);
         li.appendChild(a);
@@ -107,21 +116,6 @@ function displayResults(results) {
     });
     resultsContainer.appendChild(ul);
 }
-
-
-result.querySelector('.rss-icon').addEventListener('click', async function() {
-    try {
-        const response = await fetch(podcast.rss_url);
-        if (!response.ok) {
-            throw new Error('Fejl ved hentning af RSS-link');
-        }
-        const rssData = await response.json();
-        
-        window.open(rssData.download_url, '_blank');
-    } catch (error) {
-        console.error('Fejl ved hentning af RSS-link:', error);
-    }
-});
 </script>
 
 </body>
