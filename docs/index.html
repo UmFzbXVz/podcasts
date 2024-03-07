@@ -15,73 +15,60 @@
 
 
 <script>
-    searchInput.addEventListener('input', async function() {
-        const searchText = this.value.toLowerCase();
-        const filteredPodcasts = await filterPodcasts(searchText);
-        displayResults(filteredPodcasts);
-    });
-async function filterPodcasts(searchText) {
-    const filteredPodcasts = [];
-
-    const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZÆØÅ';
-    for (const letter of alphabet) {
-        const folderUrl = `https://api.github.com/repos/UmFzbXVz/podcasts/contents/${letter}?ref=main`;
-        const rssFiles = await fetchPodcastsFromFolder(folderUrl);
-        for (const rssFile of rssFiles) {
-            const podcastUrl = rssFile.download_url;
-            const response = await fetch(podcastUrl);
-            const rssContent = await response.text();
-            if (rssContent.toLowerCase().includes(searchText)) {
-                filteredPodcasts.push(rssFile.html_url);
-            }
+async function fetchPodcastsData() {
+    try {
+        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
+        if (!response.ok) {
+            throw new Error('Fejl ved indlæsning af podcasts data');
         }
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Fejl ved indlæsning af podcasts data:', error);
+        return null;
     }
-
-    // Håndter mappe "0-9"
-    const digitFolderUrl = `https://api.github.com/repos/UmFzbXVz/podcasts/contents/0-9?ref=main`;
-    const digitRssFiles = await fetchPodcastsFromFolder(digitFolderUrl);
-    for (const rssFile of digitRssFiles) {
-        const podcastUrl = rssFile.download_url;
-        const response = await fetch(podcastUrl);
-        const rssContent = await response.text();
-        if (rssContent.toLowerCase().includes(searchText)) {
-            filteredPodcasts.push(rssFile.html_url);
-        }
-    }
-
-    return filteredPodcasts;
 }
 
+searchInput.addEventListener('input', function() {
+    const searchText = this.value.toLowerCase();
+    filterPodcasts(searchText);
+});
 
-    async function fetchPodcastsFromFolder(folderUrl) {
-        const folderContents = await fetch(folderUrl);
-        const folderContentsJson = await folderContents.json();
-        const rssFiles = folderContentsJson.filter(file => file.name.endsWith('.rss'));
-        return rssFiles;
+async function filterPodcasts(searchText) {
+    const podcastsData = await fetchPodcastsData();
+    if (!podcastsData) {
+        console.error('Fejl: Ingen podcasts data tilgængelig');
+        return;
     }
 
-    function displayResults(results) {
-        resultsContainer.innerHTML = '';
-        if (results.length === 0) {
-            resultsContainer.innerHTML = '<p>Ingen resultater fundet</p>';
-            return;
+    const filteredPodcasts = [];
+    for (const id in podcastsData) {
+        const podcast = podcastsData[id];
+        if (podcast.alt_text.toLowerCase().includes(searchText) || podcast.description.toLowerCase().includes(searchText)) {
+            filteredPodcasts.push(podcast);
         }
-        const ul = document.createElement('ul');
-        results.forEach(result => {
-            const li = document.createElement('li');
-            const a = document.createElement('a');
-            a.href = result;
-            a.textContent = result;
-            li.appendChild(a);
-            ul.appendChild(li);
-        });
-        resultsContainer.appendChild(ul);
     }
 
-    window.addEventListener('DOMContentLoaded', async () => {
-        const allPodcasts = await filterPodcasts('');
-        displayResults(allPodcasts);
+    displayResults(filteredPodcasts);
+}
+
+function displayResults(results) {
+    resultsContainer.innerHTML = '';
+    if (results.length === 0) {
+        resultsContainer.innerHTML = '<p>Ingen resultater fundet</p>';
+        return;
+    }
+    const ul = document.createElement('ul');
+    results.forEach(podcast => {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = podcast.url;
+        a.textContent = podcast.alt_text;
+        li.appendChild(a);
+        ul.appendChild(li);
     });
+    resultsContainer.appendChild(ul);
+}
 </script>
 
 
