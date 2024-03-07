@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 <div id="search-bar">
   <input type="text" placeholder="Søg i podcasts..." id="search-input">
 </div>
