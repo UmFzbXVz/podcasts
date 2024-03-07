@@ -43,7 +43,12 @@ async function checkRSSExists(podcastName) {
 }
 
 async function getRSSLink(podcastName) {
-    const formattedPodcastName = podcastName.replace(/\s+/g, '_').replace(/[^\w.-]/g, '').toLowerCase() + '.rss';
+    const formattedPodcastName = podcastName
+        .toLowerCase()
+        .replace(/\s+/g, '_') // Erstatt mellemrum med underscores
+        .replace(/[^a-zæøå\d._-]/g, '') // Fjern tegn der ikke er bogstaver, tal, æ, ø, å, punktum eller bindestreg
+        + '.rss';
+
     const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
     const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
 
