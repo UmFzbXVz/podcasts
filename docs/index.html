@@ -43,16 +43,24 @@ async function checkRSSExists(podcastName) {
 }
 
 async function getRSSLink(podcastName) {
-    const rssExists = await checkRSSExists(podcastName);
-    if (rssExists) {
-        const formattedPodcastName = podcastName.replace('/', '_').replace('?', '_').replace(' ', '_').toLowerCase() + '.rss';
-        const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
-        return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
-    } else {
-        console.error('RSS-filen blev ikke fundet.');
+    const formattedPodcastName = podcastName.replace(/\s+/g, '_').replace(/[^\w.-]/g, '').toLowerCase() + '.rss';
+    const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
+    const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
+
+    try {
+        const response = await fetch(rssUrl);
+        if (response.ok) {
+            return rssUrl;
+        } else {
+            console.error('Fejl ved hentning af RSS-fil:', response.statusText);
+            return null;
+        }
+    } catch (error) {
+        console.error('Fejl ved hentning af RSS-fil:', error);
         return null;
     }
 }
+
 
 const resultsContainer = document.getElementById('results');
 
