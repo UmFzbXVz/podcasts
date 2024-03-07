@@ -32,7 +32,7 @@ async function fetchPodcastsData() {
 }
 
 searchInput.addEventListener('input', function() {
-    const searchText = this.value.trim().toLowerCase();
+    const searchText = this.value.toLowerCase();
     if (searchText.length >= 3) {
         filterPodcasts(searchText);
     } else {
@@ -67,21 +67,27 @@ function displayResults(results) {
     const ul = document.createElement('ul');
     results.forEach(podcast => {
         const li = document.createElement('li');
-        
-        const logo = document.createElement('img');
-        logo.src = podcast.image_url;
-        logo.alt = podcast.alt_text;
-        logo.className = 'podcast-logo';
-        li.appendChild(logo);
-
         const a = document.createElement('a');
         a.href = podcast.url;
         a.textContent = podcast.alt_text;
+        const img = document.createElement('img');
+        img.src = podcast.image_url;
+        img.alt = podcast.alt_text;
+        img.classList.add('podcast-logo');
+        const rssUrl = convertToRawRSSLink(podcast.html_url);
+        const rssLink = document.createElement('a');
+        rssLink.href = rssUrl;
+        rssLink.innerHTML = '<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png" alt="RSS">';
+        a.insertBefore(img, a.firstChild);
+        a.appendChild(rssLink);
         li.appendChild(a);
-
         ul.appendChild(li);
     });
     resultsContainer.appendChild(ul);
+}
+
+function convertToRawRSSLink(htmlUrl) {
+    return htmlUrl.replace('github.com', 'raw.githubusercontent.com').replace('/blob/', '/');
 }
 
 </script>
