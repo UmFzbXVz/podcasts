@@ -14,23 +14,6 @@
 </div>
 
 <script>
-    async function fetchData(url) {
-        const response = await fetch(url);
-        if (!response.ok) {
-            throw new Error('Failed to fetch data');
-        }
-        return await response.text();
-    }
-
-    async function fetchPodcasts(letter) {
-        const url = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${letter}/`;
-        const response = await fetch(url);
-        if (!response.ok) {
-            throw new Error('Failed to fetch podcasts');
-        }
-        return await response.json();
-    }
-
     searchInput.addEventListener('input', async function() {
         const searchText = this.value.toLowerCase();
         const filteredPodcasts = await filterPodcasts(searchText);
@@ -39,16 +22,23 @@
 
     async function filterPodcasts(searchText) {
         const filteredPodcasts = [];
-        const characters = 'abcdefghijklmnopqrstuvwxyzæøå';
-        for (let i = 0; i < characters.length; i++) {
-            const letter = characters[i];
-            const podcasts = await fetchPodcasts(letter);
-            const filtered = podcasts.filter(podcast => 
-                podcast.title.toLowerCase().includes(searchText) || 
-                podcast.description.toLowerCase().includes(searchText)
-            );
-            filteredPodcasts.push(...filtered);
+
+        const allPodcasts = await fetch('https://api.github.com/repos/UmFzbXVz/podcasts/contents');
+        const allPodcastsJson = await allPodcasts.json();
+
+        for (const podcast of allPodcastsJson) {
+            const podcastUrl = podcast.download_url;
+            const podcastData = await fetch(podcastUrl);
+            const podcastDataJson = await podcastData.json();
+
+            const titleMatch = podcastDataJson.title.toLowerCase().includes(searchText);
+            const descriptionMatch = podcastDataJson.description.toLowerCase().includes(searchText);
+
+            if (titleMatch || descriptionMatch) {
+                filteredPodcasts.push(podcastDataJson);
+            }
         }
+
         return filteredPodcasts;
     }
 
@@ -78,5 +68,6 @@
         displayResults(allPodcasts);
     });
 </script>
+
 </body>
 </html>
