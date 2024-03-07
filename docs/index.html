@@ -63,10 +63,18 @@ function displayResults(results) {
     const ul = document.createElement('ul');
     results.forEach(podcast => {
         const li = document.createElement('li');
+        
+        const logo = document.createElement('img');
+        logo.src = podcast.image_url;
+        logo.alt = podcast.alt_text;
+        logo.className = 'podcast-logo';
+        li.appendChild(logo);
+
         const a = document.createElement('a');
         a.href = podcast.url;
         a.textContent = podcast.alt_text;
         li.appendChild(a);
+
         ul.appendChild(li);
     });
     resultsContainer.appendChild(ul);
