@@ -20,22 +20,31 @@
         displayResults(filteredPodcasts);
     });
 
+    async function fetchPodcastsFromFolder(folderUrl) {
+        const folderContents = await fetch(folderUrl);
+        const folderContentsJson = await folderContents.json();
+        const rssFiles = folderContentsJson.filter(file => file.name.endsWith('.rss'));
+        return rssFiles;
+    }
+
     async function filterPodcasts(searchText) {
         const filteredPodcasts = [];
 
-        const allPodcasts = await fetch('https://api.github.com/repos/UmFzbXVz/podcasts/contents');
-        const allPodcastsJson = await allPodcasts.json();
+        const alphabet = 'abcdefghijklmnopqrstuvwxyzæøå';
+        for (const letter of alphabet) {
+            const folderUrl = `https://api.github.com/repos/UmFzbXVz/podcasts/contents/${letter}?ref=main`;
+            const rssFiles = await fetchPodcastsFromFolder(folderUrl);
+            for (const rssFile of rssFiles) {
+                const podcastUrl = rssFile.download_url;
+                const podcastData = await fetch(podcastUrl);
+                const podcastDataJson = await podcastData.json();
 
-        for (const podcast of allPodcastsJson) {
-            const podcastUrl = podcast.download_url;
-            const podcastData = await fetch(podcastUrl);
-            const podcastDataJson = await podcastData.json();
+                const titleMatch = podcastDataJson.title.toLowerCase().includes(searchText);
+                const descriptionMatch = podcastDataJson.description.toLowerCase().includes(searchText);
 
-            const titleMatch = podcastDataJson.title.toLowerCase().includes(searchText);
-            const descriptionMatch = podcastDataJson.description.toLowerCase().includes(searchText);
-
-            if (titleMatch || descriptionMatch) {
-                filteredPodcasts.push(podcastDataJson);
+                if (titleMatch || descriptionMatch) {
+                    filteredPodcasts.push(podcastDataJson);
+                }
             }
         }
 
@@ -68,6 +77,7 @@
         displayResults(allPodcasts);
     });
 </script>
+
 
 </body>
 </html>
