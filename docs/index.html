@@ -70,20 +70,18 @@ function displayResults(results) {
         const a = document.createElement('a');
         a.href = podcast.url;
         a.textContent = podcast.alt_text;
-        const img = document.createElement('img');
-        img.src = podcast.image_url;
-        img.alt = podcast.alt_text;
-        img.classList.add('podcast-logo');
         if (podcast.html_url) {
             const rssUrl = convertToRawRSSLink(podcast.html_url);
             const rssLink = document.createElement('a');
             rssLink.href = rssUrl;
             rssLink.innerHTML = '<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png" alt="RSS">';
-            a.insertBefore(img, a.firstChild);
             a.appendChild(rssLink);
-        } else {
-            a.appendChild(img);
         }
+        const img = document.createElement('img');
+        img.src = podcast.image_url;
+        img.alt = podcast.alt_text;
+        img.classList.add('podcast-logo');
+        a.insertBefore(img, a.firstChild);
         li.appendChild(a);
         ul.appendChild(li);
     });
