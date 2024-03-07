@@ -14,39 +14,69 @@
 </div>
 
 <script>
-const searchInput = document.getElementById('search');
-const resultsContainer = document.getElementById('results');
-
-searchInput.addEventListener('input', function() {
-    const searchText = this.value.toLowerCase();
-    const filteredPodcasts = filterPodcasts(searchText);
-    displayResults(filteredPodcasts);
-});
-
-function filterPodcasts(searchText) {
-    const dummyPodcasts = [
-        "Podcast 1",
-        "Podcast 2",
-        "Podcast 3"
-    ];
-
-    return dummyPodcasts.filter(podcast => podcast.toLowerCase().includes(searchText));
-}
-
-function displayResults(results) {
-    resultsContainer.innerHTML = '';
-
-    if (results.length === 0) {
-        resultsContainer.innerHTML = '<p>Ingen resultater fundet</p>';
-        return;
+    async function fetchData(url) {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error('Failed to fetch data');
+        }
+        return await response.text();
     }
 
-    results.forEach(result => {
-        const resultElement = document.createElement('div');
-        resultElement.textContent = result;
-        resultsContainer.appendChild(resultElement);
+    async function fetchPodcasts(letter) {
+        const url = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${letter}/`;
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error('Failed to fetch podcasts');
+        }
+        return await response.json();
+    }
+
+    searchInput.addEventListener('input', async function() {
+        const searchText = this.value.toLowerCase();
+        const filteredPodcasts = await filterPodcasts(searchText);
+        displayResults(filteredPodcasts);
     });
-}
+
+    async function filterPodcasts(searchText) {
+        const filteredPodcasts = [];
+        const characters = 'abcdefghijklmnopqrstuvwxyzæøå';
+        for (let i = 0; i < characters.length; i++) {
+            const letter = characters[i];
+            const podcasts = await fetchPodcasts(letter);
+            const filtered = podcasts.filter(podcast => 
+                podcast.title.toLowerCase().includes(searchText) || 
+                podcast.description.toLowerCase().includes(searchText)
+            );
+            filteredPodcasts.push(...filtered);
+        }
+        return filteredPodcasts;
+    }
+
+    function displayResults(results) {
+        resultsContainer.innerHTML = '';
+        if (results.length === 0) {
+            resultsContainer.innerHTML = '<p>Ingen resultater fundet</p>';
+            return;
+        }
+        results.forEach(result => {
+            const resultElement = document.createElement('div');
+            const titleElement = document.createElement('h3');
+            const linkElement = document.createElement('a');
+            linkElement.href = result.url;
+            linkElement.textContent = result.title;
+            titleElement.appendChild(linkElement);
+            const descriptionElement = document.createElement('p');
+            descriptionElement.textContent = result.description;
+            resultElement.appendChild(titleElement);
+            resultElement.appendChild(descriptionElement);
+            resultsContainer.appendChild(resultElement);
+        });
+    }
+
+    window.addEventListener('DOMContentLoaded', async () => {
+        const allPodcasts = await filterPodcasts('');
+        displayResults(allPodcasts);
+    });
 </script>
 </body>
 </html>
