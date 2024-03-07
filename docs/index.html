@@ -98,18 +98,19 @@ function displayResults(results) {
         rssIcon.alt = 'RSS';
         rssIcon.classList.add('rss-icon');
         rssIcon.addEventListener('click', async function(event) {
-            event.preventDefault();
-            try {
-                const response = await fetch(podcast.rss_url);
-                if (!response.ok) {
-                    throw new Error('Fejl ved hentning af RSS-link');
-                }
-                const rssData = await response.json();
-                window.open(rssData.download_url, '_blank');
-            } catch (error) {
-                console.error('Fejl ved hentning af RSS-link:', error);
-            }
-        });
+    event.preventDefault();
+    try {
+        const response = await fetch(podcast.rss_url);
+        if (!response.ok) {
+            throw new Error('Fejl ved hentning af RSS-link');
+        }
+        const rssData = await response.json();
+        
+        window.open(rssData.download_url, '_blank');
+    } catch (error) {
+        console.error('Fejl ved hentning af RSS-link:', error);
+    }
+});
         a.appendChild(rssIcon);
         li.appendChild(a);
         ul.appendChild(li);
