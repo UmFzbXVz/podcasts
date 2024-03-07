@@ -14,40 +14,31 @@
 </div>
 
 <script>
-async function fetchPodcastsData() {
-    try {
-        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
-        if (!response.ok) {
-            throw new Error('Fejl ved indlæsning af podcasts data');
-        }
-        const data = await response.json();
-        return data;
-    } catch (error) {
-        console.error('Fejl ved indlæsning af podcasts data:', error);
-        return null;
-    }
-}
-    
-async function fetchRSSLink(podcastName) {
+async function checkRSSExists(podcastName) {
     const formattedPodcastName = podcastName.replace('/', '_').replace('?', '_').replace(' ', '_').toLowerCase() + '.rss';
-    const apiUrl = `https://api.github.com/repos/UmFzbXVz/podcasts/contents`;
+    const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
+    const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
+
     try {
-        const response = await fetch(apiUrl);
-        if (!response.ok) {
-            throw new Error('Fejl ved hentning af podcasts data');
-        }
-        const data = await response.json();
-        const rssLink = data.find(item => item.name.toLowerCase() === formattedPodcastName);
-        if (!rssLink) {
-            throw new Error('Podcast ikke fundet');
-        }
-        return rssLink.download_url;
+        const response = await fetch(rssUrl);
+        return response.ok;
     } catch (error) {
-        console.error('Fejl ved hentning af RSS-link:', error);
-        throw error;
+        console.error('Fejl ved tjek af RSS-fil:', error);
+        return false;
     }
 }
 
+async function getRSSLink(podcastName) {
+    const rssExists = await checkRSSExists(podcastName);
+    if (rssExists) {
+        const formattedPodcastName = podcastName.replace('/', '_').replace('?', '_').replace(' ', '_').toLowerCase() + '.rss';
+        const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
+        return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
+    } else {
+        console.error('RSS-filen blev ikke fundet.');
+        return null;
+    }
+}
 
 const resultsContainer = document.getElementById('results');
 
@@ -81,31 +72,24 @@ async function displayResults(results) {
         return;
     }
     const ul = document.createElement('ul');
-    results.forEach(podcast => {
+    results.forEach(async podcast => {
         const li = document.createElement('li');
         const a = document.createElement('a');
         a.href = podcast.url;
         a.textContent = podcast.alt_text;
-        const img = document.createElement('img');
-        img.src = podcast.image_url;
-        img.alt = podcast.alt_text;
-        img.classList.add('podcast-logo');
-        li.appendChild(img);
         li.appendChild(a);
 
-        const rssIcon = document.createElement('img');
-        rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
-        rssIcon.alt = 'RSS';
-        rssIcon.classList.add('rss-icon');
-        rssIcon.addEventListener('click', async () => {
-            try {
-                const rssLink = await fetchRSSLink(podcast.alt_text);
+        const rssLink = await getRSSLink(podcast.alt_text);
+        if (rssLink) {
+            const rssIcon = document.createElement('img');
+            rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
+            rssIcon.alt = 'RSS';
+            rssIcon.classList.add('rss-icon');
+            rssIcon.addEventListener('click', () => {
                 window.open(rssLink, '_blank');
-            } catch (error) {
-                console.error('Fejl ved hentning af RSS-link:', error);
-            }
-        });
-        li.appendChild(rssIcon);
+            });
+            li.appendChild(rssIcon);
+        }
 
         ul.appendChild(li);
     });
