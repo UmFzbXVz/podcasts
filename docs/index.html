@@ -10,8 +10,9 @@
 
 <div class="container">
     <input type="text" id="searchInput" placeholder="Søg efter podcasts...">
-    <div id="results"></div> <!-- Her indsættes søgeresultaterne -->
+    <div id="results"></div>
 </div>
+
 
 <script>
     searchInput.addEventListener('input', async function() {
@@ -19,13 +20,6 @@
         const filteredPodcasts = await filterPodcasts(searchText);
         displayResults(filteredPodcasts);
     });
-
-    async function fetchPodcastsFromFolder(folderUrl) {
-        const folderContents = await fetch(folderUrl);
-        const folderContentsJson = await folderContents.json();
-        const rssFiles = folderContentsJson.filter(file => file.name.endsWith('.rss'));
-        return rssFiles;
-    }
 
     async function filterPodcasts(searchText) {
         const filteredPodcasts = [];
@@ -36,19 +30,22 @@
             const rssFiles = await fetchPodcastsFromFolder(folderUrl);
             for (const rssFile of rssFiles) {
                 const podcastUrl = rssFile.download_url;
-                const podcastData = await fetch(podcastUrl);
-                const podcastDataJson = await podcastData.json();
-
-                const titleMatch = podcastDataJson.title.toLowerCase().includes(searchText);
-                const descriptionMatch = podcastDataJson.description.toLowerCase().includes(searchText);
-
-                if (titleMatch || descriptionMatch) {
-                    filteredPodcasts.push(podcastDataJson);
+                const response = await fetch(podcastUrl);
+                const rssContent = await response.text();
+                if (rssContent.toLowerCase().includes(searchText)) {
+                    filteredPodcasts.push(rssFile.html_url);
                 }
             }
         }
 
         return filteredPodcasts;
+    }
+
+    async function fetchPodcastsFromFolder(folderUrl) {
+        const folderContents = await fetch(folderUrl);
+        const folderContentsJson = await folderContents.json();
+        const rssFiles = folderContentsJson.filter(file => file.name.endsWith('.rss'));
+        return rssFiles;
     }
 
     function displayResults(results) {
@@ -57,19 +54,16 @@
             resultsContainer.innerHTML = '<p>Ingen resultater fundet</p>';
             return;
         }
+        const ul = document.createElement('ul');
         results.forEach(result => {
-            const resultElement = document.createElement('div');
-            const titleElement = document.createElement('h3');
-            const linkElement = document.createElement('a');
-            linkElement.href = result.url;
-            linkElement.textContent = result.title;
-            titleElement.appendChild(linkElement);
-            const descriptionElement = document.createElement('p');
-            descriptionElement.textContent = result.description;
-            resultElement.appendChild(titleElement);
-            resultElement.appendChild(descriptionElement);
-            resultsContainer.appendChild(resultElement);
+            const li = document.createElement('li');
+            const a = document.createElement('a');
+            a.href = result;
+            a.textContent = result;
+            li.appendChild(a);
+            ul.appendChild(li);
         });
+        resultsContainer.appendChild(ul);
     }
 
     window.addEventListener('DOMContentLoaded', async () => {
