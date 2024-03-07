@@ -29,14 +29,15 @@ async function fetchPodcastsData() {
 }
     
 async function fetchRSSLink(podcastName) {
-    const apiUrl = `https://api.github.com/repos/UmFzbXVz/podcasts/contents/${podcastName.charAt(0).toUpperCase()}`;
+    const formattedPodcastName = podcastName.toLowerCase().replace(/\s/g, '_') + '.rss';
+    const apiUrl = `https://api.github.com/repos/UmFzbXVz/podcasts/contents`;
     try {
         const response = await fetch(apiUrl);
         if (!response.ok) {
             throw new Error('Fejl ved hentning af podcasts data');
         }
         const data = await response.json();
-        const rssLink = data.find(item => item.name.toLowerCase().includes(podcastName.toLowerCase()));
+        const rssLink = data.find(item => item.name.toLowerCase() === formattedPodcastName);
         if (!rssLink) {
             throw new Error('Podcast ikke fundet');
         }
@@ -84,10 +85,6 @@ async function displayResults(results) {
         const a = document.createElement('a');
         a.href = podcast.url;
         a.textContent = podcast.alt_text;
-        const img = document.createElement('img');
-        img.src = podcast.image_url;
-        img.alt = podcast.alt_text;
-        img.classList.add('podcast-logo');
         li.appendChild(img);
         li.appendChild(a);
 
