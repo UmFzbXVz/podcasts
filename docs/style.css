@@ -7,12 +7,17 @@ body {
 }
 
 .container {
-    width: 80%;
+    width: 500px;
     margin: 100px auto;
 }
 
+.search-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
 input[type="text"] {
-    width: 100%;
+    width: 500px;
     padding: 10px;
     font-size: 16px;
     border: none;
@@ -21,8 +26,17 @@ input[type="text"] {
     color: #c9d1d9;
 }
 
-input[type="text"]::placeholder {
+.clear-search {
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+    cursor: pointer;
     color: #8b949e;
+}
+
+.clear-search:hover {
+    color: #c9d1d9;
 }
 
 #results {
@@ -61,6 +75,13 @@ a:hover {
     transition: transform 0.3s ease;
 }
 
+.helper-text {
+    font-size: 12px;
+    color: rgba(201, 209, 217, 0.5);
+    text-align: center;
+    margin-top: 5px;
+}
+
 .result:hover {
     transform: translateY(-5px);
 }
@@ -78,6 +99,13 @@ a:hover {
 .result p {
     margin-top: 10px;
     color: #8b949e;
+}
+
+h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #58a6ff;
 }
 
 .result img,
