@@ -7,7 +7,8 @@ body {
 }
 
 .container {
-    width: 500px;
+    width: 80%;
+    max-width: 500px;
     margin: 100px auto;
 }
 
@@ -17,7 +18,8 @@ body {
 }
 
 input[type="text"] {
-    width: 500px;
+    width: 100%;
+    max-width: 500px;
     padding: 10px;
     font-size: 16px;
     border: none;
@@ -130,16 +132,3 @@ h2 {
     cursor: pointer; 
 }
 
-@media only screen and (max-width: 500px) {
-    .container {
-        width: 80%;
-    }
-
-    input[type="text"] {
-        width: 80%;
-    }
-
-    #results {
-        width: 80%;
-    }
-}
