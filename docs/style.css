@@ -120,7 +120,7 @@ h2 {
 .podcast-logo {
     max-width: 20px;
     max-height: 20px;
-    overflow: hidden; 
+    overflow: hidden; /* Tilføjet overflow */
 }
 
 .rss-icon {
@@ -132,11 +132,15 @@ h2 {
 
 @media only screen and (max-width: 600px) {
     .container {
-        width: calc(100% - 40px); 
-        margin: 20px 20px 20px 0; 
+        width: calc(100% - 40px);
+        margin: 20px auto;
     }
 
-    .results-container {
-        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    input[type="text"] {
+        margin-right: 10px;
+    }
+
+    #results {
+        margin-right: 10px;
     }
 }
