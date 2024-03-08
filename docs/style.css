@@ -33,7 +33,7 @@ input[type="text"] {
 .clear-search {
     position: absolute;
     top: 50%;
-    left: calc(100% - 55px); 
+    left: calc(100% - 12%); 
     transform: translate(-50%, -50%);
     cursor: pointer;
     color: #8b949e;
