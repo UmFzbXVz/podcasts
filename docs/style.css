@@ -133,14 +133,15 @@ h2 {
 @media only screen and (max-width: 600px) {
     .container {
         width: calc(100% - 40px);
-        margin: 20px auto;
+        margin: 20px 5px;
     }
 
     input[type="text"] {
-        margin-right: 10px;
+        width: calc(100% - 30px);
+        margin-right: 5px;
     }
 
     #results {
-        margin-right: 10px;
+        margin-right: 5px;
     }
 }
