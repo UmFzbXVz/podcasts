@@ -50,7 +50,7 @@ async function getRSSLink(podcastName) {
         .replace(/\s+/g, '_')
         .replace(/-/g, uniqueChar) 
         .replace(/%/g, '%25') 
-        .replace(/?/g, '_')
+        .replace(/\?/g, '_')
         + '.rss';
 
     let folderName = '';
