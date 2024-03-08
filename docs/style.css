@@ -137,8 +137,7 @@ h2 {
     }
 
     input[type="text"] {
-        width: calc(100% - 30px);
-        margin-right: 5px;
+        width: calc(100% - 40px);
     }
 
     #results {
