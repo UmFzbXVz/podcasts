@@ -1,5 +1,4 @@
-/* Oprindelig CSS */
-
+/* Standard styling for både computerskærme og mobiltelefoner */
 body {
     font-family: Arial, sans-serif;
     background-color: #0d1117;
@@ -9,17 +8,21 @@ body {
 }
 
 .container {
-    width: 500px;
-    margin: 100px auto;
+    margin: 100px auto; /* Centrer containeren */
+    max-width: 500px; /* Sæt en maksimal bredde på 500px */
 }
 
 .search-wrapper {
-    position: relative;
-    display: inline-block;
+    text-align: center;
+    position: relative; 
+    margin-bottom: 20px;
+    margin-right: 20px; 
+    margin-left: 20px; 
 }
 
 input[type="text"] {
-    width: 500px;
+    width: 80%; /* Søgefeltet strækker sig til 80% af forældreelementets bredde */
+    max-width: 400px; /* Sæt en maksimal bredde på 400px */
     padding: 10px;
     font-size: 16px;
     border: none;
@@ -31,11 +34,13 @@ input[type="text"] {
 .clear-search {
     position: absolute;
     top: 50%;
-    right: 5px;
-    transform: translateY(-50%);
+    left: calc(100% - 60px); /* Justeret værdien til at være relativ til størrelsen af søgefeltet */
+    transform: translate(-50%, -50%);
     cursor: pointer;
     color: #8b949e;
+    z-index: 1;
 }
+
 
 .clear-search:hover {
     color: #c9d1d9;
@@ -43,6 +48,8 @@ input[type="text"] {
 
 #results {
     margin-top: 20px;
+    margin-right: calc(10% + 5px);
+    margin-left: calc(10% + 5px);
 }
 
 ul {
@@ -130,27 +137,4 @@ h2 {
     height: 15px;
     margin-left: 10px;
     cursor: pointer; 
-}
-
-@media only screen and (max-width: 600px) {
-    .container {
-        width: 80%;
-        margin: 20px auto;
-    }
-
-    .search-wrapper {
-        width: 80%; 
-        margin: 0 auto;
-    }
-
-    input[type="text"] {
-        width: 100%; 
-        margin: 0 auto; 
-        box-sizing: border-box; 
-    }
-
-    .results-container {
-        width: 80%; 
-        margin: 20px auto;
-    }
 }
