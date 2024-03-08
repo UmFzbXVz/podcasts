@@ -138,7 +138,12 @@ h2 {
         margin: 20px;
     }
 
-    .results-container {
-        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    .search-wrapper {
+        width: calc(100% - 40px);
+        margin: 0 auto;
+    }
+
+    input[type="text"] {
+        width: calc(100% - 20px);
     }
 }
