@@ -9,7 +9,12 @@
 <body>
 
 <div class="container">
-    <input type="text" id="searchInput" placeholder="Søg efter podcasts...">
+    <h2>Søg i Radio24syv Podcasts</h2>
+    <div class="search-wrapper">
+        <input type="text" id="searchInput" placeholder="Søg efter podcasts...">
+        <span class="clear-search" onclick="clearSearch()">&#10006;</span>
+    </div>
+    <p class="helper-text">*Klik på det lille ikon for at kopiere RSS-linket</p>
     <div id="results"></div>
 </div>
 
@@ -26,6 +31,11 @@ async function fetchPodcastsData() {
         console.error('Fejl ved indlæsning af podcasts data:', error);
         return null;
     }
+}
+
+function clearSearch() {
+    document.getElementById('searchInput').value = '';
+    document.getElementById('results').innerHTML = '';
 }
     
 async function checkRSSExists(podcastName) {
