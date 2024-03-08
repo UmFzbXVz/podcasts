@@ -7,8 +7,7 @@ body {
 }
 
 .container {
-    width: 80%;
-    max-width: 500px;
+    width: 500px;
     margin: 100px auto;
 }
 
@@ -18,8 +17,7 @@ body {
 }
 
 input[type="text"] {
-    width: 100%;
-    max-width: 500px;
+    width: 500px;
     padding: 10px;
     font-size: 16px;
     border: none;
@@ -132,3 +130,13 @@ h2 {
     cursor: pointer; 
 }
 
+@media only screen and (max-width: 600px) {
+    .container {
+        width: calc(100% - 40px); /* Gør containeren lidt smallere med lidt margin */
+        margin: 20px;
+    }
+
+    .results-container {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Juster størrelsen på søgeresultaterne */
+    }
+}
