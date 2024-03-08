@@ -1,3 +1,5 @@
+/* Oprindelig CSS */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #0d1117;
@@ -133,14 +135,10 @@ h2 {
 @media only screen and (max-width: 600px) {
     .container {
         width: calc(100% - 40px);
-        margin: 20px 5px;
+        margin: 20px;
     }
 
-    input[type="text"] {
-        width: calc(100% - 40px);
-    }
-
-    #results {
-        margin-right: 5px;
+    .results-container {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     }
 }
