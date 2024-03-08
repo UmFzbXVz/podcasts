@@ -129,3 +129,17 @@ h2 {
     margin-left: 10px;
     cursor: pointer; 
 }
+
+@media only screen and (max-width: 500px) {
+    .container {
+        width: 80%;
+    }
+
+    input[type="text"] {
+        width: 80%;
+    }
+
+    #results {
+        width: 80%;
+    }
+}
