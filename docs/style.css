@@ -1,4 +1,3 @@
-/* Standard styling for både computerskærme og mobiltelefoner */
 body {
     font-family: Arial, sans-serif;
     background-color: #0d1117;
@@ -8,8 +7,8 @@ body {
 }
 
 .container {
-    margin: 100px auto; /* Centrer containeren */
-    max-width: 500px; /* Sæt en maksimal bredde på 500px */
+    margin: 100px auto; 
+    max-width: 500px;
 }
 
 .search-wrapper {
@@ -21,8 +20,8 @@ body {
 }
 
 input[type="text"] {
-    width: 80%; /* Søgefeltet strækker sig til 80% af forældreelementets bredde */
-    max-width: 400px; /* Sæt en maksimal bredde på 400px */
+    width: 80%; 
+    max-width: 400px; 
     padding: 10px;
     font-size: 16px;
     border: none;
@@ -34,7 +33,7 @@ input[type="text"] {
 .clear-search {
     position: absolute;
     top: 50%;
-    left: calc(100% - 60px); /* Justeret værdien til at være relativ til størrelsen af søgefeltet */
+    left: calc(100% - 55px); 
     transform: translate(-50%, -50%);
     cursor: pointer;
     color: #8b949e;
@@ -129,7 +128,7 @@ h2 {
 .podcast-logo {
     max-width: 20px;
     max-height: 20px;
-    overflow: hidden; /* Tilføjet overflow */
+    overflow: hidden;
 }
 
 .rss-icon {
