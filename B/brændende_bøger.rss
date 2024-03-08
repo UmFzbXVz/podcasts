@@ -546,5 +546,14 @@
 			<itunes:duration>00:52:49</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58875635/mein_kampf.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Det Kommunistiske Manifest</title>
+			<link>https://api.spreaker.com/download/episode/58960289/det_kommunistiske_manifest.mp3</link>
+			<description>Et spøgelse går gennem Europa - kommunismens spøgelse.Sådan lyder de allerførste ord i “Det Kommunistiske Manifest” fra 1848, skrevet af Friedrich Engelsk og Karl Marx for at udarbejde et teoretisk og praktisk partiprogram til det kommunistiske parti.I dag står manifestet tilbage som en af mest betydningsfulde tekster i verdenshistorien. Skrevet i en selvsikker og endda sassy stil, spøger dens argumenter og analyser stadig.  Men hvordan skriver manifestet en ny verdenshistorie på knap 40 sider? Har teksten overhovedet noget at gøre med litteratur, og hvorfor er forfatterne så sikre på kommunismens uundgåelige sejr?Lyt med, når vi snakker med professor Mikkel Bolt om &quot;Det Kommunistiske Manifest&quot;.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58960289/det_kommunistiske_manifest.mp3</guid>
+			<pubDate>Thu, 07 Mar 2024 17:20:47 +0000</pubDate>
+			<itunes:duration>00:52:24</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58960289/det_kommunistiske_manifest.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

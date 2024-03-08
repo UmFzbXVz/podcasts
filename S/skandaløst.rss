@@ -348,5 +348,14 @@
 			<itunes:duration>00:57:38</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58873635/helle_thorning.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Balladen om Simon Spies og morgenbolledamerne</title>
+			<link>https://api.spreaker.com/download/episode/58932531/spies.mp3</link>
+			<description>Rejsekongen Simon Spies omringet af unge, smukke kvinder. Kvinder, eller nærmere piger, der ofte begynder som piccoliner i rejsekoncernen Spies Rejser, men så ender med at arbejde som morgenbolledamer hos Simon Spies. Det tager Danmarks Radio under kærlig behandling i august 2022, da de udgiver dokumentaren ‘Spies og morgenbolledamerne’ produceret af Laud People. Det er efter anden bølge af Metoo, og programmet bliver produceret stærkt kritisk over for Simon Spies’ forbrug af pigerne. Men dokumentaren ender med at blive omstridt.Vært og tilrettelægger: Sanne FahnøeGæster: Niels Frederik Rickers, journalist 24syv, og Lars Bajlum Holmgaard Christensen, skandalogLyddesign: Daniel Sarto Lassen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58932531/spies.mp3</guid>
+			<pubDate>Fri, 08 Mar 2024 04:30:01 +0000</pubDate>
+			<itunes:duration>01:05:12</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58932531/spies.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

@@ -249,5 +249,23 @@
 			<itunes:duration>00:00:06</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/56883231/fr_seriet_promo.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Jackie Navarro 2:2</title>
+			<link>https://api.spreaker.com/download/episode/58945597/fr_seriet_jackie_del_2.mp3</link>
+			<description>Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab. Humøret er højt og vinen er god. Velbekomme,</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58945597/fr_seriet_jackie_del_2.mp3</guid>
+			<pubDate>Fri, 08 Mar 2024 05:05:01 +0000</pubDate>
+			<itunes:duration>00:37:11</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58945597/fr_seriet_jackie_del_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Jackie Navarro 1:2</title>
+			<link>https://api.spreaker.com/download/episode/58945595/fr_seriet_jackie_del_1_ny.mp3</link>
+			<description>Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab. Humøret er højt og vinen er god. Velbekomme,</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58945595/fr_seriet_jackie_del_1_ny.mp3</guid>
+			<pubDate>Fri, 08 Mar 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:29:29</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58945595/fr_seriet_jackie_del_1_ny.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
