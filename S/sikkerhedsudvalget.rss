@@ -717,5 +717,23 @@
 			<itunes:duration>00:23:09</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58999981/110324_sikkerhedsudvalget_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Klimakaos på vej</title>
+			<link>https://api.spreaker.com/download/episode/59013162/120324_sikkerhedsudvalget_2.mp3</link>
+			<description>Klimaforandringerne udgør en sikkerhedstrussel for de europæiske lande, og vores beredskaber er ikke gearet til udfordringerne. Det er budskabet i en ny rapport fra Det Europæiske Miljøagentur. “Vi er ikke forberedte på, hvor voldsomt det bliver” siger meteorlog og klimaekspert Jesper Theilgaard.Medvirkende:Jesper Theilgaard, meteorolog og klimaekspert.Bjarne Nigaard, sekretariatschef i Danske Beredskaber.Vært: David Trads.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59013162/120324_sikkerhedsudvalget_2.mp3</guid>
+			<pubDate>Tue, 12 Mar 2024 10:58:17 +0000</pubDate>
+			<itunes:duration>00:24:23</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59013162/120324_sikkerhedsudvalget_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Dansk fregat i ildkamp</title>
+			<link>https://api.spreaker.com/download/episode/59013152/120324_sikkerhedsudvalget_1.mp3</link>
+			<description>Den danske fregat Iver Huitfeldt var i weekenden i kamp i Det Røde Hav. “Der var nogen, der mente, at fregatten bare ville sejle i vejen for de andre. Det er nu modbevist&quot;, siger Søren Nørby, marinehistoriker og adjunkt på Forsvarsakademiet. Medvirkende:Søren Anker Uldum, seniorforsker og fagchef på Statens Serum Institut.Søren Nørby, marinehistoriker og adjunkt på Forsvarsakademiet.Jacob Kaarsbo, senioranalytiker ved Tænketanken Europa.Vært: David Trads.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59013152/120324_sikkerhedsudvalget_1.mp3</guid>
+			<pubDate>Tue, 12 Mar 2024 10:57:36 +0000</pubDate>
+			<itunes:duration>00:25:11</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59013152/120324_sikkerhedsudvalget_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
