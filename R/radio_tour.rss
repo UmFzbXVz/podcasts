@@ -2031,5 +2031,14 @@
 			<itunes:duration>01:02:50</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58932071/rtlyd0503.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Dansker-præstationer og optakt til Milano-Sanremo</title>
+			<link>https://api.spreaker.com/download/episode/59017256/radiotour_120324.mp3</link>
+			<description>I Radio Tour gennemgåes der ugens store dansker øjeblikke, og der ses frem til weekendens Milano-Sanremo.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59017256/radiotour_120324.mp3</guid>
+			<pubDate>Tue, 12 Mar 2024 14:48:31 +0000</pubDate>
+			<itunes:duration>01:03:22</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59017256/radiotour_120324.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
