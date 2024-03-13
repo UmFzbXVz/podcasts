@@ -141,5 +141,14 @@
 			<itunes:duration>00:53:37</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58934590/0305_saturday_n_f_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Fight Club: Kan mænd være venner uden at slås?</title>
+			<link>https://api.spreaker.com/download/episode/59019934/0312_fight_club_mp3.mp3</link>
+			<description>Hvad gør man, hvis man har svært ved at sove om natten? Man starter en kampklub i kælderen!Det gør hovedpersonen i “Fight Club” i hvert fald. Her tæsker unge, hvide mænd løs på hinanden, mens de forbander “systemet” og alt, hvad det står for - og det er kun for mænd!Men er Fight Club en guide til hvordan unge mænd kan afløb for deres vrede gennem vold? Er terror en fornuftig løsning på psykisk sygdom? Og kan man stadig være en rigtig mand, hvis man har mistet sine testikler og groet bryster?Værter:Anne Lund, Inge Høeg &amp; Simon Porse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59019934/0312_fight_club_mp3.mp3</guid>
+			<pubDate>Tue, 12 Mar 2024 17:42:59 +0000</pubDate>
+			<itunes:duration>00:53:43</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59019934/0312_fight_club_mp3.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

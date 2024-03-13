@@ -9213,5 +9213,14 @@
 			<itunes:duration>00:28:48</itunes:duration>
 			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2024/03/11-75469-20240312TIFsaudi.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>How an infamous ransomware gang found itself hacked</title>
+			<link>https://flex.acast.com/audio.guim.co.uk/2024/03/12-67964-TIFLockbit2.mp3</link>
+			<description>LockBit was a sophisticated criminal operation, offering the tools needed to steal a company’s data and hold it to ransom. Then it was itself hacked. Alex Hern reports. Help support our independent journalism at theguardian.com/infocus</description>
+			<guid isPermaLink="true">https://flex.acast.com/audio.guim.co.uk/2024/03/12-67964-TIFLockbit2.mp3</guid>
+			<pubDate>Wed, 13 Mar 2024 03:00:01 +0000</pubDate>
+			<itunes:duration>00:33:04</itunes:duration>
+			<enclosure url="https://flex.acast.com/audio.guim.co.uk/2024/03/12-67964-TIFLockbit2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

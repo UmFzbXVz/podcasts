@@ -582,5 +582,23 @@
 			<itunes:duration>00:13:25</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58932084/amerikanske_midtvejsvalg.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Joe Biden</title>
+			<link>https://api.spreaker.com/download/episode/59000344/joe_biden.mp3</link>
+			<description>Niels Bjerre Poulsen er gæste-eksperten i dagens afsnit af Lex Mig om Joe Biden. Niels er ph.d. i amerikansk historie fra University of California, Santa Barbara, og så er han en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59000344/joe_biden.mp3</guid>
+			<pubDate>Wed, 13 Mar 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:13:57</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59000344/joe_biden.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Donald Trump</title>
+			<link>https://api.spreaker.com/download/episode/59000345/donald_trump_1.mp3</link>
+			<description>Niels Bjerre Poulsen er gæste-eksperten i dagens afsnit af Lex Mig om Donald Trump. Niels er ph.d. i amerikansk historie fra University of California, Santa Barbara, og så er han en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59000345/donald_trump_1.mp3</guid>
+			<pubDate>Wed, 13 Mar 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:18:28</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59000345/donald_trump_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
