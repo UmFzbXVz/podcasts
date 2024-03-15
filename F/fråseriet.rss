@@ -267,5 +267,14 @@
 			<itunes:duration>00:29:29</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58945595/fr_seriet_jackie_del_1_ny.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Lars Hjortshøj 1:2</title>
+			<link>https://api.spreaker.com/download/episode/59045130/fr_seriet_hjortsh_j_del_1_ny.mp3</link>
+			<description>Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation woke? Det og meget mere under indtagelsen af lækre vine og eksklusiv mad - som altid tilberedt af Jesper. Velbekomme!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59045130/fr_seriet_hjortsh_j_del_1_ny.mp3</guid>
+			<pubDate>Fri, 15 Mar 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:42:29</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59045130/fr_seriet_hjortsh_j_del_1_ny.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

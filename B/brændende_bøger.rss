@@ -555,5 +555,14 @@
 			<itunes:duration>00:52:24</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58960289/det_kommunistiske_manifest.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hærværk</title>
+			<link>https://api.spreaker.com/download/episode/59047690/h.mp3</link>
+			<description>I “Hærværk”, Tom Kristenens roman fra 1930, finder vi en fortælling om København i 20’erne: Om digterdrømme, drabelig alkoholisme, og et håb om, at der findes noget kreativt og brugbart i forfaldet. Her venter slåskampe og kønssygdomme, kommunister og misogyni, arrogante journalister og forliste skæbner, alt sammen skrevet i et jazz’et, næsten nutidigt sprog. Men hvad i bogen er sandt og hvad er falsk i forhold til forfatterens eget liv? Er København nogensinde blevet vildere beskrevet i dansk litteratur, og hvorfor kaster vores kære hovedperson, Ole Jastrau, sig ud i forfaldet, i hærværket, uden at se sig tilbage?Lyt med, når vi sammen med Elizabeth Blicher dykker ind i en ikonisk dansk klassiker.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59047690/h.mp3</guid>
+			<pubDate>Thu, 14 Mar 2024 17:33:00 +0000</pubDate>
+			<itunes:duration>00:52:14</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59047690/h.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
