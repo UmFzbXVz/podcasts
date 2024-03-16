@@ -1300,5 +1300,17 @@ Producer: Marcus Eklund</description>
 			<itunes:duration>00:53:45</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58969172/mette_og_de_bl_m_nd_8_marts.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Mette F. skræmmer med hypotetiske russer-scenarier, no way til kvindelig værnepligt og Messerschmidts twitter-storm</title>
+			<link>https://api.spreaker.com/download/episode/59056712/mette_og_de_bl_15_marts.mp3</link>
+			<description>Det er et totalt urealistisk skræmmescenarium, når Mette Frederiksen bare så meget som lufter tanken om 3. verdenskrig. Russerne kommer nemlig ikke! Og så er det gode, borgerlige parti LA imod kvindelig værnepligt, ja de er faktisk helt imod værnepligt. Silas har taget et par sjove historier med fra ugen.
+
+Værter: Silas Moody og Sanne Fahnøe
+Producer: Marcus Eklund</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59056712/mette_og_de_bl_15_marts.mp3</guid>
+			<pubDate>Fri, 15 Mar 2024 12:42:50 +0000</pubDate>
+			<itunes:duration>00:53:35</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59056712/mette_og_de_bl_15_marts.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

@@ -557,5 +557,14 @@ Jakob Lave - LinkedInTilrettelægger: Liselotte Lyngsø og Denis Rivin - LinkedI
 			<itunes:duration>00:53:20</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58955532/st_rummet_mixdown_16_lufs.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>SPECIAL EDITION: Lars Tvede i samtale om sundhed, vaccineholdninger og fremtidens pandemi</title>
+			<link>https://api.spreaker.com/download/episode/59057387/supertrends_special.mp3</link>
+			<description>Dette er en anderledes særepisode, hvor Lars Tvede har en samtale med sin livlæge Jørgen Thorball om sundhed, biomarkører, vaccineholdninger og fremtidens pandemier.Jørgen Thorball er bosat i Sveits, grundlægger af Rigi Care, chief medical officer og medejer af Hawkeye MRI AG samt grundlægger, ejer og administrerende direktør for XOventure. Vært: Lars Tvede - LinkedInGæst: Jørgen Thorball - LinkedInKlipper:Anne Lund Larsen - Linkdin</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59057387/supertrends_special.mp3</guid>
+			<pubDate>Fri, 15 Mar 2024 13:44:26 +0000</pubDate>
+			<itunes:duration>01:19:39</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59057387/supertrends_special.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
