@@ -2040,5 +2040,14 @@
 			<itunes:duration>01:03:22</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59017256/radiotour_120324.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Radio Tour – taler Milano-Sanremo</title>
+			<link>https://api.spreaker.com/download/episode/59070898/milano_sanremo_taler_giro_pod.mp3</link>
+			<description>Det blev til en sejr til Jasper Philipsen i årets udgave af Milano-Sanremo. Peter Piil, Matti Breschel, Bastian Emil Goldschmidt og Jesper Worre lægger årets første monument ned.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59070898/milano_sanremo_taler_giro_pod.mp3</guid>
+			<pubDate>Sat, 16 Mar 2024 17:44:13 +0000</pubDate>
+			<itunes:duration>00:22:39</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59070898/milano_sanremo_taler_giro_pod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
