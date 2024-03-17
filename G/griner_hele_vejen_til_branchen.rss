@@ -502,5 +502,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:52</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58868719/24syv_s2_a33_noget_om_music_management_mentorforl_b_og_accountthebeat_med_trine_ulrich_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Lydhavnen, Mastering og Gyraf Audio med Emil Thomsen og Jakob Erland</title>
+			<link>https://api.spreaker.com/download/episode/58876776/24syv_s2_a34_noget_om_lydhavnen_mastering_og_gyraf_audio_med_emil_thomsen_og_jakob_erland_podcast.mp3</link>
+			<description>I denne uge snakker vi med Emil Thomsen og Jakob Erland fra Lydhavnen i Aarhus. De kommer til at fortælle os om deres arbejde, hvor Emil Thomsen er professionel mastering engineer og Jakob Erland arbejder selvstændigt i firmaet Gyraf Audio, som laver musikudstyr som blandt andet kompressorer. Det bliver super fedt!Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58876776/24syv_s2_a34_noget_om_lydhavnen_mastering_og_gyraf_audio_med_emil_thomsen_og_jakob_erland_podcast.mp3</guid>
+			<pubDate>Sun, 17 Mar 2024 10:00:02 +0000</pubDate>
+			<itunes:duration>00:53:42</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/58876776/24syv_s2_a34_noget_om_lydhavnen_mastering_og_gyraf_audio_med_emil_thomsen_og_jakob_erland_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
