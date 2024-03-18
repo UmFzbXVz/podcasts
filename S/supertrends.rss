@@ -566,5 +566,14 @@ Jakob Lave - LinkedInTilrettelægger: Liselotte Lyngsø og Denis Rivin - LinkedI
 			<itunes:duration>01:19:39</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59057387/supertrends_special.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Fremtidens forskning - VidensGab</title>
+			<link>https://api.spreaker.com/download/episode/59057775/supertrends_fremtidens_forskning.mp3</link>
+			<description>Hør videnskabsjournalist Lone Frank fortælle hvordan forskning vil få et kæmpe boost med mønstergenkendelse, autonome laboratorier, kortlægning af alt med E-swiping og identifikation af nye sammenhænge. Det bliver helt vildt hvad der kommer af nye gennembrud. Men er forskerne klar?Værter:Liselotte Lyngsø - LinkedInIværksætter og forfatter Lars Tvede - LinkedInMedvirkende:Lone Frank - LinkedInTilrettelægger:Liselotte Lyngsø og Denis Rivin - LinkedInProducent:Kim Pihl-Vester - LinkedInKlipper:Anne Lund Larsen - Linkdin</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59057775/supertrends_fremtidens_forskning.mp3</guid>
+			<pubDate>Mon, 18 Mar 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:53:36</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59057775/supertrends_fremtidens_forskning.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

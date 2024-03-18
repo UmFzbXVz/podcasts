@@ -205,5 +205,14 @@
 			<itunes:duration>00:30:59</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58845832/gonzo_talk_show_prolog.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Sæson 3: Afsnit 1: En Gonzo Giver Aldrig Op - The Talkshow: Fritimens tretrinsraket</title>
+			<link>https://api.spreaker.com/download/episode/59083760/gonzo_the_talkshow.mp3</link>
+			<description>Alle muligheder står åbne til allersidste sekund i denne første udgave af det nye talkshow, hvor hverken jinglen er på plads, eller endnu vigtigere, gæsten ser ud til at dukke op. Så i mødet med Danmarks oversete originaler lærer vi også lytterne at kende. Og introducerer desuden koncepterne’ Notetjek’, ‘Vi skamhører’ og ’NYT NU’ (lyt nu på en ny måde)</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59083760/gonzo_the_talkshow.mp3</guid>
+			<pubDate>Mon, 18 Mar 2024 06:28:17 +0000</pubDate>
+			<itunes:duration>01:12:49</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59083760/gonzo_the_talkshow.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
