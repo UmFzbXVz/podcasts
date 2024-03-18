@@ -780,5 +780,14 @@
 			<itunes:duration>00:24:04</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59084110/sikkerhedsudvalget_1803_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Russisk propagandavalg</title>
+			<link>https://api.spreaker.com/download/episode/59084367/180124_sikkerhedsudvalget_2.mp3</link>
+			<description>Vladimir Putin vandt ikke overraskende det russiske præsidentvalg. &quot;Det får mig til at tænke på Stalins talemåde: Det handler ikke om, hvad der er blevet valgt, men hvad der er blevet talt&quot;, lyder det fra Mette Skak, lektor emerita på Aarhus Universitet.Medvirkende:Mette Skak, lektor emerita ved Institut for Statskundskab på Aarhus Universitet.Vyacheslav Bakhmin, russisk menneskerettighedsaktivist påsat i Moskva. Vært: David Trads.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59084367/180124_sikkerhedsudvalget_2.mp3</guid>
+			<pubDate>Mon, 18 Mar 2024 08:36:53 +0000</pubDate>
+			<itunes:duration>00:23:39</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59084367/180124_sikkerhedsudvalget_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
