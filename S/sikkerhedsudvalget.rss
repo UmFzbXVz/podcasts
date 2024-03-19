@@ -798,5 +798,14 @@
 			<itunes:duration>00:23:48</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59098736/190324_sikkerhedsudvalget_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>&quot;Pandemigaranti er unødvendig&quot;</title>
+			<link>https://api.spreaker.com/download/episode/59098742/190324_sikkerhedsudvalget_2.mp3</link>
+			<description>Sundhedsministeriet arbejder på en en såkaldt “pandemigaranti”, der giver Danmark mulighed for at købe 11,7 millioner vacciner, hvis WHO i fremtiden erklærer, at der er udbrudt en “pandemisk influenza”. Det er slet ikke nødvendingt, vurderer virolog og professor Allan Randrup Thomsen. Det eksisterende beredskab er tilstrækkeligt, mener han.Medvirkende:Allan Randrup Thomsen, virolog og professor på Københavns Universitet.Vært: David Trads.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59098742/190324_sikkerhedsudvalget_2.mp3</guid>
+			<pubDate>Tue, 19 Mar 2024 09:58:13 +0000</pubDate>
+			<itunes:duration>00:25:14</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59098742/190324_sikkerhedsudvalget_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
