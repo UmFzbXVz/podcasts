@@ -2049,5 +2049,14 @@
 			<itunes:duration>00:22:39</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59070898/milano_sanremo_taler_giro_pod.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Italiensk produktion og cykeltyve</title>
+			<link>https://api.spreaker.com/download/episode/59101106/radiotour_190324.mp3</link>
+			<description>Brian Holm er tilbage i de trykke rammer i Radio Tour studiet, og har som altid et par anekdoter til ugens emner.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59101106/radiotour_190324.mp3</guid>
+			<pubDate>Tue, 19 Mar 2024 14:13:38 +0000</pubDate>
+			<itunes:duration>01:02:10</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59101106/radiotour_190324.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
