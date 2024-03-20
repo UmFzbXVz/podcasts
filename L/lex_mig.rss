@@ -600,5 +600,23 @@
 			<itunes:duration>00:18:28</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59000345/donald_trump_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Karen Blixen</title>
+			<link>https://api.spreaker.com/download/episode/59100787/karen_blixen_1.mp3</link>
+			<description>Dag Ole Hede er gæste-eksperten i dagens afsnit af Lex Mig om Karen Blixen. Dag er ph.d. i litteraturvidenskab og lektor emeritus ved Syddansk Universitet, Institut for Kultur og Sprogvidenskaber. Han er også en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59100787/karen_blixen_1.mp3</guid>
+			<pubDate>Wed, 20 Mar 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:14:24</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59100787/karen_blixen_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Queer</title>
+			<link>https://api.spreaker.com/download/episode/59100794/queer_1.mp3</link>
+			<description>Dag Ole Hede er gæste-eksperten i dagens afsnit af Lex Mig om queer. Dag er ph.d. i litteraturvidenskab og lektor emeritus ved Syddansk Universitet, Institut for Kultur og Sprogvidenskaber. Han er også  en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59100794/queer_1.mp3</guid>
+			<pubDate>Wed, 20 Mar 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:09:34</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59100794/queer_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
