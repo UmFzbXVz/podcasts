@@ -564,5 +564,14 @@
 			<itunes:duration>00:52:14</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59047690/h.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Candide; eller - Overlevelsesguide til en ond verden</title>
+			<link>https://api.spreaker.com/download/episode/59127452/candide.mp3</link>
+			<description>Hvordan forklarer man det onde i verden? Voltaires verdenskendte hovedperson Candide får i løbet af sit liv en lang række tæv - Først bliver han tvunget væk fra sin elskede, så bliver han sendt i krig, derefter ramt af et jordskælv, og senere, dømt til døden. Alligevel gør det ham ikke så meget. Vi skal være taknemmelige, forklarer han, for vi lever trods alt i den bedste af alle verdner. Lyt med, når vi sammen med Nanna Schmidt Nordestgaard og spøger, hvorfor Voltaire insisterer på at vise Candide alt det dårlige i verden, og, hvilke tips til overlevelse i en ond verden kan vi finde i denne en af verdenshistoriens sjoveste bøger.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59127452/candide.mp3</guid>
+			<pubDate>Thu, 21 Mar 2024 17:00:02 +0000</pubDate>
+			<itunes:duration>00:55:34</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59127452/candide.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

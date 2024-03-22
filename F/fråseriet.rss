@@ -285,5 +285,23 @@
 			<itunes:duration>00:42:13</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59056975/fr_seriet_hjortsh_j_del_2.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Silja Okking 2:2</title>
+			<link>https://api.spreaker.com/download/episode/59127443/fr_seriet_silja_del_2.mp3</link>
+			<description>Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en børnevært godt kan bande. Meget. Velbekomme!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59127443/fr_seriet_silja_del_2.mp3</guid>
+			<pubDate>Fri, 22 Mar 2024 05:05:01 +0000</pubDate>
+			<itunes:duration>00:50:10</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59127443/fr_seriet_silja_del_2.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Silja Okking 1:2</title>
+			<link>https://api.spreaker.com/download/episode/59127442/fr_seriet_silja_del_1.mp3</link>
+			<description>Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en børnevært godt kan bande. Meget. Velbekomme!</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59127442/fr_seriet_silja_del_1.mp3</guid>
+			<pubDate>Fri, 22 Mar 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:36:14</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59127442/fr_seriet_silja_del_1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

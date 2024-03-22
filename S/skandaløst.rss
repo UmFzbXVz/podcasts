@@ -375,5 +375,14 @@
 			<itunes:duration>00:33:58</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59016086/part_2_blodigt_eftera_r_i_df_mixdown_16_lufs.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Clinton, Lewinsky og cigaren</title>
+			<link>https://api.spreaker.com/download/episode/59112319/clinton_og_lewinsky.mp3</link>
+			<description>Da Monica Lewinsky kommer til Washington i 1995, 21 år gammel, for at arbejde som praktikant i Det Hvide Hus, er hun totalt ukendt i offentligheden. Men det ændrer sig som et trylleslag i januar 1998. Pludselig bliver hun verdenskendt som hende, der har haft en affære med USAs president Bill Clinton. Men hvordan ender en affære med at blive centrum for en sag i den amerikanske rigsret med Bill Clinton som den anklagede?Vært og tilrettelægger: Sanne FahnøeGæster: Niels Bjerre-Poulsen, lektor i Amerikanske Studiere ved SDU, og Lars Bajlum Holmgaard Christensen, skandalog og medieforskerLyddesign: Daniel Sarto Lassen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59112319/clinton_og_lewinsky.mp3</guid>
+			<pubDate>Fri, 22 Mar 2024 04:30:01 +0000</pubDate>
+			<itunes:duration>00:59:42</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59112319/clinton_og_lewinsky.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
