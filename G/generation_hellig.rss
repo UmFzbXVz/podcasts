@@ -105,5 +105,14 @@
 			<itunes:duration>00:57:48</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59025269/overdiagnosticering.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Bliver vi styret af AI?</title>
+			<link>https://api.spreaker.com/download/episode/59025747/ai.mp3</link>
+			<description>Gør ChatGPT, at vi glemmer at være kildekritiske? Er vi blevet afhængige af AI endnu? Og hvad siger to ungdomspolitikere til en fremtid med AI venner?I dagens panel har jeg Josefine Sønderkjær-Andersen, der er formand for Venstres Ungdom i København sammen med Kenn Heikendorf, der er næstformand for Internationalt Udvalg i Venstres Ungdom.Hør om hvordan Kenn bruger AI i sin hverdag, og om hvordan Josefine tror, vores fremtid med AI kommer til at se ud.Husk at du altid er velkommen til at skrive til Philippa med et atypisk, udfordrende eller sprængfarligt emne på Instagram: generation_hellig.Din vært er Philippa Rosic, velkommen til Generation Hellig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59025747/ai.mp3</guid>
+			<pubDate>Fri, 22 Mar 2024 23:00:01 +0000</pubDate>
+			<itunes:duration>00:53:18</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59025747/ai.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
