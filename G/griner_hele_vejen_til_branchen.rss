@@ -511,5 +511,14 @@ Programmet er lavet i samarbejde med Musikvidenskab, Århus Universitet</descrip
 			<itunes:duration>00:53:42</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/58876776/24syv_s2_a34_noget_om_lydhavnen_mastering_og_gyraf_audio_med_emil_thomsen_og_jakob_erland_podcast.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Noget om Roskilde Festival, Booking og Musikbranchen med Anders Wahren</title>
+			<link>https://api.spreaker.com/download/episode/59114715/s2_a35_noget_om_roskilde_festival_booking_og_musikbranchen_med_anders_wahren_podcast.mp3</link>
+			<description>I denne uge snakker vi med Anders Wahren, som er programchef for Roskilde Festival, og har arbejdet med bookinger på Roskilde Festival siden 2003. Vi kommer til at berøre emner som for eksempel hans vej ind i branchen og det ansvar man står med, når man er programchef for en så stor festival. Det bliver super fedt!Dine værter er Mia Marie Lyngsø og Jeppe Schartau</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59114715/s2_a35_noget_om_roskilde_festival_booking_og_musikbranchen_med_anders_wahren_podcast.mp3</guid>
+			<pubDate>Sun, 24 Mar 2024 10:00:02 +0000</pubDate>
+			<itunes:duration>00:53:50</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59114715/s2_a35_noget_om_roskilde_festival_booking_og_musikbranchen_med_anders_wahren_podcast.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
