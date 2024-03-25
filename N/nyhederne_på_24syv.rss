@@ -11796,5 +11796,41 @@
 			<itunes:duration>00:05:55</itunes:duration>
 			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59155480/nyhederne_p_24syv_kl_1900.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Nyhederne på 24syv kl. 10:00</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59161581/kl10.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59161581/kl10.mp3</guid>
+			<pubDate>Mon, 25 Mar 2024 09:08:13 +0000</pubDate>
+			<itunes:duration>00:06:09</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59161581/kl10.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Nyhederne på 24syv kl. 09:00</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59161277/kl9.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59161277/kl9.mp3</guid>
+			<pubDate>Mon, 25 Mar 2024 08:08:31 +0000</pubDate>
+			<itunes:duration>00:06:06</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59161277/kl9.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Nyhederne på 24syv kl. 08:00</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59161013/kl8.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59161013/kl8.mp3</guid>
+			<pubDate>Mon, 25 Mar 2024 07:10:13 +0000</pubDate>
+			<itunes:duration>00:06:09</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59161013/kl8.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Nyhederne på 24syv kl. 07:00</title>
+			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59160580/kl7.mp3</link>
+			<description/>
+			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59160580/kl7.mp3</guid>
+			<pubDate>Mon, 25 Mar 2024 06:15:09 +0000</pubDate>
+			<itunes:duration>00:05:59</itunes:duration>
+			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/59160580/kl7.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
