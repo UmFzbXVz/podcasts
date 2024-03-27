@@ -618,5 +618,23 @@
 			<itunes:duration>00:09:34</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59100794/queer_1.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>H.C Ørsted</title>
+			<link>https://api.spreaker.com/download/episode/59179750/h_c_rsted_redigeret.mp3</link>
+			<description>Anja Skaar Jacobsen er gæste-eksperten i dagens afsnit af Lex Mig om H.C. Ørsted. Anja er forskningskonsulent ved Niels Bohr Arkivet. Hun er også en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59179750/h_c_rsted_redigeret.mp3</guid>
+			<pubDate>Wed, 27 Mar 2024 05:01:12 +0000</pubDate>
+			<itunes:duration>00:11:22</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59179750/h_c_rsted_redigeret.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Niels Bohr</title>
+			<link>https://api.spreaker.com/download/episode/59179756/niels_bohr_redigeret.mp3</link>
+			<description>Anja Skaar Jacobsen er gæste-eksperten i dagens afsnit af Lex Mig om Niels Bohr. Anja er forskningskonsulent ved Niels Bohr Arkivet. Hun er også en af de eksperter, der skriver artikler for lex.dk, Danmarks nationalleksikon. Som altid er Lex Mig vejen til din opgave, din eksamen og din fremlæggelse. Mit navn er Marcus Eklund, og du ved lige så meget som mig.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59179756/niels_bohr_redigeret.mp3</guid>
+			<pubDate>Wed, 27 Mar 2024 05:01:12 +0000</pubDate>
+			<itunes:duration>00:12:21</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59179756/niels_bohr_redigeret.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

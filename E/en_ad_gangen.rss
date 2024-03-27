@@ -438,5 +438,14 @@
 			<itunes:duration>00:31:29</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59087231/obviously3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Sidste afsnit - Z3zo lukker det ned</title>
+			<link>https://api.spreaker.com/download/episode/59146675/seyit1.mp3</link>
+			<description>“Jeg vil gerne have folk til at relatere til det jeg snakker om” - i det allersidste afsnit af En Ad Gangen har vi Seyit i studiet. Han er 18 år og laver musik under navnet Z3zo, vi taler om hans musik-rejse, hvilken slags musik han laver og hvad han bliver inspireret af. Vi taler også lidt om poesi, og hvad det betyder for Seyit,  at han udover at lave musik, også skriver han også digte. Vi slutter det hele af med en at Z3zo synger et af sine numre i radioen. Let's go! Ungdomsbureauet ser nærmere på forskellige aspekter af ungdomslivet. Din vært Gunvor Barkholt dykker ned i nogle af de bekymringer, tanker og drømme der fylder hos ungdommen. Med andre ord, så ser vi nærmere på unges udfordringer og muligheder – En ad gangen.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59146675/seyit1.mp3</guid>
+			<pubDate>Wed, 27 Mar 2024 06:00:07 +0000</pubDate>
+			<itunes:duration>00:26:02</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59146675/seyit1.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
