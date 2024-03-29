@@ -1325,5 +1325,18 @@ Producer: Simon Porse </description>
 			<itunes:duration>00:53:41</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59135560/0322_mette_og_de_blaa_maend_mp3.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Personalenyt-finale - vi gennemgår alt vigtigt navnenyt i programmets historie!</title>
+			<link>https://api.spreaker.com/download/episode/59217039/0329_mette_bl_m_nd.mp3</link>
+			<description>Vi drikker gravøl over programmet Mette &amp; De Blå Mænd, men også OVER Mette og de blå mænd aka regeringen. Og så gennemgår vi alt det vigtige personalenyt gennem programmets historie og spår om fremtiden i dansk politik. Tak fordi I har lyttet med. We love you!
+
+Værter: Anna Thygesen og Sanne Fahnøe
+Gæst: Peter Astrup
+Producer: Simon Porse</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59217039/0329_mette_bl_m_nd.mp3</guid>
+			<pubDate>Fri, 29 Mar 2024 10:38:54 +0000</pubDate>
+			<itunes:duration>00:59:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59217039/0329_mette_bl_m_nd.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
