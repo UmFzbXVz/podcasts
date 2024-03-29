@@ -672,5 +672,14 @@
 			<itunes:duration>00:55:55</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59084599/boris_og_markus.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Sæsonafslutning-Special: Daniel &quot;Lonewolf&quot;: &quot;JEG ER KAREN WOLF!&quot;</title>
+			<link>https://api.spreaker.com/download/episode/59179736/daniel_lonewolf.mp3</link>
+			<description>Sidste episode af Marcus og Realitypanelet hos 24syv. Kanalen lukker men det stopper ikke Marcus og Daniel fra at have den bedste samtale mellem de 2 til dato. Lonewolf har udviklet sig og er blevet til en reflekteret alene ulv. Reddit har stillet en masse spørgsmål og Daniel svarer ærligt på dem. Hvad er hans type? Hvorfor kører han rundt i en varevogn? Er han i Danmark om 1 år? Lyt med i sæsonafslutningen her. Din vært er Marcus Eklund og du er med på en lytter.</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59179736/daniel_lonewolf.mp3</guid>
+			<pubDate>Fri, 29 Mar 2024 05:00:02 +0000</pubDate>
+			<itunes:duration>00:53:54</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59179736/daniel_lonewolf.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>

@@ -573,5 +573,14 @@
 			<itunes:duration>00:55:34</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59127452/candide.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>Hvad er din ynglingsbog og hvorfor?</title>
+			<link>https://api.spreaker.com/download/episode/59210219/sidsteudsendelse.mp3</link>
+			<description>I det sidste afsnit af “Brændende Bøger” sendt live på 24syv, ringer vi til nogle af de læsere, der har gæstet programmet og spørger hvilke bøger, der har påvirket dem mest, deres ynglingsbøger. Hør blandt andet brandtaler for: Stormfulde Højde, Emily BrontëHyperion, Dan SimmonsUlysses, James JoyceArv og Miljø, Vigdis Hjorth Ærlige Vers, José MartíPan, Knud HamsunThe Dispossessed, Ursula K. Le GuinMrs. Dalloway, Virginia WoolfLolita, Vladimir NabokovCity Slang, Søren Ulrik Thomsen</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59210219/sidsteudsendelse.mp3</guid>
+			<pubDate>Thu, 28 Mar 2024 17:18:22 +0000</pubDate>
+			<itunes:duration>00:58:03</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59210219/sidsteudsendelse.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
