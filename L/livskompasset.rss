@@ -249,5 +249,14 @@
 			<itunes:duration>01:19:33</itunes:duration>
 			<enclosure url="https://api.spreaker.com/download/episode/59076929/simon_munksh_j_redi2donepod.mp3" length="31457280" type="audio/mpeg"/>
 		</item>
+		<item>
+			<title>SÆSONAFSLUTNING: Et stort TAK herfra!</title>
+			<link>https://api.spreaker.com/download/episode/59078211/s_sonafslutning_1_redi1donepod.mp3</link>
+			<description>Tusinde, tusinde tak for denne sæson - for jer lyttere, til mine skønne gæster, 24syv og alle læringerne!Vi lyttes ved i næste &lt;3 KramLærke Wolffgang</description>
+			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59078211/s_sonafslutning_1_redi1donepod.mp3</guid>
+			<pubDate>Sun, 31 Mar 2024 21:10:02 +0000</pubDate>
+			<itunes:duration>00:16:03</itunes:duration>
+			<enclosure url="https://api.spreaker.com/download/episode/59078211/s_sonafslutning_1_redi1donepod.mp3" length="31457280" type="audio/mpeg"/>
+		</item>
 	</channel>
 </rss>
