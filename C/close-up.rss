@@ -1,437 +1,1708 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Close-Up</title>
-		<link>https://web.24syv.dk/channels/5068</link>
-		<description>Close-Up anmelder de vigtigste film i biograferne og de bedste serier på streaming. Med stor passion og faglighed tager dine værter Karoline Balstrøm og Claus Nygaard Petersen de mest centrale emner og tematikker op til diskussion og giver dig det fulde overblik over ugens underholdning.Har du input, spørgsmål eller kommentarer? Skriv til close-up@24syv.dk</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/911/a9213f3ebca69029aa6fac501d952657.png"/>
-		<item>
-			<title>Fremtidens filmmusik</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51861619/wsa_mp3.mp3</link>
-			<description>Nynner du også med på ’Star Wars’ temaet eller småtuder lidt, når du hører musikken fra starten af Pixar-filmen ’Op’? Alle har et forhold til filmmusik og det er et emne, som står os på Close-Up særligt nært. Derfor kigger vi i krystalkuglen og vil spå om, hvordan fremtiden kommer til at se ud for filmmusik. Til det har Karoline været til filmmusik-festival i Belgien, hvor hun har gået en masse filmkomponister på klingen efter svar, som hun så forsøger at skole Claus i. God fornøjelse!</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51861619/wsa_mp3.mp3</guid>
-			<pubDate>Fri, 11 Nov 2022 10:31:50 +0000</pubDate>
-			<itunes:duration>00:54:14</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51861619/wsa_mp3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Slasherfilm m. Andreas Strini</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51703496/slasher_med_strini.mp3</link>
-			<description>Halloween er juleaften for alle gysernørder. I stedet for et juletræ, står den på skrig og skrål, når en maskeret morder slagter en masse teenagere i en slasherfilm. Men er det ikke bare en forældet sub-genre af horrorfilm eller har den rent faktisk forandret sig med tiden? Til at svare på det og meget andet, har Karoline og Claus kommunikationsrådgiver og horrorekspert Andreas Strini i studiet til en god gang slasher-snak. Klip:  YouTube, Sacred Bones, New Line Cinema</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51703496/slasher_med_strini.mp3</guid>
-			<pubDate>Fri, 28 Oct 2022 22:05:01 +0000</pubDate>
-			<itunes:duration>00:54:20</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51703496/slasher_med_strini.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fra spil til film m. Jonas Monty</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51605923/spil_p_film_med_jonas_monty.mp3</link>
-			<description>Hvorfor er det så svært at lave en god film eller serie baseret på et videospil? Karoline og Claus dykker nærmere ned i det spørgsmål sammen med gaming-ekspert og anmelder Jonas Monty, hvor de forsøger at finde ud, hvor i processen det går galt. Har Hollywood spillet fallit eller er der stadig håb for fremtiden og den meget imødesete kommende HBO-serie ’The Last of Us’, som netop er baseret på en af de største spil-succeser de sidste 10 år.Klip: HBO Max, Disney, Sony og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51605923/spil_p_film_med_jonas_monty.mp3</guid>
-			<pubDate>Fri, 21 Oct 2022 22:05:01 +0000</pubDate>
-			<itunes:duration>00:54:09</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51605923/spil_p_film_med_jonas_monty.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Lars von Trier og ’Riget’ m. Linda Nygaard</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51550707/trier_med_linda_nygaard.mp3</link>
-			<description>Porten til Riget er åben igen, men hvorfor er det, at alle går i selvsving over serieskaberen Lars von Trier og en gammel serie fra ’90erne? Til at blive klogere på den kontroversielle instruktør har Karoline og Claus kyndig assistance fra journalist, LvT-aficionado og ’Riget’-fan Linda Nygaard. Det bliver en snak om coke, porno og akavet humor – god fornøjelse! Klip: DR, Viaplay og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51550707/trier_med_linda_nygaard.mp3</guid>
-			<pubDate>Fri, 14 Oct 2022 22:05:01 +0000</pubDate>
-			<itunes:duration>00:53:55</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51550707/trier_med_linda_nygaard.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>DC vs. Marvel m. Otto Olsen</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51490528/dc_marvel.mp3</link>
-			<description>Det er på tide at få det evige spørgsmål afgjort. Hvem er mesteren, Marvel eller DC? Captain America eller Batman? Hvem er de to underholdningsgiganter har teten i filmindustrien? Karoline er den benhårde dommer, mens Claus repræsenterer Marvel, og superhelte-ekspert Otto Olsen forsvarer DC? Det bliver en intens kamp med masser af verbale slagudvekslinger og god stemning. God fornøjelse!Klip: Warner Bros., Walt Disney og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51490528/dc_marvel.mp3</guid>
-			<pubDate>Fri, 07 Oct 2022 22:05:01 +0000</pubDate>
-			<itunes:duration>00:54:14</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51490528/dc_marvel.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Guilty Pleasures m. Linda Nygaard</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51381280/guilty_done.mp3</link>
-			<description>Alle har den ene film eller serie, som man godt ved ikke er god, men alligevel bare elsker at se. Men hvorfor er det, at vi ser de her guilty pleasures, når vi ved, at det er skrald? Hvad er appellen ved de syndige fornøjelser? Til at blive klogere på det og meget mere omkring guilty pleasures, har Karoline og Claus podcaster og journalist Linda Nygaard, hør bl.a. ud af, hvem der har et lidt for stort forbrug af reality-tv og pro-wrestling.Klip: HBO, Discovery, Scanbox og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51381280/guilty_done.mp3</guid>
-			<pubDate>Fri, 30 Sep 2022 22:05:01 +0000</pubDate>
-			<itunes:duration>00:53:54</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51381280/guilty_done.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Andor og Star Wars m. Jonas Monty</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51293823/sw_1.mp3</link>
-			<description>Så er der igen nyt fra en galakse langt, langt borte. En ny Star Wars-serie er landet, men hvad adskiller ’Andor’ fra alt de andre Star Wars ting? Og hvorfor er det, at folk går så meget op i Star Wars, at nogen bliver decideret racistiske klaphatte, når der kommer ikke-hvide skuespillere ind i franchisen? Til at hjælpe Karoline og Claus med at opklare det og meget mere, har de anmelder ved Soundvenue og Star Wars-ekspert Jonas Monty.   Klip: Walt Disney, YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51293823/sw_1.mp3</guid>
-			<pubDate>Fri, 23 Sep 2022 22:05:01 +0000</pubDate>
-			<itunes:duration>00:53:53</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51293823/sw_1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Musicals m. Rikke Fink</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51268649/musicals_med_rikke.mp3</link>
-			<description>Sidder du og skråler med på samtlige sange i ’Mamma Mia’ eller sidder og stirrer vantro mod den, som synger? Til at hjælpe Karoline og Claus med at forstå de mageløse musicals og hvorfor de er så fede, har de journalist og sangfugl Rikke Fink. Vi får bl.a. svar på, om Claus har en fremtid indenfor den musikalske genre, da han skal synge alle ledetrådene i hans gæt-en-musical-quiz, og hvordan fremtiden for de musikalske film ser ud.Klip: Walt Disney, YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51268649/musicals_med_rikke.mp3</guid>
-			<pubDate>Fri, 16 Sep 2022 22:05:01 +0000</pubDate>
-			<itunes:duration>00:54:13</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51268649/musicals_med_rikke.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Animation m. Rasmus Balstrøm</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51046217/animation_m_rasmus_balstr_m.mp3</link>
-			<description>Alle elsker animation. Hvad enten det er ’Disney’-film eller ’Rick and Morty’, så er der noget for folk i alle aldre. Men hvad er det animation kan, så det er stadig er fedt, selvom man er blevet voksen? Til at hjælpe Karoline og Claus til at blive klogere på det og meget andet samt sammensætte den perfekte lørdag morgen animations-flade har de ingen ringere end grafitikunstner og animationsfans Rasmus Balstrøm.Klip: Walt Disney, Netflix, Sony, DR og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51046217/animation_m_rasmus_balstr_m.mp3</guid>
-			<pubDate>Fri, 09 Sep 2022 22:00:02 +0000</pubDate>
-			<itunes:duration>00:54:14</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51046217/animation_m_rasmus_balstr_m.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ringenes herre-filmene og -serien m. Oskar Bundgaard</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51057836/rings_of_power.mp3</link>
-			<description>Mange har et nærmest religiøst forhold til fantasy-historien over dem alle, ’Ringenes herre’ og i særdeleshed Peter Jacksons filmtrilogi. Men hvorfor er det, at folk er så glade for det univers? Podcaster, historie-aficionado og ’Ringenes herre’-fan Oskar Bundgaard fortæller Karoline og Claus om sit eget forhold til den episke fortælling og hvorfor den er så unik, at den nu også bliver til verdens dyreste serie.Klip: Prime Video, New Line Cinema og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51057836/rings_of_power.mp3</guid>
-			<pubDate>Fri, 02 Sep 2022 22:00:02 +0000</pubDate>
-			<itunes:duration>00:53:56</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51057836/rings_of_power.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Game of Thrones og House of the Dragon m. Rikke Fink</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51030729/got.mp3</link>
-			<description>Efter den katastrofale afslutning på fantasyserien Game of Thrones lød der et ramaskrig fra fans, som krævede en ommer af deres elskede univers.  Det har de så fået med spin-off-serien ’House of the Dragon’, der foregår cirka 200 år før begivenhederne i den oprindelige serie. Til at hjælpe os med at få styr på, hvem der er hvem og om tingene er blevet bedre i den nye serie har Karoline og Claus journalist og GoT-superfan Rikke Fink.Klip: HBO, New Line Cinema og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51030729/got.mp3</guid>
-			<pubDate>Fri, 26 Aug 2022 22:00:02 +0000</pubDate>
-			<itunes:duration>00:53:53</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51030729/got.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Moderne horror og Jordan Peele m. Otto Olsen</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50948755/moderne_horror_1.mp3</link>
-			<description>Der er gys, gru og grin, når Karoline og Claus dykker ned i horrorfilm efter 2010. Til at komme i dybden har de assistance fra Otto Olsen, der har et livlangt kærlighedsforhold til de uhyggelige film. Der bliver sat spotlight på elevated horror og popcorn gysere, og hvad de to udtryk egentlig dækker over. Og når man snakker moderne horror, så er det svært at komme udenom mesterinstruktøren Jordan Peele og Otto hjælper med at forklare, hvorfor Peeles film har været så vellykket. I den forbindelse hører vi også fra Peeles faste filmkomponist Michael Abels, som giver et unikt indblik i hvordan instruktøren tænker.Klip: UIP og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50948755/moderne_horror_1.mp3</guid>
-			<pubDate>Fri, 19 Aug 2022 22:05:01 +0000</pubDate>
-			<itunes:duration>00:54:01</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50948755/moderne_horror_1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Lightyear og Verdens værste menneske: Store egoer</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50214166/episode_29.mp3</link>
-			<description>Er animationsfilmen ’Lightyear’ andet end et glubsk forsøg fra Disney på at maksimere indtjeningen på den elskede ’Toy Story’-franchise eller har spin-offet noget at byde på? Og så sætter Karoline og Claus sig for at opklare om norske Joachim Triers romantiske-drama-komedie ’Verdens værste menneske’ i virkeligheden er verden bedste film og dermed lever op til den massive hype, der har været omkring den. Og hvor godt kender Claus ikoniske brak-ups i filmhistorien, når Karoline quizzer ham? 
-
-Klip: Walt Disney Pictures, Camera Film og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50214166/episode_29.mp3</guid>
-			<pubDate>Fri, 17 Jun 2022 22:00:02 +0000</pubDate>
-			<itunes:duration>00:54:09</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50214166/episode_29.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jurassic World: Dominion og Prehistoric Planet: Dinosaurfest</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50146118/episode_28.mp3</link>
-			<description>Der er dinosaurer for alle pengene, når Karoline og Claus sætter tænderne i biograffilmen ’Jurassic World: Dominion’ og Apple TV+ serien ’Prehistoric Planet’. Indfrier biograffilmen forventningerne hos dino-fanen Karoline eller er den det rene makværk? Og hvorfor er det, at ’Prehistoric Planet’ udløser en af de varmeste anbefalinger i Close-Up’s levetid? Få svaret på det og gæt med i Claus’ store Hans Zimmer-quiz i anledning af, at den oscarvindende tyske komponist har leveret musik til dino-serien.
-
-Klip: UIP, Apple TV+ og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50146118/episode_28.mp3</guid>
-			<pubDate>Fri, 10 Jun 2022 22:00:02 +0000</pubDate>
-			<itunes:duration>00:53:40</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50146118/episode_28.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Red Rocket, Stranger Things og Obi Wan Kenobi: Porno, Dungeons &amp;amp; Dragons og Star Wars</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50038355/episode_27.mp3</link>
-			<description>Den står på porno, gys og Kate Bush i den her omgang, hvor Karoline og Claus går i nærkamp med en biograffilm og to aktuelle serier. I ’Red Rocket’ skal den falleret pornoskuespiller Mikey kæmper sig tilbage til rampelyset efter at være nødt til at stikke af fra Hollywood, og værterne diskuterer, hvad der gør den så god, og så bliver Karoline quizzet i sin porno-viden. Dernæst står den på den nyeste omgang ’Stranger Things’ og ’Obi Wan Kenobi’, især med fokus på den første. For er det efterhånden ikke ved at være tid til at stoppe med at lave de samme serier igen og igen? Lyt med og få svaret!
-
-Klip: UIP, Netflix, Walt Disney og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50038355/episode_27.mp3</guid>
-			<pubDate>Thu, 02 Jun 2022 22:01:14 +0000</pubDate>
-			<itunes:duration>00:54:07</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50038355/episode_27.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Top Gun: Maverick og Conversations with Friends: Så skal der tudes igennem</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49928582/episode_26.mp3</link>
-			<description>I ’Top Gun: Maverick’ skal Tom Cruise skal lære nye kamppiloter op til en top hemmelig mission. Er opfølgeren til ’80 klassikeren noget værd eller er det ren nostalgi-pjank for boomere og drengerøve? Og så bliver HBO Max-serien ’Conversations with Friends’ vejet op mod den forrige adaption af en af Sally Rooneys romaner, nemlig kæmpe succesen ’Normal People’. Kan den nye serie noget eller er den kun interessant, fordi Taylor Swifts kæreste er med i den? Karoline og Claus giver dig svarene!
-
-Klip: UIP, HBO Max og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49928582/episode_26.mp3</guid>
-			<pubDate>Fri, 27 May 2022 22:04:12 +0000</pubDate>
-			<itunes:duration>00:54:06</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49928582/episode_26.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Downton Abbey 2 og Toscana: Tillykke du har arvet en villa</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49849716/episode_25.mp3</link>
-			<description>Den står i arvingernes tegn, når Karoline og Claus tager den biografaktuelle ’Downton Abbey 2: En ny ære’ og den danske Netflix-film ’Toscana’ med Anders ”Anden” Matthesen under kærlig behandling. Omdrejningspunktet for begge er nemlig uventet arv og vi finder både ud af, hvad Claus’ har af arvegods liggende og hvilken person fra Downton Abbey, han identificerer sig mest med. Til at hjælpe med at holde styr på den britiske film, har de fået Karolines mormor og morfar til at assisterer, da de muligvis er de største fans af franchisen i Danmark.
-
-Klip: UIP, Netflix og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49849716/episode_25.mp3</guid>
-			<pubDate>Fri, 20 May 2022 22:05:04 +0000</pubDate>
-			<itunes:duration>00:54:05</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49849716/episode_25.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Doctor Strange In the Multiverse of Madness og Everything Everywhere All at Once: Kampen om multiverset</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49729160/episode_24.mp3</link>
-			<description>Doctor Strange In the Multiverse of Madness og Everything Everywhere All at Once: Kampen om multiverset
-Karoline og Claus er dine skarpe tour-guides, når destination går til det uendelige multivers, hvor et spørgsmål runger: Hvilken film om multiverser (hvad er det nu lige, det er?) skal jeg se i biografen? Marvel byder ind med blockbusteren ’Doctor Strange in the Multiverse of Madness’, mens ’Everything Everywhere All at Once’ er en mindre, men stadig vild, actionbasker med en god dosis kulsort humor fra instruktørerne af den vanvittige ‘Swiss Army Man’. Vi giver svaret, valget er dit!
-
-Klip: Walt Disney Studios, UIP, Sony Pictures, YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49729160/episode_24.mp3</guid>
-			<pubDate>Fri, 13 May 2022 22:06:27 +0000</pubDate>
-			<itunes:duration>00:53:55</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49729160/episode_24.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>The Lost City og Operarejsen: Afsted på vilde eventyr</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49587047/episode_23.mp3</link>
-			<description>Der er fuld knald på, når Karoline og Claus går i clinch med eventyr og opera. Er ’The Lost City’ andet end en undskyldning for at finde ud af, hvad Channing Tatum har mellem benene og hvordan skiller filmen sig ud fra andre i den romantiske-eventyr-genre? Kan man følge med i DR’s ’Operarejsen’, uden at kende noget til opera eller Den Korte Radioavis, og er Claus blevet operakender efter at have set serien? Karolines quiz giver det nådesløse svar, lyt med!
-
-Klip: UIP, DR og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49587047/episode_23.mp3</guid>
-			<pubDate>Fri, 29 Apr 2022 22:07:36 +0000</pubDate>
-			<itunes:duration>00:53:47</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49587047/episode_23.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>The Northman og De forbandede år 2: Autencitet og krig</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49454238/episode_22.mp3</link>
-			<description>Karoline og Claus går i denne omgang i clinch med to vidt forskellige periodefilm. Først står den på Robert Eggers version af en actionblockbuster, hævnfilmen ’The Northman’ og hvordan omsættes mesterinstruktørens forkærlighed for tidssvarende autencitet.  Dernæst står den på kulmination af Anders Refns anden verdenskrigskrønike ’De forbandende år 2’. Leverer filmen en tilfredsstillende konklusion på historien om familien Skov eller skyder den med løst krudt, der ikke rammer plet.
-
-Klip: UIP, Scanbox og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49454238/episode_22.mp3</guid>
-			<pubDate>Fri, 22 Apr 2022 22:06:51 +0000</pubDate>
-			<itunes:duration>00:53:52</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49454238/episode_22.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fantastiske skabninger 3 og Moon Knight: Er der kreativt mere at komme efter?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49345288/episode_21.mp3</link>
-			<description>Hvor fantastisk er ’Fantastiske skabninger 3: Dumbledores hemmeligheder’? Karoline og Claus går i dybden med det spørgsmål og forklarer nogle af alle de problemer, som har plaget dette Harry Potter spin-off. Og så står den endnu engang på Marvel-helte med miniserien ’Moon Knight’, hvor hovedpersonen har dissociativ identitetsforstyrrelse og dermed har flere personligheder i sin krop. Har serien noget at byde på, udover det hook eller er den kreative brønd ved at løbe tør hos Marvel?
-
-Klip: Warner Brothers, Disney, HBO og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49345288/episode_21.mp3</guid>
-			<pubDate>Fri, 08 Apr 2022 22:03:27 +0000</pubDate>
-			<itunes:duration>00:53:52</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49345288/episode_21.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Morbius og Bridgerton: Vampyrer og trekantsdrama</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49244908/episode_20.mp3</link>
-			<description>Er der bid i Marvelfilmen ’Morbius’ og er Jared Leto endnu en gang fuldkommen vanvittig i sin method-acting tilgang til skuespil? Karoline og Claus giver svaret og går derefter i dybden med anden sæson af den sexede kostumedramaserie ’Bridgerton’. Har den mere at byde på end andre smålumre titler som ’50 Shades of Grey’ og ’After’? Svaret vil nok overraske nogen.
-
-Klip: Sony, Netflix, HBO Max og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49244908/episode_20.mp3</guid>
-			<pubDate>Fri, 01 Apr 2022 22:05:09 +0000</pubDate>
-			<itunes:duration>00:53:14</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49244908/episode_20.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Belfast og Oscars 2022: Og vinderen er...</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49169650/19.mp3</link>
-			<description>Det er den tid på året, hvor filmnørder går i selvsving. Den 94. udgave af Oscar-uddelingen finder sted natten til den 28. marts og Karoline og Claus går alle kategorierne igennem og kommer med deres bud på vindere. En af årets helt store favoritter, er den fantastiske ’Belfast, om en lille dreng, der vokser op med konflikten mellem protestanter og katolikker lige udenfor hoveddøren. Selvom den er en af årets absolut bedste film, er værterne i tvivl om den hiver mange trofæer med hjem, men hvorfor går den ikke det? 
-
-Klip: UIP, Netflix og YouTube</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49169650/19.mp3</guid>
-			<pubDate>Fri, 25 Mar 2022 23:09:23 +0000</pubDate>
-			<itunes:duration>00:59:02</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49169650/19.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Licorice Pizza, Speak No Evil, Deep Water og CPH DOX: Den komplicerede kærlighed</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49060365/18_episode.mp3</link>
-			<description>Der er smil og gys på programmet, når Karoline og Claus ser den uperfekte kærlighed efter i sømmene. I ’Licorice Pizza’ forsøger at femtenårig knægt at imponere en 25-årig kvinde og ville der ikke have været et ramaskrig nu, hvis aldersforskellen havde været omvendt? Parforholdets trivialiteter møder ondskab i Christian Tafdrups ’Speak No Evil’ og i den erotiske thriller ’Deep Water’ får vi stillet den tabloide nysgerrighed om det tidligere kendispar Ben Affleck og Ana de Armas havde kemi. Og så ser vi frem mod dokumentarfestivalen CPH:DOX, der efter to år i coronadvale er tilbage for fuld styrke.
-
-Klip: SF Studios, Prime Video og Nordisk Film</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49060365/18_episode.mp3</guid>
-			<pubDate>Fri, 18 Mar 2022 23:13:05 +0000</pubDate>
-			<itunes:duration>00:53:23</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49060365/18_episode.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Rød, Fresh og The Lost Daughter: Livet som kvinde</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49006126/episode_17.mp3</link>
-			<description>Karoline og Claus har denne gang tre film på programmet, der hver især omhandler forskellige faser i kvinders liv. I Pixar filmen ’Rød’ følger vi stadiet fra barn til pubertet gennem en ung canadisk-asiatisk pige, der bliver forvandlet til en kæmpe rød panda. Horrorfilmen ’Fresh’ på Disney+ viser makabert, hvordan datingscenen bogstavelig talt er en jagtmark for visse mænd og biograffilmen ’The Lost Daughter’ giver indblik i moderskabets mange nuancerede udfordringer og velsignelser.
-
-Klip: Disney Pixar, Disney+ og SF Studios</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49006126/episode_17.mp3</guid>
-			<pubDate>Fri, 11 Mar 2022 23:16:37 +0000</pubDate>
-			<itunes:duration>00:53:27</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49006126/episode_17.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>The Batman, Parallelle mødre og Finding Magic Mike: Transformationer</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48938053/16_episode.mp3</link>
-			<description>Den står på transformationer i denne omgang Close-Up. Først har Karoline og Claus to meget forskellige meninger om ’The Batman’, hvor den kappeklædte hævner er oppe imod en bestialsk seriemorder. De fortsætter med at være uenige, når det gælder den spanske mesterinstruktør Pedro Almodovars underfundige drama ’Parallelle mødre’, men forenes så i kærligheden til streamingperlen på HBO Max, reality-serien ’Finding Magic Mike’. 
-
-Klip: Warner Brothers, Scanbox og HBO Max</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48938053/16_episode.mp3</guid>
-			<pubDate>Fri, 04 Mar 2022 23:19:32 +0000</pubDate>
-			<itunes:duration>00:52:56</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48938053/16_episode.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Rose, Borgen og Vikings Valhalla: De store danskere</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48868059/15_afsnit.mp3</link>
-			<description>To af Danmarks bedste skuespillere er i fokus i denne omgang Close-Up. Sofie Gråbøl er aktuel i den rørende ’Rose’ og Sidse Babett Knuden er igen alles yndlingspolitiker i fjerde omgang ’Borgen’, men hvorfor er det, at de to er i toppen, når det kommer til skuespil – og leverer de stadig varen? Og så står den på krig og intriger i Netflix-serien ’Vikings: Valhalla’, og kan man endelig høre ordet Kattegat, uden at det skærer i ørene? 
-
-Klip: Nordisk Film, DR og Netflix</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48868059/15_afsnit.mp3</guid>
-			<pubDate>Fri, 25 Feb 2022 23:55:45 +0000</pubDate>
-			<itunes:duration>00:53:30</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48868059/15_afsnit.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pig, Jeen-Yuhs og Moonfall: De store stjerner falder ned</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48773554/episode_14.mp3</link>
-			<description>Der er fokus på de store personligheder denne gang. Nicolas Cage er aktuel i biograffilmen ’Pig’, der handler om en mand, som leder efter sin kidnappede trøffelgris, og Kanye West i Netflix-dokumentaren ’Jeen-Yuhs’, hvor 20 års optagelser viser Ye’s rejse til megastjerne status. Er talentet der stadig hos de to unikummer eller har de mistet grebet? Og i katastrofe-invasionsfilmen ’Moonfall’, hvor et rumvæsen prøver at styrte månen ned i Jorden, er spørgsmålet, om filmen er så dårlig, at den bliver god?
-
-Klip: Reel Pictures, Netflix og UIP</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48773554/episode_14.mp3</guid>
-			<pubDate>Fri, 18 Feb 2022 23:19:49 +0000</pubDate>
-			<itunes:duration>00:53:10</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48773554/episode_14.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Døden på Nilen, The After Party og Scream: Hvem er morderen?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48656700/episode_13.mp3</link>
-			<description>Denne gang har Karoline og Claus udvalgt tre titler, som har det tilfælles, at en morder er på spil. Mesterdetektiven Hercule Poirot skal i ’Døden på Nilen’ finde ud af, hvilket overklasseløg på en ekstravagant flodpram er den skyldige. I Apple TV+s geniale ’The After Party’ bliver en gammel-elev fest til et gerningssted, og hvem har skubbet Justin Bieber klonen i døden. Og så er Ghostface tilbage for en ny generation i ’Scream’, og er der stadig bid meta-slasher-franchisen eller er kniven blevet sløv?
-
-Klip: 20th Century Fox, Apple TV+ og SF Studios</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48656700/episode_13.mp3</guid>
-			<pubDate>Fri, 11 Feb 2022 23:05:41 +0000</pubDate>
-			<itunes:duration>00:53:00</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48656700/episode_13.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Vildmænd, hævnporno og Kristen Stewart i verdensklasse</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48520553/program12.mp3</link>
-			<description>Close-Up har i denne omgang fokus på to ikoniske kvinder og en mand i en midtvejskrise. Hvad er det, som Thomas Daneskovs ’Vildmænd’ med Rasmus Bjerg i hovedrollen siger om mænd i 2022, og hvorfor fanden render de rundt i en norsk skov? Dernæst kaster Karoline og Claus sig over to kvinder, som har været fast inventar i sladderpressen. Serien ’Pam &amp; Tommy’ skildrer hvordan et sextape med Pamela Anderson ændrede verden og ’Spencer’ viser det helvede, som prinsesse Diana oplevede i det engelske kongehus.
-
-Klip: Nordisk Film, Disney+ og Scanbox</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48520553/program12.mp3</guid>
-			<pubDate>Fri, 04 Feb 2022 23:15:41 +0000</pubDate>
-			<itunes:duration>00:53:22</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48520553/program12.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Nightmare Alley, ny dansk Netflix-serie og kunst for millioner</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48428460/program_11.mp3</link>
-			<description>Forventningerne er høje hos Karoline og Claus til Guillermo del Toros ’Nightmare Alley’, men lever den op til hans forrige film Oscar-vinderen ’The Shape of Water’s niveau? Så bliver Netflix’ danske sci-fi-serie ’Chosen’ endevendt, og er det en træls omgang som ’The Rain’ eller en fornøjelse som ’Nisser’? Til slut bliver sagaen om verdens dyreste maleri endevendt med danske Andreas Koefoeds dokumentar ’The Lost Leonardo’ og det fører til en diskussion om, hvorfor kunst bliver tillagt så stor værdi.
-
-Klip: Fox Searchlight Pictures, Netflix, SF Studios</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48428460/program_11.mp3</guid>
-			<pubDate>Fri, 28 Jan 2022 23:11:58 +0000</pubDate>
-			<itunes:duration>00:53:29</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48428460/program_11.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>The King's Man, euforisk teenagesex og Downton Abbey i USA</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48382307/10_done.mp3</link>
-			<description>Biograferne er tilbage og vi ser om actionfilmen ’The King’s Man’ leverer varen eller om den er en fuser ligesom den foregående i ’Kingsman’-serien. I streamingland står anden sæson af den populære og kontroversielle ’Euphoria’ for skud. Holder serien niveau eller har den mistet fokus og er ved at blive en parodi på sig selv? Og så står den på spydige bemærkninger og overdådige kjoler, når ’The Gilded Age’ bliver debatteret. Har skaberen af ’Downton Abbey’ ramt plet igen eller venter vi bare på den nye sæson af ’Bridgerton’? 
-
-Klip: 20th Century Fox og HBO Max</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48382307/10_done.mp3</guid>
-			<pubDate>Fri, 21 Jan 2022 23:15:00 +0000</pubDate>
-			<itunes:duration>00:53:22</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48382307/10_done.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Peacemaker, heppekorsskandale og uhyggelige uldtotter</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48250321/program09.mp3</link>
-			<description>Forventningerne er store til HBO-serien ’Peacemaker’, et spin-off til actionbraget ’The Suicide Squad’, men formår serien at leve op til hypen? Tingene bliver weird med den fascinerende stop-motion-film ’The House’ fra Netflix, men er de underlige for underlighedens skyld eller er der mere at komme efter? Til slut bliver anden sæson af dokumentarserien ’Cheer’ dissekeret, især hvordan succesen har påvirket de medvirkende og hvordan skaberne håndterer pædofili-skandalen, der har ramt serien.
-
-Klip: HBO Max og Netflix</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48250321/program09.mp3</guid>
-			<pubDate>Fri, 14 Jan 2022 23:07:00 +0000</pubDate>
-			<itunes:duration>00:53:29</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48250321/program09.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>The Matrix, Harry Potter og Boba Fett vender tilbage</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48187314/program_8.mp3</link>
-			<description>Denne gang har Karoline og Claus fundet tre titler i streaminguniverset, som alle er videreudviklinger af gamle succeser og spørgsmålet er om de ny ting kan noget eller om det bare er et klamt forsøg fra producenterne på at tjene penge på nostalgiske følelser. Værterne sluger en rød pille og hopper ind i ’The Matrix Resurrections’, inden de fluks springer på toget til ’Harry Potter 20-års jubilæum: Tilbage til Hogwarts’, hvorefter det hele sluttes af med en tur i rummet med ’The Book of Boba Fett’. 
-
-Klip: Warner Brothers, Disney, HBO Max</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48187314/program_8.mp3</guid>
-			<pubDate>Fri, 07 Jan 2022 23:08:00 +0000</pubDate>
-			<itunes:duration>00:53:24</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48187314/program_8.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Close-Up Trailer</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47196173/close_up.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47196173/close_up.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:03:29 +0000</pubDate>
-			<itunes:duration>00:00:20</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47196173/close_up.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Marvels værste film til dato, repræsentation af døve og våbensikkerhed i actionfilm</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47309590/close_up_episode1.mp3</link>
-			<description>MCU-filmen ’Eternals’ er her endelig – men har den været ventetiden værd? Med Angelina Jolie i spidsen og Oscarvinder Chloé Zhao som instruktør tegner alt til en triumf, men er filmen ugens bedste tilbud? Er det snarer coming-of-age komediedramaet ’CODA’ om pigen Ruby, der vokser op i en familie af døve og vil være sanger.  Eller er det ’Copshop’, en actionthriller i hårdkogt 70’er ånd, som leder tankerne på spørgsmål om forsvarlig brug af våben ved filmsets i lyset af Alec Baldwin-tragedien.
-Klip: Disney, Nordisk Film, Sf Studios</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47309590/close_up_episode1.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:03:29 +0000</pubDate>
-			<itunes:duration>00:53:28</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47309590/close_up_episode1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Bilsex, dansk selvmordspilot og filmfestivaller</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47440728/bilsex_dansk_selvmordspilot_og_filmfestivaller.mp3</link>
-			<description>Filmfestivaller har med corona og streamingtjenesternes fremdrift fået et par irriterende modspillere, som ikke ser ud til at gå væk med det samme. Hvordan skal de klare sig fremover og hvad kan vores CPH PIX byde ind med? Festival-darlingen fra dette års Cannes-festival ’Titane’ har premiere og er der mere ved den end bare chokerende bilsex? Og så vender vi den første danske HBO-serie nogensinde, ’Kamikaze’, hvor spørgsmålet er om der er mere bag seriens billedskønne Instagram-look.
-Klip: AWE &amp; HBO Max</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47440728/bilsex_dansk_selvmordspilot_og_filmfestivaller.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:03:29 +0000</pubDate>
-			<itunes:duration>00:53:17</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47440728/bilsex_dansk_selvmordspilot_og_filmfestivaller.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Børn er onde, genfærd vender tilbage, de døde synger og skaberen af længe ventet serie taler ud</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47528078/close_up46.mp3</link>
-			<description>To længe ventede gyserfilm er her endelig i form af norske ’De uskyldige’ og ’Ghostbusters: Afterlife’. Fælles for dem er udover børn i centrale roller er, at de begge minder meget om tidligere film, så formår de nye at skabe deres egen identitet? Vi taler med Rafe Judkins, skaberen af den længe ventede Amazonserie ’The Wheel of Time’, men lever den op til forventningerne? Og så vendes den fremragende Netflixfilm ’Tick, Tick…BOOM!’, der slet og ret er den bedste musical siden ’La La Land’.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47528078/close_up46.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:03:29 +0000</pubDate>
-			<itunes:duration>00:53:27</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47528078/close_up46.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Nisser og rumvæsner</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47848347/04_program.mp3</link>
-			<description>Efter et par uger med corona-feber er Karoline og Claus tilbage! Fra hjemmestudiet lægger de ud med dræber-nisser i Netflix’ julegave til alle os, den danske serie ’Nisser’. Karoline snakker med horrorekspert Mathias Clasen om, hvorfor det giver mening at bruge nisser som monstre. Derefter tager vi ud i de ydre rum med Amazon Prime Video, først med filmen ’Encounter’, hvor en mand forsøger at forhindre en invasion og til sidst vender vi en af verdens bedste sci-fi-serier, nemlig ’The Expanse’.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47848347/04_program.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:03:29 +0000</pubDate>
-			<itunes:duration>00:52:50</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47848347/04_program.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Spider-Man, knapt så meget sex i byen og god fantasy</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47943195/program_5.mp3</link>
-			<description>Edderkoppedrengen er tilbage i ’Spider-Man: No Way Home’, hvor næsten alle skurke fra samtlige Spider-Man-film dukker op. Er det ren fan-service lir eller er der en dybere mening under al bulderbragene? Og så er spørgsmålet om ’And Just Like That’ tilføjer noget til ’Sex and the City’-universet eller om det bare er en pengemaskine. Anden sæson af Netflix’ populære ’The Witcher’ runder programmet af og er der kommet mere kød på historien eller er en topløs Henry Cavill stadig det bedste ved serien?
-Klip: Sony Pictures, HBO og Netflix</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47943195/program_5.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:03:29 +0000</pubDate>
-			<itunes:duration>00:53:29</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47943195/program_5.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Netflix Oscar-bait og Will Smith hopper ned i en vulkan</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48041372/program_06.mp3</link>
-			<description>Biograferne er igen blevet lukket, så Karoline og Claus er gået på jagt efter streaming-guld. Først bliver Paolo Sorrentinos semi-selvbiografiske ’The Hand of God’ endevendt, hvorefter Benedict Cumberbatchs tour de force præstation i ’The Power of the Dog’ bliver hyldet. Det fører til en diskussion om prestigeprojekter for streaming-tjenesterne og hvordan det vil se ud i fremtiden. Og så sluttes der af med dokumentarserieen ’Welcome to Earth’, hvor en super charmerende Will Smith er vor guide til nogle af de mest fascinerende fænomener, som naturen har at byde på.
-Klip: Netflix, YouTube og Disney+</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48041372/program_06.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:03:28 +0000</pubDate>
-			<itunes:duration>00:53:39</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48041372/program_06.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Top 10 film i 2021</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48112659/program_nyt_r.mp3</link>
-			<description>Efter flere intense forhandlinger er det lykkedes Karoline og Claus at komme frem til en top 10 over årets bedste film. Der er blevet plads til både de store biograf-baskere og de små streaming-perler, som man ikke må snyde sig selv for at se. Som en lille public service fortæller de, hvor man kan se filmene på streaming, hvis man skulle være gået glip af dem i biografen. Efter fejringen af de bedste film, kigger de mod 2022 og udvælger et par af de mange spændende filmoplevelser, de glæder sig til.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48112659/program_nyt_r.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:03:28 +0000</pubDate>
-			<itunes:duration>00:53:37</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48112659/program_nyt_r.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Close-Up
+  </title>
+  <link>
+   https://loud.land/podcast/close-up_2
+  </link>
+  <description>
+   Close-Up anmelder de vigtigste film i biograferne og de bedste serier på streaming. Med stor passion og faglighed tager dine værter Karoline Balstrøm og Claus Nygaard Petersen de mest centrale emner og tematikker op til diskussion og giver dig det fulde overblik over ugens underholdning.&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="mailto:close-up@24syv.dk"&gt;close-up@24syv.dk&lt;/a&gt;
+  </description>
+  <atom:link href="https://www.spreaker.com/show/5196261/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Film Reviews
+  </category>
+  <copyright>
+   Copyright LOUD
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg
+   </url>
+   <title>
+    Close-Up
+   </title>
+   <link>
+    https://loud.land/podcast/close-up_2
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   24syv
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    24syv
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+  <itunes:subtitle>
+   Den gode, den dårlige og den virkelig nødvendige.
+  </itunes:subtitle>
+  <itunes:summary>
+   Close-Up anmelder de vigtigste film i biograferne og de bedste serier på streaming. Med stor passion og faglighed tager dine værter Karoline Balstrøm og Claus Nygaard Petersen de mest centrale emner og tematikker op til diskussion og giver dig det fulde overblik over ugens underholdning.&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="mailto:close-up@24syv.dk"&gt;close-up@24syv.dk&lt;/a&gt;
+  </itunes:summary>
+  <itunes:category text="TV &amp; Film">
+   <itunes:category text="Film Reviews"/>
+  </itunes:category>
+  <itunes:category text="TV &amp; Film">
+   <itunes:category text="TV Reviews"/>
+  </itunes:category>
+  <itunes:category text="TV &amp; Film">
+   <itunes:category text="Film Interviews"/>
+  </itunes:category>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    Fremtidens filmmusik
+   </title>
+   <link>
+    https://www.spreaker.com/episode/fremtidens-filmmusik--51861619
+   </link>
+   <description>
+    Nynner du også med på ’Star Wars’ temaet eller småtuder lidt, når du hører musikken fra starten af Pixar-filmen ’Op’? Alle har et forhold til filmmusik og det er et emne, som står os på Close-Up særligt nært. Derfor kigger vi i krystalkuglen og vil spå om, hvordan fremtiden kommer til at se ud for filmmusik. Til det har Karoline været til filmmusik-festival i Belgien, hvor hun har gået en masse filmkomponister på klingen efter svar, som hun så forsøger at skole Claus i. God fornøjelse!
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/51861619
+   </guid>
+   <pubDate>
+    Fri, 11 Nov 2022 10:31:50 +0000
+   </pubDate>
+   <enclosure length="52135019" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51861619/wsa_mp3.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Nynner du også med på ’Star Wars’ temaet eller småtuder lidt, når du hører musikken fra starten af Pixar-filmen ’Op’? Alle har et forhold til filmmusik og det er et emne, som står os på Close-Up særligt nært. Derfor kigger vi i krystalkuglen og vil...
+   </itunes:subtitle>
+   <itunes:summary>
+    Nynner du også med på ’Star Wars’ temaet eller småtuder lidt, når du hører musikken fra starten af Pixar-filmen ’Op’? Alle har et forhold til filmmusik og det er et emne, som står os på Close-Up særligt nært. Derfor kigger vi i krystalkuglen og vil spå om, hvordan fremtiden kommer til at se ud for filmmusik. Til det har Karoline været til filmmusik-festival i Belgien, hvor hun har gået en masse filmkomponister på klingen efter svar, som hun så forsøger at skole Claus i. God fornøjelse!
+   </itunes:summary>
+   <itunes:duration>
+    3255
+   </itunes:duration>
+   <itunes:keywords>
+    enniomorricone,isobelwallerbridge,loki,pixar,starwars,worldsoundtrackawards
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Slasherfilm m. Andreas Strini
+   </title>
+   <link>
+    https://www.spreaker.com/episode/slasherfilm-m-andreas-strini--51703496
+   </link>
+   <description>
+    Halloween er juleaften for alle gysernørder. I stedet for et juletræ, står den på skrig og skrål, når en maskeret morder slagter en masse teenagere i en slasherfilm. Men er det ikke bare en forældet sub-genre af horrorfilm eller har den rent faktisk forandret sig med tiden? Til at svare på det og meget andet, har Karoline og Claus kommunikationsrådgiver og horrorekspert Andreas Strini i studiet til en god gang slasher-snak. &lt;br /&gt;&lt;br /&gt;Klip:  YouTube, Sacred Bones, New Line Cinema
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/51703496
+   </guid>
+   <pubDate>
+    Fri, 28 Oct 2022 22:05:01 +0000
+   </pubDate>
+   <enclosure length="52226134" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51703496/slasher_med_strini.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Halloween er juleaften for alle gysernørder. I stedet for et juletræ, står den på skrig og skrål, når en maskeret morder slagter en masse teenagere i en slasherfilm. Men er det ikke bare en forældet sub-genre af horrorfilm eller har den rent faktisk...
+   </itunes:subtitle>
+   <itunes:summary>
+    Halloween er juleaften for alle gysernørder. I stedet for et juletræ, står den på skrig og skrål, når en maskeret morder slagter en masse teenagere i en slasherfilm. Men er det ikke bare en forældet sub-genre af horrorfilm eller har den rent faktisk forandret sig med tiden? Til at svare på det og meget andet, har Karoline og Claus kommunikationsrådgiver og horrorekspert Andreas Strini i studiet til en god gang slasher-snak. &lt;br /&gt;&lt;br /&gt;Klip:  YouTube, Sacred Bones, New Line Cinema
+   </itunes:summary>
+   <itunes:duration>
+    3261
+   </itunes:duration>
+   <itunes:keywords>
+    anightmareonelmstreet,blackchristmas,freddykrueger,fridaythe13th,halloween,itfollows,jasonvoorhees,johncarpenter,scream,slasher
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Fra spil til film m. Jonas Monty
+   </title>
+   <link>
+    https://www.spreaker.com/episode/fra-spil-til-film-m-jonas-monty--51605923
+   </link>
+   <description>
+    Hvorfor er det så svært at lave en god film eller serie baseret på et videospil? Karoline og Claus dykker nærmere ned i det spørgsmål sammen med gaming-ekspert og anmelder Jonas Monty, hvor de forsøger at finde ud, hvor i processen det går galt. Har Hollywood spillet fallit eller er der stadig håb for fremtiden og den meget imødesete kommende HBO-serie ’The Last of Us’, som netop er baseret på en af de største spil-succeser de sidste 10 år.&lt;br /&gt;&lt;br /&gt;Klip: HBO Max, Disney, Sony og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/51605923
+   </guid>
+   <pubDate>
+    Fri, 21 Oct 2022 22:05:01 +0000
+   </pubDate>
+   <enclosure length="52057696" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51605923/spil_p_film_med_jonas_monty.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvorfor er det så svært at lave en god film eller serie baseret på et videospil? Karoline og Claus dykker nærmere ned i det spørgsmål sammen med gaming-ekspert og anmelder Jonas Monty, hvor de forsøger at finde ud, hvor i processen det går galt. Har...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvorfor er det så svært at lave en god film eller serie baseret på et videospil? Karoline og Claus dykker nærmere ned i det spørgsmål sammen med gaming-ekspert og anmelder Jonas Monty, hvor de forsøger at finde ud, hvor i processen det går galt. Har Hollywood spillet fallit eller er der stadig håb for fremtiden og den meget imødesete kommende HBO-serie ’The Last of Us’, som netop er baseret på en af de største spil-succeser de sidste 10 år.&lt;br /&gt;&lt;br /&gt;Klip: HBO Max, Disney, Sony og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3250
+   </itunes:duration>
+   <itunes:keywords>
+    arcane,assassinscreed,disney,doom,hbomax,henrycavill,leagueoflegends,mortalkombat,naughtydog,nintendo,reddeadredemption,silenthill,sonic,sony,supermario,thelastofus,thewitcher,tombraider,uncharted,worldofwarcraft
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Lars von Trier og ’Riget’ m. Linda Nygaard
+   </title>
+   <link>
+    https://www.spreaker.com/episode/lars-von-trier-og-riget-m-linda-nygaard--51550707
+   </link>
+   <description>
+    Porten til Riget er åben igen, men hvorfor er det, at alle går i selvsving over serieskaberen Lars von Trier og en gammel serie fra ’90erne? Til at blive klogere på den kontroversielle instruktør har Karoline og Claus kyndig assistance fra journalist, LvT-aficionado og ’Riget’-fan Linda Nygaard. Det bliver en snak om coke, porno og akavet humor – god fornøjelse! &lt;br /&gt;&lt;br /&gt;Klip: DR, Viaplay og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/51550707
+   </guid>
+   <pubDate>
+    Fri, 14 Oct 2022 22:05:01 +0000
+   </pubDate>
+   <enclosure length="51836178" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51550707/trier_med_linda_nygaard.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Porten til Riget er åben igen, men hvorfor er det, at alle går i selvsving over serieskaberen Lars von Trier og en gammel serie fra ’90erne? Til at blive klogere på den kontroversielle instruktør har Karoline og Claus kyndig assistance fra journalist,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Porten til Riget er åben igen, men hvorfor er det, at alle går i selvsving over serieskaberen Lars von Trier og en gammel serie fra ’90erne? Til at blive klogere på den kontroversielle instruktør har Karoline og Claus kyndig assistance fra journalist, LvT-aficionado og ’Riget’-fan Linda Nygaard. Det bliver en snak om coke, porno og akavet humor – god fornøjelse! &lt;br /&gt;&lt;br /&gt;Klip: DR, Viaplay og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3236
+   </itunes:duration>
+   <itunes:keywords>
+    antichrist,breakingthewaves,cannes,direktørenfordethele,dogville,europa,ghitanørby,guldhjerte,idioterne,kirstendunst,kontroversiel,larsvontrier,lindanygaard,manderlay,melancholia,riget,rigetexodus,thehousethatjackbuilt,thekingdom,willemdafoe
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    DC vs. Marvel m. Otto Olsen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/dc-vs-marvel-m-otto-olsen--51490528
+   </link>
+   <description>
+    Det er på tide at få det evige spørgsmål afgjort. Hvem er mesteren, Marvel eller DC? Captain America eller Batman? Hvem er de to underholdningsgiganter har teten i filmindustrien? Karoline er den benhårde dommer, mens Claus repræsenterer Marvel, og superhelte-ekspert Otto Olsen forsvarer DC? Det bliver en intens kamp med masser af verbale slagudvekslinger og god stemning. God fornøjelse!&lt;br /&gt;&lt;br /&gt;Klip: Warner Bros., Walt Disney og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/51490528
+   </guid>
+   <pubDate>
+    Fri, 07 Oct 2022 22:05:01 +0000
+   </pubDate>
+   <enclosure length="52143744" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51490528/dc_marvel.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Det er på tide at få det evige spørgsmål afgjort. Hvem er mesteren, Marvel eller DC? Captain America eller Batman? Hvem er de to underholdningsgiganter har teten i filmindustrien? Karoline er den benhårde dommer, mens Claus repræsenterer Marvel, og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Det er på tide at få det evige spørgsmål afgjort. Hvem er mesteren, Marvel eller DC? Captain America eller Batman? Hvem er de to underholdningsgiganter har teten i filmindustrien? Karoline er den benhårde dommer, mens Claus repræsenterer Marvel, og superhelte-ekspert Otto Olsen forsvarer DC? Det bliver en intens kamp med masser af verbale slagudvekslinger og god stemning. God fornøjelse!&lt;br /&gt;&lt;br /&gt;Klip: Warner Bros., Walt Disney og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3255
+   </itunes:duration>
+   <itunes:keywords>
+    avengers,batman,batmanbegins,blackadam,blackpanther,captainamerica,chloezhao,dc,dceu,jamesgunn,joker,marvel,mcu,rocky,suicidesquad,superman,thanos,theflash,therock,zacksnyder
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Guilty Pleasures m. Linda Nygaard
+   </title>
+   <link>
+    https://www.spreaker.com/episode/guilty-pleasures-m-linda-nygaard--51381280
+   </link>
+   <description>
+    Alle har den ene film eller serie, som man godt ved ikke er god, men alligevel bare elsker at se. Men hvorfor er det, at vi ser de her guilty pleasures, når vi ved, at det er skrald? Hvad er appellen ved de syndige fornøjelser? Til at blive klogere på det og meget mere omkring guilty pleasures, har Karoline og Claus podcaster og journalist Linda Nygaard, hør bl.a. ud af, hvem der har et lidt for stort forbrug af reality-tv og pro-wrestling.&lt;br /&gt;&lt;br /&gt;Klip: HBO, Discovery, Scanbox og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/51381280
+   </guid>
+   <pubDate>
+    Fri, 30 Sep 2022 22:05:01 +0000
+   </pubDate>
+   <enclosure length="51823104" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51381280/guilty_done.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Alle har den ene film eller serie, som man godt ved ikke er god, men alligevel bare elsker at se. Men hvorfor er det, at vi ser de her guilty pleasures, når vi ved, at det er skrald? Hvad er appellen ved de syndige fornøjelser? Til at blive klogere på...
+   </itunes:subtitle>
+   <itunes:summary>
+    Alle har den ene film eller serie, som man godt ved ikke er god, men alligevel bare elsker at se. Men hvorfor er det, at vi ser de her guilty pleasures, når vi ved, at det er skrald? Hvad er appellen ved de syndige fornøjelser? Til at blive klogere på det og meget mere omkring guilty pleasures, har Karoline og Claus podcaster og journalist Linda Nygaard, hør bl.a. ud af, hvem der har et lidt for stort forbrug af reality-tv og pro-wrestling.&lt;br /&gt;&lt;br /&gt;Klip: HBO, Discovery, Scanbox og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3235
+   </itunes:duration>
+   <itunes:keywords>
+    10thingsihateaboutyou,clueless,dawsonscreek,deungemødre,felicity,gameofthrones,guiltypleasures,heathledger,horror,jigsaw,jjabrams,kardashians,lindanygaard,lindasdate,prowrestling,realitytv,romcom,saw,scream,shesallthat
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Andor og Star Wars m. Jonas Monty
+   </title>
+   <link>
+    https://www.spreaker.com/episode/andor-og-star-wars-m-jonas-monty--51293823
+   </link>
+   <description>
+    Så er der igen nyt fra en galakse langt, langt borte. En ny Star Wars-serie er landet, men hvad adskiller ’Andor’ fra alt de andre Star Wars ting? Og hvorfor er det, at folk går så meget op i Star Wars, at nogle bliver decideret racistiske klaphatte, når der kommer ikke-hvide skuespillere ind i franchisen? Til at hjælpe Karoline og Claus med at opklare det og meget mere, har de anmelder ved Soundvenue og Star Wars-ekspert Jonas Monty.   &lt;br /&gt;&lt;br /&gt;Klip: Walt Disney, YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/51293823
+   </guid>
+   <pubDate>
+    Fri, 23 Sep 2022 22:05:01 +0000
+   </pubDate>
+   <enclosure length="51806976" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51293823/sw_1.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Så er der igen nyt fra en galakse langt, langt borte. En ny Star Wars-serie er landet, men hvad adskiller ’Andor’ fra alt de andre Star Wars ting? Og hvorfor er det, at folk går så meget op i Star Wars, at nogle bliver decideret racistiske klaphatte,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Så er der igen nyt fra en galakse langt, langt borte. En ny Star Wars-serie er landet, men hvad adskiller ’Andor’ fra alt de andre Star Wars ting? Og hvorfor er det, at folk går så meget op i Star Wars, at nogle bliver decideret racistiske klaphatte, når der kommer ikke-hvide skuespillere ind i franchisen? Til at hjælpe Karoline og Claus med at opklare det og meget mere, har de anmelder ved Soundvenue og Star Wars-ekspert Jonas Monty.   &lt;br /&gt;&lt;br /&gt;Klip: Walt Disney, YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3234
+   </itunes:duration>
+   <itunes:keywords>
+    anakinskywalker,andor,bb8,darthvader,fankultur,georgelucas,hansolo,jizzwailers,jjabrams,johnboyega,johnwilliams,jonasmonty,lego,legostarwars,lukeskywalker,maxreboband,obiwankenobi,starwars,theforceawakens,themandalorian
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Musicals m. Rikke Fink
+   </title>
+   <link>
+    https://www.spreaker.com/episode/musicals-m-rikke-fink--51268649
+   </link>
+   <description>
+    Sidder du og skråler med på samtlige sange i ’Mamma Mia’ eller sidder og stirrer vantro mod den, som synger? Til at hjælpe Karoline og Claus med at forstå de mageløse musicals og hvorfor de er så fede, har de journalist og sangfugl Rikke Fink. Vi får bl.a. svar på, om Claus har en fremtid indenfor den musikalske genre, da han skal synge alle ledetrådene i hans gæt-en-musical-quiz, og hvordan fremtiden for de musikalske film ser ud.&lt;br /&gt;&lt;br /&gt;Klip: Walt Disney, YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/51268649
+   </guid>
+   <pubDate>
+    Fri, 16 Sep 2022 22:05:01 +0000
+   </pubDate>
+   <enclosure length="52119552" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51268649/musicals_med_rikke.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Sidder du og skråler med på samtlige sange i ’Mamma Mia’ eller sidder og stirrer vantro mod den, som synger? Til at hjælpe Karoline og Claus med at forstå de mageløse musicals og hvorfor de er så fede, har de journalist og sangfugl Rikke Fink. Vi får...
+   </itunes:subtitle>
+   <itunes:summary>
+    Sidder du og skråler med på samtlige sange i ’Mamma Mia’ eller sidder og stirrer vantro mod den, som synger? Til at hjælpe Karoline og Claus med at forstå de mageløse musicals og hvorfor de er så fede, har de journalist og sangfugl Rikke Fink. Vi får bl.a. svar på, om Claus har en fremtid indenfor den musikalske genre, da han skal synge alle ledetrådene i hans gæt-en-musical-quiz, og hvordan fremtiden for de musikalske film ser ud.&lt;br /&gt;&lt;br /&gt;Klip: Walt Disney, YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3254
+   </itunes:duration>
+   <itunes:keywords>
+    aladdin,astarisborn,cabarat,chicago,dancerinthedark,denlillehavfrue,grease,hamilton,highschoolmusical,linmanuelmiranda,mammamia,mulan,musicals,prebenkristensen,rikkefink,terkeliknibe,thebluesbrothers,thehunchbackofnotredame,thelittlemermaid,westsidestory
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Animation m. Rasmus Balstrøm
+   </title>
+   <link>
+    https://www.spreaker.com/episode/animation-m-rasmus-balstrom--51046217
+   </link>
+   <description>
+    Alle elsker animation. Hvad enten det er ’Disney’-film eller ’Rick and Morty’, så er der noget for folk i alle aldre. Men hvad er det animation kan, så det er stadig er fedt, selvom man er blevet voksen? Til at hjælpe Karoline og Claus til at blive klogere på det og meget andet samt sammensætte den perfekte lørdag morgen animations-flade har de ingen ringere end grafitikunstner og animationsfans Rasmus Balstrøm.&lt;br /&gt;&lt;br /&gt;Klip: Walt Disney, Netflix, Sony, DR og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/51046217
+   </guid>
+   <pubDate>
+    Fri, 09 Sep 2022 22:00:02 +0000
+   </pubDate>
+   <enclosure length="52141056" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51046217/animation_m_rasmus_balstr_m.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Alle elsker animation. Hvad enten det er ’Disney’-film eller ’Rick and Morty’, så er der noget for folk i alle aldre. Men hvad er det animation kan, så det er stadig er fedt, selvom man er blevet voksen? Til at hjælpe Karoline og Claus til at blive...
+   </itunes:subtitle>
+   <itunes:summary>
+    Alle elsker animation. Hvad enten det er ’Disney’-film eller ’Rick and Morty’, så er der noget for folk i alle aldre. Men hvad er det animation kan, så det er stadig er fedt, selvom man er blevet voksen? Til at hjælpe Karoline og Claus til at blive klogere på det og meget andet samt sammensætte den perfekte lørdag morgen animations-flade har de ingen ringere end grafitikunstner og animationsfans Rasmus Balstrøm.&lt;br /&gt;&lt;br /&gt;Klip: Walt Disney, Netflix, Sony, DR og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3255
+   </itunes:duration>
+   <itunes:keywords>
+    andersand,annaoglotte,balstroem,chihiroogheksene,disney,hayaomiyazaki,jessicarabbit,joehisaishi,lovedeath&amp;robots,netflix,pingu,pokemon,rasmusbalstrøm,rickandmorty,shrek,snehvide,spider-manintothespiderverse,studioghibli,waltdisney,whoframedrogerrabbit
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Ringenes herre-filmene og -serien m. Oskar Bundgaard
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ringenes-herre-filmene-og-serien-m-oskar-bundgaard--51057836
+   </link>
+   <description>
+    Mange har et nærmest religiøst forhold til fantasy-historien over dem alle, ’Ringenes herre’ og i særdeleshed Peter Jacksons filmtrilogi. Men hvorfor er det, at folk er så glade for det univers? Podcaster, historie-aficionado og ’Ringenes herre’-fan Oskar Bundgaard fortæller Karoline og Claus om sit eget forhold til den episke fortælling og hvorfor den er så unik, at den nu også bliver til verdens dyreste serie.&lt;br /&gt;&lt;br /&gt;Klip: Prime Video, New Line Cinema og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/51057836
+   </guid>
+   <pubDate>
+    Fri, 02 Sep 2022 22:00:02 +0000
+   </pubDate>
+   <enclosure length="51844955" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51057836/rings_of_power.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Mange har et nærmest religiøst forhold til fantasy-historien over dem alle, ’Ringenes herre’ og i særdeleshed Peter Jacksons filmtrilogi. Men hvorfor er det, at folk er så glade for det univers? Podcaster, historie-aficionado og ’Ringenes herre’-fan...
+   </itunes:subtitle>
+   <itunes:summary>
+    Mange har et nærmest religiøst forhold til fantasy-historien over dem alle, ’Ringenes herre’ og i særdeleshed Peter Jacksons filmtrilogi. Men hvorfor er det, at folk er så glade for det univers? Podcaster, historie-aficionado og ’Ringenes herre’-fan Oskar Bundgaard fortæller Karoline og Claus om sit eget forhold til den episke fortælling og hvorfor den er så unik, at den nu også bliver til verdens dyreste serie.&lt;br /&gt;&lt;br /&gt;Klip: Prime Video, New Line Cinema og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3237
+   </itunes:duration>
+   <itunes:keywords>
+    amazonprime,clerks2,elves,fantasy,film,gameothrones,hobitten,lordoftherings,magtringene,neymar,oskarbundgaard,peterjackson,primevideo,ringenesherre,sauron,series,starwars,thehobbit,thesandman,thringsofpower
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Game of Thrones og House of the Dragon m. Rikke Fink
+   </title>
+   <link>
+    https://www.spreaker.com/episode/game-of-thrones-og-house-of-the-dragon-m-rikke-fink--51030729
+   </link>
+   <description>
+    Efter den katastrofale afslutning på fantasyserien Game of Thrones lød der et ramaskrig fra fans, som krævede en ommer af deres elskede univers.  Det har de så fået med spin-off-serien ’House of the Dragon’, der foregår cirka 200 år før begivenhederne i den oprindelige serie. Til at hjælpe os med at få styr på, hvem der er hvem og om tingene er blevet bedre i den nye serie har Karoline og Claus journalist og GoT-superfan Rikke Fink.&lt;br /&gt;&lt;br /&gt;Klip: HBO, New Line Cinema og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/51030729
+   </guid>
+   <pubDate>
+    Fri, 26 Aug 2022 22:00:02 +0000
+   </pubDate>
+   <enclosure length="51806085" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51030729/got.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Efter den katastrofale afslutning på fantasyserien Game of Thrones lød der et ramaskrig fra fans, som krævede en ommer af deres elskede univers.  Det har de så fået med spin-off-serien ’House of the Dragon’, der foregår cirka 200 år før begivenhederne...
+   </itunes:subtitle>
+   <itunes:summary>
+    Efter den katastrofale afslutning på fantasyserien Game of Thrones lød der et ramaskrig fra fans, som krævede en ommer af deres elskede univers.  Det har de så fået med spin-off-serien ’House of the Dragon’, der foregår cirka 200 år før begivenhederne i den oprindelige serie. Til at hjælpe os med at få styr på, hvem der er hvem og om tingene er blevet bedre i den nye serie har Karoline og Claus journalist og GoT-superfan Rikke Fink.&lt;br /&gt;&lt;br /&gt;Klip: HBO, New Line Cinema og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3234
+   </itunes:duration>
+   <itunes:keywords>
+    asongoficeandfire,daemontargaryen,daenerystargaryen,drager,dragons,dragonstone,gameofthrones,georgerrmartin,got,hbo,houseofcards,houseofthedragon,housestark,kongerækken,lannister,mattsmith,nedstark,rhaenyratargaryen,rikkefink,thecrown
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Moderne horror og Jordan Peele m. Otto Olsen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/moderne-horror-og-jordan-peele-m-otto-olsen--50948755
+   </link>
+   <description>
+    Der er gys, gru og grin, når Karoline og Claus dykker ned i horrorfilm efter 2010. Til at komme i dybden har de assistance fra Otto Olsen, der har et livlangt kærlighedsforhold til de uhyggelige film. Der bliver sat spotlight på elevated horror og popcorn gysere, og hvad de to udtryk egentlig dækker over. Og når man snakker moderne horror, så er det svært at komme udenom mesterinstruktøren Jordan Peele og Otto hjælper med at forklare, hvorfor Peeles film har været så vellykket. I den forbindelse hører vi også fra Peeles faste filmkomponist Michael Abels fra Karolines eskapader ved World Soundtrack Awards. Han giver et unikt indblik i hvordan instruktøren tænker.&lt;br /&gt;&lt;br /&gt;Klip: UIP og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50948755
+   </guid>
+   <pubDate>
+    Fri, 19 Aug 2022 22:05:01 +0000
+   </pubDate>
+   <enclosure length="51923531" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50948755/moderne_horror_1.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Der er gys, gru og grin, når Karoline og Claus dykker ned i horrorfilm efter 2010. Til at komme i dybden har de assistance fra Otto Olsen, der har et livlangt kærlighedsforhold til de uhyggelige film. Der bliver sat spotlight på elevated horror og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Der er gys, gru og grin, når Karoline og Claus dykker ned i horrorfilm efter 2010. Til at komme i dybden har de assistance fra Otto Olsen, der har et livlangt kærlighedsforhold til de uhyggelige film. Der bliver sat spotlight på elevated horror og popcorn gysere, og hvad de to udtryk egentlig dækker over. Og når man snakker moderne horror, så er det svært at komme udenom mesterinstruktøren Jordan Peele og Otto hjælper med at forklare, hvorfor Peeles film har været så vellykket. I den forbindelse hører vi også fra Peeles faste filmkomponist Michael Abels fra Karolines eskapader ved World Soundtrack Awards. Han giver et unikt indblik i hvordan instruktøren tænker.&lt;br /&gt;&lt;br /&gt;Klip: UIP og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3242
+   </itunes:duration>
+   <itunes:keywords>
+    alien,bernardhermann,danielkaluuya,elevatedhorror,getout,gyser,horror,jameswan,johncarpenter,jordanpeele,michaelabels,nope,ottoolsen,popcorngyser,psycho,scream,theconjuring,theexorcist,theshining,us
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Lightyear og Verdens værste menneske: Store egoer
+   </title>
+   <link>
+    https://www.spreaker.com/episode/lightyear-og-verdens-vaerste-menneske-store-egoer--50214166
+   </link>
+   <description>
+    Er animationsfilmen ’Lightyear’ andet end et glubsk forsøg fra Disney på at maksimere indtjeningen på den elskede ’Toy Story’-franchise eller har spin-offet noget at byde på? Og så sætter Karoline og Claus sig for at opklare om norske Joachim Triers romantiske-drama-komedie ’Verdens værste menneske’ i virkeligheden er verden bedste film og dermed lever op til den massive hype, der har været omkring den. Og hvor godt kender Claus ikoniske brak-ups i filmhistorien, når Karoline quizzer ham? &lt;br /&gt;&lt;br /&gt;Klip: Walt Disney Pictures, Camera Film og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50214166
+   </guid>
+   <pubDate>
+    Fri, 17 Jun 2022 22:00:02 +0000
+   </pubDate>
+   <enclosure length="52051009" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50214166/episode_29.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Er animationsfilmen ’Lightyear’ andet end et glubsk forsøg fra Disney på at maksimere indtjeningen på den elskede ’Toy Story’-franchise eller har spin-offet noget at byde på? Og så sætter Karoline og Claus sig for at opklare om norske Joachim Triers...
+   </itunes:subtitle>
+   <itunes:summary>
+    Er animationsfilmen ’Lightyear’ andet end et glubsk forsøg fra Disney på at maksimere indtjeningen på den elskede ’Toy Story’-franchise eller har spin-offet noget at byde på? Og så sætter Karoline og Claus sig for at opklare om norske Joachim Triers romantiske-drama-komedie ’Verdens værste menneske’ i virkeligheden er verden bedste film og dermed lever op til den massive hype, der har været omkring den. Og hvor godt kender Claus ikoniske brak-ups i filmhistorien, når Karoline quizzer ham? &lt;br /&gt;&lt;br /&gt;Klip: Walt Disney Pictures, Camera Film og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3250
+   </itunes:duration>
+   <itunes:keywords>
+    andersdanielsenlie,buzzlightyear,casablanca,chrisevans,deuskyldige,eskildvogt,film,highfidelity,joachimtrier,johncusack,lalaland,lightyear,nickhornby,renatereinsve,sox,toystory,verdensværstemenneske,woody,zoekravitz,zurg
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Jurassic World: Dominion og Prehistoric Planet: Dinosaurfest
+   </title>
+   <link>
+    https://www.spreaker.com/episode/jurassic-world-dominion-og-prehistoric-planet-dinosaurfest--50146118
+   </link>
+   <description>
+    Der er dinosaurer for alle pengene, når Karoline og Claus sætter tænderne i biograffilmen ’Jurassic World: Dominion’ og Apple TV+ serien ’Prehistoric Planet’. Indfrier biograffilmen forventningerne hos dino-fanen Karoline eller er den det rene makværk? Og hvorfor er det, at ’Prehistoric Planet’ udløser en af de varmeste anbefalinger i Close-Up’s levetid? Få svaret på det og gæt med i Claus’ store Hans Zimmer-quiz i anledning af, at den oscarvindende tyske komponist har leveret musik til dino-serien.&lt;br /&gt;&lt;br /&gt;Klip: UIP, Apple TV+ og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50146118
+   </guid>
+   <pubDate>
+    Fri, 10 Jun 2022 22:00:02 +0000
+   </pubDate>
+   <enclosure length="51591254" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50146118/episode_28.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Der er dinosaurer for alle pengene, når Karoline og Claus sætter tænderne i biograffilmen ’Jurassic World: Dominion’ og Apple TV+ serien ’Prehistoric Planet’. Indfrier biograffilmen forventningerne hos dino-fanen Karoline eller er den det rene...
+   </itunes:subtitle>
+   <itunes:summary>
+    Der er dinosaurer for alle pengene, når Karoline og Claus sætter tænderne i biograffilmen ’Jurassic World: Dominion’ og Apple TV+ serien ’Prehistoric Planet’. Indfrier biograffilmen forventningerne hos dino-fanen Karoline eller er den det rene makværk? Og hvorfor er det, at ’Prehistoric Planet’ udløser en af de varmeste anbefalinger i Close-Up’s levetid? Få svaret på det og gæt med i Claus’ store Hans Zimmer-quiz i anledning af, at den oscarvindende tyske komponist har leveret musik til dino-serien.&lt;br /&gt;&lt;br /&gt;Klip: UIP, Apple TV+ og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3221
+   </itunes:duration>
+   <itunes:keywords>
+    appletv+,brycedallashoward,chrispratt,davidattenborough,dinosaur,hanszimmer,jeffgoldblum,jurassicpark,jurassicworld,jurassicworlddominion,lauradern,lionking,piratesofthecaribbean,planetearth,prehistoricplanet,richardattenborough,samneil,thethinredline,t-rex,trueromance
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Red Rocket, Stranger Things og Obi Wan Kenobi: Porno, Dungeons &amp; Dragons og Star Wars
+   </title>
+   <link>
+    https://www.spreaker.com/episode/red-rocket-stranger-things-og-obi-wan-kenobi-porno-dungeons-dragons-og-star-wars--50038355
+   </link>
+   <description>
+    Den står på porno, gys og Kate Bush i den her omgang, hvor Karoline og Claus går i nærkamp med en biograffilm og to aktuelle serier. I ’Red Rocket’ skal den falleret pornoskuespiller Mikey kæmper sig tilbage til rampelyset efter at være nødt til at stikke af fra Hollywood, og værterne diskuterer, hvad der gør den så god, og så bliver Karoline quizzet i sin porno-viden. Dernæst står den på den nyeste omgang ’Stranger Things’ og ’Obi Wan Kenobi’, især med fokus på den første. For er det efterhånden ikke ved at være tid til at stoppe med at lave de samme serier igen og igen? Lyt med og få svaret!&lt;br /&gt;&lt;br /&gt;Klip: UIP, Netflix, Walt Disney og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50038355
+   </guid>
+   <pubDate>
+    Thu, 02 Jun 2022 22:00:00 +0000
+   </pubDate>
+   <enclosure length="52033455" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50038355/episode_27.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Den står på porno, gys og Kate Bush i den her omgang, hvor Karoline og Claus går i nærkamp med en biograffilm og to aktuelle serier. I ’Red Rocket’ skal den falleret pornoskuespiller Mikey kæmper sig tilbage til rampelyset efter at være nødt til at...
+   </itunes:subtitle>
+   <itunes:summary>
+    Den står på porno, gys og Kate Bush i den her omgang, hvor Karoline og Claus går i nærkamp med en biograffilm og to aktuelle serier. I ’Red Rocket’ skal den falleret pornoskuespiller Mikey kæmper sig tilbage til rampelyset efter at være nødt til at stikke af fra Hollywood, og værterne diskuterer, hvad der gør den så god, og så bliver Karoline quizzet i sin porno-viden. Dernæst står den på den nyeste omgang ’Stranger Things’ og ’Obi Wan Kenobi’, især med fokus på den første. For er det efterhånden ikke ved at være tid til at stoppe med at lave de samme serier igen og igen? Lyt med og få svaret!&lt;br /&gt;&lt;br /&gt;Klip: UIP, Netflix, Walt Disney og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3248
+   </itunes:duration>
+   <itunes:keywords>
+    chloecherry,dæmoner,darthvader,dungeons&amp;dragons,euphoria,ewanmcgregor,gameofthrones,katebush,leia,lukeskywalker,obiwankenobi,porno,redrocket,sashagrey,seanbaker,simonrex,starwars,strangerthings,sylvesterstallone,thefloridaproject
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Top Gun: Maverick og Conversations with Friends: Så skal der tudes igennem
+   </title>
+   <link>
+    https://www.spreaker.com/episode/top-gun-maverick-og-conversations-with-friends-sa-skal-der-tudes-igennem--49928582
+   </link>
+   <description>
+    I ’Top Gun: Maverick’ skal Tom Cruise skal lære nye kamppiloter op til en top hemmelig mission. Er opfølgeren til ’80 klassikeren noget værd eller er det ren nostalgi-pjank for boomere og drengerøve? Og så bliver HBO Max-serien ’Conversations with Friends’ vejet op mod den forrige adaption af en af Sally Rooneys romaner, nemlig kæmpe succesen ’Normal People’. Kan den nye serie noget eller er den kun interessant, fordi Taylor Swifts kæreste er med i den? Karoline og Claus giver dig svarene!&lt;br /&gt;&lt;br /&gt;Klip: UIP, HBO Max og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49928582
+   </guid>
+   <pubDate>
+    Fri, 27 May 2022 22:00:02 +0000
+   </pubDate>
+   <enclosure length="52017154" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49928582/episode_26.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I ’Top Gun: Maverick’ skal Tom Cruise skal lære nye kamppiloter op til en top hemmelig mission. Er opfølgeren til ’80 klassikeren noget værd eller er det ren nostalgi-pjank for boomere og drengerøve? Og så bliver HBO Max-serien ’Conversations with...
+   </itunes:subtitle>
+   <itunes:summary>
+    I ’Top Gun: Maverick’ skal Tom Cruise skal lære nye kamppiloter op til en top hemmelig mission. Er opfølgeren til ’80 klassikeren noget værd eller er det ren nostalgi-pjank for boomere og drengerøve? Og så bliver HBO Max-serien ’Conversations with Friends’ vejet op mod den forrige adaption af en af Sally Rooneys romaner, nemlig kæmpe succesen ’Normal People’. Kan den nye serie noget eller er den kun interessant, fordi Taylor Swifts kæreste er med i den? Karoline og Claus giver dig svarene!&lt;br /&gt;&lt;br /&gt;Klip: UIP, HBO Max og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3247
+   </itunes:duration>
+   <itunes:keywords>
+    action,conversationswithfriends,dangerzone,f-18,hanszimmer,hbomax,iceman,joealwyn,maverick,milesteller,normalpeople,sallyrooney,sashalane,stunts,taylorswift,tomcruise,tonyscott,topgun,topgunmaverick,valkilmer
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Downton Abbey 2 og Toscana: Tillykke du har arvet en villa
+   </title>
+   <link>
+    https://www.spreaker.com/episode/downton-abbey-2-og-toscana-tillykke-du-har-arvet-en-villa--49849716
+   </link>
+   <description>
+    Den står i arvingernes tegn, når Karoline og Claus tager den biografaktuelle ’Downton Abbey: En ny ære’ og den danske Netflix-film ’Toscana’ med Anders ”Anden” Matthesen under kærlig behandling. Omdrejningspunktet for begge er nemlig uventet arv og vi finder både ud af, hvad Claus’ har af arvegods liggende og hvilken person fra Downton Abbey, han identificerer sig mest med. Til at hjælpe med at holde styr på den britiske film, har de fået Karolines mormor og morfar til at assisterer, da de muligvis er de største fans af franchisen i Danmark.&lt;br /&gt;&lt;br /&gt;Klip: UIP, Netflix og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49849716
+   </guid>
+   <pubDate>
+    Fri, 20 May 2022 22:00:02 +0000
+   </pubDate>
+   <enclosure length="51993330" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49849716/episode_25.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Den står i arvingernes tegn, når Karoline og Claus tager den biografaktuelle ’Downton Abbey: En ny ære’ og den danske Netflix-film ’Toscana’ med Anders ”Anden” Matthesen under kærlig behandling. Omdrejningspunktet for begge er nemlig uventet arv og vi...
+   </itunes:subtitle>
+   <itunes:summary>
+    Den står i arvingernes tegn, når Karoline og Claus tager den biografaktuelle ’Downton Abbey: En ny ære’ og den danske Netflix-film ’Toscana’ med Anders ”Anden” Matthesen under kærlig behandling. Omdrejningspunktet for begge er nemlig uventet arv og vi finder både ud af, hvad Claus’ har af arvegods liggende og hvilken person fra Downton Abbey, han identificerer sig mest med. Til at hjælpe med at holde styr på den britiske film, har de fået Karolines mormor og morfar til at assisterer, da de muligvis er de største fans af franchisen i Danmark.&lt;br /&gt;&lt;br /&gt;Klip: UIP, Netflix og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3246
+   </itunes:duration>
+   <itunes:keywords>
+    anden,andersmatthesen,anmeldelse,arv,dowagercountess,downtonabbey,downtonabbey2anewera,ennyæra,film,frankrig,italien,maggiesmith,mehdiavaz,netflix,quiz,singingintherain,stumfilm,talefilm,toscana,villa
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Doctor Strange In the Multiverse of Madness og Everything Everywhere All at Once: Kampen om multiverset
+   </title>
+   <link>
+    https://www.spreaker.com/episode/doctor-strange-in-the-multiverse-of-madness-og-everything-everywhere-all-at-once-kampen-om-multiverset--49729160
+   </link>
+   <description>
+    Karoline og Claus er dine skarpe tour-guides, når destination går til det uendelige multivers, hvor et spørgsmål runger: Hvilken film om multiverser (hvad er det nu lige, det er?) skal jeg se i biografen? Marvel byder ind med blockbusteren ’Doctor Strange in the Multiverse of Madness’, mens ’Everything Everywhere All at Once’ er en mindre, men stadig vild, actionbasker med en god dosis kulsort humor fra instruktørerne af den vanvittige ‘Swiss Army Man’. Vi giver svaret, valget er dit!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Walt Disney Studios, UIP, Sony Pictures, YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49729160
+   </guid>
+   <pubDate>
+    Fri, 13 May 2022 22:00:02 +0000
+   </pubDate>
+   <enclosure length="51829908" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49729160/episode_24.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Karoline og Claus er dine skarpe tour-guides, når destination går til det uendelige multivers, hvor et spørgsmål runger: Hvilken film om multiverser (hvad er det nu lige, det er?) skal jeg se i biografen? Marvel byder ind med blockbusteren ’Doctor...
+   </itunes:subtitle>
+   <itunes:summary>
+    Karoline og Claus er dine skarpe tour-guides, når destination går til det uendelige multivers, hvor et spørgsmål runger: Hvilken film om multiverser (hvad er det nu lige, det er?) skal jeg se i biografen? Marvel byder ind med blockbusteren ’Doctor Strange in the Multiverse of Madness’, mens ’Everything Everywhere All at Once’ er en mindre, men stadig vild, actionbasker med en god dosis kulsort humor fra instruktørerne af den vanvittige ‘Swiss Army Man’. Vi giver svaret, valget er dit!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Walt Disney Studios, UIP, Sony Pictures, YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3236
+   </itunes:duration>
+   <itunes:keywords>
+    americachavez,anotherearth,benedictcumberbatch,disney,doctorstrange,doctorstrange2,elizabetholsen,everythingeverywhereallatonce,evildead,inthemultiverseofmadness,loki,marvel,mcu,michelleyeoh,multiverse,rickandmorty,samraimi,spider-man,thedaniels,wandavision
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    The Lost City og Operarejsen: Afsted på vilde eventyr
+   </title>
+   <link>
+    https://www.spreaker.com/episode/the-lost-city-og-operarejsen-afsted-pa-vilde-eventyr--49587047
+   </link>
+   <description>
+    Der er fuld knald på, når Karoline og Claus går i clinch med eventyr og opera. Er ’The Lost City’ andet end en undskyldning for at finde ud af, hvad Channing Tatum har mellem benene og hvordan skiller filmen sig ud fra andre i den romantiske-eventyr-genre? Kan man følge med i DR’s ’Operarejsen’, uden at kende noget til opera eller Den Korte Radioavis, og er Claus blevet operakender efter at have set serien? Karolines quiz giver det nådesløse svar, lyt med!&lt;br /&gt;&lt;br /&gt;Klip: UIP, DR og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49587047
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 22:00:03 +0000
+   </pubDate>
+   <enclosure length="51699505" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49587047/episode_23.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Der er fuld knald på, når Karoline og Claus går i clinch med eventyr og opera. Er ’The Lost City’ andet end en undskyldning for at finde ud af, hvad Channing Tatum har mellem benene og hvordan skiller filmen sig ud fra andre i den...
+   </itunes:subtitle>
+   <itunes:summary>
+    Der er fuld knald på, når Karoline og Claus går i clinch med eventyr og opera. Er ’The Lost City’ andet end en undskyldning for at finde ud af, hvad Channing Tatum har mellem benene og hvordan skiller filmen sig ud fra andre i den romantiske-eventyr-genre? Kan man følge med i DR’s ’Operarejsen’, uden at kende noget til opera eller Den Korte Radioavis, og er Claus blevet operakender efter at have set serien? Karolines quiz giver det nådesløse svar, lyt med!&lt;br /&gt;&lt;br /&gt;Klip: UIP, DR og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3228
+   </itunes:duration>
+   <itunes:keywords>
+    allangravgaardmadsen,beethoven,channingtatum,danielradcliffe,denkorteradioavis,dr,eventyr,film,frederikcillius,mozart,opera,operarejsen,puccini,rasmusbruun,romancingthestone,rossini,sandrabullock,thelostcity,verdi,wagner
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    The Northman og De forbandede år 2: Autenticitet og krig
+   </title>
+   <link>
+    https://www.spreaker.com/episode/the-northman-og-de-forbandede-ar-2-autenticitet-og-krig--49454238
+   </link>
+   <description>
+    Karoline og Claus går i denne omgang i clinch med to vidt forskellige periodefilm. Først står den på Robert Eggers version af en actionblockbuster, hævnfilmen ’The Northman’, og om hvordan mesterinstruktørens forkærlighed for tidssvarende autenticitet omsættes.  Dernæst står den på kulmination af Anders Refns anden verdenskrigskrønike ’De forbandende år 2’. Leverer filmen en tilfredsstillende konklusion på historien om familien Skov, eller skyder den med løst krudt, der ikke rammer plet?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: UIP, Scanbox og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49454238
+   </guid>
+   <pubDate>
+    Fri, 22 Apr 2022 22:00:02 +0000
+   </pubDate>
+   <enclosure length="51778917" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49454238/episode_22.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Karoline og Claus går i denne omgang i clinch med to vidt forskellige periodefilm. Først står den på Robert Eggers version af en actionblockbuster, hævnfilmen ’The Northman’, og om hvordan mesterinstruktørens forkærlighed for tidssvarende autenticitet...
+   </itunes:subtitle>
+   <itunes:summary>
+    Karoline og Claus går i denne omgang i clinch med to vidt forskellige periodefilm. Først står den på Robert Eggers version af en actionblockbuster, hævnfilmen ’The Northman’, og om hvordan mesterinstruktørens forkærlighed for tidssvarende autenticitet omsættes.  Dernæst står den på kulmination af Anders Refns anden verdenskrigskrønike ’De forbandende år 2’. Leverer filmen en tilfredsstillende konklusion på historien om familien Skov, eller skyder den med løst krudt, der ikke rammer plet?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: UIP, Scanbox og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3233
+   </itunes:duration>
+   <itunes:keywords>
+    alexanderskarsgård,andenverdenskrig,anyataylorjoy,björk,bodiljørgensen,claesbang,close-up,deforbandedeår2,ethanhawke,film,gustavgiese,jesperchristensen,nicolekidman,roberteggers,robertpattinson,thelighthouse,thenorthman,thewitch,vikinger,willemdafoe
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Fantastiske skabninger 3 og Moon Knight: Er der kreativt mere at komme efter?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/fantastiske-skabninger-3-og-moon-knight-er-der-kreativt-mere-at-komme-efter--49345288
+   </link>
+   <description>
+    Hvor fantastisk er ’Fantastiske skabninger: Dumbledores hemmeligheder’? Karoline og Claus går i dybden med det spørgsmål og forklarer nogle af alle de problemer, som har plaget dette Harry Potter spin-off. Og så står den endnu engang på Marvel-helte med miniserien ’Moon Knight’, hvor hovedpersonen har dissociativ identitetsforstyrrelse og dermed flere personligheder i sin krop. Har serien noget at byde på udover det hook, eller er den kreative brønd ved at løbe tør hos Marvel?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Warner Brothers, Disney, HBO og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49345288
+   </guid>
+   <pubDate>
+    Fri, 08 Apr 2022 22:00:02 +0000
+   </pubDate>
+   <enclosure length="51778917" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49345288/episode_21.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvor fantastisk er ’Fantastiske skabninger: Dumbledores hemmeligheder’? Karoline og Claus går i dybden med det spørgsmål og forklarer nogle af alle de problemer, som har plaget dette Harry Potter spin-off. Og så står den endnu engang på Marvel-helte...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvor fantastisk er ’Fantastiske skabninger: Dumbledores hemmeligheder’? Karoline og Claus går i dybden med det spørgsmål og forklarer nogle af alle de problemer, som har plaget dette Harry Potter spin-off. Og så står den endnu engang på Marvel-helte med miniserien ’Moon Knight’, hvor hovedpersonen har dissociativ identitetsforstyrrelse og dermed flere personligheder i sin krop. Har serien noget at byde på udover det hook, eller er den kreative brønd ved at løbe tør hos Marvel?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Warner Brothers, Disney, HBO og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3233
+   </itunes:duration>
+   <itunes:keywords>
+    anmeldelse,biograf,disney,dumbledore,eddieredmayne,ethanhawke,ezramiller,fantasticbeasts3,fantastiskeskabninger3,grindelwald,harrypotter,hbo,jkrowling,johnnydepp,judelaw,madsmikkelsen,marvel,moonknight,newtscamander,oscarisaac
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Morbius og Bridgerton: Vampyrer og trekantsdrama
+   </title>
+   <link>
+    https://www.spreaker.com/episode/morbius-og-bridgerton-vampyrer-og-trekantsdrama--49244908
+   </link>
+   <description>
+    Er der bid i Marvelfilmen ’Morbius’, og er Jared Leto endnu en gang fuldkommen vanvittig i sin method-acting tilgang til skuespil? Karoline og Claus giver svaret og går derefter i dybden med anden sæson af den sexede kostumedramaserie ’Bridgerton’. Har den mere at byde på end andre smålumre titler som ’50 Shades of Grey’ og ’After’? Svaret vil nok overraske nogen.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Sony, Netflix, HBO Max og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49244908
+   </guid>
+   <pubDate>
+    Fri, 01 Apr 2022 22:00:02 +0000
+   </pubDate>
+   <enclosure length="51184161" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49244908/episode_20.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Er der bid i Marvelfilmen ’Morbius’, og er Jared Leto endnu en gang fuldkommen vanvittig i sin method-acting tilgang til skuespil? Karoline og Claus giver svaret og går derefter i dybden med anden sæson af den sexede kostumedramaserie ’Bridgerton’....
+   </itunes:subtitle>
+   <itunes:summary>
+    Er der bid i Marvelfilmen ’Morbius’, og er Jared Leto endnu en gang fuldkommen vanvittig i sin method-acting tilgang til skuespil? Karoline og Claus giver svaret og går derefter i dybden med anden sæson af den sexede kostumedramaserie ’Bridgerton’. Har den mere at byde på end andre smålumre titler som ’50 Shades of Grey’ og ’After’? Svaret vil nok overraske nogen.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Sony, Netflix, HBO Max og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3195
+   </itunes:duration>
+   <itunes:keywords>
+    30secondstomars,50shadesofgrey,after,aknightstale,anmeldelser,biograf,bridgerton,danielespinosa,dustinhoffman,gameofthrones,jaredleto,jonekstrand,julieandrews,marvel,mattsmith,moonknight,morbius,netflix,regejeanpage,streaming
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Belfast og Oscars 2022: Og vinderen er...
+   </title>
+   <link>
+    https://www.spreaker.com/episode/belfast-og-oscars-2022-og-vinderen-er--49169650
+   </link>
+   <description>
+    Det er den tid på året, hvor filmnørder går i selvsving. Den 94. udgave af Oscar-uddelingen finder sted natten til den 28. marts, og Karoline og Claus går alle kategorierne igennem og kommer med deres bud på vindere. En af årets helt store favoritter er den fantastiske ’Belfast', om en lille dreng, der vokser op med konflikten mellem protestanter og katolikker lige udenfor hoveddøren. Men selvom den er en af årets absolut bedste film, kommer den så til hive mange gyldne statuetter hjem?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: UIP, Netflix og YouTube
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49169650
+   </guid>
+   <pubDate>
+    Fri, 25 Mar 2022 23:05:01 +0000
+   </pubDate>
+   <enclosure length="51420726" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49169650/19.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Det er den tid på året, hvor filmnørder går i selvsving. Den 94. udgave af Oscar-uddelingen finder sted natten til den 28. marts, og Karoline og Claus går alle kategorierne igennem og kommer med deres bud på vindere. En af årets helt store favoritter...
+   </itunes:subtitle>
+   <itunes:summary>
+    Det er den tid på året, hvor filmnørder går i selvsving. Den 94. udgave af Oscar-uddelingen finder sted natten til den 28. marts, og Karoline og Claus går alle kategorierne igennem og kommer med deres bud på vindere. En af årets helt store favoritter er den fantastiske ’Belfast', om en lille dreng, der vokser op med konflikten mellem protestanter og katolikker lige udenfor hoveddøren. Men selvom den er en af årets absolut bedste film, kommer den så til hive mange gyldne statuetter hjem?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: UIP, Netflix og YouTube
+   </itunes:summary>
+   <itunes:duration>
+    3210
+   </itunes:duration>
+   <itunes:keywords>
+    academyawards,belfast,benedictcumberbatch,billieeilish,caitrionabalfe,ciaranhinds,drivemycar,dune,flee,flugt,jamiedornan,judehill,judidench,kennethbranagh,kingrichard,licoricepizza,oscars,stevenspielberg,thepowerofthedog,willsmith
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Licorice Pizza, Speak No Evil, Deep Water og CPH DOX: Den komplicerede kærlighed
+   </title>
+   <link>
+    https://www.spreaker.com/episode/licorice-pizza-speak-no-evil-deep-water-og-cph-dox-den-komplicerede-kaerlighed--49060365
+   </link>
+   <description>
+    Der er smil og gys på programmet, når Karoline og Claus ser den uperfekte kærlighed efter i sømmene. I ’Licorice Pizza’ forsøger en femtenårig knægt at imponere en 25-årig kvinde, og Claus og Karoline diskuterer, om ikke der havde været et ramaskrig, hvis aldersforskellen havde været omvendt? Parforholdets trivialiteter møder ondskab i Christian Tafdrups ’Speak No Evil’, og i den erotiske thriller ’Deep Water’ får vi stillet den tabloide nysgerrighed, om det tidligere kendispar Ben Affleck og Ana de Armas havde kemi. Og så ser vi frem mod dokumentarfestivalen CPH:DOX, der efter to år i corona-dvale er tilbage for fuld styrke.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: SF Studios, Prime Video og Nordisk Film
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49060365
+   </guid>
+   <pubDate>
+    Fri, 18 Mar 2022 23:00:02 +0000
+   </pubDate>
+   <enclosure length="51327939" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49060365/18_episode.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Der er smil og gys på programmet, når Karoline og Claus ser den uperfekte kærlighed efter i sømmene. I ’Licorice Pizza’ forsøger en femtenårig knægt at imponere en 25-årig kvinde, og Claus og Karoline diskuterer, om ikke der havde været et ramaskrig,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Der er smil og gys på programmet, når Karoline og Claus ser den uperfekte kærlighed efter i sømmene. I ’Licorice Pizza’ forsøger en femtenårig knægt at imponere en 25-årig kvinde, og Claus og Karoline diskuterer, om ikke der havde været et ramaskrig, hvis aldersforskellen havde været omvendt? Parforholdets trivialiteter møder ondskab i Christian Tafdrups ’Speak No Evil’, og i den erotiske thriller ’Deep Water’ får vi stillet den tabloide nysgerrighed, om det tidligere kendispar Ben Affleck og Ana de Armas havde kemi. Og så ser vi frem mod dokumentarfestivalen CPH:DOX, der efter to år i corona-dvale er tilbage for fuld styrke.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: SF Studios, Prime Video og Nordisk Film
+   </itunes:summary>
+   <itunes:duration>
+    3204
+   </itunes:duration>
+   <itunes:keywords>
+    alanahaim,anadearmas,benaffleck,biograf,christiantafdrup,clausnygaardpetersen,cooperhoffman,cphdox,deepwater,dokumentarfilm,filmfestival,fireoflove,holland,intotheice,karolinebalstrøm,lakridspizza,licoricepizza,ondskab,paulthomasanderson,speaknoevil
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Rød, Fresh og The Lost Daughter: Livet som kvinde
+   </title>
+   <link>
+    https://www.spreaker.com/episode/rod-fresh-og-the-lost-daughter-livet-som-kvinde--49006126
+   </link>
+   <description>
+    Karoline og Claus har denne gang tre film på programmet, der hver især omhandler forskellige faser i kvinders liv. I Pixar filmen ’Rød’ følger vi stadiet fra barn til pubertet gennem en ung canadisk-asiatisk pige, der bliver forvandlet til en kæmpe rød panda. Horrorfilmen ’Fresh’ på Disney+ viser makabert, hvordan datingscenen bogstavelig talt er en jagtmark for visse mænd, og biograffilmen ’The Lost Daughter’ giver indblik i moderskabets mange nuancerede udfordringer og velsignelser.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Disney Pixar, Disney+ og SF Studios
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49006126
+   </guid>
+   <pubDate>
+    Fri, 11 Mar 2022 23:00:03 +0000
+   </pubDate>
+   <enclosure length="51392723" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49006126/episode_17.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Karoline og Claus har denne gang tre film på programmet, der hver især omhandler forskellige faser i kvinders liv. I Pixar filmen ’Rød’ følger vi stadiet fra barn til pubertet gennem en ung canadisk-asiatisk pige, der bliver forvandlet til en kæmpe...
+   </itunes:subtitle>
+   <itunes:summary>
+    Karoline og Claus har denne gang tre film på programmet, der hver især omhandler forskellige faser i kvinders liv. I Pixar filmen ’Rød’ følger vi stadiet fra barn til pubertet gennem en ung canadisk-asiatisk pige, der bliver forvandlet til en kæmpe rød panda. Horrorfilmen ’Fresh’ på Disney+ viser makabert, hvordan datingscenen bogstavelig talt er en jagtmark for visse mænd, og biograffilmen ’The Lost Daughter’ giver indblik i moderskabets mange nuancerede udfordringer og velsignelser.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Disney Pixar, Disney+ og SF Studios
+   </itunes:summary>
+   <itunes:duration>
+    3208
+   </itunes:duration>
+   <itunes:keywords>
+    biograffilm,cannibalism,clausnygaardpetersen,daisyedgarjones,dakotajohnson,disney+,fresh,jessiebuckley,karolinebalstrøm,maggiegyllenhaal,normalpeople,oliviacolman,paulmescal,pixar,rød,sandraoh,sebastianstan,streaming,thelostdaughter,turningred
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    The Batman, Parallelle mødre og Finding Magic Mike: Transformationer
+   </title>
+   <link>
+    https://www.spreaker.com/episode/the-batman-parallelle-modre-og-finding-magic-mike-transformationer--48938053
+   </link>
+   <description>
+    Den står på transformationer i denne omgang Close-Up. Først har Karoline og Claus to meget forskellige meninger om ’The Batman’, hvor den kappeklædte hævner er oppe imod en bestialsk seriemorder. De fortsætter med at være uenige, når det gælder den spanske mesterinstruktør Pedro Almodovars underfundige drama ’Parallelle mødre’, men forenes så i kærligheden til streamingperlen på HBO Max, reality-serien ’Finding Magic Mike’. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Warner Brothers, Scanbox og HBO Max
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48938053
+   </guid>
+   <pubDate>
+    Fri, 04 Mar 2022 23:05:02 +0000
+   </pubDate>
+   <enclosure length="50895770" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48938053/16_episode.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Den står på transformationer i denne omgang Close-Up. Først har Karoline og Claus to meget forskellige meninger om ’The Batman’, hvor den kappeklædte hævner er oppe imod en bestialsk seriemorder. De fortsætter med at være uenige, når det gælder den...
+   </itunes:subtitle>
+   <itunes:summary>
+    Den står på transformationer i denne omgang Close-Up. Først har Karoline og Claus to meget forskellige meninger om ’The Batman’, hvor den kappeklædte hævner er oppe imod en bestialsk seriemorder. De fortsætter med at være uenige, når det gælder den spanske mesterinstruktør Pedro Almodovars underfundige drama ’Parallelle mødre’, men forenes så i kærligheden til streamingperlen på HBO Max, reality-serien ’Finding Magic Mike’. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Warner Brothers, Scanbox og HBO Max
+   </itunes:summary>
+   <itunes:duration>
+    3177
+   </itunes:duration>
+   <itunes:keywords>
+    anmeldelse,anmeldelser,biograf,clausnyagaardpetersen,film,findingmagicmike,hbo,hbomax,karolinebalstrøm,magicmike,mattreeves,parallellemødre,podcast,robertpattinson,streaming,thebatman,tv
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Rose, Borgen og Vikings Valhalla: De store danskere
+   </title>
+   <link>
+    https://www.spreaker.com/episode/rose-borgen-og-vikings-valhalla-de-store-danskere--48868059
+   </link>
+   <description>
+    To af Danmarks bedste skuespillere er i fokus i denne omgang Close-Up. Sofie Gråbøl er aktuel i den rørende ’Rose’, og Sidse Babett Knuden er igen alles yndlingspolitiker i fjerde omgang ’Borgen’. Men hvorfor er det, at de to er i toppen, når det kommer til skuespil – og leverer de stadig varen? Og så står den på krig og intriger i Netflix-serien ’Vikings: Valhalla’. Kan man endelig høre ordet Kattegat, uden at det skærer i ørene? &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Nordisk Film, DR og Netflix
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48868059
+   </guid>
+   <pubDate>
+    Fri, 25 Feb 2022 23:05:02 +0000
+   </pubDate>
+   <enclosure length="51426160" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48868059/15_afsnit.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    To af Danmarks bedste skuespillere er i fokus i denne omgang Close-Up. Sofie Gråbøl er aktuel i den rørende ’Rose’, og Sidse Babett Knuden er igen alles yndlingspolitiker i fjerde omgang ’Borgen’. Men hvorfor er det, at de to er i toppen, når det...
+   </itunes:subtitle>
+   <itunes:summary>
+    To af Danmarks bedste skuespillere er i fokus i denne omgang Close-Up. Sofie Gråbøl er aktuel i den rørende ’Rose’, og Sidse Babett Knuden er igen alles yndlingspolitiker i fjerde omgang ’Borgen’. Men hvorfor er det, at de to er i toppen, når det kommer til skuespil – og leverer de stadig varen? Og så står den på krig og intriger i Netflix-serien ’Vikings: Valhalla’. Kan man endelig høre ordet Kattegat, uden at det skærer i ørene? &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Nordisk Film, DR og Netflix
+   </itunes:summary>
+   <itunes:duration>
+    3211
+   </itunes:duration>
+   <itunes:keywords>
+    alpacino,anderswberthelsen,biograf,borgen,clausnygaardpetersen,danmarksradio,dianekeaton,dr,francisfordcoppola,karolinebalstrøm,mikkelboefølsgaard,netflix,nielsardenoplev,rose,sidsebabettknudsen,sofiegråbøl,sørenmalling,thegodfather,vikings,vikingsvalhalla
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Pig, Jeen-Yuhs og Moonfall: De store stjerner falder ned
+   </title>
+   <link>
+    https://www.spreaker.com/episode/pig-jeen-yuhs-og-moonfall-de-store-stjerner-falder-ned--48773554
+   </link>
+   <description>
+    Der er fokus på de store personligheder denne gang. Nicolas Cage er aktuel i biograffilmen ’Pig’, der handler om en mand, som leder efter sin kidnappede trøffelgris. Gennem 20 års optagelser ser vi Kanye Wests rejse til magastjerne status i Netflix-dokumentaren ’Jeen-Yuhs’. Er talentet der stadig hos de to unikummer, eller har de mistet grebet? Og i katastrofe-invasionsfilmen ’Moonfall’, prøver et rumvæsen at styrte månen ned i Jorden, er spørgsmålet, om filmen er så dårlig, at den bliver god?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Reel Pictures, Netflix og UIP
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48773554
+   </guid>
+   <pubDate>
+    Fri, 18 Feb 2022 23:00:03 +0000
+   </pubDate>
+   <enclosure length="51121050" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48773554/episode_14.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Der er fokus på de store personligheder denne gang. Nicolas Cage er aktuel i biograffilmen ’Pig’, der handler om en mand, som leder efter sin kidnappede trøffelgris. Gennem 20 års optagelser ser vi Kanye Wests rejse til magastjerne status i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Der er fokus på de store personligheder denne gang. Nicolas Cage er aktuel i biograffilmen ’Pig’, der handler om en mand, som leder efter sin kidnappede trøffelgris. Gennem 20 års optagelser ser vi Kanye Wests rejse til magastjerne status i Netflix-dokumentaren ’Jeen-Yuhs’. Er talentet der stadig hos de to unikummer, eller har de mistet grebet? Og i katastrofe-invasionsfilmen ’Moonfall’, prøver et rumvæsen at styrte månen ned i Jorden, er spørgsmålet, om filmen er så dårlig, at den bliver god?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Reel Pictures, Netflix og UIP
+   </itunes:summary>
+   <itunes:duration>
+    3191
+   </itunes:duration>
+   <itunes:keywords>
+    2022,alexwolff,anmeldelse,biograf,clausnygaardpetersen,dokumentar,francisfordcoppola,gameofthrones,gris,jeen-yuhs,johnbradley,kanyewest,karolinebalstrøm,moonfall,neflix,nicolascage,pig,rolandemmerich,sofiacoppola,streaming
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Døden på Nilen, The After Party og Scream: Hvem er morderen?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/doden-pa-nilen-the-after-party-og-scream-hvem-er-morderen--48656700
+   </link>
+   <description>
+    Denne gang har Karoline og Claus udvalgt tre titler, som har det tilfælles, at en morder er på spil. Mesterdetektiven Hercule Poirot skal i ’Døden på Nilen’ finde ud af hvilket overklasseløg på en ekstravagant flodpram, der er den skyldige. I Apple TV+'s geniale ’The After Party’ bliver en gammel-elev fest til et gerningssted - og hvem har skubbet Justin Bieber klonen i døden? Og så er Ghostface tilbage i en ny omgang ’Scream’, og er der stadig bid meta-slasher-franchisen, eller er kniven blevet sløv?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: 20th Century Fox, Apple TV+ og SF Studios
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48656700
+   </guid>
+   <pubDate>
+    Fri, 11 Feb 2022 23:00:02 +0000
+   </pubDate>
+   <enclosure length="50955538" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48656700/episode_13.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Denne gang har Karoline og Claus udvalgt tre titler, som har det tilfælles, at en morder er på spil. Mesterdetektiven Hercule Poirot skal i ’Døden på Nilen’ finde ud af hvilket overklasseløg på en ekstravagant flodpram, der er den skyldige. I Apple...
+   </itunes:subtitle>
+   <itunes:summary>
+    Denne gang har Karoline og Claus udvalgt tre titler, som har det tilfælles, at en morder er på spil. Mesterdetektiven Hercule Poirot skal i ’Døden på Nilen’ finde ud af hvilket overklasseløg på en ekstravagant flodpram, der er den skyldige. I Apple TV+'s geniale ’The After Party’ bliver en gammel-elev fest til et gerningssted - og hvem har skubbet Justin Bieber klonen i døden? Og så er Ghostface tilbage i en ny omgang ’Scream’, og er der stadig bid meta-slasher-franchisen, eller er kniven blevet sløv?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: 20th Century Fox, Apple TV+ og SF Studios
+   </itunes:summary>
+   <itunes:duration>
+    3181
+   </itunes:duration>
+   <itunes:keywords>
+    appletv+,armiehammer,clausnygaardpetersen,courtneycox,davefranco,deathonthenile,dødenpånilen,dusomerihimlen,galgadot,herculepoirot,jennaortega,karolinebalstrøm,kennethbranagh,nevecampbell,scream,scream5,theafterparty,tiffanyhaddish,tomholland,uncharted
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Vildmænd, hævnporno og Kristen Stewart i verdensklasse
+   </title>
+   <link>
+    https://www.spreaker.com/episode/vildmaend-haevnporno-og-kristen-stewart-i-verdensklasse--48520553
+   </link>
+   <description>
+    Close-Up har i denne omgang fokus på to ikoniske kvinder og en mand i en midtvejskrise. Hvad er det Thomas Daneskovs ’Vildmænd’ med Rasmus Bjerg i hovedrollen siger om mænd i 2022, og hvorfor fanden render de rundt i en norsk skov? Dernæst kaster Karoline og Claus sig over to kvinder, som har været fast inventar i sladderpressen. Serien ’Pam &amp; Tommy’ skildrer, hvordan et sextape med Pamela Anderson ændrede verden, og ’Spencer’ viser det helvede, som prinsesse Diana oplevede i det engelske kongehus.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Nordisk Film, Disney+ og Scanbox
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48520553
+   </guid>
+   <pubDate>
+    Fri, 04 Feb 2022 23:05:02 +0000
+   </pubDate>
+   <enclosure length="51299518" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48520553/program12.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Close-Up har i denne omgang fokus på to ikoniske kvinder og en mand i en midtvejskrise. Hvad er det Thomas Daneskovs ’Vildmænd’ med Rasmus Bjerg i hovedrollen siger om mænd i 2022, og hvorfor fanden render de rundt i en norsk skov? Dernæst kaster...
+   </itunes:subtitle>
+   <itunes:summary>
+    Close-Up har i denne omgang fokus på to ikoniske kvinder og en mand i en midtvejskrise. Hvad er det Thomas Daneskovs ’Vildmænd’ med Rasmus Bjerg i hovedrollen siger om mænd i 2022, og hvorfor fanden render de rundt i en norsk skov? Dernæst kaster Karoline og Claus sig over to kvinder, som har været fast inventar i sladderpressen. Serien ’Pam &amp; Tommy’ skildrer, hvordan et sextape med Pamela Anderson ændrede verden, og ’Spencer’ viser det helvede, som prinsesse Diana oplevede i det engelske kongehus.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Nordisk Film, Disney+ og Scanbox
+   </itunes:summary>
+   <itunes:duration>
+    3203
+   </itunes:duration>
+   <itunes:keywords>
+    anmeldelse,biograf,clausnygaardpetersen,debat,disney+,film,hbomax,karolinebalstrøm,kendte,kristenstewart,netflix,pamelaanderson,pam&amp;tommy,porno,prinsessediana,serie,sex,sextape,spencer,vildmænd
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Nightmare Alley, ny dansk Netflix-serie og kunst for millioner
+   </title>
+   <link>
+    https://www.spreaker.com/episode/nightmare-alley-ny-dansk-netflix-serie-og-kunst-for-millioner--48428460
+   </link>
+   <description>
+    Forventningerne er høje hos Karoline og Claus til Guillermo del Toros ’Nightmare Alley’, men lever den op til hans forrige film Oscar-vinderen ’The Shape of Water’s niveau? Så bliver Netflix’ danske sci-fi-serie ’Chosen’ endevendt, og er det en træls omgang som ’The Rain’ eller en fornøjelse som ’Nisser’? Til slut diskuterer vi, hvorfor kunst bliver tillagt så stor værdi, når vi taler om danske Andreas Koefoeds dokumentar ’The Lost Leonardo’.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Fox Searchlight Pictures, Netflix, SF Studios
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48428460
+   </guid>
+   <pubDate>
+    Fri, 28 Jan 2022 23:00:03 +0000
+   </pubDate>
+   <enclosure length="51411531" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48428460/program_11.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Forventningerne er høje hos Karoline og Claus til Guillermo del Toros ’Nightmare Alley’, men lever den op til hans forrige film Oscar-vinderen ’The Shape of Water’s niveau? Så bliver Netflix’ danske sci-fi-serie ’Chosen’ endevendt, og er det en træls...
+   </itunes:subtitle>
+   <itunes:summary>
+    Forventningerne er høje hos Karoline og Claus til Guillermo del Toros ’Nightmare Alley’, men lever den op til hans forrige film Oscar-vinderen ’The Shape of Water’s niveau? Så bliver Netflix’ danske sci-fi-serie ’Chosen’ endevendt, og er det en træls omgang som ’The Rain’ eller en fornøjelse som ’Nisser’? Til slut diskuterer vi, hvorfor kunst bliver tillagt så stor værdi, når vi taler om danske Andreas Koefoeds dokumentar ’The Lost Leonardo’.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Fox Searchlight Pictures, Netflix, SF Studios
+   </itunes:summary>
+   <itunes:duration>
+    3210
+   </itunes:duration>
+   <itunes:keywords>
+    bradley_cooper,cate_blanchett,chosen,claus_nygaard_petersen,guillermo_del_toro,karoline_balstrøm,kupé_nummer_6,lamb,malaika_mosendane,netflix,nightmare_alley,nisser,oscar_vinder,rooney_mara,tag_min_hånd,the_lost_leonardo,the_rain,the_shape_of_water,toni_collette,willem_dafoe
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    The King's Man, euforisk teenagesex og Downton Abbey i USA
+   </title>
+   <link>
+    https://www.spreaker.com/episode/the-king-s-man-euforisk-teenagesex-og-downton-abbey-i-usa--48382307
+   </link>
+   <description>
+    Biograferne er tilbage, og vi ser om actionfilmen ’The King’s Man’ leverer varen, eller om den er en fuser ligesom den foregående i ’Kingsman’-serien. I streamingland står anden sæson af den populære og kontroversielle ’Euphoria’ for skud. Holder serien niveau, eller har den mistet fokus og er ved at blive en parodi på sig selv? Og så står den på spydige bemærkninger og overdådige kjoler, når ’The Gilded Age’ bliver debatteret. Har skaberen af ’Downton Abbey’ ramt plet igen, eller venter vi bare på den nye sæson af ’Bridgerton’? &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: 20th Century Fox og HBO Max
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48382307
+   </guid>
+   <pubDate>
+    Fri, 21 Jan 2022 23:00:02 +0000
+   </pubDate>
+   <enclosure length="51310385" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48382307/10_done.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Biograferne er tilbage, og vi ser om actionfilmen ’The King’s Man’ leverer varen, eller om den er en fuser ligesom den foregående i ’Kingsman’-serien. I streamingland står anden sæson af den populære og kontroversielle ’Euphoria’ for skud. Holder...
+   </itunes:subtitle>
+   <itunes:summary>
+    Biograferne er tilbage, og vi ser om actionfilmen ’The King’s Man’ leverer varen, eller om den er en fuser ligesom den foregående i ’Kingsman’-serien. I streamingland står anden sæson af den populære og kontroversielle ’Euphoria’ for skud. Holder serien niveau, eller har den mistet fokus og er ved at blive en parodi på sig selv? Og så står den på spydige bemærkninger og overdådige kjoler, når ’The Gilded Age’ bliver debatteret. Har skaberen af ’Downton Abbey’ ramt plet igen, eller venter vi bare på den nye sæson af ’Bridgerton’? &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: 20th Century Fox og HBO Max
+   </itunes:summary>
+   <itunes:duration>
+    3203
+   </itunes:duration>
+   <itunes:keywords>
+    actionfilm,anden_verdenskrig,biograf,celine_sciamma,claus_nygaard_petersen,downton_abbey,euphoria,hbo_max,julian_fellowes,karoline_balstrøm,kingsman,petite_maman,ralph_fiennes,sam_levinson,sex,streaming,teenagere,the_gilded_age,the_king's_man,zendaya
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Peacemaker, heppekorsskandale og uhyggelige uldtotter
+   </title>
+   <link>
+    https://www.spreaker.com/episode/peacemaker-heppekorsskandale-og-uhyggelige-uldtotter--48250321
+   </link>
+   <description>
+    Forventningerne er store til HBO-serien ’Peacemaker’, et spin-off til actionbraget ’The Suicide Squad’, men formår serien at leve op til hypen? Tingene bliver weird med den fascinerende stop-motion-film ’The House’ fra Netflix, men er de underlige for underlighedens skyld, eller er der mere at komme efter? Til slut bliver anden sæson af dokumentarserien ’Cheer’ dissekeret, især hvordan succesen har påvirket de medvirkende, og hvordan skaberne håndterer pædofili-skandalen, der har ramt serien.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: HBO Max og Netflix
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48250321
+   </guid>
+   <pubDate>
+    Fri, 14 Jan 2022 23:05:01 +0000
+   </pubDate>
+   <enclosure length="51422398" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48250321/program09.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Forventningerne er store til HBO-serien ’Peacemaker’, et spin-off til actionbraget ’The Suicide Squad’, men formår serien at leve op til hypen? Tingene bliver weird med den fascinerende stop-motion-film ’The House’ fra Netflix, men er de underlige for...
+   </itunes:subtitle>
+   <itunes:summary>
+    Forventningerne er store til HBO-serien ’Peacemaker’, et spin-off til actionbraget ’The Suicide Squad’, men formår serien at leve op til hypen? Tingene bliver weird med den fascinerende stop-motion-film ’The House’ fra Netflix, men er de underlige for underlighedens skyld, eller er der mere at komme efter? Til slut bliver anden sæson af dokumentarserien ’Cheer’ dissekeret, især hvordan succesen har påvirket de medvirkende, og hvordan skaberne håndterer pædofili-skandalen, der har ramt serien.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: HBO Max og Netflix
+   </itunes:summary>
+   <itunes:duration>
+    3210
+   </itunes:duration>
+   <itunes:keywords>
+    action,cheer,cheerleader,clausnygaardpetersen,danielle_brooks,dokumentar,euphoria,film,hbo,hbo_max,john_cena,karolinebalstrøm,netflix,peacemaker,robert_patrick,serier,stop_motion,streaming,thehouse,the_suicide_squad
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    The Matrix, Harry Potter og Boba Fett vender tilbage
+   </title>
+   <link>
+    https://www.spreaker.com/episode/the-matrix-harry-potter-og-boba-fett-vender-tilbage--48187314
+   </link>
+   <description>
+    Denne gang har Karoline og Claus fundet tre titler i streaminguniverset, som alle er videreudviklinger af gamle succeser. Spørgsmålet er om de nye ting kan noget, eller om det bare er et klamt forsøg fra producenterne på at tjene penge på nostalgiske følelser. Værterne sluger en rød pille og hopper ind i ’The Matrix Resurrections’, inden de fluks springer på toget til ’Harry Potter 20-års jubilæum: Tilbage til Hogwarts’, hvorefter det hele sluttes af med en tur i rummet med ’The Book of Boba Fett’. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Warner Brothers, Disney, HBO Max
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48187314
+   </guid>
+   <pubDate>
+    Fri, 07 Jan 2022 23:00:02 +0000
+   </pubDate>
+   <enclosure length="51338806" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48187314/program_8.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Denne gang har Karoline og Claus fundet tre titler i streaminguniverset, som alle er videreudviklinger af gamle succeser. Spørgsmålet er om de nye ting kan noget, eller om det bare er et klamt forsøg fra producenterne på at tjene penge på nostalgiske...
+   </itunes:subtitle>
+   <itunes:summary>
+    Denne gang har Karoline og Claus fundet tre titler i streaminguniverset, som alle er videreudviklinger af gamle succeser. Spørgsmålet er om de nye ting kan noget, eller om det bare er et klamt forsøg fra producenterne på at tjene penge på nostalgiske følelser. Værterne sluger en rød pille og hopper ind i ’The Matrix Resurrections’, inden de fluks springer på toget til ’Harry Potter 20-års jubilæum: Tilbage til Hogwarts’, hvorefter det hele sluttes af med en tur i rummet med ’The Book of Boba Fett’. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Warner Brothers, Disney, HBO Max
+   </itunes:summary>
+   <itunes:duration>
+    3205
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/093331a28332f1c86376208c2dec631f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Top 10 film i 2021
+   </title>
+   <link>
+    https://www.spreaker.com/episode/top-10-film-i-2021--48112659
+   </link>
+   <description>
+    Efter flere intense forhandlinger er det lykkedes Karoline og Claus at komme frem til en top 10 over årets bedste film. Der er blevet plads til både de store biograf-baskere og de små streaming-perler, som man ikke må snyde sig selv for at se. Som en lille public service fortæller de, hvor man kan se filmene på streaming, hvis man skulle være gået glip af dem i biografen. Derudover ser de også nærste på årets bedst musik fra WSA ved Film Fest Gent. Og så kigger de mod 2022 og udvælger et par af de mange spændende filmoplevelser, de glæder sig til.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48112659
+   </guid>
+   <pubDate>
+    Fri, 31 Dec 2021 22:00:02 +0000
+   </pubDate>
+   <enclosure length="51548204" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48112659/program_nyt_r.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Efter flere intense forhandlinger er det lykkedes Karoline og Claus at komme frem til en top 10 over årets bedste film. Der er blevet plads til både de store biograf-baskere og de små streaming-perler, som man ikke må snyde sig selv for at se. Som en...
+   </itunes:subtitle>
+   <itunes:summary>
+    Efter flere intense forhandlinger er det lykkedes Karoline og Claus at komme frem til en top 10 over årets bedste film. Der er blevet plads til både de store biograf-baskere og de små streaming-perler, som man ikke må snyde sig selv for at se. Som en lille public service fortæller de, hvor man kan se filmene på streaming, hvis man skulle være gået glip af dem i biografen. Derudover ser de også nærste på årets bedst musik fra WSA ved Film Fest Gent. Og så kigger de mod 2022 og udvælger et par af de mange spændende filmoplevelser, de glæder sig til.
+   </itunes:summary>
+   <itunes:duration>
+    3218
+   </itunes:duration>
+   <itunes:keywords>
+    2021,clausnygaardpetersen,dune,film,firstcow,flee,flugt,hbomax,karolinebalstrøm,minari,movies,netflix,neverrarelysometimesalways,oscar,promisingyoungwoman,streaming,thesuicidesquad,titane,top10,venuseffekten
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a6befb838b9a8fe4b4eadf5b8b1dffdd.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Netflix Oscar-bait og Will Smith bestiger en vulkan
+   </title>
+   <link>
+    https://www.spreaker.com/episode/netflix-oscar-bait-og-will-smith-bestiger-en-vulkan--48041372
+   </link>
+   <description>
+    Biograferne er igen blevet lukket, så Karoline og Claus er gået på jagt efter streaming-guld. Først endervender de Paolo Sorrentinos semi-selvbiografiske ’The Hand of God’, hvorefter Benedict Cumberbatchs tour de force præstation i ’The Power of the Dog’ hyldes. Det fører til en diskussion om streaming-tjenesternes prestigeprojekter, og hvordan det kommer til at se ud i fremtiden. Og så slutter de af med dokumentarserieen ’Welcome to Earth’, hvor en super charmerende Will Smith er vor guide til nogle af de mest fascinerende fænomener, som naturen har at byde på.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Netflix, YouTube og Disney+
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48041372
+   </guid>
+   <pubDate>
+    Fri, 24 Dec 2021 22:00:01 +0000
+   </pubDate>
+   <enclosure length="51576207" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48041372/program_06.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Biograferne er igen blevet lukket, så Karoline og Claus er gået på jagt efter streaming-guld. Først endervender de Paolo Sorrentinos semi-selvbiografiske ’The Hand of God’, hvorefter Benedict Cumberbatchs tour de force præstation i ’The Power of the...
+   </itunes:subtitle>
+   <itunes:summary>
+    Biograferne er igen blevet lukket, så Karoline og Claus er gået på jagt efter streaming-guld. Først endervender de Paolo Sorrentinos semi-selvbiografiske ’The Hand of God’, hvorefter Benedict Cumberbatchs tour de force præstation i ’The Power of the Dog’ hyldes. Det fører til en diskussion om streaming-tjenesternes prestigeprojekter, og hvordan det kommer til at se ud i fremtiden. Og så slutter de af med dokumentarserieen ’Welcome to Earth’, hvor en super charmerende Will Smith er vor guide til nogle af de mest fascinerende fænomener, som naturen har at byde på.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Netflix, YouTube og Disney+
+   </itunes:summary>
+   <itunes:duration>
+    3220
+   </itunes:duration>
+   <itunes:keywords>
+    benedict_cumberbatch,cowboy,darren_aronofsky,diego_maradona,disney+,dokumentar,dokumentarserie,drama,familie,guds_hånd,jane_campion,jesse_plemons,kirsten_dunst,kodi_smit_mcphee,netflix,oscar_bait,paolo_sorrentino,the_hand_of_god,the_power_of_the_dog,welcome_to_earth
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a6befb838b9a8fe4b4eadf5b8b1dffdd.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Spider-Man, knapt så meget sex i byen og god fantasy
+   </title>
+   <link>
+    https://www.spreaker.com/episode/spider-man-knapt-sa-meget-sex-i-byen-og-god-fantasy--47943195
+   </link>
+   <description>
+    Edderkoppedrengen er tilbage i ’Spider-Man: No Way Home’, hvor næsten alle skurke fra samtlige Spider-Man-film dukker op. Er det ren fan-service lir, eller er der en dybere mening under al bulderbragene? Og så er spørgsmålet om ’And Just Like That’ tilføjer noget til ’Sex and the City’-universet, eller om det bare er en pengemaskine. Anden sæson af Netflix’ populære ’The Witcher’ runder programmet af, og er der kommet mere kød på historien, eller er en topløs Henry Cavill stadig det bedste ved serien?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Sony Pictures, HBO og Netflix
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47943195
+   </guid>
+   <pubDate>
+    Fri, 17 Dec 2021 22:05:02 +0000
+   </pubDate>
+   <enclosure length="51421144" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47943195/program_5.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Edderkoppedrengen er tilbage i ’Spider-Man: No Way Home’, hvor næsten alle skurke fra samtlige Spider-Man-film dukker op. Er det ren fan-service lir, eller er der en dybere mening under al bulderbragene? Og så er spørgsmålet om ’And Just Like That’...
+   </itunes:subtitle>
+   <itunes:summary>
+    Edderkoppedrengen er tilbage i ’Spider-Man: No Way Home’, hvor næsten alle skurke fra samtlige Spider-Man-film dukker op. Er det ren fan-service lir, eller er der en dybere mening under al bulderbragene? Og så er spørgsmålet om ’And Just Like That’ tilføjer noget til ’Sex and the City’-universet, eller om det bare er en pengemaskine. Anden sæson af Netflix’ populære ’The Witcher’ runder programmet af, og er der kommet mere kød på historien, eller er en topløs Henry Cavill stadig det bedste ved serien?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Sony Pictures, HBO og Netflix
+   </itunes:summary>
+   <itunes:duration>
+    3210
+   </itunes:duration>
+   <itunes:keywords>
+    alfred_molina,and_just_like_that,andrew_garfield,benedict_cumberbatch,cynthia_nixon,hbo,henry_cavill,jamie_foxx,kristin_davis,marisa_tomei,mr_big,netflix,sarah_jessica_parker,spider-man,spider-man:_no_way_home,the_witcher,tobey_maguire,tom_holland,willem_dafoe,zendaya
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a6befb838b9a8fe4b4eadf5b8b1dffdd.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Nisser og rumvæsner
+   </title>
+   <link>
+    https://www.spreaker.com/episode/nisser-og-rumvaesner--47848347
+   </link>
+   <description>
+    Efter et par uger med corona-feber er Karoline og Claus tilbage! Fra hjemmestudiet lægger de ud med dræber-nisser i Netflix’ julegave til alle os, den danske serie ’Nisser’. Karoline snakker med horrorekspert Mathias Clasen, om hvorfor det giver mening at bruge nisser som monstre. Derefter tager vi ud i de ydre rum med Amazon Prime Video. Først med filmen ’Encounter’, hvor en mand forsøger at forhindre en invasion, og til sidst vender vi en af verdens bedste sci-fi-serier, nemlig ’The Expanse’.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47848347
+   </guid>
+   <pubDate>
+    Fri, 10 Dec 2021 22:05:01 +0000
+   </pubDate>
+   <enclosure length="50794624" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47848347/04_program.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Efter et par uger med corona-feber er Karoline og Claus tilbage! Fra hjemmestudiet lægger de ud med dræber-nisser i Netflix’ julegave til alle os, den danske serie ’Nisser’. Karoline snakker med horrorekspert Mathias Clasen, om hvorfor det giver...
+   </itunes:subtitle>
+   <itunes:summary>
+    Efter et par uger med corona-feber er Karoline og Claus tilbage! Fra hjemmestudiet lægger de ud med dræber-nisser i Netflix’ julegave til alle os, den danske serie ’Nisser’. Karoline snakker med horrorekspert Mathias Clasen, om hvorfor det giver mening at bruge nisser som monstre. Derefter tager vi ud i de ydre rum med Amazon Prime Video. Først med filmen ’Encounter’, hvor en mand forsøger at forhindre en invasion, og til sidst vender vi en af verdens bedste sci-fi-serier, nemlig ’The Expanse’.
+   </itunes:summary>
+   <itunes:duration>
+    3171
+   </itunes:duration>
+   <itunes:keywords>
+    amazon,amazon_prime_video,claus_nygaard_petersen,corona,dræber_nisser,encounter,expanse,horror,invasion,jul,julefeber,karoline_balstrøm,mathias_clasen,netflix,nisser,rumvæsner,science_fiction,sci_fi_serie,the_expanse,verdens_bedste_serie
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a6befb838b9a8fe4b4eadf5b8b1dffdd.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Børn er onde, genfærd vender tilbage, de døde synger og skaberen af længe ventet serie taler ud
+   </title>
+   <link>
+    https://www.spreaker.com/episode/born-er-onde-genfaerd-vender-tilbage-de-dode-synger-og-skaberen-af-laenge-ventet-serie-taler-ud--47528078
+   </link>
+   <description>
+    To længe ventede gyserfilm er her endelig i form af norske ’De uskyldige’ og ’Ghostbusters: Afterlife’. Fælles for dem (ud over børn i centrale roller) er, at de begge minder meget om tidligere film. Så formår de overhovedet at skabe deres egen identitet? Vi taler også med Rafe Judkins, skaberen af den længe ventede Amazonserie ’The Wheel of Time’ - men lever den op til forventningerne? Og så vendes den fremragende Netflixfilm ’Tick, Tick…BOOM!’, der slet og ret er den bedste musical siden ’La La Land’.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47528078
+   </guid>
+   <pubDate>
+    Fri, 19 Nov 2021 22:00:06 +0000
+   </pubDate>
+   <enclosure length="51383110" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47528078/close_up46.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    To længe ventede gyserfilm er her endelig i form af norske ’De uskyldige’ og ’Ghostbusters: Afterlife’. Fælles for dem (ud over børn i centrale roller) er, at de begge minder meget om tidligere film. Så formår de overhovedet at skabe deres egen...
+   </itunes:subtitle>
+   <itunes:summary>
+    To længe ventede gyserfilm er her endelig i form af norske ’De uskyldige’ og ’Ghostbusters: Afterlife’. Fælles for dem (ud over børn i centrale roller) er, at de begge minder meget om tidligere film. Så formår de overhovedet at skabe deres egen identitet? Vi taler også med Rafe Judkins, skaberen af den længe ventede Amazonserie ’The Wheel of Time’ - men lever den op til forventningerne? Og så vendes den fremragende Netflixfilm ’Tick, Tick…BOOM!’, der slet og ret er den bedste musical siden ’La La Land’.
+   </itunes:summary>
+   <itunes:duration>
+    3208
+   </itunes:duration>
+   <itunes:keywords>
+    andrew_garfield,anmeldelse,bill_murray,biograf,claus_nygaard_petersen,close-up,debat,de_uskyldige,eskil_vogt,film,ghostbusters,ghostbusters:afterlife,karoline_balstrøm,la_la_land,lin_manuel_miranda,paul_rudd,rafe_judkins,serier,the_wheel_of_time,tick_tick_boom
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a6befb838b9a8fe4b4eadf5b8b1dffdd.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Bilsex, dansk selvmordspilot og filmfestivaller
+   </title>
+   <link>
+    https://www.spreaker.com/episode/bilsex-dansk-selvmordspilot-og-filmfestivaller--47440728
+   </link>
+   <description>
+    Filmfestivaller har med corona og streamingtjenesternes fremdrift fået et par irriterende modspillere, som ikke ser ud til at gå væk med det samme. Hvordan skal de klare sig fremover og hvad kan vores CPH PIX byde ind med? Festival-darlingen fra dette års Cannes-festival ’Titane’ har premiere, og er der mere ved den end bare chokerende bilsex? Derudover kaster vi et blik på netop overståede festival Film Fest Gent og WSA. Og så vender vi den første danske HBO-serie nogensinde, ’Kamikaze’, hvor spørgsmålet er, om der er mere bag seriens billedskønne Instagram-look.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: AWE &amp; HBO Max
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47440728
+   </guid>
+   <pubDate>
+    Fri, 12 Nov 2021 22:00:16 +0000
+   </pubDate>
+   <enclosure length="51225539" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47440728/bilsex_dansk_selvmordspilot_og_filmfestivaller.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Filmfestivaller har med corona og streamingtjenesternes fremdrift fået et par irriterende modspillere, som ikke ser ud til at gå væk med det samme. Hvordan skal de klare sig fremover og hvad kan vores CPH PIX byde ind med? Festival-darlingen fra dette...
+   </itunes:subtitle>
+   <itunes:summary>
+    Filmfestivaller har med corona og streamingtjenesternes fremdrift fået et par irriterende modspillere, som ikke ser ud til at gå væk med det samme. Hvordan skal de klare sig fremover og hvad kan vores CPH PIX byde ind med? Festival-darlingen fra dette års Cannes-festival ’Titane’ har premiere, og er der mere ved den end bare chokerende bilsex? Derudover kaster vi et blik på netop overståede festival Film Fest Gent og WSA. Og så vender vi den første danske HBO-serie nogensinde, ’Kamikaze’, hvor spørgsmålet er, om der er mere bag seriens billedskønne Instagram-look.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: AWE &amp; HBO Max
+   </itunes:summary>
+   <itunes:duration>
+    3198
+   </itunes:duration>
+   <itunes:keywords>
+    anmeldelse,anmeldelser,arcane,cannes,clausnygaardpetersen,cphpix,festival,film,hbo,hbomax,kamikaze,karolinebalstrøm,passing,rednotice,review,ryanrenolds,serie,serier,streaming,titane
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a6befb838b9a8fe4b4eadf5b8b1dffdd.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Marvels værste film til dato, repræsentation af døve og våbensikkerhed i actionfilm
+   </title>
+   <link>
+    https://www.spreaker.com/episode/marvels-vaerste-film-til-dato-repraesentation-af-dove-og-vabensikkerhed-i-actionfilm--47309590
+   </link>
+   <description>
+    MCU-filmen ’Eternals’ er her endelig – men har den været ventetiden værd? Med Angelina Jolie i spidsen og Oscarvinder Chloé Zhao som instruktør tegner alt til en triumf, men er filmen ugens bedste tilbud? Er det snarere coming-of-age komediedramaet ’CODA’ om pigen Ruby, der vokser op i en familie af døve og vil være sanger? Eller er det ’Copshop’, en actionthriller i hårdkogt 70’er ånd, som leder tankerne på spørgsmål om forsvarlig brug af våben ved filmsets i lyset af Alec Baldwin-tragedien?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Disney, Nordisk Film, Sf Studios
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47309590
+   </guid>
+   <pubDate>
+    Fri, 05 Nov 2021 22:00:18 +0000
+   </pubDate>
+   <enclosure length="51399410" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47309590/close_up_episode1.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    MCU-filmen ’Eternals’ er her endelig – men har den været ventetiden værd? Med Angelina Jolie i spidsen og Oscarvinder Chloé Zhao som instruktør tegner alt til en triumf, men er filmen ugens bedste tilbud? Er det snarere coming-of-age komediedramaet...
+   </itunes:subtitle>
+   <itunes:summary>
+    MCU-filmen ’Eternals’ er her endelig – men har den været ventetiden værd? Med Angelina Jolie i spidsen og Oscarvinder Chloé Zhao som instruktør tegner alt til en triumf, men er filmen ugens bedste tilbud? Er det snarere coming-of-age komediedramaet ’CODA’ om pigen Ruby, der vokser op i en familie af døve og vil være sanger? Eller er det ’Copshop’, en actionthriller i hårdkogt 70’er ånd, som leder tankerne på spørgsmål om forsvarlig brug af våben ved filmsets i lyset af Alec Baldwin-tragedien?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Klip: Disney, Nordisk Film, Sf Studios
+   </itunes:summary>
+   <itunes:duration>
+    3209
+   </itunes:duration>
+   <itunes:keywords>
+    alecbaldwin,anmeldelse,badtimesattheelroyale,bao,biograf,clausnygaardpetersen,close-up,coda,copshop,eternals,familienbelíer,film,iceage,karolinebalstrøm,movies,radioloud,serier,smokinaces,streaming,watchmen
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a6befb838b9a8fe4b4eadf5b8b1dffdd.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

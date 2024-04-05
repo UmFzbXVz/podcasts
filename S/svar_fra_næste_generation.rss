@@ -1,99 +1,389 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Svar fra næste generation</title>
-		<link>https://web.24syv.dk/channels/5004</link>
-		<description>I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/842/160416f636138eb68eca1868d149e107.jpg"/>
-		<item>
-			<title>#1 Spørgsmål fra museumsdirektøren</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44734751/sfng_time1_jane_sandberg.mp3</link>
-			<description>Gæst i første time af Svar fra næste generation er Jane Sandberg, der er museumsdirektør hos ENIGMA - Museum for Post, Tele og Kommunikation. I panelet sidder Levi Coermann Nygaard og Theodora Lyng Jensen, der begge går på Akademiet for samfundsengagerede unge. 
-Jane Sandberg spørger panelet om deres største bekymringer ved digitale kommunikationsformer og sociale medier, og om hvad der er det bedste ved dem. Jane Sandberg spørger også panelet ind til, hvem de gerne vil besøge et museum, der handler om kommunikation, sammen med. Og så er Jane Sandberg interesseret i at vide, hvad panelet gerne vil opleve på en udstilling om digitalt indfødte. 
- 
-I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt eller indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44734751/sfng_time1_jane_sandberg.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 09:10:21 +0000</pubDate>
-			<itunes:duration>00:54:37</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44734751/sfng_time1_jane_sandberg.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>#2 - Spørgsmål fra klimaforskeren</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44735513/sfng_time_2_theresa_scavenius.mp3</link>
-			<description>Gæst i anden time af Svar fra næste generation er Theresa Scavenius, der er klimapolitisk forsker ved Aalborg Universitet København. I panelet sidder Levi Coermann Nygaard og Theodora Lyng Jensen, der begge går på Akademiet for samfundsengagerede unge. Theresa Scavenius vil gerne vide, hvad panelet synes, den bedste måde er at bekæmpe klimaforandringerne på, og om de har opgivet politik. Theresa Scavenius vil også gerne vide, om panelet synes, at politikerne giver unge en fair chance for at leve det liv, de gerne vil leve, og hvordan Levi og Theodora ser sammenhængen mellem klimakrisen og samfundets andre kriser. Theresa Scavenius spørger også, om panelet ser sig selv som forbrugere eller som borgere i et demokrati.  
- 
-I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt eller indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44735513/sfng_time_2_theresa_scavenius.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 09:10:20 +0000</pubDate>
-			<itunes:duration>00:46:52</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44735513/sfng_time_2_theresa_scavenius.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>#3 Spørgsmål fra partilederen</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45008951/sfng_3_partilederen.mp3</link>
-			<description>I dette afsnit stiller Henrik Vindfeldt fra Veganerpartiet spørgsmål panelet, der består af Ilia Ørskov Zafirakos og Dicte Sarah Jensen.
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Svar fra næste generation
+  </title>
+  <link>
+   https://loud.land/podcast/svar-fra-naeste-generation
+  </link>
+  <description>
+   I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+  </description>
+  <atom:link href="https://www.spreaker.com/show/4913864/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Society &amp; Culture
+  </category>
+  <copyright>
+   Copyright LOUD
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/160416f636138eb68eca1868d149e107.jpg
+   </url>
+   <title>
+    Svar fra næste generation
+   </title>
+   <link>
+    https://loud.land/podcast/svar-fra-naeste-generation
+   </link>
+  </image>
+  <lastBuildDate>
+   Fri, 01 Dec 2023 22:23:21 +0000
+  </lastBuildDate>
+  <itunes:author>
+   LOUD
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    LOUD
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/160416f636138eb68eca1868d149e107.jpg"/>
+  <itunes:subtitle>
+   Svar fra næste generation
+  </itunes:subtitle>
+  <itunes:summary>
+   I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+  </itunes:summary>
+  <itunes:category text="Society &amp; Culture"/>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    #8 - Spørgsmål fra Bæredygtighedschefen
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/21juni02
+   </link>
+   <description>
+    I denne episode stiller bæredygtighedschef i DSB, Aske Wieth-Knudsen, spørgsmål til vores panel. Vi diskuterer, hvad der skal til for at flere vælger toget frem for bil eller fly. Vi taler også om bæredygtighed og affaldssortering – og hvordan unge kan nudges til at sortere mere. Panelet består af Sofus Johannes Otto og Nina Lykkeberg, der går på hhv. HTX og HHX.&lt;br /&gt;&lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45384773
+   </guid>
+   <pubDate>
+    Mon, 21 Jun 2021 12:59:52 +0000
+   </pubDate>
+   <enclosure length="45100032" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45384773/21juni02.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    I denne episode stiller bæredygtighedschef i DSB, Aske Wieth-Knudsen, spørgsmål til vores panel. Vi diskuterer, hvad der skal til for at flere vælger toget frem for bil eller fly. Vi taler også om bæredygtighed og affaldssortering – og hvordan unge...
+   </itunes:subtitle>
+   <itunes:summary>
+    I denne episode stiller bæredygtighedschef i DSB, Aske Wieth-Knudsen, spørgsmål til vores panel. Vi diskuterer, hvad der skal til for at flere vælger toget frem for bil eller fly. Vi taler også om bæredygtighed og affaldssortering – og hvordan unge kan nudges til at sortere mere. Panelet består af Sofus Johannes Otto og Nina Lykkeberg, der går på hhv. HTX og HHX.&lt;br /&gt;&lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </itunes:summary>
+   <itunes:duration>
+    2815
+   </itunes:duration>
+   <itunes:keywords>
+    ansvar,askewieth-knudsen,bæredygtighed,forbrug,klima,omstilling,radioloud,transport,ungdom,ungdomsbureauet
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/160416f636138eb68eca1868d149e107.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    #7 - Spørgsmål fra fagforeningsformanden
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/21juni01
+   </link>
+   <description>
+    Camilla Gregersen, formand for fagforeningen DM, stiller i denne episode spørgsmål til vores panel. Vi taler om uddannelsesvalg, forventningspres og hvilket arbejdsmarked unge kommer ud til. Vi vender i den sammenhæng hvilken rolle fagforeninger kan spille i den sammenhæng. Panelet består af Sofus Johannes Otto og Nina Lykkeberg.&lt;br /&gt;&lt;br /&gt; I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45384613
+   </guid>
+   <pubDate>
+    Mon, 21 Jun 2021 12:49:41 +0000
+   </pubDate>
+   <enclosure length="54206976" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45384613/21juni01.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Camilla Gregersen, formand for fagforeningen DM, stiller i denne episode spørgsmål til vores panel. Vi taler om uddannelsesvalg, forventningspres og hvilket arbejdsmarked unge kommer ud til. Vi vender i den sammenhæng hvilken rolle fagforeninger kan...
+   </itunes:subtitle>
+   <itunes:summary>
+    Camilla Gregersen, formand for fagforeningen DM, stiller i denne episode spørgsmål til vores panel. Vi taler om uddannelsesvalg, forventningspres og hvilket arbejdsmarked unge kommer ud til. Vi vender i den sammenhæng hvilken rolle fagforeninger kan spille i den sammenhæng. Panelet består af Sofus Johannes Otto og Nina Lykkeberg.&lt;br /&gt;&lt;br /&gt; I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </itunes:summary>
+   <itunes:duration>
+    3384
+   </itunes:duration>
+   <itunes:keywords>
+    arbejde,generationer,håb,job,loud,radio,uddannelse,ungdomsbureauet
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/160416f636138eb68eca1868d149e107.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    #6 - Spørgsmål fra folketingspolitikeren
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/sfng-uffe
+   </link>
+   <description>
+    I denne episode stiller medlem af Folketinget, Uffe Elbæk, spørgsmål til vores panel. Panelet består af Caroline Hyldebrandt-Larsen og Sara Julie Sørensen, der går på hhv. HTX og STX. Samtalen handler om håb, mandeoprør, systemtænkning og frihed. &lt;br /&gt;&lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45198682
+   </guid>
+   <pubDate>
+    Mon, 07 Jun 2021 12:52:04 +0000
+   </pubDate>
+   <enclosure length="45004032" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45198682/sfng_uffe.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    I denne episode stiller medlem af Folketinget, Uffe Elbæk, spørgsmål til vores panel. Panelet består af Caroline Hyldebrandt-Larsen og Sara Julie Sørensen, der går på hhv. HTX og STX. Samtalen handler om håb, mandeoprør, systemtænkning og frihed. 
 
-I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45008951/sfng_3_partilederen.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 09:10:20 +0000</pubDate>
-			<itunes:duration>00:53:51</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45008951/sfng_3_partilederen.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>#4 Spørgsmål fra kommunalvalgskandidaten</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45009097/sfng_4_kommunalvalgskandidaten.mp3</link>
-			<description>I dette afsnit stiller lærerstuderende og kommunalvalgskandidat, Rasmus Holme, spørgsmål til vores panel, der består af Ilia Ørskov Zafirakos og Dicte Sarah Jensen. 
+I...
+   </itunes:subtitle>
+   <itunes:summary>
+    I denne episode stiller medlem af Folketinget, Uffe Elbæk, spørgsmål til vores panel. Panelet består af Caroline Hyldebrandt-Larsen og Sara Julie Sørensen, der går på hhv. HTX og STX. Samtalen handler om håb, mandeoprør, systemtænkning og frihed. &lt;br /&gt;&lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </itunes:summary>
+   <itunes:duration>
+    2809
+   </itunes:duration>
+   <itunes:keywords>
+    generationer,håb,mandeoprør,radioloud,uffeelbæk,ungdomsbureauet
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/160416f636138eb68eca1868d149e107.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    #5 - Spørgsmål fra brobyggeren
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/sfng-oezlem
+   </link>
+   <description>
+    Özlem Cekic, stifter af og generalsekretær i Brobyggerne, stiller i denne episode spørgsmål til vores panel. Vi taler om frivillighed, ungdomsengagement og om hvordan skellet mellem generationer kan blive mindre. Panelet består af Caroline Hyldebrandt-Larsen og Sara Julie Sørensen, der går på hhv. HTX og STX.&lt;br /&gt;&lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45198595
+   </guid>
+   <pubDate>
+    Mon, 07 Jun 2021 12:39:36 +0000
+   </pubDate>
+   <enclosure length="54356736" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45198595/sfng_zlem.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Özlem Cekic, stifter af og generalsekretær i Brobyggerne, stiller i denne episode spørgsmål til vores panel. Vi taler om frivillighed, ungdomsengagement og om hvordan skellet mellem generationer kan blive mindre. Panelet består af Caroline...
+   </itunes:subtitle>
+   <itunes:summary>
+    Özlem Cekic, stifter af og generalsekretær i Brobyggerne, stiller i denne episode spørgsmål til vores panel. Vi taler om frivillighed, ungdomsengagement og om hvordan skellet mellem generationer kan blive mindre. Panelet består af Caroline Hyldebrandt-Larsen og Sara Julie Sørensen, der går på hhv. HTX og STX.&lt;br /&gt;&lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </itunes:summary>
+   <itunes:duration>
+    3394
+   </itunes:duration>
+   <itunes:keywords>
+    brobyggerne,dialog,frivilligtarbejde,generationer,organisationer
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/160416f636138eb68eca1868d149e107.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    #4 Spørgsmål fra kommunalvalgskandidaten
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/sfng-4-kommunalvalgskandidaten
+   </link>
+   <description>
+    I dette afsnit stiller lærerstuderende og kommunalvalgskandidat, Rasmus Holme, spørgsmål til vores panel, der består af Ilia Ørskov Zafirakos og Dicte Sarah Jensen. &lt;br /&gt;&lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45009097
+   </guid>
+   <pubDate>
+    Tue, 25 May 2021 15:04:02 +0000
+   </pubDate>
+   <enclosure length="51763968" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45009097/sfng_4_kommunalvalgskandidaten.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    I dette afsnit stiller lærerstuderende og kommunalvalgskandidat, Rasmus Holme, spørgsmål til vores panel, der består af Ilia Ørskov Zafirakos og Dicte Sarah Jensen. 
 
-I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45009097/sfng_4_kommunalvalgskandidaten.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 09:10:20 +0000</pubDate>
-			<itunes:duration>00:53:51</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45009097/sfng_4_kommunalvalgskandidaten.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>#5 - Spørgsmål fra brobyggeren</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45198595/sfng_zlem.mp3</link>
-			<description>Özlem Cekic, stifter af og generalsekretær i Brobyggerne, stiller i denne episode spørgsmål til vores panel. Vi taler om frivillighed, ungdomsengagement og om hvordan skellet mellem generationer kan blive mindre. Panelet består af Caroline Hyldebrandt-Larsen og Sara Julie Sørensen, der går på hhv. HTX og STX.
+I debatprogrammet Svar fra næste generation lader vi politikere, direktører,...
+   </itunes:subtitle>
+   <itunes:summary>
+    I dette afsnit stiller lærerstuderende og kommunalvalgskandidat, Rasmus Holme, spørgsmål til vores panel, der består af Ilia Ørskov Zafirakos og Dicte Sarah Jensen. &lt;br /&gt;&lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </itunes:summary>
+   <itunes:duration>
+    3232
+   </itunes:duration>
+   <itunes:keywords>
+    delærerstuderende,folkeskolelærer,generationer,læreruddannelsen,radioloud,skole,uddannelse,undervisning,ungdomsbureauet
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/160416f636138eb68eca1868d149e107.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    #3 Spørgsmål fra partilederen
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/sfng-3-partilederen
+   </link>
+   <description>
+    I dette afsnit stiller Henrik Vindfeldt fra Veganerpartiet spørgsmål panelet, der består af Ilia Ørskov Zafirakos og Dicte Sarah Jensen.&lt;br /&gt;&lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45008951
+   </guid>
+   <pubDate>
+    Mon, 24 May 2021 18:34:20 +0000
+   </pubDate>
+   <enclosure length="51763968" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45008951/sfng_3_partilederen.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    I dette afsnit stiller Henrik Vindfeldt fra Veganerpartiet spørgsmål panelet, der består af Ilia Ørskov Zafirakos og Dicte Sarah Jensen.
 
-I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45198595/sfng_zlem.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 09:10:20 +0000</pubDate>
-			<itunes:duration>00:56:33</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45198595/sfng_zlem.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>#6 - Spørgsmål fra folketingspolitikeren</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45198682/sfng_uffe.mp3</link>
-			<description>I denne episode stiller medlem af Folketinget, Uffe Elbæk, spørgsmål til vores panel. Panelet består af Caroline Hyldebrandt-Larsen og Sara Julie Sørensen, der går på hhv. HTX og STX. Samtalen handler om håb, mandeoprør, systemtænkning og frihed. 
-
-I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45198682/sfng_uffe.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 09:10:20 +0000</pubDate>
-			<itunes:duration>00:46:48</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45198682/sfng_uffe.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>#7 - Spørgsmål fra fagforeningsformanden</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45384613/21juni01.mp3</link>
-			<description>Camilla Gregersen, formand for fagforeningen DM, stiller i denne episode spørgsmål til vores panel. Vi taler om uddannelsesvalg, forventningspres og hvilket arbejdsmarked unge kommer ud til. Vi vender i den sammenhæng hvilken rolle fagforeninger kan spille i den sammenhæng. Panelet består af Sofus Johannes Otto og Nina Lykkeberg.
-
- I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45384613/21juni01.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 09:10:20 +0000</pubDate>
-			<itunes:duration>00:56:23</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45384613/21juni01.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>#8 - Spørgsmål fra Bæredygtighedschefen</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45384773/21juni02.mp3</link>
-			<description>I denne episode stiller bæredygtighedschef i DSB, Aske Wieth-Knudsen, spørgsmål til vores panel. Vi diskuterer, hvad der skal til for at flere vælger toget frem for bil eller fly. Vi taler også om bæredygtighed og affaldssortering – og hvordan unge kan nudges til at sortere mere. Panelet består af Sofus Johannes Otto og Nina Lykkeberg, der går på hhv. HTX og HHX.
-
-I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45384773/21juni02.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 09:10:20 +0000</pubDate>
-			<itunes:duration>00:46:54</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45384773/21juni02.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde...
+   </itunes:subtitle>
+   <itunes:summary>
+    I dette afsnit stiller Henrik Vindfeldt fra Veganerpartiet spørgsmål panelet, der består af Ilia Ørskov Zafirakos og Dicte Sarah Jensen.&lt;br /&gt;&lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt og indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </itunes:summary>
+   <itunes:duration>
+    3232
+   </itunes:duration>
+   <itunes:keywords>
+    generationer,partleder,samfundsaktører,ungdomsbureauet,veganerpartiet,veganisme
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/160416f636138eb68eca1868d149e107.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    #2 - Spørgsmål fra klimaforskeren
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/sfng-time-2-theresa-scavenius
+   </link>
+   <description>
+    Gæst i anden time af Svar fra næste generation er Theresa Scavenius, der er klimapolitisk forsker ved Aalborg Universitet København. I panelet sidder Levi Coermann Nygaard og Theodora Lyng Jensen, der begge går på Akademiet for samfundsengagerede unge. Theresa Scavenius vil gerne vide, hvad panelet synes, den bedste måde er at bekæmpe klimaforandringerne på, og om de har opgivet politik. Theresa Scavenius vil også gerne vide, om panelet synes, at politikerne giver unge en fair chance for at leve det liv, de gerne vil leve, og hvordan Levi og Theodora ser sammenhængen mellem klimakrisen og samfundets andre kriser. Theresa Scavenius spørger også, om panelet ser sig selv som forbrugere eller som borgere i et demokrati.  &lt;br /&gt; &lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt eller indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44735513
+   </guid>
+   <pubDate>
+    Mon, 10 May 2021 14:15:08 +0000
+   </pubDate>
+   <enclosure length="45067392" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44735513/sfng_time_2_theresa_scavenius.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Gæst i anden time af Svar fra næste generation er Theresa Scavenius, der er klimapolitisk forsker ved Aalborg Universitet København. I panelet sidder Levi Coermann Nygaard og Theodora Lyng Jensen, der begge går på Akademiet for samfundsengagerede...
+   </itunes:subtitle>
+   <itunes:summary>
+    Gæst i anden time af Svar fra næste generation er Theresa Scavenius, der er klimapolitisk forsker ved Aalborg Universitet København. I panelet sidder Levi Coermann Nygaard og Theodora Lyng Jensen, der begge går på Akademiet for samfundsengagerede unge. Theresa Scavenius vil gerne vide, hvad panelet synes, den bedste måde er at bekæmpe klimaforandringerne på, og om de har opgivet politik. Theresa Scavenius vil også gerne vide, om panelet synes, at politikerne giver unge en fair chance for at leve det liv, de gerne vil leve, og hvordan Levi og Theodora ser sammenhængen mellem klimakrisen og samfundets andre kriser. Theresa Scavenius spørger også, om panelet ser sig selv som forbrugere eller som borgere i et demokrati.  &lt;br /&gt; &lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt eller indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </itunes:summary>
+   <itunes:duration>
+    2813
+   </itunes:duration>
+   <itunes:keywords>
+    demokrati,generationer,klimaforandringer,klimakamp,klimapolitik,radioloud,theresascavenius,ungdomsbureauet
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/160416f636138eb68eca1868d149e107.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    #1 Spørgsmål fra museumsdirektøren
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/sfng-time1-jane-sandberg
+   </link>
+   <description>
+    Gæst i første time af Svar fra næste generation er Jane Sandberg, der er museumsdirektør hos ENIGMA - Museum for Post, Tele og Kommunikation. I panelet sidder Levi Coermann Nygaard og Theodora Lyng Jensen, der begge går på Akademiet for samfundsengagerede unge. &lt;br /&gt;Jane Sandberg spørger panelet om deres største bekymringer ved digitale kommunikationsformer og sociale medier, og om hvad der er det bedste ved dem. Jane Sandberg spørger også panelet ind til, hvem de gerne vil besøge et museum, der handler om kommunikation, sammen med. Og så er Jane Sandberg interesseret i at vide, hvad panelet gerne vil opleve på en udstilling om digitalt indfødte. &lt;br /&gt; &lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt eller indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44734751
+   </guid>
+   <pubDate>
+    Mon, 10 May 2021 14:03:59 +0000
+   </pubDate>
+   <enclosure length="52500480" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44734751/sfng_time1_jane_sandberg.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Gæst i første time af Svar fra næste generation er Jane Sandberg, der er museumsdirektør hos ENIGMA - Museum for Post, Tele og Kommunikation. I panelet sidder Levi Coermann Nygaard og Theodora Lyng Jensen, der begge går på Akademiet for...
+   </itunes:subtitle>
+   <itunes:summary>
+    Gæst i første time af Svar fra næste generation er Jane Sandberg, der er museumsdirektør hos ENIGMA - Museum for Post, Tele og Kommunikation. I panelet sidder Levi Coermann Nygaard og Theodora Lyng Jensen, der begge går på Akademiet for samfundsengagerede unge. &lt;br /&gt;Jane Sandberg spørger panelet om deres største bekymringer ved digitale kommunikationsformer og sociale medier, og om hvad der er det bedste ved dem. Jane Sandberg spørger også panelet ind til, hvem de gerne vil besøge et museum, der handler om kommunikation, sammen med. Og så er Jane Sandberg interesseret i at vide, hvad panelet gerne vil opleve på en udstilling om digitalt indfødte. &lt;br /&gt; &lt;br /&gt;I debatprogrammet Svar fra næste generation lader vi politikere, direktører, iværksættere og meningsdannere møde næste generation af samfundsaktører. Vi giver personer med magt eller indflydelse mulighed for at få viden om unge inden for deres felt og giver dem plads til at stille undrende og nysgerrige spørgsmål til programmets panel – et panel bestående af unge projektmagere, der laver alt fra podcasts, eventplatforme og kampagner.
+   </itunes:summary>
+   <itunes:duration>
+    3278
+   </itunes:duration>
+   <itunes:keywords>
+    digitalemedier,digitaltindfødte,fomo,generationer,janesandberg,kommunikation,kultur,museer,radioloud,ungdomsbureauet
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/160416f636138eb68eca1868d149e107.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

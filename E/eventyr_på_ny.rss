@@ -1,135 +1,442 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Eventyr på ny</title>
-		<link>https://web.24syv.dk/channels/4933</link>
-		<description>Ane Høgsberg og Lauge Hendriksen forsøger at finde ud af, hvad de kendte og elskede eventyr i virkeligheden handler om, når Danmarks bedste speaker, Gunvor Bjerre, læser dem højt. Måske er de eventyrlige eventyr ikke så eventyrlige endda</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/542/6f1e6775db159e0dc12981a0dec6cf67.jpg"/>
-		<item>
-			<title>Velkommen til - Eventyr på ny</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43305317/eventyr_p_ny_promo.mp3</link>
-			<description>Lytterne får eventyrene genopfrisket, når Danmarks bedste speaker, Gunvor Bjerre, læser dem højt. Derefter finder Ane Høgsberg og Lauge de hemmelige guldkorn, der ligger gemt i eventyrene, og folder dem ud, uanset hvor gode eller grusomme de er, så lytterne får helt nye perspektiver på historier, de ellers troede de kendte så godt. Var Askepot et eventyr om en prostitueret, og Snehvide i virkeligheden en historie om kannibalisme?</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43305317/eventyr_p_ny_promo.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:39:32 +0000</pubDate>
-			<itunes:duration>00:01:15</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43305317/eventyr_p_ny_promo.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>1. Klods-Hans</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43401002/klods_hans.mp3</link>
-			<description>I første episode analyserer Ane Høgsberg og Lauge Hendriksen H.C. Andersens Klods-Hans, når Gunvor Bjerre læser eventyret højt. Find bl.a. ud af hvad sociale medier og Klods-Hans har tilfælles. Produceret af Woody Entertianment for LOUD.
-
-Hør Gunvor Bjerre læse eventyret højt uden afbrydelser her: https://www.spreaker.com/show/eventyr</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43401002/klods_hans.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:39:32 +0000</pubDate>
-			<itunes:duration>00:34:21</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43401002/klods_hans.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>2. Hans og Grete</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43401943/hans_og_grethe_red.mp3</link>
-			<description>Gunvor Bjerre læser Hans og Grete højt, og både Ane Høgsberg og Lauge Hendriksen synes eventyret er overraskende barsk og ikke særligt eventyrligt. Hvem kan finde på at dræbe sine egne børn, og er den onde heks i virkeligheden så ond? 
-
-Hør Gunvor læse eventyret højt helt uspoleret: https://loud.land/podcast/eventyr/ 
-
-Produceret af Woody Entertianment for LOUD.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43401943/hans_og_grethe_red.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:39:32 +0000</pubDate>
-			<itunes:duration>00:32:37</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43401943/hans_og_grethe_red.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>3. Den lille Rødhætte</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43421208/den_lille_r_dh_tte.mp3</link>
-			<description>Hvor uskyldig er Den lille Rødhætte, og hvad betyder den røde hue egentlig? Lauge og Ane tager de freudianske analyse-briller på, når Gunvor læser eventyret højt. 
-
-Hør Gunvor læse eventyret højt helt uspoleret: https://loud.land/podcast/eventyr/ 
-
-Produceret af Woody Entertianment for LOUD.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43421208/den_lille_r_dh_tte.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:39:32 +0000</pubDate>
-			<itunes:duration>00:30:59</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43421208/den_lille_r_dh_tte.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>4. Fyrtøjet med Jakob Svendsen</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43524595/fyrt_jet_med_jakob_svendsen.mp3</link>
-			<description>Er H.C. Andersens klassiker i virkeligheden historien om en modbydelig soldat, der med brutal vold får magten over et kongedømme? Det mener episodens gæst, Jakob Svendsen, der selv havde en rystende oplevelse med Fyrtøjet, da hans søn læste det højt for ham.
-
-Jakobs analyse af Fyrtøjet: https://www.facebook.com/jakobsvendsendk/photos/a.10150101142227381/10158922247407381/ 
-
-Hør Gunvor læse eventyret højt helt uspoleret: https://loud.land/podcast/eventyr/ 
-
-Produceret af Woody Entertianment for LOUD.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43524595/fyrt_jet_med_jakob_svendsen.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:39:31 +0000</pubDate>
-			<itunes:duration>00:44:15</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43524595/fyrt_jet_med_jakob_svendsen.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>5. Den lille pige med svovlstikkerne</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43733983/den_lille_pige_med_svovlstikkerne.mp3</link>
-			<description>En guddommelig smuk og samtidig kold, realistisk og brutal historie om en lille fattig piges død. Men er Den lille pige med svovlstikkerne overhovedet et eventyr? Lyt med!
-
-Hør Gunvor Bjerre læse eventyret højt helt uspoleret: https://loud.land/podcast/eventyr/ 
-
-Produceret af Woody Entertianment for LOUD.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43733983/den_lille_pige_med_svovlstikkerne.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:39:31 +0000</pubDate>
-			<itunes:duration>00:26:03</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43733983/den_lille_pige_med_svovlstikkerne.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>6. Askepot med Natasha Brock og Mads Holm</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43841774/askepot_med_natasha_brock_og_mads_holm.mp3</link>
-			<description>Askepot er én af Grimms mest kendte eventyr, men er også blevet til en udødelig Disney-klassiker. Men hvor stor er forskellen egentlig på Grimms grusomme eventyr og Disneys rosenrøde version? 
-
-Vi har inviteret komikerne og Disney-entusiasterne Mads Holm og Natasha Brock fra Bibbidi Bobbidi Podcast til at hjælpe os med at finde ud af det.
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Eventyr på ny
+  </title>
+  <link>
+   https://loud.land/podcast/eventyr-på-ny
+  </link>
+  <description>
+   Ane Høgsberg og Lauge Hendriksen forsøger at finde ud af, hvad de kendte og elskede eventyr i virkeligheden handler om, når Danmarks bedste speaker, Gunvor Bjerre, læser dem højt. Måske er de eventyrlige eventyr ikke så eventyrlige endda
+  </description>
+  <atom:link href="https://www.spreaker.com/show/4775594/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Books
+  </category>
+  <copyright>
+   521943
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d1d3e7503ccd96917c3b656195592b33.jpg
+   </url>
+   <title>
+    Eventyr på ny
+   </title>
+   <link>
+    https://loud.land/podcast/eventyr-på-ny
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   LOUD
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    LOUD
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d1d3e7503ccd96917c3b656195592b33.jpg"/>
+  <itunes:subtitle>
+   Måske er de eventyrlige eventyr ikke så eventyrlige endda
+  </itunes:subtitle>
+  <itunes:summary>
+   Ane Høgsberg og Lauge Hendriksen forsøger at finde ud af, hvad de kendte og elskede eventyr i virkeligheden handler om, når Danmarks bedste speaker, Gunvor Bjerre, læser dem højt. Måske er de eventyrlige eventyr ikke så eventyrlige endda
+  </itunes:summary>
+  <itunes:category text="Arts">
+   <itunes:category text="Books"/>
+  </itunes:category>
+  <itunes:category text="History"/>
+  <itunes:category text="Kids &amp; Family"/>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    8. Snehvide
+   </title>
+   <link>
+    https://www.spreaker.com/episode/8-snehvide--44032340
+   </link>
+   <description>
+    Et eventyr vi alle kender, og så måske ikke alligevel. For hvem kan huske at Snehvides onde stedmor er kannibal?&lt;br /&gt;&lt;br /&gt;God fornøjelse&lt;br /&gt;Ane, Gunvor og Lauge&lt;br /&gt;&lt;br /&gt;Hør Gunvor Bjerre læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44032340
+   </guid>
+   <pubDate>
+    Fri, 26 Mar 2021 05:00:12 +0000
+   </pubDate>
+   <enclosure length="69847488" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44032340/snehvide.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Et eventyr vi alle kender, og så måske ikke alligevel. For hvem kan huske at Snehvides onde stedmor er kannibal?
 
 God fornøjelse
-Lauge, Ane og Gunvor
+Ane, Gunvor og Lauge
 
-Hør Gunvor læse eventyret højt helt uspoleret: https://loud.land/podcast/eventyr/ 
-
-Produceret af Woody Entertianment for LOUD.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43841774/askepot_med_natasha_brock_og_mads_holm.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:39:31 +0000</pubDate>
-			<itunes:duration>00:46:11</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43841774/askepot_med_natasha_brock_og_mads_holm.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>7. Det er ganske vist! med Frederik Rosgaard</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43946090/det_er_ganske_vist.mp3</link>
-			<description>At én lille fjer kan blive til fem høns, er H.C. Andersens ultimative sladrehistorie, der er mindst lige så aktuel i dag, som da den blev skrevet.
+Hør Gunvor Bjerre læse eventyret højt helt uspoleret: https://loud.land/podcast/eventyr/...
+   </itunes:subtitle>
+   <itunes:summary>
+    Et eventyr vi alle kender, og så måske ikke alligevel. For hvem kan huske at Snehvides onde stedmor er kannibal?&lt;br /&gt;&lt;br /&gt;God fornøjelse&lt;br /&gt;Ane, Gunvor og Lauge&lt;br /&gt;&lt;br /&gt;Hør Gunvor Bjerre læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </itunes:summary>
+   <itunes:duration>
+    2908
+   </itunes:duration>
+   <itunes:keywords>
+    ane,bjerre,bøger,comedy,eventyr,gunvor,hendriksen,høgsberg,kultur,lauge,litteratur,loud,sjov,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d1d3e7503ccd96917c3b656195592b33.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    7. Det er ganske vist! med Frederik Rosgaard
+   </title>
+   <link>
+    https://www.spreaker.com/episode/7-det-er-ganske-vist-med-frederik-rosgaard--43946090
+   </link>
+   <description>
+    At én lille fjer kan blive til fem høns, er H.C. Andersens ultimative sladrehistorie, der er mindst lige så aktuel i dag, som da den blev skrevet.&lt;br /&gt;&lt;br /&gt;God fornøjelse&lt;br /&gt;&lt;br /&gt;Ane, Gunvor og Lauge&lt;br /&gt;&lt;br /&gt;Hør Gunvor Bjerre læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43946090
+   </guid>
+   <pubDate>
+    Fri, 19 Mar 2021 05:00:10 +0000
+   </pubDate>
+   <enclosure length="48424320" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43946090/det_er_ganske_vist.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    At én lille fjer kan blive til fem høns, er H.C. Andersens ultimative sladrehistorie, der er mindst lige så aktuel i dag, som da den blev skrevet.
 
 God fornøjelse
 
 Ane, Gunvor og Lauge
 
-Hør Gunvor Bjerre læse eventyret højt helt uspoleret: https://loud.land/podcast/eventyr/ 
+Hør Gunvor Bjerre læse eventyret højt helt uspoleret:...
+   </itunes:subtitle>
+   <itunes:summary>
+    At én lille fjer kan blive til fem høns, er H.C. Andersens ultimative sladrehistorie, der er mindst lige så aktuel i dag, som da den blev skrevet.&lt;br /&gt;&lt;br /&gt;God fornøjelse&lt;br /&gt;&lt;br /&gt;Ane, Gunvor og Lauge&lt;br /&gt;&lt;br /&gt;Hør Gunvor Bjerre læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </itunes:summary>
+   <itunes:duration>
+    2015
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d1d3e7503ccd96917c3b656195592b33.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    6. Askepot med Natasha Brock og Mads Holm
+   </title>
+   <link>
+    https://www.spreaker.com/episode/6-askepot-med-natasha-brock-og-mads-holm--43841774
+   </link>
+   <description>
+    Askepot er én af Grimms mest kendte eventyr, men er også blevet til en udødelig Disney-klassiker. Men hvor stor er forskellen egentlig på Grimms grusomme eventyr og Disneys rosenrøde version? &lt;br /&gt;&lt;br /&gt;Vi har inviteret komikerne og Disney-entusiasterne Mads Holm og Natasha Brock fra Bibbidi Bobbidi Podcast til at hjælpe os med at finde ud af det.&lt;br /&gt;&lt;br /&gt;God fornøjelse&lt;br /&gt;Lauge, Ane og Gunvor&lt;br /&gt;&lt;br /&gt;Hør Gunvor læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43841774
+   </guid>
+   <pubDate>
+    Fri, 12 Mar 2021 05:00:12 +0000
+   </pubDate>
+   <enclosure length="66570624" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43841774/askepot_med_natasha_brock_og_mads_holm.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Askepot er én af Grimms mest kendte eventyr, men er også blevet til en udødelig Disney-klassiker. Men hvor stor er forskellen egentlig på Grimms grusomme eventyr og Disneys rosenrøde version? 
 
-Produceret af Woody Entertianment for LOUD.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43946090/det_er_ganske_vist.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:39:31 +0000</pubDate>
-			<itunes:duration>00:33:34</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43946090/det_er_ganske_vist.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>8. Snehvide</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44032340/snehvide.mp3</link>
-			<description>Et eventyr vi alle kender, og så måske ikke alligevel. For hvem kan huske at Snehvides onde stedmor er kannibal?
+Vi har inviteret komikerne og Disney-entusiasterne Mads...
+   </itunes:subtitle>
+   <itunes:summary>
+    Askepot er én af Grimms mest kendte eventyr, men er også blevet til en udødelig Disney-klassiker. Men hvor stor er forskellen egentlig på Grimms grusomme eventyr og Disneys rosenrøde version? &lt;br /&gt;&lt;br /&gt;Vi har inviteret komikerne og Disney-entusiasterne Mads Holm og Natasha Brock fra Bibbidi Bobbidi Podcast til at hjælpe os med at finde ud af det.&lt;br /&gt;&lt;br /&gt;God fornøjelse&lt;br /&gt;Lauge, Ane og Gunvor&lt;br /&gt;&lt;br /&gt;Hør Gunvor læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </itunes:summary>
+   <itunes:duration>
+    2772
+   </itunes:duration>
+   <itunes:keywords>
+    ane.høgsberg,askepot,bøger,books,eventyr,gunvor.bjerre,lauge.hendriksen,litteratur,mads.holm,natasha.brock
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d1d3e7503ccd96917c3b656195592b33.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    5. Den lille pige med svovlstikkerne
+   </title>
+   <link>
+    https://www.spreaker.com/episode/5-den-lille-pige-med-svovlstikkerne--43733983
+   </link>
+   <description>
+    En guddommelig smuk og samtidig kold, realistisk og brutal historie om en lille fattig piges død. Men er Den lille pige med svovlstikkerne overhovedet et eventyr? Lyt med!&lt;br /&gt;&lt;br /&gt;Hør Gunvor Bjerre læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43733983
+   </guid>
+   <pubDate>
+    Fri, 05 Mar 2021 19:34:34 +0000
+   </pubDate>
+   <enclosure length="37579392" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43733983/den_lille_pige_med_svovlstikkerne.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    En guddommelig smuk og samtidig kold, realistisk og brutal historie om en lille fattig piges død. Men er Den lille pige med svovlstikkerne overhovedet et eventyr? Lyt med!
 
-God fornøjelse
-Ane, Gunvor og Lauge
+Hør Gunvor Bjerre læse eventyret højt helt uspoleret:...
+   </itunes:subtitle>
+   <itunes:summary>
+    En guddommelig smuk og samtidig kold, realistisk og brutal historie om en lille fattig piges død. Men er Den lille pige med svovlstikkerne overhovedet et eventyr? Lyt med!&lt;br /&gt;&lt;br /&gt;Hør Gunvor Bjerre læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </itunes:summary>
+   <itunes:duration>
+    1564
+   </itunes:duration>
+   <itunes:keywords>
+    analyse,ane,bjerre,bøger,eventyr,gunvor,hendriksen,høgsberg,lauge,litteratur,lydbog,sjov,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d1d3e7503ccd96917c3b656195592b33.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    4. Fyrtøjet med Jakob Svendsen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/4-fyrtojet-med-jakob-svendsen--43524595
+   </link>
+   <description>
+    Er H.C. Andersens klassiker i virkeligheden historien om en modbydelig soldat, der med brutal vold får magten over et kongedømme? Det mener episodens gæst, Jakob Svendsen, der selv havde en rystende oplevelse med Fyrtøjet, da hans søn læste det højt for ham.&lt;br /&gt;&lt;br /&gt;Jakobs analyse af Fyrtøjet: &lt;a href="https://www.facebook.com/jakobsvendsendk/photos/a.10150101142227381/10158922247407381/" rel="noopener"&gt;https://www.facebook.com/jakobsvendsendk/photos/a.10150101142227381/10158922247407381/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Hør Gunvor læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43524595
+   </guid>
+   <pubDate>
+    Fri, 26 Feb 2021 13:00:20 +0000
+   </pubDate>
+   <enclosure length="63806976" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43524595/fyrt_jet_med_jakob_svendsen.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Er H.C. Andersens klassiker i virkeligheden historien om en modbydelig soldat, der med brutal vold får magten over et kongedømme? Det mener episodens gæst, Jakob Svendsen, der selv havde en rystende oplevelse med Fyrtøjet, da hans søn læste det højt...
+   </itunes:subtitle>
+   <itunes:summary>
+    Er H.C. Andersens klassiker i virkeligheden historien om en modbydelig soldat, der med brutal vold får magten over et kongedømme? Det mener episodens gæst, Jakob Svendsen, der selv havde en rystende oplevelse med Fyrtøjet, da hans søn læste det højt for ham.&lt;br /&gt;&lt;br /&gt;Jakobs analyse af Fyrtøjet: &lt;a href="https://www.facebook.com/jakobsvendsendk/photos/a.10150101142227381/10158922247407381/" rel="noopener"&gt;https://www.facebook.com/jakobsvendsendk/photos/a.10150101142227381/10158922247407381/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Hør Gunvor læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </itunes:summary>
+   <itunes:duration>
+    2656
+   </itunes:duration>
+   <itunes:keywords>
+    analyse,bjerre,bøger,eventyr,fyrtøjet,gunvor,h.c.andersen,hendriksen,høgsberg,komik,lauge,litteratur,svendsen,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d1d3e7503ccd96917c3b656195592b33.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    3. Den lille Rødhætte
+   </title>
+   <link>
+    https://www.spreaker.com/episode/3-den-lille-rodhaette--43421208
+   </link>
+   <description>
+    Hvor uskyldig er Den lille Rødhætte, og hvad betyder den røde hue egentlig? Lauge og Ane tager de freudianske analyse-briller på, når Gunvor læser eventyret højt. &lt;br /&gt;&lt;br /&gt;Hør Gunvor læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43421208
+   </guid>
+   <pubDate>
+    Fri, 19 Feb 2021 13:00:03 +0000
+   </pubDate>
+   <enclosure length="44699904" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43421208/den_lille_r_dh_tte.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvor uskyldig er Den lille Rødhætte, og hvad betyder den røde hue egentlig? Lauge og Ane tager de freudianske analyse-briller på, når Gunvor læser eventyret højt. 
 
-Hør Gunvor Bjerre læse eventyret højt helt uspoleret: https://loud.land/podcast/eventyr/ 
+Hør Gunvor læse eventyret højt helt uspoleret: https://loud.land/podcast/eventyr/...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvor uskyldig er Den lille Rødhætte, og hvad betyder den røde hue egentlig? Lauge og Ane tager de freudianske analyse-briller på, når Gunvor læser eventyret højt. &lt;br /&gt;&lt;br /&gt;Hør Gunvor læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </itunes:summary>
+   <itunes:duration>
+    1860
+   </itunes:duration>
+   <itunes:keywords>
+    analyse,ane.høgsberg,bøger,eventyr,gunvor.bjerre,højtlæsning,lauge.hendriksen,litteratur,lydbog,sjov,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d1d3e7503ccd96917c3b656195592b33.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    2. Hans og Grete
+   </title>
+   <link>
+    https://www.spreaker.com/episode/2-hans-og-grete--43401943
+   </link>
+   <description>
+    Gunvor Bjerre læser Hans og Grete højt, og både Ane Høgsberg og Lauge Hendriksen synes eventyret er overraskende barsk og ikke særligt eventyrligt. Hvem kan finde på at dræbe sine egne børn, og er den onde heks i virkeligheden så ond? &lt;br /&gt;&lt;br /&gt;Hør Gunvor læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43401943
+   </guid>
+   <pubDate>
+    Fri, 12 Feb 2021 05:00:09 +0000
+   </pubDate>
+   <enclosure length="47044224" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43401943/hans_og_grethe_red.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Gunvor Bjerre læser Hans og Grete højt, og både Ane Høgsberg og Lauge Hendriksen synes eventyret er overraskende barsk og ikke særligt eventyrligt. Hvem kan finde på at dræbe sine egne børn, og er den onde heks i virkeligheden så ond? 
 
-Produceret af Woody Entertianment for LOUD.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44032340/snehvide.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:39:31 +0000</pubDate>
-			<itunes:duration>00:48:27</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44032340/snehvide.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+Hør Gunvor...
+   </itunes:subtitle>
+   <itunes:summary>
+    Gunvor Bjerre læser Hans og Grete højt, og både Ane Høgsberg og Lauge Hendriksen synes eventyret er overraskende barsk og ikke særligt eventyrligt. Hvem kan finde på at dræbe sine egne børn, og er den onde heks i virkeligheden så ond? &lt;br /&gt;&lt;br /&gt;Hør Gunvor læse eventyret højt helt uspoleret: &lt;a href="https://loud.land/podcast/eventyr/" rel="noopener"&gt;https://loud.land/podcast/eventyr/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;Produceret af Woody Entertianment for LOUD.
+   </itunes:summary>
+   <itunes:duration>
+    1958
+   </itunes:duration>
+   <itunes:keywords>
+    ane,bjerre,bøger,eventyr,gunvor,hendriksen,høgsberg,lauge,litteratur,lydbøger
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d1d3e7503ccd96917c3b656195592b33.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    1. Klods-Hans
+   </title>
+   <link>
+    https://www.spreaker.com/episode/1-klods-hans--43401002
+   </link>
+   <description>
+    I første episode analyserer Ane Høgsberg og Lauge Hendriksen H.C. Andersens Klods-Hans, når Gunvor Bjerre læser eventyret højt. Find bl.a. ud af hvad sociale medier og Klods-Hans har tilfælles. Produceret af Woody Entertianment for LOUD.&lt;br /&gt;&lt;br /&gt;Hør Gunvor Bjerre læse eventyret højt uden afbrydelser her: &lt;a href="https://www.spreaker.com/show/eventyr" rel="noopener"&gt;https://www.spreaker.com/show/eventyr&lt;/a&gt;
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43401002
+   </guid>
+   <pubDate>
+    Fri, 12 Feb 2021 05:00:09 +0000
+   </pubDate>
+   <enclosure length="33055600" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43401002/klods_hans.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    I første episode analyserer Ane Høgsberg og Lauge Hendriksen H.C. Andersens Klods-Hans, når Gunvor Bjerre læser eventyret højt. Find bl.a. ud af hvad sociale medier og Klods-Hans har tilfælles. Produceret af Woody Entertianment for LOUD.
+
+Hør Gunvor...
+   </itunes:subtitle>
+   <itunes:summary>
+    I første episode analyserer Ane Høgsberg og Lauge Hendriksen H.C. Andersens Klods-Hans, når Gunvor Bjerre læser eventyret højt. Find bl.a. ud af hvad sociale medier og Klods-Hans har tilfælles. Produceret af Woody Entertianment for LOUD.&lt;br /&gt;&lt;br /&gt;Hør Gunvor Bjerre læse eventyret højt uden afbrydelser her: &lt;a href="https://www.spreaker.com/show/eventyr" rel="noopener"&gt;https://www.spreaker.com/show/eventyr&lt;/a&gt;
+   </itunes:summary>
+   <itunes:duration>
+    2062
+   </itunes:duration>
+   <itunes:keywords>
+    ane,bjerre,bøger,eventyr,gunvor,h.c.andersen,hendriksen,høgsberg,lauge,litteratur
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d1d3e7503ccd96917c3b656195592b33.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Velkommen til - Eventyr på ny
+   </title>
+   <link>
+    https://www.spreaker.com/episode/velkommen-til-eventyr-pa-ny--43305317
+   </link>
+   <description>
+    Lytterne får eventyrene genopfrisket, når Danmarks bedste speaker, Gunvor Bjerre, læser dem højt. Derefter finder Ane Høgsberg og Lauge de hemmelige guldkorn, der ligger gemt i eventyrene, og folder dem ud, uanset hvor gode eller grusomme de er, så lytterne får helt nye perspektiver på historier, de ellers troede de kendte så godt. Var Askepot et eventyr om en prostitueret, og Snehvide i virkeligheden en historie om kannibalisme?
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43305317
+   </guid>
+   <pubDate>
+    Mon, 08 Feb 2021 10:17:20 +0000
+   </pubDate>
+   <enclosure length="1201213" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43305317/eventyr_p_ny_promo.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Lytterne får eventyrene genopfrisket, når Danmarks bedste speaker, Gunvor Bjerre, læser dem højt. Derefter finder Ane Høgsberg og Lauge de hemmelige guldkorn, der ligger gemt i eventyrene, og folder dem ud, uanset hvor gode eller grusomme de er, så...
+   </itunes:subtitle>
+   <itunes:summary>
+    Lytterne får eventyrene genopfrisket, når Danmarks bedste speaker, Gunvor Bjerre, læser dem højt. Derefter finder Ane Høgsberg og Lauge de hemmelige guldkorn, der ligger gemt i eventyrene, og folder dem ud, uanset hvor gode eller grusomme de er, så lytterne får helt nye perspektiver på historier, de ellers troede de kendte så godt. Var Askepot et eventyr om en prostitueret, og Snehvide i virkeligheden en historie om kannibalisme?
+   </itunes:summary>
+   <itunes:duration>
+    76
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d1d3e7503ccd96917c3b656195592b33.jpg"/>
+   <itunes:episodeType>
+    trailer
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

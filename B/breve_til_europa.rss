@@ -1,154 +1,818 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Breve til Europa</title>
-		<link>https://web.24syv.dk/channels/4912</link>
-		<description>Niels og Filip skal (forhåbentlig) på roadtrip rundt i Europa til sommer. Op til deres tur inviterer de herboende udlændinge fra de lande, de skal besøge på turen, i studiet til en snak om hjemlandets kultur, traditioner og det afsavn, de føler.  Til sidst i hvert program skriver gæsterne et brev til en ven eller slægtning i hjemlandet, som Niels og Filip pakker ned i deres rejsekuffert og fragter fra Danmark til sin retmæssige ejermand et sted i Europa.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/750/0875b0a49adb66365f8dc0aff8902299.jpg"/>
-		<item>
-			<title>Epilogen - del 2</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46237651/mp3_finale.mp3</link>
-			<description>Denne afsluttende episode af Breve til Europa er en hyldest til bilen og bilferien. Filip og Niels kommer med do's and don't's til den førstegangsroadtrippende, og så giver de hver deres bud på en drømmedestination til fremtidens biltur!</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46237651/mp3_finale.mp3</guid>
-			<pubDate>Mon, 30 Aug 2021 10:22:35 +0000</pubDate>
-			<itunes:duration>00:27:00</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46237651/mp3_finale.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Epilogen – del 1</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46141570/mp3_slut.mp3</link>
-			<description>Den store europatur fik en brat og uventet afslutning. Derfor sender Niels og Filip igen hjemme fra København. De gennemgår nogle af turens højdepunkter, spiller de største bil-bangers og reflekterer over roadtrips generelt; for måske er selve rejsen (spoiler alert!) lige så vigtig som destinationen!</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46141570/mp3_slut.mp3</guid>
-			<pubDate>Mon, 23 Aug 2021 07:07:11 +0000</pubDate>
-			<itunes:duration>00:26:59</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46141570/mp3_slut.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>På farten – Hvordan ser Zagreb egentlig ud?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46071887/kroatien_mp3.mp3</link>
-			<description>Mange tusinde kilometer er kørt og roadtrippen lakker efterhånden mod enden. Men inden København igen er i forruden stopper bilen i Split, Zagreb og Maslenica – tre skønne kroatiske byer. I Zagreb er Filip og Niels ude på en mission for at finde Ivanas moster Anas lejlighed, som viser sig at være godt skjult mellem de store blokke.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46071887/kroatien_mp3.mp3</guid>
-			<pubDate>Mon, 16 Aug 2021 06:10:02 +0000</pubDate>
-			<itunes:duration>00:27:02</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46071887/kroatien_mp3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>På farten – Et stop i den toscanske ødemark</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45981132/mp3_italien.mp3</link>
-			<description>Efter stop i både Venedig, Bologna og Firenze har roadtripholdet brug for et afslappende get-away og hvor bedre end romantiske Toscana? På trods af timers bjergkørsel væk fra storbyen ender de alligevel med danske naboer, som de falder i snak med.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45981132/mp3_italien.mp3</guid>
-			<pubDate>Mon, 09 Aug 2021 06:16:42 +0000</pubDate>
-			<itunes:duration>00:25:02</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45981132/mp3_italien.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>På farten – Et brev til Vanessa i Wagrain</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45892651/111_mp3_strig.mp3</link>
-			<description>Humøret er højt i bilen, mens Niels, Filip, Frederik og Jonatan rammer de østrigske alper. De ankommer til naturskønne Wagrain, hvor Vanessa skal modtage et brev fra Linda.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45892651/111_mp3_strig.mp3</guid>
-			<pubDate>Mon, 02 Aug 2021 06:03:17 +0000</pubDate>
-			<itunes:duration>00:25:00</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45892651/111_mp3_strig.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>På farten - Brev til Hildegart i Rotenburg</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45801276/mp3_rotenburg.mp3</link>
-			<description>Så er vi på vej! I denne første episode fra Filips og Niels' Europatur har de sat det kørende podcaststudie op og sætter kursen mod Tyskland, nærmere bestemt den lille by Rotenburg Wümme, hvor de skal aflevere Lauras brev til hendes bedstemor Hildegart.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45801276/mp3_rotenburg.mp3</guid>
-			<pubDate>Mon, 26 Jul 2021 06:09:32 +0000</pubDate>
-			<itunes:duration>00:25:01</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45801276/mp3_rotenburg.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kære Tyskland – Hvad lytter ungdommen til? Del 2</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44677815/tyskland_pt2.mp3</link>
-			<description>Samtalen med Laura fortsætter. Hun har skrevet et brev til sin farmor, der handler om, det savn hun føler til hende og om, hvor meget hun glæder sig til at se hende igen. Hun har også endnu et musiknummer med, der minder hende om dengang, hun var ung i en lille by og stod på tærsklen til voksenlivet.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44677815/tyskland_pt2.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 08:42:25 +0000</pubDate>
-			<itunes:duration>00:24:59</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44677815/tyskland_pt2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kære Italien – Se Novara og dø? Del 1</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44946582/mp3_italien_pt1.mp3</link>
-			<description>Den står på aperitivo, rødvin på torvet og solbeskinnet 80’er-stemning i studiet, når Filip og Niels drømmer sig væk til den italienske by Novara sammen med deres gæst Cecilia. Hun er født og opvokset i byen, men bor nu i Danmark for at læse sin kandidatuddannelse på musikkonservatoriet. Snakken går på lokalkulturen, værternes fordomme om Italien og Cecilia anbefaler nogle naturskønne oplevelser, der er værd at rejse efter i hendes Norditalienske region.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44946582/mp3_italien_pt1.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 08:42:25 +0000</pubDate>
-			<itunes:duration>00:25:00</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44946582/mp3_italien_pt1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kære Italien – Hvordan dufter mormors køkken? Del 2</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44946585/mp3_italien_pt2.mp3</link>
-			<description>Cecilia har skrevet et brev til sin mormor; en rigtig italiensk nonna, der har haft en stor betydning i hendes opvækst. Hun forklarer Niels og Filip om brevet og de stærke italienske familiebånd og om, hvordan man godt kan være stolt af sin nationalitet, men samtidig også se nogle ulemper ved ens hjemland.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44946585/mp3_italien_pt2.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 08:42:25 +0000</pubDate>
-			<itunes:duration>00:25:00</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44946585/mp3_italien_pt2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Italien og Kroatien special</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45165289/mp3_spec_ep.mp3</link>
-			<description>I denne lille afstikker snakker Filip og Niels om de to lande, de glæder sig mest til at besøge på deres roadtrip til sommer. Henholdsvis Italien og Kroatien. De drømmer sig væk til azurblåt hav, historiske bygninger og filmfestivaler, og så har de fundet et par svedige sommernumre frem fra de to lande.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45165289/mp3_spec_ep.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 08:42:25 +0000</pubDate>
-			<itunes:duration>00:26:59</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45165289/mp3_spec_ep.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kære Østrig – Hvor stammer wienerschnitzelen mon fra? Del 1</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45233458/mp3_strig_pt1.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45233458/mp3_strig_pt1.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 08:42:25 +0000</pubDate>
-			<itunes:duration>00:25:00</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45233458/mp3_strig_pt1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kære Østrig – Kan vi forstå din tyske dialekt? Del 2</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45233554/mp3_strig_pt2.mp3</link>
-			<description>Der er simpelthen så smukt i Østrig. I hvert fald hvis man skal tro Linda, der igen er med i studiet og tager Filip og Niels med til en verden af idylliske bjergsøer, snefyldte bjergtinder og øltelte propfyldte med fællessyngende lokale. Linda fortæller også om brevet til Vanessa, og der bliver quizzet i østrigske berømtheder.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45233554/mp3_strig_pt2.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 08:42:25 +0000</pubDate>
-			<itunes:duration>00:25:00</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45233554/mp3_strig_pt2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kære Kroatien – Vi glæder os til havluft og åbne arme. Del 1</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45412785/mp3_kroatien_pt1.mp3</link>
-			<description>Et lille land med meget at byde på. Filip og Niels forbereder sig på turen til Kroatien med musik, minder og drømme om strandture og kolde øl i solen. Ivana, der er dansker, men har Kroatiske rødder er med i studiet og læser sit brev op, der er adresseret til sin mors kusine, der bor midt i moderne Zagreb.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45412785/mp3_kroatien_pt1.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 08:42:25 +0000</pubDate>
-			<itunes:duration>00:24:59</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45412785/mp3_kroatien_pt1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kære Kroatien – En dyster fortid, en lysere nutid. Del 2</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45412796/mp3_kroatien_pt2.mp3</link>
-			<description>Ivana er fortsat med i studiet. Hun fortæller om indholdet af brevet, og om glade barndomsminder, men også om den mørke historie, der endnu ikke er en hel fjern fortid i landet, der var en del af det tidligere Jugoslavien. Stemning letter dog, da Ivana spiller kroatisk festmusik og Niels quizzer hende og Filip i kroatiske opfindelser og opdagelser.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45412796/mp3_kroatien_pt2.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 08:42:24 +0000</pubDate>
-			<itunes:duration>00:25:00</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45412796/mp3_kroatien_pt2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kære tur – Hvem skal med i bilen? Del 1</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45627048/mp3_pt1.mp3</link>
-			<description>Motoren er nærmest allerede varm, og Niels og Filip er mindre end to uger fra deres roadtrip rundt i Europa. Hjemme i deres lejlighed har de samboerne Jonatan og Frederik med på mikrofonerne, der også skal med i bilen. Sammen snakker de om forventninger til turen, spiller den musik, som de glæder sig mest til at høre undervejs og  genbesøger de fem breve, som skal afleveres rundt om i Europa.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45627048/mp3_pt1.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 08:42:24 +0000</pubDate>
-			<itunes:duration>00:24:59</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45627048/mp3_pt1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kære tur – Kufferten pakket og afsted!</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45627050/mp3_pt2.mp3</link>
-			<description>Forventningsglæden til den store Europatur er fortsat stor i hjemmestudiet, hvor Niels og Filip er flankeret af deres to roomies og rejsemakkere Frederik og Jonatan. Der bliver quizzet, hørt laber musik og guidet til de vigtigste genstande i roadtripkufferten. Næste gang, du lytter med, er Breve til Europa på farten!</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45627050/mp3_pt2.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 08:42:24 +0000</pubDate>
-			<itunes:duration>00:24:59</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45627050/mp3_pt2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Breve til Europa
+  </title>
+  <link>
+   https://loud.land/podcast/breve-til-europa
+  </link>
+  <description>
+   Niels og Filip skal (forhåbentlig) på roadtrip rundt i Europa til sommer. Op til deres tur inviterer de herboende udlændinge fra de lande, de skal besøge på turen, i studiet til en snak om hjemlandets kultur, traditioner og det afsavn, de føler.  Til sidst i hvert program skriver gæsterne et brev til en ven eller slægtning i hjemlandet, som Niels og Filip pakker ned i deres rejsekuffert og fragter fra Danmark til sin retmæssige ejermand et sted i Europa.
+  </description>
+  <atom:link href="https://www.spreaker.com/show/4880795/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Society &amp; Culture
+  </category>
+  <copyright>
+   Copyright LOUD
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg
+   </url>
+   <title>
+    Breve til Europa
+   </title>
+   <link>
+    https://loud.land/podcast/breve-til-europa
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   LOUD
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    LOUD
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+  <itunes:subtitle>
+   Bilferie med breve i kufferten
+  </itunes:subtitle>
+  <itunes:summary>
+   Niels og Filip skal (forhåbentlig) på roadtrip rundt i Europa til sommer. Op til deres tur inviterer de herboende udlændinge fra de lande, de skal besøge på turen, i studiet til en snak om hjemlandets kultur, traditioner og det afsavn, de føler.  Til sidst i hvert program skriver gæsterne et brev til en ven eller slægtning i hjemlandet, som Niels og Filip pakker ned i deres rejsekuffert og fragter fra Danmark til sin retmæssige ejermand et sted i Europa.
+  </itunes:summary>
+  <itunes:category text="Society &amp; Culture"/>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    Epilogen - del 2
+   </title>
+   <link>
+    https://www.spreaker.com/episode/epilogen-del-2--46237651
+   </link>
+   <description>
+    Denne afsluttende episode af Breve til Europa er en hyldest til bilen og bilferien. Filip og Niels kommer med do's and don't's til den førstegangsroadtrippende, og så giver de hver deres bud på en drømmedestination til fremtidens biltur!
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46237651
+   </guid>
+   <pubDate>
+    Mon, 30 Aug 2021 10:15:07 +0000
+   </pubDate>
+   <enclosure length="38946526" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46237651/mp3_finale.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Denne afsluttende episode af Breve til Europa er en hyldest til bilen og bilferien. Filip og Niels kommer med do's and don't's til den førstegangsroadtrippende, og så giver de hver deres bud på en drømmedestination til fremtidens biltur!
+   </itunes:subtitle>
+   <itunes:summary>
+    Denne afsluttende episode af Breve til Europa er en hyldest til bilen og bilferien. Filip og Niels kommer med do's and don't's til den førstegangsroadtrippende, og så giver de hver deres bud på en drømmedestination til fremtidens biltur!
+   </itunes:summary>
+   <itunes:duration>
+    1621
+   </itunes:duration>
+   <itunes:keywords>
+    bil,kultur,musik,rejse
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Epilogen – del 1
+   </title>
+   <link>
+    https://www.spreaker.com/episode/epilogen-del-1--46141570
+   </link>
+   <description>
+    Den store europatur fik en brat og uventet afslutning. Derfor sender Niels og Filip igen hjemme fra København. De gennemgår nogle af turens højdepunkter, spiller de største bil-bangers og reflekterer over roadtrips generelt; for måske er selve rejsen (spoiler alert!) lige så vigtig som destinationen!
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46141570
+   </guid>
+   <pubDate>
+    Mon, 23 Aug 2021 06:55:02 +0000
+   </pubDate>
+   <enclosure length="38941510" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46141570/mp3_slut.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Den store europatur fik en brat og uventet afslutning. Derfor sender Niels og Filip igen hjemme fra København. De gennemgår nogle af turens højdepunkter, spiller de største bil-bangers og reflekterer over roadtrips generelt; for måske er selve rejsen...
+   </itunes:subtitle>
+   <itunes:summary>
+    Den store europatur fik en brat og uventet afslutning. Derfor sender Niels og Filip igen hjemme fra København. De gennemgår nogle af turens højdepunkter, spiller de største bil-bangers og reflekterer over roadtrips generelt; for måske er selve rejsen (spoiler alert!) lige så vigtig som destinationen!
+   </itunes:summary>
+   <itunes:duration>
+    1620
+   </itunes:duration>
+   <itunes:keywords>
+    bil,bilferie,breve,europa,italien,kroation,kultur,musik,rejse,roadtrip,sommer,sommerferie
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    På farten – Hvordan ser Zagreb egentlig ud?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/pa-farten-hvordan-ser-zagreb-egentlig-ud--46071887
+   </link>
+   <description>
+    Mange tusinde kilometer er kørt og roadtrippen lakker efterhånden mod enden. Men inden København igen er i forruden stopper bilen i Split, Zagreb og Maslenica – tre skønne kroatiske byer. I Zagreb er Filip og Niels ude på en mission for at finde Ivanas moster Anas lejlighed, som viser sig at være godt skjult mellem de store blokke.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46071887
+   </guid>
+   <pubDate>
+    Mon, 16 Aug 2021 06:00:15 +0000
+   </pubDate>
+   <enclosure length="26026362" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46071887/kroatien_mp3.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Mange tusinde kilometer er kørt og roadtrippen lakker efterhånden mod enden. Men inden København igen er i forruden stopper bilen i Split, Zagreb og Maslenica – tre skønne kroatiske byer. I Zagreb er Filip og Niels ude på en mission for at finde...
+   </itunes:subtitle>
+   <itunes:summary>
+    Mange tusinde kilometer er kørt og roadtrippen lakker efterhånden mod enden. Men inden København igen er i forruden stopper bilen i Split, Zagreb og Maslenica – tre skønne kroatiske byer. I Zagreb er Filip og Niels ude på en mission for at finde Ivanas moster Anas lejlighed, som viser sig at være godt skjult mellem de store blokke.
+   </itunes:summary>
+   <itunes:duration>
+    1623
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    På farten – Et stop i den toscanske ødemark
+   </title>
+   <link>
+    https://www.spreaker.com/episode/pa-farten-et-stop-i-den-toscanske-odemark--45981132
+   </link>
+   <description>
+    Efter stop i både Venedig, Bologna og Firenze har roadtripholdet brug for et afslappende get-away og hvor bedre end romantiske Toscana? På trods af timers bjergkørsel væk fra storbyen ender de alligevel med danske naboer, som de falder i snak med.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45981132
+   </guid>
+   <pubDate>
+    Mon, 09 Aug 2021 06:00:13 +0000
+   </pubDate>
+   <enclosure length="24102914" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45981132/mp3_italien.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Efter stop i både Venedig, Bologna og Firenze har roadtripholdet brug for et afslappende get-away og hvor bedre end romantiske Toscana? På trods af timers bjergkørsel væk fra storbyen ender de alligevel med danske naboer, som de falder i snak med.
+   </itunes:subtitle>
+   <itunes:summary>
+    Efter stop i både Venedig, Bologna og Firenze har roadtripholdet brug for et afslappende get-away og hvor bedre end romantiske Toscana? På trods af timers bjergkørsel væk fra storbyen ender de alligevel med danske naboer, som de falder i snak med.
+   </itunes:summary>
+   <itunes:duration>
+    1503
+   </itunes:duration>
+   <itunes:keywords>
+    bil,europa,fly,italien,kroatien,rejse,roadtrip,transport,ungdom
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    På farten – Et brev til Vanessa i Wagrain
+   </title>
+   <link>
+    https://www.spreaker.com/episode/pa-farten-et-brev-til-vanessa-i-wagrain--45892651
+   </link>
+   <description>
+    Humøret er højt i bilen, mens Niels, Filip, Frederik og Jonatan rammer de østrigske alper. De ankommer til naturskønne Wagrain, hvor Vanessa skal modtage et brev fra Linda.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45892651
+   </guid>
+   <pubDate>
+    Mon, 02 Aug 2021 06:00:05 +0000
+   </pubDate>
+   <enclosure length="36081415" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45892651/111_mp3_strig.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Humøret er højt i bilen, mens Niels, Filip, Frederik og Jonatan rammer de østrigske alper. De ankommer til naturskønne Wagrain, hvor Vanessa skal modtage et brev fra Linda.
+   </itunes:subtitle>
+   <itunes:summary>
+    Humøret er højt i bilen, mens Niels, Filip, Frederik og Jonatan rammer de østrigske alper. De ankommer til naturskønne Wagrain, hvor Vanessa skal modtage et brev fra Linda.
+   </itunes:summary>
+   <itunes:duration>
+    1501
+   </itunes:duration>
+   <itunes:keywords>
+    bil,europa,fly,italien,østrig,rejse,roadtrip,transport
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    På farten - Brev til Hildegart i Rotenburg
+   </title>
+   <link>
+    https://www.spreaker.com/episode/pa-farten-brev-til-hildegart-i-rotenburg--45801276
+   </link>
+   <description>
+    Så er vi på vej! I denne første episode fra Filips og Niels' Europatur har de sat det kørende podcaststudie op og sætter kursen mod Tyskland, nærmere bestemt den lille by Rotenburg Wümme, hvor de skal aflevere Lauras brev til hendes bedstemor Hildegart.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45801276
+   </guid>
+   <pubDate>
+    Mon, 26 Jul 2021 06:00:16 +0000
+   </pubDate>
+   <enclosure length="36103985" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45801276/mp3_rotenburg.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Så er vi på vej! I denne første episode fra Filips og Niels' Europatur har de sat det kørende podcaststudie op og sætter kursen mod Tyskland, nærmere bestemt den lille by Rotenburg Wümme, hvor de skal aflevere Lauras brev til hendes bedstemor Hildegart.
+   </itunes:subtitle>
+   <itunes:summary>
+    Så er vi på vej! I denne første episode fra Filips og Niels' Europatur har de sat det kørende podcaststudie op og sætter kursen mod Tyskland, nærmere bestemt den lille by Rotenburg Wümme, hvor de skal aflevere Lauras brev til hendes bedstemor Hildegart.
+   </itunes:summary>
+   <itunes:duration>
+    1502
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære tur – Kufferten pakket og afsted!
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-tur-kufferten-pakket-og-afsted--45627050
+   </link>
+   <description>
+    Forventningsglæden til den store Europatur er fortsat stor i hjemmestudiet, hvor Niels og Filip er flankeret af deres to roomies og rejsemakkere Frederik og Jonatan. Der bliver quizzet, hørt laber musik og guidet til de vigtigste genstande i roadtripkufferten. Næste gang, du lytter med, er Breve til Europa på farten!
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45627050
+   </guid>
+   <pubDate>
+    Mon, 19 Jul 2021 08:35:05 +0000
+   </pubDate>
+   <enclosure length="36061353" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45627050/mp3_pt2.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Forventningsglæden til den store Europatur er fortsat stor i hjemmestudiet, hvor Niels og Filip er flankeret af deres to roomies og rejsemakkere Frederik og Jonatan. Der bliver quizzet, hørt laber musik og guidet til de vigtigste genstande i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Forventningsglæden til den store Europatur er fortsat stor i hjemmestudiet, hvor Niels og Filip er flankeret af deres to roomies og rejsemakkere Frederik og Jonatan. Der bliver quizzet, hørt laber musik og guidet til de vigtigste genstande i roadtripkufferten. Næste gang, du lytter med, er Breve til Europa på farten!
+   </itunes:summary>
+   <itunes:duration>
+    1500
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære tur – Hvem skal med i bilen? Del 1
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-tur-hvem-skal-med-i-bilen-del-1--45627048
+   </link>
+   <description>
+    Motoren er nærmest allerede varm, og Niels og Filip er mindre end to uger fra deres roadtrip rundt i Europa. Hjemme i deres lejlighed har de samboerne Jonatan og Frederik med på mikrofonerne, der også skal med i bilen. Sammen snakker de om forventninger til turen, spiller den musik, som de glæder sig mest til at høre undervejs og  genbesøger de fem breve, som skal afleveres rundt om i Europa.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45627048
+   </guid>
+   <pubDate>
+    Mon, 12 Jul 2021 08:00:08 +0000
+   </pubDate>
+   <enclosure length="36060099" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45627048/mp3_pt1.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Motoren er nærmest allerede varm, og Niels og Filip er mindre end to uger fra deres roadtrip rundt i Europa. Hjemme i deres lejlighed har de samboerne Jonatan og Frederik med på mikrofonerne, der også skal med i bilen. Sammen snakker de om...
+   </itunes:subtitle>
+   <itunes:summary>
+    Motoren er nærmest allerede varm, og Niels og Filip er mindre end to uger fra deres roadtrip rundt i Europa. Hjemme i deres lejlighed har de samboerne Jonatan og Frederik med på mikrofonerne, der også skal med i bilen. Sammen snakker de om forventninger til turen, spiller den musik, som de glæder sig mest til at høre undervejs og  genbesøger de fem breve, som skal afleveres rundt om i Europa.
+   </itunes:summary>
+   <itunes:duration>
+    1500
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære Kroatien – En dyster fortid, en lysere nutid. Del 2
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-kroatien-en-dyster-fortid-en-lysere-nutid-del-2--45412796
+   </link>
+   <description>
+    Ivana er fortsat med i studiet. Hun fortæller om indholdet af brevet, og om glade barndomsminder, men også om den mørke historie, der endnu ikke er en hel fjern fortid i landet, der var en del af det tidligere Jugoslavien. Stemning letter dog, da Ivana spiller kroatisk festmusik og Niels quizzer hende og Filip i kroatiske opfindelser og opdagelser.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45412796
+   </guid>
+   <pubDate>
+    Mon, 05 Jul 2021 06:00:10 +0000
+   </pubDate>
+   <enclosure length="36066996" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45412796/mp3_kroatien_pt2.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Ivana er fortsat med i studiet. Hun fortæller om indholdet af brevet, og om glade barndomsminder, men også om den mørke historie, der endnu ikke er en hel fjern fortid i landet, der var en del af det tidligere Jugoslavien. Stemning letter dog, da...
+   </itunes:subtitle>
+   <itunes:summary>
+    Ivana er fortsat med i studiet. Hun fortæller om indholdet af brevet, og om glade barndomsminder, men også om den mørke historie, der endnu ikke er en hel fjern fortid i landet, der var en del af det tidligere Jugoslavien. Stemning letter dog, da Ivana spiller kroatisk festmusik og Niels quizzer hende og Filip i kroatiske opfindelser og opdagelser.
+   </itunes:summary>
+   <itunes:duration>
+    1501
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære Kroatien – Vi glæder os til havluft og åbne arme. Del 1
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-kroatien-vi-glaeder-os-til-havluft-og-abne-arme-del-1--45412785
+   </link>
+   <description>
+    Et lille land med meget at byde på. Filip og Niels forbereder sig på turen til Kroatien med musik, minder og drømme om strandture og kolde øl i solen. Ivana, der er dansker, men har Kroatiske rødder er med i studiet og læser sit brev op, der er adresseret til sin mors kusine, der bor midt i moderne Zagreb.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45412785
+   </guid>
+   <pubDate>
+    Mon, 28 Jun 2021 06:00:05 +0000
+   </pubDate>
+   <enclosure length="36056338" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45412785/mp3_kroatien_pt1.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Et lille land med meget at byde på. Filip og Niels forbereder sig på turen til Kroatien med musik, minder og drømme om strandture og kolde øl i solen. Ivana, der er dansker, men har Kroatiske rødder er med i studiet og læser sit brev op, der er...
+   </itunes:subtitle>
+   <itunes:summary>
+    Et lille land med meget at byde på. Filip og Niels forbereder sig på turen til Kroatien med musik, minder og drømme om strandture og kolde øl i solen. Ivana, der er dansker, men har Kroatiske rødder er med i studiet og læser sit brev op, der er adresseret til sin mors kusine, der bor midt i moderne Zagreb.
+   </itunes:summary>
+   <itunes:duration>
+    1500
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære Østrig – Kan vi forstå din tyske dialekt? Del 2
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-ostrig-kan-vi-forsta-din-tyske-dialekt-del-2--45233554
+   </link>
+   <description>
+    Der er simpelthen så smukt i Østrig. I hvert fald hvis man skal tro Linda, der igen er med i studiet og tager Filip og Niels med til en verden af idylliske bjergsøer, snefyldte bjergtinder og øltelte propfyldte med fællessyngende lokale. Linda fortæller også om brevet til Vanessa, og der bliver quizzet i østrigske berømtheder.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45233554
+   </guid>
+   <pubDate>
+    Mon, 21 Jun 2021 06:00:13 +0000
+   </pubDate>
+   <enclosure length="36069504" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45233554/mp3_strig_pt2.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Der er simpelthen så smukt i Østrig. I hvert fald hvis man skal tro Linda, der igen er med i studiet og tager Filip og Niels med til en verden af idylliske bjergsøer, snefyldte bjergtinder og øltelte propfyldte med fællessyngende lokale. Linda...
+   </itunes:subtitle>
+   <itunes:summary>
+    Der er simpelthen så smukt i Østrig. I hvert fald hvis man skal tro Linda, der igen er med i studiet og tager Filip og Niels med til en verden af idylliske bjergsøer, snefyldte bjergtinder og øltelte propfyldte med fællessyngende lokale. Linda fortæller også om brevet til Vanessa, og der bliver quizzet i østrigske berømtheder.
+   </itunes:summary>
+   <itunes:duration>
+    1501
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære Østrig – Hvor stammer wienerschnitzelen mon fra? Del 1
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-ostrig-hvor-stammer-wienerschnitzelen-mon-fra-del-1--45233458
+   </link>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45233458
+   </guid>
+   <pubDate>
+    Mon, 14 Jun 2021 06:00:15 +0000
+   </pubDate>
+   <enclosure length="36070757" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45233458/mp3_strig_pt1.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:duration>
+    1501
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Italien og Kroatien special
+   </title>
+   <link>
+    https://www.spreaker.com/episode/italien-og-kroatien-special--45165289
+   </link>
+   <description>
+    I denne lille afstikker snakker Filip og Niels om de to lande, de glæder sig mest til at besøge på deres roadtrip til sommer. Henholdsvis Italien og Kroatien. De drømmer sig væk til azurblåt hav, historiske bygninger og filmfestivaler, og så har de fundet et par svedige sommernumre frem fra de to lande.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45165289
+   </guid>
+   <pubDate>
+    Mon, 07 Jun 2021 06:00:08 +0000
+   </pubDate>
+   <enclosure length="38942764" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45165289/mp3_spec_ep.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    I denne lille afstikker snakker Filip og Niels om de to lande, de glæder sig mest til at besøge på deres roadtrip til sommer. Henholdsvis Italien og Kroatien. De drømmer sig væk til azurblåt hav, historiske bygninger og filmfestivaler, og så har de...
+   </itunes:subtitle>
+   <itunes:summary>
+    I denne lille afstikker snakker Filip og Niels om de to lande, de glæder sig mest til at besøge på deres roadtrip til sommer. Henholdsvis Italien og Kroatien. De drømmer sig væk til azurblåt hav, historiske bygninger og filmfestivaler, og så har de fundet et par svedige sommernumre frem fra de to lande.
+   </itunes:summary>
+   <itunes:duration>
+    1620
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære Italien – Hvordan dufter mormors køkken? Del 2
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-italien-hvordan-dufter-mormors-kokken-del-2--44946585
+   </link>
+   <description>
+    Cecilia har skrevet et brev til sin mormor; en rigtig italiensk nonna, der har haft en stor betydning i hendes opvækst. Hun forklarer Niels og Filip om brevet og de stærke italienske familiebånd og om, hvordan man godt kan være stolt af sin nationalitet, men samtidig også se nogle ulemper ved ens hjemland.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44946585
+   </guid>
+   <pubDate>
+    Mon, 31 May 2021 07:45:12 +0000
+   </pubDate>
+   <enclosure length="36072638" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44946585/mp3_italien_pt2.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Cecilia har skrevet et brev til sin mormor; en rigtig italiensk nonna, der har haft en stor betydning i hendes opvækst. Hun forklarer Niels og Filip om brevet og de stærke italienske familiebånd og om, hvordan man godt kan være stolt af sin...
+   </itunes:subtitle>
+   <itunes:summary>
+    Cecilia har skrevet et brev til sin mormor; en rigtig italiensk nonna, der har haft en stor betydning i hendes opvækst. Hun forklarer Niels og Filip om brevet og de stærke italienske familiebånd og om, hvordan man godt kan være stolt af sin nationalitet, men samtidig også se nogle ulemper ved ens hjemland.
+   </itunes:summary>
+   <itunes:duration>
+    1501
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0a2961d32e24f0799da253f984d2d9a8.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære Italien – Se Novara og dø? Del 1
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-italien-se-novara-og-do-del-1--44946582
+   </link>
+   <description>
+    Den står på aperitivo, rødvin på torvet og solbeskinnet 80’er-stemning i studiet, når Filip og Niels drømmer sig væk til den italienske by Novara sammen med deres gæst Cecilia. Hun er født og opvokset i byen, men bor nu i Danmark for at læse sin kandidatuddannelse på musikkonservatoriet. Snakken går på lokalkulturen, værternes fordomme om Italien og Cecilia anbefaler nogle naturskønne oplevelser, der er værd at rejse efter i hendes Norditalienske region.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44946582
+   </guid>
+   <pubDate>
+    Mon, 24 May 2021 07:00:04 +0000
+   </pubDate>
+   <enclosure length="36066369" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44946582/mp3_italien_pt1.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Den står på aperitivo, rødvin på torvet og solbeskinnet 80’er-stemning i studiet, når Filip og Niels drømmer sig væk til den italienske by Novara sammen med deres gæst Cecilia. Hun er født og opvokset i byen, men bor nu i Danmark for at læse sin...
+   </itunes:subtitle>
+   <itunes:summary>
+    Den står på aperitivo, rødvin på torvet og solbeskinnet 80’er-stemning i studiet, når Filip og Niels drømmer sig væk til den italienske by Novara sammen med deres gæst Cecilia. Hun er født og opvokset i byen, men bor nu i Danmark for at læse sin kandidatuddannelse på musikkonservatoriet. Snakken går på lokalkulturen, værternes fordomme om Italien og Cecilia anbefaler nogle naturskønne oplevelser, der er værd at rejse efter i hendes Norditalienske region.
+   </itunes:summary>
+   <itunes:duration>
+    1501
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0a2961d32e24f0799da253f984d2d9a8.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære Tyskland – Hvad lytter ungdommen til? Del 2
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-tyskland-hvad-lytter-ungdommen-til-del-2--44677815
+   </link>
+   <description>
+    Samtalen med Laura fortsætter. Hun har skrevet et brev til sin farmor, der handler om, det savn hun føler til hende og om, hvor meget hun glæder sig til at se hende igen. Hun har også endnu et musiknummer med, der minder hende om dengang, hun var ung i en lille by og stod på tærsklen til voksenlivet.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44677815
+   </guid>
+   <pubDate>
+    Mon, 17 May 2021 08:00:15 +0000
+   </pubDate>
+   <enclosure length="36064488" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44677815/tyskland_pt2.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Samtalen med Laura fortsætter. Hun har skrevet et brev til sin farmor, der handler om, det savn hun føler til hende og om, hvor meget hun glæder sig til at se hende igen. Hun har også endnu et musiknummer med, der minder hende om dengang, hun var ung...
+   </itunes:subtitle>
+   <itunes:summary>
+    Samtalen med Laura fortsætter. Hun har skrevet et brev til sin farmor, der handler om, det savn hun føler til hende og om, hvor meget hun glæder sig til at se hende igen. Hun har også endnu et musiknummer med, der minder hende om dengang, hun var ung i en lille by og stod på tærsklen til voksenlivet.
+   </itunes:summary>
+   <itunes:duration>
+    1500
+   </itunes:duration>
+   <itunes:keywords>
+    berlin,bremen,germany,hamburg,rejse,roadtrip,travel,tyskland
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære Tyskland – Hvad er en kartoffeldronning? Del 1
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-tyskland-hvad-er-en-kartoffeldronning-del-1--44677646
+   </link>
+   <description>
+    Filip og Niels har Laura Stichling i studiet. Hun er født og opvokset i den lille tyske by Rotenburg Wümme, hvor alle kender alle og kulturen er milevidt fra den, man finder i de store byer; Berlin, Hamborg, Bremen osv. Laura anbefaler oplevelser i Tyskland og må på forhånd undskylde for det musiknummer, hun har valgt som repræsentant for hendes hjemland.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44677646
+   </guid>
+   <pubDate>
+    Mon, 10 May 2021 08:00:05 +0000
+   </pubDate>
+   <enclosure length="24002559" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44677646/final_pt1.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Filip og Niels har Laura Stichling i studiet. Hun er født og opvokset i den lille tyske by Rotenburg Wümme, hvor alle kender alle og kulturen er milevidt fra den, man finder i de store byer; Berlin, Hamborg, Bremen osv. Laura anbefaler oplevelser i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Filip og Niels har Laura Stichling i studiet. Hun er født og opvokset i den lille tyske by Rotenburg Wümme, hvor alle kender alle og kulturen er milevidt fra den, man finder i de store byer; Berlin, Hamborg, Bremen osv. Laura anbefaler oplevelser i Tyskland og må på forhånd undskylde for det musiknummer, hun har valgt som repræsentant for hendes hjemland.
+   </itunes:summary>
+   <itunes:duration>
+    1501
+   </itunes:duration>
+   <itunes:keywords>
+    brev,culture,family,familyproblems,germany,letter,music,musik,rejse,travel,tyskland
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære Tjekkiet – Men hvad med de unge?! Del 2
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-tjekkiet-men-hvad-med-de-unge-del-2--44598060
+   </link>
+   <description>
+    Hvordan er det at være ung i Tjekkiet? Filip og Niels følger op på deres samtale med Adam fra sidste uge. De dykker ned i Tjekkisk ungdomskultur og snakker om breve: både dét, som Adam skrev til sin lille nevø, og de breve, som de har skrevet til hinanden og skal læse højt, når de kommer hjem fra deres roadtrip.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44598060
+   </guid>
+   <pubDate>
+    Sun, 02 May 2021 19:37:05 +0000
+   </pubDate>
+   <enclosure length="25969892" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44598060/breve_til_europa_tjekkiet2.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvordan er det at være ung i Tjekkiet? Filip og Niels følger op på deres samtale med Adam fra sidste uge. De dykker ned i Tjekkisk ungdomskultur og snakker om breve: både dét, som Adam skrev til sin lille nevø, og de breve, som de har skrevet til...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvordan er det at være ung i Tjekkiet? Filip og Niels følger op på deres samtale med Adam fra sidste uge. De dykker ned i Tjekkisk ungdomskultur og snakker om breve: både dét, som Adam skrev til sin lille nevø, og de breve, som de har skrevet til hinanden og skal læse højt, når de kommer hjem fra deres roadtrip.
+   </itunes:summary>
+   <itunes:duration>
+    1624
+   </itunes:duration>
+   <itunes:keywords>
+    culture,music,travel
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e0252de1cced8a5f55edee6b81efcefb.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære Tjekkiet – Hvad er påskepisk? Del 1
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-tjekkiet-hvad-er-paskepisk-del-1--44451974
+   </link>
+   <description>
+    Niels og Filip synes som sådan ikke at de danske traditioner er kedelige, indtil de snakker med Adam, som kommer fra Tjekkiet. Her finder de ud af, at de tjekkiske kanter, langt fra kun er drukture, lokale øl og billig mad. Vidste du, eksempelvis at der i Tjekkiet er en tradition for påskepisk? Og hvordan ender man med at gå fra en snak om pisk, lokale værtshuse og folkemusik, for til sidst at sidde med et brev til Adams unge nevø.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44451974
+   </guid>
+   <pubDate>
+    Mon, 26 Apr 2021 04:00:14 +0000
+   </pubDate>
+   <enclosure length="38947779" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44451974/tjekkiet_brevetileuropa.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Niels og Filip synes som sådan ikke at de danske traditioner er kedelige, indtil de snakker med Adam, som kommer fra Tjekkiet. Her finder de ud af, at de tjekkiske kanter, langt fra kun er drukture, lokale øl og billig mad. Vidste du, eksempelvis at...
+   </itunes:subtitle>
+   <itunes:summary>
+    Niels og Filip synes som sådan ikke at de danske traditioner er kedelige, indtil de snakker med Adam, som kommer fra Tjekkiet. Her finder de ud af, at de tjekkiske kanter, langt fra kun er drukture, lokale øl og billig mad. Vidste du, eksempelvis at der i Tjekkiet er en tradition for påskepisk? Og hvordan ender man med at gå fra en snak om pisk, lokale værtshuse og folkemusik, for til sidst at sidde med et brev til Adams unge nevø.
+   </itunes:summary>
+   <itunes:duration>
+    1621
+   </itunes:duration>
+   <itunes:keywords>
+    bil,brev,brno,corona,ferie,følelser,kultur,mad,musik,øl,pilsner,prag,rejse,rejseglæde,roadtrip,tjekkiet
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e0252de1cced8a5f55edee6b81efcefb.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kære Europa – Hvor går turen til?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaere-europa-hvor-gar-turen-til--44357936
+   </link>
+   <description>
+    Mange danske unge har været på roadtrip i Europa, men det er ikke mange, der har leveret breve til lokale folks postkasser undervejs. De to værter Filip og Niels forklarer om den atypiske biltur, de planlægger til sommer; tager lytteren med på ruten og spiller musik, der minder dem om det at rejse.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44357936
+   </guid>
+   <pubDate>
+    Mon, 19 Apr 2021 04:00:18 +0000
+   </pubDate>
+   <enclosure length="38943391" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44357936/brevetileuropa_ep1_final.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Mange danske unge har været på roadtrip i Europa, men det er ikke mange, der har leveret breve til lokale folks postkasser undervejs. De to værter Filip og Niels forklarer om den atypiske biltur, de planlægger til sommer; tager lytteren med på ruten...
+   </itunes:subtitle>
+   <itunes:summary>
+    Mange danske unge har været på roadtrip i Europa, men det er ikke mange, der har leveret breve til lokale folks postkasser undervejs. De to værter Filip og Niels forklarer om den atypiske biltur, de planlægger til sommer; tager lytteren med på ruten og spiller musik, der minder dem om det at rejse.
+   </itunes:summary>
+   <itunes:duration>
+    1620
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0875b0a49adb66365f8dc0aff8902299.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

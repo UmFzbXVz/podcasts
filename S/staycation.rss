@@ -1,19 +1,91 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Staycation</title>
-		<link>https://web.24syv.dk/channels/5057</link>
-		<description>Sommerferien sydpå er aflyst. Hvad gør man så? Man tager da på staycation i gamle Danmark sammen med Caspar Jexlev. Gennem 10 afsnit rejser han landet rundt og guider dig til steder, der måske ikke står øverst i turistbrochuren, men både er besøget værd og fortæller dramatiske kapitler af danmarkshistorien. Produceret af Vores Tid for LOUD.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/897/858e64e5d68f1a0a0affa27ffd1806b4.jpg"/>
-		<item>
-			<title>Teaser: Staycation</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45934876/teaser_staycation.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45934876/teaser_staycation.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 11:48:42 +0000</pubDate>
-			<itunes:duration>00:00:33</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45934876/teaser_staycation.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Staycation
+  </title>
+  <link>
+   https://loud.land/podcast/staycation
+  </link>
+  <description>
+   Sommerferien sydpå er aflyst. Hvad gør man så? Man tager da på staycation i gamle Danmark sammen med Caspar Jexlev. Gennem 10 afsnit rejser han landet rundt og guider dig til steder, der måske ikke står øverst i turistbrochuren, men både er besøget værd og fortæller dramatiske kapitler af danmarkshistorien. Produceret af Vores Tid for LOUD.
+  </description>
+  <atom:link href="https://www.spreaker.com/show/5032641/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Society &amp; Culture
+  </category>
+  <copyright>
+   Vores Tid &amp; LOUD
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/858e64e5d68f1a0a0affa27ffd1806b4.jpg
+   </url>
+   <title>
+    Staycation
+   </title>
+   <link>
+    https://loud.land/podcast/staycation
+   </link>
+  </image>
+  <lastBuildDate>
+   Fri, 01 Dec 2023 22:23:21 +0000
+  </lastBuildDate>
+  <itunes:author>
+   Vores Tid &amp; LOUD
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    LOUD
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/858e64e5d68f1a0a0affa27ffd1806b4.jpg"/>
+  <itunes:subtitle>
+   Sommerferien sydpå er aflyst. Hvad gør man så? Man tager da på staycation i gamle Danmark sammen med Caspar Jexlev.
+  </itunes:subtitle>
+  <itunes:summary>
+   Sommerferien sydpå er aflyst. Hvad gør man så? Man tager da på staycation i gamle Danmark sammen med Caspar Jexlev. Gennem 10 afsnit rejser han landet rundt og guider dig til steder, der måske ikke står øverst i turistbrochuren, men både er besøget værd og fortæller dramatiske kapitler af danmarkshistorien. Produceret af Vores Tid for LOUD.
+  </itunes:summary>
+  <itunes:category text="Society &amp; Culture"/>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    Teaser: Staycation
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/teaser-staycation
+   </link>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45934876
+   </guid>
+   <pubDate>
+    Mon, 02 Aug 2021 10:56:34 +0000
+   </pubDate>
+   <enclosure length="600651" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45934876/teaser_staycation.mp3"/>
+   <itunes:author>
+    Vores Tid &amp; LOUD
+   </itunes:author>
+   <itunes:duration>
+    34
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/858e64e5d68f1a0a0affa27ffd1806b4.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

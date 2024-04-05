@@ -1,280 +1,1225 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Ordkløver</title>
-		<link>https://web.24syv.dk/channels/5053</link>
-		<description>Tænker du over, hvordan du bruger sprog? Og hvorfor du bruger det på en helt bestemt måde?  I Ordkløveren diskuterer og undersøger vi, hvad der sker, når mennesker mødes og taler samme eller vidt forskelligt sprog. Dine værter Sarah Elgaard og Mette Strange Mortensen vil hver uge sammen med en gæst endevende, hvordan sprog skaber vores virkelighed.Har du input, spørgsmål eller kommentarer? Skriv til ordkloever@24syv.dk</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/893/a49bee50795d72e9335ccabf277a9442.jpg"/>
-		<item>
-			<title>TikToks hemmelige sprog: Censur eller fællesskab?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49650244/tiktok.mp3</link>
-			<description>Hvad må man sige og skrive på sociale medier? Og hvad må man ikke? Det er nemlig ikke alt brugerne må snakke om, men med de rigtige sproglige værktøjer kan man alligevel snakke om det meste. Mette Strange Mortensen og Sarah Elgaard undersøger sammen med digital pædagog Eva Fog Noer sproget på tiktok, og hvordan censurerede ord og algoritmer påvirker børn og unges hverdag på tiktok.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49650244/tiktok.mp3</guid>
-			<pubDate>Fri, 06 May 2022 04:29:33 +0000</pubDate>
-			<itunes:duration>00:53:46</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49650244/tiktok.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Favner sproget alle?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49562310/person.mp3</link>
-			<description>Hvad siger vores sprog om vores samfunds opfattelse af kønsroller? Og har det en betydning om man siger formand eller forperson? Kunstner Marie Thams fortæller om sin udstilling ‘person’, som handler om kønnet sprog. Sammen med Marie Thams vender Mette Strange Mortensen og Sarah Elgaard, hvorvidt sproget er neutralt, når det kommer til fordeling af bestemte roller og titler blandt kønnene.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49562310/person.mp3</guid>
-			<pubDate>Fri, 29 Apr 2022 04:10:21 +0000</pubDate>
-			<itunes:duration>00:53:39</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49562310/person.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sproget skal ikke altid tages for gode varer</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49483342/ordsprog_final.mp3</link>
-			<description>Ordsprog kan gøre sproget mere farverigt, men man kommer hurtigt på glatis, hvis man ikke lige kender den kontekst det er opstået i. Sarah Elgaard og Mette Strange Mortensen snakker om, hvordan ordsprog og kultur hænger sammen og hvordan de opstår.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49483342/ordsprog_final.mp3</guid>
-			<pubDate>Fri, 22 Apr 2022 04:10:15 +0000</pubDate>
-			<itunes:duration>00:53:50</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49483342/ordsprog_final.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Er Gud for alle?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49401556/kristendom.mp3</link>
-			<description>Hvordan gør man kristendommen forståelig og relevant i en moderne verden? Og kan man bruge bøn til at finde fred? Præst Therese Møller taler med Mette Strange Mortensen og Sarah Elgaard om hvordan kristendommens sprog stadig bliver brugt i nutidens sprog og hvad man kan bruge kirke, kristendom og bøn til i dag.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49401556/kristendom.mp3</guid>
-			<pubDate>Fri, 15 Apr 2022 04:06:56 +0000</pubDate>
-			<itunes:duration>00:53:49</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49401556/kristendom.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Lærer til ordblind: Du ender i fængsel</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49331964/ordblind.mp3</link>
-			<description>Knap 400.000 danskere lider af ordblindhed. Thomas Næstrup er en af dem og selvom hans folkeskolelærere kaldte ham dum og sagde han ville ende i fængsel, er han nu ved at færdiggøre pædagogstudiet. Det har han blandt andet kunne fordi han får hjælp af ordblindevejleder Malene Sælgen Pedersen. Thomas og Malene fortæller om hverdagen som ordblind, og hvilke redskaber og hjælpemidler ordblinde kan bruge.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49331964/ordblind.mp3</guid>
-			<pubDate>Fri, 08 Apr 2022 04:20:52 +0000</pubDate>
-			<itunes:duration>00:53:51</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49331964/ordblind.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sprogets evige udvikling</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49239023/sproghistorie.mp3</link>
-			<description>Hvor kommer dansk egentlig fra? Og hvordan har det udviklet sig til det sprog, vi kender i dag? Mette Strange Mortensen og Sarah Elgaard vender det danske sprog og taler om, hvordan dansk som sprog er opstået, hvordan låneord har påvirket dansk og hvordan det danske sprog bliver ved med at udvikle sig.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49239023/sproghistorie.mp3</guid>
-			<pubDate>Fri, 01 Apr 2022 04:01:51 +0000</pubDate>
-			<itunes:duration>00:53:29</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49239023/sproghistorie.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>&quot;Vi ved, hvor du bor&quot;</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49165280/trusler.mp3</link>
-			<description>Hvad skal der til for at sproget er kriminelt? Tanya Karoli Christensen forsker i trusler og hjælper politiet i sager med sprogligt materiale. Sarah Elgaard og Mette Strange Mortensen spørger Tanya, hvad en trussel er, hvordan sprog kan bruges som bevismateriale og hvilke type af trusler, der bliver ført ud i livet.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49165280/trusler.mp3</guid>
-			<pubDate>Fri, 25 Mar 2022 05:05:58 +0000</pubDate>
-			<itunes:duration>00:53:30</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49165280/trusler.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Skamdinavisk</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49069295/norsk.mp3</link>
-			<description>Hvilke forskelle er der på norsk og dansk, og hvordan er det at være nordmand og bo i Danmark? I dette afsnit kløver Mette Strange Mortensen og Sarah Elgaard sig igennem det norske sprog sammen med Johanne Sofie Lereim, der er halv nordmand.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49069295/norsk.mp3</guid>
-			<pubDate>Fri, 18 Mar 2022 05:09:58 +0000</pubDate>
-			<itunes:duration>00:53:29</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49069295/norsk.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Smæk på sproget</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48996481/slangordbogen.mp3</link>
-			<description>Slang er en uundgåelig del af de fleste danskeres sprogbrug, men hvordan har det udviklet sig og hvad definerer egentlig slang? Sarah Elgaard og Mette Strange Mortensen snakker med Torben Christiansen, manden bag appen Slangordbogen, om slangs udvikling.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48996481/slangordbogen.mp3</guid>
-			<pubDate>Fri, 11 Mar 2022 05:13:34 +0000</pubDate>
-			<itunes:duration>00:53:27</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48996481/slangordbogen.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Strikkernes hemmelige sprog</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48925746/godstrik.mp3</link>
-			<description>Strikkere har sit helt eget sprog, som kan være svært for udefrakommende at forstå. Sarah Elgaard og Mette Strange Mortensen har besøg af strikdesigner og forfatter Lærke Bagger, som sammen kløver sig igennem strikkesprog.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48925746/godstrik.mp3</guid>
-			<pubDate>Fri, 04 Mar 2022 05:15:42 +0000</pubDate>
-			<itunes:duration>00:53:28</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48925746/godstrik.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Toxic gamersprog</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48834762/gamer_2.mp3</link>
-			<description>Gamere taler deres eget sprog, men nogle gange kan det være eksluderende. Daniel Møgelhøj og Mette Strange Mortensen snakker om, hvor grænsen går mellem drillerier i spillet og chikane og hvad man kan gøre for at undgå det.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48834762/gamer_2.mp3</guid>
-			<pubDate>Fri, 25 Feb 2022 05:04:22 +0000</pubDate>
-			<itunes:duration>00:53:25</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48834762/gamer_2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ghosting eller skriv en afvisning?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48745034/ghosting.mp3</link>
-			<description>Kender du det, når du har skrevet med en sød person på Tinder og lige pludselig er der total stilhed fra deres side? Så er du måske blevet ghostet! Kan måden vi taler sammen på sociale medier forebygge ghosting? Netop det er omdrejningspunktet i dette afsnit, hvor Sarah Elgaard har besøg af Matilde Splidsboel Eg, som fortæller om sine oplevelser med ghosting.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48745034/ghosting.mp3</guid>
-			<pubDate>Fri, 18 Feb 2022 05:19:36 +0000</pubDate>
-			<itunes:duration>00:53:31</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48745034/ghosting.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kan sprog forbedre sex?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48642388/sex.mp3</link>
-			<description>Sex fylder ubegribeligt meget i vores samfund. Alligevel er det svært for mange at tale om. Ordkløver undersøger, hvordan sproget kan være med til at nedbryde tabuet og fjerne skammen. Mette Strange Mortensen og Sarah Elgaard har besøg af Amalie Søderberg, vært på Bare Sex, til en snak om, hvorvidt sprog kan forbedre sex.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48642388/sex.mp3</guid>
-			<pubDate>Fri, 11 Feb 2022 05:07:47 +0000</pubDate>
-			<itunes:duration>00:53:31</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48642388/sex.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En buffet af ord</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48541450/ordbog.mp3</link>
-			<description>Hvordan undgår vi at det danske sprog uddør og kan én mand med én Instagram-konto være med til at redde det? Mette Strange Mortensen og Sarah Elgaard taler med Mathias Obdrup, der har Instagram-profilen Obdrups Ordbog, hvor han samler på gamle gloser, nyt slang og selvopfundne ord.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48541450/ordbog.mp3</guid>
-			<pubDate>Fri, 04 Feb 2022 05:17:29 +0000</pubDate>
-			<itunes:duration>00:53:30</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48541450/ordbog.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Nordiske sprog med Kellylouisekilljoy</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48442926/tiktok.mp3</link>
-			<description>Louise Rindal aka Kellylouisekilljoy laver sketches om de nordiske landes sprog og kultur på det sociale medie tiktok. Sarah Elgaard og Mette Strange Mortensen spørger hende om humor kan være med til at bringe nordens unge tættere sammen.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48442926/tiktok.mp3</guid>
-			<pubDate>Fri, 28 Jan 2022 05:03:03 +0000</pubDate>
-			<itunes:duration>00:53:26</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48442926/tiktok.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Et navn er et skilt</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48353518/navne.mp3</link>
-			<description>Den 14. januar 2022 blev Dansk Navneleksikon lanceret. Sarah Elgaard og Mette Strange Mortensen har besøg af Birgit Eggert og Bo Nissen Knudsen, der er en del af redaktionen bag leksikonet.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48353518/navne.mp3</guid>
-			<pubDate>Fri, 21 Jan 2022 05:09:00 +0000</pubDate>
-			<itunes:duration>00:53:28</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48353518/navne.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Et kig på tegnsprog</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48256536/tegnsprog1.mp3</link>
-			<description>Mellem 3500-4500 danskere har dansk tegnsprog som modersmål. I denne uges Ordkløver taler Sarah Elgaard og Mette Strange Mortensen med Janne Boye Niemelä, der har tegnsprog som modersmål, og Emilie Lykfeldt, der arbejder som tegnsprogstolk og derfor er bindeled mellem de døve og de hørendes verden.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48256536/tegnsprog1.mp3</guid>
-			<pubDate>Fri, 14 Jan 2022 05:03:00 +0000</pubDate>
-			<itunes:duration>00:53:30</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48256536/tegnsprog1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En kaotisk strøm af lyde</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48166696/fonetik.mp3</link>
-			<description>Ordkløver har fået nyt logo med nogle mystiske tegn. Ordkløver er nemlig blevet lydskrevet. Sammen med Ruben Schachtenhaufen dykker Sarah Elgaard og Mette Strange Mortensen ned i, hvad lydskrift er og hvad det kan bruges til.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48166696/fonetik.mp3</guid>
-			<pubDate>Fri, 07 Jan 2022 05:01:00 +0000</pubDate>
-			<itunes:duration>00:53:30</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48166696/fonetik.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Dronningens sproglige fyrværkeri</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48106800/nyta_rstaler.mp3</link>
-			<description>Over 2 millioner danskere ser med, når Dronningen holder sin traditionsrige nytårstale. Sarah Elgaard og Mette Strange Mortensen får hjælp af rådgivende retoriker, stemmetræner og speaker Thore Keitum Fisker til at dissekere Dronningens sprog.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48106800/nyta_rstaler.mp3</guid>
-			<pubDate>Fri, 31 Dec 2021 05:08:54 +0000</pubDate>
-			<itunes:duration>00:53:30</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48106800/nyta_rstaler.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sprog i børnehøjde</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48022170/sprog_i_b_rneh_jde.mp3</link>
-			<description>Hvordan hjælper man bedst sit barn til at lære at bruge sproget? Og hvilken betydning har sprogtilegnelse i en tidlig alder for et barns fremtid? Børnesprogsforskere Laila Kjærbæk og Ditte Boeg Thomsen har svaret i denne uges Ordkløver med værter Sarah Elgaard og Mette Strange Mortensen.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48022170/sprog_i_b_rneh_jde.mp3</guid>
-			<pubDate>Fri, 24 Dec 2021 05:16:46 +0000</pubDate>
-			<itunes:duration>00:53:33</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48022170/sprog_i_b_rneh_jde.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>g4merspr0g</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47923019/g4merspr0g.mp3</link>
-			<description>Gaming er en kæmpe industri og har sit helt eget sprog. Det kan være uforståeligt for udefrakommende og derfor har Mette Strange Mortensen og Sarah Elgaard besøg af Daniel Møgelhøj fra GameBoys, der gør os meget klogere på gamingsprog.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47923019/g4merspr0g.mp3</guid>
-			<pubDate>Fri, 17 Dec 2021 05:04:58 +0000</pubDate>
-			<itunes:duration>00:53:33</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47923019/g4merspr0g.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Troldene kommer</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47838843/trolling.mp3</link>
-			<description>Hvordan bruger troldene sproget til at afspore debatten på internettet? I dette afsnit kløver Mette Strange Mortensen og Sarah Elgaard sig igennem sproget omkring trolling. Til at hjælpe med det har de besøg af Katrine Emme Thielke, digital kommunikationsrådgiver.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47838843/trolling.mp3</guid>
-			<pubDate>Fri, 10 Dec 2021 05:13:05 +0000</pubDate>
-			<itunes:duration>00:53:32</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47838843/trolling.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ordkløver trailer</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47044025/intro_ordkl_ver.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47044025/intro_ordkl_ver.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 11:26:01 +0000</pubDate>
-			<itunes:duration>00:00:19</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47044025/intro_ordkl_ver.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Han, hun og hen</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47046704/han_hun_og_hen.mp3</link>
-			<description>De/dem, Hun/hende, Han/ham, Hen/Hens er bare nogle af de personlige pronominer, der bliver brugt på dansk. Sarah Elgaard og Mette Strange Mortensen ser sammen med Rei Mansa på sprog om mennesker, der ikke lige passer ind i kasserne “mand” og “kvinde”.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47046704/han_hun_og_hen.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 11:26:01 +0000</pubDate>
-			<itunes:duration>00:53:29</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47046704/han_hun_og_hen.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mums! Det er reality!</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47177964/mums_det_er_reality.mp3</link>
-			<description>Mange af os kender minimum et udtryk fra reality-tv som Paradise Hotel eller Ex on the Beach, og faktisk fylder reality-tv så meget i unges bevidsthed, at forskere bruger det til at undersøge, hvordan unge mennesker snakker. Mette Strange Mortensen og Sarah Elgaard snakker i dette afsnit sammen med paradiso Sinan Turkmën om reality-tv og sprog.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47177964/mums_det_er_reality.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 11:26:01 +0000</pubDate>
-			<itunes:duration>00:51:19</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47177964/mums_det_er_reality.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Når ord synger</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47279394/sangsprog.mp3</link>
-			<description>I anledning af den årlige Spil Dansk Uge er Ordkløver denne gang dedikeret til de danske musikere, der spiller sig ind i vores hjerter og giver os gåsehud og tårer i øjnene eller får os til at give den max gas på dansegulvet. For at dissekere den danske sang har vi besøg af sanger og sangskriver Pil Jeppesen. Dine værter er som altid Sarah Elgaard og Mette Strange Mortensen.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47279394/sangsprog.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 11:26:01 +0000</pubDate>
-			<itunes:duration>00:53:30</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47279394/sangsprog.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Lyden af gaden</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47397588/gadedansk_fin.mp3</link>
-			<description>Siger hajde, shabab eller oha dig noget? Hvis ikke, kan det være du skal have genopfrisket dit gadedanske! Dagens gæst Tobias Cadin er forfatter til Gadedansk Ordbogen, der fortæller om arbejdet med bogen og hvordan gadedansk har udviklet sig de sidste 10 år. Dine værter er Mette Strange Mortensen og Sarah Elgaard</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47397588/gadedansk_fin.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 11:26:01 +0000</pubDate>
-			<itunes:duration>00:53:31</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47397588/gadedansk_fin.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Et meme siger mere end 1000 ord</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47514642/et_meme_siger_mere_end_1000_ord.mp3</link>
-			<description>Memes fylder mere og mere på internettet og sociale medier, men hvad er det egentlig memes kan. Til at snakke om dette har Mette Strange Mortensen og Sarah Elgaard besøg af Sebastian Lynggaard, som laver memes på Instagram under pseudonymet Herlige Svend.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47514642/et_meme_siger_mere_end_1000_ord.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 11:26:01 +0000</pubDate>
-			<itunes:duration>00:53:30</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47514642/et_meme_siger_mere_end_1000_ord.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Demokratiets sprog</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47626311/politikersprog.mp3</link>
-			<description>Hvordan taler en politiker? I dette afsnit kløver Mette Strange Mortensen og Sarah Elgaard sig igennem politikersprog. Til at gøre dette har de besøg af Malte Mathies Løcke, byrådsmedlem i Frederiksberg Kommune.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47626311/politikersprog.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 11:26:00 +0000</pubDate>
-			<itunes:duration>00:53:30</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47626311/politikersprog.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hvornår er et ord nyt?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47733514/nye_ord.mp3</link>
-			<description>I dette afsnit kigger Mette Strange Mortensen og Sarah Elgaard på Dansk Sprognævns ordbog Nye Ord i Dansk fra 1955 til nu. De bliver sammen klogere på, hvorfor der er brug for en ordbog over nye ord i dansk, og hvorfor ord som “vildmarksbad” og “catcalle” er med.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47733514/nye_ord.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 11:26:00 +0000</pubDate>
-			<itunes:duration>00:53:20</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47733514/nye_ord.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Ordkløver
+  </title>
+  <link>
+   https://loud.land/podcast/ordkloever
+  </link>
+  <description>
+   Tænker du over, hvordan du bruger sprog? Og hvorfor du bruger det på en helt bestemt måde?  I Ordkløveren diskuterer og undersøger vi, hvad der sker, når mennesker mødes og taler samme eller vidt forskelligt sprog. Dine værter Sarah Elgaard og Mette Strange Mortensen vil hver uge sammen med en gæst endevende, hvordan sprog skaber vores virkelighed.&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="mailto:ordkloever@24syv.dk"&gt;ordkloever@24syv.dk&lt;/a&gt;
+  </description>
+  <atom:link href="https://www.spreaker.com/show/5182217/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Society &amp; Culture
+  </category>
+  <copyright>
+   Copyright LOUD
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg
+   </url>
+   <title>
+    Ordkløver
+   </title>
+   <link>
+    https://loud.land/podcast/ordkloever
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   24syv
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    24syv
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+  <itunes:subtitle>
+   Et sprogligt møde med tidens tendenser.
+  </itunes:subtitle>
+  <itunes:summary>
+   Tænker du over, hvordan du bruger sprog? Og hvorfor du bruger det på en helt bestemt måde?  I Ordkløveren diskuterer og undersøger vi, hvad der sker, når mennesker mødes og taler samme eller vidt forskelligt sprog. Dine værter Sarah Elgaard og Mette Strange Mortensen vil hver uge sammen med en gæst endevende, hvordan sprog skaber vores virkelighed.&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="mailto:ordkloever@24syv.dk"&gt;ordkloever@24syv.dk&lt;/a&gt;
+  </itunes:summary>
+  <itunes:category text="Society &amp; Culture"/>
+  <itunes:category text="Education"/>
+  <itunes:category text="Science"/>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    TikToks hemmelige sprog: Censur eller fællesskab?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/tiktoks-hemmelige-sprog-censur-eller-faellesskab--49650244
+   </link>
+   <description>
+    Hvad må man sige og skrive på sociale medier? Og hvad må man ikke? Det er nemlig ikke alt brugerne må snakke om, men med de rigtige sproglige værktøjer kan man alligevel snakke om det meste. Mette Strange Mortensen og Sarah Elgaard undersøger sammen med digital pædagog Eva Fog Noer sproget på tiktok, og hvordan censurerede ord og algoritmer påvirker børn og unges hverdag på tiktok.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49650244
+   </guid>
+   <pubDate>
+    Fri, 06 May 2022 04:20:02 +0000
+   </pubDate>
+   <enclosure length="51623854" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49650244/tiktok.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad må man sige og skrive på sociale medier? Og hvad må man ikke? Det er nemlig ikke alt brugerne må snakke om, men med de rigtige sproglige værktøjer kan man alligevel snakke om det meste. Mette Strange Mortensen og Sarah Elgaard undersøger sammen...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad må man sige og skrive på sociale medier? Og hvad må man ikke? Det er nemlig ikke alt brugerne må snakke om, men med de rigtige sproglige værktøjer kan man alligevel snakke om det meste. Mette Strange Mortensen og Sarah Elgaard undersøger sammen med digital pædagog Eva Fog Noer sproget på tiktok, og hvordan censurerede ord og algoritmer påvirker børn og unges hverdag på tiktok.
+   </itunes:summary>
+   <itunes:duration>
+    3227
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Favner sproget alle?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/favner-sproget-alle--49562310
+   </link>
+   <description>
+    Hvad siger vores sprog om vores samfunds opfattelse af kønsroller? Og har det en betydning om man siger formand eller forperson? Kunstner Marie Thams fortæller om sin udstilling ‘person’, som handler om kønnet sprog. Sammen med Marie Thams vender Mette Strange Mortensen og Sarah Elgaard, hvorvidt sproget er neutralt, når det kommer til fordeling af bestemte roller og titler blandt kønnene.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49562310
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 04:00:03 +0000
+   </pubDate>
+   <enclosure length="51517275" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49562310/person.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad siger vores sprog om vores samfunds opfattelse af kønsroller? Og har det en betydning om man siger formand eller forperson? Kunstner Marie Thams fortæller om sin udstilling ‘person’, som handler om kønnet sprog. Sammen med Marie Thams vender...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad siger vores sprog om vores samfunds opfattelse af kønsroller? Og har det en betydning om man siger formand eller forperson? Kunstner Marie Thams fortæller om sin udstilling ‘person’, som handler om kønnet sprog. Sammen med Marie Thams vender Mette Strange Mortensen og Sarah Elgaard, hvorvidt sproget er neutralt, når det kommer til fordeling af bestemte roller og titler blandt kønnene.
+   </itunes:summary>
+   <itunes:duration>
+    3220
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Sproget skal ikke altid tages for gode varer
+   </title>
+   <link>
+    https://www.spreaker.com/episode/sproget-skal-ikke-altid-tages-for-gode-varer--49483342
+   </link>
+   <description>
+    Ordsprog kan gøre sproget mere farverigt, men man kommer hurtigt på glatis, hvis man ikke lige kender den kontekst det er opstået i. Sarah Elgaard og Mette Strange Mortensen snakker om, hvordan ordsprog og kultur hænger sammen og hvordan de opstår.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49483342
+   </guid>
+   <pubDate>
+    Fri, 22 Apr 2022 04:00:03 +0000
+   </pubDate>
+   <enclosure length="51747570" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49483342/ordsprog_final.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Ordsprog kan gøre sproget mere farverigt, men man kommer hurtigt på glatis, hvis man ikke lige kender den kontekst det er opstået i. Sarah Elgaard og Mette Strange Mortensen snakker om, hvordan ordsprog og kultur hænger sammen og hvordan de opstår.
+   </itunes:subtitle>
+   <itunes:summary>
+    Ordsprog kan gøre sproget mere farverigt, men man kommer hurtigt på glatis, hvis man ikke lige kender den kontekst det er opstået i. Sarah Elgaard og Mette Strange Mortensen snakker om, hvordan ordsprog og kultur hænger sammen og hvordan de opstår.
+   </itunes:summary>
+   <itunes:duration>
+    3231
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Er Gud for alle?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/er-gud-for-alle--49401556
+   </link>
+   <description>
+    Hvordan gør man kristendommen forståelig og relevant i en moderne verden? Og kan man bruge bøn til at finde fred? Præst Therese Møller taler med Mette Strange Mortensen og Sarah Elgaard om hvordan kristendommens sprog stadig bliver brugt i nutidens sprog og hvad man kan bruge kirke, kristendom og bøn til i dag.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49401556
+   </guid>
+   <pubDate>
+    Fri, 15 Apr 2022 04:00:03 +0000
+   </pubDate>
+   <enclosure length="51678607" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49401556/kristendom.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvordan gør man kristendommen forståelig og relevant i en moderne verden? Og kan man bruge bøn til at finde fred? Præst Therese Møller taler med Mette Strange Mortensen og Sarah Elgaard om hvordan kristendommens sprog stadig bliver brugt i nutidens...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvordan gør man kristendommen forståelig og relevant i en moderne verden? Og kan man bruge bøn til at finde fred? Præst Therese Møller taler med Mette Strange Mortensen og Sarah Elgaard om hvordan kristendommens sprog stadig bliver brugt i nutidens sprog og hvad man kan bruge kirke, kristendom og bøn til i dag.
+   </itunes:summary>
+   <itunes:duration>
+    3230
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Ordblindes kamp mod undskyldningerne
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ordblindes-kamp-mod-undskyldningerne--49331964
+   </link>
+   <description>
+    Knap 400.000 danskere lider af ordblindhed. Thomas Næstrup er en af dem og selvom hans folkeskolelærere kaldte ham dum og sagde han ville ende i fængsel, er han nu ved at færdiggøre pædagogstudiet. Det har han blandt andet kunne fordi han får hjælp af ordblindevejleder Malene Sælgen Pedersen. Thomas og Malene fortæller om hverdagen som ordblind, og hvilke redskaber og hjælpemidler ordblinde kan bruge.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49331964
+   </guid>
+   <pubDate>
+    Fri, 08 Apr 2022 04:00:03 +0000
+   </pubDate>
+   <enclosure length="51773902" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49331964/ordblind.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Knap 400.000 danskere lider af ordblindhed. Thomas Næstrup er en af dem og selvom hans folkeskolelærere kaldte ham dum og sagde han ville ende i fængsel, er han nu ved at færdiggøre pædagogstudiet. Det har han blandt andet kunne fordi han får hjælp af...
+   </itunes:subtitle>
+   <itunes:summary>
+    Knap 400.000 danskere lider af ordblindhed. Thomas Næstrup er en af dem og selvom hans folkeskolelærere kaldte ham dum og sagde han ville ende i fængsel, er han nu ved at færdiggøre pædagogstudiet. Det har han blandt andet kunne fordi han får hjælp af ordblindevejleder Malene Sælgen Pedersen. Thomas og Malene fortæller om hverdagen som ordblind, og hvilke redskaber og hjælpemidler ordblinde kan bruge.
+   </itunes:summary>
+   <itunes:duration>
+    3232
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,ordblindhed,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Sprogets evige udvikling
+   </title>
+   <link>
+    https://www.spreaker.com/episode/sprogets-evige-udvikling--49239023
+   </link>
+   <description>
+    Hvor kommer dansk egentlig fra? Og hvordan har det udviklet sig til det sprog, vi kender i dag? Mette Strange Mortensen og Sarah Elgaard vender det danske sprog og taler om, hvordan dansk som sprog er opstået, hvordan låneord har påvirket dansk og hvordan det danske sprog bliver ved med at udvikle sig.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49239023
+   </guid>
+   <pubDate>
+    Fri, 01 Apr 2022 04:00:03 +0000
+   </pubDate>
+   <enclosure length="51353853" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49239023/sproghistorie.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvor kommer dansk egentlig fra? Og hvordan har det udviklet sig til det sprog, vi kender i dag? Mette Strange Mortensen og Sarah Elgaard vender det danske sprog og taler om, hvordan dansk som sprog er opstået, hvordan låneord har påvirket dansk og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvor kommer dansk egentlig fra? Og hvordan har det udviklet sig til det sprog, vi kender i dag? Mette Strange Mortensen og Sarah Elgaard vender det danske sprog og taler om, hvordan dansk som sprog er opstået, hvordan låneord har påvirket dansk og hvordan det danske sprog bliver ved med at udvikle sig.
+   </itunes:summary>
+   <itunes:duration>
+    3210
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    "Vi ved, hvor du bor"
+   </title>
+   <link>
+    https://www.spreaker.com/episode/vi-ved-hvor-du-bor--49165280
+   </link>
+   <description>
+    Hvad skal der til for at sproget er kriminelt? Tanya Karoli Christensen forsker i trusler og hjælper politiet i sager med sprogligt materiale. Sarah Elgaard og Mette Strange Mortensen spørger Tanya, hvad en trussel er, hvordan sprog kan bruges som bevismateriale og hvilke type af trusler, der bliver ført ud i livet.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49165280
+   </guid>
+   <pubDate>
+    Fri, 25 Mar 2022 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51430339" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49165280/trusler.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad skal der til for at sproget er kriminelt? Tanya Karoli Christensen forsker i trusler og hjælper politiet i sager med sprogligt materiale. Sarah Elgaard og Mette Strange Mortensen spørger Tanya, hvad en trussel er, hvordan sprog kan bruges som...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad skal der til for at sproget er kriminelt? Tanya Karoli Christensen forsker i trusler og hjælper politiet i sager med sprogligt materiale. Sarah Elgaard og Mette Strange Mortensen spørger Tanya, hvad en trussel er, hvordan sprog kan bruges som bevismateriale og hvilke type af trusler, der bliver ført ud i livet.
+   </itunes:summary>
+   <itunes:duration>
+    3211
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,retslingvistik,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Skamdinavisk
+   </title>
+   <link>
+    https://www.spreaker.com/episode/skamdinavisk--49069295
+   </link>
+   <description>
+    Hvilke forskelle er der på norsk og dansk, og hvordan er det at være nordmand og bo i Danmark? I dette afsnit kløver Mette Strange Mortensen og Sarah Elgaard sig igennem det norske sprog sammen med Johanne Sofie Lereim, der er halv nordmand.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49069295
+   </guid>
+   <pubDate>
+    Fri, 18 Mar 2022 05:00:04 +0000
+   </pubDate>
+   <enclosure length="51353853" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49069295/norsk.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvilke forskelle er der på norsk og dansk, og hvordan er det at være nordmand og bo i Danmark? I dette afsnit kløver Mette Strange Mortensen og Sarah Elgaard sig igennem det norske sprog sammen med Johanne Sofie Lereim, der er halv nordmand.
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvilke forskelle er der på norsk og dansk, og hvordan er det at være nordmand og bo i Danmark? I dette afsnit kløver Mette Strange Mortensen og Sarah Elgaard sig igennem det norske sprog sammen med Johanne Sofie Lereim, der er halv nordmand.
+   </itunes:summary>
+   <itunes:duration>
+    3210
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Smæk på sproget
+   </title>
+   <link>
+    https://www.spreaker.com/episode/smaek-pa-sproget--48996481
+   </link>
+   <description>
+    Slang er en uundgåelig del af de fleste danskeres sprogbrug, men hvordan har det udviklet sig og hvad definerer egentlig slang? Sarah Elgaard og Mette Strange Mortensen snakker med Torben Christiansen, manden bag appen Slangordbogen, om slangs udvikling.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48996481
+   </guid>
+   <pubDate>
+    Fri, 11 Mar 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="51381856" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48996481/slangordbogen.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Slang er en uundgåelig del af de fleste danskeres sprogbrug, men hvordan har det udviklet sig og hvad definerer egentlig slang? Sarah Elgaard og Mette Strange Mortensen snakker med Torben Christiansen, manden bag appen Slangordbogen, om slangs udvikling.
+   </itunes:subtitle>
+   <itunes:summary>
+    Slang er en uundgåelig del af de fleste danskeres sprogbrug, men hvordan har det udviklet sig og hvad definerer egentlig slang? Sarah Elgaard og Mette Strange Mortensen snakker med Torben Christiansen, manden bag appen Slangordbogen, om slangs udvikling.
+   </itunes:summary>
+   <itunes:duration>
+    3208
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,slang,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Strikkernes hemmelige sprog
+   </title>
+   <link>
+    https://www.spreaker.com/episode/strikkernes-hemmelige-sprog--48925746
+   </link>
+   <description>
+    Strikkere har sit helt eget sprog, som kan være svært for udefrakommende at forstå. Sarah Elgaard og Mette Strange Mortensen har besøg af strikdesigner og forfatter Lærke Bagger, som sammen kløver sig igennem strikkesprog.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48925746
+   </guid>
+   <pubDate>
+    Fri, 04 Mar 2022 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51401918" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48925746/godstrik.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Strikkere har sit helt eget sprog, som kan være svært for udefrakommende at forstå. Sarah Elgaard og Mette Strange Mortensen har besøg af strikdesigner og forfatter Lærke Bagger, som sammen kløver sig igennem strikkesprog.
+   </itunes:subtitle>
+   <itunes:summary>
+    Strikkere har sit helt eget sprog, som kan være svært for udefrakommende at forstå. Sarah Elgaard og Mette Strange Mortensen har besøg af strikdesigner og forfatter Lærke Bagger, som sammen kløver sig igennem strikkesprog.
+   </itunes:summary>
+   <itunes:duration>
+    3209
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Toxic gamersprog
+   </title>
+   <link>
+    https://www.spreaker.com/episode/toxic-gamersprog--48834762
+   </link>
+   <description>
+    Gamere taler deres eget sprog, men nogle gange kan det være eksluderende. Daniel Møgelhøj og Mette Strange Mortensen snakker om, hvor grænsen går mellem drillerier i spillet og chikane og hvad man kan gøre for at undgå det.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48834762
+   </guid>
+   <pubDate>
+    Fri, 25 Feb 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="51352181" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48834762/gamer_2.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Gamere taler deres eget sprog, men nogle gange kan det være eksluderende. Daniel Møgelhøj og Mette Strange Mortensen snakker om, hvor grænsen går mellem drillerier i spillet og chikane og hvad man kan gøre for at undgå det.
+   </itunes:subtitle>
+   <itunes:summary>
+    Gamere taler deres eget sprog, men nogle gange kan det være eksluderende. Daniel Møgelhøj og Mette Strange Mortensen snakker om, hvor grænsen går mellem drillerier i spillet og chikane og hvad man kan gøre for at undgå det.
+   </itunes:summary>
+   <itunes:duration>
+    3206
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Ghosting eller skriv en afvisning?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ghosting-eller-skriv-en-afvisning--48745034
+   </link>
+   <description>
+    Kender du det, når du har skrevet med en sød person på Tinder og lige pludselig er der total stilhed fra deres side? Så er du måske blevet ghostet! Kan måden vi taler sammen på sociale medier forebygge ghosting? Netop det er omdrejningspunktet i dette afsnit, hvor Sarah Elgaard har besøg af Matilde Splidsboel Eg, som fortæller om sine oplevelser med ghosting.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48745034
+   </guid>
+   <pubDate>
+    Fri, 18 Feb 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="51450401" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48745034/ghosting.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Kender du det, når du har skrevet med en sød person på Tinder og lige pludselig er der total stilhed fra deres side? Så er du måske blevet ghostet! Kan måden vi taler sammen på sociale medier forebygge ghosting? Netop det er omdrejningspunktet i dette...
+   </itunes:subtitle>
+   <itunes:summary>
+    Kender du det, når du har skrevet med en sød person på Tinder og lige pludselig er der total stilhed fra deres side? Så er du måske blevet ghostet! Kan måden vi taler sammen på sociale medier forebygge ghosting? Netop det er omdrejningspunktet i dette afsnit, hvor Sarah Elgaard har besøg af Matilde Splidsboel Eg, som fortæller om sine oplevelser med ghosting.
+   </itunes:summary>
+   <itunes:duration>
+    3212
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kan sprog forbedre sex?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kan-sprog-forbedre-sex--48642388
+   </link>
+   <description>
+    Sex fylder ubegribeligt meget i vores samfund. Alligevel er det svært for mange at tale om. Ordkløver undersøger, hvordan sproget kan være med til at nedbryde tabuet og fjerne skammen. Mette Strange Mortensen og Sarah Elgaard har besøg af Amalie Søderberg, vært på Bare Sex, til en snak om, hvorvidt sprog kan forbedre sex.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48642388
+   </guid>
+   <pubDate>
+    Fri, 11 Feb 2022 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51454163" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48642388/sex.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Sex fylder ubegribeligt meget i vores samfund. Alligevel er det svært for mange at tale om. Ordkløver undersøger, hvordan sproget kan være med til at nedbryde tabuet og fjerne skammen. Mette Strange Mortensen og Sarah Elgaard har besøg af Amalie...
+   </itunes:subtitle>
+   <itunes:summary>
+    Sex fylder ubegribeligt meget i vores samfund. Alligevel er det svært for mange at tale om. Ordkløver undersøger, hvordan sproget kan være med til at nedbryde tabuet og fjerne skammen. Mette Strange Mortensen og Sarah Elgaard har besøg af Amalie Søderberg, vært på Bare Sex, til en snak om, hvorvidt sprog kan forbedre sex.
+   </itunes:summary>
+   <itunes:duration>
+    3212
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    En buffet af ord
+   </title>
+   <link>
+    https://www.spreaker.com/episode/en-buffet-af-ord--48541450
+   </link>
+   <description>
+    Hvordan undgår vi at det danske sprog uddør og kan én mand med én Instagram-konto være med til at redde det? Mette Strange Mortensen og Sarah Elgaard taler med Mathias Obdrup, der har Instagram-profilen Obdrups Ordbog, hvor han samler på gamle gloser, nyt slang og selvopfundne ord.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48541450
+   </guid>
+   <pubDate>
+    Fri, 04 Feb 2022 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51439117" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48541450/ordbog.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvordan undgår vi at det danske sprog uddør og kan én mand med én Instagram-konto være med til at redde det? Mette Strange Mortensen og Sarah Elgaard taler med Mathias Obdrup, der har Instagram-profilen Obdrups Ordbog, hvor han samler på gamle gloser,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvordan undgår vi at det danske sprog uddør og kan én mand med én Instagram-konto være med til at redde det? Mette Strange Mortensen og Sarah Elgaard taler med Mathias Obdrup, der har Instagram-profilen Obdrups Ordbog, hvor han samler på gamle gloser, nyt slang og selvopfundne ord.
+   </itunes:summary>
+   <itunes:duration>
+    3211
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Nordiske sprog med Kellylouisekilljoy
+   </title>
+   <link>
+    https://www.spreaker.com/episode/nordiske-sprog-med-kellylouisekilljoy--48442926
+   </link>
+   <description>
+    Louise Rindal aka Kellylouisekilljoy laver sketches om de nordiske landes sprog og kultur på det sociale medie tiktok. Sarah Elgaard og Mette Strange Mortensen spørger hende om humor kan være med til at bringe nordens unge tættere sammen.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48442926
+   </guid>
+   <pubDate>
+    Fri, 28 Jan 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="51370571" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48442926/tiktok.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Louise Rindal aka Kellylouisekilljoy laver sketches om de nordiske landes sprog og kultur på det sociale medie tiktok. Sarah Elgaard og Mette Strange Mortensen spørger hende om humor kan være med til at bringe nordens unge tættere sammen.
+   </itunes:subtitle>
+   <itunes:summary>
+    Louise Rindal aka Kellylouisekilljoy laver sketches om de nordiske landes sprog og kultur på det sociale medie tiktok. Sarah Elgaard og Mette Strange Mortensen spørger hende om humor kan være med til at bringe nordens unge tættere sammen.
+   </itunes:summary>
+   <itunes:duration>
+    3207
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Et navn er et skilt
+   </title>
+   <link>
+    https://www.spreaker.com/episode/et-navn-er-et-skilt--48353518
+   </link>
+   <description>
+    Den 14. januar 2022 blev Dansk Navneleksikon lanceret. Sarah Elgaard og Mette Strange Mortensen har besøg af Birgit Eggert og Bo Nissen Knudsen, der er en del af redaktionen bag leksikonet.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48353518
+   </guid>
+   <pubDate>
+    Fri, 21 Jan 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="51402754" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48353518/navne.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Den 14. januar 2022 blev Dansk Navneleksikon lanceret. Sarah Elgaard og Mette Strange Mortensen har besøg af Birgit Eggert og Bo Nissen Knudsen, der er en del af redaktionen bag leksikonet.
+   </itunes:subtitle>
+   <itunes:summary>
+    Den 14. januar 2022 blev Dansk Navneleksikon lanceret. Sarah Elgaard og Mette Strange Mortensen har besøg af Birgit Eggert og Bo Nissen Knudsen, der er en del af redaktionen bag leksikonet.
+   </itunes:summary>
+   <itunes:duration>
+    3209
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,navne,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Et kig på tegnsprog
+   </title>
+   <link>
+    https://www.spreaker.com/episode/et-kig-pa-tegnsprog--48256536
+   </link>
+   <description>
+    Mellem 3500-4500 danskere har dansk tegnsprog som modersmål. I denne uges Ordkløver taler Sarah Elgaard og Mette Strange Mortensen med Janne Boye Niemelä, der har tegnsprog som modersmål, og Emilie Lykfeldt, der arbejder som tegnsprogstolk og derfor er bindeled mellem de døve og de hørendes verden.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48256536
+   </guid>
+   <pubDate>
+    Fri, 14 Jan 2022 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51439953" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48256536/tegnsprog1.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Mellem 3500-4500 danskere har dansk tegnsprog som modersmål. I denne uges Ordkløver taler Sarah Elgaard og Mette Strange Mortensen med Janne Boye Niemelä, der har tegnsprog som modersmål, og Emilie Lykfeldt, der arbejder som tegnsprogstolk og derfor...
+   </itunes:subtitle>
+   <itunes:summary>
+    Mellem 3500-4500 danskere har dansk tegnsprog som modersmål. I denne uges Ordkløver taler Sarah Elgaard og Mette Strange Mortensen med Janne Boye Niemelä, der har tegnsprog som modersmål, og Emilie Lykfeldt, der arbejder som tegnsprogstolk og derfor er bindeled mellem de døve og de hørendes verden.
+   </itunes:summary>
+   <itunes:duration>
+    3211
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,tegnsprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    En kaotisk strøm af lyde
+   </title>
+   <link>
+    https://www.spreaker.com/episode/en-kaotisk-strom-af-lyde--48166696
+   </link>
+   <description>
+    Ordkløver har fået nyt logo med nogle mystiske tegn. Ordkløver er nemlig blevet lydskrevet. Sammen med Ruben Schachtenhaufen dykker Sarah Elgaard og Mette Strange Mortensen ned i, hvad lydskrift er og hvad det kan bruges til.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48166696
+   </guid>
+   <pubDate>
+    Fri, 07 Jan 2022 05:00:01 +0000
+   </pubDate>
+   <enclosure length="51434101" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48166696/fonetik.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Ordkløver har fået nyt logo med nogle mystiske tegn. Ordkløver er nemlig blevet lydskrevet. Sammen med Ruben Schachtenhaufen dykker Sarah Elgaard og Mette Strange Mortensen ned i, hvad lydskrift er og hvad det kan bruges til.
+   </itunes:subtitle>
+   <itunes:summary>
+    Ordkløver har fået nyt logo med nogle mystiske tegn. Ordkløver er nemlig blevet lydskrevet. Sammen med Ruben Schachtenhaufen dykker Sarah Elgaard og Mette Strange Mortensen ned i, hvad lydskrift er og hvad det kan bruges til.
+   </itunes:summary>
+   <itunes:duration>
+    3211
+   </itunes:duration>
+   <itunes:keywords>
+    fonetik,forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Dronningens sproglige fyrværkeri
+   </title>
+   <link>
+    https://www.spreaker.com/episode/dronningens-sproglige-fyrvaerkeri--48106800
+   </link>
+   <description>
+    Over 2 millioner danskere ser med, når Dronningen holder sin traditionsrige nytårstale. Sarah Elgaard og Mette Strange Mortensen får hjælp af rådgivende retoriker, stemmetræner og speaker Thore Keitum Fisker til at dissekere Dronningens sprog.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48106800
+   </guid>
+   <pubDate>
+    Fri, 31 Dec 2021 05:00:03 +0000
+   </pubDate>
+   <enclosure length="51427832" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48106800/nyta_rstaler.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Over 2 millioner danskere ser med, når Dronningen holder sin traditionsrige nytårstale. Sarah Elgaard og Mette Strange Mortensen får hjælp af rådgivende retoriker, stemmetræner og speaker Thore Keitum Fisker til at dissekere Dronningens sprog.
+   </itunes:subtitle>
+   <itunes:summary>
+    Over 2 millioner danskere ser med, når Dronningen holder sin traditionsrige nytårstale. Sarah Elgaard og Mette Strange Mortensen får hjælp af rådgivende retoriker, stemmetræner og speaker Thore Keitum Fisker til at dissekere Dronningens sprog.
+   </itunes:summary>
+   <itunes:duration>
+    3211
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Sprog i børnehøjde
+   </title>
+   <link>
+    https://www.spreaker.com/episode/sprog-i-bornehojde--48022170
+   </link>
+   <description>
+    Hvordan hjælper man bedst sit barn til at lære at bruge sproget? Og hvilken betydning har sprogtilegnelse i en tidlig alder for et barns fremtid? Børnesprogsforskere Laila Kjærbæk og Ditte Boeg Thomsen har svaret i denne uges Ordkløver med værter Sarah Elgaard og Mette Strange Mortensen.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48022170
+   </guid>
+   <pubDate>
+    Fri, 24 Dec 2021 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51475479" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48022170/sprog_i_b_rneh_jde.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvordan hjælper man bedst sit barn til at lære at bruge sproget? Og hvilken betydning har sprogtilegnelse i en tidlig alder for et barns fremtid? Børnesprogsforskere Laila Kjærbæk og Ditte Boeg Thomsen har svaret i denne uges Ordkløver med værter...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvordan hjælper man bedst sit barn til at lære at bruge sproget? Og hvilken betydning har sprogtilegnelse i en tidlig alder for et barns fremtid? Børnesprogsforskere Laila Kjærbæk og Ditte Boeg Thomsen har svaret i denne uges Ordkløver med værter Sarah Elgaard og Mette Strange Mortensen.
+   </itunes:summary>
+   <itunes:duration>
+    3214
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    g4merspr0g
+   </title>
+   <link>
+    https://www.spreaker.com/episode/g4merspr0g--47923019
+   </link>
+   <description>
+    Gaming er en kæmpe industri og har sit helt eget sprog. Det kan være uforståeligt for udefrakommende og derfor har Mette Strange Mortensen og Sarah Elgaard besøg af Daniel Møgelhøj fra GameBoys, der gør os meget klogere på gamingsprog.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47923019
+   </guid>
+   <pubDate>
+    Fri, 17 Dec 2021 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51488018" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47923019/g4merspr0g.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Gaming er en kæmpe industri og har sit helt eget sprog. Det kan være uforståeligt for udefrakommende og derfor har Mette Strange Mortensen og Sarah Elgaard besøg af Daniel Møgelhøj fra GameBoys, der gør os meget klogere på gamingsprog.
+   </itunes:subtitle>
+   <itunes:summary>
+    Gaming er en kæmpe industri og har sit helt eget sprog. Det kan være uforståeligt for udefrakommende og derfor har Mette Strange Mortensen og Sarah Elgaard besøg af Daniel Møgelhøj fra GameBoys, der gør os meget klogere på gamingsprog.
+   </itunes:summary>
+   <itunes:duration>
+    3214
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,samfund,sprog
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Troldene kommer
+   </title>
+   <link>
+    https://www.spreaker.com/episode/troldene-kommer--47838843
+   </link>
+   <description>
+    Hvordan bruger troldene sproget til at afspore debatten på internettet? I dette afsnit kløver Mette Strange Mortensen og Sarah Elgaard sig igennem sproget omkring trolling. Til at hjælpe med det har de besøg af Katrine Emme Thielke, digital kommunikationsrådgiver.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47838843
+   </guid>
+   <pubDate>
+    Fri, 10 Dec 2021 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51470464" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47838843/trolling.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvordan bruger troldene sproget til at afspore debatten på internettet? I dette afsnit kløver Mette Strange Mortensen og Sarah Elgaard sig igennem sproget omkring trolling. Til at hjælpe med det har de besøg af Katrine Emme Thielke, digital...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvordan bruger troldene sproget til at afspore debatten på internettet? I dette afsnit kløver Mette Strange Mortensen og Sarah Elgaard sig igennem sproget omkring trolling. Til at hjælpe med det har de besøg af Katrine Emme Thielke, digital kommunikationsrådgiver.
+   </itunes:summary>
+   <itunes:duration>
+    3213
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Hvornår er et ord nyt?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/hvornar-er-et-ord-nyt--47733514
+   </link>
+   <description>
+    I dette afsnit kigger Mette Strange Mortensen og Sarah Elgaard på Dansk Sprognævns ordbog Nye Ord i Dansk fra 1955 til nu. De bliver sammen klogere på, hvorfor der er brug for en ordbog over nye ord i dansk, og hvorfor ord som “vildmarksbad” og “catcalle” er med.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47733514
+   </guid>
+   <pubDate>
+    Fri, 03 Dec 2021 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51277784" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47733514/nye_ord.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I dette afsnit kigger Mette Strange Mortensen og Sarah Elgaard på Dansk Sprognævns ordbog Nye Ord i Dansk fra 1955 til nu. De bliver sammen klogere på, hvorfor der er brug for en ordbog over nye ord i dansk, og hvorfor ord som “vildmarksbad” og...
+   </itunes:subtitle>
+   <itunes:summary>
+    I dette afsnit kigger Mette Strange Mortensen og Sarah Elgaard på Dansk Sprognævns ordbog Nye Ord i Dansk fra 1955 til nu. De bliver sammen klogere på, hvorfor der er brug for en ordbog over nye ord i dansk, og hvorfor ord som “vildmarksbad” og “catcalle” er med.
+   </itunes:summary>
+   <itunes:duration>
+    3201
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Demokratiets sprog
+   </title>
+   <link>
+    https://www.spreaker.com/episode/demokratiets-sprog--47626311
+   </link>
+   <description>
+    Hvordan taler en politiker? I dette afsnit kløver Mette Strange Mortensen og Sarah Elgaard sig igennem politikersprog. Til at gøre dette har de besøg af Malte Mathies Løcke, byrådsmedlem i Frederiksberg Kommune.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47626311
+   </guid>
+   <pubDate>
+    Fri, 26 Nov 2021 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51426996" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47626311/politikersprog.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvordan taler en politiker? I dette afsnit kløver Mette Strange Mortensen og Sarah Elgaard sig igennem politikersprog. Til at gøre dette har de besøg af Malte Mathies Løcke, byrådsmedlem i Frederiksberg Kommune.
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvordan taler en politiker? I dette afsnit kløver Mette Strange Mortensen og Sarah Elgaard sig igennem politikersprog. Til at gøre dette har de besøg af Malte Mathies Løcke, byrådsmedlem i Frederiksberg Kommune.
+   </itunes:summary>
+   <itunes:duration>
+    3211
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Et meme siger mere end 1000 ord
+   </title>
+   <link>
+    https://www.spreaker.com/episode/et-meme-siger-mere-end-1000-ord--47514642
+   </link>
+   <description>
+    Memes fylder mere og mere på internettet og sociale medier, men hvad er det egentlig memes kan. Til at snakke om dette har Mette Strange Mortensen og Sarah Elgaard besøg af Sebastian Lynggaard, som laver memes på Instagram under pseudonymet Herlige Svend.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47514642
+   </guid>
+   <pubDate>
+    Fri, 19 Nov 2021 05:00:09 +0000
+   </pubDate>
+   <enclosure length="51440370" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47514642/et_meme_siger_mere_end_1000_ord.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Memes fylder mere og mere på internettet og sociale medier, men hvad er det egentlig memes kan. Til at snakke om dette har Mette Strange Mortensen og Sarah Elgaard besøg af Sebastian Lynggaard, som laver memes på Instagram under pseudonymet Herlige Svend.
+   </itunes:subtitle>
+   <itunes:summary>
+    Memes fylder mere og mere på internettet og sociale medier, men hvad er det egentlig memes kan. Til at snakke om dette har Mette Strange Mortensen og Sarah Elgaard besøg af Sebastian Lynggaard, som laver memes på Instagram under pseudonymet Herlige Svend.
+   </itunes:summary>
+   <itunes:duration>
+    3211
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Lyden af gaden
+   </title>
+   <link>
+    https://www.spreaker.com/episode/lyden-af-gaden--47397588
+   </link>
+   <description>
+    Siger hajde, shabab eller oha dig noget? Hvis ikke, kan det være du skal have genopfrisket dit gadedanske! Dagens gæst Tobias Cadin er forfatter til Gadedansk Ordbogen, der fortæller om arbejdet med bogen og hvordan gadedansk har udviklet sig de sidste 10 år. Dine værter er Mette Strange Mortensen og Sarah Elgaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47397588
+   </guid>
+   <pubDate>
+    Fri, 12 Nov 2021 05:00:06 +0000
+   </pubDate>
+   <enclosure length="51444968" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47397588/gadedansk_fin.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Siger hajde, shabab eller oha dig noget? Hvis ikke, kan det være du skal have genopfrisket dit gadedanske! Dagens gæst Tobias Cadin er forfatter til Gadedansk Ordbogen, der fortæller om arbejdet med bogen og hvordan gadedansk har udviklet sig de...
+   </itunes:subtitle>
+   <itunes:summary>
+    Siger hajde, shabab eller oha dig noget? Hvis ikke, kan det være du skal have genopfrisket dit gadedanske! Dagens gæst Tobias Cadin er forfatter til Gadedansk Ordbogen, der fortæller om arbejdet med bogen og hvordan gadedansk har udviklet sig de sidste 10 år. Dine værter er Mette Strange Mortensen og Sarah Elgaard
+   </itunes:summary>
+   <itunes:duration>
+    3212
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,gadedansk,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Når ord synger
+   </title>
+   <link>
+    https://www.spreaker.com/episode/nar-ord-synger--47279394
+   </link>
+   <description>
+    I anledning af den årlige Spil Dansk Uge er Ordkløver denne gang dedikeret til de danske musikere, der spiller sig ind i vores hjerter og giver os gåsehud og tårer i øjnene eller får os til at give den max gas på dansegulvet. For at dissekere den danske sang har vi besøg af sanger og sangskriver Pil Jeppesen. Dine værter er som altid Sarah Elgaard og Mette Strange Mortensen.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47279394
+   </guid>
+   <pubDate>
+    Fri, 05 Nov 2021 05:00:16 +0000
+   </pubDate>
+   <enclosure length="51426578" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47279394/sangsprog.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I anledning af den årlige Spil Dansk Uge er Ordkløver denne gang dedikeret til de danske musikere, der spiller sig ind i vores hjerter og giver os gåsehud og tårer i øjnene eller får os til at give den max gas på dansegulvet. For at dissekere den...
+   </itunes:subtitle>
+   <itunes:summary>
+    I anledning af den årlige Spil Dansk Uge er Ordkløver denne gang dedikeret til de danske musikere, der spiller sig ind i vores hjerter og giver os gåsehud og tårer i øjnene eller får os til at give den max gas på dansegulvet. For at dissekere den danske sang har vi besøg af sanger og sangskriver Pil Jeppesen. Dine værter er som altid Sarah Elgaard og Mette Strange Mortensen.
+   </itunes:summary>
+   <itunes:duration>
+    3211
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Mums! Det er reality!
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mums-det-er-reality--47177964
+   </link>
+   <description>
+    Mange af os kender minimum et udtryk fra reality-tv som Paradise Hotel eller Ex on the Beach, og faktisk fylder reality-tv så meget i unges bevidsthed, at forskere bruger det til at undersøge, hvordan unge mennesker snakker. Mette Strange Mortensen og Sarah Elgaard snakker i dette afsnit sammen med paradiso Sinan Turkmën om reality-tv og sprog.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47177964
+   </guid>
+   <pubDate>
+    Fri, 29 Oct 2021 04:00:17 +0000
+   </pubDate>
+   <enclosure length="49339708" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47177964/mums_det_er_reality.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Mange af os kender minimum et udtryk fra reality-tv som Paradise Hotel eller Ex on the Beach, og faktisk fylder reality-tv så meget i unges bevidsthed, at forskere bruger det til at undersøge, hvordan unge mennesker snakker. Mette Strange Mortensen og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Mange af os kender minimum et udtryk fra reality-tv som Paradise Hotel eller Ex on the Beach, og faktisk fylder reality-tv så meget i unges bevidsthed, at forskere bruger det til at undersøge, hvordan unge mennesker snakker. Mette Strange Mortensen og Sarah Elgaard snakker i dette afsnit sammen med paradiso Sinan Turkmën om reality-tv og sprog.
+   </itunes:summary>
+   <itunes:duration>
+    3080
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Han, hun og hen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/han-hun-og-hen--47046704
+   </link>
+   <description>
+    De/dem, Hun/hende, Han/ham, Hen/Hens er bare nogle af de personlige pronominer, der bliver brugt på dansk. Sarah Elgaard og Mette Strange Mortensen ser sammen med Rei Mansa på sprog om mennesker, der ikke lige passer ind i kasserne “mand” og “kvinde”.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47046704
+   </guid>
+   <pubDate>
+    Fri, 22 Oct 2021 04:00:04 +0000
+   </pubDate>
+   <enclosure length="77094144" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47046704/han_hun_og_hen.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    De/dem, Hun/hende, Han/ham, Hen/Hens er bare nogle af de personlige pronominer, der bliver brugt på dansk. Sarah Elgaard og Mette Strange Mortensen ser sammen med Rei Mansa på sprog om mennesker, der ikke lige passer ind i kasserne “mand” og “kvinde”.
+   </itunes:subtitle>
+   <itunes:summary>
+    De/dem, Hun/hende, Han/ham, Hen/Hens er bare nogle af de personlige pronominer, der bliver brugt på dansk. Sarah Elgaard og Mette Strange Mortensen ser sammen med Rei Mansa på sprog om mennesker, der ikke lige passer ind i kasserne “mand” og “kvinde”.
+   </itunes:summary>
+   <itunes:duration>
+    3210
+   </itunes:duration>
+   <itunes:keywords>
+    forskning,kultur,ord,sprog,underholdning
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ace58c90572a834c03e67655191a08.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

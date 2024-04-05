@@ -1,74 +1,265 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>De unge ved verdens ende</title>
-		<link>https://web.24syv.dk/channels/4921</link>
-		<description>Det er de færreste, som har en idé om, hvilket liv den unge grønlænder lever. Men i dette program kan du få et øjebliksbillede på den grønlandske ungdom, når Christian Ulloriaq Jeppesen gennem 5 episoder vil snakke med nogle stærke, intelligente og seje grønlændere, som alle giver deres besyv på ungdomslivet i Grønland, om de fordomme man møder og om fremtidens Grønland. For fremtidens Grønland er et ukendt territorie, men med de unge grønlændere ved roret, tegner det alligevel til en lys fremtid.De Unge Ved Verdens Ende er en del af LOUD TALENT</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/759/54c77aba2c4a08ecdb3625c5818115bc.jpg"/>
-		<item>
-			<title>Josef Tarrak – Den grønlandske rapstjerne</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40812185/deungevedverdensende_ep1fixet.mp3</link>
-			<description>Christian snakker i dette afsnit med den grønlandske rapper, Josef Tarrak, om hans musik, om fordomme og om, hvordan livet som ung grønlænder er. 
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   De Unge Ved Verdens Ende
+  </title>
+  <link>
+   https://loud.land/podcast/de-unge-ved-verdens-ende
+  </link>
+  <description>
+   Det er de færreste, som har en idé om, hvilket liv den unge grønlænder lever. Men i dette program kan du få et øjebliksbillede på den grønlandske ungdom, når Christian Ulloriaq Jeppesen gennem 5 episoder vil snakke med nogle stærke, intelligente og seje grønlændere, som alle giver deres besyv på ungdomslivet i Grønland, om de fordomme man møder og om fremtidens Grønland. For fremtidens Grønland er et ukendt territorie, men med de unge grønlændere ved roret, tegner det alligevel til en lys fremtid.&lt;br /&gt;&lt;br /&gt;De Unge Ved Verdens Ende er en del af LOUD TALENT
+  </description>
+  <atom:link href="https://www.spreaker.com/show/4651931/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Personal Journals
+  </category>
+  <copyright>
+   521943
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/54c77aba2c4a08ecdb3625c5818115bc.jpg
+   </url>
+   <title>
+    De Unge Ved Verdens Ende
+   </title>
+   <link>
+    https://loud.land/podcast/de-unge-ved-verdens-ende
+   </link>
+  </image>
+  <lastBuildDate>
+   Fri, 01 Dec 2023 22:23:21 +0000
+  </lastBuildDate>
+  <itunes:author>
+   LOUD
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    LOUD
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/54c77aba2c4a08ecdb3625c5818115bc.jpg"/>
+  <itunes:subtitle>
+   En række stærke, intelligente og seje grønlændere, giver deres besyv på ungdomslivet i Grønland. For fremtidens Grønland er et ukendt territorie, men med de unge grønlændere ved roret, tegner det alligevel til en lys fremtid.
+  </itunes:subtitle>
+  <itunes:summary>
+   Det er de færreste, som har en idé om, hvilket liv den unge grønlænder lever. Men i dette program kan du få et øjebliksbillede på den grønlandske ungdom, når Christian Ulloriaq Jeppesen gennem 5 episoder vil snakke med nogle stærke, intelligente og seje grønlændere, som alle giver deres besyv på ungdomslivet i Grønland, om de fordomme man møder og om fremtidens Grønland. For fremtidens Grønland er et ukendt territorie, men med de unge grønlændere ved roret, tegner det alligevel til en lys fremtid.&lt;br /&gt;&lt;br /&gt;De Unge Ved Verdens Ende er en del af LOUD TALENT
+  </itunes:summary>
+  <itunes:category text="Society &amp; Culture">
+   <itunes:category text="Personal Journals"/>
+  </itunes:category>
+  <itunes:category text="Society &amp; Culture"/>
+  <itunes:category text="Society &amp; Culture">
+   <itunes:category text="Places &amp; Travel"/>
+  </itunes:category>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    Aki-Matilda Høegh Dam – Den grønlandske folketingspolitiker
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/deungevedverdensende-ep5fixet
+   </link>
+   <description>
+    I dette femte, og sidste, afsnit kommer du til at møde den yngste politiker, der sidder i Folketinget. Det er den 23-årige grønlandske politiker, Aki-Matilda Høegh Dam. Hvordan ender man, som ung politiker fra Grønland, i Folketinget, og hvordan kan fremtidens Grønland se ud, og hvad vi skal gøre, for at udvikle os som samfund.&lt;br /&gt;&lt;br /&gt;Gæst: Aki-Matilda Høegh Dam&lt;br /&gt;Vært: Christian Jeppesen&lt;br /&gt;Redaktion: Christian Jeppesen og Iluuna Heilmann
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/41341459
+   </guid>
+   <pubDate>
+    Sat, 10 Oct 2020 04:00:13 +0000
+   </pubDate>
+   <enclosure length="52812067" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41341459/deungevedverdensende_ep5fixet.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    I dette femte, og sidste, afsnit kommer du til at møde den yngste politiker, der sidder i Folketinget. Det er den 23-årige grønlandske politiker, Aki-Matilda Høegh Dam. Hvordan ender man, som ung politiker fra Grønland, i Folketinget, og hvordan kan...
+   </itunes:subtitle>
+   <itunes:summary>
+    I dette femte, og sidste, afsnit kommer du til at møde den yngste politiker, der sidder i Folketinget. Det er den 23-årige grønlandske politiker, Aki-Matilda Høegh Dam. Hvordan ender man, som ung politiker fra Grønland, i Folketinget, og hvordan kan fremtidens Grønland se ud, og hvad vi skal gøre, for at udvikle os som samfund.&lt;br /&gt;&lt;br /&gt;Gæst: Aki-Matilda Høegh Dam&lt;br /&gt;Vært: Christian Jeppesen&lt;br /&gt;Redaktion: Christian Jeppesen og Iluuna Heilmann
+   </itunes:summary>
+   <itunes:duration>
+    3301
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6a30c3c257696d186e78b9025868ecf4.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Seqininnguaq Poulsen – Den unge rettighedskæmper
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/deungevedverdensende-ep4
+   </link>
+   <description>
+    Seqininnguaq Poulsen er kun 18 år gammel, men hun har allerede udviklet sig til en stor stemme i kampen for de oprindelige folks rettigheder. Hun har været med til at skrive en bog om oprindelige folk, som blev præsenteret på FN’s hovedkontor i New York. Hun har også være repræsentant for Grønland til topmøde for oprindelige folk, kaldet Arctic Leaders Youth Summit Udover alt dette er hun også forkvinde for LGBT Greenland, som er med til at kæmpe for de seksuelle minoriteters rettigheder i Grønland. &lt;br /&gt;&lt;br /&gt;Vært: Christian Jeppesen&lt;br /&gt;Gæst: Seqininnguaq Poulsen&lt;br /&gt;Redaktion: Christian Jeppesen og Iluuna Heilmann
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/41221512
+   </guid>
+   <pubDate>
+    Sat, 03 Oct 2020 04:00:10 +0000
+   </pubDate>
+   <enclosure length="52793492" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41221512/deungevedverdensende_ep4.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Seqininnguaq Poulsen er kun 18 år gammel, men hun har allerede udviklet sig til en stor stemme i kampen for de oprindelige folks rettigheder. Hun har været med til at skrive en bog om oprindelige folk, som blev præsenteret på FN’s hovedkontor i New...
+   </itunes:subtitle>
+   <itunes:summary>
+    Seqininnguaq Poulsen er kun 18 år gammel, men hun har allerede udviklet sig til en stor stemme i kampen for de oprindelige folks rettigheder. Hun har været med til at skrive en bog om oprindelige folk, som blev præsenteret på FN’s hovedkontor i New York. Hun har også være repræsentant for Grønland til topmøde for oprindelige folk, kaldet Arctic Leaders Youth Summit Udover alt dette er hun også forkvinde for LGBT Greenland, som er med til at kæmpe for de seksuelle minoriteters rettigheder i Grønland. &lt;br /&gt;&lt;br /&gt;Vært: Christian Jeppesen&lt;br /&gt;Gæst: Seqininnguaq Poulsen&lt;br /&gt;Redaktion: Christian Jeppesen og Iluuna Heilmann
+   </itunes:summary>
+   <itunes:duration>
+    3300
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c76f1be694a56b02ac032e930ee69ccd.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Fra Narsarsuaq til Oklahoma – Modsætninger Mødes
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/de-unge-ved-verdens-ende-ep3
+   </link>
+   <description>
+    Denne gang ændrer vi lidt på opskriften. I dette afsnit kommer du nemlig til at møde to unge grønlændere, som har valgt at bruge deres ungdomsliv i to vidt forskellige byer. Min første gæst hedder Ole Hjorth og er AFIS-operatør og bor i bygden Narsarsuaq med 100 indbygger. Som en kontrast bor min anden gæst, Mick Christensen, i en by i staten Oklahoma, en stat med 4 millioner indbyggere. Hvordan er det at bo to så vidt forskellige steder?&lt;br /&gt;&lt;br /&gt;Vært: Christian Jeppesen&lt;br /&gt;Gæster: Ole Hjorth og Mick Christensen&lt;br /&gt;&lt;br /&gt;Redaktion: Christian Jeppesen og Iluuna Heilmann
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/41097089
+   </guid>
+   <pubDate>
+    Sat, 26 Sep 2020 04:00:02 +0000
+   </pubDate>
+   <enclosure length="52772086" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41097089/de_unge_ved_verdens_ende_ep3.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Denne gang ændrer vi lidt på opskriften. I dette afsnit kommer du nemlig til at møde to unge grønlændere, som har valgt at bruge deres ungdomsliv i to vidt forskellige byer. Min første gæst hedder Ole Hjorth og er AFIS-operatør og bor i bygden...
+   </itunes:subtitle>
+   <itunes:summary>
+    Denne gang ændrer vi lidt på opskriften. I dette afsnit kommer du nemlig til at møde to unge grønlændere, som har valgt at bruge deres ungdomsliv i to vidt forskellige byer. Min første gæst hedder Ole Hjorth og er AFIS-operatør og bor i bygden Narsarsuaq med 100 indbygger. Som en kontrast bor min anden gæst, Mick Christensen, i en by i staten Oklahoma, en stat med 4 millioner indbyggere. Hvordan er det at bo to så vidt forskellige steder?&lt;br /&gt;&lt;br /&gt;Vært: Christian Jeppesen&lt;br /&gt;Gæster: Ole Hjorth og Mick Christensen&lt;br /&gt;&lt;br /&gt;Redaktion: Christian Jeppesen og Iluuna Heilmann
+   </itunes:summary>
+   <itunes:duration>
+    3299
+   </itunes:duration>
+   <itunes:keywords>
+    grønland,talent,unge
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3796f05d1622d1acdab8b089e7049c81.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Alberte Parnuuna – en grønlandsk filmskaber
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/de-unge-ved-verdens-ende-ep2
+   </link>
+   <description>
+    I dette andet afsnit snakker jeg med den grønlandske filmskaber, Alberte Parnuuna. Vi skal blandt andet snakke om, hvordan man bliver filmskaber i et land som Grønland og, hvad der inspirerer hende. Vi snakker også om, hvordan man bliver mødt med fordomme både i Grønland og Danmark, baseret på, hvor lys i huden man er. En særlig tak skal lyde til musikduoen IVÀ, bestående af Josef Tarrak og Gustav Lynge Petrussen, for at vi må bruge sangen Ajunng’ i programmet.&lt;br /&gt;&lt;br /&gt;Vært: Christian Jeppesen&lt;br /&gt;Gæst: Alberte Parnuuna&lt;br /&gt;Redaktion: Christian Jeppesen og Iluuna Heilmann
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/40928842
+   </guid>
+   <pubDate>
+    Fri, 18 Sep 2020 06:40:09 +0000
+   </pubDate>
+   <enclosure length="52791587" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40928842/de_unge_ved_verdens_ende_ep2.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    I dette andet afsnit snakker jeg med den grønlandske filmskaber, Alberte Parnuuna. Vi skal blandt andet snakke om, hvordan man bliver filmskaber i et land som Grønland og, hvad der inspirerer hende. Vi snakker også om, hvordan man bliver mødt med...
+   </itunes:subtitle>
+   <itunes:summary>
+    I dette andet afsnit snakker jeg med den grønlandske filmskaber, Alberte Parnuuna. Vi skal blandt andet snakke om, hvordan man bliver filmskaber i et land som Grønland og, hvad der inspirerer hende. Vi snakker også om, hvordan man bliver mødt med fordomme både i Grønland og Danmark, baseret på, hvor lys i huden man er. En særlig tak skal lyde til musikduoen IVÀ, bestående af Josef Tarrak og Gustav Lynge Petrussen, for at vi må bruge sangen Ajunng’ i programmet.&lt;br /&gt;&lt;br /&gt;Vært: Christian Jeppesen&lt;br /&gt;Gæst: Alberte Parnuuna&lt;br /&gt;Redaktion: Christian Jeppesen og Iluuna Heilmann
+   </itunes:summary>
+   <itunes:duration>
+    3300
+   </itunes:duration>
+   <itunes:keywords>
+    grønland,nyt,talent,ungdom,unge
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d6c8c55e82ec7405e8bd609c0758b74f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Josef Tarrak – Den grønlandske rapstjerne
+   </title>
+   <link>
+    https://www.spreaker.com/user/radiolouddk/de-unge-ved-verdens-ende-ep1
+   </link>
+   <description>
+    Christian snakker i dette afsnit med den grønlandske rapper, Josef Tarrak, om hans musik, om fordomme og om, hvordan livet som ung grønlænder er. &lt;br /&gt;&lt;br /&gt;Hvordan ser ungdommen ud i Grønland? Det er de færreste, som har en idé om, hvilket liv den unge grønlænder lever. Men i dette program kan du få et øjebliksbillede på den grønlandske ungdom, når jeg, Christian Ulloriaq Jeppesen, gennem 5 episoder vil snakke med nogle stærke, intelligente og seje grønlændere, som alle giver deres besyv på ungdomslivet i Grønland, om de fordomme man møder og om fremtidens Grønland. For fremtidens Grønland er et ukendt territorie, men med de unge grønlændere ved roret, tegner det alligevel til en lys fremtid.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/40812185
+   </guid>
+   <pubDate>
+    Fri, 11 Sep 2020 23:00:16 +0000
+   </pubDate>
+   <enclosure length="51313266" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40812185/deungevedverdensende_ep1fixet.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Christian snakker i dette afsnit med den grønlandske rapper, Josef Tarrak, om hans musik, om fordomme og om, hvordan livet som ung grønlænder er. 
 
-Hvordan ser ungdommen ud i Grønland? Det er de færreste, som har en idé om, hvilket liv den unge grønlænder lever. Men i dette program kan du få et øjebliksbillede på den grønlandske ungdom, når jeg, Christian Ulloriaq Jeppesen, gennem 5 episoder vil snakke med nogle stærke, intelligente og seje grønlændere, som alle giver deres besyv på ungdomslivet i Grønland, om de fordomme man møder og om fremtidens Grønland. For fremtidens Grønland er et ukendt territorie, men med de unge grønlændere ved roret, tegner det alligevel til en lys fremtid.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40812185/deungevedverdensende_ep1fixet.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:05:16 +0000</pubDate>
-			<itunes:duration>00:53:27</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40812185/deungevedverdensende_ep1fixet.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Alberte Parnuuna – en grønlandsk filmskaber</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40928842/de_unge_ved_verdens_ende_ep2.mp3</link>
-			<description>I dette andet afsnit snakker jeg med den grønlandske filmskaber, Alberte Parnuuna. Vi skal blandt andet snakke om, hvordan man bliver filmskaber i et land som Grønland og, hvad der inspirerer hende. Vi snakker også om, hvordan man bliver mødt med fordomme både i Grønland og Danmark, baseret på, hvor lys i huden man er. En særlig tak skal lyde til musikduoen IVÀ, bestående af Josef Tarrak og Gustav Lynge Petrussen, for at vi må bruge sangen Ajunng’ i programmet.
-
-Vært: Christian Jeppesen
-Gæst: Alberte Parnuuna
-Redaktion: Christian Jeppesen og Iluuna Heilmann</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40928842/de_unge_ved_verdens_ende_ep2.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:05:15 +0000</pubDate>
-			<itunes:duration>00:54:59</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40928842/de_unge_ved_verdens_ende_ep2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fra Narsarsuaq til Oklahoma – Modsætninger Mødes</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41097089/de_unge_ved_verdens_ende_ep3.mp3</link>
-			<description>Denne gang ændrer vi lidt på opskriften. I dette afsnit kommer du nemlig til at møde to unge grønlændere, som har valgt at bruge deres ungdomsliv i to vidt forskellige byer. Min første gæst hedder Ole Hjorth og er AFIS-operatør og bor i bygden Narsarsuaq med 100 indbygger. Som en kontrast bor min anden gæst, Mick Christensen, i en by i staten Oklahoma, en stat med 4 millioner indbyggere. Hvordan er det at bo to så vidt forskellige steder?
-
-Vært: Christian Jeppesen
-Gæster: Ole Hjorth og Mick Christensen
-
-Redaktion: Christian Jeppesen og Iluuna Heilmann</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41097089/de_unge_ved_verdens_ende_ep3.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:05:15 +0000</pubDate>
-			<itunes:duration>00:54:58</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41097089/de_unge_ved_verdens_ende_ep3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Seqininnguaq Poulsen – Den unge rettighedskæmper</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41221512/deungevedverdensende_ep4.mp3</link>
-			<description>Seqininnguaq Poulsen er kun 18 år gammel, men hun har allerede udviklet sig til en stor stemme i kampen for de oprindelige folks rettigheder. Hun har været med til at skrive en bog om oprindelige folk, som blev præsenteret på FN’s hovedkontor i New York. Hun har også være repræsentant for Grønland til topmøde for oprindelige folk, kaldet Arctic Leaders Youth Summit Udover alt dette er hun også forkvinde for LGBT Greenland, som er med til at kæmpe for de seksuelle minoriteters rettigheder i Grønland. 
-
-Vært: Christian Jeppesen
-Gæst: Seqininnguaq Poulsen
-Redaktion: Christian Jeppesen og Iluuna Heilmann</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41221512/deungevedverdensende_ep4.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:05:15 +0000</pubDate>
-			<itunes:duration>00:54:59</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41221512/deungevedverdensende_ep4.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Aki-Matilda Høegh Dam – Den grønlandske folketingspolitiker</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41341459/deungevedverdensende_ep5fixet.mp3</link>
-			<description>I dette femte, og sidste, afsnit kommer du til at møde den yngste politiker, der sidder i Folketinget. Det er den 23-årige grønlandske politiker, Aki-Matilda Høegh Dam. Hvordan ender man, som ung politiker fra Grønland, i Folketinget, og hvordan kan fremtidens Grønland se ud, og hvad vi skal gøre, for at udvikle os som samfund.
-
-Gæst: Aki-Matilda Høegh Dam
-Vært: Christian Jeppesen
-Redaktion: Christian Jeppesen og Iluuna Heilmann</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41341459/deungevedverdensende_ep5fixet.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:05:15 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41341459/deungevedverdensende_ep5fixet.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+Hvordan ser ungdommen ud i Grønland? Det er de færreste, som har en idé om, hvilket liv den unge...
+   </itunes:subtitle>
+   <itunes:summary>
+    Christian snakker i dette afsnit med den grønlandske rapper, Josef Tarrak, om hans musik, om fordomme og om, hvordan livet som ung grønlænder er. &lt;br /&gt;&lt;br /&gt;Hvordan ser ungdommen ud i Grønland? Det er de færreste, som har en idé om, hvilket liv den unge grønlænder lever. Men i dette program kan du få et øjebliksbillede på den grønlandske ungdom, når jeg, Christian Ulloriaq Jeppesen, gennem 5 episoder vil snakke med nogle stærke, intelligente og seje grønlændere, som alle giver deres besyv på ungdomslivet i Grønland, om de fordomme man møder og om fremtidens Grønland. For fremtidens Grønland er et ukendt territorie, men med de unge grønlændere ved roret, tegner det alligevel til en lys fremtid.
+   </itunes:summary>
+   <itunes:duration>
+    3208
+   </itunes:duration>
+   <itunes:keywords>
+    danmark,grønland,nyt,talent,unge,uprøvet
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/54c77aba2c4a08ecdb3625c5818115bc.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

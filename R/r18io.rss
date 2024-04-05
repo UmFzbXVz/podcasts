@@ -1,118 +1,530 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>R18io</title>
-		<link>https://web.24syv.dk/channels/5147</link>
-		<description>Det er satire. Det er ungt. Det er ung satire med grafitti og ollie.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/992/r18io_ny.png"/>
-		<item>
-			<title>Afsnit 12- CEO Lars lukker programmet.</title>
-			<link>https://api.spreaker.com/download/episode/56211474/r18io_del_12.mp3</link>
-			<description>Endelig fik Marcus en teenager i studiet. Freja. Men Marcus får at vide programmet lukker. Er det akavet? Ja. Hvad gør Marcus nu? Ingen ved det. Vært: Marcus Eklund</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56211474/r18io_del_12.mp3</guid>
-			<pubDate>Tue, 25 Jul 2023 12:30:35 +0000</pubDate>
-			<itunes:duration>00:53:56</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56211474/r18io_del_12.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Afsnit 11 - SoMe strategier!</title>
-			<link>https://api.spreaker.com/download/episode/56198425/r18io_del_11.mp3</link>
-			<description>Marcus prøver at overtale SoMe om at lave noget content til programmet. Virker det? Nej. Programmet bliver bedre. Ifølge Marcus altså. Vært: Marcus Eklund</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56198425/r18io_del_11.mp3</guid>
-			<pubDate>Mon, 24 Jul 2023 12:25:13 +0000</pubDate>
-			<itunes:duration>00:53:53</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56198425/r18io_del_11.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Afsnit 10 - Programmet er åbenbart en skændsel? Marcus knækker</title>
-			<link>https://api.spreaker.com/download/episode/56176266/r18io_del_10.mp3</link>
-			<description>Marcus knækker fuldstændig. Nyhedsredaktør Mille Ørsted giver efterkritik. Der har aldrig været så nedtrykt stemning i studiet. Telefonfis er ungdommeligt. fungerer det? Nej. Vært: Marcus Eklund</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56176266/r18io_del_10.mp3</guid>
-			<pubDate>Fri, 21 Jul 2023 12:24:14 +0000</pubDate>
-			<itunes:duration>00:53:56</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56176266/r18io_del_10.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Afsnit 9 - Marcus bliver overrumplet af kollegaer</title>
-			<link>https://api.spreaker.com/download/episode/56166388/r18io_del_9.mp3</link>
-			<description>En løve er på fri fod i Berlin. Erotika noveller er det nye sort. Marcus giver teenagerne dagens nyheder. PAS PÅ NEDFALDNEKATTE! Studiet bliver fyldt af kollegaer der alle vil komme til orde. Vært: Marcus Eklund</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56166388/r18io_del_9.mp3</guid>
-			<pubDate>Thu, 20 Jul 2023 12:13:45 +0000</pubDate>
-			<itunes:duration>00:53:58</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56166388/r18io_del_9.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Afsnit 8 - Marcus får efterkritik</title>
-			<link>https://api.spreaker.com/download/episode/56153455/r18io_del_8.mp3</link>
-			<description>Nu begynder puslespillet at gå op. Marcus begynder at forstå hvorfor programmet ikke fungere. Han er demotiveret. Marcus får en spændende oplysning som ændrer alt. Efterkritikken fungere ikke. Surprise. Vært: Marcus Eklund</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56153455/r18io_del_8.mp3</guid>
-			<pubDate>Wed, 19 Jul 2023 12:21:40 +0000</pubDate>
-			<itunes:duration>00:53:55</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56153455/r18io_del_8.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Afsnit 7 - Der skal musik i programmet</title>
-			<link>https://api.spreaker.com/download/episode/56137736/r18io_del_7.mp3</link>
-			<description>Marcus har en musikekspert i studiet. Der skal musik til teenagerne. Hvad er god musik for dem? Det finder vi aldrig ud af. Marcus vil bare gerne have selsskab i studiet. Husk det satire. Vært: Marcus Eklund</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56137736/r18io_del_7.mp3</guid>
-			<pubDate>Tue, 18 Jul 2023 12:20:44 +0000</pubDate>
-			<itunes:duration>00:53:54</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56137736/r18io_del_7.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Afsnit 6 - Marcus har fået voksenskældud</title>
-			<link>https://api.spreaker.com/download/episode/56126323/r18io_del_6.mp3</link>
-			<description>NU ER ENERGIEN DER. Eller ikke. Marcus har været til møde med sine chefer. De er ikke glade. Han skal få energien op i programmet. Marcus tror han får hjælp af kollegaerne, Cecilie og Agnes. Det gør han ikke. Bliver programmet bedre? Måske. Vært: Marcus Eklund</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56126323/r18io_del_6.mp3</guid>
-			<pubDate>Mon, 17 Jul 2023 12:21:45 +0000</pubDate>
-			<itunes:duration>00:53:51</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56126323/r18io_del_6.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Afsnit 5 - Der skal nyheder ind i programmet!</title>
-			<link>https://api.spreaker.com/download/episode/56101132/r18io_del_5.mp3</link>
-			<description>Marcus prøver at få nyheder til teenagere med i programmet. Han kalder på nyhedsspeaker Roxanna. Hun giver ikke nyheder til teenagere...Cecilie kommer igen ind i programmet for at gøre det bedre. Det bliver ikke bedre. Vært: Marcus Eklund</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56101132/r18io_del_5.mp3</guid>
-			<pubDate>Fri, 14 Jul 2023 12:58:40 +0000</pubDate>
-			<itunes:duration>00:53:57</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56101132/r18io_del_5.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Afsnit 4 - Marcus har været &quot;syg&quot;</title>
-			<link>https://api.spreaker.com/download/episode/56086829/r18io.mp3</link>
-			<description>Er det det dårligste afsnit til dato? Ja. Går Marcus med teenageren Oscar og køber PRIME læskedrik imens de sender live? Ja. Smager de forfærdeligt? Ja. Er stjernetegn teenageragtigt? Ja. Programmet udvikler sig stille og roligt. Er det her verdens bedste radioprogram for teenagere? Nej. Vært: Marcus Eklund</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56086829/r18io.mp3</guid>
-			<pubDate>Thu, 13 Jul 2023 13:13:59 +0000</pubDate>
-			<itunes:duration>00:53:32</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56086829/r18io.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Afsnit 3 - Eva Jin &amp;amp; Masoud hjælper Marcus med at lave satire</title>
-			<link>https://api.spreaker.com/download/episode/56001777/r18io_del_3.mp3</link>
-			<description>Eva Jin har sovet 12 timer. Masoud er med i studiet fordi Christian Fuhlendorff og Heino Hansen ikke kunne. Der skal satire og humor i programmet. Gør der det? Nej.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56001777/r18io_del_3.mp3</guid>
-			<pubDate>Wed, 05 Jul 2023 12:17:12 +0000</pubDate>
-			<itunes:duration>00:53:43</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56001777/r18io_del_3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Afsnit 2 - Marcus prøver at strukturere programmet</title>
-			<link>https://api.spreaker.com/download/episode/55993923/r18io_del_2.mp3</link>
-			<description>Yes, Marcus er tilbage. Dog ikke mentalt. Han er ved at knække under presset fra sin chef. Afsnittet bruges på at strukturere programmet. Det lykkedes ikke...Men det lykkedes at snakke med en teenager og høre om hvad der er populært blandt dem. TIKTOK er en sikker vinder.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/55993923/r18io_del_2.mp3</guid>
-			<pubDate>Tue, 04 Jul 2023 13:20:24 +0000</pubDate>
-			<itunes:duration>00:53:47</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/55993923/r18io_del_2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Afsnit 1 - Marcus prøver at lave lyddesign</title>
-			<link>https://api.spreaker.com/download/episode/55901344/r18io_del_1.mp3</link>
-			<description>Du tror det er R8DIO men det er det ikke. Prøv at smag på R18IO, nam nam siger det. Marcus er pissesur over han ikke har fået ferie... Hans chef Kim nægter at give ham det. Marcus ringer til forældre og snakker med kollegaer. Intet virker. Marcus har absolut ingen idé om hvad han laver.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/55901344/r18io_del_1.mp3</guid>
-			<pubDate>Mon, 03 Jul 2023 12:16:45 +0000</pubDate>
-			<itunes:duration>00:53:51</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/55901344/r18io_del_1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   R18io
+  </title>
+  <link>
+   https://www.spreaker.com/podcast/r18io--5899055
+  </link>
+  <description>
+   Det er satire. Det er ungt. Det er ung satire - nu med grafitti og ollie.&lt;br /&gt;&lt;br /&gt;Med Marcus Alvarado Eklund
+  </description>
+  <atom:link href="https://www.spreaker.com/show/5899055/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Comedy
+  </category>
+  <copyright>
+   24syv
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg
+   </url>
+   <title>
+    R18io
+   </title>
+   <link>
+    https://www.spreaker.com/podcast/r18io--5899055
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   24syv
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    24syv
+   </itunes:name>
+   <itunes:email>
+    podcast@24syv.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+  <itunes:subtitle>
+   Det er satire. Det er ungt. Det er ung satire - nu med grafitti og ollie.
+
+Med Marcus Alvarado Eklund
+  </itunes:subtitle>
+  <itunes:summary>
+   Det er satire. Det er ungt. Det er ung satire - nu med grafitti og ollie.&lt;br /&gt;&lt;br /&gt;Med Marcus Alvarado Eklund
+  </itunes:summary>
+  <itunes:category text="Comedy"/>
+  <itunes:category text="Comedy">
+   <itunes:category text="Improv"/>
+  </itunes:category>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    Afsnit 12- CEO Lars lukker programmet.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/afsnit-12-ceo-lars-lukker-programmet--56211474
+   </link>
+   <description>
+    Endelig fik Marcus en teenager i studiet. Freja. Men Marcus får at vide programmet lukker. Er det akavet? Ja. Hvad gør Marcus nu? Ingen ved det. Vært: Marcus Eklund
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56211474
+   </guid>
+   <pubDate>
+    Tue, 25 Jul 2023 12:30:35 +0000
+   </pubDate>
+   <enclosure length="77746176" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56211474/r18io_del_12.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Endelig fik Marcus en teenager i studiet. Freja. Men Marcus får at vide programmet lukker. Er det akavet? Ja. Hvad gør Marcus nu? Ingen ved det. Vært: Marcus Eklund
+   </itunes:subtitle>
+   <itunes:summary>
+    Endelig fik Marcus en teenager i studiet. Freja. Men Marcus får at vide programmet lukker. Er det akavet? Ja. Hvad gør Marcus nu? Ingen ved det. Vært: Marcus Eklund
+   </itunes:summary>
+   <itunes:duration>
+    3237
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Afsnit 11 - SoMe strategier!
+   </title>
+   <link>
+    https://www.spreaker.com/episode/afsnit-11-some-strategier--56198425
+   </link>
+   <description>
+    Marcus prøver at overtale SoMe om at lave noget content til programmet. Virker det? Nej. Programmet bliver bedre. Ifølge Marcus altså. Vært: Marcus Eklund
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56198425
+   </guid>
+   <pubDate>
+    Mon, 24 Jul 2023 12:25:13 +0000
+   </pubDate>
+   <enclosure length="77674752" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56198425/r18io_del_11.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Marcus prøver at overtale SoMe om at lave noget content til programmet. Virker det? Nej. Programmet bliver bedre. Ifølge Marcus altså. Vært: Marcus Eklund
+   </itunes:subtitle>
+   <itunes:summary>
+    Marcus prøver at overtale SoMe om at lave noget content til programmet. Virker det? Nej. Programmet bliver bedre. Ifølge Marcus altså. Vært: Marcus Eklund
+   </itunes:summary>
+   <itunes:duration>
+    3234
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Afsnit 10 - Programmet er åbenbart en skændsel? Marcus knækker
+   </title>
+   <link>
+    https://www.spreaker.com/episode/afsnit-10-programmet-er-abenbart-en-skaendsel-marcus-knaekker--56176266
+   </link>
+   <description>
+    Marcus knækker fuldstændig. Nyhedsredaktør Mille Ørsted giver efterkritik. Der har aldrig været så nedtrykt stemning i studiet. Telefonfis er ungdommeligt. fungerer det? Nej. Vært: Marcus Eklund
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56176266
+   </guid>
+   <pubDate>
+    Fri, 21 Jul 2023 12:24:14 +0000
+   </pubDate>
+   <enclosure length="77740416" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56176266/r18io_del_10.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Marcus knækker fuldstændig. Nyhedsredaktør Mille Ørsted giver efterkritik. Der har aldrig været så nedtrykt stemning i studiet. Telefonfis er ungdommeligt. fungerer det? Nej. Vært: Marcus Eklund
+   </itunes:subtitle>
+   <itunes:summary>
+    Marcus knækker fuldstændig. Nyhedsredaktør Mille Ørsted giver efterkritik. Der har aldrig været så nedtrykt stemning i studiet. Telefonfis er ungdommeligt. fungerer det? Nej. Vært: Marcus Eklund
+   </itunes:summary>
+   <itunes:duration>
+    3237
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Afsnit 9 - Marcus bliver overrumplet af kollegaer
+   </title>
+   <link>
+    https://www.spreaker.com/episode/afsnit-9-marcus-bliver-overrumplet-af-kollegaer--56166388
+   </link>
+   <description>
+    En løve er på fri fod i Berlin. Erotika noveller er det nye sort. Marcus giver teenagerne dagens nyheder. PAS PÅ NEDFALDNEKATTE! Studiet bliver fyldt af kollegaer der alle vil komme til orde. Vært: Marcus Eklund
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56166388
+   </guid>
+   <pubDate>
+    Thu, 20 Jul 2023 12:13:45 +0000
+   </pubDate>
+   <enclosure length="77780736" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56166388/r18io_del_9.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    En løve er på fri fod i Berlin. Erotika noveller er det nye sort. Marcus giver teenagerne dagens nyheder. PAS PÅ NEDFALDNEKATTE! Studiet bliver fyldt af kollegaer der alle vil komme til orde. Vært: Marcus Eklund
+   </itunes:subtitle>
+   <itunes:summary>
+    En løve er på fri fod i Berlin. Erotika noveller er det nye sort. Marcus giver teenagerne dagens nyheder. PAS PÅ NEDFALDNEKATTE! Studiet bliver fyldt af kollegaer der alle vil komme til orde. Vært: Marcus Eklund
+   </itunes:summary>
+   <itunes:duration>
+    3239
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Afsnit 8 - Marcus får efterkritik
+   </title>
+   <link>
+    https://www.spreaker.com/episode/afsnit-8-marcus-far-efterkritik--56153455
+   </link>
+   <description>
+    Nu begynder puslespillet at gå op. Marcus begynder at forstå hvorfor programmet ikke fungere. Han er demotiveret. Marcus får en spændende oplysning som ændrer alt. Efterkritikken fungere ikke. Surprise. Vært: Marcus Eklund
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56153455
+   </guid>
+   <pubDate>
+    Wed, 19 Jul 2023 12:21:40 +0000
+   </pubDate>
+   <enclosure length="77708160" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56153455/r18io_del_8.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Nu begynder puslespillet at gå op. Marcus begynder at forstå hvorfor programmet ikke fungere. Han er demotiveret. Marcus får en spændende oplysning som ændrer alt. Efterkritikken fungere ikke. Surprise. Vært: Marcus Eklund
+   </itunes:subtitle>
+   <itunes:summary>
+    Nu begynder puslespillet at gå op. Marcus begynder at forstå hvorfor programmet ikke fungere. Han er demotiveret. Marcus får en spændende oplysning som ændrer alt. Efterkritikken fungere ikke. Surprise. Vært: Marcus Eklund
+   </itunes:summary>
+   <itunes:duration>
+    3236
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Afsnit 7 - Der skal musik i programmet
+   </title>
+   <link>
+    https://www.spreaker.com/episode/afsnit-7-der-skal-musik-i-programmet--56137736
+   </link>
+   <description>
+    Marcus har en musikekspert i studiet. Der skal musik til teenagerne. Hvad er god musik for dem? Det finder vi aldrig ud af. Marcus vil bare gerne have selsskab i studiet. Husk det satire. Vært: Marcus Eklund
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56137736
+   </guid>
+   <pubDate>
+    Tue, 18 Jul 2023 12:20:44 +0000
+   </pubDate>
+   <enclosure length="77698944" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56137736/r18io_del_7.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Marcus har en musikekspert i studiet. Der skal musik til teenagerne. Hvad er god musik for dem? Det finder vi aldrig ud af. Marcus vil bare gerne have selsskab i studiet. Husk det satire. Vært: Marcus Eklund
+   </itunes:subtitle>
+   <itunes:summary>
+    Marcus har en musikekspert i studiet. Der skal musik til teenagerne. Hvad er god musik for dem? Det finder vi aldrig ud af. Marcus vil bare gerne have selsskab i studiet. Husk det satire. Vært: Marcus Eklund
+   </itunes:summary>
+   <itunes:duration>
+    3235
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Afsnit 6 - Marcus har fået voksenskældud
+   </title>
+   <link>
+    https://www.spreaker.com/episode/afsnit-6-marcus-har-faet-voksenskaeldud--56126323
+   </link>
+   <description>
+    NU ER ENERGIEN DER. Eller ikke. Marcus har været til møde med sine chefer. De er ikke glade. Han skal få energien op i programmet. Marcus tror han får hjælp af kollegaerne, Cecilie og Agnes. Det gør han ikke. Bliver programmet bedre? Måske. Vært: Marcus Eklund
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56126323
+   </guid>
+   <pubDate>
+    Mon, 17 Jul 2023 12:21:45 +0000
+   </pubDate>
+   <enclosure length="77609664" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56126323/r18io_del_6.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    NU ER ENERGIEN DER. Eller ikke. Marcus har været til møde med sine chefer. De er ikke glade. Han skal få energien op i programmet. Marcus tror han får hjælp af kollegaerne, Cecilie og Agnes. Det gør han ikke. Bliver programmet bedre? Måske. Vært:...
+   </itunes:subtitle>
+   <itunes:summary>
+    NU ER ENERGIEN DER. Eller ikke. Marcus har været til møde med sine chefer. De er ikke glade. Han skal få energien op i programmet. Marcus tror han får hjælp af kollegaerne, Cecilie og Agnes. Det gør han ikke. Bliver programmet bedre? Måske. Vært: Marcus Eklund
+   </itunes:summary>
+   <itunes:duration>
+    3232
+   </itunes:duration>
+   <itunes:keywords>
+    adults,comedy,dark,funny,humor,music,podcast,radio,satire,sketch,summer,teen,teenage
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Afsnit 5 - Der skal nyheder ind i programmet!
+   </title>
+   <link>
+    https://www.spreaker.com/episode/afsnit-5-der-skal-nyheder-ind-i-programmet--56101132
+   </link>
+   <description>
+    Marcus prøver at få nyheder til teenagere med i programmet. Han kalder på nyhedsspeaker Roxanna. Hun giver ikke nyheder til teenagere...Cecilie kommer igen ind i programmet for at gøre det bedre. Det bliver ikke bedre. Vært: Marcus Eklund
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56101132
+   </guid>
+   <pubDate>
+    Fri, 14 Jul 2023 12:58:40 +0000
+   </pubDate>
+   <enclosure length="77767488" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56101132/r18io_del_5.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Marcus prøver at få nyheder til teenagere med i programmet. Han kalder på nyhedsspeaker Roxanna. Hun giver ikke nyheder til teenagere...Cecilie kommer igen ind i programmet for at gøre det bedre. Det bliver ikke bedre. Vært: Marcus Eklund
+   </itunes:subtitle>
+   <itunes:summary>
+    Marcus prøver at få nyheder til teenagere med i programmet. Han kalder på nyhedsspeaker Roxanna. Hun giver ikke nyheder til teenagere...Cecilie kommer igen ind i programmet for at gøre det bedre. Det bliver ikke bedre. Vært: Marcus Eklund
+   </itunes:summary>
+   <itunes:duration>
+    3238
+   </itunes:duration>
+   <itunes:keywords>
+    comedy,dark,friday,funny,humor,satire,sketch,teen,teenagers
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Afsnit 4 - Marcus har været "syg"
+   </title>
+   <link>
+    https://www.spreaker.com/episode/afsnit-4-marcus-har-vaeret-syg--56086829
+   </link>
+   <description>
+    Er det det dårligste afsnit til dato? Ja. Går Marcus med teenageren Oscar og køber PRIME læskedrik imens de sender live? Ja. Smager de forfærdeligt? Ja. Er stjernetegn teenageragtigt? Ja. Programmet udvikler sig stille og roligt. Er det her verdens bedste radioprogram for teenagere? Nej. Vært: Marcus Eklund
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56086829
+   </guid>
+   <pubDate>
+    Thu, 13 Jul 2023 13:13:59 +0000
+   </pubDate>
+   <enclosure length="128515133" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56086829/r18io.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Er det det dårligste afsnit til dato? Ja. Går Marcus med teenageren Oscar og køber PRIME læskedrik imens de sender live? Ja. Smager de forfærdeligt? Ja. Er stjernetegn teenageragtigt? Ja. Programmet udvikler sig stille og roligt. Er det her verdens...
+   </itunes:subtitle>
+   <itunes:summary>
+    Er det det dårligste afsnit til dato? Ja. Går Marcus med teenageren Oscar og køber PRIME læskedrik imens de sender live? Ja. Smager de forfærdeligt? Ja. Er stjernetegn teenageragtigt? Ja. Programmet udvikler sig stille og roligt. Er det her verdens bedste radioprogram for teenagere? Nej. Vært: Marcus Eklund
+   </itunes:summary>
+   <itunes:duration>
+    3213
+   </itunes:duration>
+   <itunes:keywords>
+    comedy,funny,humor,impro,improvised,music,satire,sketch,summer,teenager
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Afsnit 3 - Eva Jin &amp; Masoud hjælper Marcus med at lave satire
+   </title>
+   <link>
+    https://www.spreaker.com/episode/afsnit-3-eva-jin-masoud-hjaelper-marcus-med-at-lave-satire--56001777
+   </link>
+   <description>
+    Eva Jin har sovet 12 timer. Masoud er med i studiet fordi Christian Fuhlendorff og Heino Hansen ikke kunne. Der skal satire og humor i programmet. Gør der det? Nej.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56001777
+   </guid>
+   <pubDate>
+    Wed, 05 Jul 2023 12:17:12 +0000
+   </pubDate>
+   <enclosure length="77424192" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56001777/r18io_del_3.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Eva Jin har sovet 12 timer. Masoud er med i studiet fordi Christian Fuhlendorff og Heino Hansen ikke kunne. Der skal satire og humor i programmet. Gør der det? Nej.
+   </itunes:subtitle>
+   <itunes:summary>
+    Eva Jin har sovet 12 timer. Masoud er med i studiet fordi Christian Fuhlendorff og Heino Hansen ikke kunne. Der skal satire og humor i programmet. Gør der det? Nej.
+   </itunes:summary>
+   <itunes:duration>
+    3224
+   </itunes:duration>
+   <itunes:keywords>
+    comedy,dark,famous,help,humor,komedie,radio,satire,sketch,summer
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Afsnit 2 - Marcus prøver at strukturere programmet
+   </title>
+   <link>
+    https://www.spreaker.com/episode/afsnit-2-marcus-prover-at-strukturere-programmet--55993923
+   </link>
+   <description>
+    Yes, Marcus er tilbage. Dog ikke mentalt. Han er ved at knække under presset fra sin chef. Afsnittet bruges på at strukturere programmet. Det lykkedes ikke...Men det lykkedes at snakke med en teenager og høre om hvad der er populært blandt dem. TIKTOK er en sikker vinder.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/55993923
+   </guid>
+   <pubDate>
+    Tue, 04 Jul 2023 13:20:24 +0000
+   </pubDate>
+   <enclosure length="77527872" type="audio/mpeg" url="https://api.spreaker.com/download/episode/55993923/r18io_del_2.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Yes, Marcus er tilbage. Dog ikke mentalt. Han er ved at knække under presset fra sin chef. Afsnittet bruges på at strukturere programmet. Det lykkedes ikke...Men det lykkedes at snakke med en teenager og høre om hvad der er populært blandt dem. TIKTOK...
+   </itunes:subtitle>
+   <itunes:summary>
+    Yes, Marcus er tilbage. Dog ikke mentalt. Han er ved at knække under presset fra sin chef. Afsnittet bruges på at strukturere programmet. Det lykkedes ikke...Men det lykkedes at snakke med en teenager og høre om hvad der er populært blandt dem. TIKTOK er en sikker vinder.
+   </itunes:summary>
+   <itunes:duration>
+    3228
+   </itunes:duration>
+   <itunes:keywords>
+    comedy,funny,music,radio,sad,sadness,satire,sketch,summer,teenager,vacation
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Afsnit 1 - Marcus prøver at lave lyddesign
+   </title>
+   <link>
+    https://www.spreaker.com/episode/afsnit-1-marcus-prover-at-lave-lyddesign--55901344
+   </link>
+   <description>
+    Du tror det er R8DIO men det er det ikke. Prøv at smag på R18IO, nam nam siger det. Marcus er pissesur over han ikke har fået ferie... Hans chef Kim nægter at give ham det. Marcus ringer til forældre og snakker med kollegaer. Intet virker. Marcus har absolut ingen idé om hvad han laver.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/55901344
+   </guid>
+   <pubDate>
+    Mon, 03 Jul 2023 12:16:45 +0000
+   </pubDate>
+   <enclosure length="77625216" type="audio/mpeg" url="https://api.spreaker.com/download/episode/55901344/r18io_del_1.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Du tror det er R8DIO men det er det ikke. Prøv at smag på R18IO, nam nam siger det. Marcus er pissesur over han ikke har fået ferie... Hans chef Kim nægter at give ham det. Marcus ringer til forældre og snakker med kollegaer. Intet virker. Marcus har...
+   </itunes:subtitle>
+   <itunes:summary>
+    Du tror det er R8DIO men det er det ikke. Prøv at smag på R18IO, nam nam siger det. Marcus er pissesur over han ikke har fået ferie... Hans chef Kim nægter at give ham det. Marcus ringer til forældre og snakker med kollegaer. Intet virker. Marcus har absolut ingen idé om hvad han laver.
+   </itunes:summary>
+   <itunes:duration>
+    3232
+   </itunes:duration>
+   <itunes:keywords>
+    comedy,dansk,dark,humor,interview,komedie,musik,satire,sketch
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cf515a360b2cc8666509882041fb9690.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

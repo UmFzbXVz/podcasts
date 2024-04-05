@@ -1,188 +1,509 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Mandagstræner</title>
-		<link>https://web.24syv.dk/channels/4968</link>
-		<description>Mandagstræneren ved altid bedre end de rigtige trænere, og det gør vi selvfølgelig også. Følelsesladede lommeanalyser, fantastisk og fanatisk journalistik og kærlighed til sport på et sølvfad.Det er uhøjtideligt, en lille smule bedrevidende og pishamrende hyggeligt.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/806/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
-		<item>
-			<title>Landsholdets folkelighed ligger i hænderne på TV-kanalerne</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46399257/060921_program.mp3</link>
-			<description>Hvilke aktører har ansvaret for at fodboldelskere kan ride videre på EM-bølgen fra sommerens slutrunde? Er det færøske hornorkester en god idé, eller bliver fodbold som vi kender det for amerikaniseret med bands som disse? Spørgsmål bliver rejst, startopstillingen er klar til angreb.
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Mandagstræner
+  </title>
+  <link>
+   https://loud.land/podcast/mandagstraener
+  </link>
+  <description>
+   Mandagstræneren ved altid bedre end de rigtige trænere, og det gør vi selvfølgelig også. &lt;br /&gt;Følelsesladede lommeanalyser, fantastisk og fanatisk journalistik og kærlighed til sport på et sølvfad.&lt;br /&gt;Det er uhøjtideligt, en lille smule bedrevidende og pishamrende hyggeligt.
+  </description>
+  <atom:link href="https://www.spreaker.com/show/4999589/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Sports
+  </category>
+  <copyright>
+   Copyright LOUD
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg
+   </url>
+   <title>
+    Mandagstræner
+   </title>
+   <link>
+    https://loud.land/podcast/mandagstraener
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   LOUD
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    LOUD
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
+  <itunes:subtitle>
+   Det er svært at være træner i weekenden, men det er nemt at være om mandagen.
+  </itunes:subtitle>
+  <itunes:summary>
+   Mandagstræneren ved altid bedre end de rigtige trænere, og det gør vi selvfølgelig også. &lt;br /&gt;Følelsesladede lommeanalyser, fantastisk og fanatisk journalistik og kærlighed til sport på et sølvfad.&lt;br /&gt;Det er uhøjtideligt, en lille smule bedrevidende og pishamrende hyggeligt.
+  </itunes:summary>
+  <itunes:category text="Sports"/>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    Landsholdets folkelighed ligger i hænderne på TV-kanalerne
+   </title>
+   <link>
+    https://www.spreaker.com/episode/landsholdets-folkelighed-ligger-i-haenderne-pa-tv-kanalerne--46399257
+   </link>
+   <description>
+    Hvilke aktører har ansvaret for at fodboldelskere kan ride videre på EM-bølgen fra sommerens slutrunde? Er det færøske hornorkester en god idé, eller bliver fodbold som vi kender det for amerikaniseret med bands som disse? Spørgsmål bliver rejst, startopstillingen er klar til angreb.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Stilling&lt;br /&gt;Gæster: &lt;br /&gt;Vitus Robak, radiovært, roligan og FCK-fan&lt;br /&gt;Cillian Murphy, fodboldskribent, roligan og Liverpool-fan
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46399257
+   </guid>
+   <pubDate>
+    Mon, 06 Sep 2021 15:46:26 +0000
+   </pubDate>
+   <enclosure length="79151040" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46399257/060921_program.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvilke aktører har ansvaret for at fodboldelskere kan ride videre på EM-bølgen fra sommerens slutrunde? Er det færøske hornorkester en god idé, eller bliver fodbold som vi kender det for amerikaniseret med bands som disse? Spørgsmål bliver rejst,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvilke aktører har ansvaret for at fodboldelskere kan ride videre på EM-bølgen fra sommerens slutrunde? Er det færøske hornorkester en god idé, eller bliver fodbold som vi kender det for amerikaniseret med bands som disse? Spørgsmål bliver rejst, startopstillingen er klar til angreb.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Stilling&lt;br /&gt;Gæster: &lt;br /&gt;Vitus Robak, radiovært, roligan og FCK-fan&lt;br /&gt;Cillian Murphy, fodboldskribent, roligan og Liverpool-fan
+   </itunes:summary>
+   <itunes:duration>
+    3296
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
+   <itunes:season>
+    2
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Cristiano Ronaldo: Madrid eller Manchester-legende?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/cristiano-ronaldo-madrid-eller-manchester-legende--46299032
+   </link>
+   <description>
+    Med Ronaldos skifte tilbage til Manchester United, virker det til at CR7 vender hjem. Men hvor skal statuen stå, når han en dag pensioneres som en af de største legender? Er det i Manchester eller Madrid? I dagens Mandagstræner vender vi de kommende landskampe, transfervinduet og ugens fidusbamser uddeles.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46299032
+   </guid>
+   <pubDate>
+    Mon, 30 Aug 2021 14:51:15 +0000
+   </pubDate>
+   <enclosure length="78574464" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46299032/300821_mandagstr_ner.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Med Ronaldos skifte tilbage til Manchester United, virker det til at CR7 vender hjem. Men hvor skal statuen stå, når han en dag pensioneres som en af de største legender? Er det i Manchester eller Madrid? I dagens Mandagstræner vender vi de kommende...
+   </itunes:subtitle>
+   <itunes:summary>
+    Med Ronaldos skifte tilbage til Manchester United, virker det til at CR7 vender hjem. Men hvor skal statuen stå, når han en dag pensioneres som en af de største legender? Er det i Manchester eller Madrid? I dagens Mandagstræner vender vi de kommende landskampe, transfervinduet og ugens fidusbamser uddeles.
+   </itunes:summary>
+   <itunes:duration>
+    3272
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
+   <itunes:season>
+    2
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    OB-special: Sælg Oliver Christensen!
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ob-special-saelg-oliver-christensen--46202788
+   </link>
+   <description>
+    OB's fans mener at Oliver Christensen skal sælges, stadionet er i forfald, men alligevel er der en stemning om at holdet nok skal ende i top 6. Selv uden deres største målmandshåb i årevis.&lt;br /&gt;I dagens Mandagstræner taler vi om OB's muligheder og klubbens genoprejsning. Vi taler om de skandaløse baneløb i kampen mellem Nice og Marseille søndag d. 22. august, og så deler vi selvfølgelig ugens fidusbamser ud. Løftede pegefingre til Jakob Michelsen er der nok af.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46202788
+   </guid>
+   <pubDate>
+    Mon, 23 Aug 2021 14:00:14 +0000
+   </pubDate>
+   <enclosure length="79206912" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46202788/230821_mandagstraener.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    OB's fans mener at Oliver Christensen skal sælges, stadionet er i forfald, men alligevel er der en stemning om at holdet nok skal ende i top 6. Selv uden deres største målmandshåb i årevis.
+I dagens Mandagstræner taler vi om OB's muligheder og...
+   </itunes:subtitle>
+   <itunes:summary>
+    OB's fans mener at Oliver Christensen skal sælges, stadionet er i forfald, men alligevel er der en stemning om at holdet nok skal ende i top 6. Selv uden deres største målmandshåb i årevis.&lt;br /&gt;I dagens Mandagstræner taler vi om OB's muligheder og klubbens genoprejsning. Vi taler om de skandaløse baneløb i kampen mellem Nice og Marseille søndag d. 22. august, og så deler vi selvfølgelig ugens fidusbamser ud. Løftede pegefingre til Jakob Michelsen er der nok af.
+   </itunes:summary>
+   <itunes:duration>
+    3298
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
+   <itunes:season>
+    2
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Smædesange mod Sancho og Rashford i led mavepuster til Leeds
+   </title>
+   <link>
+    https://www.spreaker.com/episode/smaedesange-mod-sancho-og-rashford-i-led-mavepuster-til-leeds--46115121
+   </link>
+   <description>
+    Manchester United og Leeds United spillede lørdag d. 14. The Roses Rivalry med Bruno Fernandes og Paul Pogba i særklasse. Er Bielsa den rigtige mand til sidste års oprykkere, og skal vi regne med at se dem i Premier League de næste 10 år? Og hvad med fansenes smædesange mod de to engelske straffesparksskytter, Jadon Sancho og Marcus Rashford? Er det okay?&lt;br /&gt;&lt;br /&gt;Kan en high-five til superfanen Woody gøre Thomas Frank den mest elskede Premier League-træner? Og er Messi-magi overhovedet nok til at danske tv-distributører vil købe Ligue 1-licens?&lt;br /&gt;&lt;br /&gt;Vært: Mathias Stilling&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Sebastian Christopher Peebles, Manchester United-fan&lt;br /&gt;Emil Sebastian Sørensen, Leeds United-fan
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46115121
+   </guid>
+   <pubDate>
+    Mon, 16 Aug 2021 14:58:17 +0000
+   </pubDate>
+   <enclosure length="78295680" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46115121/160821_program.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Manchester United og Leeds United spillede lørdag d. 14. The Roses Rivalry med Bruno Fernandes og Paul Pogba i særklasse. Er Bielsa den rigtige mand til sidste års oprykkere, og skal vi regne med at se dem i Premier League de næste 10 år? Og hvad med...
+   </itunes:subtitle>
+   <itunes:summary>
+    Manchester United og Leeds United spillede lørdag d. 14. The Roses Rivalry med Bruno Fernandes og Paul Pogba i særklasse. Er Bielsa den rigtige mand til sidste års oprykkere, og skal vi regne med at se dem i Premier League de næste 10 år? Og hvad med fansenes smædesange mod de to engelske straffesparksskytter, Jadon Sancho og Marcus Rashford? Er det okay?&lt;br /&gt;&lt;br /&gt;Kan en high-five til superfanen Woody gøre Thomas Frank den mest elskede Premier League-træner? Og er Messi-magi overhovedet nok til at danske tv-distributører vil købe Ligue 1-licens?&lt;br /&gt;&lt;br /&gt;Vært: Mathias Stilling&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Sebastian Christopher Peebles, Manchester United-fan&lt;br /&gt;Emil Sebastian Sørensen, Leeds United-fan
+   </itunes:summary>
+   <itunes:duration>
+    3260
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
+   <itunes:season>
+    2
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Er romerlys på Wind og bannere mod Brøndby-fans okay?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/er-romerlys-pa-wind-og-bannere-mod-brondby-fans-okay--46025489
+   </link>
+   <description>
+    FCK og Brøndby tørnede sammen i sæsonens første derby søndag d. 8. august. En kamp, der bød på kastede romerlys, en udskudt kamp på grund af røg og voldsomme bannere med hentydning til en Brøndbyfans voldtægtssag. Hvor går grænsen for, hvad god sportsmanship er, når det er mellem de to største klubber?&lt;br /&gt;&lt;br /&gt;Vært: Mathias Stilling&lt;br /&gt;Gæster:&lt;br /&gt;Martin Høgfeldt, Brøndby-fan&lt;br /&gt;Ane Christensen, FCK-fan
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46025489
+   </guid>
+   <pubDate>
+    Mon, 09 Aug 2021 15:13:39 +0000
+   </pubDate>
+   <enclosure length="78701184" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46025489/podcast_mandags.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    FCK og Brøndby tørnede sammen i sæsonens første derby søndag d. 8. august. En kamp, der bød på kastede romerlys, en udskudt kamp på grund af røg og voldsomme bannere med hentydning til en Brøndbyfans voldtægtssag. Hvor går grænsen for, hvad god...
+   </itunes:subtitle>
+   <itunes:summary>
+    FCK og Brøndby tørnede sammen i sæsonens første derby søndag d. 8. august. En kamp, der bød på kastede romerlys, en udskudt kamp på grund af røg og voldsomme bannere med hentydning til en Brøndbyfans voldtægtssag. Hvor går grænsen for, hvad god sportsmanship er, når det er mellem de to største klubber?&lt;br /&gt;&lt;br /&gt;Vært: Mathias Stilling&lt;br /&gt;Gæster:&lt;br /&gt;Martin Høgfeldt, Brøndby-fan&lt;br /&gt;Ane Christensen, FCK-fan
+   </itunes:summary>
+   <itunes:duration>
+    3277
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
+   <itunes:season>
+    2
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Har Peter Hyballa ødelagt Esbjerg fB?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/har-peter-hyballa-odelagt-esbjerg-fb--45938684
+   </link>
+   <description>
+    Peter Hyballa har gang i mange sager i Esbjerg fB, hvor flere spillere har udtrykt utilfredshed over træneren. AGF er ude af Europa Conference League som den første danske klub. I dag handler Mandagstræner om AGF's europæiske syge og Esbjerg-fans tålmodighed.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Stilling&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Thorbjørn Bech aka. Ham Den Lange, debattør, rapper og AGF-fan&lt;br /&gt;Tue Sørensen, journalist, podcastvært på Altid Arsenal og Esbjerg-fan
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45938684
+   </guid>
+   <pubDate>
+    Mon, 02 Aug 2021 16:48:31 +0000
+   </pubDate>
+   <enclosure length="79850880" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45938684/mandagstr_ner.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Peter Hyballa har gang i mange sager i Esbjerg fB, hvor flere spillere har udtrykt utilfredshed over træneren. AGF er ude af Europa Conference League som den første danske klub. I dag handler Mandagstræner om AGF's europæiske syge og Esbjerg-fans...
+   </itunes:subtitle>
+   <itunes:summary>
+    Peter Hyballa har gang i mange sager i Esbjerg fB, hvor flere spillere har udtrykt utilfredshed over træneren. AGF er ude af Europa Conference League som den første danske klub. I dag handler Mandagstræner om AGF's europæiske syge og Esbjerg-fans tålmodighed.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Stilling&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Thorbjørn Bech aka. Ham Den Lange, debattør, rapper og AGF-fan&lt;br /&gt;Tue Sørensen, journalist, podcastvært på Altid Arsenal og Esbjerg-fan
+   </itunes:summary>
+   <itunes:duration>
+    3325
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
+   <itunes:season>
+    2
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Magtesløse Brøndby og AGF's europæiske fadæse
+   </title>
+   <link>
+    https://www.spreaker.com/episode/magteslose-brondby-og-agf-s-europaeiske-fadaese--45846236
+   </link>
+   <description>
+    Transfervinduet sejler for Brøndby, der endnu ikke har vist fansene en klar plan frem mod forsvaret af sidste sæsons mesterskabstitel. Mandagstræner diskuterer i dag anden spillerunde af Superligaen, transfers, Mikkel Damsgaard og Joachim Andersens engelske muligheder og AGF's europæiske kampagne.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Stilling&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Cillian Murphy, rapper og journalist&lt;br /&gt;Mads Møller, journalist
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45846236
+   </guid>
+   <pubDate>
+    Mon, 26 Jul 2021 15:48:44 +0000
+   </pubDate>
+   <enclosure length="105048010" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45846236/radio_loud_on_air_2021_07_26_15_05_43.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Transfervinduet sejler for Brøndby, der endnu ikke har vist fansene en klar plan frem mod forsvaret af sidste sæsons mesterskabstitel. Mandagstræner diskuterer i dag anden spillerunde af Superligaen, transfers, Mikkel Damsgaard og Joachim Andersens...
+   </itunes:subtitle>
+   <itunes:summary>
+    Transfervinduet sejler for Brøndby, der endnu ikke har vist fansene en klar plan frem mod forsvaret af sidste sæsons mesterskabstitel. Mandagstræner diskuterer i dag anden spillerunde af Superligaen, transfers, Mikkel Damsgaard og Joachim Andersens engelske muligheder og AGF's europæiske kampagne.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Stilling&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Cillian Murphy, rapper og journalist&lt;br /&gt;Mads Møller, journalist
+   </itunes:summary>
+   <itunes:duration>
+    3287
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
+   <itunes:season>
+    2
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Første Superliga-runde og et lille smut til Italien
+   </title>
+   <link>
+    https://www.spreaker.com/episode/forste-superliga-runde-og-et-lille-smut-til-italien--45766686
+   </link>
+   <description>
+    Første runde i Superligaen er næsten afviklet og der er allerede smæk for skillingen. Det blev til fjorten mål og et par overraskelser, som vi selvfølgelig vender med dagens gæst. &lt;br /&gt;Og så skal vi lige forbi en hurtig top 10 for runden. &lt;br /&gt;&lt;br /&gt;Vi ringer også til en god, italiensk ven af programmet for at tage temperaturen i støvlelandet ovenpå EM-triumfen - og så selvfølgelig lige komme forbi Serie A, der begynder om lidt. &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Mathias Stilling&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Rasmus Damsholt, radiovært og FC Nordsjælland-fan.&lt;br /&gt;Luigi d'Ambrosio, lektor på University College Nordjylland, underviser i italiensk, vinimportør og formand i Forza Napoli Danmark.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45766686
+   </guid>
+   <pubDate>
+    Tue, 20 Jul 2021 07:09:42 +0000
+   </pubDate>
+   <enclosure length="58933440" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45766686/mandagstr_ner_f_rste_runde_suppe_og_italien_og_damsholt.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Første runde i Superligaen er næsten afviklet og der er allerede smæk for skillingen. Det blev til fjorten mål og et par overraskelser, som vi selvfølgelig vender med dagens gæst. 
+Og så skal vi lige forbi en hurtig top 10 for runden. 
 
-Vært: Mathias Stilling
-Gæster: 
-Vitus Robak, radiovært, roligan og FCK-fan
-Cillian Murphy, fodboldskribent, roligan og Liverpool-fan</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46399257/060921_program.mp3</guid>
-			<pubDate>Mon, 06 Sep 2021 16:04:39 +0000</pubDate>
-			<itunes:duration>00:54:55</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46399257/060921_program.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Cristiano Ronaldo: Madrid eller Manchester-legende?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46299032/300821_mandagstr_ner.mp3</link>
-			<description>Med Ronaldos skifte tilbage til Manchester United, virker det til at CR7 vender hjem. Men hvor skal statuen stå, når han en dag pensioneres som en af de største legender? Er det i Manchester eller Madrid? I dagens Mandagstræner vender vi de kommende landskampe, transfervinduet og ugens fidusbamser uddeles.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46299032/300821_mandagstr_ner.mp3</guid>
-			<pubDate>Mon, 30 Aug 2021 15:11:46 +0000</pubDate>
-			<itunes:duration>00:54:31</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46299032/300821_mandagstr_ner.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>OB-special: Sælg Oliver Christensen!</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46202788/230821_mandagstraener.mp3</link>
-			<description>OB's fans mener at Oliver Christensen skal sælges, stadionet er i forfald, men alligevel er der en stemning om at holdet nok skal ende i top 6. Selv uden deres største målmandshåb i årevis.
-I dagens Mandagstræner taler vi om OB's muligheder og klubbens genoprejsning. Vi taler om de skandaløse baneløb i kampen mellem Nice og Marseille søndag d. 22. august, og så deler vi selvfølgelig ugens fidusbamser ud. Løftede pegefingre til Jakob Michelsen er der nok af.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46202788/230821_mandagstraener.mp3</guid>
-			<pubDate>Mon, 23 Aug 2021 14:17:41 +0000</pubDate>
-			<itunes:duration>00:54:57</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46202788/230821_mandagstraener.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Smædesange mod Sancho og Rashford i led mavepuster til Leeds</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46115121/160821_program.mp3</link>
-			<description>Manchester United og Leeds United spillede lørdag d. 14. The Roses Rivalry med Bruno Fernandes og Paul Pogba i særklasse. Er Bielsa den rigtige mand til sidste års oprykkere, og skal vi regne med at se dem i Premier League de næste 10 år? Og hvad med fansenes smædesange mod de to engelske straffesparksskytter, Jadon Sancho og Marcus Rashford? Er det okay?
-
-Kan en high-five til superfanen Woody gøre Thomas Frank den mest elskede Premier League-træner? Og er Messi-magi overhovedet nok til at danske tv-distributører vil købe Ligue 1-licens?
-
-Vært: Mathias Stilling
-
-Gæster: 
-Sebastian Christopher Peebles, Manchester United-fan
-Emil Sebastian Sørensen, Leeds United-fan</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46115121/160821_program.mp3</guid>
-			<pubDate>Mon, 16 Aug 2021 15:02:52 +0000</pubDate>
-			<itunes:duration>00:54:19</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46115121/160821_program.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Er romerlys på Wind og bannere mod Brøndby-fans okay?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46025489/podcast_mandags.mp3</link>
-			<description>FCK og Brøndby tørnede sammen i sæsonens første derby søndag d. 8. august. En kamp, der bød på kastede romerlys, en udskudt kamp på grund af røg og voldsomme bannere med hentydning til en Brøndbyfans voldtægtssag. Hvor går grænsen for, hvad god sportsmanship er, når det er mellem de to største klubber?
-
-Vært: Mathias Stilling
-Gæster:
-Martin Høgfeldt, Brøndby-fan
-Ane Christensen, FCK-fan</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46025489/podcast_mandags.mp3</guid>
-			<pubDate>Mon, 09 Aug 2021 15:29:33 +0000</pubDate>
-			<itunes:duration>00:54:36</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46025489/podcast_mandags.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Har Peter Hyballa ødelagt Esbjerg fB?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45938684/mandagstr_ner.mp3</link>
-			<description>Peter Hyballa har gang i mange sager i Esbjerg fB, hvor flere spillere har udtrykt utilfredshed over træneren. AGF er ude af Europa Conference League som den første danske klub. I dag handler Mandagstræner om AGF's europæiske syge og Esbjerg-fans tålmodighed.
-
-Vært: Mathias Stilling
-
-Gæster:
-Thorbjørn Bech aka. Ham Den Lange, debattør, rapper og AGF-fan
-Tue Sørensen, journalist, podcastvært på Altid Arsenal og Esbjerg-fan</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45938684/mandagstr_ner.mp3</guid>
-			<pubDate>Mon, 02 Aug 2021 16:56:19 +0000</pubDate>
-			<itunes:duration>00:55:24</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45938684/mandagstr_ner.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Magtesløse Brøndby og AGF's europæiske fadæse</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45846236/radio_loud_on_air_2021_07_26_15_05_43.mp3</link>
-			<description>Transfervinduet sejler for Brøndby, der endnu ikke har vist fansene en klar plan frem mod forsvaret af sidste sæsons mesterskabstitel. Mandagstræner diskuterer i dag anden spillerunde af Superligaen, transfers, Mikkel Damsgaard og Joachim Andersens engelske muligheder og AGF's europæiske kampagne.
-
-Vært: Mathias Stilling
-
-Gæster: 
-Cillian Murphy, rapper og journalist
-Mads Møller, journalist</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45846236/radio_loud_on_air_2021_07_26_15_05_43.mp3</guid>
-			<pubDate>Mon, 26 Jul 2021 16:02:46 +0000</pubDate>
-			<itunes:duration>00:54:42</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45846236/radio_loud_on_air_2021_07_26_15_05_43.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mandagstræner: European Super League</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44419567/mandagstr_ner1.mp3</link>
-			<description>Din letfordøjelige sportspodcast, der rammer dig lige i skridthøjde med lunkne fadøl, halve betragtninger og et absurd højt niveau af bedrevidenhed.
-
-Mandagstræneren ved altid bedre end de rigtige trænere, eksperter og andre med meritter. Det gør vi allesammen, for vi er nemlig mandagstrænere.
-
-Værter:
-
-Toke With – vinnørdende tidligere næsten elitefodboldspiller, der opgav karrieren til fordel for druk og damer. NU 30 år gammel, fodboldinvalid og far til Vera på 7 måneder.
-3 styrker:
-Ser vitterligt alle Superliga-kampe.
-Elsker næsten al sport på en Henrik Linigersk måde.
-Udpræget konkurrencemenneske.
-
-Mathias Stilling – indædt Brøndby-fan med nogenlunde fodboldevner og ekstrem ringe kondition. Er vokset op i et stærk fodboldlokalmiljø, men er sidenhen blevet frankofil og følger mærkværdigt nok med i PSGs gøren og laden.
-3 styrker:
-Kan stå på kassen.
-Følger absurd mange fodboldkontoer på sociale medier.
-Football Manager
-
-Sebastian Peebles – halvt dansk, halv engelsk. Får stiv pivert af hårde tacklinger og grænseoverskridende adfærd på grønsværen. Landsholdshjertet tilhører England, så ikke 100% assimileret – endnu. Nægter at kalde sig Brøndby-fan, men står fast på at være supporter.
-3 styrker:
-Er meget nem at begejstre.
-Engelsk fodbold.
-
-Musik:
-Upright Music</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44419567/mandagstr_ner1.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:56:27 +0000</pubDate>
-			<itunes:duration>00:48:23</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44419567/mandagstr_ner1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mandagstræner: Fans tilbage, Superligaen er helt åben og Premier League Hall of Fame</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44536144/mandagstr_ner_afsnit_3.mp3</link>
-			<description>En ny uge er startet med 100 kilometer i timen da FC Nordsjælland vandt 3-2 over FC Midtjylland. Guldkampen er pivåben, FCK laver hul ned til AGF, Nordsjælland kæmper med om Europa og Randers nærmer sig intet. 
-
-Der er fans tilbage på stadion, og det viste Brøndby blandt andet med den store brandtale fra Niels Frederiksens omklædningsrum. 
-
-Premier League er blevet amerikaniseret endnu en gang og skal have en Premier League Hall Of Fame som hylder de største spillere i engelsk fodbold siden ligaens implementering i 1992. 
-
-Musik: 
-Upright Music</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44536144/mandagstr_ner_afsnit_3.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:56:27 +0000</pubDate>
-			<itunes:duration>00:37:10</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44536144/mandagstr_ner_afsnit_3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Den Store Superliga-optakt</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45721453/mandagstr_ner_suppe_optakt.mp3</link>
-			<description>Mandagstræner skyder en ny sæson Superliga igang med en god og uhøjtidelig optakt.
+Vi ringer også...
+   </itunes:subtitle>
+   <itunes:summary>
+    Første runde i Superligaen er næsten afviklet og der er allerede smæk for skillingen. Det blev til fjorten mål og et par overraskelser, som vi selvfølgelig vender med dagens gæst. &lt;br /&gt;Og så skal vi lige forbi en hurtig top 10 for runden. &lt;br /&gt;&lt;br /&gt;Vi ringer også til en god, italiensk ven af programmet for at tage temperaturen i støvlelandet ovenpå EM-triumfen - og så selvfølgelig lige komme forbi Serie A, der begynder om lidt. &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Mathias Stilling&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Rasmus Damsholt, radiovært og FC Nordsjælland-fan.&lt;br /&gt;Luigi d'Ambrosio, lektor på University College Nordjylland, underviser i italiensk, vinimportør og formand i Forza Napoli Danmark.
+   </itunes:summary>
+   <itunes:duration>
+    2453
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Den Store Superliga-optakt
+   </title>
+   <link>
+    https://www.spreaker.com/episode/den-store-superliga-optakt--45721453
+   </link>
+   <description>
+    Mandagstræner skyder en ny sæson Superliga igang med en god og uhøjtidelig optakt.&lt;br /&gt;Svingdøren hos mange klubber er på overarbejde, men hvordan ser transfervinduet egentlig ud lige nu? Og hvem bliver mestre?&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Mathias Stilling, radiovært og Brøndby-fan. &lt;br /&gt;&lt;br /&gt;Gæst: &lt;br /&gt;Sebastian Søndergaard, radiovært og FCK-fan.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45721453
+   </guid>
+   <pubDate>
+    Fri, 16 Jul 2021 07:44:46 +0000
+   </pubDate>
+   <enclosure length="67929984" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45721453/mandagstr_ner_suppe_optakt.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Mandagstræner skyder en ny sæson Superliga igang med en god og uhøjtidelig optakt.
 Svingdøren hos mange klubber er på overarbejde, men hvordan ser transfervinduet egentlig ud lige nu? Og hvem bliver mestre?
 
 Vært: 
-Mathias Stilling, radiovært og Brøndby-fan. 
+Mathias Stilling, radiovært og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Mandagstræner skyder en ny sæson Superliga igang med en god og uhøjtidelig optakt.&lt;br /&gt;Svingdøren hos mange klubber er på overarbejde, men hvordan ser transfervinduet egentlig ud lige nu? Og hvem bliver mestre?&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Mathias Stilling, radiovært og Brøndby-fan. &lt;br /&gt;&lt;br /&gt;Gæst: &lt;br /&gt;Sebastian Søndergaard, radiovært og FCK-fan.
+   </itunes:summary>
+   <itunes:duration>
+    2828
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Skal Schmeichel-far i Premier League Hall of Fame?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/skal-schmeichel-far-i-premier-league-hall-of-fame--44536144
+   </link>
+   <description>
+    En ny uge er startet med 100 kilometer i timen da FC Nordsjælland vandt 3-2 over FC Midtjylland. Guldkampen er pivåben, FCK laver hul ned til AGF, Nordsjælland kæmper med om Europa og Randers nærmer sig intet. &lt;br /&gt;&lt;br /&gt;Der er fans tilbage på stadion, og det viste Brøndby blandt andet med den store brandtale fra Niels Frederiksens omklædningsrum. &lt;br /&gt;&lt;br /&gt;Premier League er blevet amerikaniseret endnu en gang og skal have en Premier League Hall Of Fame som hylder de største spillere i engelsk fodbold siden ligaens implementering i 1992. &lt;br /&gt;&lt;br /&gt;Musik: &lt;br /&gt;Upright Music
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44536144
+   </guid>
+   <pubDate>
+    Wed, 28 Apr 2021 12:18:38 +0000
+   </pubDate>
+   <enclosure length="53587584" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44536144/mandagstr_ner_afsnit_3.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    En ny uge er startet med 100 kilometer i timen da FC Nordsjælland vandt 3-2 over FC Midtjylland. Guldkampen er pivåben, FCK laver hul ned til AGF, Nordsjælland kæmper med om Europa og Randers nærmer sig intet. 
 
-Gæst: 
-Sebastian Søndergaard, radiovært og FCK-fan.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45721453/mandagstr_ner_suppe_optakt.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:56:27 +0000</pubDate>
-			<itunes:duration>00:47:07</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45721453/mandagstr_ner_suppe_optakt.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Første Superliga-runde og et lille smut til Italien</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45766686/mandagstr_ner_f_rste_runde_suppe_og_italien_og_damsholt.mp3</link>
-			<description>Første runde i Superligaen er næsten afviklet og der er allerede smæk for skillingen. Det blev til fjorten mål og et par overraskelser, som vi selvfølgelig vender med dagens gæst. 
-Og så skal vi lige forbi en hurtig top 10 for runden. 
+Der er fans tilbage på stadion, og det...
+   </itunes:subtitle>
+   <itunes:summary>
+    En ny uge er startet med 100 kilometer i timen da FC Nordsjælland vandt 3-2 over FC Midtjylland. Guldkampen er pivåben, FCK laver hul ned til AGF, Nordsjælland kæmper med om Europa og Randers nærmer sig intet. &lt;br /&gt;&lt;br /&gt;Der er fans tilbage på stadion, og det viste Brøndby blandt andet med den store brandtale fra Niels Frederiksens omklædningsrum. &lt;br /&gt;&lt;br /&gt;Premier League er blevet amerikaniseret endnu en gang og skal have en Premier League Hall Of Fame som hylder de største spillere i engelsk fodbold siden ligaens implementering i 1992. &lt;br /&gt;&lt;br /&gt;Musik: &lt;br /&gt;Upright Music
+   </itunes:summary>
+   <itunes:duration>
+    2231
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
+   <itunes:season>
+    2
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Super League ødelægger Europa for altid
+   </title>
+   <link>
+    https://www.spreaker.com/episode/super-league-odelaegger-europa-for-altid--44419567
+   </link>
+   <description>
+    Din letfordøjelige sportspodcast, der rammer dig lige i skridthøjde med lunkne fadøl, halve betragtninger og et absurd højt niveau af bedrevidenhed.&lt;br /&gt;&lt;br /&gt;Mandagstræneren ved altid bedre end de rigtige trænere, eksperter og andre med meritter. Det gør vi allesammen, for vi er nemlig mandagstrænere.&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;&lt;br /&gt;Toke With – vinnørdende tidligere næsten elitefodboldspiller, der opgav karrieren til fordel for druk og damer. NU 30 år gammel, fodboldinvalid og far til Vera på 7 måneder.&lt;br /&gt;3 styrker:&lt;br /&gt;Ser vitterligt alle Superliga-kampe.&lt;br /&gt;Elsker næsten al sport på en Henrik Linigersk måde.&lt;br /&gt;Udpræget konkurrencemenneske.&lt;br /&gt;&lt;br /&gt;Mathias Stilling – indædt Brøndby-fan med nogenlunde fodboldevner og ekstrem ringe kondition. Er vokset op i et stærk fodboldlokalmiljø, men er sidenhen blevet frankofil og følger mærkværdigt nok med i PSGs gøren og laden.&lt;br /&gt;3 styrker:&lt;br /&gt;Kan stå på kassen.&lt;br /&gt;Følger absurd mange fodboldkontoer på sociale medier.&lt;br /&gt;Football Manager&lt;br /&gt;&lt;br /&gt;Sebastian Peebles – halvt dansk, halv engelsk. Får stiv pivert af hårde tacklinger og grænseoverskridende adfærd på grønsværen. Landsholdshjertet tilhører England, så ikke 100% assimileret – endnu. Nægter at kalde sig Brøndby-fan, men står fast på at være supporter.&lt;br /&gt;3 styrker:&lt;br /&gt;Er meget nem at begejstre.&lt;br /&gt;Engelsk fodbold.&lt;br /&gt;&lt;br /&gt;Musik:&lt;br /&gt;Upright Music
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44419567
+   </guid>
+   <pubDate>
+    Wed, 21 Apr 2021 10:45:35 +0000
+   </pubDate>
+   <enclosure length="69746112" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44419567/mandagstr_ner1.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Din letfordøjelige sportspodcast, der rammer dig lige i skridthøjde med lunkne fadøl, halve betragtninger og et absurd højt niveau af bedrevidenhed.
 
-Vi ringer også til en god, italiensk ven af programmet for at tage temperaturen i støvlelandet ovenpå EM-triumfen - og så selvfølgelig lige komme forbi Serie A, der begynder om lidt. 
-
-Vært: 
-Mathias Stilling
-
-Gæster: 
-Rasmus Damsholt, radiovært og FC Nordsjælland-fan.
-Luigi d'Ambrosio, lektor på University College Nordjylland, underviser i italiensk, vinimportør og formand i Forza Napoli Danmark.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45766686/mandagstr_ner_f_rste_runde_suppe_og_italien_og_damsholt.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:56:27 +0000</pubDate>
-			<itunes:duration>00:40:52</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45766686/mandagstr_ner_f_rste_runde_suppe_og_italien_og_damsholt.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+Mandagstræneren ved altid bedre end de rigtige trænere, eksperter og andre med meritter. Det gør vi...
+   </itunes:subtitle>
+   <itunes:summary>
+    Din letfordøjelige sportspodcast, der rammer dig lige i skridthøjde med lunkne fadøl, halve betragtninger og et absurd højt niveau af bedrevidenhed.&lt;br /&gt;&lt;br /&gt;Mandagstræneren ved altid bedre end de rigtige trænere, eksperter og andre med meritter. Det gør vi allesammen, for vi er nemlig mandagstrænere.&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;&lt;br /&gt;Toke With – vinnørdende tidligere næsten elitefodboldspiller, der opgav karrieren til fordel for druk og damer. NU 30 år gammel, fodboldinvalid og far til Vera på 7 måneder.&lt;br /&gt;3 styrker:&lt;br /&gt;Ser vitterligt alle Superliga-kampe.&lt;br /&gt;Elsker næsten al sport på en Henrik Linigersk måde.&lt;br /&gt;Udpræget konkurrencemenneske.&lt;br /&gt;&lt;br /&gt;Mathias Stilling – indædt Brøndby-fan med nogenlunde fodboldevner og ekstrem ringe kondition. Er vokset op i et stærk fodboldlokalmiljø, men er sidenhen blevet frankofil og følger mærkværdigt nok med i PSGs gøren og laden.&lt;br /&gt;3 styrker:&lt;br /&gt;Kan stå på kassen.&lt;br /&gt;Følger absurd mange fodboldkontoer på sociale medier.&lt;br /&gt;Football Manager&lt;br /&gt;&lt;br /&gt;Sebastian Peebles – halvt dansk, halv engelsk. Får stiv pivert af hårde tacklinger og grænseoverskridende adfærd på grønsværen. Landsholdshjertet tilhører England, så ikke 100% assimileret – endnu. Nægter at kalde sig Brøndby-fan, men står fast på at være supporter.&lt;br /&gt;3 styrker:&lt;br /&gt;Er meget nem at begejstre.&lt;br /&gt;Engelsk fodbold.&lt;br /&gt;&lt;br /&gt;Musik:&lt;br /&gt;Upright Music
+   </itunes:summary>
+   <itunes:duration>
+    2904
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dabb6a000f8f8092057e2da60a4a8d39.jpg"/>
+   <itunes:season>
+    2
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

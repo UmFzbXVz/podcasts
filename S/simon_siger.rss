@@ -1,19 +1,65 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Simon Siger</title>
-		<link>https://web.24syv.dk/channels/5093</link>
-		<description>Nyheder og snik og snak vælter ud af din mobil hver morgen i en stor pærevælling - men hvad er vigtigt? Hvad er ret ligegyldigt? Hvilke historier bør du læse? Hvad er dagens bedste historie? Og hvilke kan du springe over? Simon Siger læser dagens aviser for dig. 07.30 hvor du finder din podcast.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/938/d5eef47adbd0050c41582a0fa9669db4.jpg"/>
-		<item>
-			<title>hurtig trailer</title>
-			<link>https://api.spreaker.com/download/episode/49555468/hurtig_trailer.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/49555468/hurtig_trailer.mp3</guid>
-			<pubDate>Tue, 26 Apr 2022 08:55:59 +0000</pubDate>
-			<itunes:duration>00:00:26</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/49555468/hurtig_trailer.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Simon Siger
+  </title>
+  <link>
+   https://www.spreaker.com/podcast/simon-siger--5514229
+  </link>
+  <description>
+   Nyheder og snik og snak vælter ud af din mobil hver morgen i en stor pærevælling - men hvad er vigtigt? Hvad er ret ligegyldigt? Hvilke historier bør du læse? Hvad er dagens bedste historie? Og hvilke kan du springe over? Simon Siger læser dagens aviser for dig. 07.30 hvor du finder din podcast.
+  </description>
+  <atom:link href="https://www.spreaker.com/show/5514229/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   News Commentary
+  </category>
+  <copyright>
+   Copyright 24syv
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d5eef47adbd0050c41582a0fa9669db4.jpg
+   </url>
+   <title>
+    Simon Siger
+   </title>
+   <link>
+    https://www.spreaker.com/podcast/simon-siger--5514229
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 22 Jan 2024 14:24:33 +0000
+  </lastBuildDate>
+  <itunes:author>
+   24syv
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    24syv
+   </itunes:name>
+   <itunes:email>
+    podcast@24syv.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d5eef47adbd0050c41582a0fa9669db4.jpg"/>
+  <itunes:subtitle>
+   Nyheder og snik og snak vælter ud af din mobil hver morgen i en stor pærevælling - men hvad er vigtigt? Hvad er ret ligegyldigt? Hvilke historier bør du læse? Hvad er dagens bedste historie? Og hvilke kan du springe over? Simon Siger læser dagens...
+  </itunes:subtitle>
+  <itunes:summary>
+   Nyheder og snik og snak vælter ud af din mobil hver morgen i en stor pærevælling - men hvad er vigtigt? Hvad er ret ligegyldigt? Hvilke historier bør du læse? Hvad er dagens bedste historie? Og hvilke kan du springe over? Simon Siger læser dagens aviser for dig. 07.30 hvor du finder din podcast.
+  </itunes:summary>
+  <itunes:category text="News">
+   <itunes:category text="News Commentary"/>
+  </itunes:category>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+ </channel>
 </rss>

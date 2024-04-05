@@ -1,112 +1,1484 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Costa Del Sol</title>
-		<link>https://web.24syv.dk/channels/5046</link>
-		<description>Costa Del Sol er programmet hvor dine værter Jonas Foldager og Aleksander Bruun holder skansen på morgenfladen, mens det meste af Radio LOUD er taget på sommerferie. Og lige præcis sommerferie, er den stemning de to drenge fylder programmet op med. Der quizzes, inviteres sommergæster, måles temperatur og så finder de hverdag frem til en spændende nyhed fra lokalaviserne rundt om i landet.Så find stråhatten frem, tag solcremen på og nyd ferien.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/883/afe64ddd81bd6109cff430af6354fa52.jpg"/>
-		<item>
-			<title>Temperaturtimen: Termometeret i alkohol-numsen &amp;amp; Miriam slår til igen</title>
-			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45978037/temperaturtimen.mp3</link>
-			<description>Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Costa Del Sol
+  </title>
+  <link>
+   http://loud.land/podcast/costa-del-sol
+  </link>
+  <description>
+   Costa Del Sol er programmet hvor dine værter Jonas Foldager og Aleksander Bruun holder skansen på morgenfladen, mens det meste af Radio LOUD er taget på sommerferie. Og lige præcis sommerferie, er den stemning de to drenge fylder programmet op med. Der quizzes, inviteres sommergæster, måles temperatur og så finder de hverdag frem til en spændende nyhed fra lokalaviserne rundt om i landet.&lt;br /&gt;&lt;br /&gt;Så find stråhatten frem, tag solcremen på og nyd ferien.
+  </description>
+  <atom:link href="https://www.spreaker.com/show/5016042/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Society &amp; Culture
+  </category>
+  <copyright>
+   Copyright LOUD
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg
+   </url>
+   <title>
+    Costa Del Sol
+   </title>
+   <link>
+    http://loud.land/podcast/costa-del-sol
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   LOUD
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    LOUD
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+  <itunes:subtitle>
+   Costa Del Sol er programmet hvor dine værter Jonas Foldager og Aleksander Bruun holder skansen på morgenfladen, mens det meste af Radio LOUD er taget på sommerferie. Og lige præcis sommerferie, er den stemning de to drenge fylder programmet op med....
+  </itunes:subtitle>
+  <itunes:summary>
+   Costa Del Sol er programmet hvor dine værter Jonas Foldager og Aleksander Bruun holder skansen på morgenfladen, mens det meste af Radio LOUD er taget på sommerferie. Og lige præcis sommerferie, er den stemning de to drenge fylder programmet op med. Der quizzes, inviteres sommergæster, måles temperatur og så finder de hverdag frem til en spændende nyhed fra lokalaviserne rundt om i landet.&lt;br /&gt;&lt;br /&gt;Så find stråhatten frem, tag solcremen på og nyd ferien.
+  </itunes:summary>
+  <itunes:category text="Society &amp; Culture"/>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    3. time: Olsen Banden med Morten Messerschmidt &amp; tættere på Koppel
+   </title>
+   <link>
+    https://www.spreaker.com/episode/3-time-olsen-banden-med-morten-messerschmidt-taettere-pa-koppel--46070032
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46070032
+   </guid>
+   <pubDate>
+    Wed, 11 Aug 2021 17:15:00 +0000
+   </pubDate>
+   <enclosure length="131920320" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46070032/3_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </itunes:summary>
+   <itunes:duration>
+    3299
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    2. time: Tilbage til efterskolen med Puk Elgaard
+   </title>
+   <link>
+    https://www.spreaker.com/episode/2-time-tilbage-til-efterskolen-med-puk-elgaard--46070031
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46070031
+   </guid>
+   <pubDate>
+    Wed, 11 Aug 2021 17:15:00 +0000
+   </pubDate>
+   <enclosure length="131920320" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46070031/2_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </itunes:summary>
+   <itunes:duration>
+    3299
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    1. time: Kandis Johnny &amp; den store TV-guide
+   </title>
+   <link>
+    https://www.spreaker.com/episode/1-time-kandis-johnny-den-store-tv-guide--46070029
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46070029
+   </guid>
+   <pubDate>
+    Wed, 11 Aug 2021 17:05:00 +0000
+   </pubDate>
+   <enclosure length="131600640" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46070029/1_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </itunes:summary>
+   <itunes:duration>
+    3291
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    3. time: Farvel Messi &amp; et stykke med Naser Khader
+   </title>
+   <link>
+    https://www.spreaker.com/episode/3-time-farvel-messi-et-stykke-med-naser-khader--46069882
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46069882
+   </guid>
+   <pubDate>
+    Tue, 10 Aug 2021 16:53:00 +0000
+   </pubDate>
+   <enclosure length="131280000" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46069882/3_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </itunes:summary>
+   <itunes:duration>
+    3282
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    2. time: En helt ny brevkasse &amp; Spot Festival præsenterer
+   </title>
+   <link>
+    https://www.spreaker.com/episode/2-time-en-helt-ny-brevkasse-spot-festival-praesenterer--46069880
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46069880
+   </guid>
+   <pubDate>
+    Tue, 10 Aug 2021 16:51:00 +0000
+   </pubDate>
+   <enclosure length="131280000" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46069880/2_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </itunes:summary>
+   <itunes:duration>
+    3282
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    1. time: Dagens fødselsdag nu med sang &amp; CPH fashion week
+   </title>
+   <link>
+    https://www.spreaker.com/episode/1-time-dagens-fodselsdag-nu-med-sang-cph-fashion-week--46069878
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46069878
+   </guid>
+   <pubDate>
+    Tue, 10 Aug 2021 16:51:00 +0000
+   </pubDate>
+   <enclosure length="131280000" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46069878/1_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+   </itunes:summary>
+   <itunes:duration>
+    3282
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Temperaturtimen: Jonas holder fest &amp; vores Kanye-kender Anton
+   </title>
+   <link>
+    https://www.spreaker.com/episode/temperaturtimen-jonas-holder-fest-vores-kanye-kender-anton--45990151
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 6. August. &lt;br /&gt;Jonas vil holde fest, men ved ikke hvilken slags fest det skal være - derfor tager vi en test på Woman.dk. Vores Makker i Marken er i dag lidt af special - vi er så heldige at få musikanmelderen Anton Nørbæk i telefonen, hvor han kan fortælle lidt om den gode Kanye West og hvornår det album muligvis dropper.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45990151
+   </guid>
+   <pubDate>
+    Fri, 06 Aug 2021 09:00:23 +0000
+   </pubDate>
+   <enclosure length="112720320" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45990151/temperaturtimen.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 6. August. 
+Jonas vil holde fest, men ved ikke hvilken...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 6. August. &lt;br /&gt;Jonas vil holde fest, men ved ikke hvilken slags fest det skal være - derfor tager vi en test på Woman.dk. Vores Makker i Marken er i dag lidt af special - vi er så heldige at få musikanmelderen Anton Nørbæk i telefonen, hvor han kan fortælle lidt om den gode Kanye West og hvornår det album muligvis dropper.
+   </itunes:summary>
+   <itunes:duration>
+    2819
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Den lokale time: Den bilfrie TunØ &amp; rollespil i Furesø
+   </title>
+   <link>
+    https://www.spreaker.com/episode/den-lokale-time-den-bilfrie-tuno-rollespil-i-fureso--45990058
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 6. August. &lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Tunø, hvor turistguiden Jens Thaysen fortæller om sin ekstra dejlige Ø. Dagens Lokal avis blev Furesø Avis, hvor redaktøren Jens Thomsen kan fortælle om rollespil i Hareskov og om flugten fra Hønsegården.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45990058
+   </guid>
+   <pubDate>
+    Fri, 06 Aug 2021 08:50:33 +0000
+   </pubDate>
+   <enclosure length="131600640" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45990058/den_lokale_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 6. August. 
+I den lokale time tager Jonas og Aleksander...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 6. August. &lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Tunø, hvor turistguiden Jens Thaysen fortæller om sin ekstra dejlige Ø. Dagens Lokal avis blev Furesø Avis, hvor redaktøren Jens Thomsen kan fortælle om rollespil i Hareskov og om flugten fra Hønsegården.
+   </itunes:summary>
+   <itunes:duration>
+    3291
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    I Nyhedernes Tegn: Dyne Larsen &amp; Aleksanders overtagelse af Hits 4 News
+   </title>
+   <link>
+    https://www.spreaker.com/episode/i-nyhedernes-tegn-dyne-larsen-aleksanders-overtagelse-af-hits-4-news--45989977
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 6. August.&lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - I da er det en dansk legende - vi fejrer nemlig Lars Larsen aka. Dyne-Larsen. Det betyder selvfølgelig quiz og højt humør. Aleksander overtager Hits 4 News hvor han leverer en overbevisende præstation.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45989977
+   </guid>
+   <pubDate>
+    Fri, 06 Aug 2021 08:41:40 +0000
+   </pubDate>
+   <enclosure length="101840640" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45989977/i_nyhedernes_tegn.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 6. August.
+I den første time af dagens afsnit står den i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 6. August.&lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - I da er det en dansk legende - vi fejrer nemlig Lars Larsen aka. Dyne-Larsen. Det betyder selvfølgelig quiz og højt humør. Aleksander overtager Hits 4 News hvor han leverer en overbevisende præstation.
+   </itunes:summary>
+   <itunes:duration>
+    2547
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Temperaturtimen: Termometeret i alkohol-numsen &amp; Miriam slår til igen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/temperaturtimen-termometeret-i-alkohol-numsen-miriam-slar-til-igen--45978037
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 5. august.&lt;br /&gt;Vores makker i marken er i dag en gammel kending og en ven af programmet, nemlig Miriam Leander. Smilet er stort for det skal handle om smilets by aka. Aarhus. Du får den helt store guide til alt fra et Aarhus-sæt til en udstilling på Aros.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45978037
+   </guid>
+   <pubDate>
+    Thu, 05 Aug 2021 11:15:50 +0000
+   </pubDate>
+   <enclosure length="118160640" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45978037/temperaturtimen.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 5. august.
+Vores makker i marken er i dag en gammel...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 5. august.&lt;br /&gt;Vores makker i marken er i dag en gammel kending og en ven af programmet, nemlig Miriam Leander. Smilet er stort for det skal handle om smilets by aka. Aarhus. Du får den helt store guide til alt fra et Aarhus-sæt til en udstilling på Aros.
+   </itunes:summary>
+   <itunes:duration>
+    2955
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Den lokale time: Det afhuggede hoved på Orø &amp; Vildt bryllup i Lemvig
+   </title>
+   <link>
+    https://www.spreaker.com/episode/den-lokale-time-det-afhuggede-hoved-pa-oro-vildt-bryllup-i-lemvig--45978012
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 5. august. &lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Orø, hvor Ole Nielsen fortæller røverhistorier, tips og tricks til din tur til Orø, vi er i hvert fald klar til at tage færgen med det samme til dagens Ø. Dagens lokal avis blev Folkebladet Lemvig, hvor vi snakker med redaktøren Lars Kamstrup der fortæller hvad de helt store historier i Lemvig og omegn er lige i øjeblikket.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45978012
+   </guid>
+   <pubDate>
+    Thu, 05 Aug 2021 11:13:49 +0000
+   </pubDate>
+   <enclosure length="131440320" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45978012/den_lokale_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 5. august. 
+I den lokale time tager Jonas og Aleksander...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 5. august. &lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Orø, hvor Ole Nielsen fortæller røverhistorier, tips og tricks til din tur til Orø, vi er i hvert fald klar til at tage færgen med det samme til dagens Ø. Dagens lokal avis blev Folkebladet Lemvig, hvor vi snakker med redaktøren Lars Kamstrup der fortæller hvad de helt store historier i Lemvig og omegn er lige i øjeblikket.
+   </itunes:summary>
+   <itunes:duration>
+    3287
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    I Nyhedernes Tegn: Er det ham cykelrytteren?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/i-nyhedernes-tegn-er-det-ham-cykelrytteren--45977997
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 5. august&lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - Den første mand på månen, nemlig Neil Armstrong  - Men mange siger altid, er det ham cykelrytteren? Nejnej, men vi fejrer fødselsdagen med quizzen Niel eller Lance Armstrong. Jonas tager sig helt sammen og overgår sig selv i den måske bedste Hits 4 News.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45977997
+   </guid>
+   <pubDate>
+    Thu, 05 Aug 2021 11:11:34 +0000
+   </pubDate>
+   <enclosure length="102480000" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45977997/i_nyheders_tegn.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 5. august
+I den første time af dagens afsnit står den i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 5. august&lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - Den første mand på månen, nemlig Neil Armstrong  - Men mange siger altid, er det ham cykelrytteren? Nejnej, men vi fejrer fødselsdagen med quizzen Niel eller Lance Armstrong. Jonas tager sig helt sammen og overgår sig selv i den måske bedste Hits 4 News.
+   </itunes:summary>
+   <itunes:duration>
+    2562
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Temperaturtimen: Mere OL end nødvendigt og Jeppe på bjerget i Norge
+   </title>
+   <link>
+    https://www.spreaker.com/episode/temperaturtimen-mere-ol-end-nodvendigt-og-jeppe-pa-bjerget-i-norge--45963264
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;Vores makker i marken er i dag Jeppe Østergaard, som er ven af programmet. Jeppe er oppe for at besøge sin søde kæreste som kommer fra byen Hamar i Norge. Jeppe er derfor ekspert i områder og hvad man bare SKAL se, hvis man lige kommer et smut forbi Hamar.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45963264
+   </guid>
+   <pubDate>
+    Wed, 04 Aug 2021 10:45:51 +0000
+   </pubDate>
+   <enclosure length="108400320" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45963264/temperaturtimen.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
 
-d. 5. august.
-Vores makker i marken er i dag en gammel kending og en ven af programmet, nemlig Miriam Leander. Smilet er stort for det skal handle om smilets by aka. Aarhus. Du får den helt store guide til alt fra et Aarhus-sæt til en udstilling på Aros.</description>
-			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45978037/temperaturtimen.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 10:13:34 +0000</pubDate>
-			<itunes:duration>00:49:14</itunes:duration>
-			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45978037/temperaturtimen.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>I Nyhedernes Tegn: Dyne Larsen &amp;amp; Aleksanders overtagelse af Hits 4 News</title>
-			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45989977/i_nyhedernes_tegn.mp3</link>
-			<description>Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
-
-d. 6. August.
-I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - I da er det en dansk legende - vi fejrer nemlig Lars Larsen aka. Dyne-Larsen. Det betyder selvfølgelig quiz og højt humør. Aleksander overtager Hits 4 News hvor han leverer en overbevisende præstation.</description>
-			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45989977/i_nyhedernes_tegn.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 10:13:34 +0000</pubDate>
-			<itunes:duration>00:42:26</itunes:duration>
-			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45989977/i_nyhedernes_tegn.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Den lokale time: Den bilfrie TunØ &amp;amp; rollespil i Furesø</title>
-			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45990058/den_lokale_time.mp3</link>
-			<description>Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
-
-d. 6. August. 
-I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Tunø, hvor turistguiden Jens Thaysen fortæller om sin ekstra dejlige Ø. Dagens Lokal avis blev Furesø Avis, hvor redaktøren Jens Thomsen kan fortælle om rollespil i Hareskov og om flugten fra Hønsegården.</description>
-			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45990058/den_lokale_time.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 10:13:34 +0000</pubDate>
-			<itunes:duration>00:54:50</itunes:duration>
-			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45990058/den_lokale_time.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Temperaturtimen: Jonas holder fest &amp;amp; vores Kanye-kender Anton</title>
-			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45990151/temperaturtimen.mp3</link>
-			<description>Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
-
-d. 6. August. 
-Jonas vil holde fest, men ved ikke hvilken slags fest det skal være - derfor tager vi en test på Woman.dk. Vores Makker i Marken er i dag lidt af special - vi er så heldige at få musikanmelderen Anton Nørbæk i telefonen, hvor han kan fortælle lidt om den gode Kanye West og hvornår det album muligvis dropper.</description>
-			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45990151/temperaturtimen.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 10:13:34 +0000</pubDate>
-			<itunes:duration>00:46:58</itunes:duration>
-			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45990151/temperaturtimen.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>1. time: Dagens fødselsdag nu med sang &amp;amp; CPH fashion week</title>
-			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46069878/1_time.mp3</link>
-			<description>Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.</description>
-			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46069878/1_time.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 10:13:34 +0000</pubDate>
-			<itunes:duration>00:54:42</itunes:duration>
-			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46069878/1_time.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>2. time: En helt ny brevkasse &amp;amp; Spot Festival præsenterer</title>
-			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46069880/2_time.mp3</link>
-			<description>Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.</description>
-			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46069880/2_time.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 10:13:33 +0000</pubDate>
-			<itunes:duration>00:54:42</itunes:duration>
-			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46069880/2_time.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>3. time: Farvel Messi &amp;amp; et stykke med Naser Khader</title>
-			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46069882/3_time.mp3</link>
-			<description>Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.</description>
-			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46069882/3_time.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 10:13:33 +0000</pubDate>
-			<itunes:duration>00:54:42</itunes:duration>
-			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46069882/3_time.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>1. time: Kandis Johnny &amp;amp; den store TV-guide</title>
-			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46070029/1_time.mp3</link>
-			<description>Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.</description>
-			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46070029/1_time.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 10:13:33 +0000</pubDate>
-			<itunes:duration>00:54:50</itunes:duration>
-			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46070029/1_time.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>2. time: Tilbage til efterskolen med Puk Elgaard</title>
-			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46070031/2_time.mp3</link>
-			<description>Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.</description>
-			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46070031/2_time.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 10:13:33 +0000</pubDate>
-			<itunes:duration>00:54:58</itunes:duration>
-			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46070031/2_time.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>3. time: Olsen Banden med Morten Messerschmidt &amp;amp; tættere på Koppel</title>
-			<link>https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46070032/3_time.mp3</link>
-			<description>Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.</description>
-			<guid isPermaLink="true">https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46070032/3_time.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 10:13:33 +0000</pubDate>
-			<itunes:duration>00:54:58</itunes:duration>
-			<enclosure url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/46070032/3_time.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+Vores makker i marken er i dag Jeppe Østergaard, som er ven af...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;Vores makker i marken er i dag Jeppe Østergaard, som er ven af programmet. Jeppe er oppe for at besøge sin søde kæreste som kommer fra byen Hamar i Norge. Jeppe er derfor ekspert i områder og hvad man bare SKAL se, hvis man lige kommer et smut forbi Hamar.
+   </itunes:summary>
+   <itunes:duration>
+    2711
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Den lokale time: Turist-Guiden Henry fra Sejerø og færgemani på Lolland-Falster
+   </title>
+   <link>
+    https://www.spreaker.com/episode/den-lokale-time-turist-guiden-henry-fra-sejero-og-faergemani-pa-lolland-falster--45963168
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 4. august.&lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Sejerø, hvor Henry Larsen giver ekstra gode tips og tricks til hans naturskønne Ø. Dagens lokal avis blev Ugeavisen Lolland, hvor vi var så heldige at snakke med Anders Brønholt aka. Mr. Radio, der er radiochef for Radio Sydhavnsøerne.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45963168
+   </guid>
+   <pubDate>
+    Wed, 04 Aug 2021 10:42:55 +0000
+   </pubDate>
+   <enclosure length="131920320" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45963168/den_lokale_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 4. august.
+I den lokale time tager Jonas og Aleksander...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 4. august.&lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Sejerø, hvor Henry Larsen giver ekstra gode tips og tricks til hans naturskønne Ø. Dagens lokal avis blev Ugeavisen Lolland, hvor vi var så heldige at snakke med Anders Brønholt aka. Mr. Radio, der er radiochef for Radio Sydhavnsøerne.
+   </itunes:summary>
+   <itunes:duration>
+    3299
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    I Nyhedernes Tegn: The GOATs Obama og Løkke
+   </title>
+   <link>
+    https://www.spreaker.com/episode/i-nyhedernes-tegn-the-goats-obama-og-lokke--45963157
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;d. 4. august. &lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - Den bedste præsident i byen Barack Obama fylder 60 år - det fejrer vi med quizzen Barack Obama eller bare Løkke. Jonas tager sig bare en smule sammen og overgår sig selv i dagens Hits 4 News.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45963157
+   </guid>
+   <pubDate>
+    Wed, 04 Aug 2021 10:32:35 +0000
+   </pubDate>
+   <enclosure length="101200320" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45963157/i_nyhederens_tegn.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+d. 4. august. 
+I den første time af dagens afsnit står den i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;d. 4. august. &lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - Den bedste præsident i byen Barack Obama fylder 60 år - det fejrer vi med quizzen Barack Obama eller bare Løkke. Jonas tager sig bare en smule sammen og overgår sig selv i dagens Hits 4 News.
+   </itunes:summary>
+   <itunes:duration>
+    2531
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Temperaturtimen: Ekstra mange i æbler i Ebeltoft
+   </title>
+   <link>
+    https://www.spreaker.com/episode/temperaturtimen-ekstra-mange-i-aebler-i-ebeltoft--45948906
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;Vores makker i marken er i dag Jonas Hammer, som er ven af programmet. Han har en stor kærlighed og dedikation for sin hjemby Ebeltoft, hvor især de mange æbler i byen, betyder meget for Jonas - så meget at det faktisk har været et problem.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45948906
+   </guid>
+   <pubDate>
+    Tue, 03 Aug 2021 11:06:23 +0000
+   </pubDate>
+   <enclosure length="97520640" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45948906/temperaturtimen.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+Vores makker i marken er i dag Jonas Hammer, som er ven af...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;Vores makker i marken er i dag Jonas Hammer, som er ven af programmet. Han har en stor kærlighed og dedikation for sin hjemby Ebeltoft, hvor især de mange æbler i byen, betyder meget for Jonas - så meget at det faktisk har været et problem.
+   </itunes:summary>
+   <itunes:duration>
+    2439
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Den lokale time: Kryddersnaps med Tove fra Endelave og Lokalavisen fra Varde
+   </title>
+   <link>
+    https://www.spreaker.com/episode/den-lokale-time-kryddersnaps-med-tove-fra-endelave-og-lokalavisen-fra-varde--45948874
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 3. August. &lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Endelave, hvor Endelaves søde Guide Tove Yde viser os rundt på hendes skønne Kanin-Ø. Dagens avis er fra Varde, hvor vi snakkede med Dorthe Knudsen om de store historier fra Varde og omegn - især her skaber en kamp mellem to lokale håndboldhold stor drama.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45948874
+   </guid>
+   <pubDate>
+    Tue, 03 Aug 2021 11:05:22 +0000
+   </pubDate>
+   <enclosure length="131280000" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45948874/den_lokale_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 3. August. 
+I den lokale time tager Jonas og Aleksander...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 3. August. &lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Endelave, hvor Endelaves søde Guide Tove Yde viser os rundt på hendes skønne Kanin-Ø. Dagens avis er fra Varde, hvor vi snakkede med Dorthe Knudsen om de store historier fra Varde og omegn - især her skaber en kamp mellem to lokale håndboldhold stor drama.
+   </itunes:summary>
+   <itunes:duration>
+    3282
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    I Nyhedernes Tegn: Dagens nyheder og Metallica eller Christopher-Quiz
+   </title>
+   <link>
+    https://www.spreaker.com/episode/i-nyhedernes-tegn-dagens-nyheder-og-metallica-eller-christopher-quiz--45948825
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 3. August. &lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - Forsangeren fra bandet Metallica fylder år, det fejrer vi med quizzen Metallica eller Medinas-eks citatquiz. Jonas laver en middelmådig præstation i Hits 4 News, så intet nyt under solen.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45948825
+   </guid>
+   <pubDate>
+    Tue, 03 Aug 2021 11:03:37 +0000
+   </pubDate>
+   <enclosure length="100880640" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45948825/i_nyhedernes_tegn.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 3. August. 
+I den første time af dagens afsnit står den...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 3. August. &lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - Forsangeren fra bandet Metallica fylder år, det fejrer vi med quizzen Metallica eller Medinas-eks citatquiz. Jonas laver en middelmådig præstation i Hits 4 News, så intet nyt under solen.
+   </itunes:summary>
+   <itunes:duration>
+    2523
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Temperaturtimen: Krogerup Højskole og Humlepubben
+   </title>
+   <link>
+    https://www.spreaker.com/episode/temperaturtimen-krogerup-hojskole-og-humlepubben--45934227
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 2. august.&lt;br /&gt;Vores makker i marken er i dag Signe Daugaard, som er ven af programmet. Hun fortæller lidt om alt det gode når man går på Krogerup Højskole, og hvordan den perfekte dag er i nabobyen Humlebæk. De to værter quizzer også i Femina eller Brinkmann.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45934227
+   </guid>
+   <pubDate>
+    Mon, 02 Aug 2021 09:40:11 +0000
+   </pubDate>
+   <enclosure length="106960320" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45934227/temperaturtimen.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 2. august.
+Vores makker i marken er i dag Signe...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 2. august.&lt;br /&gt;Vores makker i marken er i dag Signe Daugaard, som er ven af programmet. Hun fortæller lidt om alt det gode når man går på Krogerup Højskole, og hvordan den perfekte dag er i nabobyen Humlebæk. De to værter quizzer også i Femina eller Brinkmann.
+   </itunes:summary>
+   <itunes:duration>
+    2675
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Den lokale time: Maximus Bonjour på Læsø og det ekstra lokale Tårnby-blad
+   </title>
+   <link>
+    https://www.spreaker.com/episode/den-lokale-time-maximus-bonjour-pa-laeso-og-det-ekstra-lokale-tarnby-blad--45934208
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 2. august.&lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Læsø, hvor Læsøs kulturmand og digter Jon Eirik Lundberg aka. Maximus Bonjour kommer med med anekdoter og gode råd til hvis man besøger øen. Dagens avis blev Tårnby Blad, hvor vi snakkede med Terkel Spangsbo som kommer med de store historie fra Tårnby og omegn.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45934208
+   </guid>
+   <pubDate>
+    Mon, 02 Aug 2021 09:38:10 +0000
+   </pubDate>
+   <enclosure length="132000000" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45934208/den_lokale_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 2. august.
+I den lokale time tager Jonas og Aleksander...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 2. august.&lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Læsø, hvor Læsøs kulturmand og digter Jon Eirik Lundberg aka. Maximus Bonjour kommer med med anekdoter og gode råd til hvis man besøger øen. Dagens avis blev Tårnby Blad, hvor vi snakkede med Terkel Spangsbo som kommer med de store historie fra Tårnby og omegn.
+   </itunes:summary>
+   <itunes:duration>
+    3300
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    I Nyhedernes Tegn: Hans eller Ulf Pilgaard?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/i-nyhedernes-tegn-hans-eller-ulf-pilgaard--45934190
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 2. august.&lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - Den eneste rigtige Hvem vil være millionær-vært. Tillykke til Hans Pilgaard og samtidig også tillykke til Jonas der laver comeback i Hits 4 News.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45934190
+   </guid>
+   <pubDate>
+    Mon, 02 Aug 2021 09:36:35 +0000
+   </pubDate>
+   <enclosure length="102480000" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45934190/i_nyhedernes_tegn.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 2. august.
+I den første time af dagens afsnit står den i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 2. august.&lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - Den eneste rigtige Hvem vil være millionær-vært. Tillykke til Hans Pilgaard og samtidig også tillykke til Jonas der laver comeback i Hits 4 News.
+   </itunes:summary>
+   <itunes:duration>
+    2562
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Temperaturtimen: Melfar aka. Middelfart &amp; Nik og Jay Quiz
+   </title>
+   <link>
+    https://www.spreaker.com/episode/temperaturtimen-melfar-aka-middelfart-nik-og-jay-quiz--45902021
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;I dette afsnit viser Jonas og Aleksander deres forsøg på at lave en voxpop - bedøm selv resultatet. Vores makker i marken Freja Skall fortæller om den perfekte dag i Melfar aka. Middelfart, og om der skal flødeskum på en brunsviger eller ej.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45902021
+   </guid>
+   <pubDate>
+    Fri, 30 Jul 2021 11:11:56 +0000
+   </pubDate>
+   <enclosure length="93120000" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45902021/temperaturtimentime.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+I dette afsnit viser Jonas og Aleksander deres forsøg på at...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;I dette afsnit viser Jonas og Aleksander deres forsøg på at lave en voxpop - bedøm selv resultatet. Vores makker i marken Freja Skall fortæller om den perfekte dag i Melfar aka. Middelfart, og om der skal flødeskum på en brunsviger eller ej.
+   </itunes:summary>
+   <itunes:duration>
+    2328
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Den lokale time: Borgmesteren fra Fanø &amp; odderen der spiser guldfisk
+   </title>
+   <link>
+    https://www.spreaker.com/episode/den-lokale-time-borgmesteren-fra-fano-odderen-der-spiser-guldfisk--45902007
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 30. juli.&lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Fanø, hvor Fanøs borgmester Sofie Valbjørn kommer med med anekdoter og gode råd til hvis man besøger øen. Dagens avis blev Viborg Stifts Folkeblad, hvor vi snakkede med Lars Nyborg kommer med den store historie om opklaringen om de forsvindende guldfisk i folks haver.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45902007
+   </guid>
+   <pubDate>
+    Fri, 30 Jul 2021 11:11:14 +0000
+   </pubDate>
+   <enclosure length="131600640" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45902007/den_lokale_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 30. juli.
+I den lokale time tager Jonas og Aleksander ud...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 30. juli.&lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Fanø, hvor Fanøs borgmester Sofie Valbjørn kommer med med anekdoter og gode råd til hvis man besøger øen. Dagens avis blev Viborg Stifts Folkeblad, hvor vi snakkede med Lars Nyborg kommer med den store historie om opklaringen om de forsvindende guldfisk i folks haver.
+   </itunes:summary>
+   <itunes:duration>
+    3291
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    I Nyhedernes Tegn: Den hidtil bedste Hits 4 news &amp; tillykke til Anne Linnet
+   </title>
+   <link>
+    https://www.spreaker.com/episode/i-nyhedernes-tegn-den-hidtil-bedste-hits-4-news-tillykke-til-anne-linnet--45902002
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 30. juli.&lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - Den største af dem alle har nemlig fødselsdag. Tillykke til Anne Linnet og samtidig også tillykke til Aleksander der viser hvordan Hits 4 News skal laves.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45902002
+   </guid>
+   <pubDate>
+    Fri, 30 Jul 2021 11:10:21 +0000
+   </pubDate>
+   <enclosure length="102480000" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45902002/i_nyhedernes_tegn.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 30. juli.
+I den første time af dagens afsnit står den i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 30. juli.&lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - Den største af dem alle har nemlig fødselsdag. Tillykke til Anne Linnet og samtidig også tillykke til Aleksander der viser hvordan Hits 4 News skal laves.
+   </itunes:summary>
+   <itunes:duration>
+    2562
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Temperaturtimen: Lolland eller Falster? Benjamin Hav eller ej?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/temperaturtimen-lolland-eller-falster-benjamin-hav-eller-ej--45888592
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 29. juli. &lt;br /&gt;I dette afsnit bliver der snakket om andre veje end drømmestudiet, og at det hele nok skal gå. Vi ringer til Cecilie Fogtmann som er dagens “makker i marken”, hvor hun fortæller om den perfekte dag med kun to øl i maven.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45888592
+   </guid>
+   <pubDate>
+    Thu, 29 Jul 2021 12:29:23 +0000
+   </pubDate>
+   <enclosure length="100400640" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45888592/temperaturtimen.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 29. juli. 
+I dette afsnit bliver der snakket om andre...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 29. juli. &lt;br /&gt;I dette afsnit bliver der snakket om andre veje end drømmestudiet, og at det hele nok skal gå. Vi ringer til Cecilie Fogtmann som er dagens “makker i marken”, hvor hun fortæller om den perfekte dag med kun to øl i maven.
+   </itunes:summary>
+   <itunes:duration>
+    2511
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Den lokale time: Der skal en blind mand til at vise folk det de overser
+   </title>
+   <link>
+    https://www.spreaker.com/episode/den-lokale-time-der-skal-en-blind-mand-til-at-vise-folk-det-de-overser--45888565
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;d. 29. juli.&lt;br /&gt;&lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø var Fur, hvor den blinde busguide og museumsinspektør kom med historier og gode citater. Dagens avis blev Odder Avis, hvor vi snakkede med Anya om de store og små historier i Odder og omegn.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45888565
+   </guid>
+   <pubDate>
+    Thu, 29 Jul 2021 12:28:16 +0000
+   </pubDate>
+   <enclosure length="130640640" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45888565/den_lokale_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+d. 29. juli.
+
+I den lokale time tager Jonas og Aleksander ud...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;d. 29. juli.&lt;br /&gt;&lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø var Fur, hvor den blinde busguide og museumsinspektør kom med historier og gode citater. Dagens avis blev Odder Avis, hvor vi snakkede med Anya om de store og små historier i Odder og omegn.
+   </itunes:summary>
+   <itunes:duration>
+    3267
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    I Nyhedernes Tegn: Tillykke til Troels eller Bo Bech?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/i-nyhedernes-tegn-tillykke-til-troels-eller-bo-bech--45888546
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 29. juli.&lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - Troels Bech bliver fejret med en Bo Bech eller Troels Bech citat quiz, mon Aleksander kan gætte rigtigt?
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45888546
+   </guid>
+   <pubDate>
+    Thu, 29 Jul 2021 12:25:51 +0000
+   </pubDate>
+   <enclosure length="100240320" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45888546/i_nyhedernes_tegn.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+
+d. 29. juli.
+I den første time af dagens afsnit står den i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt;&lt;br /&gt;d. 29. juli.&lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer det faste indslag med en ekstra stor fejring af dagens fødselar - Troels Bech bliver fejret med en Bo Bech eller Troels Bech citat quiz, mon Aleksander kan gætte rigtigt?
+   </itunes:summary>
+   <itunes:duration>
+    2507
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Temperaturtimen: Sommerhus i Tisvilde &amp; En høj temperaturstigning.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/temperaturtimen-sommerhus-i-tisvilde-en-hoj-temperaturstigning--45871432
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d. 28. juli. &lt;br /&gt;I dette afsnit bliver der snakket om stigningen af romancer om sommeren. Vi ringer til Magnus Garde-Strandberg som er dagens “makker i marken”, hvor han fortæller om den perfekte dag hvis man kommer til Tisvilde.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45871432
+   </guid>
+   <pubDate>
+    Wed, 28 Jul 2021 10:20:11 +0000
+   </pubDate>
+   <enclosure length="105680640" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45871432/temperaturtimen.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. 
+
+d. 28. juli. 
+I dette afsnit bliver der snakket om...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d. 28. juli. &lt;br /&gt;I dette afsnit bliver der snakket om stigningen af romancer om sommeren. Vi ringer til Magnus Garde-Strandberg som er dagens “makker i marken”, hvor han fortæller om den perfekte dag hvis man kommer til Tisvilde.
+   </itunes:summary>
+   <itunes:duration>
+    2643
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Den lokale time: Inge-Lises Femø &amp; Jobtilbud fra Samsø-Posten.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/den-lokale-time-inge-lises-femo-jobtilbud-fra-samso-posten--45871418
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d. 28. juli.&lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Femø, hvor den lokale Inge-Lise fortæller om hendes dejlige ø. Ved hjælp af lokalhjulet kommer drengene til Samsø, hvor de snakker med Jens Øster-Mortensen som er journalist for den lokale avis, Samsø-Posten.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45871418
+   </guid>
+   <pubDate>
+    Wed, 28 Jul 2021 10:19:28 +0000
+   </pubDate>
+   <enclosure length="131440320" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45871418/den_lokale_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. 
+
+d. 28. juli.
+I den lokale time tager Jonas og Aleksander...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d. 28. juli.&lt;br /&gt;I den lokale time tager Jonas og Aleksander ud i det danske land. Dagens Ø er Femø, hvor den lokale Inge-Lise fortæller om hendes dejlige ø. Ved hjælp af lokalhjulet kommer drengene til Samsø, hvor de snakker med Jens Øster-Mortensen som er journalist for den lokale avis, Samsø-Posten.
+   </itunes:summary>
+   <itunes:duration>
+    3287
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    I Nyhedernes Tegn: Gummi Tarzan &amp; Musikalsk præcision
+   </title>
+   <link>
+    https://www.spreaker.com/episode/i-nyhedernes-tegn-gummi-tarzan-musikalsk-praecision--45871407
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d. 28. Juli. &lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer de faste indslag med en ekstra stor dagens fødselsdagsfejring og hits 4 news, hvor dagens nyheder skal gennemgåes.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45871407
+   </guid>
+   <pubDate>
+    Wed, 28 Jul 2021 10:18:42 +0000
+   </pubDate>
+   <enclosure length="101520000" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45871407/i_nyhedernes_tegn.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. 
+
+d. 28. Juli. 
+I den første time af dagens afsnit står den...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d. 28. Juli. &lt;br /&gt;I den første time af dagens afsnit står den i nyhedernes tegn. Dermed kommer de faste indslag med en ekstra stor dagens fødselsdagsfejring og hits 4 news, hvor dagens nyheder skal gennemgåes.
+   </itunes:summary>
+   <itunes:duration>
+    2538
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Teperaturtimen: Vandtemperatur &amp; En rigtig Teis-Teis-dag i Vordingborg
+   </title>
+   <link>
+    https://www.spreaker.com/episode/teperaturtimen-vandtemperatur-en-rigtig-teis-teis-dag-i-vordingborg--45856794
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d 27. Juli.&lt;br /&gt;&lt;br /&gt;I den sidste time af dagens afsnit af Costa Del Sol, skal det handle om at tage temperaturen. Værterne starter ud med at tage temperatruen på sig selv, og snakker om badevaner og svede turer på Mc Donalds. Det er også i den her time at det altid populære indslag "En Makker I Marken" bliver udført. Dagens Makker er Teis som er igennem live fra Vordingborg. Han guider os igennem en helt perfekt Teis-Teis-dag, som både byder på quiz og genbrugstur.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45856794
+   </guid>
+   <pubDate>
+    Tue, 27 Jul 2021 11:14:30 +0000
+   </pubDate>
+   <enclosure length="96720000" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45856794/teperaturtimen.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. 
+
+d 27. Juli.
+
+I den sidste time af dagens afsnit af Costa...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d 27. Juli.&lt;br /&gt;&lt;br /&gt;I den sidste time af dagens afsnit af Costa Del Sol, skal det handle om at tage temperaturen. Værterne starter ud med at tage temperatruen på sig selv, og snakker om badevaner og svede turer på Mc Donalds. Det er også i den her time at det altid populære indslag "En Makker I Marken" bliver udført. Dagens Makker er Teis som er igennem live fra Vordingborg. Han guider os igennem en helt perfekt Teis-Teis-dag, som både byder på quiz og genbrugstur.
+   </itunes:summary>
+   <itunes:duration>
+    2418
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Den Lokale time: Krøllebølle &amp; Kæmpe fart på Randers
+   </title>
+   <link>
+    https://www.spreaker.com/episode/den-lokale-time-krollebolle-kaempe-fart-pa-randers--45856716
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d 27. Juli.&lt;br /&gt;&lt;br /&gt;I den anden time af dagens afsnit af Costa Del Sol, bliver det ultra lokalt. De to værter vælger nemlig Bornholm som dagens Ø og får fat i en vaske ægte bornholmer ekspert. De spinner også det store lokalhjul, som i dag lander på Randers Amt Avis. Aleksander og Jonas får derfor fat i Chefredaktøren på Randers Amt Avis, som deler ud af sin mangeårige erfaring.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45856716
+   </guid>
+   <pubDate>
+    Tue, 27 Jul 2021 11:07:07 +0000
+   </pubDate>
+   <enclosure length="130000320" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45856716/den_lokale_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. 
+
+d 27. Juli.
+
+I den anden time af dagens afsnit af Costa...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d 27. Juli.&lt;br /&gt;&lt;br /&gt;I den anden time af dagens afsnit af Costa Del Sol, bliver det ultra lokalt. De to værter vælger nemlig Bornholm som dagens Ø og får fat i en vaske ægte bornholmer ekspert. De spinner også det store lokalhjul, som i dag lander på Randers Amt Avis. Aleksander og Jonas får derfor fat i Chefredaktøren på Randers Amt Avis, som deler ud af sin mangeårige erfaring.
+   </itunes:summary>
+   <itunes:duration>
+    3251
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    I Nyhedernes Tegn: Coster Waldau Quizzz &amp; Blåhvaler på land
+   </title>
+   <link>
+    https://www.spreaker.com/episode/i-nyhedernes-tegn-coster-waldau-quizzz-blahvaler-pa-land--45856661
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d 27. Juli.&lt;br /&gt;&lt;br /&gt;I denne første time af dagens Costa Del Sol, fejre de to værter Nikolaj Coster Waldau' fødselsdag med en god gammeldags Coster Waldau Quizzz. Der leges også hits 4 news, og så lærer Aleksander hvorfor en blåhval ville dø hvis den kom på land.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45856661
+   </guid>
+   <pubDate>
+    Tue, 27 Jul 2021 11:00:01 +0000
+   </pubDate>
+   <enclosure length="103760640" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45856661/i_nyhedernes_tegn.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. 
+
+d 27. Juli.
+
+I denne første time af dagens Costa Del Sol,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d 27. Juli.&lt;br /&gt;&lt;br /&gt;I denne første time af dagens Costa Del Sol, fejre de to værter Nikolaj Coster Waldau' fødselsdag med en god gammeldags Coster Waldau Quizzz. Der leges også hits 4 news, og så lærer Aleksander hvorfor en blåhval ville dø hvis den kom på land.
+   </itunes:summary>
+   <itunes:duration>
+    2595
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Temperaturtimen: Aleksander er 31,5 grad &amp; Miriams anbefaler brætspil
+   </title>
+   <link>
+    https://www.spreaker.com/episode/temperaturtimen-aleksander-er-31-5-grad-miriams-anbefaler-braetspil--45844356
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d 26. Juli &lt;br /&gt;Det er hot i Danmark, men hvor varmt er det egentligt? Det prøver de to værter at finde frem til. De får fat i en ”makker i marken” ude i det danske land.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45844356
+   </guid>
+   <pubDate>
+    Mon, 26 Jul 2021 12:36:33 +0000
+   </pubDate>
+   <enclosure length="91140480" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45844356/teperatur_timen.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. 
+
+d 26. Juli 
+Det er hot i Danmark, men hvor varmt er det...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d 26. Juli &lt;br /&gt;Det er hot i Danmark, men hvor varmt er det egentligt? Det prøver de to værter at finde frem til. De får fat i en ”makker i marken” ude i det danske land.
+   </itunes:summary>
+   <itunes:duration>
+    2279
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Den Lokale Time: Venø &amp; Mr. News fra Struer
+   </title>
+   <link>
+    https://www.spreaker.com/episode/den-lokale-time-veno-mr-news-fra-struer--45844347
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt; &lt;br /&gt;d. 26. Juli&lt;br /&gt;Nu skal det handle om det lokale. Først skal det handle om dagens Ø, Venø. Her får de to værter fat på en vaskeægte venøbo, som giver en auditiv ø-vandring.  Jonas og Aleksander spinner i denne time også det ekstra store lokalhjul, og i dag lander den på Struer. Derfor får de kontakt til Struers Mr. News, og han deler ud af hans 25-årige karrierer som journalist på Struer Dagblad.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45844347
+   </guid>
+   <pubDate>
+    Mon, 26 Jul 2021 12:35:44 +0000
+   </pubDate>
+   <enclosure length="101520000" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45844347/den_lokale_time.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.
+ 
+d. 26. Juli
+Nu skal det handle om det lokale. Først skal...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”.&lt;br /&gt; &lt;br /&gt;d. 26. Juli&lt;br /&gt;Nu skal det handle om det lokale. Først skal det handle om dagens Ø, Venø. Her får de to værter fat på en vaskeægte venøbo, som giver en auditiv ø-vandring.  Jonas og Aleksander spinner i denne time også det ekstra store lokalhjul, og i dag lander den på Struer. Derfor får de kontakt til Struers Mr. News, og han deler ud af hans 25-årige karrierer som journalist på Struer Dagblad.
+   </itunes:summary>
+   <itunes:duration>
+    2538
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    I Nyhedernes Tegn: Mange talenter &amp; Mick Jagger
+   </title>
+   <link>
+    https://www.spreaker.com/episode/i-nyhedernes-tegn-mange-talenter-mick-jagger--45844339
+   </link>
+   <description>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d 26. Juli &lt;br /&gt;I denne time af Costa Del Sol, står den i nyhedernes tegn. Jonas og Aleksander leger Hits 4 News, fejrer Mick Jaggers fødselsdag og med andre ord, giver dig den mest perfekte start på morgenen.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45844339
+   </guid>
+   <pubDate>
+    Mon, 26 Jul 2021 12:35:39 +0000
+   </pubDate>
+   <enclosure length="131920320" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45844339/i_nyhedernes_tegn.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. 
+
+d 26. Juli 
+I denne time af Costa Del Sol, står den i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Radio LOUD er gået på sommerferie. Derfor har de hyret vikarerne Jonas og Aleksander til at holde mikrofonerne varme og tage dig til det mest fantastiske sted af dem alle “Costa del Sol”. &lt;br /&gt;&lt;br /&gt;d 26. Juli &lt;br /&gt;I denne time af Costa Del Sol, står den i nyhedernes tegn. Jonas og Aleksander leger Hits 4 News, fejrer Mick Jaggers fødselsdag og med andre ord, giver dig den mest perfekte start på morgenen.
+   </itunes:summary>
+   <itunes:duration>
+    3299
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/afe64ddd81bd6109cff430af6354fa52.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

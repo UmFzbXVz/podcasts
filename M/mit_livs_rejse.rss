@@ -1,136 +1,665 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Mit Livs Rejse</title>
-		<link>https://web.24syv.dk/channels/5105</link>
-		<description>Rejser ændrer vores syn på livet og selvforståelse. De kaster os ud på nye eventyr, gør det ukendte velkendt, og har evnen til at sætte spor i vores sjæl for livet. I Mit Livs Rejse inviterer værten, Rebekka Gustafson hver morgen en ny gæst i studiet, som har været på en livsændrende rejse. Du hører om shamanen i skoven, ’Eat Pray Love’-turen, der går i vasken, og når kærligheden banker på døren, mens du er 3.000 km. væk hjemmefra. Hvem ved, om programmet kan kickstarte din livsrejse?</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/950/Mit_Livs_Rejse.png"/>
-		<item>
-			<title>På Bali lærte Maya, at hun skal turde mærke livet og, at den selvudviklende rejse er hård.</title>
-			<link>https://api.spreaker.com/download/episode/50821395/maya.mp3</link>
-			<description>Kan man rejse fra sine problemer? Det spørgsmål stillede sygeplejerske, Personlig træner, kostvejleder og coach, Maya Lützhøft sig selv. Hun var midt i en krise, og måtte bare væk. Og væk kom hun, både til Costa Rica, Ericeira og Bali. Rejsen skulle heale hende, men det endte ikke helt med den ‘happy ending’ hun havde regnet med. Hvorfor ikke det? Og hvad hun lærte af rejsen? Det skal vi i denne udgave af 'Mit Livs Rejse'.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50821395/maya.mp3</guid>
-			<pubDate>Mon, 08 Aug 2022 04:00:02 +0000</pubDate>
-			<itunes:duration>00:54:00</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50821395/maya.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sarah Bro følte hun spillede jordens største skuespil. I LA giver hun slip på masken. Hvad gemte sig bagved?</title>
-			<link>https://api.spreaker.com/download/episode/50811051/sarah_bro.mp3</link>
-			<description>Da tidligere OL-svømmer, TV-personlighed og det danske ansigt for Loreal Paris, Sarah Bro tager til LA er hun ‘heartbroken’ over at have mistet kærligheden til sin sport. Hun er deprimeret og fortabt, og ved egentlig ikke helt, hvem hun er eller hvad hun skal. For første gang sætter hun spørgsmålstegn ved om ‘svømmelivet’ er det rigtige, og ser den identitet hun har opbygget langsomt sive ud mellem hendes fingre. For første gang kan hun være lige den hun gerne vil, men hvem er det egentlig? Og finder hun overhovedet svaret dér? Det får du svar på i denne udgave af ‘Mit Livs Rejse’.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50811051/sarah_bro.mp3</guid>
-			<pubDate>Fri, 05 Aug 2022 04:00:03 +0000</pubDate>
-			<itunes:duration>00:54:15</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50811051/sarah_bro.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Nico valgte kærligheden. Det kostede ham 9.000 kr. og en pinlig affære.</title>
-			<link>https://api.spreaker.com/download/episode/50810590/nico.mp3</link>
-			<description>Kærligheden er størst af alt, det lærte stylist, designer og digital hos Femina, Nico Glad Golden på dagens rejse. Han var taget til paradis, nærmere kendt som Bali, men kort for inden havde hand mødt det som skulle blive manden i hans liv. Pludselig sad han og kiggede på alt det smukke, men kunne slet ikke se glæden i det, for hvad lavede han på den anden side af jorden, når den nye forelskelse var hjemme i Danmark? Dette er en rejse om at turde gå ud over sine egne grænser, turde bede om hjælp og sluge sin egen flovhed i kærlighedens tegn. Hvad skete der? Det får du svar på i dette afsnit af Mit Livs Rejse.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50810590/nico.mp3</guid>
-			<pubDate>Thu, 04 Aug 2022 07:29:14 +0000</pubDate>
-			<itunes:duration>00:54:03</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50810590/nico.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Iværksætteren, Julius gav slip på sit arbejde og gik 'off-grid' på Seychellerne. Hvad lærte han?</title>
-			<link>https://api.spreaker.com/download/episode/50797143/julius.mp3</link>
-			<description>Tør du tage en pause? Give helt slip på dit hjertebarn, og overlade roret til en anden? For co-founder af kommunikationsbureauet, Copus, Julius Gabel Nørgaard har tanken om at give slip på kontrollen været angstprovokerende. Denne sommer trodsede han frygten, og gik 'off-grid' på Seychellerne. Pludselig forsvandt hverdagens støj, mens kroppens signaler kom klarer igennem. Væk røg alkoholen, kaffen, og tilbage var en stilhed han ikke havde oplevet i fem år. Hvem er han uden arbejdets status? Og hvad lærte han af stilheden? Det får du svar på i dette afsnit af 'Mit Livs Rejse'.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50797143/julius.mp3</guid>
-			<pubDate>Wed, 03 Aug 2022 07:55:43 +0000</pubDate>
-			<itunes:duration>00:53:45</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50797143/julius.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En sammenbrudt pc blev startskuddet til Charlotte Carolines 'sjælerejse' til Costa Rica</title>
-			<link>https://api.spreaker.com/download/episode/50770875/mit_livs_rejse_cc.mp3</link>
-			<description>Influencer og podcastvært, Charlotte Caroline tog til Costa Rica for at søsætte et nyt projekt, men pludselig bryder hendes computer sammen, og alle hendes planer ryger i vasken. I stedet finder hun sig selv på en 'Soul-festival', hvor en helt ny rejse begynder. Her bliver der skabt rum for en masse uforløste følelser, og hun blive konfronteret med sandheden om det liv hun hidtil har levet og opdager, at der er faktisk ikke noget hun SKAL. Hvad gør hun, da alt i hendes liv pludselig bliver til et stort spørgsmålstegn? Og hvem er CC efter Costa Rica, det får du svaret på i dette afsnit af Mit Livs Rejse.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50770875/mit_livs_rejse_cc.mp3</guid>
-			<pubDate>Tue, 02 Aug 2022 04:10:02 +0000</pubDate>
-			<itunes:duration>00:54:14</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50770875/mit_livs_rejse_cc.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Over Atlanten lærte Ditte Julie Jensen, at anerkendelse kommer indefra.</title>
-			<link>https://api.spreaker.com/download/episode/50602544/ditte_julie_jensen.mp3</link>
-			<description>For Ditte Julie Jensen handler det med at rejse om at give slip og opleve uden planer. Det lærte hendes første tur til Thailand med onklen hende, men det skulle være den store tur over Atlanten, der virkelig ændrede hende som menneske. Midt ude i alt stilheden opdagede hun, at alt den frustration og vrede som fyldte hende ovenpå en skilsmisse slet ikke var kernen, men at hun havde opbygget hele sit liv omkring andres anderkendelse. Hvad skete der, da Ditte turde kigge på det mørke, der fandtes inde i hende? Det får du svar på i dette afsnit af Mit Livs Rejse.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50602544/ditte_julie_jensen.mp3</guid>
-			<pubDate>Tue, 19 Jul 2022 04:10:02 +0000</pubDate>
-			<itunes:duration>00:54:16</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50602544/ditte_julie_jensen.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Klitmøller lærte Josephine Bredsted at elske sig selv ubetinget.</title>
-			<link>https://api.spreaker.com/download/episode/50602542/josephine_bredsted.mp3</link>
-			<description>På den Vestjyske kyst taber Josephine Bredsted både sin telefon i vandet, men også sit hjerte til hendes i dag mand, Christian og Klitmøller, hvor de bor. I mødet med Christian opdager hun, at nogen gang, så har du brug for et andet menneske til at vise dig, hvad ubetinget kærlighed er før du kan forstå det. Foran hende stod nemlig en mand som elskede hende lige som hun var, og dér opdagede hun, at hun ikke selv gjorde det. Indtil da havde hun været enormt fokuseret på ydre værdier, særligt, hvordan hun så ud og den status hendes job gav hende, men i det øjeblik betød det ingenting. Hvordan lærte Josephine at elske sig selv? Det får du svar på i dette afsnit af Mit Livs Rejse.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50602542/josephine_bredsted.mp3</guid>
-			<pubDate>Mon, 18 Jul 2022 15:15:22 +0000</pubDate>
-			<itunes:duration>00:35:08</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50602542/josephine_bredsted.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Midt i kræftens mørke fandt Prudence og hendes mand lys på Santorini.</title>
-			<link>https://api.spreaker.com/download/episode/50602541/prudence.mp3</link>
-			<description>Når det ser allermest sort ud, hvor finder vi så lystet igen? De gode rejseminder er godt bud. I dette program møder jeg nemlig Prudence Davis, der er bl.a. sundhedsekspert og leder hos One Thirty Labs, hvor du kan optimere din sundhed. For hende og hendes mand har kræft desværre været en følgesvend i adskillige år, og midt i alt det mørke fandt Prudence lys i minderne fra deres første rejse sammen til Santorini. Kan kærlighedens sejre? Det får du svar på i dette afsnit af Mit Livs Rejse.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50602541/prudence.mp3</guid>
-			<pubDate>Mon, 18 Jul 2022 06:21:51 +0000</pubDate>
-			<itunes:duration>00:54:26</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50602541/prudence.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Josephine tog på solo-backpackertur selvom om hun er introvert. Hvad lærte hun?</title>
-			<link>https://api.spreaker.com/download/episode/50568441/jospehine_staunbjerg.mp3</link>
-			<description>I dagens program møder jeg Josephine Staunsbjerg, der i hendes egen virksomhede, JOST rådgiver om Influencer Marketing. Jeg mødte Josephine første gang over en kop kaffe, som man jo gør når man 'netværker'. Hurtigt fandt vi ud af, at trods vi begge er introverte, så kaster vi os ud i ting som skræmmer os og træde derud, hvor der er allerstørst mulighed for at vokse. Det må man sige Josephine gjorde på hendes rejse. Som 20årig tager hun alene på backpackertur til Asien, men hvordan bær hun sig lige ad med det som en introvert sjæl? Hvad gør hun, da hun pludselig bliver overfaldet af en pige på Fiji? Og hvordan har denne rejse formet hendes liv? Det får du svar på i dette afsnit af Mit Livs Rejse.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50568441/jospehine_staunbjerg.mp3</guid>
-			<pubDate>Fri, 15 Jul 2022 04:25:01 +0000</pubDate>
-			<itunes:duration>00:54:07</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50568441/jospehine_staunbjerg.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mikkel Braginskys bror lærte ham at slippe tøjlerne på en dannelsesrejse til Sydfrankrig.</title>
-			<link>https://api.spreaker.com/download/episode/50568601/mikkel_hank_n.mp3</link>
-			<description>I podcasten Hankøn er Mikkel Braginsky på jagt efter at genfinde mandens identitet, men i lige så høj grad hans egen autentiske identitet. Det er en rejse som både foregår på et ydre og indre plan, og i dette afsnit af Mit Livs Rejse tager han dig bl.a. med på en dannelsesrejse til Sydfrankrig med hans kunsteriske bror. Forholdet har ikke altid været let, men måske broren netop er nøglen til Mikkel kan slippe tøjlerne og finde sit sande jeg? Det får du svar på i dette program, og så fortæller han om, hvad han har lært om mandens identitet.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50568601/mikkel_hank_n.mp3</guid>
-			<pubDate>Fri, 15 Jul 2022 03:45:02 +0000</pubDate>
-			<itunes:duration>00:53:56</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50568601/mikkel_hank_n.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sri Lanka lærte Michelle Hvid, at hun alligevel er privilegieblind</title>
-			<link>https://api.spreaker.com/download/episode/50544482/michelle.mp3</link>
-			<description>I dagens afsnit af Mit Livs Rejse møder jeg forfatter og foredragsholder, Michelle Hvid. Hun er et menneske, der insisterer på at leve livet modigt, og lade det verden lærer hende, forandre hende, og det kan jeg allerede godt sige, at den rejse vi skal på i dag gjorde. I programmet skal Michelle nemlig tage os med til Sri Lanka, og fortælle om, hvordan det var at blive befriet for sine egne privilegiers bånd og erkende, at indtil da havde hun simpelthen være privilegie-blind.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50544482/michelle.mp3</guid>
-			<pubDate>Wed, 13 Jul 2022 05:00:03 +0000</pubDate>
-			<itunes:duration>00:52:23</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50544482/michelle.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Elisabeth blev smaskforelsket i en pige lige inden hun skulle på Eat, Pray, Love-tur til Thailand.</title>
-			<link>https://api.spreaker.com/download/episode/50533249/elisabeth.mp3</link>
-			<description>I dette afsnit af Mit Livs Rejse møder jeg fotograf, Elisabeth Eibye. Det som skulle have været hendes store Eat, Pray, Love-rejse, ændrer pludselig kurs, da et skelsættende møde med en pige kort forinden tager hende ind i en storm af en forelskelse. Hør hende i dagens afsnit fortælle om, hvordan det var at finde hendes første pige-kæreste – og så endda på Tinder, og turde ændrer kurs på den store selvkærlige rejse hun havde planlagt.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50533249/elisabeth.mp3</guid>
-			<pubDate>Mon, 11 Jul 2022 11:16:01 +0000</pubDate>
-			<itunes:duration>00:54:21</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50533249/elisabeth.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Iran lærte Noell Elise, at der ikke findes èn sandhed.</title>
-			<link>https://api.spreaker.com/download/episode/50532595/noell_elise.mp3</link>
-			<description>Noell Elise er skaberen af Noell Crystals, forfatter, certificeret meditations-coach og så er hun også vært på podcasten, Enhed. I dagens program tager hun os med tilbage til 1996, hvor hun første gang som 9-årig besøger Iran. Rejsen bliver mødet med det land hendes far er flygtet fra, som viser sig, at rumme en helt anden sandhed end den hun har hørt om i historiebøgerne. I dette afsnit af Mit Livs Rejse hører vi om, hvordan rejserne til Iran har gjort Noell til et helt menneske og skabt fundamentet for den som hun er i dag.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50532595/noell_elise.mp3</guid>
-			<pubDate>Mon, 11 Jul 2022 10:09:37 +0000</pubDate>
-			<itunes:duration>00:54:15</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50532595/noell_elise.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Tine befriede sig selv fra dagpengemøllen i Lissabon</title>
-			<link>https://api.spreaker.com/download/episode/50532339/mit_livs_rejse_tine.mp3</link>
-			<description>Jeg mødte Tine Søeby på Ryslinge Højskole i sommeren 2021, hvor vi begge havde meldt os til en uges kor med komponist og skuespiller, Jeanett Albeck. Tine har aldrig været bange for at følge sit hjerte og kaste sig ud i noget nyt, så da hun som 28-årig bliver færdig med sin uddannelse og ikke kan overskue dagpengemøllen herhjemme, der rykker hun rødderne op og tager til Lissabon. Det som skulle have været én måned bliver pludselig til flere, og Tine må spørge sig selv: skal jeg slå rødder her eller vende snuden hjem? Og hvad er egentligt et godt liv? Svarene får du i dette afsnit af Mit Livs Rejse.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50532339/mit_livs_rejse_tine.mp3</guid>
-			<pubDate>Mon, 11 Jul 2022 09:42:25 +0000</pubDate>
-			<itunes:duration>00:54:13</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50532339/mit_livs_rejse_tine.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Mit Livs Rejse
+  </title>
+  <link>
+   https://www.spreaker.com/show/mit-livs-rejse
+  </link>
+  <description>
+   Rejser ændrer vores syn på livet og selvforståelse. De kaster os ud på nye eventyr, gør det ukendte velkendt, og har evnen til at sætte spor i vores sjæl for livet. &lt;br /&gt;I Mit Livs Rejse inviterer værten, Rebekka Gustafson hver morgen en ny gæst i studiet, som har været på en livsændrende rejse. Du hører om shamanen i skoven, ’Eat Pray Love’-turen, der går i vasken, og når kærligheden banker på døren, mens du er 3.000 km. væk hjemmefra. Hvem ved, om programmet kan kickstarte din livsrejse?
+  </description>
+  <atom:link href="https://www.spreaker.com/show/5617140/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Places &amp; Travel
+  </category>
+  <copyright>
+   Copyright 24syv
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg
+   </url>
+   <title>
+    Mit Livs Rejse
+   </title>
+   <link>
+    https://www.spreaker.com/show/mit-livs-rejse
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   24syv
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    24syv
+   </itunes:name>
+   <itunes:email>
+    podcast@24syv.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+  <itunes:subtitle>
+   Rejser ændrer vores syn på livet og selvforståelse. De kaster os ud på nye eventyr, gør det ukendte velkendt, og har evnen til at sætte spor i vores sjæl for livet. 
+I Mit Livs Rejse inviterer værten, Rebekka Gustafson hver morgen en ny gæst i...
+  </itunes:subtitle>
+  <itunes:summary>
+   Rejser ændrer vores syn på livet og selvforståelse. De kaster os ud på nye eventyr, gør det ukendte velkendt, og har evnen til at sætte spor i vores sjæl for livet. &lt;br /&gt;I Mit Livs Rejse inviterer værten, Rebekka Gustafson hver morgen en ny gæst i studiet, som har været på en livsændrende rejse. Du hører om shamanen i skoven, ’Eat Pray Love’-turen, der går i vasken, og når kærligheden banker på døren, mens du er 3.000 km. væk hjemmefra. Hvem ved, om programmet kan kickstarte din livsrejse?
+  </itunes:summary>
+  <itunes:category text="Society &amp; Culture">
+   <itunes:category text="Places &amp; Travel"/>
+  </itunes:category>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    På Bali lærte Maya, at hun skal turde mærke livet og, at den selvudviklende rejse er hård.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/pa-bali-laerte-maya-at-hun-skal-turde-maerke-livet-og-at-den-selvudviklende-rejse-er-hard--50821395
+   </link>
+   <description>
+    Kan man rejse fra sine problemer? Det spørgsmål stillede sygeplejerske, Personlig træner, kostvejleder og coach, Maya Lützhøft sig selv. Hun var midt i en krise, og måtte bare væk. Og væk kom hun, både til Costa Rica, Ericeira og Bali. Rejsen skulle heale hende, men det endte ikke helt med den ‘happy ending’ hun havde regnet med. Hvorfor ikke det? Og hvad hun lærte af rejsen? Det skal vi i denne udgave af 'Mit Livs Rejse'.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50821395
+   </guid>
+   <pubDate>
+    Mon, 08 Aug 2022 04:00:02 +0000
+   </pubDate>
+   <enclosure length="77844315" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50821395/maya.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Kan man rejse fra sine problemer? Det spørgsmål stillede sygeplejerske, Personlig træner, kostvejleder og coach, Maya Lützhøft sig selv. Hun var midt i en krise, og måtte bare væk. Og væk kom hun, både til Costa Rica, Ericeira og Bali. Rejsen skulle...
+   </itunes:subtitle>
+   <itunes:summary>
+    Kan man rejse fra sine problemer? Det spørgsmål stillede sygeplejerske, Personlig træner, kostvejleder og coach, Maya Lützhøft sig selv. Hun var midt i en krise, og måtte bare væk. Og væk kom hun, både til Costa Rica, Ericeira og Bali. Rejsen skulle heale hende, men det endte ikke helt med den ‘happy ending’ hun havde regnet med. Hvorfor ikke det? Og hvad hun lærte af rejsen? Det skal vi i denne udgave af 'Mit Livs Rejse'.
+   </itunes:summary>
+   <itunes:duration>
+    3241
+   </itunes:duration>
+   <itunes:keywords>
+    bali,coach,costarica,healing,krise,livet,livsrejse,nomad,nomade,personligudvikling,podcast,portugal,psykologi,refleksion,rejse,rejsepodcast,selvstændig,selvudvikling,surfing,yoga
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Sarah Bro følte hun spillede jordens største skuespil. I LA giver hun slip på masken. Hvad gemte sig bagved?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/sarah-bro-folte-hun-spillede-jordens-storste-skuespil-i-la-giver-hun-slip-pa-masken-hvad-gemte-sig-bagved--50811051
+   </link>
+   <description>
+    Da tidligere OL-svømmer, TV-personlighed og det danske ansigt for Loreal Paris, Sarah Bro tager til LA er hun ‘heartbroken’ over at have mistet kærligheden til sin sport. Hun er deprimeret og fortabt, og ved egentlig ikke helt, hvem hun er eller hvad hun skal. For første gang sætter hun spørgsmålstegn ved om ‘svømmelivet’ er det rigtige, og ser den identitet hun har opbygget langsomt sive ud mellem hendes fingre. For første gang kan hun være lige den hun gerne vil, men hvem er det egentlig? Og finder hun overhovedet svaret dér? Det får du svar på i denne udgave af ‘Mit Livs Rejse’.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50811051
+   </guid>
+   <pubDate>
+    Fri, 05 Aug 2022 04:00:03 +0000
+   </pubDate>
+   <enclosure length="78191639" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50811051/sarah_bro.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Da tidligere OL-svømmer, TV-personlighed og det danske ansigt for Loreal Paris, Sarah Bro tager til LA er hun ‘heartbroken’ over at have mistet kærligheden til sin sport. Hun er deprimeret og fortabt, og ved egentlig ikke helt, hvem hun er eller hvad...
+   </itunes:subtitle>
+   <itunes:summary>
+    Da tidligere OL-svømmer, TV-personlighed og det danske ansigt for Loreal Paris, Sarah Bro tager til LA er hun ‘heartbroken’ over at have mistet kærligheden til sin sport. Hun er deprimeret og fortabt, og ved egentlig ikke helt, hvem hun er eller hvad hun skal. For første gang sætter hun spørgsmålstegn ved om ‘svømmelivet’ er det rigtige, og ser den identitet hun har opbygget langsomt sive ud mellem hendes fingre. For første gang kan hun være lige den hun gerne vil, men hvem er det egentlig? Og finder hun overhovedet svaret dér? Det får du svar på i denne udgave af ‘Mit Livs Rejse’.
+   </itunes:summary>
+   <itunes:duration>
+    3256
+   </itunes:duration>
+   <itunes:keywords>
+    depression,egenomsorg,forelskelse,identitet,krise,la,læring,losangeles,ol,personligudvikling,podcast,refleksion,rejse,selvudvikling,svømning,usa
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Nico valgte kærligheden. Det kostede ham 9.000 kr. og en pinlig affære.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/nico-valgte-kaerligheden-det-kostede-ham-9-000-kr-og-en-pinlig-affaere--50810590
+   </link>
+   <description>
+    Kærligheden er størst af alt, det lærte stylist, designer og digital hos Femina, Nico Glad Golden på dagens rejse. Han var taget til paradis, nærmere kendt som Bali, men kort for inden havde hand mødt det som skulle blive manden i hans liv. Pludselig sad han og kiggede på alt det smukke, men kunne slet ikke se glæden i det, for hvad lavede han på den anden side af jorden, når den nye forelskelse var hjemme i Danmark? Dette er en rejse om at turde gå ud over sine egne grænser, turde bede om hjælp og sluge sin egen flovhed i kærlighedens tegn. Hvad skete der? Det får du svar på i dette afsnit af Mit Livs Rejse.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50810590
+   </guid>
+   <pubDate>
+    Thu, 04 Aug 2022 07:29:14 +0000
+   </pubDate>
+   <enclosure length="77911397" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50810590/nico.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Kærligheden er størst af alt, det lærte stylist, designer og digital hos Femina, Nico Glad Golden på dagens rejse. Han var taget til paradis, nærmere kendt som Bali, men kort for inden havde hand mødt det som skulle blive manden i hans liv. Pludselig...
+   </itunes:subtitle>
+   <itunes:summary>
+    Kærligheden er størst af alt, det lærte stylist, designer og digital hos Femina, Nico Glad Golden på dagens rejse. Han var taget til paradis, nærmere kendt som Bali, men kort for inden havde hand mødt det som skulle blive manden i hans liv. Pludselig sad han og kiggede på alt det smukke, men kunne slet ikke se glæden i det, for hvad lavede han på den anden side af jorden, når den nye forelskelse var hjemme i Danmark? Dette er en rejse om at turde gå ud over sine egne grænser, turde bede om hjælp og sluge sin egen flovhed i kærlighedens tegn. Hvad skete der? Det får du svar på i dette afsnit af Mit Livs Rejse.
+   </itunes:summary>
+   <itunes:duration>
+    3244
+   </itunes:duration>
+   <itunes:keywords>
+    bali,forelskelse,kærlighed,kultur,læring,livet,livserfaring,mening,natur,oplevelser,pinlig,podcast,rejse,rejsepodcast,selvudvikling
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Iværksætteren, Julius gav slip på sit arbejde og gik 'off-grid' på Seychellerne. Hvad lærte han?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ivaerksaetteren-julius-gav-slip-pa-sit-arbejde-og-gik-off-grid-pa-seychellerne-hvad-laerte-han--50797143
+   </link>
+   <description>
+    Tør du tage en pause? Give helt slip på dit hjertebarn, og overlade roret til en anden? For co-founder af kommunikationsbureauet, Copus, Julius Gabel Nørgaard har tanken om at give slip på kontrollen været angstprovokerende. Denne sommer trodsede han frygten, og gik 'off-grid' på Seychellerne. Pludselig forsvandt hverdagens støj, mens kroppens signaler kom klarer igennem. Væk røg alkoholen, kaffen, og tilbage var en stilhed han ikke havde oplevet i fem år. Hvem er han uden arbejdets status? Og hvad lærte han af stilheden? Det får du svar på i dette afsnit af 'Mit Livs Rejse'.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50797143
+   </guid>
+   <pubDate>
+    Wed, 03 Aug 2022 07:55:43 +0000
+   </pubDate>
+   <enclosure length="77483198" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50797143/julius.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Tør du tage en pause? Give helt slip på dit hjertebarn, og overlade roret til en anden? For co-founder af kommunikationsbureauet, Copus, Julius Gabel Nørgaard har tanken om at give slip på kontrollen været angstprovokerende. Denne sommer trodsede han...
+   </itunes:subtitle>
+   <itunes:summary>
+    Tør du tage en pause? Give helt slip på dit hjertebarn, og overlade roret til en anden? For co-founder af kommunikationsbureauet, Copus, Julius Gabel Nørgaard har tanken om at give slip på kontrollen været angstprovokerende. Denne sommer trodsede han frygten, og gik 'off-grid' på Seychellerne. Pludselig forsvandt hverdagens støj, mens kroppens signaler kom klarer igennem. Væk røg alkoholen, kaffen, og tilbage var en stilhed han ikke havde oplevet i fem år. Hvem er han uden arbejdets status? Og hvad lærte han af stilheden? Det får du svar på i dette afsnit af 'Mit Livs Rejse'.
+   </itunes:summary>
+   <itunes:duration>
+    3226
+   </itunes:duration>
+   <itunes:keywords>
+    egenomsorg,iværksætteri,livet,mennesker,natur,personligudvikling,psykologi,refleksion,rejse,rejsepodcast,samtaler,selvudvikling,seychellerne,sommer,stilhed
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    En sammenbrudt pc blev startskuddet til Charlotte Carolines 'sjælerejse' til Costa Rica
+   </title>
+   <link>
+    https://www.spreaker.com/episode/en-sammenbrudt-pc-blev-startskuddet-til-charlotte-carolines-sjaelerejse-til-costa-rica--50770875
+   </link>
+   <description>
+    Influencer og podcastvært, Charlotte Caroline tog til Costa Rica for at søsætte et nyt projekt, men pludselig bryder hendes computer sammen, og alle hendes planer ryger i vasken. I stedet finder hun sig selv på en 'Soul-festival', hvor en helt ny rejse begynder. Her bliver der skabt rum for en masse uforløste følelser, og hun blive konfronteret med sandheden om det liv hun hidtil har levet og opdager, at der er faktisk ikke noget hun SKAL. Hvad gør hun, da alt i hendes liv pludselig bliver til et stort spørgsmålstegn? Og hvem er CC efter Costa Rica, det får du svaret på i dette afsnit af Mit Livs Rejse.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50770875
+   </guid>
+   <pubDate>
+    Tue, 02 Aug 2022 04:10:02 +0000
+   </pubDate>
+   <enclosure length="78185370" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50770875/mit_livs_rejse_cc.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Influencer og podcastvært, Charlotte Caroline tog til Costa Rica for at søsætte et nyt projekt, men pludselig bryder hendes computer sammen, og alle hendes planer ryger i vasken. I stedet finder hun sig selv på en 'Soul-festival', hvor en helt ny...
+   </itunes:subtitle>
+   <itunes:summary>
+    Influencer og podcastvært, Charlotte Caroline tog til Costa Rica for at søsætte et nyt projekt, men pludselig bryder hendes computer sammen, og alle hendes planer ryger i vasken. I stedet finder hun sig selv på en 'Soul-festival', hvor en helt ny rejse begynder. Her bliver der skabt rum for en masse uforløste følelser, og hun blive konfronteret med sandheden om det liv hun hidtil har levet og opdager, at der er faktisk ikke noget hun SKAL. Hvad gør hun, da alt i hendes liv pludselig bliver til et stort spørgsmålstegn? Og hvem er CC efter Costa Rica, det får du svaret på i dette afsnit af Mit Livs Rejse.
+   </itunes:summary>
+   <itunes:duration>
+    3255
+   </itunes:duration>
+   <itunes:keywords>
+    angst,costarica,livet,livsrejse,meditation,mening,mindset,personligudvikling,psykologi,refleksion,rejse,rejser,sårbarhed,selvkærlighed,selvudvikling,stress,udvikling,vaner
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Over Atlanten lærte Ditte Julie Jensen, at anerkendelse kommer indefra.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/over-atlanten-laerte-ditte-julie-jensen-at-anerkendelse-kommer-indefra--50602544
+   </link>
+   <description>
+    For Ditte Julie Jensen handler det med at rejse om at give slip og opleve uden planer. Det lærte hendes første tur til Thailand med onklen hende, men det skulle være den store tur over Atlanten, der virkelig ændrede hende som menneske. Midt ude i alt stilheden opdagede hun, at alt den frustration og vrede som fyldte hende ovenpå en skilsmisse slet ikke var kernen, men at hun havde opbygget hele sit liv omkring andres anderkendelse. Hvad skete der, da Ditte turde kigge på det mørke, der fandtes inde i hende? Det får du svar på i dette afsnit af Mit Livs Rejse.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50602544
+   </guid>
+   <pubDate>
+    Tue, 19 Jul 2022 04:10:02 +0000
+   </pubDate>
+   <enclosure length="78213582" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50602544/ditte_julie_jensen.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    For Ditte Julie Jensen handler det med at rejse om at give slip og opleve uden planer. Det lærte hendes første tur til Thailand med onklen hende, men det skulle være den store tur over Atlanten, der virkelig ændrede hende som menneske. Midt ude i alt...
+   </itunes:subtitle>
+   <itunes:summary>
+    For Ditte Julie Jensen handler det med at rejse om at give slip og opleve uden planer. Det lærte hendes første tur til Thailand med onklen hende, men det skulle være den store tur over Atlanten, der virkelig ændrede hende som menneske. Midt ude i alt stilheden opdagede hun, at alt den frustration og vrede som fyldte hende ovenpå en skilsmisse slet ikke var kernen, men at hun havde opbygget hele sit liv omkring andres anderkendelse. Hvad skete der, da Ditte turde kigge på det mørke, der fandtes inde i hende? Det får du svar på i dette afsnit af Mit Livs Rejse.
+   </itunes:summary>
+   <itunes:duration>
+    3257
+   </itunes:duration>
+   <itunes:keywords>
+    alene,anderkendelse,atlanten,båd,ferie,hav,refleksion,rejse,sejlbåd,sejle,selvkærlighed,selvudvikling,skilsmisse,thailand,udvikling
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Klitmøller lærte Josephine Bredsted at elske sig selv ubetinget.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/klitmoller-laerte-josephine-bredsted-at-elske-sig-selv-ubetinget--50602542
+   </link>
+   <description>
+    På den Vestjyske kyst taber Josephine Bredsted både sin telefon i vandet, men også sit hjerte til hendes i dag mand, Christian og Klitmøller, hvor de bor. I mødet med Christian opdager hun, at nogen gang, så har du brug for et andet menneske til at vise dig, hvad ubetinget kærlighed er før du kan forstå det. Foran hende stod nemlig en mand som elskede hende lige som hun var, og dér opdagede hun, at hun ikke selv gjorde det. Indtil da havde hun været enormt fokuseret på ydre værdier, særligt, hvordan hun så ud og den status hendes job gav hende, men i det øjeblik betød det ingenting. Hvordan lærte Josephine at elske sig selv? Det får du svar på i dette afsnit af Mit Livs Rejse.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50602542
+   </guid>
+   <pubDate>
+    Mon, 18 Jul 2022 15:15:22 +0000
+   </pubDate>
+   <enclosure length="50670908" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50602542/josephine_bredsted.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    På den Vestjyske kyst taber Josephine Bredsted både sin telefon i vandet, men også sit hjerte til hendes i dag mand, Christian og Klitmøller, hvor de bor. I mødet med Christian opdager hun, at nogen gang, så har du brug for et andet menneske til at...
+   </itunes:subtitle>
+   <itunes:summary>
+    På den Vestjyske kyst taber Josephine Bredsted både sin telefon i vandet, men også sit hjerte til hendes i dag mand, Christian og Klitmøller, hvor de bor. I mødet med Christian opdager hun, at nogen gang, så har du brug for et andet menneske til at vise dig, hvad ubetinget kærlighed er før du kan forstå det. Foran hende stod nemlig en mand som elskede hende lige som hun var, og dér opdagede hun, at hun ikke selv gjorde det. Indtil da havde hun været enormt fokuseret på ydre værdier, særligt, hvordan hun så ud og den status hendes job gav hende, men i det øjeblik betød det ingenting. Hvordan lærte Josephine at elske sig selv? Det får du svar på i dette afsnit af Mit Livs Rejse.
+   </itunes:summary>
+   <itunes:duration>
+    2109
+   </itunes:duration>
+   <itunes:keywords>
+    danmark,forandring,forelskelse,havet,jylland,kærlighed,klitmøller,love,meditation,natur,naturen,rejse,selvkærlighed,selvudvikling,værdier,vand,vestkyst,yoga
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Midt i kræftens mørke fandt Prudence og hendes mand lys på Santorini.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/midt-i-kraeftens-morke-fandt-prudence-og-hendes-mand-lys-pa-santorini--50602541
+   </link>
+   <description>
+    Når det ser allermest sort ud, hvor finder vi så lystet igen? De gode rejseminder er godt bud. I dette program møder jeg nemlig Prudence Davis, der er bl.a. sundhedsekspert og leder hos One Thirty Labs, hvor du kan optimere din sundhed. For hende og hendes mand har kræft desværre været en følgesvend i adskillige år, og midt i alt det mørke fandt Prudence lys i minderne fra deres første rejse sammen til Santorini. Kan kærlighedens sejre? Det får du svar på i dette afsnit af Mit Livs Rejse.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50602541
+   </guid>
+   <pubDate>
+    Mon, 18 Jul 2022 06:21:51 +0000
+   </pubDate>
+   <enclosure length="78465611" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50602541/prudence.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Når det ser allermest sort ud, hvor finder vi så lystet igen? De gode rejseminder er godt bud. I dette program møder jeg nemlig Prudence Davis, der er bl.a. sundhedsekspert og leder hos One Thirty Labs, hvor du kan optimere din sundhed. For hende og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Når det ser allermest sort ud, hvor finder vi så lystet igen? De gode rejseminder er godt bud. I dette program møder jeg nemlig Prudence Davis, der er bl.a. sundhedsekspert og leder hos One Thirty Labs, hvor du kan optimere din sundhed. For hende og hendes mand har kræft desværre været en følgesvend i adskillige år, og midt i alt det mørke fandt Prudence lys i minderne fra deres første rejse sammen til Santorini. Kan kærlighedens sejre? Det får du svar på i dette afsnit af Mit Livs Rejse.
+   </itunes:summary>
+   <itunes:duration>
+    3267
+   </itunes:duration>
+   <itunes:keywords>
+    glæde,grækenland,identitet,indrestyrke,kærlighed,kamp,kræft,lys,mentalsundhed,rejse,santorini,selvudvikling,sygdom
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Josephine tog på solo-backpackertur selvom om hun er introvert. Hvad lærte hun?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/josephine-tog-pa-solo-backpackertur-selvom-om-hun-er-introvert-hvad-laerte-hun--50568441
+   </link>
+   <description>
+    I dagens program møder jeg Josephine Staunsbjerg, der i hendes egen virksomhede, JOST rådgiver om Influencer Marketing. Jeg mødte Josephine første gang over en kop kaffe, som man jo gør når man 'netværker'. Hurtigt fandt vi ud af, at trods vi begge er introverte, så kaster vi os ud i ting som skræmmer os og træde derud, hvor der er allerstørst mulighed for at vokse. Det må man sige Josephine gjorde på hendes rejse. Som 20årig tager hun alene på backpackertur til Asien, men hvordan bær hun sig lige ad med det som en introvert sjæl? Hvad gør hun, da hun pludselig bliver overfaldet af en pige på Fiji? Og hvordan har denne rejse formet hendes liv? Det får du svar på i dette afsnit af Mit Livs Rejse.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50568441
+   </guid>
+   <pubDate>
+    Fri, 15 Jul 2022 04:25:01 +0000
+   </pubDate>
+   <enclosure length="78001050" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50568441/jospehine_staunbjerg.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I dagens program møder jeg Josephine Staunsbjerg, der i hendes egen virksomhede, JOST rådgiver om Influencer Marketing. Jeg mødte Josephine første gang over en kop kaffe, som man jo gør når man 'netværker'. Hurtigt fandt vi ud af, at trods vi begge er...
+   </itunes:subtitle>
+   <itunes:summary>
+    I dagens program møder jeg Josephine Staunsbjerg, der i hendes egen virksomhede, JOST rådgiver om Influencer Marketing. Jeg mødte Josephine første gang over en kop kaffe, som man jo gør når man 'netværker'. Hurtigt fandt vi ud af, at trods vi begge er introverte, så kaster vi os ud i ting som skræmmer os og træde derud, hvor der er allerstørst mulighed for at vokse. Det må man sige Josephine gjorde på hendes rejse. Som 20årig tager hun alene på backpackertur til Asien, men hvordan bær hun sig lige ad med det som en introvert sjæl? Hvad gør hun, da hun pludselig bliver overfaldet af en pige på Fiji? Og hvordan har denne rejse formet hendes liv? Det får du svar på i dette afsnit af Mit Livs Rejse.
+   </itunes:summary>
+   <itunes:duration>
+    3248
+   </itunes:duration>
+   <itunes:keywords>
+    asien,australien,backpack,backpacker,backpackertur,bali,fiji,filosofi,influencermarketing,introvert,jordenrundt,læring,livet,rejse,rejsen,selvstændig,solorejse,thailand,verden
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Mikkel Braginskys bror lærte ham at slippe tøjlerne på en dannelsesrejse til Sydfrankrig.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mikkel-braginskys-bror-laerte-ham-at-slippe-tojlerne-pa-en-dannelsesrejse-til-sydfrankrig--50568601
+   </link>
+   <description>
+    I podcasten Hankøn er Mikkel Braginsky på jagt efter at genfinde mandens identitet, men i lige så høj grad hans egen autentiske identitet. Det er en rejse som både foregår på et ydre og indre plan, og i dette afsnit af Mit Livs Rejse tager han dig bl.a. med på en dannelsesrejse til Sydfrankrig med hans kunsteriske bror. Forholdet har ikke altid været let, men måske broren netop er nøglen til Mikkel kan slippe tøjlerne og finde sit sande jeg? Det får du svar på i dette program, og så fortæller han om, hvad han har lært om mandens identitet.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50568601
+   </guid>
+   <pubDate>
+    Fri, 15 Jul 2022 03:45:02 +0000
+   </pubDate>
+   <enclosure length="77745259" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50568601/mikkel_hank_n.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I podcasten Hankøn er Mikkel Braginsky på jagt efter at genfinde mandens identitet, men i lige så høj grad hans egen autentiske identitet. Det er en rejse som både foregår på et ydre og indre plan, og i dette afsnit af Mit Livs Rejse tager han dig...
+   </itunes:subtitle>
+   <itunes:summary>
+    I podcasten Hankøn er Mikkel Braginsky på jagt efter at genfinde mandens identitet, men i lige så høj grad hans egen autentiske identitet. Det er en rejse som både foregår på et ydre og indre plan, og i dette afsnit af Mit Livs Rejse tager han dig bl.a. med på en dannelsesrejse til Sydfrankrig med hans kunsteriske bror. Forholdet har ikke altid været let, men måske broren netop er nøglen til Mikkel kan slippe tøjlerne og finde sit sande jeg? Det får du svar på i dette program, og så fortæller han om, hvad han har lært om mandens identitet.
+   </itunes:summary>
+   <itunes:duration>
+    3237
+   </itunes:duration>
+   <itunes:keywords>
+    bror,forhold,frankrig,identitet,kontrol,kreativitet,livsrejse,mænd,mand,nydelse,rejse,relationer,roadtrip,sårbarhed,spontanitet,sydfrankrig
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Sri Lanka lærte Michelle Hvid, at hun alligevel er privilegieblind
+   </title>
+   <link>
+    https://www.spreaker.com/episode/sri-lanka-laerte-michelle-hvid-at-hun-alligevel-er-privilegieblind--50544482
+   </link>
+   <description>
+    I dagens afsnit af Mit Livs Rejse møder jeg forfatter og foredragsholder, Michelle Hvid. Hun er et menneske, der insisterer på at leve livet modigt, og lade det verden lærer hende, forandre hende, og det kan jeg allerede godt sige, at den rejse vi skal på i dag gjorde. I programmet skal Michelle nemlig tage os med til Sri Lanka, og fortælle om, hvordan det var at blive befriet for sine egne privilegiers bånd og erkende, at indtil da havde hun simpelthen være privilegie-blind.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50544482
+   </guid>
+   <pubDate>
+    Wed, 13 Jul 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="75513984" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50544482/michelle.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I dagens afsnit af Mit Livs Rejse møder jeg forfatter og foredragsholder, Michelle Hvid. Hun er et menneske, der insisterer på at leve livet modigt, og lade det verden lærer hende, forandre hende, og det kan jeg allerede godt sige, at den rejse vi...
+   </itunes:subtitle>
+   <itunes:summary>
+    I dagens afsnit af Mit Livs Rejse møder jeg forfatter og foredragsholder, Michelle Hvid. Hun er et menneske, der insisterer på at leve livet modigt, og lade det verden lærer hende, forandre hende, og det kan jeg allerede godt sige, at den rejse vi skal på i dag gjorde. I programmet skal Michelle nemlig tage os med til Sri Lanka, og fortælle om, hvordan det var at blive befriet for sine egne privilegiers bånd og erkende, at indtil da havde hun simpelthen være privilegie-blind.
+   </itunes:summary>
+   <itunes:duration>
+    3144
+   </itunes:duration>
+   <itunes:keywords>
+    asien,feminisme,feminist,inspiration,iværksætteri,kvinder,læring,livet,nysgerrighed,privilegie,privilegieblind,refleksion,rejse,selvudvikling,srilanka
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Elisabeth blev smaskforelsket i en pige lige inden hun skulle på Eat, Pray, Love-tur til Thailand.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/elisabeth-blev-smaskforelsket-i-en-pige-lige-inden-hun-skulle-pa-eat-pray-love-tur-til-thailand--50533249
+   </link>
+   <description>
+    I dette afsnit af Mit Livs Rejse møder vært, Rebekka Gustafson fotografen, Elisabeth Eibye. Det som skulle have været hendes store Eat, Pray, Love-rejse, ændrer pludselig kurs, da et skelsættende møde med en pige kort forinden tager hende ind i en storm af en forelskelse. Hør hende i dagens afsnit fortælle om, hvordan det var at finde hendes første pige-kæreste – og så endda på Tinder, og turde ændrer kurs på den store selvkærlige rejse hun havde planlagt.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50533249
+   </guid>
+   <pubDate>
+    Mon, 11 Jul 2022 11:16:01 +0000
+   </pubDate>
+   <enclosure length="78335208" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50533249/elisabeth.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I dette afsnit af Mit Livs Rejse møder vært, Rebekka Gustafson fotografen, Elisabeth Eibye. Det som skulle have været hendes store Eat, Pray, Love-rejse, ændrer pludselig kurs, da et skelsættende møde med en pige kort forinden tager hende ind i en...
+   </itunes:subtitle>
+   <itunes:summary>
+    I dette afsnit af Mit Livs Rejse møder vært, Rebekka Gustafson fotografen, Elisabeth Eibye. Det som skulle have været hendes store Eat, Pray, Love-rejse, ændrer pludselig kurs, da et skelsættende møde med en pige kort forinden tager hende ind i en storm af en forelskelse. Hør hende i dagens afsnit fortælle om, hvordan det var at finde hendes første pige-kæreste – og så endda på Tinder, og turde ændrer kurs på den store selvkærlige rejse hun havde planlagt.
+   </itunes:summary>
+   <itunes:duration>
+    3262
+   </itunes:duration>
+   <itunes:keywords>
+    eatpraylove,ferie,forelskelse,hjertesorg,kærlighed,livet,livsrejse,refleksion,rejse,selvkærlighed,smaskforelsket,thailand
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Iran lærte Noell Elise, at der ikke findes èn sandhed.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/iran-laerte-noell-elise-at-der-ikke-findes-en-sandhed--50532595
+   </link>
+   <description>
+    Noell Elise er skaberen af Noell Crystals, forfatter, certificeret meditations-coach og så er hun også vært på podcasten, Enhed. I dagens program tager hun os med tilbage til 1996, hvor hun første gang som 9-årig besøger Iran. Rejsen bliver mødet med det land hendes far er flygtet fra, som viser sig, at rumme en helt anden sandhed end den hun har hørt om i historiebøgerne. I dette afsnit af Mit Livs Rejse hører vi om, hvordan rejserne til Iran har gjort Noell til et helt menneske og skabt fundamentet for den som hun er i dag.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50532595
+   </guid>
+   <pubDate>
+    Mon, 11 Jul 2022 10:09:37 +0000
+   </pubDate>
+   <enclosure length="78201670" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50532595/noell_elise.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Noell Elise er skaberen af Noell Crystals, forfatter, certificeret meditations-coach og så er hun også vært på podcasten, Enhed. I dagens program tager hun os med tilbage til 1996, hvor hun første gang som 9-årig besøger Iran. Rejsen bliver mødet med...
+   </itunes:subtitle>
+   <itunes:summary>
+    Noell Elise er skaberen af Noell Crystals, forfatter, certificeret meditations-coach og så er hun også vært på podcasten, Enhed. I dagens program tager hun os med tilbage til 1996, hvor hun første gang som 9-årig besøger Iran. Rejsen bliver mødet med det land hendes far er flygtet fra, som viser sig, at rumme en helt anden sandhed end den hun har hørt om i historiebøgerne. I dette afsnit af Mit Livs Rejse hører vi om, hvordan rejserne til Iran har gjort Noell til et helt menneske og skabt fundamentet for den som hun er i dag.
+   </itunes:summary>
+   <itunes:duration>
+    3256
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Tine befriede sig selv fra dagpengemøllen i Lissabon
+   </title>
+   <link>
+    https://www.spreaker.com/episode/tine-befriede-sig-selv-fra-dagpengemollen-i-lissabon--50532339
+   </link>
+   <description>
+    Jeg mødte Tine Søeby på Ryslinge Højskole i sommeren 2021, hvor vi begge havde meldt os til en uges kor med komponist og skuespiller, Jeanett Albeck. Tine har aldrig været bange for at følge sit hjerte og kaste sig ud i noget nyt, så da hun som 28-årig bliver færdig med sin uddannelse og ikke kan overskue dagpengemøllen herhjemme, der rykker hun rødderne op og tager til Lissabon. Det som skulle have været én måned bliver pludselig til flere, og Tine må spørge sig selv: skal jeg slå rødder her eller vende snuden hjem? Og hvad er egentligt et godt liv? Svarene får du i dette afsnit af Mit Livs Rejse.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50532339
+   </guid>
+   <pubDate>
+    Mon, 11 Jul 2022 09:42:25 +0000
+   </pubDate>
+   <enclosure length="78152142" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50532339/mit_livs_rejse_tine.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Jeg mødte Tine Søeby på Ryslinge Højskole i sommeren 2021, hvor vi begge havde meldt os til en uges kor med komponist og skuespiller, Jeanett Albeck. Tine har aldrig været bange for at følge sit hjerte og kaste sig ud i noget nyt, så da hun som...
+   </itunes:subtitle>
+   <itunes:summary>
+    Jeg mødte Tine Søeby på Ryslinge Højskole i sommeren 2021, hvor vi begge havde meldt os til en uges kor med komponist og skuespiller, Jeanett Albeck. Tine har aldrig været bange for at følge sit hjerte og kaste sig ud i noget nyt, så da hun som 28-årig bliver færdig med sin uddannelse og ikke kan overskue dagpengemøllen herhjemme, der rykker hun rødderne op og tager til Lissabon. Det som skulle have været én måned bliver pludselig til flere, og Tine må spørge sig selv: skal jeg slå rødder her eller vende snuden hjem? Og hvad er egentligt et godt liv? Svarene får du i dette afsnit af Mit Livs Rejse.
+   </itunes:summary>
+   <itunes:duration>
+    3254
+   </itunes:duration>
+   <itunes:keywords>
+    arbejde,læring,lissabon,livserfaring,livsrejse,mening,portugal,refleksion,rejse,selvudvikling,uddannelse,værdier
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/37771d509894363dced54f9f272f04a4.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

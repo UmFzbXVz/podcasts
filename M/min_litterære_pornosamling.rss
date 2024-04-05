@@ -1,341 +1,1509 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Min Litterære Pornosamling</title>
-		<link>https://web.24syv.dk/channels/5069</link>
-		<description>I Min Litterære Pornosamling tager vært Jacob Nielsen den pornografiske, erotiske litteratur med under dynen og ud i radioen. I selskab med sine gæster, undersøger programmet hvad pornografiske romaner fortæller os om vores fantasier, kollektive tabuer, hemmelige subkulturer, politiske overbevisninger og skiftende smag i erotisk kunst.Har du input, spørgsmål eller kommentarer? Skriv til pornosamling@24syv.dk</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/912/fb5a2981f00ca278e517902b609fa9d5.png"/>
-		<item>
-			<title>Biblen</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50317100/biblen.mp3</link>
-			<description>Ifølge dagens gæst er Højsangen den mest erotiske tekst i biblen. Derudover er den tilmed fortalt primært fra et kvindeligt synspunkt, af en seksuelt frigjort kvinde der er syg af kærlighed efter sin elsker. Sammen med sognepræst Karsten Møller Hansen læser vi højt fra de smukke vers, og diskuterer kropslighed, sex og erotik i moderne kristendom.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50317100/biblen.mp3</guid>
-			<pubDate>Mon, 04 Jul 2022 05:40:02 +0000</pubDate>
-			<itunes:duration>00:45:49</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50317100/biblen.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>20 års meditation over sex, kærlighed og forhold</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50316965/en_rigtig_k_rlighed.mp3</link>
-			<description>Når det kommer til sex og parforhold ender vi ofte med at stræbe efter det samme ideal som alle andre. I Tomas Lagermand Lundme’s roman fra 2019, “En rigtig kærlighed”, reflekteres der over prisen ved at forsøgte at leve op til idéen om det rigtige forhold, og hvordan man bryder ud af det for i stedet at finde den rigtige relation for en selv. Vi snakker om afstanden mellem bogen og hans første, og spørger, hvorfor sexualiteten bliver ved med at interesserer ham.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50316965/en_rigtig_k_rlighed.mp3</guid>
-			<pubDate>Mon, 27 Jun 2022 04:10:02 +0000</pubDate>
-			<itunes:duration>00:53:40</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50316965/en_rigtig_k_rlighed.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En grænseoverskridende kærlighed</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50211385/nekrofilen.mp3</link>
-			<description>Nekrofili. Et mystisk og dybt taburiseret område af seksualiteten, som kun de færreste har turde forstå. Ikke desto mindre er det emnet i den kvindelige franske skandaleforfatter Gabrielle Wittkop’s “Nekrofilen”, som vi i dag snakker om med forlægger Mads Peder Lau Pedersen. Vi spørger hvorfor man overhovedet udgiver en bog med det emne, vi dykker ned i bogens smukke og forstyrende passager, og så undersøger vi om nekrofilien i sig selv kan forståes som en form for kærlighed.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50211385/nekrofilen.mp3</guid>
-			<pubDate>Mon, 20 Jun 2022 06:25:02 +0000</pubDate>
-			<itunes:duration>00:53:35</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50211385/nekrofilen.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kvindefantasier</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50120108/kvindefantasier.mp3</link>
-			<description>Er vores erotiske fantasi blevet svækket af for mange års porno? Hvilket potentiale findes der i udforskningen af skammen og vores mere forbudte fantasier? Og hvordan er det overhovedet at skrive erotiske noveller? Sammen med Jasmin Gabay, Emmelie de Forest og Elisa Lykke, hører vi om deres oplevelse med at biddrage til den nyeste udgave af “Kvindefantasier”, den populære erotiske novellesamling skrevet af kendte danske kvinder.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50120108/kvindefantasier.mp3</guid>
-			<pubDate>Mon, 13 Jun 2022 04:00:03 +0000</pubDate>
-			<itunes:duration>00:53:42</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50120108/kvindefantasier.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kvinder uden mænd</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50024447/kvinder_uden_m_nd.mp3</link>
-			<description>I Parsipurs undergrundsklassiker, “Kvinder uden mænd”, følger vi 5 kvinder der slår sig ned i en have udenfor Teheran. Hvad de har til fælles, spørger vi oversætter Nazila Kivi, som taler om reproduktion uden mænd, gud som gartner, feministisk hævn og brud på traditionelle kvinderoller i 1950’erne Iran.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50024447/kvinder_uden_m_nd.mp3</guid>
-			<pubDate>Mon, 06 Jun 2022 04:48:18 +0000</pubDate>
-			<itunes:duration>00:53:53</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50024447/kvinder_uden_m_nd.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Snask i søen</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49919089/dencik.mp3</link>
-			<description>Sædkult. Hanrejer. Utro svaner. Preggoporn. Daniel Denciks seneste roman, “Snask”, har det hele og mere til. Vi snakker om kernefamilien som skurk, om mandens nederlag i kønskampen og udforsker både matriakalske og kollektiver i Danmark og Samoa.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49919089/dencik.mp3</guid>
-			<pubDate>Mon, 30 May 2022 04:09:05 +0000</pubDate>
-			<itunes:duration>00:53:26</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49919089/dencik.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Slutshaming i revolutionens navn</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49842992/wang.mp3</link>
-			<description>Vi læser den kinesiske forfatter Wang Xiaobo’s to noveller, “Så blødt som vand” og “Guldalder”, og snakker om begær, der bliver straffet af staten, begær der finder nydelsen i ydmygelsen, og begær, der udfordrer gældende politik.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49842992/wang.mp3</guid>
-			<pubDate>Mon, 23 May 2022 04:09:09 +0000</pubDate>
-			<itunes:duration>00:52:55</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49842992/wang.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>O's svære Historie</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49741103/o_s_historie.mp3</link>
-			<description>Den erotiske kultroman “O’s Historie” fra 1954, har længe været kendt som en erotisk feministisk klassiker. Men er det specielt kvindefrigørende at underkaste sig et liv som sexslave af frygt for at miste sin elsker? Er det en roman som romantiserer vold mod kvinder, og hvem var personen bag pseudonymet Pauline Réage? Sammen med kunstnerduoen Astrup og Bordorff der i disse dage opsætter “O’s Historie” som et teaterstykke, dykker vi ned i den problematiske udgivelseshistorie, som er gennemsyret af et patriarkalsk verdensbillede.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49741103/o_s_historie.mp3</guid>
-			<pubDate>Mon, 16 May 2022 04:10:13 +0000</pubDate>
-			<itunes:duration>00:53:38</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49741103/o_s_historie.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fræk, frodig, storbarmet, elskovsglad brunette (40) søger potent, velstillet, særdeles gavmild, generøs, gift direktør/forretningsmand.</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49651289/erdernogen.mp3</link>
-			<description>Velkommen til Tinder før internettet. Siden sine teenageår har redaktør Leila Vestgaard samlet på autentiske kontaktannoncer, som danskerne trykte i avisen i søgen efter enten kærligheden eller den helt rigtige sexpartner. Gennem oplæsninger får vi indblik ikke kun i deres mest intime drømme, men også hvilket udtryk og sproglige billeder, de benyttede for at beskrive dem selv og den ideelle partner.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49651289/erdernogen.mp3</guid>
-			<pubDate>Mon, 09 May 2022 04:05:29 +0000</pubDate>
-			<itunes:duration>00:53:34</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49651289/erdernogen.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hvad er giftig maskulinitet?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49592278/glenn_bech.mp3</link>
-			<description>I Glenn Bech’s anmelderoste debut, erindringsromanen “Farskibet”, møder læseren et landskab af mennesker ødelagte af giftig maskulinitet. Med hvad betyder det, og kan vi nogensinde blive fri for det? Fra det usynlige spænd mellem bog og levet liv, taler Glenn om sin barndom og forsøget på at leve et større liv på sine helt egne præmisser.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49592278/glenn_bech.mp3</guid>
-			<pubDate>Mon, 02 May 2022 04:06:50 +0000</pubDate>
-			<itunes:duration>00:54:02</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49592278/glenn_bech.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Frie oplevelser</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49534072/frie_oplevelser.mp3</link>
-			<description>Hvilke vilkår havde den frie kærlighed i 1960’ernes Iran? Hvad var konsekvenserne ved at afvige fra patriarkatet, og hvorfor har dagens forfatter været i fængsel for at have skrive sine bøger? Sammen med oversætter Nazila Ghavami Kivi snakker vi om queer-erfaringer, forbudt litteratur og kvindeoprør i Shahrnush Parsipurs roman “Frie Oplevelser”, som stadig officielt er forbudt i Den Islamiske Republik Iran den dag i dag.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49534072/frie_oplevelser.mp3</guid>
-			<pubDate>Mon, 25 Apr 2022 04:07:17 +0000</pubDate>
-			<itunes:duration>00:53:37</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49534072/frie_oplevelser.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Marquis de Sade: “Om nytteløsheden og farerne ved et dydigt liv”</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49419908/marquis_de_sade.mp3</link>
-			<description>Drag med på en brutal rejse til 1700-tallets Frankrig, hvor kloge kvinder på kalkuleret vis knalder sig til tops, mens dydige og naive kvinder bliver voldtaget, slavebundet og tortureret. Vi læser omsider klassikeren Justine, et mystisk miks af voldtægts-sex og religionenskritisk oplysningsfilosofi fra manden, der lagde navn til sadismen.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49419908/marquis_de_sade.mp3</guid>
-			<pubDate>Mon, 18 Apr 2022 04:06:15 +0000</pubDate>
-			<itunes:duration>00:53:46</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49419908/marquis_de_sade.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hemmeligheden bag at score kvinder</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49362946/the_game.mp3</link>
-			<description>Bogen “The Game” blev ved udgivelsen i 2005 hurtigt en international bestseller og brugt som en bibel for en verdensomspændende generation af unge mænd, der forfører kvinder efter indøvede formler. Mange af disse 'scoretricks' er dog svære ikke at regne som ren manipulation, og derfor snakker vi med dagens gæst om bogens tiltrækningskraft, hvordan det var af bruge dens råd overfor virkelige mennesker, og det kvindesyn der ligger bag.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49362946/the_game.mp3</guid>
-			<pubDate>Mon, 11 Apr 2022 04:05:24 +0000</pubDate>
-			<itunes:duration>00:53:45</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49362946/the_game.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Danmarks Bøssebibel</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49165864/b_ssernes_danmarkshistorie.mp3</link>
-			<description>Hvornår så Danmarks første bog om at være bøsse dagens lys?  Og hvor længe var den forbudt?Sammen med Lars Henriksen og Chantal Al Arab dykker vi ned i deres nyeste bog, “Bøssernes Danmarkshistorie 1900-2022”, og undersøger, hvad litteraturen har betydet i bøssernes selvforståelse og kamp for ligestilling.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49165864/b_ssernes_danmarkshistorie.mp3</guid>
-			<pubDate>Mon, 28 Mar 2022 04:09:31 +0000</pubDate>
-			<itunes:duration>00:52:50</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49165864/b_ssernes_danmarkshistorie.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En otte retters hybrid af sex, krig og maskulinitet</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49068434/i_st_d_finder_jeg_l.mp3</link>
-			<description>En undersøgelse af maskuliniteten. Sådan lyder en af motivationerne bag digteren Elvir Maleškić’s “I stød finder jeg læ”. En digtsamling, hvor voldsome barndomsminder fra krigen i Bosnien blander sig med en grænsesøgende forelskelse i Århus. Vi spørger hvorfor sex fylder så meget, hvor meget af Elvir eget liv er skrevet ind i digtene, og hvad digterens rolle ifølge ham består i 2020’erne.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49068434/i_st_d_finder_jeg_l.mp3</guid>
-			<pubDate>Mon, 21 Mar 2022 05:14:34 +0000</pubDate>
-			<itunes:duration>00:53:31</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49068434/i_st_d_finder_jeg_l.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kunsten at glædes</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49014996/kunsten_at_gl_des.mp3</link>
-			<description>Hvor mange normer om parforhold, familiekonstellationer og sex-manuskripter kan én person ødelægge, alene gennem sin frihedstrang, sin sex- og livslyst? Med forlæggeren af den genopdagede klassiker “Kunsten at glædes”, der var for voldsom til samtidens Italien, sætter vi fokus på hovedpersonen Modesta’s seksuelle udvikling, fra den spæde opdagelse til ejerskabet over sin seksualitet, der stod i livslang opposition til Sicilien i det 20. århundrede.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49014996/kunsten_at_gl_des.mp3</guid>
-			<pubDate>Mon, 14 Mar 2022 05:18:27 +0000</pubDate>
-			<itunes:duration>00:53:36</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49014996/kunsten_at_gl_des.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Forhud: Trækkerdrengens uskyldstab</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48934590/forhud.mp3</link>
-			<description>Kultromanen “Forhud” fra 1998 skubber sin læser ind i en ung trækkerdrengs oplevelser og tanker. Forfatteren, Tomas Lagermand Lundme, er i studiet og snakker om jeg-fortællerens søgen efter frihed og erfaring i det mudrede spektrum mellem lyst og smerte, underkastelse og liderlighed. Vi hører hvordan romanen blev til, hvor tæt den placerer sig på Tomas’ egen ungdom, alt imens vi bliver ført tilbage til 80’ og 90’ernes rå København.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48934590/forhud.mp3</guid>
-			<pubDate>Mon, 07 Mar 2022 05:02:15 +0000</pubDate>
-			<itunes:duration>00:53:49</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48934590/forhud.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>For meget begær til den frisindede højskole</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48855684/ringo.mp3</link>
-			<description>Forfatter Laura Ringo fortæller om bogen “Grundtvig er død”, en historie om et stort kvindeligt begær, som støder imod grænserne for, hvem man må og ikke måde have sex med. Vi rejser i dette afsnit til Nyord Højskole, hvor fortælleren Petra indleder et forhold til både sin chef og sin elev, og i processen udforsker de mørke og mere mudrede sider af sin seksualitet, der blandt andet omfatter et sexmanifest, en incest-fantasi og ydmygelsen af en hidtil selvsikker ældre højskoleforstander.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48855684/ringo.mp3</guid>
-			<pubDate>Mon, 28 Feb 2022 05:19:13 +0000</pubDate>
-			<itunes:duration>00:52:29</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48855684/ringo.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Houellebecq: Vestlig provokatør eller gemen pornograf?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48757719/michelhouellebecq.mp3</link>
-			<description>Dick-litt for mænd, der har brug for en undskyldning for at læse pornografi. Sådan lød overskriften på Politikens anmeldelse af “Lanzarote”, Houellebecq’s kortroman fra 2000. Sammen med den danske forlægger, Marie Vinter, forsøger vi at skelne personen fra karikaturen, imens vi diskuterer om hans litteratur er sexistisk og racistisk, og hvad der gemmer sig bag de “pornografiske” sider.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48757719/michelhouellebecq.mp3</guid>
-			<pubDate>Mon, 21 Feb 2022 05:07:43 +0000</pubDate>
-			<itunes:duration>00:52:47</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48757719/michelhouellebecq.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Skabt som mand og kvinde</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48656931/ditlev_tamm.mp3</link>
-			<description>Hvad betyder det at crossdresse? Og hvor langt tilbage i tiden går denne leg med symboler, mode og kønsroller? Og kan man med god samvittighed skrive om en franskmand tæt på Solkongens hof tilbage i 1600-tallet, der gang på gang går i seng med unge piger på 15-16 år? Juraprofessor, ridder af Dannebrog og erklæret konservativ crossdresser, Ditlev Tamm, gæster studiet til en snak om sin bog: “Skabt som mand og kvinde.”</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48656931/ditlev_tamm.mp3</guid>
-			<pubDate>Mon, 14 Feb 2022 05:06:35 +0000</pubDate>
-			<itunes:duration>00:53:13</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48656931/ditlev_tamm.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Bøssedanmark</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48584003/b_ssedanmark.mp3</link>
-			<description>Novellesamlingen “Bøssedanmark” præsenteres som den bog, de fire forfattere altid selv havde ønsket sig, da de voksede op og ledte efter deres egen identitet. I studiet har vi alle fire på besøg til en snak om, hvad de præcist savnede, om og hvorfor bogen handler så meget om sex, hvordan mainstreamkulturen aldrig hørte, hvad der skete med HIV, og hvordan novellerne lyder, når forfatterne selv læser op. Med Dennis Agerblad, Tomas Lagermand Lundme, Nikolaj Tange Lange og Mads Ananda Lodahl.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48584003/b_ssedanmark.mp3</guid>
-			<pubDate>Mon, 07 Feb 2022 05:19:12 +0000</pubDate>
-			<itunes:duration>00:53:32</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48584003/b_ssedanmark.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Cougaren er løs i byen!</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48521490/cougar.mp3</link>
-			<description>Hvor farlige er midalderlige kvinder tæt på overgangsalderen? Hvad kan ældre kvinder lære unge mænd i sengen? Hvad er cougarens foretrukne jagtmarker og score-strategier? Digteren Pia Busks digtsamling “Cougar” fra 2019, er en opfordring til sine medsøstre til at gå ud og jagte ungt kød, alt imens frugten af den seksuelle erfaring bliver overrakt til den næste generation. Lyt med, når to unge mænd læser højt fra deres rovdyrs farlige elskovsguide.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48521490/cougar.mp3</guid>
-			<pubDate>Mon, 31 Jan 2022 13:46:54 +0000</pubDate>
-			<itunes:duration>00:53:26</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48521490/cougar.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Suzanne Brøgger's udanske og erotiske memoirer</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48386852/creme_fraiche.mp3</link>
-			<description>Suzanne Brøggers første roman “Creme Fraiche” foragede hele Danmark ved udgivelsen i 1973. Feministerne anklagede hende for ikke at sympatisere med arbejderkvinder, mens borgerskabet kritiserede hendes åbentlyse seksuelle liv, der i sig selv var et angreb på kernefamilien og dens tilhørende monogami. Knap 50 år senere undersøger vi om bogen stadig forarger moderne feminister, om scenerne stadig kan vække anstød, og hvordan værten Jacob ændrede sit kærlighedsliv efter at have læst den.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48386852/creme_fraiche.mp3</guid>
-			<pubDate>Mon, 24 Jan 2022 05:39:12 +0000</pubDate>
-			<itunes:duration>00:53:08</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48386852/creme_fraiche.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En ny æra for erotiske tegneserier?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48277634/sasha_from_the_gym.mp3</link>
-			<description>Tegnet erotik er mere udbredt end nogensinde før. I 2021 var “hentai” den allermest søgte kategori på pornhub.com. Men hvor gammel er forholdet mellem pornografi og tegneserier? Hvorfor ser vi en ny bølge af erotiske tegneserier på internettet netop nu, og hvorfor laves det særligt af og til queer-miljøet? Lyt med, når vi sammen den anmelderoste tegneserieforfatter, Karoline Stjernfelt, bladrer igennem tegneserien “Sasha from the Gym.”
-
-“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer i bøger, som vi har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48277634/sasha_from_the_gym.mp3</guid>
-			<pubDate>Mon, 17 Jan 2022 05:07:16 +0000</pubDate>
-			<itunes:duration>00:53:23</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48277634/sasha_from_the_gym.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hvorfor gør fri kærlighed så ondt?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47318283/sortsyge.mp3</link>
-			<description>Interview med forfatter Cecilie Bødker om Sortsyge, som ved udgivelsen blev karakteriseret som bogen om polyamorøse livsstil. Mellem hendes oplæsninger diskuterer vi jalousiens magt på godt og ondt, nødvendigheden af at skrive eksplicit om sex, mainstreampornoens indflydelse og det svære ved at leve op til idealer. 
-
-“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen med sine gæster diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47318283/sortsyge.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:18:44 +0000</pubDate>
-			<itunes:duration>00:53:24</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47318283/sortsyge.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kan børn have masochistiske fantasier?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47439163/m_rkt_for_r.mp3</link>
-			<description>Masochisme og børneseksualitet. To ord, der ikke burde placeres ved siden af hinanden. For kan vi overhovedet tale om børns seksualitet? Specielt, hvis den er selvdestruktiv? Den tyske forfatterinde Unica Zürns springer direkte over den slags spørgsmål i romanen “Mørkt Forår” fra 1969, som udforsker, hvordan og hvornår seksualitet opstår i et menneske. 
-
-“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47439163/m_rkt_for_r.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:18:44 +0000</pubDate>
-			<itunes:duration>00:53:27</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47439163/m_rkt_for_r.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Dekameron: Et forsvar for utroskab?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47536923/dekameron.mp3</link>
-			<description>Var kvinder mere liderlige i fortiden? Kan utroskab forsvares? Hvad tænkte man om nonne-sex tilbage i 1300-tallet? Vi har besøg af Anders Toftgaard, som guider os igennem den kvindeglade Giovanni Boccaccios “Dekameron”, hvor kvinder og mænd kvinder snyder hinanden, hvor liderlighed fremstilles som en uovervindelig kraft, og mistet uskyld som noget man kan lyve sig fra. 
-
-“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47536923/dekameron.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:18:43 +0000</pubDate>
-			<itunes:duration>00:52:51</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47536923/dekameron.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Islamisk opskrift på den gode elsker</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47654647/den_duftende_have.mp3</link>
-			<description>“Den Duftende Have” er en sexmanual fra 1400-tallet, der uden omsvøb giver sin mening i den ældgamle diskussion om størrelsen eller gørelsen. Sammen med professor Jakob Skovgaard-Petersen, diskuterer vi bogens råd til, hvad der kendetegner den bedste elsker, hvordan man bedst aborterer, hvorfor du skal være opmærksom på din kones gloryholes, og hvordan alt dette passer i en islamiske verden, der måske ikke ligefrem er kendt for en afslappet tilgang til sex. 
-
-“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47654647/den_duftende_have.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:18:43 +0000</pubDate>
-			<itunes:duration>00:53:16</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47654647/den_duftende_have.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Amatørernes legeplads: Erotisk fanfiction</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47753360/fan_fiction.mp3</link>
-			<description>På internettet findes et verdensomspændende netværk, der skriver erotisk fanfiction over kendte mennesker og karakterer som Harry Styles og Harry Potter. Mens Harry i nogle af historierne dominerer eller ydmyger sig, putter han sig i andre  i sofaen sammen med dig, læseren, der altid placeres i centrum. Dagens gæst kalder genren et trygt sted at udforske sin seksualitet, og forklarer, hvorfor hun selv forelskede sig i fanfiction-universet.a
-
-“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47753360/fan_fiction.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:18:43 +0000</pubDate>
-			<itunes:duration>00:53:31</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47753360/fan_fiction.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Adam i Paradis: Om homoseksualitet, dengang det var forbudt</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47864019/adam_i_paradis.mp3</link>
-			<description>Sammen med forfatter Rakel Haslund-Gjerrild taler vi om dengang, det var forbudt at være homoseksuel i Danmark. Dengang lægen ville behandle dig for det, og politiet vide, hvem du senest har onaneret med. Hendes roman, “Adam i Paradis”, sætter fokus på den anerkendte maler Kristian Zahrtmann, der måske ikke opfattede sig selv som homoseksuel, men hvis kunst provokerede samtiden. 
-
-“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47864019/adam_i_paradis.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:18:43 +0000</pubDate>
-			<itunes:duration>00:53:30</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47864019/adam_i_paradis.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Internetporno og perverse anmeldere: Interview med Jacob Skyggebjerg</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47949756/inderkredsen.mp3</link>
-			<description>En skandaleroman. Paranoid. Røv-og-nøgleroman. Provokation for provokationens skyld. Jakob Skyggebjergs nyeste roman “Inderkredsen”, har modtaget den ene 2-stjernede anmeldelse efter den anden, siden den udkom d. 2 december. Vi spørger ham, hvordan det føles. Om det ikke kan undgås, når bogen selv er at angreb på netop anmelderne. Og så diskuterer vi den pornoafhængighed, der får hovedpersonen Patricks liv til at vælte i søgen efter det næste pornoficerede fiks. 
-
-“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer i bøger, som vi har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47949756/inderkredsen.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:18:43 +0000</pubDate>
-			<itunes:duration>00:52:57</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47949756/inderkredsen.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sex udenfor kategorierne</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48036058/sauna1.mp3</link>
-			<description>Forfatter Mads Ananda Lodahl fortæller om sin nyeste roman “Sauna”. Den første danske bog, der ikke kun giver et indblik i bøssesauna-kulturen, men også inviterer læseren ind i kærlighedsforholdet mellem hovedpersonen Johan og den transkønnede William. Lyt med, når Mads læser op og forklarer, hvordan det var at skrive om transkønnede uden at fetischere dem, hvordan det føles at have sex med naturen, og hvad den heteroseksuelle verdensorden kan lære af queer-erfaringer. 
-
-“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer i bøger, som vi har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48036058/sauna1.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:18:42 +0000</pubDate>
-			<itunes:duration>00:53:27</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48036058/sauna1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fifty Shades og Husmorporno... med mor.</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48110189/fifty_shadesf_rdig.mp3</link>
-			<description>Hvad gør man, når man i sine forældres bibliotek finder erotiske bøger? I juleferien stødte jeg på bestselleren Fifty Shades fra 2011, som startede en mindre revolution indenfor erotisk litteratur. Frem for at lade den liggende, spørger jeg i dette afsnit min mor, Pia, hvordan hun forbruger porno, hvad hun tænker om begrebet husmor-porno, og hvad bogen har betydet for hendes forhold med min, ja, far.
-
-
-Hvad gør man, når man i sine forældres bibliotek finder erotiske bøger? I juleferien stødte jeg på bestselleren Fifty Shades fra 2011, som startede en mindre revolution indenfor erotisk litteratur. Frem for at lade den liggende, spørger jeg i dette afsnit min mor, Pia, hvordan hun forbruger porno, hvad hun tænker om begrebet husmor-porno, og hvad bogen har betydet for hendes forhold med min, ja, far.
-
-I “Min Litterære Pornosamling” vil værten Jacob Nielsen have dig til at tage dine bøger med ind under dynen. I selskab med sine gæster, undersøger programmet hvad pornografiske romaner fortæller os om vores fantasier, kollektive tabuer, hemmelige subkulturer, politiske overbevisninger og skiftende smag i erotisk kunst.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48110189/fifty_shadesf_rdig.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:18:42 +0000</pubDate>
-			<itunes:duration>00:53:08</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48110189/fifty_shadesf_rdig.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Præsternes censurerede sexseminar</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47162208/filosoffen_th_res.mp3</link>
-			<description>Hardcore porno og oplysningsfilosofi. Sammen med forsker i satire og censur, Dennis Brink Meyhoff, diskuterer vi den pornografiske bestseller Filosoffen Therese fra 1748. Her spørger vi om filosofien eller pornoen provokerede datidens franskmænd mest, hvordan argumenter for fri sex lød i oplysningstiden, og om pornoen fornyer sig over tid. 
-
-Min Litterære Pornosamling er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer ud fra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47162208/filosoffen_th_res.mp3</guid>
-			<pubDate>Tue, 04 Jan 2022 16:18:00 +0000</pubDate>
-			<itunes:duration>00:53:29</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47162208/filosoffen_th_res.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Min Litterære Pornosamling
+  </title>
+  <link>
+   https://loud.land/podcast/min-litteraere-pornosamling
+  </link>
+  <description>
+   I Min Litterære Pornosamling tager vært Jacob Nielsen den pornografiske, erotiske litteratur med under dynen og ud i radioen. I selskab med sine gæster, undersøger programmet hvad pornografiske romaner fortæller os om vores fantasier, kollektive tabuer, hemmelige subkulturer, politiske overbevisninger og skiftende smag i erotisk kunst.&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="mailto:pornosamling@24syv.dk"&gt;pornosamling@24syv.dk&lt;/a&gt;
+  </description>
+  <atom:link href="https://www.spreaker.com/show/5163668/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Books
+  </category>
+  <copyright>
+   Copyright LOUD
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg
+   </url>
+   <title>
+    Min Litterære Pornosamling
+   </title>
+   <link>
+    https://loud.land/podcast/min-litteraere-pornosamling
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   24syv
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    24syv
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+  <itunes:subtitle>
+   Er fortidens bibliotek pervers nok til at støde dig? Mellem nye og gamle mesterværker undersøger “Pornografisk Litteratur” den smudsige grænse mellem provokation og sædelighed, porno og samfundskritik.
+  </itunes:subtitle>
+  <itunes:summary>
+   I Min Litterære Pornosamling tager vært Jacob Nielsen den pornografiske, erotiske litteratur med under dynen og ud i radioen. I selskab med sine gæster, undersøger programmet hvad pornografiske romaner fortæller os om vores fantasier, kollektive tabuer, hemmelige subkulturer, politiske overbevisninger og skiftende smag i erotisk kunst.&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="mailto:pornosamling@24syv.dk"&gt;pornosamling@24syv.dk&lt;/a&gt;
+  </itunes:summary>
+  <itunes:category text="Arts">
+   <itunes:category text="Books"/>
+  </itunes:category>
+  <itunes:category text="Health &amp; Fitness">
+   <itunes:category text="Sexuality"/>
+  </itunes:category>
+  <itunes:category text="Society &amp; Culture"/>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    Bibelen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/bibelen--50317100
+   </link>
+   <description>
+    Ifølge dagens gæst er Højsangen den mest erotiske tekst i biblen. Derudover er den tilmed fortalt primært fra et kvindeligt synspunkt, af en seksuelt frigjort kvinde der er syg af kærlighed efter sin elsker. Sammen med sognepræst Karsten Møller Hansen læser vi højt fra de smukke vers, og diskuterer kropslighed, sex og erotik i moderne kristendom.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50317100
+   </guid>
+   <pubDate>
+    Mon, 04 Jul 2022 05:40:02 +0000
+   </pubDate>
+   <enclosure length="43996935" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50317100/biblen.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Ifølge dagens gæst er Højsangen den mest erotiske tekst i biblen. Derudover er den tilmed fortalt primært fra et kvindeligt synspunkt, af en seksuelt frigjort kvinde der er syg af kærlighed efter sin elsker. Sammen med sognepræst Karsten Møller Hansen...
+   </itunes:subtitle>
+   <itunes:summary>
+    Ifølge dagens gæst er Højsangen den mest erotiske tekst i biblen. Derudover er den tilmed fortalt primært fra et kvindeligt synspunkt, af en seksuelt frigjort kvinde der er syg af kærlighed efter sin elsker. Sammen med sognepræst Karsten Møller Hansen læser vi højt fra de smukke vers, og diskuterer kropslighed, sex og erotik i moderne kristendom.
+   </itunes:summary>
+   <itunes:duration>
+    2750
+   </itunes:duration>
+   <itunes:keywords>
+    biblen,højsangen,karstenmøllerhansen
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    20 års meditation over sex, kærlighed og forhold
+   </title>
+   <link>
+    https://www.spreaker.com/episode/20-ars-meditation-over-sex-kaerlighed-og-forhold--50316965
+   </link>
+   <description>
+    Når det kommer til sex og parforhold ender vi ofte med at stræbe efter det samme ideal som alle andre. I Tomas Lagermand Lundme’s roman fra 2019, “En rigtig kærlighed”, reflekteres der over prisen ved at forsøgte at leve op til idéen om det rigtige forhold, og hvordan man bryder ud af det for i stedet at finde den rigtige relation for en selv. Vi snakker om afstanden mellem bogen og hans første, og spørger, hvorfor sexualiteten bliver ved med at interesserer ham.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50316965
+   </guid>
+   <pubDate>
+    Mon, 27 Jun 2022 04:10:02 +0000
+   </pubDate>
+   <enclosure length="51532321" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50316965/en_rigtig_k_rlighed.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Når det kommer til sex og parforhold ender vi ofte med at stræbe efter det samme ideal som alle andre. I Tomas Lagermand Lundme’s roman fra 2019, “En rigtig kærlighed”, reflekteres der over prisen ved at forsøgte at leve op til idéen om det rigtige...
+   </itunes:subtitle>
+   <itunes:summary>
+    Når det kommer til sex og parforhold ender vi ofte med at stræbe efter det samme ideal som alle andre. I Tomas Lagermand Lundme’s roman fra 2019, “En rigtig kærlighed”, reflekteres der over prisen ved at forsøgte at leve op til idéen om det rigtige forhold, og hvordan man bryder ud af det for i stedet at finde den rigtige relation for en selv. Vi snakker om afstanden mellem bogen og hans første, og spørger, hvorfor sexualiteten bliver ved med at interesserer ham.
+   </itunes:summary>
+   <itunes:duration>
+    3221
+   </itunes:duration>
+   <itunes:keywords>
+    enrigtigkærlighed,tomaslagermandlundme
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    En grænseoverskridende kærlighed
+   </title>
+   <link>
+    https://www.spreaker.com/episode/en-graenseoverskridende-kaerlighed--50211385
+   </link>
+   <description>
+    Nekrofili. Et mystisk og dybt taburiseret område af seksualiteten, som kun de færreste har turde forstå. Ikke desto mindre er det emnet i den kvindelige franske skandaleforfatter Gabrielle Wittkop’s “Nekrofilen”, som vi i dag snakker om med forlægger Mads Peder Lau Pedersen. Vi spørger hvorfor man overhovedet udgiver en bog med det emne, vi dykker ned i bogens smukke og forstyrende passager, og så undersøger vi om nekrofilien i sig selv kan forståes som en form for kærlighed.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50211385
+   </guid>
+   <pubDate>
+    Mon, 20 Jun 2022 06:25:02 +0000
+   </pubDate>
+   <enclosure length="51441206" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50211385/nekrofilen.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Nekrofili. Et mystisk og dybt taburiseret område af seksualiteten, som kun de færreste har turde forstå. Ikke desto mindre er det emnet i den kvindelige franske skandaleforfatter Gabrielle Wittkop’s “Nekrofilen”, som vi i dag snakker om med forlægger...
+   </itunes:subtitle>
+   <itunes:summary>
+    Nekrofili. Et mystisk og dybt taburiseret område af seksualiteten, som kun de færreste har turde forstå. Ikke desto mindre er det emnet i den kvindelige franske skandaleforfatter Gabrielle Wittkop’s “Nekrofilen”, som vi i dag snakker om med forlægger Mads Peder Lau Pedersen. Vi spørger hvorfor man overhovedet udgiver en bog med det emne, vi dykker ned i bogens smukke og forstyrende passager, og så undersøger vi om nekrofilien i sig selv kan forståes som en form for kærlighed.
+   </itunes:summary>
+   <itunes:duration>
+    3216
+   </itunes:duration>
+   <itunes:keywords>
+    forlagetsidsteårhundrede,gabriellewittkop,nekrofili
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kvindefantasier
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kvindefantasier--50120108
+   </link>
+   <description>
+    Er vores erotiske fantasi blevet svækket af for mange års porno? Hvilket potentiale findes der i udforskningen af skammen og vores mere forbudte fantasier? Og hvordan er det overhovedet at skrive erotiske noveller? Sammen med Jasmin Gabay, Emmelie de Forest og Elisa Lykke, hører vi om deres oplevelse med at biddrage til den nyeste udgave af “Kvindefantasier”, den populære erotiske novellesamling skrevet af kendte danske kvinder.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50120108
+   </guid>
+   <pubDate>
+    Mon, 13 Jun 2022 04:00:03 +0000
+   </pubDate>
+   <enclosure length="51558235" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50120108/kvindefantasier.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Er vores erotiske fantasi blevet svækket af for mange års porno? Hvilket potentiale findes der i udforskningen af skammen og vores mere forbudte fantasier? Og hvordan er det overhovedet at skrive erotiske noveller? Sammen med Jasmin Gabay, Emmelie de...
+   </itunes:subtitle>
+   <itunes:summary>
+    Er vores erotiske fantasi blevet svækket af for mange års porno? Hvilket potentiale findes der i udforskningen af skammen og vores mere forbudte fantasier? Og hvordan er det overhovedet at skrive erotiske noveller? Sammen med Jasmin Gabay, Emmelie de Forest og Elisa Lykke, hører vi om deres oplevelse med at biddrage til den nyeste udgave af “Kvindefantasier”, den populære erotiske novellesamling skrevet af kendte danske kvinder.
+   </itunes:summary>
+   <itunes:duration>
+    3223
+   </itunes:duration>
+   <itunes:keywords>
+    elisalykke,emmeliedeforest,erotik,erotiskenoveller,jasmingabay,kvindefantasier
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kvinder uden mænd
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kvinder-uden-maend--50024447
+   </link>
+   <description>
+    I Parsipurs undergrundsklassiker, “Kvinder uden mænd”, følger vi 5 kvinder der slår sig ned i en have udenfor Teheran. Hvad de har til fælles, spørger vi oversætter Nazila Kivi, som taler om reproduktion uden mænd, gud som gartner, feministisk hævn og brud på traditionelle kvinderoller i 1950’erne Iran.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50024447
+   </guid>
+   <pubDate>
+    Mon, 06 Jun 2022 04:30:02 +0000
+   </pubDate>
+   <enclosure length="51729598" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50024447/kvinder_uden_m_nd.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I Parsipurs undergrundsklassiker, “Kvinder uden mænd”, følger vi 5 kvinder der slår sig ned i en have udenfor Teheran. Hvad de har til fælles, spørger vi oversætter Nazila Kivi, som taler om reproduktion uden mænd, gud som gartner, feministisk hævn og...
+   </itunes:subtitle>
+   <itunes:summary>
+    I Parsipurs undergrundsklassiker, “Kvinder uden mænd”, følger vi 5 kvinder der slår sig ned i en have udenfor Teheran. Hvad de har til fælles, spørger vi oversætter Nazila Kivi, som taler om reproduktion uden mænd, gud som gartner, feministisk hævn og brud på traditionelle kvinderoller i 1950’erne Iran.
+   </itunes:summary>
+   <itunes:duration>
+    3234
+   </itunes:duration>
+   <itunes:keywords>
+    iran,kvinderudenmænd,nazilakivi,parsipur
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Snask i søen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/snask-i-soen--49919089
+   </link>
+   <description>
+    Sædkult. Hanrejer. Utro svaner. Preggoporn. Daniel Denciks seneste roman, “Snask”, har det hele og mere til. Vi snakker om kernefamilien som skurk, om mandens nederlag i kønskampen og udforsker både matriakalske og kollektiver i Danmark og Samoa.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49919089
+   </guid>
+   <pubDate>
+    Mon, 30 May 2022 04:00:03 +0000
+   </pubDate>
+   <enclosure length="51309967" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49919089/dencik.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Sædkult. Hanrejer. Utro svaner. Preggoporn. Daniel Denciks seneste roman, “Snask”, har det hele og mere til. Vi snakker om kernefamilien som skurk, om mandens nederlag i kønskampen og udforsker både matriakalske og kollektiver i Danmark og Samoa.
+   </itunes:subtitle>
+   <itunes:summary>
+    Sædkult. Hanrejer. Utro svaner. Preggoporn. Daniel Denciks seneste roman, “Snask”, har det hele og mere til. Vi snakker om kernefamilien som skurk, om mandens nederlag i kønskampen og udforsker både matriakalske og kollektiver i Danmark og Samoa.
+   </itunes:summary>
+   <itunes:duration>
+    3207
+   </itunes:duration>
+   <itunes:keywords>
+    danieldencik,dencik,kult,matriakat,patriakat,porno,sæd,samoa,snask
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Slutshaming i revolutionens navn
+   </title>
+   <link>
+    https://www.spreaker.com/episode/slutshaming-i-revolutionens-navn--49842992
+   </link>
+   <description>
+    Sammen med forsker fra Lunds Universitet, Astrid Møller-Olsen, læser vi den kinesiske forfatter Wang Xiaobo’s to noveller, “Så blødt som vand” og “Guldalder”, og snakker om begær, der bliver straffet af staten, begær der finder nydelsen i ydmygelsen, og begær, der udfordrer gældende politik.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49842992
+   </guid>
+   <pubDate>
+    Mon, 23 May 2022 04:00:02 +0000
+   </pubDate>
+   <enclosure length="50812595" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49842992/wang.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Sammen med forsker fra Lunds Universitet, Astrid Møller-Olsen, læser vi den kinesiske forfatter Wang Xiaobo’s to noveller, “Så blødt som vand” og “Guldalder”, og snakker om begær, der bliver straffet af staten, begær der finder nydelsen i ydmygelsen,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Sammen med forsker fra Lunds Universitet, Astrid Møller-Olsen, læser vi den kinesiske forfatter Wang Xiaobo’s to noveller, “Så blødt som vand” og “Guldalder”, og snakker om begær, der bliver straffet af staten, begær der finder nydelsen i ydmygelsen, og begær, der udfordrer gældende politik.
+   </itunes:summary>
+   <itunes:duration>
+    3176
+   </itunes:duration>
+   <itunes:keywords>
+    guldalder,kinesisklitteratur,korridor,litteratur,queer,queerlitteratur,såblødtsomvand,wangxiaobo
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    O's svære Historie
+   </title>
+   <link>
+    https://www.spreaker.com/episode/o-s-svaere-historie--49741103
+   </link>
+   <description>
+    Den erotiske kultroman “O’s Historie” fra 1954, har længe været kendt som en erotisk feministisk klassiker. Men er det specielt kvindefrigørende at underkaste sig et liv som sexslave af frygt for at miste sin elsker? Er det en roman som romantiserer vold mod kvinder, og hvem var personen bag pseudonymet Pauline Réage? Sammen med kunstnerduoen Astrup og Bordorff der i disse dage opsætter “O’s Historie” som et teaterstykke, dykker vi ned i den problematiske udgivelseshistorie.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49741103
+   </guid>
+   <pubDate>
+    Mon, 16 May 2022 04:00:34 +0000
+   </pubDate>
+   <enclosure length="51500138" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49741103/o_s_historie.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Den erotiske kultroman “O’s Historie” fra 1954, har længe været kendt som en erotisk feministisk klassiker. Men er det specielt kvindefrigørende at underkaste sig et liv som sexslave af frygt for at miste sin elsker? Er det en roman som romantiserer...
+   </itunes:subtitle>
+   <itunes:summary>
+    Den erotiske kultroman “O’s Historie” fra 1954, har længe været kendt som en erotisk feministisk klassiker. Men er det specielt kvindefrigørende at underkaste sig et liv som sexslave af frygt for at miste sin elsker? Er det en roman som romantiserer vold mod kvinder, og hvem var personen bag pseudonymet Pauline Réage? Sammen med kunstnerduoen Astrup og Bordorff der i disse dage opsætter “O’s Historie” som et teaterstykke, dykker vi ned i den problematiske udgivelseshistorie.
+   </itunes:summary>
+   <itunes:duration>
+    3219
+   </itunes:duration>
+   <itunes:keywords>
+    kvindefrigørelse,kvindefrigørelsen,o'shistorie,patriakatet,paulinereage
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Fræk, frodig, storbarmet, elskovsglad brunette (40) søger potent, velstillet, særdeles gavmild, generøs, gift direktør/forretningsmand.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/fraek-frodig-storbarmet-elskovsglad-brunette-40-soger-potent-velstillet-saerdeles-gavmild-generos-gift-direktor-forretningsmand--49651289
+   </link>
+   <description>
+    Velkommen til Tinder før internettet. Siden sine teenageår har redaktør Leila Vestgaard samlet på autentiske kontaktannoncer, som danskerne trykte i avisen i søgen efter enten kærligheden eller den helt rigtige sexpartner. Gennem oplæsninger får vi indblik ikke kun i deres mest intime drømme, men også hvilket udtryk og sproglige billeder, de benyttede for at beskrive dem selv og den ideelle partner.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49651289
+   </guid>
+   <pubDate>
+    Mon, 09 May 2022 04:00:02 +0000
+   </pubDate>
+   <enclosure length="51438280" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49651289/erdernogen.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Velkommen til Tinder før internettet. Siden sine teenageår har redaktør Leila Vestgaard samlet på autentiske kontaktannoncer, som danskerne trykte i avisen i søgen efter enten kærligheden eller den helt rigtige sexpartner. Gennem oplæsninger får vi...
+   </itunes:subtitle>
+   <itunes:summary>
+    Velkommen til Tinder før internettet. Siden sine teenageår har redaktør Leila Vestgaard samlet på autentiske kontaktannoncer, som danskerne trykte i avisen i søgen efter enten kærligheden eller den helt rigtige sexpartner. Gennem oplæsninger får vi indblik ikke kun i deres mest intime drømme, men også hvilket udtryk og sproglige billeder, de benyttede for at beskrive dem selv og den ideelle partner.
+   </itunes:summary>
+   <itunes:duration>
+    3215
+   </itunes:duration>
+   <itunes:keywords>
+    28b,ensomhed,erdernogen,kontaktannoncer,længsel,leilavestgaard,mod
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Giftig maskulinitet i og omkring Horsens
+   </title>
+   <link>
+    https://www.spreaker.com/episode/giftig-maskulinitet-i-og-omkring-horsens--49592278
+   </link>
+   <description>
+    I Glenn Bech’s anmelderoste debut, erindringsromanen “Farskibet”, møder læseren et landskab af mennesker ødelagte af giftig maskulinitet. Men hvad betyder det, og kan vi nogensinde blive fri for det? Fra det usynlige spænd mellem bog og levet liv, taler Glenn om sin barndom og forsøget på at leve et større liv på sine helt egne præmisser.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49592278
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 04:00:02 +0000
+   </pubDate>
+   <enclosure length="51880063" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49592278/glenn_bech.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I Glenn Bech’s anmelderoste debut, erindringsromanen “Farskibet”, møder læseren et landskab af mennesker ødelagte af giftig maskulinitet. Men hvad betyder det, og kan vi nogensinde blive fri for det? Fra det usynlige spænd mellem bog og levet liv,...
+   </itunes:subtitle>
+   <itunes:summary>
+    I Glenn Bech’s anmelderoste debut, erindringsromanen “Farskibet”, møder læseren et landskab af mennesker ødelagte af giftig maskulinitet. Men hvad betyder det, og kan vi nogensinde blive fri for det? Fra det usynlige spænd mellem bog og levet liv, taler Glenn om sin barndom og forsøget på at leve et større liv på sine helt egne præmisser.
+   </itunes:summary>
+   <itunes:duration>
+    3243
+   </itunes:duration>
+   <itunes:keywords>
+    farskibet,giftigmaskulinitet,glennbech,horsens,maskulinitet,toxicmasculinity
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Frie oplevelser
+   </title>
+   <link>
+    https://www.spreaker.com/episode/frie-oplevelser--49534072
+   </link>
+   <description>
+    Hvilke vilkår havde den frie kærlighed i 1960’ernes Iran? Hvad var konsekvenserne ved at afvige fra patriarkatet, og hvorfor har dagens forfatter været i fængsel for at have skrive sine bøger? Sammen med oversætter Nazila Ghavami Kivi snakker vi om queer-erfaringer, forbudt litteratur og kvindeoprør i Shahrnush Parsipurs roman “Frie Oplevelser”, som stadig officielt er forbudt i Den Islamiske Republik Iran den dag i dag.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49534072
+   </guid>
+   <pubDate>
+    Mon, 25 Apr 2022 04:00:03 +0000
+   </pubDate>
+   <enclosure length="51485092" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49534072/frie_oplevelser.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvilke vilkår havde den frie kærlighed i 1960’ernes Iran? Hvad var konsekvenserne ved at afvige fra patriarkatet, og hvorfor har dagens forfatter været i fængsel for at have skrive sine bøger? Sammen med oversætter Nazila Ghavami Kivi snakker vi om...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvilke vilkår havde den frie kærlighed i 1960’ernes Iran? Hvad var konsekvenserne ved at afvige fra patriarkatet, og hvorfor har dagens forfatter været i fængsel for at have skrive sine bøger? Sammen med oversætter Nazila Ghavami Kivi snakker vi om queer-erfaringer, forbudt litteratur og kvindeoprør i Shahrnush Parsipurs roman “Frie Oplevelser”, som stadig officielt er forbudt i Den Islamiske Republik Iran den dag i dag.
+   </itunes:summary>
+   <itunes:duration>
+    3218
+   </itunes:duration>
+   <itunes:keywords>
+    forbudt,gyldendal,iran,kivi,kvindeoprør,litteratur,nazila,parsipur,queer,shahrnush
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Marquis de Sade: “Om nytteløsheden og farerne ved et dydigt liv”
+   </title>
+   <link>
+    https://www.spreaker.com/episode/marquis-de-sade-om-nyttelosheden-og-farerne-ved-et-dydigt-liv--49419908
+   </link>
+   <description>
+    Drag med på en brutal rejse til 1700-tallets Frankrig, hvor kloge kvinder på kalkuleret vis knalder sig til tops, mens dydige og naive kvinder bliver voldtaget, slavebundet og tortureret. Vi læser omsider klassikeren Justine, et mystisk miks af voldtægts-sex og religionenskritisk oplysningsfilosofi fra manden, der lagde navn til sadismen.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49419908
+   </guid>
+   <pubDate>
+    Mon, 18 Apr 2022 04:00:02 +0000
+   </pubDate>
+   <enclosure length="51620093" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49419908/marquis_de_sade.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Drag med på en brutal rejse til 1700-tallets Frankrig, hvor kloge kvinder på kalkuleret vis knalder sig til tops, mens dydige og naive kvinder bliver voldtaget, slavebundet og tortureret. Vi læser omsider klassikeren Justine, et mystisk miks af...
+   </itunes:subtitle>
+   <itunes:summary>
+    Drag med på en brutal rejse til 1700-tallets Frankrig, hvor kloge kvinder på kalkuleret vis knalder sig til tops, mens dydige og naive kvinder bliver voldtaget, slavebundet og tortureret. Vi læser omsider klassikeren Justine, et mystisk miks af voldtægts-sex og religionenskritisk oplysningsfilosofi fra manden, der lagde navn til sadismen.
+   </itunes:summary>
+   <itunes:duration>
+    3227
+   </itunes:duration>
+   <itunes:keywords>
+    justine,marquisdesade,oplysningstiden,sadism,sadisme,s/m
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Hemmeligheden bag at score kvinder
+   </title>
+   <link>
+    https://www.spreaker.com/episode/hemmeligheden-bag-at-score-kvinder--49362946
+   </link>
+   <description>
+    Bogen “The Game” blev ved udgivelsen i 2005 hurtigt en international bestseller og brugt som en bibel for en verdensomspændende generation af unge mænd, der forfører kvinder efter indøvede formler. Mange af disse 'scoretricks' er dog svære ikke at regne som ren manipulation, og derfor snakker vi med dagens gæst om bogens tiltrækningskraft, hvordan det var af bruge dens råd overfor virkelige mennesker, og det kvindesyn der ligger bag.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49362946
+   </guid>
+   <pubDate>
+    Mon, 11 Apr 2022 04:00:06 +0000
+   </pubDate>
+   <enclosure length="51611733" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49362946/the_game.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Bogen “The Game” blev ved udgivelsen i 2005 hurtigt en international bestseller og brugt som en bibel for en verdensomspændende generation af unge mænd, der forfører kvinder efter indøvede formler. Mange af disse 'scoretricks' er dog svære ikke at...
+   </itunes:subtitle>
+   <itunes:summary>
+    Bogen “The Game” blev ved udgivelsen i 2005 hurtigt en international bestseller og brugt som en bibel for en verdensomspændende generation af unge mænd, der forfører kvinder efter indøvede formler. Mange af disse 'scoretricks' er dog svære ikke at regne som ren manipulation, og derfor snakker vi med dagens gæst om bogens tiltrækningskraft, hvordan det var af bruge dens råd overfor virkelige mennesker, og det kvindesyn der ligger bag.
+   </itunes:summary>
+   <itunes:duration>
+    3226
+   </itunes:duration>
+   <itunes:keywords>
+    gaslighting,nielstrauss,scoremanual,scoretips,sexguide,thegame
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Danmarks nye Bøssebibel
+   </title>
+   <link>
+    https://www.spreaker.com/episode/danmarks-nye-bossebibel--49165864
+   </link>
+   <description>
+    Hvornår så Danmarks første bog om at være bøsse dagens lys? Og hvor længe var den forbudt? Sammen med Lars Henriksen og Chantal Al Arab dykker vi ned i deres nyeste bog, “Bøssernes Danmarkshistorie 1900-2022”, og undersøger, hvad litteraturen op gennem tiderne har betydet for bøssernes selvforståelse og historieskrivning.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49165864
+   </guid>
+   <pubDate>
+    Mon, 28 Mar 2022 04:00:03 +0000
+   </pubDate>
+   <enclosure length="50733183" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49165864/b_ssernes_danmarkshistorie.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvornår så Danmarks første bog om at være bøsse dagens lys? Og hvor længe var den forbudt? Sammen med Lars Henriksen og Chantal Al Arab dykker vi ned i deres nyeste bog, “Bøssernes Danmarkshistorie 1900-2022”, og undersøger, hvad litteraturen op...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvornår så Danmarks første bog om at være bøsse dagens lys? Og hvor længe var den forbudt? Sammen med Lars Henriksen og Chantal Al Arab dykker vi ned i deres nyeste bog, “Bøssernes Danmarkshistorie 1900-2022”, og undersøger, hvad litteraturen op gennem tiderne har betydet for bøssernes selvforståelse og historieskrivning.
+   </itunes:summary>
+   <itunes:duration>
+    3171
+   </itunes:duration>
+   <itunes:keywords>
+    bøsser,bøssernesdanmarkshistorie,chantalalarab,hermanbang,larshenriksen,madsanandalodahl,sauna,ypperstedt
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    En otte retters hybrid af sex, krig og maskulinitet
+   </title>
+   <link>
+    https://www.spreaker.com/episode/en-otte-retters-hybrid-af-sex-krig-og-maskulinitet--49068434
+   </link>
+   <description>
+    En undersøgelse af maskuliniteten. Sådan lyder en af mange ambitioner bag digteren Elvir Maleškić’s “I stød finder jeg læ”. En digtsamling, hvor voldsome barndomsminder fra krigen i Bosnien blander sig med en grænsesøgende forelskelse i Århus. Vi spørger hvorfor sex fylder så meget, hvor meget af Elvir eget liv er skrevet ind i digtene, og hvad digterens rolle kan være i 2022.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49068434
+   </guid>
+   <pubDate>
+    Mon, 21 Mar 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="51382274" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49068434/i_st_d_finder_jeg_l.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    En undersøgelse af maskuliniteten. Sådan lyder en af mange ambitioner bag digteren Elvir Maleškić’s “I stød finder jeg læ”. En digtsamling, hvor voldsome barndomsminder fra krigen i Bosnien blander sig med en grænsesøgende forelskelse i Århus. Vi...
+   </itunes:subtitle>
+   <itunes:summary>
+    En undersøgelse af maskuliniteten. Sådan lyder en af mange ambitioner bag digteren Elvir Maleškić’s “I stød finder jeg læ”. En digtsamling, hvor voldsome barndomsminder fra krigen i Bosnien blander sig med en grænsesøgende forelskelse i Århus. Vi spørger hvorfor sex fylder så meget, hvor meget af Elvir eget liv er skrevet ind i digtene, og hvad digterens rolle kan være i 2022.
+   </itunes:summary>
+   <itunes:duration>
+    3212
+   </itunes:duration>
+   <itunes:keywords>
+    århus,borgerkrig,bosnien,elvir,istødfinderjeglæ,maleškić’s,maskulinitet,sex
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kunsten at glædes
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kunsten-at-glaedes--49014996
+   </link>
+   <description>
+    Hvor mange normer om parforhold, familiekonstellationer og sex-manuskripter kan én person ødelægge, alene gennem sin frihedstrang, sin sex- og livslyst? Med forlæggeren af den genopdagede klassiker “Kunsten at glædes”, der var for voldsom til samtidens Italien, sætter vi fokus på hovedpersonen Modesta’s seksuelle udvikling, fra den spæde opdagelse til ejerskabet over sin seksualitet, der stod i livslang opposition til Sicilien i det 20. århundrede.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49014996
+   </guid>
+   <pubDate>
+    Mon, 14 Mar 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="51469209" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49014996/kunsten_at_gl_des.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvor mange normer om parforhold, familiekonstellationer og sex-manuskripter kan én person ødelægge, alene gennem sin frihedstrang, sin sex- og livslyst? Med forlæggeren af den genopdagede klassiker “Kunsten at glædes”, der var for voldsom til...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvor mange normer om parforhold, familiekonstellationer og sex-manuskripter kan én person ødelægge, alene gennem sin frihedstrang, sin sex- og livslyst? Med forlæggeren af den genopdagede klassiker “Kunsten at glædes”, der var for voldsom til samtidens Italien, sætter vi fokus på hovedpersonen Modesta’s seksuelle udvikling, fra den spæde opdagelse til ejerskabet over sin seksualitet, der stod i livslang opposition til Sicilien i det 20. århundrede.
+   </itunes:summary>
+   <itunes:duration>
+    3217
+   </itunes:duration>
+   <itunes:keywords>
+    feminism,goliardasapienza,kunstenatglædes,l'artedellagoia,sicilien
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Forhud: Trækkerdrengens uskyldstab
+   </title>
+   <link>
+    https://www.spreaker.com/episode/forhud-traekkerdrengens-uskyldstab--48934590
+   </link>
+   <description>
+    Kultromanen “Forhud” fra 1998 skubber sin læser ind i en ung trækkerdrengs oplevelser og tanker. Forfatteren, Tomas Lagermand Lundme, er i studiet og snakker om jeg-fortællerens søgen efter frihed og erfaring i det mudrede spektrum mellem lyst og smerte, underkastelse og liderlighed. Vi hører hvordan romanen blev til, hvor tæt den placerer sig på Tomas’ egen ungdom, alt imens vi bliver ført tilbage til 80’ og 90’ernes rå København.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48934590
+   </guid>
+   <pubDate>
+    Mon, 07 Mar 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="51677771" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48934590/forhud.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Kultromanen “Forhud” fra 1998 skubber sin læser ind i en ung trækkerdrengs oplevelser og tanker. Forfatteren, Tomas Lagermand Lundme, er i studiet og snakker om jeg-fortællerens søgen efter frihed og erfaring i det mudrede spektrum mellem lyst og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Kultromanen “Forhud” fra 1998 skubber sin læser ind i en ung trækkerdrengs oplevelser og tanker. Forfatteren, Tomas Lagermand Lundme, er i studiet og snakker om jeg-fortællerens søgen efter frihed og erfaring i det mudrede spektrum mellem lyst og smerte, underkastelse og liderlighed. Vi hører hvordan romanen blev til, hvor tæt den placerer sig på Tomas’ egen ungdom, alt imens vi bliver ført tilbage til 80’ og 90’ernes rå København.
+   </itunes:summary>
+   <itunes:duration>
+    3230
+   </itunes:duration>
+   <itunes:keywords>
+    forhud,homo,queerlitteratur,tomaslagermandlundme,trækkerdreng
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    For meget begær til den frisindede højskole?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/for-meget-begaer-til-den-frisindede-hojskole--48855684
+   </link>
+   <description>
+    Forfatter Laura Ringo fortæller om bogen “Grundtvig er død”, en historie om et stort kvindeligt begær, som støder imod grænserne for, hvem man må og ikke måde have sex med. Vi rejser i dette afsnit til Nyord Højskole, hvor fortælleren Petra indleder et forhold til både sin chef og sin elev, og i processen udforsker de mørke og mere mudrede sider af sin seksualitet, der blandt andet omfatter et sexmanifest, en incest-fantasi og ydmygelsen af en hidtil selvsikker ældre højskoleforstander.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48855684
+   </guid>
+   <pubDate>
+    Mon, 28 Feb 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="50395890" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48855684/ringo.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Forfatter Laura Ringo fortæller om bogen “Grundtvig er død”, en historie om et stort kvindeligt begær, som støder imod grænserne for, hvem man må og ikke måde have sex med. Vi rejser i dette afsnit til Nyord Højskole, hvor fortælleren Petra indleder...
+   </itunes:subtitle>
+   <itunes:summary>
+    Forfatter Laura Ringo fortæller om bogen “Grundtvig er død”, en historie om et stort kvindeligt begær, som støder imod grænserne for, hvem man må og ikke måde have sex med. Vi rejser i dette afsnit til Nyord Højskole, hvor fortælleren Petra indleder et forhold til både sin chef og sin elev, og i processen udforsker de mørke og mere mudrede sider af sin seksualitet, der blandt andet omfatter et sexmanifest, en incest-fantasi og ydmygelsen af en hidtil selvsikker ældre højskoleforstander.
+   </itunes:summary>
+   <itunes:duration>
+    3150
+   </itunes:duration>
+   <itunes:keywords>
+    grundtvigerdød,gyldendal,højskole,højskolelærer,lauraringo,sex
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Houellebecq: Vestlig provokatør eller gemen pornograf?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/houellebecq-vestlig-provokator-eller-gemen-pornograf--48757719
+   </link>
+   <description>
+    Dick-litt for mænd, der har brug for en undskyldning for at læse pornografi. Sådan lød overskriften på Politikens anmeldelse af “Lanzarote”, Houellebecq’s kortroman fra 2000. Sammen med den danske forlægger, Marie Vinter, forsøger vi at skelne personen fra karikaturen, imens vi diskuterer om hans litteratur er sexistisk og racistisk, og hvad der gemmer sig bag de “pornografiske” sider.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48757719
+   </guid>
+   <pubDate>
+    Mon, 21 Feb 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="50687626" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48757719/michelhouellebecq.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Dick-litt for mænd, der har brug for en undskyldning for at læse pornografi. Sådan lød overskriften på Politikens anmeldelse af “Lanzarote”, Houellebecq’s kortroman fra 2000. Sammen med den danske forlægger, Marie Vinter, forsøger vi at skelne...
+   </itunes:subtitle>
+   <itunes:summary>
+    Dick-litt for mænd, der har brug for en undskyldning for at læse pornografi. Sådan lød overskriften på Politikens anmeldelse af “Lanzarote”, Houellebecq’s kortroman fra 2000. Sammen med den danske forlægger, Marie Vinter, forsøger vi at skelne personen fra karikaturen, imens vi diskuterer om hans litteratur er sexistisk og racistisk, og hvad der gemmer sig bag de “pornografiske” sider.
+   </itunes:summary>
+   <itunes:duration>
+    3168
+   </itunes:duration>
+   <itunes:keywords>
+    michelhouellebecq,politiken,porno,vinterforlag
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Skabt som mand og kvinde
+   </title>
+   <link>
+    https://www.spreaker.com/episode/skabt-som-mand-og-kvinde--48656931
+   </link>
+   <description>
+    Hvad betyder det at crossdresse? Og hvor langt tilbage i tiden går denne leg med symboler, mode og kønsroller? Og kan man med god samvittighed skrive om en franskmand tæt på Solkongens hof tilbage i 1600-tallet, der gang på gang går i seng med unge piger på 15-16 år? Juraprofessor, ridder af Dannebrog og erklæret konservativ crossdresser, Ditlev Tamm, gæster studiet til en snak om sin bog: “Skabt som mand og kvinde.”
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48656931
+   </guid>
+   <pubDate>
+    Mon, 14 Feb 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="51097644" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48656931/ditlev_tamm.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad betyder det at crossdresse? Og hvor langt tilbage i tiden går denne leg med symboler, mode og kønsroller? Og kan man med god samvittighed skrive om en franskmand tæt på Solkongens hof tilbage i 1600-tallet, der gang på gang går i seng med unge...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad betyder det at crossdresse? Og hvor langt tilbage i tiden går denne leg med symboler, mode og kønsroller? Og kan man med god samvittighed skrive om en franskmand tæt på Solkongens hof tilbage i 1600-tallet, der gang på gang går i seng med unge piger på 15-16 år? Juraprofessor, ridder af Dannebrog og erklæret konservativ crossdresser, Ditlev Tamm, gæster studiet til en snak om sin bog: “Skabt som mand og kvinde.”
+   </itunes:summary>
+   <itunes:duration>
+    3194
+   </itunes:duration>
+   <itunes:keywords>
+    crossdresser,crossdressing,ditlevtamm,genderfluid,skabtsommandogkvinde
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Bøssedanmark
+   </title>
+   <link>
+    https://www.spreaker.com/episode/bossedanmark--48584003
+   </link>
+   <description>
+    Novellesamlingen “Bøssedanmark” præsenteres som den bog, de fire forfattere altid selv havde ønsket sig, da de voksede op og ledte efter deres egen identitet. I studiet har vi alle fire på besøg til en snak om, hvad de præcist savnede, om og hvorfor bogen handler så meget om sex, hvordan mainstreamkulturen aldrig hørte, hvad der skete med HIV, og hvordan novellerne lyder, når forfatterne selv læser op. Med Dennis Agerblad, Tomas Lagermand Lundme, Nikolaj Tange Lange og Mads Ananda Lodahl.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48584003
+   </guid>
+   <pubDate>
+    Mon, 07 Feb 2022 05:00:03 +0000
+   </pubDate>
+   <enclosure length="51396902" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48584003/b_ssedanmark.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Novellesamlingen “Bøssedanmark” præsenteres som den bog, de fire forfattere altid selv havde ønsket sig, da de voksede op og ledte efter deres egen identitet. I studiet har vi alle fire på besøg til en snak om, hvad de præcist savnede, om og hvorfor...
+   </itunes:subtitle>
+   <itunes:summary>
+    Novellesamlingen “Bøssedanmark” præsenteres som den bog, de fire forfattere altid selv havde ønsket sig, da de voksede op og ledte efter deres egen identitet. I studiet har vi alle fire på besøg til en snak om, hvad de præcist savnede, om og hvorfor bogen handler så meget om sex, hvordan mainstreamkulturen aldrig hørte, hvad der skete med HIV, og hvordan novellerne lyder, når forfatterne selv læser op. Med Dennis Agerblad, Tomas Lagermand Lundme, Nikolaj Tange Lange og Mads Ananda Lodahl.
+   </itunes:summary>
+   <itunes:duration>
+    3213
+   </itunes:duration>
+   <itunes:keywords>
+    bøsse,bøssedanmark,danmark,hiv,identitet,madsanandalodahl,porno,sex
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Cougaren er løs i byen!
+   </title>
+   <link>
+    https://www.spreaker.com/episode/cougaren-er-los-i-byen--48521490
+   </link>
+   <description>
+    Hvor farlige er midalderlige kvinder tæt på overgangsalderen? Hvad kan ældre kvinder lære unge mænd i sengen? Hvad er cougarens foretrukne jagtmarker og score-strategier? Digteren Pia Busks digtsamling “Cougar” fra 2019, er en opfordring til sine medsøstre til at gå ud og jagte ungt kød, alt imens frugten af den seksuelle erfaring bliver overrakt til den næste generation. Lyt med, når to unge mænd læser højt fra deres rovdyrs farlige elskovsguide.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48521490
+   </guid>
+   <pubDate>
+    Mon, 31 Jan 2022 13:42:30 +0000
+   </pubDate>
+   <enclosure length="51308295" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48521490/cougar.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvor farlige er midalderlige kvinder tæt på overgangsalderen? Hvad kan ældre kvinder lære unge mænd i sengen? Hvad er cougarens foretrukne jagtmarker og score-strategier? Digteren Pia Busks digtsamling “Cougar” fra 2019, er en opfordring til sine...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvor farlige er midalderlige kvinder tæt på overgangsalderen? Hvad kan ældre kvinder lære unge mænd i sengen? Hvad er cougarens foretrukne jagtmarker og score-strategier? Digteren Pia Busks digtsamling “Cougar” fra 2019, er en opfordring til sine medsøstre til at gå ud og jagte ungt kød, alt imens frugten af den seksuelle erfaring bliver overrakt til den næste generation. Lyt med, når to unge mænd læser højt fra deres rovdyrs farlige elskovsguide.
+   </itunes:summary>
+   <itunes:duration>
+    3207
+   </itunes:duration>
+   <itunes:keywords>
+    cougar,gladiator,piabusk,porno,sex,ungtkød
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Suzanne Brøgger's udanske og erotiske memoirer
+   </title>
+   <link>
+    https://www.spreaker.com/episode/suzanne-brogger-s-udanske-og-erotiske-memoirer--48386852
+   </link>
+   <description>
+    Suzanne Brøggers første roman “Creme Fraiche” foragede hele Danmark ved udgivelsen i 1973. Feministerne anklagede hende for ikke at sympatisere med arbejderkvinder, mens borgerskabet kritiserede hendes åbentlyse seksuelle liv, der i sig selv var et angreb på kernefamilien og dens tilhørende monogami. Knap 50 år senere undersøger vi om bogen stadig forarger moderne feminister, om scenerne stadig kan vække anstød, og hvordan værten Jacob ændrede sit kærlighedsliv efter at have læst den.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48386852
+   </guid>
+   <pubDate>
+    Mon, 24 Jan 2022 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51010290" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48386852/creme_fraiche.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Suzanne Brøggers første roman “Creme Fraiche” foragede hele Danmark ved udgivelsen i 1973. Feministerne anklagede hende for ikke at sympatisere med arbejderkvinder, mens borgerskabet kritiserede hendes åbentlyse seksuelle liv, der i sig selv var et...
+   </itunes:subtitle>
+   <itunes:summary>
+    Suzanne Brøggers første roman “Creme Fraiche” foragede hele Danmark ved udgivelsen i 1973. Feministerne anklagede hende for ikke at sympatisere med arbejderkvinder, mens borgerskabet kritiserede hendes åbentlyse seksuelle liv, der i sig selv var et angreb på kernefamilien og dens tilhørende monogami. Knap 50 år senere undersøger vi om bogen stadig forarger moderne feminister, om scenerne stadig kan vække anstød, og hvordan værten Jacob ændrede sit kærlighedsliv efter at have læst den.
+   </itunes:summary>
+   <itunes:duration>
+    3189
+   </itunes:duration>
+   <itunes:keywords>
+    brøgger,danmark,erotisk,interseksionelfeminisme,memoirer,suzanne
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    En ny æra for erotiske tegneserier?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/en-ny-aera-for-erotiske-tegneserier--48277634
+   </link>
+   <description>
+    Tegnet erotik er mere udbredt end nogensinde før. I 2021 var “hentai” den allermest søgte kategori på pornhub.com. Men hvor gammel er forholdet mellem pornografi og tegneserier? Hvorfor ser vi en ny bølge af erotiske tegneserier på internettet netop nu, og hvorfor laves det særligt af og til queer-miljøet? Lyt med, når vi sammen den anmelderoste tegneserieforfatter, Karoline Stjernfelt, bladrer igennem tegneserien “Sasha from the Gym.”&lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer i bøger, som vi har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48277634
+   </guid>
+   <pubDate>
+    Mon, 17 Jan 2022 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51257722" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48277634/sasha_from_the_gym.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Tegnet erotik er mere udbredt end nogensinde før. I 2021 var “hentai” den allermest søgte kategori på pornhub.com. Men hvor gammel er forholdet mellem pornografi og tegneserier? Hvorfor ser vi en ny bølge af erotiske tegneserier på internettet netop...
+   </itunes:subtitle>
+   <itunes:summary>
+    Tegnet erotik er mere udbredt end nogensinde før. I 2021 var “hentai” den allermest søgte kategori på pornhub.com. Men hvor gammel er forholdet mellem pornografi og tegneserier? Hvorfor ser vi en ny bølge af erotiske tegneserier på internettet netop nu, og hvorfor laves det særligt af og til queer-miljøet? Lyt med, når vi sammen den anmelderoste tegneserieforfatter, Karoline Stjernfelt, bladrer igennem tegneserien “Sasha from the Gym.”&lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer i bøger, som vi har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </itunes:summary>
+   <itunes:duration>
+    3204
+   </itunes:duration>
+   <itunes:keywords>
+    cartoon,erotik,karolinestjernfelt,pornhub,porno,sashafromthegym,tegneserier
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Fifty Shades og Husmorporno... med mor.
+   </title>
+   <link>
+    https://www.spreaker.com/episode/fifty-shades-og-husmorporno-med-mor--48110189
+   </link>
+   <description>
+    Hvad gør man, når man i sine forældres bibliotek finder erotiske bøger? I juleferien stødte jeg på bestselleren Fifty Shades fra 2011, som startede en mindre revolution indenfor erotisk litteratur. Frem for at lade den liggende, spørger jeg i dette afsnit min mor, Pia, hvordan hun forbruger porno, hvad hun tænker om begrebet husmor-porno, og hvad bogen har betydet for hendes forhold med min, ja, far.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Hvad gør man, når man i sine forældres bibliotek finder erotiske bøger? I juleferien stødte jeg på bestselleren Fifty Shades fra 2011, som startede en mindre revolution indenfor erotisk litteratur. Frem for at lade den liggende, spørger jeg i dette afsnit min mor, Pia, hvordan hun forbruger porno, hvad hun tænker om begrebet husmor-porno, og hvad bogen har betydet for hendes forhold med min, ja, far.&lt;br /&gt;&lt;br /&gt;I “Min Litterære Pornosamling” vil værten Jacob Nielsen have dig til at tage dine bøger med ind under dynen. I selskab med sine gæster, undersøger programmet hvad pornografiske romaner fortæller os om vores fantasier, kollektive tabuer, hemmelige subkulturer, politiske overbevisninger og skiftende smag i erotisk kunst.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48110189
+   </guid>
+   <pubDate>
+    Mon, 03 Jan 2022 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51010290" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48110189/fifty_shadesf_rdig.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad gør man, når man i sine forældres bibliotek finder erotiske bøger? I juleferien stødte jeg på bestselleren Fifty Shades fra 2011, som startede en mindre revolution indenfor erotisk litteratur. Frem for at lade den liggende, spørger jeg i dette...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad gør man, når man i sine forældres bibliotek finder erotiske bøger? I juleferien stødte jeg på bestselleren Fifty Shades fra 2011, som startede en mindre revolution indenfor erotisk litteratur. Frem for at lade den liggende, spørger jeg i dette afsnit min mor, Pia, hvordan hun forbruger porno, hvad hun tænker om begrebet husmor-porno, og hvad bogen har betydet for hendes forhold med min, ja, far.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Hvad gør man, når man i sine forældres bibliotek finder erotiske bøger? I juleferien stødte jeg på bestselleren Fifty Shades fra 2011, som startede en mindre revolution indenfor erotisk litteratur. Frem for at lade den liggende, spørger jeg i dette afsnit min mor, Pia, hvordan hun forbruger porno, hvad hun tænker om begrebet husmor-porno, og hvad bogen har betydet for hendes forhold med min, ja, far.&lt;br /&gt;&lt;br /&gt;I “Min Litterære Pornosamling” vil værten Jacob Nielsen have dig til at tage dine bøger med ind under dynen. I selskab med sine gæster, undersøger programmet hvad pornografiske romaner fortæller os om vores fantasier, kollektive tabuer, hemmelige subkulturer, politiske overbevisninger og skiftende smag i erotisk kunst.
+   </itunes:summary>
+   <itunes:duration>
+    3189
+   </itunes:duration>
+   <itunes:keywords>
+    e.l.james,fiftyshades,husmorporno
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Sex udenfor kategorierne
+   </title>
+   <link>
+    https://www.spreaker.com/episode/sex-udenfor-kategorierne--48036058
+   </link>
+   <description>
+    Forfatter Mads Ananda Lodahl fortæller om sin nyeste roman “Sauna”. Den første danske bog, der ikke kun giver et indblik i bøssesauna-kulturen, men også inviterer læseren ind i kærlighedsforholdet mellem hovedpersonen Johan og den transkønnede William. Lyt med, når Mads læser op og forklarer, hvordan det var at skrive om transkønnede uden at fetischere dem, hvordan det føles at have sex med naturen, og hvad den heteroseksuelle verdensorden kan lære af queer-erfaringer. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer i bøger, som vi har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48036058
+   </guid>
+   <pubDate>
+    Mon, 27 Dec 2021 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51312893" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48036058/sauna1.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Forfatter Mads Ananda Lodahl fortæller om sin nyeste roman “Sauna”. Den første danske bog, der ikke kun giver et indblik i bøssesauna-kulturen, men også inviterer læseren ind i kærlighedsforholdet mellem hovedpersonen Johan og den transkønnede...
+   </itunes:subtitle>
+   <itunes:summary>
+    Forfatter Mads Ananda Lodahl fortæller om sin nyeste roman “Sauna”. Den første danske bog, der ikke kun giver et indblik i bøssesauna-kulturen, men også inviterer læseren ind i kærlighedsforholdet mellem hovedpersonen Johan og den transkønnede William. Lyt med, når Mads læser op og forklarer, hvordan det var at skrive om transkønnede uden at fetischere dem, hvordan det føles at have sex med naturen, og hvad den heteroseksuelle verdensorden kan lære af queer-erfaringer. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer i bøger, som vi har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </itunes:summary>
+   <itunes:duration>
+    3208
+   </itunes:duration>
+   <itunes:keywords>
+    bøssesauna,madsanandalodahl,porno,queer,sauna,sex,sexmednaturen,transkønnet
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Internetporno og perverse anmeldere: Interview med Jacob Skyggebjerg
+   </title>
+   <link>
+    https://www.spreaker.com/episode/internetporno-og-perverse-anmeldere-interview-med-jacob-skyggebjerg--47949756
+   </link>
+   <description>
+    En skandaleroman. Paranoid. Røv-og-nøgleroman. Provokation for provokationens skyld. Jakob Skyggebjergs nyeste roman “Inderkredsen”, har modtaget den ene 2-stjernede anmeldelse efter den anden, siden den udkom d. 2 december. Vi spørger ham, hvordan det føles. Om det ikke kan undgås, når bogen selv er at angreb på netop anmelderne. Og så diskuterer vi den pornoafhængighed, der får hovedpersonen Patricks liv til at vælte i søgen efter det næste pornoficerede fiks. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer i bøger, som vi har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47949756
+   </guid>
+   <pubDate>
+    Mon, 20 Dec 2021 05:00:02 +0000
+   </pubDate>
+   <enclosure length="50845614" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47949756/inderkredsen.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    En skandaleroman. Paranoid. Røv-og-nøgleroman. Provokation for provokationens skyld. Jakob Skyggebjergs nyeste roman “Inderkredsen”, har modtaget den ene 2-stjernede anmeldelse efter den anden, siden den udkom d. 2 december. Vi spørger ham, hvordan...
+   </itunes:subtitle>
+   <itunes:summary>
+    En skandaleroman. Paranoid. Røv-og-nøgleroman. Provokation for provokationens skyld. Jakob Skyggebjergs nyeste roman “Inderkredsen”, har modtaget den ene 2-stjernede anmeldelse efter den anden, siden den udkom d. 2 december. Vi spørger ham, hvordan det føles. Om det ikke kan undgås, når bogen selv er at angreb på netop anmelderne. Og så diskuterer vi den pornoafhængighed, der får hovedpersonen Patricks liv til at vælte i søgen efter det næste pornoficerede fiks. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer i bøger, som vi har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </itunes:summary>
+   <itunes:duration>
+    3178
+   </itunes:duration>
+   <itunes:keywords>
+    anmeldere,inderkredsen,internetporno,jacobskyggebjerg,porno
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Adam i Paradis: Om homoseksualitet, dengang det var forbudt
+   </title>
+   <link>
+    https://www.spreaker.com/episode/adam-i-paradis-om-homoseksualitet-dengang-det-var-forbudt--47864019
+   </link>
+   <description>
+    Sammen med forfatter Rakel Haslund-Gjerrild taler vi om dengang, det var forbudt at være homoseksuel i Danmark. Dengang lægen ville behandle dig for det, og politiet vide, hvem du senest har onaneret med. Hendes roman, “Adam i Paradis”, sætter fokus på den anerkendte maler Kristian Zahrtmann, der måske ikke opfattede sig selv som homoseksuel, men hvis kunst provokerede samtiden. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47864019
+   </guid>
+   <pubDate>
+    Mon, 13 Dec 2021 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51365973" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47864019/adam_i_paradis.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Sammen med forfatter Rakel Haslund-Gjerrild taler vi om dengang, det var forbudt at være homoseksuel i Danmark. Dengang lægen ville behandle dig for det, og politiet vide, hvem du senest har onaneret med. Hendes roman, “Adam i Paradis”, sætter fokus...
+   </itunes:subtitle>
+   <itunes:summary>
+    Sammen med forfatter Rakel Haslund-Gjerrild taler vi om dengang, det var forbudt at være homoseksuel i Danmark. Dengang lægen ville behandle dig for det, og politiet vide, hvem du senest har onaneret med. Hendes roman, “Adam i Paradis”, sætter fokus på den anerkendte maler Kristian Zahrtmann, der måske ikke opfattede sig selv som homoseksuel, men hvis kunst provokerede samtiden. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </itunes:summary>
+   <itunes:duration>
+    3211
+   </itunes:duration>
+   <itunes:keywords>
+    erotik,guldalder,kunst,porno,rakelhaslundgjerrild,sex,zahrtmann
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Amatørernes legeplads: Erotisk fanfiction
+   </title>
+   <link>
+    https://www.spreaker.com/episode/amatorernes-legeplads-erotisk-fanfiction--47753360
+   </link>
+   <description>
+    På internettet findes et verdensomspændende netværk, der skriver erotisk fanfiction over kendte mennesker og karakterer som Harry Styles og Harry Potter. Mens Harry i nogle af historierne dominerer eller ydmyger sig, putter han sig i andre  i sofaen sammen med dig, læseren, der altid placeres i centrum. Dagens gæst kalder genren et trygt sted at udforske sin seksualitet, og forklarer, hvorfor hun selv forelskede sig i fanfiction-universet.a&lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47753360
+   </guid>
+   <pubDate>
+    Mon, 06 Dec 2021 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51380184" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47753360/fan_fiction.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    På internettet findes et verdensomspændende netværk, der skriver erotisk fanfiction over kendte mennesker og karakterer som Harry Styles og Harry Potter. Mens Harry i nogle af historierne dominerer eller ydmyger sig, putter han sig i andre  i sofaen...
+   </itunes:subtitle>
+   <itunes:summary>
+    På internettet findes et verdensomspændende netværk, der skriver erotisk fanfiction over kendte mennesker og karakterer som Harry Styles og Harry Potter. Mens Harry i nogle af historierne dominerer eller ydmyger sig, putter han sig i andre  i sofaen sammen med dig, læseren, der altid placeres i centrum. Dagens gæst kalder genren et trygt sted at udforske sin seksualitet, og forklarer, hvorfor hun selv forelskede sig i fanfiction-universet.a&lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er en programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </itunes:summary>
+   <itunes:duration>
+    3212
+   </itunes:duration>
+   <itunes:keywords>
+    eroticfanfiction,fanfiction,harrystyles,onedirection,pornografisk
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Islamisk opskrift på den gode elsker
+   </title>
+   <link>
+    https://www.spreaker.com/episode/islamisk-opskrift-pa-den-gode-elsker--47654647
+   </link>
+   <description>
+    “Den Duftende Have” er en sexmanual fra 1400-tallet, der uden omsvøb giver sin mening i den ældgamle diskussion om størrelsen eller gørelsen. Sammen med professor Jakob Skovgaard-Petersen, diskuterer vi bogens råd til, hvad der kendetegner den bedste elsker, hvordan man bedst aborterer, hvorfor du skal være opmærksom på din kones gloryholes, og hvordan alt dette passer i en islamiske verden, der måske ikke ligefrem er kendt for en afslappet tilgang til sex. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47654647
+   </guid>
+   <pubDate>
+    Mon, 29 Nov 2021 05:00:02 +0000
+   </pubDate>
+   <enclosure length="51151560" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47654647/den_duftende_have.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    “Den Duftende Have” er en sexmanual fra 1400-tallet, der uden omsvøb giver sin mening i den ældgamle diskussion om størrelsen eller gørelsen. Sammen med professor Jakob Skovgaard-Petersen, diskuterer vi bogens råd til, hvad der kendetegner den bedste...
+   </itunes:subtitle>
+   <itunes:summary>
+    “Den Duftende Have” er en sexmanual fra 1400-tallet, der uden omsvøb giver sin mening i den ældgamle diskussion om størrelsen eller gørelsen. Sammen med professor Jakob Skovgaard-Petersen, diskuterer vi bogens råd til, hvad der kendetegner den bedste elsker, hvordan man bedst aborterer, hvorfor du skal være opmærksom på din kones gloryholes, og hvordan alt dette passer i en islamiske verden, der måske ikke ligefrem er kendt for en afslappet tilgang til sex. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </itunes:summary>
+   <itunes:duration>
+    3197
+   </itunes:duration>
+   <itunes:keywords>
+    elsker,guide,islam,manual,orient,orienten,porno,sex
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Dekameron: Et forsvar for utroskab?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/dekameron-et-forsvar-for-utroskab--47536923
+   </link>
+   <description>
+    Var kvinder mere liderlige i fortiden? Kan utroskab forsvares? Hvad tænkte man om nonne-sex tilbage i 1300-tallet? Vi har besøg af Anders Toftgaard, som guider os igennem den kvindeglade Giovanni Boccaccios “Dekameron”, hvor kvinder og mænd kvinder snyder hinanden, hvor liderlighed fremstilles som en uovervindelig kraft, og mistet uskyld som noget man kan lyve sig fra. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47536923
+   </guid>
+   <pubDate>
+    Mon, 22 Nov 2021 05:00:03 +0000
+   </pubDate>
+   <enclosure length="50750319" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47536923/dekameron.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Var kvinder mere liderlige i fortiden? Kan utroskab forsvares? Hvad tænkte man om nonne-sex tilbage i 1300-tallet? Vi har besøg af Anders Toftgaard, som guider os igennem den kvindeglade Giovanni Boccaccios “Dekameron”, hvor kvinder og mænd kvinder...
+   </itunes:subtitle>
+   <itunes:summary>
+    Var kvinder mere liderlige i fortiden? Kan utroskab forsvares? Hvad tænkte man om nonne-sex tilbage i 1300-tallet? Vi har besøg af Anders Toftgaard, som guider os igennem den kvindeglade Giovanni Boccaccios “Dekameron”, hvor kvinder og mænd kvinder snyder hinanden, hvor liderlighed fremstilles som en uovervindelig kraft, og mistet uskyld som noget man kan lyve sig fra. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </itunes:summary>
+   <itunes:duration>
+    3172
+   </itunes:duration>
+   <itunes:keywords>
+    italien,munke,nonner,porno,renæssancen,sex,sexualitet,utroskab
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kan børn have masochistiske fantasier?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kan-born-have-masochistiske-fantasier--47439163
+   </link>
+   <description>
+    Masochisme og børneseksualitet. To ord, der ikke burde placeres ved siden af hinanden. For kan vi overhovedet tale om børns seksualitet? Specielt, hvis den er selvdestruktiv? Den tyske forfatterinde Unica Zürns springer direkte over den slags spørgsmål i romanen “Mørkt Forår” fra 1969, som udforsker, hvordan og hvornår seksualitet opstår i et menneske. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47439163
+   </guid>
+   <pubDate>
+    Mon, 15 Nov 2021 05:00:10 +0000
+   </pubDate>
+   <enclosure length="51315400" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47439163/m_rkt_for_r.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Masochisme og børneseksualitet. To ord, der ikke burde placeres ved siden af hinanden. For kan vi overhovedet tale om børns seksualitet? Specielt, hvis den er selvdestruktiv? Den tyske forfatterinde Unica Zürns springer direkte over den slags...
+   </itunes:subtitle>
+   <itunes:summary>
+    Masochisme og børneseksualitet. To ord, der ikke burde placeres ved siden af hinanden. For kan vi overhovedet tale om børns seksualitet? Specielt, hvis den er selvdestruktiv? Den tyske forfatterinde Unica Zürns springer direkte over den slags spørgsmål i romanen “Mørkt Forår” fra 1969, som udforsker, hvordan og hvornår seksualitet opstår i et menneske. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </itunes:summary>
+   <itunes:duration>
+    3208
+   </itunes:duration>
+   <itunes:keywords>
+    grænser,litteratur,psykoanalyse,sexualitet,surealisme
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Hvorfor gør fri kærlighed så ondt?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/hvorfor-gor-fri-kaerlighed-sa-ondt--47318283
+   </link>
+   <description>
+    Interview med forfatter Cecilie Bødker om Sortsyge, som ved udgivelsen blev karakteriseret som bogen om polyamorøse livsstil. Mellem hendes oplæsninger diskuterer vi jalousiens magt på godt og ondt, nødvendigheden af at skrive eksplicit om sex, mainstreampornoens indflydelse og det svære ved at leve op til idealer. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen med sine gæster diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47318283
+   </guid>
+   <pubDate>
+    Mon, 08 Nov 2021 05:00:11 +0000
+   </pubDate>
+   <enclosure length="51272768" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47318283/sortsyge.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Interview med forfatter Cecilie Bødker om Sortsyge, som ved udgivelsen blev karakteriseret som bogen om polyamorøse livsstil. Mellem hendes oplæsninger diskuterer vi jalousiens magt på godt og ondt, nødvendigheden af at skrive eksplicit om sex,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Interview med forfatter Cecilie Bødker om Sortsyge, som ved udgivelsen blev karakteriseret som bogen om polyamorøse livsstil. Mellem hendes oplæsninger diskuterer vi jalousiens magt på godt og ondt, nødvendigheden af at skrive eksplicit om sex, mainstreampornoens indflydelse og det svære ved at leve op til idealer. &lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen med sine gæster diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer udfra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </itunes:summary>
+   <itunes:duration>
+    3205
+   </itunes:duration>
+   <itunes:keywords>
+    bødker,forfatter,jalousi,porno,sortsyge
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Præsternes censurerede sexseminar
+   </title>
+   <link>
+    https://www.spreaker.com/episode/praesternes-censurerede-sexseminar--47162208
+   </link>
+   <description>
+    Hardcore porno og oplysningsfilosofi. Sammen med forsker i satire og censur, Dennis Brink Meyhoff, diskuterer vi den pornografiske bestseller Filosoffen Therese fra 1748. Her spørger vi om filosofien eller pornoen provokerede datidens franskmænd mest, hvordan argumenter for fri sex lød i oplysningstiden, og om pornoen fornyer sig over tid. &lt;br /&gt;&lt;br /&gt;Min Litterære Pornosamling er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer ud fra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47162208
+   </guid>
+   <pubDate>
+    Mon, 01 Nov 2021 05:00:13 +0000
+   </pubDate>
+   <enclosure length="51349673" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47162208/filosoffen_th_res.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hardcore porno og oplysningsfilosofi. Sammen med forsker i satire og censur, Dennis Brink Meyhoff, diskuterer vi den pornografiske bestseller Filosoffen Therese fra 1748. Her spørger vi om filosofien eller pornoen provokerede datidens franskmænd mest,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hardcore porno og oplysningsfilosofi. Sammen med forsker i satire og censur, Dennis Brink Meyhoff, diskuterer vi den pornografiske bestseller Filosoffen Therese fra 1748. Her spørger vi om filosofien eller pornoen provokerede datidens franskmænd mest, hvordan argumenter for fri sex lød i oplysningstiden, og om pornoen fornyer sig over tid. &lt;br /&gt;&lt;br /&gt;Min Litterære Pornosamling er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer ud fra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </itunes:summary>
+   <itunes:duration>
+    3210
+   </itunes:duration>
+   <itunes:keywords>
+    censur,filosofi,kirkekritik,literatur,oplysningstiden,porno,præst
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Porno fra helvede
+   </title>
+   <link>
+    https://www.spreaker.com/episode/porno-fra-helvede--47079136
+   </link>
+   <description>
+    Roberto Bolaño senmoderne klassiker 2666 er et grovskåret gloryhole med udsigt til Vestens værste hemmeligheder. Sammen med Nanna Schmidt Nordestgaard vover vi os ind i en verden, hvor voldtægt og storpolitik hænger uløseligt sammen, hvor machokultur har ødelagt enhver intimitet, og hvor pornografien ikke kender nogen grænser.&lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer ud fra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47079136
+   </guid>
+   <pubDate>
+    Mon, 25 Oct 2021 04:00:09 +0000
+   </pubDate>
+   <enclosure length="50995662" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47079136/episode_2666.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Roberto Bolaño senmoderne klassiker 2666 er et grovskåret gloryhole med udsigt til Vestens værste hemmeligheder. Sammen med Nanna Schmidt Nordestgaard vover vi os ind i en verden, hvor voldtægt og storpolitik hænger uløseligt sammen, hvor machokultur...
+   </itunes:subtitle>
+   <itunes:summary>
+    Roberto Bolaño senmoderne klassiker 2666 er et grovskåret gloryhole med udsigt til Vestens værste hemmeligheder. Sammen med Nanna Schmidt Nordestgaard vover vi os ind i en verden, hvor voldtægt og storpolitik hænger uløseligt sammen, hvor machokultur har ødelagt enhver intimitet, og hvor pornografien ikke kender nogen grænser.&lt;br /&gt;&lt;br /&gt;“Min Litterære Pornosamling” er programrække, hvor værten Jacob Nielsen diskuterer seksualitet, tabuer, køn, censur, magtkritik, porno og menneskelige relationer ud fra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </itunes:summary>
+   <itunes:duration>
+    3188
+   </itunes:duration>
+   <itunes:keywords>
+    2666,bolano,litteratur,mexico,pornografi
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    En utro kvindes offentliggjorte fantasier
+   </title>
+   <link>
+    https://www.spreaker.com/episode/en-utro-kvindes-offentliggjorte-fantasier--46976553
+   </link>
+   <description>
+    Madame Bovary er en klassiker om utroskab, ægteskabelig kedsomhed, og om sammenhængen mellem popkultur og sexfantasier. Med Peter Christian Rude taler vi om, hvordan romanen klarede anklagen mod pornografi, og om den franske klassiker overhovedet kan tænde og forarge en læser i 2021?&lt;br /&gt;&lt;br /&gt;Min Litterære Pornosamling er programrække, hvor Jacob Nielsen diskuterer seksualitet, tabuer, erotik, køn, censur, magtkritik, porno og menneskelige relationer ud fra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46976553
+   </guid>
+   <pubDate>
+    Mon, 18 Oct 2021 04:00:13 +0000
+   </pubDate>
+   <enclosure length="51180817" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46976553/mlp_1_madame_bovary.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Madame Bovary er en klassiker om utroskab, ægteskabelig kedsomhed, og om sammenhængen mellem popkultur og sexfantasier. Med Peter Christian Rude taler vi om, hvordan romanen klarede anklagen mod pornografi, og om den franske klassiker overhovedet kan...
+   </itunes:subtitle>
+   <itunes:summary>
+    Madame Bovary er en klassiker om utroskab, ægteskabelig kedsomhed, og om sammenhængen mellem popkultur og sexfantasier. Med Peter Christian Rude taler vi om, hvordan romanen klarede anklagen mod pornografi, og om den franske klassiker overhovedet kan tænde og forarge en læser i 2021?&lt;br /&gt;&lt;br /&gt;Min Litterære Pornosamling er programrække, hvor Jacob Nielsen diskuterer seksualitet, tabuer, erotik, køn, censur, magtkritik, porno og menneskelige relationer ud fra litterære mesterværker, som vi op gennem historien har stemplet som amoralske, grænseoverskridende eller direkte pornografiske.
+   </itunes:summary>
+   <itunes:duration>
+    3199
+   </itunes:duration>
+   <itunes:keywords>
+    censur,flaubert,fransk,litteratur,porno,retsag,sexualitet,utroskab
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4124a683945e1f3af2f15bd81b827fb2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

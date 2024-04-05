@@ -1,289 +1,1179 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>RealityRadio</title>
-		<link>https://web.24syv.dk/channels/5129</link>
-		<description>I RealityRadio får du seneste nyt og seriøse samtaler fra en verden fyldt med fest og farver, intriger og drama, kærlighed og  sex. Hver uge inviterer vært Cecilie Dumanski realitydeltagere til ærlige og filterløse samtaler i et program, der tager realityverden og dets indbyggere alvorligt.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/975/Reality_Radio_14.png"/>
-		<item>
-			<title>RealityRadio - Best off</title>
-			<link>https://api.spreaker.com/download/episode/56961651/best_off_podcast.mp3</link>
-			<description>En æra er ved at være forbi. RealityRadio lukker og slukker. Men inden bindes der en fin sløjfe på programmet ved at slentre ned af memory lane og hive nogle af de bedste og største øjeblikke i RealityRadios historie frem samt et udvalg af de spændende gæster, der har gæstet programmet.Vært og tilrettelægger:Cecilie Dumanski</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56961651/best_off_podcast.mp3</guid>
-			<pubDate>Wed, 27 Sep 2023 16:06:13 +0000</pubDate>
-			<itunes:duration>00:53:50</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56961651/best_off_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Historien bag 'Robinson Ekspeditionen'</title>
-			<link>https://api.spreaker.com/download/episode/56708975/robinson_25_r_podcast.mp3</link>
-			<description>Danmarks allerførst realityshow ‘Robinson Ekspeditionen’ rullede for første gang over skærmen i 1998. Og i nu 25 sæsoner - fordelt på 25 år - har seerne kunne følge de modige og hårdtkæmpende deltagere, der er blevet udsat for lidt af hvert. I dagens særudgave af RealityRadio på 24syv skriver vært Jakob Kjeldberg og Jacob Juhl historien bag Robinson Ekspeditionen og fremhæver nogle af de vildeste scener foran og bagved kameraet. Gæster:Jakob Kjeldberg, vært på Robinson Ekspeditionen igennem 18 sæsonerJacob Juhl, producent af Robinson fra 2008-2012Vært og tilrettelægger:Cecilie Dumanski Reporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56708975/robinson_25_r_podcast.mp3</guid>
-			<pubDate>Wed, 06 Sep 2023 08:10:14 +0000</pubDate>
-			<itunes:duration>00:55:06</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56708975/robinson_25_r_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Content manager om 'Stories for millioner': &quot;DR lyver over for danskerne&quot;</title>
-			<link>https://api.spreaker.com/download/episode/56637785/gdonation_og_stories_for_millioner_podcast.mp3</link>
-			<description>(01:36) Den tidligere paradise-vinder Methea Baltzer hjælper som ægdonor par med at blive forældre. Men ægdonation kan være både fysisk og psykisk hårdt, så er det virkelig det værd? Og hvad er det egentlig, du som kvinder gennemgår, når du vælger at donere dine æg?(32:29) “Influencerbranchen boomer, millionerne strømmer ind, og alle ønsker sig en bid af kagen.” Sådan lyder beskrivelsen af DR-dokumentarserien ‘Stories for millioner’, men er det nu også et retvisende billede af virkeligheden. Ikke hvis du spørger Mia Linett Storm Andersen, der er content og project manager og til dagligt beskiftiger sig med netop influencerbranchen.Gæster:Methea Baltzer, medvirkende og vinder af Paradise sæson 2Mia Linett Storm Andersen, content og project manager ved Dentsu XVært og tilrettelægger: Cecilie Dumanski</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56637785/gdonation_og_stories_for_millioner_podcast.mp3</guid>
-			<pubDate>Wed, 30 Aug 2023 16:24:45 +0000</pubDate>
-			<itunes:duration>00:52:43</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56637785/gdonation_og_stories_for_millioner_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kan ændringer i 'Gift ved første blik' øge succesraten?</title>
-			<link>https://api.spreaker.com/download/episode/56567346/gift_ved_f_rste_blik_podcast.mp3</link>
-			<description>34 par er gennem otte sæsoner blevet matchet i DR's datingprogram 'Gift ved første blik'. Fire par er fortsat sammen i dag. Ikke den mest prængende succesrate, men måske kan et par justeringer i den kommende sæson 9, der har premiere den 24. august, forbedre betingelserne for kærligheden. Det er i hvertfald DR's forhåbning. I dagens afsnit vender Cecilie bl.a. ændringerne med Mette Blume, der i den seneste sæson blev gift og skilt med Steen Theill. Gæst: Mette Blume, medvirkende i 'Gift ved første blik' sæson 8Vært og tilrettelægger: Cecilie Dumanski</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56567346/gift_ved_f_rste_blik_podcast.mp3</guid>
-			<pubDate>Wed, 23 Aug 2023 16:23:28 +0000</pubDate>
-			<itunes:duration>00:53:42</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56567346/gift_ved_f_rste_blik_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Medvirkende i 'De dyre piger' anklager DR og BLU for manipulation</title>
-			<link>https://api.spreaker.com/download/episode/56412286/dyre_piger_kritik_dr_podcast.mp3</link>
-			<description>Det var ikke den oplevelse, Sabrina Sau og Ida McKenna havde forventet, da de sagde ja til at medvirke i tredje sæson af DR-programmet ‘De dyre piger’. Produktionen bag DR-programmet 'De dyre piger' har ifølge kvinderne både fordrejet virkeligheden, presset de medvirkende til at udlevere private detaljer og lovet dem et andet koncept end det, de medvirker i. (47:40) DR svarer på kritikkenGæster:Sabrina Sau, medvirkende i 'De dyre piger' sæson 3Ida McKenna, medvirkende i 'De dyre piger' sæson 3Linda Edgar, områdechef for DR Ung TVVært og tilrettelægger: Cecilie Dumanski</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56412286/dyre_piger_kritik_dr_podcast.mp3</guid>
-			<pubDate>Wed, 09 Aug 2023 14:17:16 +0000</pubDate>
-			<itunes:duration>01:10:30</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56412286/dyre_piger_kritik_dr_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Har landmænd sværere ved at finde kærligheden?</title>
-			<link>https://api.spreaker.com/download/episode/56228924/realityradio_lsk_podcast.mp3</link>
-			<description>For tiende gang er en række landmænd klar til at lede efter kærligheden i TV2’s datingprogram ‘Landmand søger kærlighed’. Men hvorfor er det så svært for landmænd at date og finde kærligheden, siden de skal have et specifikt datingprogram? Og hvordan har det været for landmændene, der i forvejen har svært ved date, pludselig at skulle gøre det for rullende kamera og Hr. og Fru Danmark? Gæster:Linea Pedersen, medvirkende i 'Landmand søger kærlighed' sæson 10 Niels Erik Wegger, medvirkende i 'Landmand søger kærlighed' sæson 10Katja Gullaksen, medvirkende i 'Landmand søger kærlighed' sæson 9Vært og tilrettelægger: Cecilie Dumanski</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/56228924/realityradio_lsk_podcast.mp3</guid>
-			<pubDate>Wed, 26 Jul 2023 16:54:14 +0000</pubDate>
-			<itunes:duration>01:02:24</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/56228924/realityradio_lsk_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Historien bag 'Keeping Up With The Kardashians'</title>
-			<link>https://api.spreaker.com/download/episode/55279088/historien_bag_kardashian_podcast.mp3</link>
-			<description>Den amerikanske kendisfamilie The Kardashian, som du i tykt og tyndt kan følge i tv-showet ‘Keeping Up with the Kardashians’ og senere ‘The Kardashians’, er en verdensomspændende succes - og de seks innovative kvinder er nogle af verdens største trendsetters. Men hvorfor er familien og tv-showet så populært? I denne særudgave af RealityRadio skriver vi historien bag ‘Keeping Up with the Kardashians’ med alle dets op og nedture, romancer og skandaler.Gæst: Katrine Memborg, journalist og forfatter bl.a. til 'K for Kardashian'Vært og tilrettelægger:Cecilie Dumanski Reporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/55279088/historien_bag_kardashian_podcast.mp3</guid>
-			<pubDate>Wed, 28 Jun 2023 15:09:09 +0000</pubDate>
-			<itunes:duration>00:53:23</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/55279088/historien_bag_kardashian_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Er matching-eksperter i 'Vild kærlighed' falsk markedsføring?</title>
-			<link>https://api.spreaker.com/download/episode/54585454/vild_k_rlighed_podcast.mp3</link>
-			<description>Hvad er DR's intentioner med datingprogrammet 'Vild Kærlighed'? Er det at give de medvirkende de bedste vilkår og forudsætninger for at finde kærligheden, eller er det for at skabe drama og debat? Hvis intentionen er det første, hvorfor blev det oplagte par Rune og Ida Emilie ikke sat sammen fra begyndelsen? Det sår i hvertfald tvivl om de såkaldte matching-eksperters ekspertise - hvis de overhovedet findes i programmet. Det afslører Ida Emilie og Rune i dagens afsnit. Gæster:Ida Emilie, medvirkende i 'Vild Kærlighed' sæson 2Rune, medvirkende i 'Vild Kærlighed' sæson 2Vært og tilrettelægger:Cecilie Dumanski Reporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54585454/vild_k_rlighed_podcast.mp3</guid>
-			<pubDate>Wed, 21 Jun 2023 16:13:46 +0000</pubDate>
-			<itunes:duration>00:53:15</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/54585454/vild_k_rlighed_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>'Fboy Island'-kvinderne var underlagt et massivt pres</title>
-			<link>https://api.spreaker.com/download/episode/54389797/fboy_podcast.mp3</link>
-			<description>Det var ikke en dans på røde roser, da de tre kvinder Sina, Therese og Lady skulle forsøge at finde kærligheden blandt en række selverklærede nice guys og fuckbuys i realityprogrammet 'Fboy Island'. De var nemlig underlagt et et kæmpe mentalt pres, som resulterede i, at de havde det svært og mistede sig selv, da de kom hjem. I dagens afsnit åbner de tre kvinder op for deres medvirken i programmet.Gæster:Sina Stirnimann, deltager i 'Fboy Island' sæson 1Therese Paxvig, deltager i 'Fboy Island' sæson 1Lady Matwara, deltager i 'Fboy Island' sæson 1Vært og tilrettelægger:Cecilie Dumanski Reporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54389797/fboy_podcast.mp3</guid>
-			<pubDate>Wed, 14 Jun 2023 15:56:12 +0000</pubDate>
-			<itunes:duration>00:53:56</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/54389797/fboy_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Foregår der 'Jewish Matchmaking' i Danmark?</title>
-			<link>https://api.spreaker.com/download/episode/54051811/j_disk_matchmaking_podcast.mp3</link>
-			<description>(04:30) På Netflix kan du lige nu i det amerikanske dating- og realityprogram ‘Jewish Matchmaking’ følge matchmakeren Aleeza Ben Shalom, der sammensætter jødiske par på baggrund af deres religiøse og kulturelle traditioner og idéer. Men er jødisk matchmaking noget, der foregår i dag i Danmark? Og hvordan adskillder den jødiske datingkultur sig fra den ikke-jødiske? Og ville der være grobund for en dansk pendant til 'Jewish Matchmaking'? Få svarene i dagens afsnit af RealityRadio. Gæster: Heidi Laura, ph.d. og forfatter i jødisk historie og kultur og medlem af det jødiske trossamfundJacob Friis-Haché, studerende og kulturjødeVært og tilrettelægger:Cecilie Dumanski</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/54051811/j_disk_matchmaking_podcast.mp3</guid>
-			<pubDate>Wed, 31 May 2023 16:07:08 +0000</pubDate>
-			<itunes:duration>00:53:53</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/54051811/j_disk_matchmaking_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kun 3 ud af 16 fyre meldte sig selv til 'Bachelorette'</title>
-			<link>https://api.spreaker.com/download/episode/53985525/reality_podcast.mp3</link>
-			<description>(01:22) Hvorfor er det så svært at caste mænd til datingprogrammer? Hvad er den bedste scorereplik? Og finder Nicolai og Adam kærligheden i Mexico? Det er nogle af spørgsmålene, du får svar på i dagens afsnit, hvor to af de i alt 16 fyrer fortæller om deres Bachelorette-eventyr. (24:35) &quot;Jeg vil hellere fortryde noget, jeg har gjort end noget, jeg ikke fik gjort,&quot; sådan lyder det fra realitydeltageren Nadja Hansen, der har valgt at sige sit job op og købe en enkeltvejsbillet til Mallorca uden at have nogen plan. Realitydeltageren fortæller om at følge sit hjerte - og forlade de ellers trygge rammer.Gæster:Adam Sandgaard, medvirkende i Bachelorette sæson 1Nicolai Lydiksen, medvirkende i Bachelorette sæson 1Nadja Hansen, medvirkende i Paradise Hotel sæson 14Vært og tilrettelægger:Cecilie Dumanski</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53985525/reality_podcast.mp3</guid>
-			<pubDate>Wed, 24 May 2023 16:16:35 +0000</pubDate>
-			<itunes:duration>00:53:21</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53985525/reality_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jannich fra 'Kærlighed hvor kragerne vender' blev presset til tårer af tv-hold</title>
-			<link>https://api.spreaker.com/download/episode/53905396/jannich_podcast.mp3</link>
-			<description>(09:29) Jannich er en af de fire fyre, der i datingprogrammet på TV2 ‘Kærlighed hvor kragerne vender’ forsøger at finde kærligheden. Desværre går det ikke som planlagt, og Jannich får afslag fra de fire kvinder, han dater. Da han får det fjerde afslag, oplever Jannich, at tv-holdet presser ham til at græde. Jannich fortæller i dagens afsnit om situationen - og meget andet fra hans medvirken i programmet, og så løfter han sløret for, hvordan det står til med kærligheden i dag.Gæster: Jannich Damkjær Hansen, medvirkende i ‘Kærlighed hvor kragerne vender’ sæson 4Vært og tilrettelægger:Cecilie Dumanski Reporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53905396/jannich_podcast.mp3</guid>
-			<pubDate>Wed, 17 May 2023 16:08:52 +0000</pubDate>
-			<itunes:duration>00:54:14</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53905396/jannich_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>'Først til verdens ende'-brødre: &quot;Dødskulturen i Danmark er ringe&quot;</title>
-			<link>https://api.spreaker.com/download/episode/53774705/tue_asger_podcast.mp3</link>
-			<description>(06:19) Den 4. oktober 2020 mistede Tue og Asger fra TV2-programmet 'Først til verdens ende' deres far, efter han i to år havde kæmpet mod prostatakræft. I dagens afsnit fortæller brødrene om, hvordan de oplevede døden og den enorme sorg, der efterfølgende fulgte, hvordan de tacklede sorgen på forskellige måder, hvordan deres omgangskreds havde berøringsangst med emnet, og hvordan de i programmet fik åbnet op for en dialog om sorgen. Gæster:Asger Ammundsen, deltager i 'Først til verdens ende' sæson 3Tue Ammundsen, deltager i 'Først til verdens ende' sæson 3Vært og tilrettelægger:Cecilie Dumanski</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53774705/tue_asger_podcast.mp3</guid>
-			<pubDate>Wed, 10 May 2023 16:06:48 +0000</pubDate>
-			<itunes:duration>00:54:05</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53774705/tue_asger_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Anna-Caroline om dramatisk exit i 'Alene i vildmarken'</title>
-			<link>https://api.spreaker.com/download/episode/53731071/alene_i_vildmarken_podcast.mp3</link>
-			<description>Da Anna-Caroline fra 'Alene i vildmarken' prøvede at skrive sin egen nekrolog, blev produktionsholdet så bekymret for hendes mentale trivsel, at de valgte at trække hende ud af programmet. Men var der grund til bekymring? Og hvorfor skrev Anna-Caroline den nekrolog? Var det en 'easy way out' af programmet, som Reddit spekulerer i? Du får svarene i dagens udgave af RealityRadio. (41:53) Værten bag podimo-podcasten 'Utrolige Sekter' er blevet bombarderet med henvendelser fra bekymrede lyttere, der ser en sammenhæng mellem realitypersonen Fie Laursens nye spirituelle onlinefællesskab og de sekter, der bliver talt om i podcasten. Men er der grund til bekymring? Værten bag 'Utrolige Sekter' giver sit besyv med.Gæster:Anne-Caroline Fosmark, medvirkende i 'Alene i vildmarken'Vært og tilrettelægger:Cecilie Dumanski Reporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53731071/alene_i_vildmarken_podcast.mp3</guid>
-			<pubDate>Wed, 03 May 2023 17:01:52 +0000</pubDate>
-			<itunes:duration>00:55:30</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53731071/alene_i_vildmarken_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Historien bag 'Årgang 0'</title>
-			<link>https://api.spreaker.com/download/episode/53641113/rgang_0_podcast.mp3</link>
-			<description>Den danske dokumentarserie 'Årgang 0', hvor vi følger en lille håndfuld børn og deres familier, fra de blev født ved årtusindskiftede til de kunne fejre 18 års fødselsdag, har været en samlingspunkt for mange danske familier. I dagens særafsnit af RealityRadio tager vi i selskab med to af de medvirkende og to fra produktionen en tur down memory lane og taler om de største øjeblikke fra dokumentaren, relationen mellem de mevirkende og produktionsfolkene, de etiske overvejelser og meget meget mere. Gæster: Jan Bacher Dirchsen, tilrettelægger og producent på 'Årgang 0' Anne Hjort, tilrettelægger på 'Årgang 0'Rachel Ellebye, medvirkende i 'Årgang 0'Stephanie Siguenza, medvirkende i 'Årgang 0'Vært og tilrettelægger:Cecilie Dumanski Reporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53641113/rgang_0_podcast.mp3</guid>
-			<pubDate>Wed, 26 Apr 2023 16:16:33 +0000</pubDate>
-			<itunes:duration>00:53:12</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53641113/rgang_0_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mathias fra 'Fboy Island': &quot;Jeg græd hver anden dag&quot;</title>
-			<link>https://api.spreaker.com/download/episode/53580761/fboy_island_podcast.mp3</link>
-			<description>Kan du spotte en fuckboy? I realityprogrammet 'Fboy Island' forsøger tre danske kvinder at navigere mellem selverklærede fuckboys og nice guys for at finde kærligheden. Men det er ikke en nem opgave, for fyrene lyver og kæmper med næb og klør for enten at vinde kvinden eller den store pengepremie. Men for nogle blev konkurrencen og presset lidt for hårdt.Gæster:Lady Lola Matwara, deltager i Fboy IslandMantas Hansen, deltager i Fboy IslandMathias Ciesla Kjeldsen, deltager i Fboy IslandVært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53580761/fboy_island_podcast.mp3</guid>
-			<pubDate>Wed, 19 Apr 2023 16:17:57 +0000</pubDate>
-			<itunes:duration>00:53:56</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53580761/fboy_island_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kan en tur 'Ombord' ændre dit liv?</title>
-			<link>https://api.spreaker.com/download/episode/53510707/ombord_podcast.mp3</link>
-			<description>“Kan man finde sig selv ved at rejse ud i det ukendte?” Det undersøger otte unge i TV2’s realityprogram ‘Ombord’. De har hver især en udfordring, de kæmper med i hverdagen, men på en båd i det filipinske øhav skal de i løbet af 30 dage og med hjælp fra de andre deltagere finde svar. I dagens afsnit gæster Josephine, der kæmper med massiv dødsangst, og Emma, der efter et massivt vægttab forsøger at finde sig tilrette i sin nye krop.Gæster:Josephine Heilmann, deltager i TV2s realityprogram OmbordEmma Hansen Davidsen, deltager i TV2s realityprogram OmbordVært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53510707/ombord_podcast.mp3</guid>
-			<pubDate>Wed, 12 Apr 2023 16:16:56 +0000</pubDate>
-			<itunes:duration>00:55:24</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53510707/ombord_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Historien bag Paradise Hotel</title>
-			<link>https://api.spreaker.com/download/episode/53453641/historien_bag_ph_podcast.mp3</link>
-			<description>Paradise Hotel har på TV3 rullet over din skærm i 18 år. Men de seneste år har det ikoniske realityprogram gennemgået nogle ændringer, der ikke er faldet i lige god jord hos alle. I dagens særafsnit af RealityRadio tager vi i selskab med to mænd fra produktionen, der sammenlagt har været med i (næsten) alle 18 år, en tur down memory lane og får genopfrisket de vildeste scener, største paradisoer - og ikke mindst et sjældent indblik bag kameraet.Gæster: Jesper Kynde, tilknyttet Paradise Hotel sæson 1-7 samt Paradise sæson 4 som tilrettelægger, redaktionschef, postproducer og TV3-redaktør Rasmus Gejl, tilknyttet Paradise Hotel sæson 12, 13, 16, 17, 18 samt Paradise sæson 2 som redaktionschef, postproducer, kontrolrumsredaktør og posttilrettelæggerVært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53453641/historien_bag_ph_podcast.mp3</guid>
-			<pubDate>Wed, 05 Apr 2023 17:08:23 +0000</pubDate>
-			<itunes:duration>00:55:33</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53453641/historien_bag_ph_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fie og Lucas: Første til verdens ende var en rutsjebanetur</title>
-			<link>https://api.spreaker.com/download/episode/53364789/lucas_fie_podcast.mp3</link>
-			<description>Kæresteparret Fie og Lucas har i TV2's realityprogram 'Først til verdens ende' kastet sig ud i noget af et eventyr, der har budt på alt fra narkodealer til angstanfald. Kæresteparret har ikke tidligere haft råd til at rejse sammen, da de hver især i en ung alder tog nogle &quot;dumme, økonomiske beslutninger&quot;. I dagens afsnit af RealityRadio kommer vi tæt på kæresteparret fra 'Først til verdens ende' og får et indblik i Fies angstanfald, parrets kæmpe pengegæld og de største øjeblikke fra New York til Buenos Aires.Gæster:Lucas Schweitz, deltager i 'Først til verdens ende' sæson 3Anne Sophie Nygaard, deltager i 'Først til verdens ende' sæson 3Vært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53364789/lucas_fie_podcast.mp3</guid>
-			<pubDate>Tue, 28 Mar 2023 12:47:33 +0000</pubDate>
-			<itunes:duration>00:43:40</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53364789/lucas_fie_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Historien bag Landmand søger kærlighed</title>
-			<link>https://api.spreaker.com/download/episode/53299053/landmand_s_ger_k_rlighed_podcast.mp3</link>
-			<description>TV2’s populære datingprogram, Landmand søger kærlighed, skyder til sommer sæson 10 i gang. I dagens særafsnit af RealityRadio dykker vi i selskab med nogle af de produktionsfolk, der har været med fra begyndelsen, ned i historien bag programmet - og fremhæver de allerstørste øjeblikke fra programmet. Gæster:Mads Volck, TV2’s UnderholdningsredaktørMette Beck Lisberg, redaktionschef på Landmand søger kærlighedLene Beier, vært på Landmand søger kærlighedVært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53299053/landmand_s_ger_k_rlighed_podcast.mp3</guid>
-			<pubDate>Wed, 22 Mar 2023 17:18:12 +0000</pubDate>
-			<itunes:duration>00:53:26</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53299053/landmand_s_ger_k_rlighed_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mathias Hjort om mobning i reality-tv</title>
-			<link>https://api.spreaker.com/download/episode/53211393/mathias_hjort_podcast.mp3</link>
-			<description>Vi har set flere eksempler på mobning i reality-tv. Senest i realityprogrammet Good Luck Guys, hvor den tidligere paradise-deltager Mathias Hjort følte sig mobbet. Men er mobning en uundgåelig del af reality? Hvis nej, hvem har så ansvaret for at få den usunde kultur stoppet? Gæst: Mathias Hjort, deltager i Paradise Hotel sæson 14 i 2018 og sæson 17 i 2021Vært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53211393/mathias_hjort_podcast.mp3</guid>
-			<pubDate>Wed, 15 Mar 2023 17:12:14 +0000</pubDate>
-			<itunes:duration>00:53:33</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53211393/mathias_hjort_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Er der et ligestillingsproblem i reality-branchen?</title>
-			<link>https://api.spreaker.com/download/episode/53137414/kampdag_reality.mp3</link>
-			<description>I anledningen af kvindernes internationale kampdag gør RealityRadio status på realitybranchen i forhold til ligestilling mellem mænd og kvinder. For hvordan bliver kvinder i reality-tv portrætteret, omtalt og behandlet? Og hvem har ansvaret for at ændre de problematikker, der fortsat måtte være i branchen? Gæster:Jill Liv Nielsen, vinder af første sæson af Big Brother i 2001 og Korpset i 2022Samanta Stojkovic, deltager i Paradise Hotel sæson 6 i 2010 og Divaer i junglen i 2012Amanda Sascha, deltager i De dyre piger sæson 1 i 2021 og Robinson Ekspeditionen i 2022Julie Iben Kristensen, deltager i Paradise sæson 2 i 2023Vært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/53137414/kampdag_reality.mp3</guid>
-			<pubDate>Wed, 08 Mar 2023 18:17:35 +0000</pubDate>
-			<itunes:duration>00:53:41</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/53137414/kampdag_reality.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>25 år med reality - så vildt har det været</title>
-			<link>https://api.spreaker.com/download/episode/52912829/podcast_reality.mp3</link>
-			<description>I år er det 25 år siden, at det første reality-program dukkede op på dansk tv, og siden har du kunne svælge dig i adskillige reality-programmer, hvor almindelige mennesker deler ud af deres oplevelser, liv og følelser. Der er sket utrolig meget på den danske reality-scene, siden Robinson Ekspiditionen dukkede op på skærmen i 1998. Både på og bag ved skærmen. Og den udviklingen dykker RealityRadio ned i i dag.Gæster: Rasmus Gejl, redaktionschef, tilrettelægger, postproducer og kontrolrumsredaktørHenrik Høgh-Olesen, professor i social-og personlighedspsykologi på Psykologisk Institut ved Aarhus UniversitetVært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/52912829/podcast_reality.mp3</guid>
-			<pubDate>Wed, 01 Mar 2023 17:59:51 +0000</pubDate>
-			<itunes:duration>00:54:26</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/52912829/podcast_reality.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Thomas Rode om sammenstødet med Mille Gori på Øen VIP</title>
-			<link>https://api.spreaker.com/download/episode/52814506/reality_en_vip_podcast.mp3</link>
-			<description>(08:44) Bølgerne går højt, når otte kendte danskere i programmet Øen VIP skal forsøge at overleve på en øde, tropisk ø i Stillehavet. Og tonen er særligt skarp mellem tv-vært Mille Gori og kok Thomas Rode. Men hvorfor endte netop de to med at clashe op til flere gange på øen? Gæst: Thomas Rode Andersen, kokVært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/52814506/reality_en_vip_podcast.mp3</guid>
-			<pubDate>Wed, 22 Feb 2023 17:19:01 +0000</pubDate>
-			<itunes:duration>00:53:45</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/52814506/reality_en_vip_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Er det nye Paradise en fiasko?</title>
-			<link>https://api.spreaker.com/download/episode/52672555/reality_paradise_podcast.mp3</link>
-			<description>Paradise, der er et af landets største realityprogrammer, har gennemgået store ændringer de seneste to sæsoner. Men spørgsmålet er, om ændringerne er for det bedre, eller om produktionsselskabet gør klogt i at ændre 'Paradise' tilbage til 'Paradise Hotel'? For kan realityprogrammet både være woke og underholdende? De to vindere af Paradise sæson 2 kommer med deres indspark til debatten. Gæster: Freya Sollid, vinder af Paradise sæson 2Methea Baltzer, vinder af Paradise sæson 2Vært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/52672555/reality_paradise_podcast.mp3</guid>
-			<pubDate>Wed, 08 Feb 2023 17:41:46 +0000</pubDate>
-			<itunes:duration>00:54:24</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/52672555/reality_paradise_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Realitydeltagere var forsøgskaniner i Good Luck Guys</title>
-			<link>https://api.spreaker.com/download/episode/52606811/good_luck_guys_podcast.mp3</link>
-			<description>Sult, hedeslag, sår med betændelse og dyr, gråd, ensomhed, uvished, kedsomhed og sammenstød. Sådan beskriver nogle af deltagerne oplevelsen af at være med i det nye realityprogram ‘Good Luck Guys’, der lige nu bliver sendt på Amazon Prime Video. I dagens afsnit af RealityRadio kommer vi bag kameraet og får et indblik i forholdene under produktionen. Gæster:Kirstine Natalie, deltager i Good Luck GuysCamilla Frederikke, deltager i Good Luck GuysVært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/52606811/good_luck_guys_podcast.mp3</guid>
-			<pubDate>Wed, 01 Feb 2023 17:00:17 +0000</pubDate>
-			<itunes:duration>00:54:17</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/52606811/good_luck_guys_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Er et opgør med stoffer et opgør med realityverden?</title>
-			<link>https://api.spreaker.com/download/episode/52539861/realityradio_stoffer.mp3</link>
-			<description>(01:29) I datingprogrammet 'En svedig date' på Prime Video dater en række letpåklædte singler i en sauna. Men hvorfor søren melder man sig til sådan et program?(12:32) Realitybranchen er kendt for sine vilde fester med alkohol og stoffer i lange baner. Den festlige tilværelse førte til et reelt kokainmisbrug for Philip May, der i forvejen var på flugt fra sine traumer fra militæret. Men hvordan lykkedes det Philip at komme ud af sit misbrug - og kan han som eks-misbruger stadig tage til realityfester?Gæster:Jeppe Zingg, realitydeltagerPhilip May, realitydeltagerVært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/52539861/realityradio_stoffer.mp3</guid>
-			<pubDate>Wed, 25 Jan 2023 17:29:04 +0000</pubDate>
-			<itunes:duration>00:53:50</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/52539861/realityradio_stoffer.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fra butt plug og bare bryster til slåskamp og frieri - Reality Awards' største øjeblikke</title>
-			<link>https://api.spreaker.com/download/episode/52473727/reality180123.mp3</link>
-			<description>I dag bliver den røde løber - for 10. gang - rullet ud til realitybranchens største awardshow, nemlig Reality Awards. I dagens udgave af RealityRadio gennemgår vi de mest pinlige, sjove, romantiske, letpåklædte og skandaløse øjeblikke i awardshowets historie - og så får vi slået fast, hvorfor awardshowet er så vigtigt for realitydeltagere og realitybranchen.Gæster:Kit Nielsen, stifter og ejer af Reality AwardsPhilip May, realitydeltagerVært og tilrettelægger:Cecilie DumanskiReporter og producer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/52473727/reality180123.mp3</guid>
-			<pubDate>Wed, 18 Jan 2023 17:13:29 +0000</pubDate>
-			<itunes:duration>00:53:54</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/52473727/reality180123.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fra dødstrusler til kærlighed - realityverdens udvikling ift. queermilljøet</title>
-			<link>https://api.spreaker.com/download/episode/52413947/reality_og_queer.mp3</link>
-			<description>&quot;Jeg er stolt af, at jeg har kunnet skrive historie for mit queermiljø.&quot; Sådan lyder det fra paradise-vært Emil Olsen. Man hvad er det, Emil har skrevet i paradise-historiebøgerne? Og hvordan er queerpersoner blevet behandlet og portrætteret, hvis vi bladrer tilbage til 2012, og sammenligner det med i dag? RealityRadio inviterer til historietime i realityverdens udvikling ift. queermiljøet. Gæster:Emil Olsen, vært på Paradise Hotel sæson 18 og Paradise sæson 1 og 2Nichole Valentina, tidl. paradise-deltager sæson 8, 2012Frederikke Marciniak, paradise-deltager sæson 2, 2022Mads Andersen, adjunk ved film og medievidenskab på Københavns UniversitetVært:Cecilie DumanskiProducer:Maja F. K. Østergaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/52413947/reality_og_queer.mp3</guid>
-			<pubDate>Wed, 11 Jan 2023 17:40:44 +0000</pubDate>
-			<itunes:duration>00:54:15</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/52413947/reality_og_queer.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Paradise-deltagere føler sig udnyttet af Mastiff</title>
-			<link>https://api.spreaker.com/download/episode/52353099/reality_040123.mp3</link>
-			<description>“Grov udnyttelse”, “jerngreb” og “slavelignende forhold”. Sådan lyder kritikken fra eksperter og politikere af den kontrakt, paradisedeltagere underskriver inden programmet. Men hvor slem er den egentlig? Og hvorfor underskriver paradisedeltagere kontrakten, hvis den er så urimelig og ensidig? Gæster:Monique von Appen, paradisedeltager og -vinder af sæson 11, 2015Damien Smith, paradisedeltager af sæson 19, 2022Peter Breum, partner og advokat i advokatfirmaet ‘SIRIUS advokater’Vært: Cecilie Dumanski</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/52353099/reality_040123.mp3</guid>
-			<pubDate>Wed, 04 Jan 2023 17:54:46 +0000</pubDate>
-			<itunes:duration>00:53:49</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/52353099/reality_040123.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>reality teaser</title>
-			<link>https://api.spreaker.com/download/episode/52332717/reality_teaser.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/52332717/reality_teaser.mp3</guid>
-			<pubDate>Mon, 02 Jan 2023 13:12:10 +0000</pubDate>
-			<itunes:duration>00:00:59</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/52332717/reality_teaser.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   RealityRadio
+  </title>
+  <link>
+   https://www.spreaker.com/show/realityradio_1
+  </link>
+  <description>
+   I RealityRadio får du seneste nyt og seriøse samtaler fra en verden fyldt med fest og farver, intriger og drama, kærlighed og sex. Hver uge inviterer vært Cecilie Dumanski realitydeltagere til ærlige og filterløse samtaler i et program, der tager realityverden og dets indbyggere alvorligt.
+  </description>
+  <atom:link href="https://www.spreaker.com/show/5748724/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   TV &amp; Film
+  </category>
+  <copyright>
+   Copyright 24syv
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg
+   </url>
+   <title>
+    RealityRadio
+   </title>
+   <link>
+    https://www.spreaker.com/show/realityradio_1
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   24syv
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    24syv
+   </itunes:name>
+   <itunes:email>
+    podcast@24syv.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+  <itunes:subtitle>
+   I RealityRadio får du seneste nyt og seriøse samtaler fra en verden fyldt med fest og farver, intriger og drama, kærlighed og sex. Hver uge inviterer vært Cecilie Dumanski realitydeltagere til ærlige og filterløse samtaler i et program, der tager...
+  </itunes:subtitle>
+  <itunes:summary>
+   I RealityRadio får du seneste nyt og seriøse samtaler fra en verden fyldt med fest og farver, intriger og drama, kærlighed og sex. Hver uge inviterer vært Cecilie Dumanski realitydeltagere til ærlige og filterløse samtaler i et program, der tager realityverden og dets indbyggere alvorligt.
+  </itunes:summary>
+  <itunes:category text="TV &amp; Film"/>
+  <itunes:category text="Society &amp; Culture">
+   <itunes:category text="Personal Journals"/>
+  </itunes:category>
+  <itunes:category text="Society &amp; Culture"/>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    RealityRadio - Best off
+   </title>
+   <link>
+    https://www.spreaker.com/episode/realityradio-best-off--56961651
+   </link>
+   <description>
+    En æra er ved at være forbi. RealityRadio lukker og slukker. Men inden bindes der en fin sløjfe på programmet ved at slentre ned af memory lane og hive nogle af de bedste og største øjeblikke i RealityRadios historie frem samt et udvalg af de spændende gæster, der har gæstet programmet.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56961651
+   </guid>
+   <pubDate>
+    Wed, 27 Sep 2023 16:06:13 +0000
+   </pubDate>
+   <enclosure length="51754752" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56961651/best_off_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    En æra er ved at være forbi. RealityRadio lukker og slukker. Men inden bindes der en fin sløjfe på programmet ved at slentre ned af memory lane og hive nogle af de bedste og største øjeblikke i RealityRadios historie frem samt et udvalg af de...
+   </itunes:subtitle>
+   <itunes:summary>
+    En æra er ved at være forbi. RealityRadio lukker og slukker. Men inden bindes der en fin sløjfe på programmet ved at slentre ned af memory lane og hive nogle af de bedste og største øjeblikke i RealityRadios historie frem samt et udvalg af de spændende gæster, der har gæstet programmet.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski
+   </itunes:summary>
+   <itunes:duration>
+    3231
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Historien bag 'Robinson Ekspeditionen'
+   </title>
+   <link>
+    https://www.spreaker.com/episode/historien-bag-robinson-ekspeditionen--56708975
+   </link>
+   <description>
+    Danmarks allerførst realityshow ‘Robinson Ekspeditionen’ rullede for første gang over skærmen i 1998. Og i nu 25 sæsoner - fordelt på 25 år - har seerne kunne følge de modige og hårdtkæmpende deltagere, der er blevet udsat for lidt af hvert. I dagens særudgave af RealityRadio på 24syv skriver vært Jakob Kjeldberg og Jacob Juhl historien bag Robinson Ekspeditionen og fremhæver nogle af de vildeste scener foran og bagved kameraet. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Jakob Kjeldberg, vært på Robinson Ekspeditionen igennem 18 sæsoner&lt;br /&gt;Jacob Juhl, producent af Robinson fra 2008-2012&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56708975
+   </guid>
+   <pubDate>
+    Wed, 06 Sep 2023 08:10:14 +0000
+   </pubDate>
+   <enclosure length="52968960" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56708975/robinson_25_r_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Danmarks allerførst realityshow ‘Robinson Ekspeditionen’ rullede for første gang over skærmen i 1998. Og i nu 25 sæsoner - fordelt på 25 år - har seerne kunne følge de modige og hårdtkæmpende deltagere, der er blevet udsat for lidt af hvert. I dagens...
+   </itunes:subtitle>
+   <itunes:summary>
+    Danmarks allerførst realityshow ‘Robinson Ekspeditionen’ rullede for første gang over skærmen i 1998. Og i nu 25 sæsoner - fordelt på 25 år - har seerne kunne følge de modige og hårdtkæmpende deltagere, der er blevet udsat for lidt af hvert. I dagens særudgave af RealityRadio på 24syv skriver vært Jakob Kjeldberg og Jacob Juhl historien bag Robinson Ekspeditionen og fremhæver nogle af de vildeste scener foran og bagved kameraet. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Jakob Kjeldberg, vært på Robinson Ekspeditionen igennem 18 sæsoner&lt;br /&gt;Jacob Juhl, producent af Robinson fra 2008-2012&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3307
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Content manager om 'Stories for millioner': "DR lyver over for danskerne"
+   </title>
+   <link>
+    https://www.spreaker.com/episode/content-manager-om-stories-for-millioner-dr-lyver-over-for-danskerne--56637785
+   </link>
+   <description>
+    (01:36) Den tidligere paradise-vinder Methea Baltzer hjælper som ægdonor par med at blive forældre. Men ægdonation kan være både fysisk og psykisk hårdt, så er det virkelig det værd? Og hvad er det egentlig, du som kvinder gennemgår, når du vælger at donere dine æg?&lt;br /&gt;&lt;br /&gt;(32:29) “Influencerbranchen boomer, millionerne strømmer ind, og alle ønsker sig en bid af kagen.” Sådan lyder beskrivelsen af DR-dokumentarserien ‘Stories for millioner’, men er det nu også et retvisende billede af virkeligheden. Ikke hvis du spørger Mia Linett Storm Andersen, der er content og project manager og til dagligt beskiftiger sig med netop influencerbranchen.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Methea Baltzer, medvirkende og vinder af Paradise sæson 2&lt;br /&gt;Mia Linett Storm Andersen, content og project manager ved Dentsu X&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Cecilie Dumanski
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56637785
+   </guid>
+   <pubDate>
+    Wed, 30 Aug 2023 16:24:45 +0000
+   </pubDate>
+   <enclosure length="50683008" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56637785/gdonation_og_stories_for_millioner_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (01:36) Den tidligere paradise-vinder Methea Baltzer hjælper som ægdonor par med at blive forældre. Men ægdonation kan være både fysisk og psykisk hårdt, så er det virkelig det værd? Og hvad er det egentlig, du som kvinder gennemgår, når du vælger at...
+   </itunes:subtitle>
+   <itunes:summary>
+    (01:36) Den tidligere paradise-vinder Methea Baltzer hjælper som ægdonor par med at blive forældre. Men ægdonation kan være både fysisk og psykisk hårdt, så er det virkelig det værd? Og hvad er det egentlig, du som kvinder gennemgår, når du vælger at donere dine æg?&lt;br /&gt;&lt;br /&gt;(32:29) “Influencerbranchen boomer, millionerne strømmer ind, og alle ønsker sig en bid af kagen.” Sådan lyder beskrivelsen af DR-dokumentarserien ‘Stories for millioner’, men er det nu også et retvisende billede af virkeligheden. Ikke hvis du spørger Mia Linett Storm Andersen, der er content og project manager og til dagligt beskiftiger sig med netop influencerbranchen.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Methea Baltzer, medvirkende og vinder af Paradise sæson 2&lt;br /&gt;Mia Linett Storm Andersen, content og project manager ved Dentsu X&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Cecilie Dumanski
+   </itunes:summary>
+   <itunes:duration>
+    3164
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kan ændringer i 'Gift ved første blik' øge succesraten?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kan-aendringer-i-gift-ved-forste-blik-oge-succesraten--56567346
+   </link>
+   <description>
+    34 par er gennem otte sæsoner blevet matchet i DR's datingprogram 'Gift ved første blik'. Fire par er fortsat sammen i dag. Ikke den mest prængende succesrate, men måske kan et par justeringer i den kommende sæson 9, der har premiere den 24. august, forbedre betingelserne for kærligheden. Det er i hvertfald DR's forhåbning. I dagens afsnit vender Cecilie bl.a. ændringerne med Mette Blume, der i den seneste sæson blev gift og skilt med Steen Theill. &lt;br /&gt;&lt;br /&gt;Gæst: &lt;br /&gt;Mette Blume, medvirkende i 'Gift ved første blik' sæson 8&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Cecilie Dumanski
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56567346
+   </guid>
+   <pubDate>
+    Wed, 23 Aug 2023 16:23:28 +0000
+   </pubDate>
+   <enclosure length="51626496" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56567346/gift_ved_f_rste_blik_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    34 par er gennem otte sæsoner blevet matchet i DR's datingprogram 'Gift ved første blik'. Fire par er fortsat sammen i dag. Ikke den mest prængende succesrate, men måske kan et par justeringer i den kommende sæson 9, der har premiere den 24. august,...
+   </itunes:subtitle>
+   <itunes:summary>
+    34 par er gennem otte sæsoner blevet matchet i DR's datingprogram 'Gift ved første blik'. Fire par er fortsat sammen i dag. Ikke den mest prængende succesrate, men måske kan et par justeringer i den kommende sæson 9, der har premiere den 24. august, forbedre betingelserne for kærligheden. Det er i hvertfald DR's forhåbning. I dagens afsnit vender Cecilie bl.a. ændringerne med Mette Blume, der i den seneste sæson blev gift og skilt med Steen Theill. &lt;br /&gt;&lt;br /&gt;Gæst: &lt;br /&gt;Mette Blume, medvirkende i 'Gift ved første blik' sæson 8&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Cecilie Dumanski
+   </itunes:summary>
+   <itunes:duration>
+    3223
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Medvirkende i 'De dyre piger' anklager DR og BLU for manipulation
+   </title>
+   <link>
+    https://www.spreaker.com/episode/medvirkende-i-de-dyre-piger-anklager-dr-og-blu-for-manipulation--56412286
+   </link>
+   <description>
+    Det var ikke den oplevelse, Sabrina Sau og Ida McKenna havde forventet, da de sagde ja til at medvirke i tredje sæson af DR-programmet ‘De dyre piger’. Produktionen bag DR-programmet 'De dyre piger' har ifølge kvinderne både fordrejet virkeligheden, presset de medvirkende til at udlevere private detaljer og lovet dem et andet koncept end det, de medvirker i. &lt;br /&gt;&lt;br /&gt;(47:40) DR svarer på kritikken&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Sabrina Sau, medvirkende i 'De dyre piger' sæson 3&lt;br /&gt;Ida McKenna, medvirkende i 'De dyre piger' sæson 3&lt;br /&gt;Linda Edgar, områdechef for DR Ung TV&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Cecilie Dumanski
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56412286
+   </guid>
+   <pubDate>
+    Wed, 09 Aug 2023 14:17:16 +0000
+   </pubDate>
+   <enclosure length="67761024" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56412286/dyre_piger_kritik_dr_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Det var ikke den oplevelse, Sabrina Sau og Ida McKenna havde forventet, da de sagde ja til at medvirke i tredje sæson af DR-programmet ‘De dyre piger’. Produktionen bag DR-programmet 'De dyre piger' har ifølge kvinderne både fordrejet virkeligheden,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Det var ikke den oplevelse, Sabrina Sau og Ida McKenna havde forventet, da de sagde ja til at medvirke i tredje sæson af DR-programmet ‘De dyre piger’. Produktionen bag DR-programmet 'De dyre piger' har ifølge kvinderne både fordrejet virkeligheden, presset de medvirkende til at udlevere private detaljer og lovet dem et andet koncept end det, de medvirker i. &lt;br /&gt;&lt;br /&gt;(47:40) DR svarer på kritikken&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Sabrina Sau, medvirkende i 'De dyre piger' sæson 3&lt;br /&gt;Ida McKenna, medvirkende i 'De dyre piger' sæson 3&lt;br /&gt;Linda Edgar, områdechef for DR Ung TV&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Cecilie Dumanski
+   </itunes:summary>
+   <itunes:duration>
+    4231
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Har landmænd sværere ved at finde kærligheden?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/har-landmaend-svaerere-ved-at-finde-kaerligheden--56228924
+   </link>
+   <description>
+    For tiende gang er en række landmænd klar til at lede efter kærligheden i TV2’s datingprogram ‘Landmand søger kærlighed’. Men hvorfor er det så svært for landmænd at date og finde kærligheden, siden de skal have et specifikt datingprogram? Og hvordan har det været for landmændene, der i forvejen har svært ved date, pludselig at skulle gøre det for rullende kamera og Hr. og Fru Danmark? &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Linea Pedersen, medvirkende i 'Landmand søger kærlighed' sæson 10 &lt;br /&gt;Niels Erik Wegger, medvirkende i 'Landmand søger kærlighed' sæson 10&lt;br /&gt;Katja Gullaksen, medvirkende i 'Landmand søger kærlighed' sæson 9&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Cecilie Dumanski
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/56228924
+   </guid>
+   <pubDate>
+    Wed, 26 Jul 2023 16:54:14 +0000
+   </pubDate>
+   <enclosure length="59873664" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56228924/landmand_s_ger_k_rlighed.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    For tiende gang er en række landmænd klar til at lede efter kærligheden i TV2’s datingprogram ‘Landmand søger kærlighed’. Men hvorfor er det så svært for landmænd at date og finde kærligheden, siden de skal have et specifikt datingprogram? Og hvordan...
+   </itunes:subtitle>
+   <itunes:summary>
+    For tiende gang er en række landmænd klar til at lede efter kærligheden i TV2’s datingprogram ‘Landmand søger kærlighed’. Men hvorfor er det så svært for landmænd at date og finde kærligheden, siden de skal have et specifikt datingprogram? Og hvordan har det været for landmændene, der i forvejen har svært ved date, pludselig at skulle gøre det for rullende kamera og Hr. og Fru Danmark? &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Linea Pedersen, medvirkende i 'Landmand søger kærlighed' sæson 10 &lt;br /&gt;Niels Erik Wegger, medvirkende i 'Landmand søger kærlighed' sæson 10&lt;br /&gt;Katja Gullaksen, medvirkende i 'Landmand søger kærlighed' sæson 9&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Cecilie Dumanski
+   </itunes:summary>
+   <itunes:duration>
+    3739
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Historien bag 'Keeping Up With The Kardashians'
+   </title>
+   <link>
+    https://www.spreaker.com/episode/historien-bag-keeping-up-with-the-kardashians--55279088
+   </link>
+   <description>
+    Den amerikanske kendisfamilie The Kardashian, som du i tykt og tyndt kan følge i tv-showet ‘Keeping Up with the Kardashians’ og senere ‘The Kardashians’, er en verdensomspændende succes - og de seks innovative kvinder er nogle af verdens største trendsetters. Men hvorfor er familien og tv-showet så populært? I denne særudgave af RealityRadio skriver vi historien bag ‘Keeping Up with the Kardashians’ med alle dets op og nedture, romancer og skandaler.&lt;br /&gt;&lt;br /&gt;Gæst: &lt;br /&gt;Katrine Memborg, journalist og forfatter bl.a. til 'K for Kardashian'&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/55279088
+   </guid>
+   <pubDate>
+    Wed, 28 Jun 2023 15:09:09 +0000
+   </pubDate>
+   <enclosure length="51314688" type="audio/mpeg" url="https://api.spreaker.com/download/episode/55279088/historien_bag_kardashian_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Den amerikanske kendisfamilie The Kardashian, som du i tykt og tyndt kan følge i tv-showet ‘Keeping Up with the Kardashians’ og senere ‘The Kardashians’, er en verdensomspændende succes - og de seks innovative kvinder er nogle af verdens største...
+   </itunes:subtitle>
+   <itunes:summary>
+    Den amerikanske kendisfamilie The Kardashian, som du i tykt og tyndt kan følge i tv-showet ‘Keeping Up with the Kardashians’ og senere ‘The Kardashians’, er en verdensomspændende succes - og de seks innovative kvinder er nogle af verdens største trendsetters. Men hvorfor er familien og tv-showet så populært? I denne særudgave af RealityRadio skriver vi historien bag ‘Keeping Up with the Kardashians’ med alle dets op og nedture, romancer og skandaler.&lt;br /&gt;&lt;br /&gt;Gæst: &lt;br /&gt;Katrine Memborg, journalist og forfatter bl.a. til 'K for Kardashian'&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3204
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Er matching-eksperter i 'Vild kærlighed' falsk markedsføring?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/er-matching-eksperter-i-vild-kaerlighed-falsk-markedsforing--54585454
+   </link>
+   <description>
+    Hvad er DR's intentioner med datingprogrammet 'Vild Kærlighed'? Er det at give de medvirkende de bedste vilkår og forudsætninger for at finde kærligheden, eller er det for at skabe drama og debat? Hvis intentionen er det første, hvorfor blev det oplagte par Rune og Ida Emilie ikke sat sammen fra begyndelsen? Det sår i hvertfald tvivl om de såkaldte matching-eksperters ekspertise - hvis de overhovedet findes i programmet. Det afslører Ida Emilie og Rune i dagens afsnit. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Ida Emilie Boytang, medvirkende i 'Vild Kærlighed' sæson 2&lt;br /&gt;Rune Krüger, medvirkende i 'Vild Kærlighed' sæson 2&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/54585454
+   </guid>
+   <pubDate>
+    Wed, 21 Jun 2023 16:13:46 +0000
+   </pubDate>
+   <enclosure length="51192192" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54585454/vild_k_rlighed_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad er DR's intentioner med datingprogrammet 'Vild Kærlighed'? Er det at give de medvirkende de bedste vilkår og forudsætninger for at finde kærligheden, eller er det for at skabe drama og debat? Hvis intentionen er det første, hvorfor blev det...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad er DR's intentioner med datingprogrammet 'Vild Kærlighed'? Er det at give de medvirkende de bedste vilkår og forudsætninger for at finde kærligheden, eller er det for at skabe drama og debat? Hvis intentionen er det første, hvorfor blev det oplagte par Rune og Ida Emilie ikke sat sammen fra begyndelsen? Det sår i hvertfald tvivl om de såkaldte matching-eksperters ekspertise - hvis de overhovedet findes i programmet. Det afslører Ida Emilie og Rune i dagens afsnit. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Ida Emilie Boytang, medvirkende i 'Vild Kærlighed' sæson 2&lt;br /&gt;Rune Krüger, medvirkende i 'Vild Kærlighed' sæson 2&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3196
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    'Fboy Island'-kvinderne var underlagt et massivt pres
+   </title>
+   <link>
+    https://www.spreaker.com/episode/fboy-island-kvinderne-var-underlagt-et-massivt-pres--54389797
+   </link>
+   <description>
+    Det var ikke en dans på røde roser, da de tre kvinder Sina, Therese og Lady skulle forsøge at finde kærligheden blandt en række selverklærede nice guys og fuckbuys i realityprogrammet 'Fboy Island'. De var nemlig underlagt et et kæmpe mentalt pres, som resulterede i, at de havde det svært og mistede sig selv, da de kom hjem. I dagens afsnit åbner de tre kvinder op for deres medvirken i programmet.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Sina Stirnimann, deltager i 'Fboy Island' sæson 1&lt;br /&gt;Therese Paxvig, deltager i 'Fboy Island' sæson 1&lt;br /&gt;Lady Matwara, deltager i 'Fboy Island' sæson 1&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/54389797
+   </guid>
+   <pubDate>
+    Wed, 14 Jun 2023 15:56:12 +0000
+   </pubDate>
+   <enclosure length="51851904" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54389797/fboy_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Det var ikke en dans på røde roser, da de tre kvinder Sina, Therese og Lady skulle forsøge at finde kærligheden blandt en række selverklærede nice guys og fuckbuys i realityprogrammet 'Fboy Island'. De var nemlig underlagt et et kæmpe mentalt pres,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Det var ikke en dans på røde roser, da de tre kvinder Sina, Therese og Lady skulle forsøge at finde kærligheden blandt en række selverklærede nice guys og fuckbuys i realityprogrammet 'Fboy Island'. De var nemlig underlagt et et kæmpe mentalt pres, som resulterede i, at de havde det svært og mistede sig selv, da de kom hjem. I dagens afsnit åbner de tre kvinder op for deres medvirken i programmet.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Sina Stirnimann, deltager i 'Fboy Island' sæson 1&lt;br /&gt;Therese Paxvig, deltager i 'Fboy Island' sæson 1&lt;br /&gt;Lady Matwara, deltager i 'Fboy Island' sæson 1&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3237
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Foregår der 'Jewish Matchmaking' i Danmark?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/foregar-der-jewish-matchmaking-i-danmark--54051811
+   </link>
+   <description>
+    (04:30) På Netflix kan du lige nu i det amerikanske dating- og realityprogram ‘Jewish Matchmaking’ følge matchmakeren Aleeza Ben Shalom, der sammensætter jødiske par på baggrund af deres religiøse og kulturelle traditioner og idéer. Men er jødisk matchmaking noget, der foregår i dag i Danmark? Og hvordan adskillder den jødiske datingkultur sig fra den ikke-jødiske? Og ville der være grobund for en dansk pendant til 'Jewish Matchmaking'? Få svarene i dagens afsnit af RealityRadio. &lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Heidi Laura, ph.d. og forfatter i jødisk historie og kultur og medlem af det jødiske trossamfund&lt;br /&gt;Jacob Friis-Haché, studerende og kulturjøde&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;&lt;/b&gt;
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/54051811
+   </guid>
+   <pubDate>
+    Wed, 31 May 2023 16:07:08 +0000
+   </pubDate>
+   <enclosure length="51798528" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54051811/j_disk_matchmaking_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (04:30) På Netflix kan du lige nu i det amerikanske dating- og realityprogram ‘Jewish Matchmaking’ følge matchmakeren Aleeza Ben Shalom, der sammensætter jødiske par på baggrund af deres religiøse og kulturelle traditioner og idéer. Men er jødisk...
+   </itunes:subtitle>
+   <itunes:summary>
+    (04:30) På Netflix kan du lige nu i det amerikanske dating- og realityprogram ‘Jewish Matchmaking’ følge matchmakeren Aleeza Ben Shalom, der sammensætter jødiske par på baggrund af deres religiøse og kulturelle traditioner og idéer. Men er jødisk matchmaking noget, der foregår i dag i Danmark? Og hvordan adskillder den jødiske datingkultur sig fra den ikke-jødiske? Og ville der være grobund for en dansk pendant til 'Jewish Matchmaking'? Få svarene i dagens afsnit af RealityRadio. &lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Heidi Laura, ph.d. og forfatter i jødisk historie og kultur og medlem af det jødiske trossamfund&lt;br /&gt;Jacob Friis-Haché, studerende og kulturjøde&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;&lt;/b&gt;
+   </itunes:summary>
+   <itunes:duration>
+    3234
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kun 3 ud af 16 fyre meldte sig selv til 'Bachelorette'
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kun-3-ud-af-16-fyre-meldte-sig-selv-til-bachelorette--53985525
+   </link>
+   <description>
+    (01:22) Hvorfor er det så svært at caste mænd til datingprogrammer? Hvad er den bedste scorereplik? Og finder Nicolai og Adam kærligheden i Mexico? Det er nogle af spørgsmålene, du får svar på i dagens afsnit, hvor to af de i alt 16 fyrer fortæller om deres Bachelorette-eventyr. &lt;br /&gt;&lt;br /&gt;(24:35) "Jeg vil hellere fortryde noget, jeg har gjort end noget, jeg ikke fik gjort," sådan lyder det fra realitydeltageren Nadja Hansen, der har valgt at sige sit job op og købe en enkeltvejsbillet til Mallorca uden at have nogen plan. Realitydeltageren fortæller om at følge sit hjerte - og forlade de ellers trygge rammer.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Adam Sandgaard, medvirkende i Bachelorette sæson 1&lt;br /&gt;Nicolai Lydiksen, medvirkende i Bachelorette sæson 1&lt;br /&gt;Nadja Hansen, medvirkende i Paradise Hotel sæson 14&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/53985525
+   </guid>
+   <pubDate>
+    Wed, 24 May 2023 16:16:35 +0000
+   </pubDate>
+   <enclosure length="51292032" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53985525/reality_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (01:22) Hvorfor er det så svært at caste mænd til datingprogrammer? Hvad er den bedste scorereplik? Og finder Nicolai og Adam kærligheden i Mexico? Det er nogle af spørgsmålene, du får svar på i dagens afsnit, hvor to af de i alt 16 fyrer fortæller om...
+   </itunes:subtitle>
+   <itunes:summary>
+    (01:22) Hvorfor er det så svært at caste mænd til datingprogrammer? Hvad er den bedste scorereplik? Og finder Nicolai og Adam kærligheden i Mexico? Det er nogle af spørgsmålene, du får svar på i dagens afsnit, hvor to af de i alt 16 fyrer fortæller om deres Bachelorette-eventyr. &lt;br /&gt;&lt;br /&gt;(24:35) "Jeg vil hellere fortryde noget, jeg har gjort end noget, jeg ikke fik gjort," sådan lyder det fra realitydeltageren Nadja Hansen, der har valgt at sige sit job op og købe en enkeltvejsbillet til Mallorca uden at have nogen plan. Realitydeltageren fortæller om at følge sit hjerte - og forlade de ellers trygge rammer.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Adam Sandgaard, medvirkende i Bachelorette sæson 1&lt;br /&gt;Nicolai Lydiksen, medvirkende i Bachelorette sæson 1&lt;br /&gt;Nadja Hansen, medvirkende i Paradise Hotel sæson 14&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski
+   </itunes:summary>
+   <itunes:duration>
+    3202
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Jannich fra 'Kærlighed hvor kragerne vender' blev presset til tårer af tv-hold
+   </title>
+   <link>
+    https://www.spreaker.com/episode/jannich-fra-kaerlighed-hvor-kragerne-vender-blev-presset-til-tarer-af-tv-hold--53905396
+   </link>
+   <description>
+    (09:29) Jannich er en af de fire fyre, der i datingprogrammet på TV2 ‘Kærlighed hvor kragerne vender’ forsøger at finde kærligheden. Desværre går det ikke som planlagt, og Jannich får afslag fra de fire kvinder, han dater. Da han får det fjerde afslag, oplever Jannich, at tv-holdet presser ham til at græde. Jannich fortæller i dagens afsnit om situationen - og meget andet fra hans medvirken i programmet, og så løfter han sløret for, hvordan det står til med kærligheden i dag.&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Jannich Damkjær Hansen, medvirkende i ‘Kærlighed hvor kragerne vender’ sæson 4&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/53905396
+   </guid>
+   <pubDate>
+    Wed, 17 May 2023 16:08:52 +0000
+   </pubDate>
+   <enclosure length="52131072" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53905396/jannich_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (09:29) Jannich er en af de fire fyre, der i datingprogrammet på TV2 ‘Kærlighed hvor kragerne vender’ forsøger at finde kærligheden. Desværre går det ikke som planlagt, og Jannich får afslag fra de fire kvinder, han dater. Da han får det fjerde...
+   </itunes:subtitle>
+   <itunes:summary>
+    (09:29) Jannich er en af de fire fyre, der i datingprogrammet på TV2 ‘Kærlighed hvor kragerne vender’ forsøger at finde kærligheden. Desværre går det ikke som planlagt, og Jannich får afslag fra de fire kvinder, han dater. Da han får det fjerde afslag, oplever Jannich, at tv-holdet presser ham til at græde. Jannich fortæller i dagens afsnit om situationen - og meget andet fra hans medvirken i programmet, og så løfter han sløret for, hvordan det står til med kærligheden i dag.&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Jannich Damkjær Hansen, medvirkende i ‘Kærlighed hvor kragerne vender’ sæson 4&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3255
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    'Først til verdens ende'-brødre: "Dødskulturen i Danmark er ringe"
+   </title>
+   <link>
+    https://www.spreaker.com/episode/forst-til-verdens-ende-brodre-dodskulturen-i-danmark-er-ringe--53774705
+   </link>
+   <description>
+    (06:19) Den 4. oktober 2020 mistede Tue og Asger fra TV2-programmet 'Først til verdens ende' deres far, efter han i to år havde kæmpet mod prostatakræft. I dagens afsnit fortæller brødrene om, hvordan de oplevede døden og den enorme sorg, der efterfølgende fulgte, hvordan de tacklede sorgen på forskellige måder, hvordan deres omgangskreds havde berøringsangst med emnet, og hvordan de i programmet fik åbnet op for en dialog om sorgen. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Asger Ammundsen, deltager i 'Først til verdens ende' sæson 3&lt;br /&gt;Tue Ammundsen, deltager i 'Først til verdens ende' sæson 3&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/53774705
+   </guid>
+   <pubDate>
+    Wed, 10 May 2023 16:06:48 +0000
+   </pubDate>
+   <enclosure length="51987840" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53774705/tue_asger_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (06:19) Den 4. oktober 2020 mistede Tue og Asger fra TV2-programmet 'Først til verdens ende' deres far, efter han i to år havde kæmpet mod prostatakræft. I dagens afsnit fortæller brødrene om, hvordan de oplevede døden og den enorme sorg, der...
+   </itunes:subtitle>
+   <itunes:summary>
+    (06:19) Den 4. oktober 2020 mistede Tue og Asger fra TV2-programmet 'Først til verdens ende' deres far, efter han i to år havde kæmpet mod prostatakræft. I dagens afsnit fortæller brødrene om, hvordan de oplevede døden og den enorme sorg, der efterfølgende fulgte, hvordan de tacklede sorgen på forskellige måder, hvordan deres omgangskreds havde berøringsangst med emnet, og hvordan de i programmet fik åbnet op for en dialog om sorgen. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Asger Ammundsen, deltager i 'Først til verdens ende' sæson 3&lt;br /&gt;Tue Ammundsen, deltager i 'Først til verdens ende' sæson 3&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski
+   </itunes:summary>
+   <itunes:duration>
+    3246
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Anna-Caroline om dramatisk exit i 'Alene i vildmarken'
+   </title>
+   <link>
+    https://www.spreaker.com/episode/anna-caroline-om-dramatisk-exit-i-alene-i-vildmarken--53731071
+   </link>
+   <description>
+    (00:00) Da Anna-Caroline fra 'Alene i vildmarken' prøvede at skrive sin egen nekrolog, blev produktionsholdet så bekymret for hendes mentale trivsel, at de valgte at trække hende ud af programmet. Men var der grund til bekymring? Og hvorfor skrev Anna-Caroline den nekrolog? Var det en 'easy way out' af programmet, som Reddit spekulerer i? Du får svarene i dagens udgave af RealityRadio. &lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;(41:53) Værten bag podimo-podcasten 'Utrolige Sekter' er blevet bombarderet med henvendelser fra bekymrede lyttere, der ser en sammenhæng mellem realitypersonen Fie Laursens nye spirituelle onlinefællesskab og de sekter, der bliver talt om i podcasten. Men er der grund til bekymring? Værten bag 'Utrolige Sekter' giver sit besyv med.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Anne-Caroline Fosmark, medvirkende i 'Alene i vildmarken'&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/53731071
+   </guid>
+   <pubDate>
+    Wed, 03 May 2023 17:01:52 +0000
+   </pubDate>
+   <enclosure length="53318016" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53731071/alene_i_vildmarken_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (00:00) Da Anna-Caroline fra 'Alene i vildmarken' prøvede at skrive sin egen nekrolog, blev produktionsholdet så bekymret for hendes mentale trivsel, at de valgte at trække hende ud af programmet. Men var der grund til bekymring? Og hvorfor skrev...
+   </itunes:subtitle>
+   <itunes:summary>
+    (00:00) Da Anna-Caroline fra 'Alene i vildmarken' prøvede at skrive sin egen nekrolog, blev produktionsholdet så bekymret for hendes mentale trivsel, at de valgte at trække hende ud af programmet. Men var der grund til bekymring? Og hvorfor skrev Anna-Caroline den nekrolog? Var det en 'easy way out' af programmet, som Reddit spekulerer i? Du får svarene i dagens udgave af RealityRadio. &lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;(41:53) Værten bag podimo-podcasten 'Utrolige Sekter' er blevet bombarderet med henvendelser fra bekymrede lyttere, der ser en sammenhæng mellem realitypersonen Fie Laursens nye spirituelle onlinefællesskab og de sekter, der bliver talt om i podcasten. Men er der grund til bekymring? Værten bag 'Utrolige Sekter' giver sit besyv med.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Anne-Caroline Fosmark, medvirkende i 'Alene i vildmarken'&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3329
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Historien bag 'Årgang 0'
+   </title>
+   <link>
+    https://www.spreaker.com/episode/historien-bag-argang-0--53641113
+   </link>
+   <description>
+    Den danske dokumentarserie 'Årgang 0', hvor vi følger en lille håndfuld børn og deres familier, fra de blev født ved årtusindskiftede til de kunne fejre 18 års fødselsdag, har været en samlingspunkt for mange danske familier. I dagens særafsnit af RealityRadio tager vi i selskab med to af de medvirkende og to fra produktionen en tur down memory lane og taler om de største øjeblikke fra dokumentaren, relationen mellem de mevirkende og produktionsfolkene, de etiske overvejelser og meget meget mere. &lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Jan Bacher Dirchsen, tilrettelægger og producent på 'Årgang 0' &lt;br /&gt;Anne Hjort, tilrettelægger på 'Årgang 0'&lt;br /&gt;Rachel Ellebye, medvirkende i 'Årgang 0'&lt;br /&gt;Stephanie Siguenza, medvirkende i 'Årgang 0'&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/53641113
+   </guid>
+   <pubDate>
+    Wed, 26 Apr 2023 16:16:33 +0000
+   </pubDate>
+   <enclosure length="51150720" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53641113/rgang_0_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Den danske dokumentarserie 'Årgang 0', hvor vi følger en lille håndfuld børn og deres familier, fra de blev født ved årtusindskiftede til de kunne fejre 18 års fødselsdag, har været en samlingspunkt for mange danske familier. I dagens særafsnit af...
+   </itunes:subtitle>
+   <itunes:summary>
+    Den danske dokumentarserie 'Årgang 0', hvor vi følger en lille håndfuld børn og deres familier, fra de blev født ved årtusindskiftede til de kunne fejre 18 års fødselsdag, har været en samlingspunkt for mange danske familier. I dagens særafsnit af RealityRadio tager vi i selskab med to af de medvirkende og to fra produktionen en tur down memory lane og taler om de største øjeblikke fra dokumentaren, relationen mellem de mevirkende og produktionsfolkene, de etiske overvejelser og meget meget mere. &lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Jan Bacher Dirchsen, tilrettelægger og producent på 'Årgang 0' &lt;br /&gt;Anne Hjort, tilrettelægger på 'Årgang 0'&lt;br /&gt;Rachel Ellebye, medvirkende i 'Årgang 0'&lt;br /&gt;Stephanie Siguenza, medvirkende i 'Årgang 0'&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski &lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3193
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Mathias fra 'Fboy Island': "Jeg græd hver anden dag"
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mathias-fra-fboy-island-jeg-graed-hver-anden-dag--53580761
+   </link>
+   <description>
+    (05:35) Kan du spotte en fuckboy? I realityprogrammet 'Fboy Island' forsøger tre danske kvinder at navigere mellem selverklærede fuckboys og nice guys for at finde kærligheden. Men det er ikke en nem opgave, for fyrene lyver og kæmper med næb og klør for enten at vinde kvinden eller den store pengepremie. Men for nogle blev konkurrencen og presset lidt for hårdt.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Lady Lola Matwara, deltager i Fboy Island&lt;br /&gt;Mantas Hansen, deltager i Fboy Island&lt;br /&gt;Mathias Ciesla Kjeldsen, deltager i Fboy Island&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/53580761
+   </guid>
+   <pubDate>
+    Wed, 19 Apr 2023 16:17:57 +0000
+   </pubDate>
+   <enclosure length="51856128" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53580761/fboy_island_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (05:35) Kan du spotte en fuckboy? I realityprogrammet 'Fboy Island' forsøger tre danske kvinder at navigere mellem selverklærede fuckboys og nice guys for at finde kærligheden. Men det er ikke en nem opgave, for fyrene lyver og kæmper med næb og klør...
+   </itunes:subtitle>
+   <itunes:summary>
+    (05:35) Kan du spotte en fuckboy? I realityprogrammet 'Fboy Island' forsøger tre danske kvinder at navigere mellem selverklærede fuckboys og nice guys for at finde kærligheden. Men det er ikke en nem opgave, for fyrene lyver og kæmper med næb og klør for enten at vinde kvinden eller den store pengepremie. Men for nogle blev konkurrencen og presset lidt for hårdt.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Lady Lola Matwara, deltager i Fboy Island&lt;br /&gt;Mantas Hansen, deltager i Fboy Island&lt;br /&gt;Mathias Ciesla Kjeldsen, deltager i Fboy Island&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3237
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kan en tur 'Ombord' ændre dit liv?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kan-en-tur-ombord-aendre-dit-liv--53510707
+   </link>
+   <description>
+    (08:54) “Kan man finde sig selv ved at rejse ud i det ukendte?” Det undersøger otte unge i TV2’s realityprogram ‘Ombord’. De har hver især en udfordring, de kæmper med i hverdagen, men på en båd i det filipinske øhav skal de i løbet af 30 dage og med hjælp fra de andre deltagere finde svar. I dagens afsnit gæster Josephine, der kæmper med massiv dødsangst, og Emma, der efter et massivt vægttab forsøger at finde sig tilrette i sin nye krop.&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Josephine Heilmann, deltager i TV2s realityprogram Ombord&lt;br /&gt;Emma Hansen Davidsen, deltager i TV2s realityprogram Ombord&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/53510707
+   </guid>
+   <pubDate>
+    Wed, 12 Apr 2023 16:16:56 +0000
+   </pubDate>
+   <enclosure length="53256576" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53510707/ombord_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (08:54) “Kan man finde sig selv ved at rejse ud i det ukendte?” Det undersøger otte unge i TV2’s realityprogram ‘Ombord’. De har hver især en udfordring, de kæmper med i hverdagen, men på en båd i det filipinske øhav skal de i løbet af 30 dage og med...
+   </itunes:subtitle>
+   <itunes:summary>
+    (08:54) “Kan man finde sig selv ved at rejse ud i det ukendte?” Det undersøger otte unge i TV2’s realityprogram ‘Ombord’. De har hver især en udfordring, de kæmper med i hverdagen, men på en båd i det filipinske øhav skal de i løbet af 30 dage og med hjælp fra de andre deltagere finde svar. I dagens afsnit gæster Josephine, der kæmper med massiv dødsangst, og Emma, der efter et massivt vægttab forsøger at finde sig tilrette i sin nye krop.&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Josephine Heilmann, deltager i TV2s realityprogram Ombord&lt;br /&gt;Emma Hansen Davidsen, deltager i TV2s realityprogram Ombord&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3325
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Historien bag 'Paradise Hotel'
+   </title>
+   <link>
+    https://www.spreaker.com/episode/historien-bag-paradise-hotel--53453641
+   </link>
+   <description>
+    Paradise Hotel har på TV3 rullet over din skærm i 18 år. Men de seneste år har det ikoniske realityprogram gennemgået nogle ændringer, der ikke er faldet i lige god jord hos alle. I dagens særafsnit af RealityRadio tager vi i selskab med to mænd fra produktionen, der sammenlagt har været med i (næsten) alle 18 år, en tur down memory lane og får genopfrisket de vildeste scener, største paradisoer - og ikke mindst et sjældent indblik bag kameraet.&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Jesper Kynde, tilknyttet Paradise Hotel sæson 1-7 samt Paradise sæson 4 som &lt;br /&gt;tilrettelægger, redaktionschef, postproducer og TV3-redaktør &lt;br /&gt;Rasmus Gejl, tilknyttet Paradise Hotel sæson 12, 13, 16, 17, 18 samt Paradise sæson 2 som redaktionschef, postproducer, kontrolrumsredaktør og posttilrettelægger&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/53453641
+   </guid>
+   <pubDate>
+    Wed, 05 Apr 2023 17:08:23 +0000
+   </pubDate>
+   <enclosure length="53396736" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53453641/historien_bag_ph_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Paradise Hotel har på TV3 rullet over din skærm i 18 år. Men de seneste år har det ikoniske realityprogram gennemgået nogle ændringer, der ikke er faldet i lige god jord hos alle. I dagens særafsnit af RealityRadio tager vi i selskab med to mænd fra...
+   </itunes:subtitle>
+   <itunes:summary>
+    Paradise Hotel har på TV3 rullet over din skærm i 18 år. Men de seneste år har det ikoniske realityprogram gennemgået nogle ændringer, der ikke er faldet i lige god jord hos alle. I dagens særafsnit af RealityRadio tager vi i selskab med to mænd fra produktionen, der sammenlagt har været med i (næsten) alle 18 år, en tur down memory lane og får genopfrisket de vildeste scener, største paradisoer - og ikke mindst et sjældent indblik bag kameraet.&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Jesper Kynde, tilknyttet Paradise Hotel sæson 1-7 samt Paradise sæson 4 som &lt;br /&gt;tilrettelægger, redaktionschef, postproducer og TV3-redaktør &lt;br /&gt;Rasmus Gejl, tilknyttet Paradise Hotel sæson 12, 13, 16, 17, 18 samt Paradise sæson 2 som redaktionschef, postproducer, kontrolrumsredaktør og posttilrettelægger&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3334
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Fie og Lucas: 'Første til verdens ende' var en rutsjebanetur
+   </title>
+   <link>
+    https://www.spreaker.com/episode/fie-og-lucas-forste-til-verdens-ende-var-en-rutsjebanetur--53364789
+   </link>
+   <description>
+    (05:34) Kæresteparret Fie og Lucas har i TV2's realityprogram 'Først til verdens ende' kastet sig ud i noget af et eventyr, der har budt på narkodealer, hungryness, angstanfald og pepsi max. Kæresteparret har ikke tidligere haft råd til at rejse sammen, da de hver især i en ung alder tog nogle "dumme, økonomiske beslutninger". I dagens afsnit af RealityRadio kommer vi tæt på kæresteparret og får et indblik i Fies angstanfald, parrets kæmpe pengegæld og de største øjeblikke fra New York til Buenos Aires.&lt;br /&gt;&lt;br /&gt;(47:43) Og så tjekker vi ind hos tvillingerne fra den tidligere sæson af 'Først til verdens ende', der inden optagelserne ikke havde talt sammen i næsten 18 år. For har deres relation ændret sig efter optagelserne, eller er de røget tilbage til de gamle roller.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Lucas Schweitz, deltager i 'Først til verdens ende' sæson 3&lt;br /&gt;Anne Sophie Nygaard, deltager i 'Først til verdens ende' sæson 3&lt;br /&gt;René Mallin, deltager i 'Først til verdens ende' sæson 2&lt;br /&gt;Michael Mallin, deltager i 'Først til verdens ende' sæson 2&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/53364789
+   </guid>
+   <pubDate>
+    Tue, 28 Mar 2023 12:47:33 +0000
+   </pubDate>
+   <enclosure length="53014656" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53364789/ftve_fie_lucas_podcastttt.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (05:34) Kæresteparret Fie og Lucas har i TV2's realityprogram 'Først til verdens ende' kastet sig ud i noget af et eventyr, der har budt på narkodealer, hungryness, angstanfald og pepsi max. Kæresteparret har ikke tidligere haft råd til at rejse...
+   </itunes:subtitle>
+   <itunes:summary>
+    (05:34) Kæresteparret Fie og Lucas har i TV2's realityprogram 'Først til verdens ende' kastet sig ud i noget af et eventyr, der har budt på narkodealer, hungryness, angstanfald og pepsi max. Kæresteparret har ikke tidligere haft råd til at rejse sammen, da de hver især i en ung alder tog nogle "dumme, økonomiske beslutninger". I dagens afsnit af RealityRadio kommer vi tæt på kæresteparret og får et indblik i Fies angstanfald, parrets kæmpe pengegæld og de største øjeblikke fra New York til Buenos Aires.&lt;br /&gt;&lt;br /&gt;(47:43) Og så tjekker vi ind hos tvillingerne fra den tidligere sæson af 'Først til verdens ende', der inden optagelserne ikke havde talt sammen i næsten 18 år. For har deres relation ændret sig efter optagelserne, eller er de røget tilbage til de gamle roller.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Lucas Schweitz, deltager i 'Først til verdens ende' sæson 3&lt;br /&gt;Anne Sophie Nygaard, deltager i 'Først til verdens ende' sæson 3&lt;br /&gt;René Mallin, deltager i 'Først til verdens ende' sæson 2&lt;br /&gt;Michael Mallin, deltager i 'Først til verdens ende' sæson 2&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3310
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Historien bag 'Landmand søger kærlighed'
+   </title>
+   <link>
+    https://www.spreaker.com/episode/historien-bag-landmand-soger-kaerlighed--53299053
+   </link>
+   <description>
+    TV2’s populære datingprogram, Landmand søger kærlighed, skyder til sommer sæson 10 i gang. I dagens særafsnit af RealityRadio dykker vi i selskab med nogle af de produktionsfolk, der har været med fra begyndelsen, ned i historien bag programmet - og fremhæver de allerstørste øjeblikke fra programmet. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Mads Volck, TV2’s Underholdningsredaktør&lt;br /&gt;Mette Beck Lisberg, redaktionschef på Landmand søger kærlighed&lt;br /&gt;Lene Beier, vært på Landmand søger kærlighed&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/53299053
+   </guid>
+   <pubDate>
+    Wed, 22 Mar 2023 17:18:12 +0000
+   </pubDate>
+   <enclosure length="51375360" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53299053/landmand_s_ger_k_rlighed_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    TV2’s populære datingprogram, Landmand søger kærlighed, skyder til sommer sæson 10 i gang. I dagens særafsnit af RealityRadio dykker vi i selskab med nogle af de produktionsfolk, der har været med fra begyndelsen, ned i historien bag programmet - og...
+   </itunes:subtitle>
+   <itunes:summary>
+    TV2’s populære datingprogram, Landmand søger kærlighed, skyder til sommer sæson 10 i gang. I dagens særafsnit af RealityRadio dykker vi i selskab med nogle af de produktionsfolk, der har været med fra begyndelsen, ned i historien bag programmet - og fremhæver de allerstørste øjeblikke fra programmet. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Mads Volck, TV2’s Underholdningsredaktør&lt;br /&gt;Mette Beck Lisberg, redaktionschef på Landmand søger kærlighed&lt;br /&gt;Lene Beier, vært på Landmand søger kærlighed&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3207
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Mathias Hjort om mobning i reality-tv
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mathias-hjort-om-mobning-i-reality-tv--53211393
+   </link>
+   <description>
+    (10:37) Vi har set flere eksempler på mobning i reality-tv. Senest i realityprogrammet Good Luck Guys, hvor den tidligere paradise-deltager Mathias Hjort følte sig mobbet. Men er mobning en uundgåelig del af reality? Hvis nej, hvem har så ansvaret for at få den usunde kultur stoppet? &lt;br /&gt;&lt;br /&gt;Gæst: &lt;br /&gt;Mathias Hjort, deltager i Paradise Hotel sæson 14 i 2018 og sæson 17 i 2021&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/53211393
+   </guid>
+   <pubDate>
+    Wed, 15 Mar 2023 17:12:14 +0000
+   </pubDate>
+   <enclosure length="51485952" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53211393/mathias_hjort_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (10:37) Vi har set flere eksempler på mobning i reality-tv. Senest i realityprogrammet Good Luck Guys, hvor den tidligere paradise-deltager Mathias Hjort følte sig mobbet. Men er mobning en uundgåelig del af reality? Hvis nej, hvem har så ansvaret for...
+   </itunes:subtitle>
+   <itunes:summary>
+    (10:37) Vi har set flere eksempler på mobning i reality-tv. Senest i realityprogrammet Good Luck Guys, hvor den tidligere paradise-deltager Mathias Hjort følte sig mobbet. Men er mobning en uundgåelig del af reality? Hvis nej, hvem har så ansvaret for at få den usunde kultur stoppet? &lt;br /&gt;&lt;br /&gt;Gæst: &lt;br /&gt;Mathias Hjort, deltager i Paradise Hotel sæson 14 i 2018 og sæson 17 i 2021&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3214
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Er der et ligestillingsproblem i reality-branchen?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/er-der-et-ligestillingsproblem-i-reality-branchen--53137414
+   </link>
+   <description>
+    I anledningen af kvindernes internationale kampdag gør RealityRadio status på realitybranchen i forhold til ligestilling mellem mænd og kvinder. For hvordan bliver kvinder i reality-tv portrætteret, omtalt og behandlet? Og hvem har ansvaret for at ændre de problematikker, der fortsat måtte være i branchen? &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Jill Liv Nielsen, vinder af første sæson af Big Brother i 2001 og Korpset i 2022&lt;br /&gt;Samanta Stojkovic, deltager i Paradise Hotel sæson 6 i 2010 og Divaer i junglen i 2012&lt;br /&gt;Amanda Sascha, deltager i De dyre piger sæson 1 i 2021 og Robinson Ekspeditionen i 2022&lt;br /&gt;Julie Iben Kristensen, deltager i Paradise sæson 2 i 2023&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/53137414
+   </guid>
+   <pubDate>
+    Wed, 08 Mar 2023 18:17:35 +0000
+   </pubDate>
+   <enclosure length="51615744" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53137414/kampdag_reality.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I anledningen af kvindernes internationale kampdag gør RealityRadio status på realitybranchen i forhold til ligestilling mellem mænd og kvinder. For hvordan bliver kvinder i reality-tv portrætteret, omtalt og behandlet? Og hvem har ansvaret for at...
+   </itunes:subtitle>
+   <itunes:summary>
+    I anledningen af kvindernes internationale kampdag gør RealityRadio status på realitybranchen i forhold til ligestilling mellem mænd og kvinder. For hvordan bliver kvinder i reality-tv portrætteret, omtalt og behandlet? Og hvem har ansvaret for at ændre de problematikker, der fortsat måtte være i branchen? &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Jill Liv Nielsen, vinder af første sæson af Big Brother i 2001 og Korpset i 2022&lt;br /&gt;Samanta Stojkovic, deltager i Paradise Hotel sæson 6 i 2010 og Divaer i junglen i 2012&lt;br /&gt;Amanda Sascha, deltager i De dyre piger sæson 1 i 2021 og Robinson Ekspeditionen i 2022&lt;br /&gt;Julie Iben Kristensen, deltager i Paradise sæson 2 i 2023&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3222
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    25 år med reality - så vildt har det været
+   </title>
+   <link>
+    https://www.spreaker.com/episode/25-ar-med-reality-sa-vildt-har-det-vaeret--52912829
+   </link>
+   <description>
+    I år er det 25 år siden, at det første reality-program dukkede op på dansk tv, og siden har du kunne svælge dig i adskillige reality-programmer, hvor almindelige mennesker deler ud af deres oplevelser, liv og følelser. Der er sket utrolig meget på den danske reality-scene, siden Robinson Ekspiditionen dukkede op på skærmen i 1998. Både på og bag ved skærmen. Og den udviklingen dykker RealityRadio ned i i dag.&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Rasmus Gejl, redaktionschef, tilrettelægger, postproducer og kontrolrumsredaktør&lt;br /&gt;Henrik Høgh-Olesen, professor i social-og personlighedspsykologi på Psykologisk Institut ved Aarhus Universitet&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/52912829
+   </guid>
+   <pubDate>
+    Wed, 01 Mar 2023 17:59:51 +0000
+   </pubDate>
+   <enclosure length="52332288" type="audio/mpeg" url="https://api.spreaker.com/download/episode/52912829/reality_25_r.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I år er det 25 år siden, at det første reality-program dukkede op på dansk tv, og siden har du kunne svælge dig i adskillige reality-programmer, hvor almindelige mennesker deler ud af deres oplevelser, liv og følelser. Der er sket utrolig meget på den...
+   </itunes:subtitle>
+   <itunes:summary>
+    I år er det 25 år siden, at det første reality-program dukkede op på dansk tv, og siden har du kunne svælge dig i adskillige reality-programmer, hvor almindelige mennesker deler ud af deres oplevelser, liv og følelser. Der er sket utrolig meget på den danske reality-scene, siden Robinson Ekspiditionen dukkede op på skærmen i 1998. Både på og bag ved skærmen. Og den udviklingen dykker RealityRadio ned i i dag.&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Rasmus Gejl, redaktionschef, tilrettelægger, postproducer og kontrolrumsredaktør&lt;br /&gt;Henrik Høgh-Olesen, professor i social-og personlighedspsykologi på Psykologisk Institut ved Aarhus Universitet&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3267
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Thomas Rode om sammenstødet med Mille Gori i 'Øen VIP'
+   </title>
+   <link>
+    https://www.spreaker.com/episode/thomas-rode-om-sammenstodet-med-mille-gori-i-oen-vip--52814506
+   </link>
+   <description>
+    (08:44) Bølgerne går højt, når otte kendte danskere i programmet Øen VIP skal forsøge at overleve på en øde, tropisk ø i Stillehavet. Og tonen er særligt skarp mellem tv-vært Mille Gori og kok Thomas Rode. Men hvorfor endte netop de to med at clashe op til flere gange på øen? &lt;br /&gt;&lt;br /&gt;Gæst: &lt;br /&gt;Thomas Rode Andersen, kok&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/52814506
+   </guid>
+   <pubDate>
+    Wed, 22 Feb 2023 17:19:01 +0000
+   </pubDate>
+   <enclosure length="51674880" type="audio/mpeg" url="https://api.spreaker.com/download/episode/52814506/reality_en_vip_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (08:44) Bølgerne går højt, når otte kendte danskere i programmet Øen VIP skal forsøge at overleve på en øde, tropisk ø i Stillehavet. Og tonen er særligt skarp mellem tv-vært Mille Gori og kok Thomas Rode. Men hvorfor endte netop de to med at clashe...
+   </itunes:subtitle>
+   <itunes:summary>
+    (08:44) Bølgerne går højt, når otte kendte danskere i programmet Øen VIP skal forsøge at overleve på en øde, tropisk ø i Stillehavet. Og tonen er særligt skarp mellem tv-vært Mille Gori og kok Thomas Rode. Men hvorfor endte netop de to med at clashe op til flere gange på øen? &lt;br /&gt;&lt;br /&gt;Gæst: &lt;br /&gt;Thomas Rode Andersen, kok&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3226
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Er det nye 'Paradise' en fiasko?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/er-det-nye-paradise-en-fiasko--52672555
+   </link>
+   <description>
+    Paradise, der er et af landets største realityprogrammer, har gennemgået store ændringer de seneste to sæsoner. Men spørgsmålet er, om ændringerne er for det bedre, eller om produktionsselskabet gør klogt i at ændre 'Paradise' tilbage til 'Paradise Hotel'? For kan realityprogrammet både være woke og underholdende? De to vindere af Paradise sæson 2 kommer med deres indspark til debatten. &lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Freya Sollid, vinder af Paradise sæson 2&lt;br /&gt;Methea Baltzer, vinder af Paradise sæson 2&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/52672555
+   </guid>
+   <pubDate>
+    Wed, 08 Feb 2023 17:41:46 +0000
+   </pubDate>
+   <enclosure length="52290048" type="audio/mpeg" url="https://api.spreaker.com/download/episode/52672555/reality_paradise_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Paradise, der er et af landets største realityprogrammer, har gennemgået store ændringer de seneste to sæsoner. Men spørgsmålet er, om ændringerne er for det bedre, eller om produktionsselskabet gør klogt i at ændre 'Paradise' tilbage til 'Paradise...
+   </itunes:subtitle>
+   <itunes:summary>
+    Paradise, der er et af landets største realityprogrammer, har gennemgået store ændringer de seneste to sæsoner. Men spørgsmålet er, om ændringerne er for det bedre, eller om produktionsselskabet gør klogt i at ændre 'Paradise' tilbage til 'Paradise Hotel'? For kan realityprogrammet både være woke og underholdende? De to vindere af Paradise sæson 2 kommer med deres indspark til debatten. &lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Freya Sollid, vinder af Paradise sæson 2&lt;br /&gt;Methea Baltzer, vinder af Paradise sæson 2&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3265
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Realitydeltagere var forsøgskaniner i 'Good Luck Guys'
+   </title>
+   <link>
+    https://www.spreaker.com/episode/realitydeltagere-var-forsogskaniner-i-good-luck-guys--52606811
+   </link>
+   <description>
+    (11:04) Sult, hedeslag, sår med betændelse og dyr, gråd, ensomhed, uvished, kedsomhed og sammenstød. Sådan beskriver nogle af deltagerne oplevelsen af at være med i det nye realityprogram ‘Good Luck Guys’, der lige nu bliver sendt på Amazon Prime Video. I dagens afsnit af RealityRadio kommer vi bag kameraet og får et indblik i forholdene under produktionen. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Kirstine Natalie, deltager i Good Luck Guys&lt;br /&gt;Camilla Frederikke, deltager i Good Luck Guys&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/52606811
+   </guid>
+   <pubDate>
+    Wed, 01 Feb 2023 17:00:17 +0000
+   </pubDate>
+   <enclosure length="52189824" type="audio/mpeg" url="https://api.spreaker.com/download/episode/52606811/good_luck_guys_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (11:04) Sult, hedeslag, sår med betændelse og dyr, gråd, ensomhed, uvished, kedsomhed og sammenstød. Sådan beskriver nogle af deltagerne oplevelsen af at være med i det nye realityprogram ‘Good Luck Guys’, der lige nu bliver sendt på Amazon Prime...
+   </itunes:subtitle>
+   <itunes:summary>
+    (11:04) Sult, hedeslag, sår med betændelse og dyr, gråd, ensomhed, uvished, kedsomhed og sammenstød. Sådan beskriver nogle af deltagerne oplevelsen af at være med i det nye realityprogram ‘Good Luck Guys’, der lige nu bliver sendt på Amazon Prime Video. I dagens afsnit af RealityRadio kommer vi bag kameraet og får et indblik i forholdene under produktionen. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Kirstine Natalie, deltager i Good Luck Guys&lt;br /&gt;Camilla Frederikke, deltager i Good Luck Guys&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3258
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Er et opgør med stoffer et opgør med realityverden?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/er-et-opgor-med-stoffer-et-opgor-med-realityverden--52539861
+   </link>
+   <description>
+    (01:29) I datingprogrammet 'En svedig date' på Prime Video dater en række letpåklædte singler i en sauna. Men hvorfor søren melder man sig til sådan et program?&lt;br /&gt;&lt;br /&gt;(12:32) Realitybranchen er kendt for sine vilde fester med alkohol og stoffer i lange baner. Den festlige tilværelse førte til et reelt kokainmisbrug for Philip May, der i forvejen var på flugt fra sine traumer fra militæret. Men hvordan lykkedes det Philip at komme ud af sit misbrug - og kan han som eks-misbruger stadig tage til realityfester?&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Jeppe Zingg, deltager i En Svedig Date&lt;br /&gt;Philip May, deltager i Paradise Hotel &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/52539861
+   </guid>
+   <pubDate>
+    Wed, 25 Jan 2023 17:29:04 +0000
+   </pubDate>
+   <enclosure length="51746304" type="audio/mpeg" url="https://api.spreaker.com/download/episode/52539861/realityradio_stoffer.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (01:29) I datingprogrammet 'En svedig date' på Prime Video dater en række letpåklædte singler i en sauna. Men hvorfor søren melder man sig til sådan et program?
+
+(12:32) Realitybranchen er kendt for sine vilde fester med alkohol og stoffer i lange...
+   </itunes:subtitle>
+   <itunes:summary>
+    (01:29) I datingprogrammet 'En svedig date' på Prime Video dater en række letpåklædte singler i en sauna. Men hvorfor søren melder man sig til sådan et program?&lt;br /&gt;&lt;br /&gt;(12:32) Realitybranchen er kendt for sine vilde fester med alkohol og stoffer i lange baner. Den festlige tilværelse førte til et reelt kokainmisbrug for Philip May, der i forvejen var på flugt fra sine traumer fra militæret. Men hvordan lykkedes det Philip at komme ud af sit misbrug - og kan han som eks-misbruger stadig tage til realityfester?&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Jeppe Zingg, deltager i En Svedig Date&lt;br /&gt;Philip May, deltager i Paradise Hotel &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3231
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Fra butt plug til slåskamp - Reality Awards' vildeste øjeblikke
+   </title>
+   <link>
+    https://www.spreaker.com/episode/fra-butt-plug-til-slaskamp-reality-awards-vildeste-ojeblikke--52473727
+   </link>
+   <description>
+    (06:37) I dag bliver den røde løber - for 10. gang - rullet ud til realitybranchens største awardshow, nemlig Reality Awards. I dagens udgave af RealityRadio gennemgår vi de mest pinlige, sjove, romantiske, letpåklædte og skandaløse øjeblikke i awardshowets historie - og så får vi slået fast, hvorfor awardshowet er så vigtigt for realitydeltagere og realitybranchen.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Kit Nielsen, stifter og ejer af Reality Awards&lt;br /&gt;Philip May, realitydeltager&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/52473727
+   </guid>
+   <pubDate>
+    Wed, 18 Jan 2023 17:13:29 +0000
+   </pubDate>
+   <enclosure length="51974016" type="audio/mpeg" url="https://api.spreaker.com/download/episode/52473727/reality_awards_podcast.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    (06:37) I dag bliver den røde løber - for 10. gang - rullet ud til realitybranchens største awardshow, nemlig Reality Awards. I dagens udgave af RealityRadio gennemgår vi de mest pinlige, sjove, romantiske, letpåklædte og skandaløse øjeblikke i...
+   </itunes:subtitle>
+   <itunes:summary>
+    (06:37) I dag bliver den røde løber - for 10. gang - rullet ud til realitybranchens største awardshow, nemlig Reality Awards. I dagens udgave af RealityRadio gennemgår vi de mest pinlige, sjove, romantiske, letpåklædte og skandaløse øjeblikke i awardshowets historie - og så får vi slået fast, hvorfor awardshowet er så vigtigt for realitydeltagere og realitybranchen.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Kit Nielsen, stifter og ejer af Reality Awards&lt;br /&gt;Philip May, realitydeltager&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3245
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Fra dødstrusler til kærlighed - realityverdens udvikling ift. queermilljøet
+   </title>
+   <link>
+    https://www.spreaker.com/episode/fra-dodstrusler-til-kaerlighed-realityverdens-udvikling-ift-queermilljoet--52413947
+   </link>
+   <description>
+    "Jeg er stolt af, at jeg har kunnet skrive historie for mit queermiljø." Sådan lyder det fra paradise-vært Emil Olsen. Man hvad er det, Emil har skrevet i paradise-historiebøgerne? Og hvordan er queerpersoner blevet behandlet og portrætteret, hvis vi bladrer tilbage til 2012, og sammenligner det med i dag? RealityRadio inviterer til historietime i realityverdens udvikling ift. queermiljøet. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Emil Olsen, vært på Paradise Hotel sæson 18 og Paradise sæson 1 og 2&lt;br /&gt;Nichole Valentina, tidl. paradise-deltager sæson 8, 2012&lt;br /&gt;Frederikke Marciniak, paradise-deltager sæson 2, 2022&lt;br /&gt;Mads Andersen, adjunk ved film og medievidenskab på Københavns Universitet&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/52413947
+   </guid>
+   <pubDate>
+    Wed, 11 Jan 2023 17:40:44 +0000
+   </pubDate>
+   <enclosure length="52151424" type="audio/mpeg" url="https://api.spreaker.com/download/episode/52413947/reality_og_queer.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    "Jeg er stolt af, at jeg har kunnet skrive historie for mit queermiljø." Sådan lyder det fra paradise-vært Emil Olsen. Man hvad er det, Emil har skrevet i paradise-historiebøgerne? Og hvordan er queerpersoner blevet behandlet og portrætteret, hvis vi...
+   </itunes:subtitle>
+   <itunes:summary>
+    "Jeg er stolt af, at jeg har kunnet skrive historie for mit queermiljø." Sådan lyder det fra paradise-vært Emil Olsen. Man hvad er det, Emil har skrevet i paradise-historiebøgerne? Og hvordan er queerpersoner blevet behandlet og portrætteret, hvis vi bladrer tilbage til 2012, og sammenligner det med i dag? RealityRadio inviterer til historietime i realityverdens udvikling ift. queermiljøet. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Emil Olsen, vært på Paradise Hotel sæson 18 og Paradise sæson 1 og 2&lt;br /&gt;Nichole Valentina, tidl. paradise-deltager sæson 8, 2012&lt;br /&gt;Frederikke Marciniak, paradise-deltager sæson 2, 2022&lt;br /&gt;Mads Andersen, adjunk ved film og medievidenskab på Københavns Universitet&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3256
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Paradise-deltagere sælger deres sjæl til Mastiff
+   </title>
+   <link>
+    https://www.spreaker.com/episode/paradise-deltagere-saelger-deres-sjael-til-mastiff--52353099
+   </link>
+   <description>
+    “Grov udnyttelse”, “jerngreb” og “slavelignende forhold”. Sådan lyder kritikken fra eksperter og politikere af den kontrakt, paradisedeltagere underskriver inden programmet. Men hvor slem er den egentlig? Og hvorfor underskriver paradisedeltagere kontrakten, hvis den er så urimelig og ensidig? &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Monique von Appen, paradisedeltager og -vinder af sæson 11, 2015&lt;br /&gt;Damien Smith, paradisedeltager af sæson 19, 2022&lt;br /&gt;Peter Breum, partner og advokat i advokatfirmaet ‘SIRIUS advokater’&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/52353099
+   </guid>
+   <pubDate>
+    Wed, 04 Jan 2023 17:54:46 +0000
+   </pubDate>
+   <enclosure length="51734784" type="audio/mpeg" url="https://api.spreaker.com/download/episode/52353099/reality_040123.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    “Grov udnyttelse”, “jerngreb” og “slavelignende forhold”. Sådan lyder kritikken fra eksperter og politikere af den kontrakt, paradisedeltagere underskriver inden programmet. Men hvor slem er den egentlig? Og hvorfor underskriver paradisedeltagere...
+   </itunes:subtitle>
+   <itunes:summary>
+    “Grov udnyttelse”, “jerngreb” og “slavelignende forhold”. Sådan lyder kritikken fra eksperter og politikere af den kontrakt, paradisedeltagere underskriver inden programmet. Men hvor slem er den egentlig? Og hvorfor underskriver paradisedeltagere kontrakten, hvis den er så urimelig og ensidig? &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Monique von Appen, paradisedeltager og -vinder af sæson 11, 2015&lt;br /&gt;Damien Smith, paradisedeltager af sæson 19, 2022&lt;br /&gt;Peter Breum, partner og advokat i advokatfirmaet ‘SIRIUS advokater’&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Cecilie Dumanski&lt;br /&gt;&lt;br /&gt;Reporter og producer:&lt;br /&gt;Maja F. K. Østergaard
+   </itunes:summary>
+   <itunes:duration>
+    3230
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/968690a56646336e2a3dce5c19008c87.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

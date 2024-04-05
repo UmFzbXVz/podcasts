@@ -1,42 +1,186 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Delt på nettet</title>
-		<link>https://web.24syv.dk/channels/4922</link>
-		<description>På Reddit deles, sælges og byttes nøgenbilleder og videoer med seksuelt krænkende indhold fra f.eks. Umbrella-sagen og Viborg-mappen. Camilla Michelle Mikkelsen og Kevin Shakir har sat sig for at undersøge, hvem det er, der deler og hvorfor, de gør det. Vi taler med dem som deler ulovligt indhold, med en kvinde, der har været udsat for hævnporno, juraeksperter og rigspolitiet.Ved du noget? Kontakt redaktionen:Mail: camillamichelle@radioloud.dkSMS/Krypteret besked gennem appen Signal: 31 32 05 81Radio LOUDs hovedtelefon: 32 42 17 14</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/760/1733fb2a30ae178db60578d4adb93bf6.jpg"/>
-		<item>
-			<title>#2 - Nanas revanche</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41063488/reddit_afs2_mix1.mp3</link>
-			<description>Nana har været udsat for hævnporno. For nogle år siden blev nøgenbilleder og sexvideoer af hende delt på hendes skole. Imod hendes vilje. Flere hundrede er allerede dømt i sager, der handler om ulovlig deling af nøgenbilleder og seksuelt krænkende videoer af kvinder og mindreårige. Mange er derfor også dømt for besiddelse af børneporno. Alligevel eksisterer der stadig en kæmpe salgs- og byttekultur på nettet. Noget af det, der bliver efterspurgt, solgt og byttet, er materiale, der er kendt som Viborgmappen og Umbrella-sagen. Her i alt 778 personer fået domme for enten besiddelse af børneporno eller for den krænkende billeddeling. Tilrettelæggere: Camilla Michelle Mikkelsen og Kevin Shakir. Vært: Camilla Michelle Mikkelsen. Komposition: Peter Kristian Sejersbøl. Redigering og mix: Kim G. Hansen. Redaktør: Andrea Bøtker</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41063488/reddit_afs2_mix1.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:06:51 +0000</pubDate>
-			<itunes:duration>00:16:14</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41063488/reddit_afs2_mix1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>#3 - Influencerens straf</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41570012/loud_delt_p_nettet_ep_3_podcast_16_lufs.mp3</link>
-			<description>Mia er dømt for at dele børneporno. Og nu er lærerdrømmen usikker.
-I 2017 sender Mia en besked til sin veninde på Messenger. Den indeholder en Umbrella-video med seksuelt krænkende indhold af to 15-årige. I dag er Mia influencer på tværs af flere sociale medier, hvor hun blandt andet på TikTok har over 100.000 følgere. I september 2020 blev hun indkaldt til retten i Esbjerg. Her modtog hun en dom for at videredele børneporno, og det har også givet hende en plet på børneattesten. En plet der har lammet hendes fremtidsplaner om at blive folkeskolelærer. Nu vælger hun at stå frem for at fortælle om sin dom, om deling af børneporno, og om alt det, der følger med. 
-
-Tilrettelæggere og værter: Camilla Michelle Mikkelsen og Kevin Shakir. 
-Komposition, redigering og mix: Peter Kristian Sejersbøl. 
-Redaktør: Andrea Bøtker.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41570012/loud_delt_p_nettet_ep_3_podcast_16_lufs.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:06:51 +0000</pubDate>
-			<itunes:duration>00:22:10</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41570012/loud_delt_p_nettet_ep_3_podcast_16_lufs.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>#1 - Det ulovlige marked på Reddit</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41061284/reddit_afs1_mix2.mp3</link>
-			<description>”Sebastian” sælger seksuelle billeder og videoer, af kendte, danske kvinder på nettet. Han er 17 år, går i 2.g og drømmer om at blive politibetjent. Bliver han taget for sine handler, risikerer han at få en bøde, en plet på straffeattesten eller en fængselsdom. Sebastian er kun én af mange brugere, som sælger ulovligt indhold på flere danske Reddit-fora. Der er tusindvis af medlemmer i disse fora, hvor der henover 2020 er etableret et ulovligt marked. Der organiserer anonyme brugere salg af nøgent indhold af kvinder og mindreårige piger, uden deres samtykke. Tilrettelæggere og værter: Camilla Michelle Mikkelsen og Kevin Shakir Komposition: Peter Kristian Sejersbøl Redigering og mix: Kim G. Hansen Redaktører: Andrea Bøtker og Jacob Jægesen-Wilkens.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41061284/reddit_afs1_mix2.mp3</guid>
-			<pubDate>Thu, 22 Jul 2021 09:06:51 +0000</pubDate>
-			<itunes:duration>00:30:37</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41061284/reddit_afs1_mix2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Delt på Nettet
+  </title>
+  <link>
+   https://loud.land/podcast/delt-paa-nettet
+  </link>
+  <description>
+   På Reddit deles, sælges og byttes nøgenbilleder og videoer med seksuelt krænkende indhold fra f.eks. Umbrella-sagen og Viborg-mappen. Camilla Michelle Mikkelsen og Kevin Shakir har sat sig for at undersøge, hvem det er, der deler og hvorfor, de gør det. Vi taler med dem som deler ulovligt indhold, med en kvinde, der har været udsat for hævnporno, juraeksperter og rigspolitiet.&lt;br /&gt;&lt;br /&gt;Ved du noget? Kontakt redaktionen:&lt;br /&gt;Mail: &lt;a href="mailto:camillamichelle@radioloud.dk"&gt;camillamichelle@radioloud.dk&lt;/a&gt;&lt;br /&gt;SMS/Krypteret besked gennem appen Signal: 31 32 05 81&lt;br /&gt;Radio LOUDs hovedtelefon: 32 42 17 14
+  </description>
+  <atom:link href="https://www.spreaker.com/show/4526610/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Documentary
+  </category>
+  <copyright>
+   521943
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1733fb2a30ae178db60578d4adb93bf6.jpg
+   </url>
+   <title>
+    Delt på Nettet
+   </title>
+   <link>
+    https://loud.land/podcast/delt-paa-nettet
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   LOUD
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    LOUD
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1733fb2a30ae178db60578d4adb93bf6.jpg"/>
+  <itunes:subtitle>
+   Forstå hvorfor nogen begynder at sælge andres nøgenbilleder.
+  </itunes:subtitle>
+  <itunes:summary>
+   På Reddit deles, sælges og byttes nøgenbilleder og videoer med seksuelt krænkende indhold fra f.eks. Umbrella-sagen og Viborg-mappen. Camilla Michelle Mikkelsen og Kevin Shakir har sat sig for at undersøge, hvem det er, der deler og hvorfor, de gør det. Vi taler med dem som deler ulovligt indhold, med en kvinde, der har været udsat for hævnporno, juraeksperter og rigspolitiet.&lt;br /&gt;&lt;br /&gt;Ved du noget? Kontakt redaktionen:&lt;br /&gt;Mail: &lt;a href="mailto:camillamichelle@radioloud.dk"&gt;camillamichelle@radioloud.dk&lt;/a&gt;&lt;br /&gt;SMS/Krypteret besked gennem appen Signal: 31 32 05 81&lt;br /&gt;Radio LOUDs hovedtelefon: 32 42 17 14
+  </itunes:summary>
+  <itunes:category text="Society &amp; Culture">
+   <itunes:category text="Documentary"/>
+  </itunes:category>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    #3 - Influencerens straf
+   </title>
+   <link>
+    https://www.spreaker.com/episode/3-influencerens-straf--41570012
+   </link>
+   <description>
+    Mia er dømt for at dele børneporno. Og nu er lærerdrømmen usikker.&lt;br /&gt;I 2017 sender Mia en besked til sin veninde på Messenger. Den indeholder en Umbrella-video med seksuelt krænkende indhold af to 15-årige. I dag er Mia influencer på tværs af flere sociale medier, hvor hun blandt andet på TikTok har over 100.000 følgere. I september 2020 blev hun indkaldt til retten i Esbjerg. Her modtog hun en dom for at videredele børneporno, og det har også givet hende en plet på børneattesten. En plet der har lammet hendes fremtidsplaner om at blive folkeskolelærer. Nu vælger hun at stå frem for at fortælle om sin dom, om deling af børneporno, og om alt det, der følger med. &lt;br /&gt;&lt;br /&gt;Tilrettelæggere og værter: Camilla Michelle Mikkelsen og Kevin Shakir. &lt;br /&gt;Komposition, redigering og mix: Peter Kristian Sejersbøl. &lt;br /&gt;Redaktør: Andrea Bøtker.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/41570012
+   </guid>
+   <pubDate>
+    Thu, 22 Oct 2020 02:00:16 +0000
+   </pubDate>
+   <enclosure length="21281226" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41570012/loud_delt_p_nettet_ep_3_podcast_16_lufs.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Mia er dømt for at dele børneporno. Og nu er lærerdrømmen usikker.
+I 2017 sender Mia en besked til sin veninde på Messenger. Den indeholder en Umbrella-video med seksuelt krænkende indhold af to 15-årige. I dag er Mia influencer på tværs af flere...
+   </itunes:subtitle>
+   <itunes:summary>
+    Mia er dømt for at dele børneporno. Og nu er lærerdrømmen usikker.&lt;br /&gt;I 2017 sender Mia en besked til sin veninde på Messenger. Den indeholder en Umbrella-video med seksuelt krænkende indhold af to 15-årige. I dag er Mia influencer på tværs af flere sociale medier, hvor hun blandt andet på TikTok har over 100.000 følgere. I september 2020 blev hun indkaldt til retten i Esbjerg. Her modtog hun en dom for at videredele børneporno, og det har også givet hende en plet på børneattesten. En plet der har lammet hendes fremtidsplaner om at blive folkeskolelærer. Nu vælger hun at stå frem for at fortælle om sin dom, om deling af børneporno, og om alt det, der følger med. &lt;br /&gt;&lt;br /&gt;Tilrettelæggere og værter: Camilla Michelle Mikkelsen og Kevin Shakir. &lt;br /&gt;Komposition, redigering og mix: Peter Kristian Sejersbøl. &lt;br /&gt;Redaktør: Andrea Bøtker.
+   </itunes:summary>
+   <itunes:duration>
+    1330
+   </itunes:duration>
+   <itunes:keywords>
+    dom,facebook,folkeskole,messenger,miasofienørgaard,miriammichaelsen,umbrella
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1733fb2a30ae178db60578d4adb93bf6.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    #2 - Nanas revanche
+   </title>
+   <link>
+    https://www.spreaker.com/episode/2-nanas-revanche--41063488
+   </link>
+   <description>
+    Nana har været udsat for hævnporno. For nogle år siden blev nøgenbilleder og sexvideoer af hende delt på hendes skole. Imod hendes vilje. Flere hundrede er allerede dømt i sager, der handler om ulovlig deling af nøgenbilleder og seksuelt krænkende videoer af kvinder og mindreårige. Mange er derfor også dømt for besiddelse af børneporno. Alligevel eksisterer der stadig en kæmpe salgs- og byttekultur på nettet. Noget af det, der bliver efterspurgt, solgt og byttet, er materiale, der er kendt som Viborgmappen og Umbrella-sagen. Her i alt 778 personer fået domme for enten besiddelse af børneporno eller for den krænkende billeddeling. Tilrettelæggere: Camilla Michelle Mikkelsen og Kevin Shakir. Vært: Camilla Michelle Mikkelsen. Komposition: Peter Kristian Sejersbøl. Redigering og mix: Kim G. Hansen. Redaktør: Andrea Bøtker
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/41063488
+   </guid>
+   <pubDate>
+    Wed, 23 Sep 2020 02:00:14 +0000
+   </pubDate>
+   <enclosure length="23391244" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41063488/reddit_afs2_mix1.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Nana har været udsat for hævnporno. For nogle år siden blev nøgenbilleder og sexvideoer af hende delt på hendes skole. Imod hendes vilje. Flere hundrede er allerede dømt i sager, der handler om ulovlig deling af nøgenbilleder og seksuelt krænkende...
+   </itunes:subtitle>
+   <itunes:summary>
+    Nana har været udsat for hævnporno. For nogle år siden blev nøgenbilleder og sexvideoer af hende delt på hendes skole. Imod hendes vilje. Flere hundrede er allerede dømt i sager, der handler om ulovlig deling af nøgenbilleder og seksuelt krænkende videoer af kvinder og mindreårige. Mange er derfor også dømt for besiddelse af børneporno. Alligevel eksisterer der stadig en kæmpe salgs- og byttekultur på nettet. Noget af det, der bliver efterspurgt, solgt og byttet, er materiale, der er kendt som Viborgmappen og Umbrella-sagen. Her i alt 778 personer fået domme for enten besiddelse af børneporno eller for den krænkende billeddeling. Tilrettelæggere: Camilla Michelle Mikkelsen og Kevin Shakir. Vært: Camilla Michelle Mikkelsen. Komposition: Peter Kristian Sejersbøl. Redigering og mix: Kim G. Hansen. Redaktør: Andrea Bøtker
+   </itunes:summary>
+   <itunes:duration>
+    977
+   </itunes:duration>
+   <itunes:keywords>
+    facebook,hævnporno,instagram,lectio,nøgenbilleder,reddit,sex,sexvideoer,snapchat
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1733fb2a30ae178db60578d4adb93bf6.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    #1 - Det ulovlige marked på Reddit
+   </title>
+   <link>
+    https://www.spreaker.com/episode/1-det-ulovlige-marked-pa-reddit--41061284
+   </link>
+   <description>
+    ”Sebastian” sælger seksuelle billeder og videoer, af kendte, danske kvinder på nettet. Han er 17 år, går i 2.g og drømmer om at blive politibetjent. Bliver han taget for sine handler, risikerer han at få en bøde, en plet på straffeattesten eller en fængselsdom. Sebastian er kun én af mange brugere, som sælger ulovligt indhold på flere danske Reddit-fora. Der er tusindvis af medlemmer i disse fora, hvor der henover 2020 er etableret et ulovligt marked. Der organiserer anonyme brugere salg af nøgent indhold af kvinder og mindreårige piger, uden deres samtykke. Tilrettelæggere og værter: Camilla Michelle Mikkelsen og Kevin Shakir Komposition: Peter Kristian Sejersbøl Redigering og mix: Kim G. Hansen Redaktører: Andrea Bøtker og Jacob Jægesen-Wilkens.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/41061284
+   </guid>
+   <pubDate>
+    Wed, 23 Sep 2020 02:00:13 +0000
+   </pubDate>
+   <enclosure length="44104958" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41061284/reddit_afs1_mix2.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    ”Sebastian” sælger seksuelle billeder og videoer, af kendte, danske kvinder på nettet. Han er 17 år, går i 2.g og drømmer om at blive politibetjent. Bliver han taget for sine handler, risikerer han at få en bøde, en plet på straffeattesten eller en...
+   </itunes:subtitle>
+   <itunes:summary>
+    ”Sebastian” sælger seksuelle billeder og videoer, af kendte, danske kvinder på nettet. Han er 17 år, går i 2.g og drømmer om at blive politibetjent. Bliver han taget for sine handler, risikerer han at få en bøde, en plet på straffeattesten eller en fængselsdom. Sebastian er kun én af mange brugere, som sælger ulovligt indhold på flere danske Reddit-fora. Der er tusindvis af medlemmer i disse fora, hvor der henover 2020 er etableret et ulovligt marked. Der organiserer anonyme brugere salg af nøgent indhold af kvinder og mindreårige piger, uden deres samtykke. Tilrettelæggere og værter: Camilla Michelle Mikkelsen og Kevin Shakir Komposition: Peter Kristian Sejersbøl Redigering og mix: Kim G. Hansen Redaktører: Andrea Bøtker og Jacob Jægesen-Wilkens.
+   </itunes:summary>
+   <itunes:duration>
+    1841
+   </itunes:duration>
+   <itunes:keywords>
+    hævnporno,nøgenbilleder,reddit,sex,sexvideoer
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1733fb2a30ae178db60578d4adb93bf6.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

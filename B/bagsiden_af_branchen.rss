@@ -1,82 +1,414 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Bagsiden af Branchen</title>
-		<link>https://web.24syv.dk/channels/5160</link>
-		<description>Dyk ned i Bagsiden af Branchen med Anne Lund! Glem glamourøse antagelser om musikbranchen, salgsfokuserede fordomme om butiksassistenter og drømmen om at blive rig som iværksætter. Vores ugentlige gæster deler skæve øjeblikke, sjove episoder og kostbare lærepenge fra arbejdslivet. Vi graver dybere end den blanke overflade for at starte en samtale om de forhold og vilkår, vi arbejder under, og håber det kan hjælpe dig til at forstå, hvilken retning du skal gå i. Få indblik i de virkelige 'deal breakers' og insider-viden om danskernes hovedbeskæftigelse - arbejdet. Vil du dele dine arbejdshistorier? Skriv til anll@24syv.dk eller DM Anne på IG: Annehund_official. Lyt med og få et ærligt perspektiv på arbejdslivet!</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/1005/a8bf7aa1509cdf802faccf50ca407667.jpg"/>
-		<item>
-			<title>Musikbranchen: ''Jeg har aldrig grædt så meget, som jeg gjorde den dag''</title>
-			<link>https://api.spreaker.com/download/episode/58505674/spreker_musikbranchen.mp3</link>
-			<description>Hvorfor er lønnen så lav for musikmanagers? Hvem tager sig af musikmanagers mentale velvære, når de jonglerer med at passe på deres artister?Er musikbranchen virkelig bygget på en cocktail af sex, stoffer og depressioner?Og hvordan føles det er blive fyret af en artist? Tag med på en rejse ind i musikbranchen gennem øjnene af to managere, Arense og Emilie. Her er glæden ved jobbet ikke drevet af tykke lønsedler, optimale arbejdsforhold eller den manglende respekt for kvindelige musikmanagers.Arense og Emilie deler ærligt deres oplevelser og frustrationer over musikbranchens økonomiske udfordringer, ubehagelige antagelser om romantiske forhold med deres artister, og advarsler fra chefer baseret på falske rygter om deres personlige liv.Tag med os og udforsk den ‘’glamourøse'' musikverden, mens vi vender blikket mod bagsiden af livet som musikmanager.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58505674/spreker_musikbranchen.mp3</guid>
-			<pubDate>Wed, 31 Jan 2024 03:00:02 +0000</pubDate>
-			<itunes:duration>01:26:57</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/58505674/spreker_musikbranchen.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>''Folk I Beauty Branchen Er Sindsyge!''</title>
-			<link>https://api.spreaker.com/download/episode/58363435/bab_projekt_regitze.mp3</link>
-			<description>Hvordan risikerer man at modtage dødstrusler som skønhedsmedarbejder?Hvorfor er det ikke tilladt for kunder at skabe deres egne produkttestere? Og er TikTok skyld i, at butikstyverier er blevet mere udbredt?Dyk ned i Regitzes verden som beauty-butiksmedarbejder, hvor glæden ved jobbet overskygges af dødstrusler fra hendes Beauty TikTok, mundtlige advarsler fra chefen på grund af kunder, hun aldrig har mødt, og en ugentlig konfrontation med butikstyve.Regitze deler også sin frustration over beauty branchen, der foretrækker at bruge penge på at sende gaver til influencers frem for at uddanne det personale, der faktisk skal sælge produkterne. Resultatet er, at Regitze ikke kan give anbefalinger eller rådgive kunderne om de produkter, de efterspørger, fordi hun ikke er ordentligt informeret.Tag med Regitze på arbejde, når vi vender bagsiden af at være Beauty-Butik TOKs medarbejder.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58363435/bab_projekt_regitze.mp3</guid>
-			<pubDate>Tue, 23 Jan 2024 03:00:02 +0000</pubDate>
-			<itunes:duration>00:53:25</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/58363435/bab_projekt_regitze.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Bagsiden af Branchen</title>
-			<link>https://api.spreaker.com/download/episode/58230400/bab_trailer.mp3</link>
-			<description>Dyk ned i Bagsiden af Branchen med Anne Lund! Glem glamourøse antagelser om musikbranchen, salgsfokuserede fordomme om butiksassistenter og drømmen om at blive rig som iværksætter. Vores ugentlige gæster deler skæve øjeblikke, sjove episoder og kostbare lærepenge fra arbejdslivet. Vi graver dybere end den blanke overflade for at starte en samtale om de forhold og vilkår, vi arbejder under, og håber det kan hjælpe dig til at forstå, hvilken retning du skal gå i. Få indblik i de virkelige 'deal breakers' og insider-viden om danskernes hovedbeskæftigelse - arbejdet.Vil du dele dine arbejdshistorier? Skriv til anll@24syv.dk eller DM Anne på IG: Annehund_official. Lyt med og få et ærligt perspektiv på arbejdslivet!</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58230400/bab_trailer.mp3</guid>
-			<pubDate>Mon, 08 Jan 2024 13:51:40 +0000</pubDate>
-			<itunes:duration>00:00:59</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/58230400/bab_trailer.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hotel Branchen: ''Mennesker er et SINDSYGT koncept!''</title>
-			<link>https://api.spreaker.com/download/episode/58591247/hotel_f_rdig_disclaimer.mp3</link>
-			<description>**TRIGGERWARNING &amp; DISCLAIMER**-I dette afsnit snakker vi om selskade og selvmord-___________________________________________Har du nogensinde undret dig over, hvad en hotelreceptionist egentlig laver?Eller hvordan man håndterer spørgsmålet om anbefalinger til lokale prostituerede?Og hvad med den triste virkelighed, hvor folk begår selvmord på ens arbejdplads?Stil din kuffert og tjek ind i dette afsnits brutale og følsomme fortællinger om hotelbranchen.Ida og Hannah deler ærligt deres oplevelser om blandt andet den manglende respekt fra deres gæster, grundet formodninger om at de både er vvs’er, brandmænd, teknikker, og personlige assistenter og den personlige frustration i altid at ville søge højere i karrierestigen i stedet for at værdsætte det nuværende øjeblik.Tag med os på en rejse, hvor vi undersøger glæderne, gæsterne har ved at tjekke ind på et hotel, stemmer overens med dem, der tjekker dig ind.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58591247/hotel_f_rdig_disclaimer.mp3</guid>
-			<pubDate>Wed, 07 Feb 2024 03:00:02 +0000</pubDate>
-			<itunes:duration>01:12:17</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/58591247/hotel_f_rdig_disclaimer.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Film Branchen: ''Jeg stod op hver morgen, og var helt tom..''</title>
-			<link>https://api.spreaker.com/download/episode/58754162/malle.mp3</link>
-			<description>Hvordan ender man i filmbranchen? Hvorfor er det, at ikke alle medvirkende bliver anerkendt og krediteret?Og hvordan kan man stadig drømme om en karriere i branchen, når man forbinder den med frygt? Træd ind i kulissen i den danske filmverden gennem ''Agnes''s perspektiv.Historien slutter ikke lige så idyllisk som film ofte gør, men måske med en uventet vending?''Agnes'' deler åbent sine oplevelser og frustrationer med udfordringerne i branchen, manglen på social bæredygtighed og kravet om at undlade at afvise skuespillernes tilnærmelser.Tryk på play og udforsk den tilsyneladende den danske filmverden, når vi vender tilbage til virkeligheden, før den når skærmen.''Agnes'' har valgt at være anonym, både for at beskytte sig selv og de mennesker, hun har arbejdet med, som ikke er en del af de nævnte problemer.God fornøjelse med at lytte!</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58754162/malle.mp3</guid>
-			<pubDate>Wed, 21 Feb 2024 03:00:01 +0000</pubDate>
-			<itunes:duration>00:58:01</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/58754162/malle.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>So-Me Branchen: ''Den dag, gik jeg på kompromis med mig selv''</title>
-			<link>https://api.spreaker.com/download/episode/58831347/maja_some.mp3</link>
-			<description>Kan alle med en iPhone og basale tekniske færdigheder lave SoMe-indhold?Hvordan finder man balancen i at skabe viralt indhold uden at det går ud over sårbare personer?Og hvordan fortæller man en kilde's livshistorie på 3 minutter?I dag dykker vi ned i den hektiske verden hos Maja. Hun jonglerer hver dag på SoMe-redaktionen for et nyhedsmedie, hvor udfordringerne ikke bare går ud på at finde den perfekte vinkel, den fantastiske tekst eller den troværdige kilde.Det handler derimod om at nurse kollegerne, så de tror, deres indhold er det ultimative. At være en blanding af politi og babysitter for de ivrige Facebook-krigere. Og ikke nok med det skal hun også bevare sin egen integritet, mens hun dækker historier objektivt – en opgave, der vækker frygt for, hvad andre tænker og måske endda kunne finde på at gøre ved hende. Så få hovedet op fra skærmen, men derimod lyt til bagsiden om So-Me.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58831347/maja_some.mp3</guid>
-			<pubDate>Wed, 28 Feb 2024 03:00:02 +0000</pubDate>
-			<itunes:duration>01:11:58</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/58831347/maja_some.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Restaurationsbranchen: ''Der er en grund til ingen adoptere den danske spisekultur''</title>
-			<link>https://api.spreaker.com/download/episode/59026298/frede_og_y.mp3</link>
-			<description>Hvad burde en tjener egentlig få i løn? Er det en menneskeret at have råd til at tage ud at spise? og undervudere vi hvor mentalt hårdt det kan være at skulle være socialt på hele tiden? Yu og Frederik deltager i dagens afsnit vi de fortæller om deres tid i restaurationbranchen der indebar mentale mavepustere, bræk ud over bardisken og racist anklager efter at have taget gæster i at stjæle. Og hvis du var fan af programmet ''Når Den Sidste Gæst Er Gået'', så vil du også være fan af dette afsnit, hvor sammen agenda og energi opstår den næste time i ''Bagsiden Af branchen'' Rigtig god lytter!</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59026298/frede_og_y.mp3</guid>
-			<pubDate>Wed, 13 Mar 2024 03:00:01 +0000</pubDate>
-			<itunes:duration>01:08:02</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/59026298/frede_og_y.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Drag Queen Branchen: ''Humble The Gays!''</title>
-			<link>https://api.spreaker.com/download/episode/59185579/drag.mp3</link>
-			<description>Hvor meget tjener man som dansk drag queen? Hvem er drag queen shows for? Og hvem er de til?Og er det kun homoseksuelle mænd, der ønsker at være kvinder, der arbejder som drag performer?Anne har inviteret Britney Corvette, også kendt med det mere borgerlige navn Oliver Warming, med i studiet i dag til en snak om at arbejde som drag queen superstar.Britney fortæller om behovet og kaldet for at underholde, om voldsepisoder i Sønderjylland, der gjorde, at han rykkede til København, og drømmen om at blive den første Vild Med Dans dragqueen vært.Britney giver også et indblik i den praktiske og økonomiske del i faget, som spænder fra omkostninger af kostumer, til hvordan han får det til at løbe rundt økonomisk, hvilke fagforeninger der findes, og hvordan man både skal have nok storhedsvanvid til at kunne indtage en scene, men også være i stand til at lægge sit ego på hylden, når ingen anerkender, at du står på en scene, eller køber billetter til dine shows.Og apropos show, så får du Annes varmeste anbefalninger til at købe billetter til følgende shows du kan købe hvis du trykker her.RIGTIG GOD LYTTER!</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/59185579/drag.mp3</guid>
-			<pubDate>Wed, 27 Mar 2024 00:13:51 +0000</pubDate>
-			<itunes:duration>01:08:07</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/59185579/drag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Bagsiden Af Branchen
+  </title>
+  <link>
+   https://www.spreaker.com/podcast/bagsiden-af-branchen--6043923
+  </link>
+  <description>
+   Dyk ned i Bagsiden af Branchen med Anne Lund! Glem glamourøse antagelser om musikbranchen, salgsfokuserede fordomme om butiksassistenter og drømmen om at blive rig som iværksætter. Vores ugentlige gæster deler skæve øjeblikke, sjove episoder og kostbare lærepenge fra arbejdslivet. Vi graver dybere end den blanke overflade for at starte en samtale om de forhold og vilkår, vi arbejder under, og håber det kan hjælpe dig til at forstå, hvilken retning du skal gå i. Få indblik i de virkelige 'deal breakers' og insider-viden om danskernes hovedbeskæftigelse - arbejdet.&lt;br /&gt;&lt;br /&gt;Vil du dele dine arbejdshistorier? Skriv til &lt;a href="https://24syv.dk" target="_blank" rel="noreferrer noopener"&gt;anll@24syv.dk&lt;/a&gt; eller DM Anne på IG: Annehund_official. Lyt med og få et ærligt perspektiv på arbejdslivet!
+  </description>
+  <atom:link href="https://www.spreaker.com/show/6043923/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Society &amp; Culture
+  </category>
+  <copyright>
+   Copyright 24syv
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a8bf7aa1509cdf802faccf50ca407667.jpg
+   </url>
+   <title>
+    Bagsiden Af Branchen
+   </title>
+   <link>
+    https://www.spreaker.com/podcast/bagsiden-af-branchen--6043923
+   </link>
+  </image>
+  <lastBuildDate>
+   Wed, 27 Mar 2024 00:14:08 +0000
+  </lastBuildDate>
+  <itunes:author>
+   24syv
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    24syv
+   </itunes:name>
+   <itunes:email>
+    podcast@24syv.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a8bf7aa1509cdf802faccf50ca407667.jpg"/>
+  <itunes:subtitle>
+   Dyk ned i Bagsiden af Branchen med Anne Lund! Glem glamourøse antagelser om musikbranchen, salgsfokuserede fordomme om butiksassistenter og drømmen om at blive rig som iværksætter. Vores ugentlige gæster deler skæve øjeblikke, sjove episoder og...
+  </itunes:subtitle>
+  <itunes:summary>
+   Dyk ned i Bagsiden af Branchen med Anne Lund! Glem glamourøse antagelser om musikbranchen, salgsfokuserede fordomme om butiksassistenter og drømmen om at blive rig som iværksætter. Vores ugentlige gæster deler skæve øjeblikke, sjove episoder og kostbare lærepenge fra arbejdslivet. Vi graver dybere end den blanke overflade for at starte en samtale om de forhold og vilkår, vi arbejder under, og håber det kan hjælpe dig til at forstå, hvilken retning du skal gå i. Få indblik i de virkelige 'deal breakers' og insider-viden om danskernes hovedbeskæftigelse - arbejdet.&lt;br /&gt;&lt;br /&gt;Vil du dele dine arbejdshistorier? Skriv til &lt;a href="https://24syv.dk" target="_blank" rel="noreferrer noopener"&gt;anll@24syv.dk&lt;/a&gt; eller DM Anne på IG: Annehund_official. Lyt med og få et ærligt perspektiv på arbejdslivet!
+  </itunes:summary>
+  <itunes:category text="Society &amp; Culture"/>
+  <itunes:category text="Business">
+   <itunes:category text="Careers"/>
+  </itunes:category>
+  <itunes:category text="Business"/>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    Drag Queen Branchen: ''Humble The Gays!''
+   </title>
+   <link>
+    https://www.spreaker.com/episode/drag-queen-branchen-humble-the-gays--59185579
+   </link>
+   <description>
+    &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Hvor meget tjener man som dansk drag queen? &lt;br /&gt;Hvem er drag queen shows for? Og hvem er de til?&lt;br /&gt;Og er det kun homoseksuelle mænd, der ønsker at være kvinder, der arbejder som drag performer?&lt;br /&gt;&lt;br /&gt;Anne har inviteret Britney Corvette, også kendt med det mere borgerlige navn Oliver Warming, med i studiet i dag til en snak om at arbejde som drag queen superstar.&lt;br /&gt;&lt;br /&gt;Britney fortæller om behovet og kaldet for at underholde, om voldsepisoder i Sønderjylland, der gjorde, at han rykkede til København, og drømmen om at blive den første Vild Med Dans dragqueen vært.&lt;br /&gt;&lt;br /&gt;Britney giver også et indblik i den praktiske og økonomiske del i faget, som spænder fra omkostninger af kostumer, til hvordan han får det til at løbe rundt økonomisk, hvilke fagforeninger der findes, og hvordan man både skal have nok storhedsvanvid til at kunne indtage en scene, men også være i stand til at lægge sit ego på hylden, når ingen anerkender, at du står på en scene, eller køber billetter til dine shows.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Og apropos show, så får du Annes varmeste anbefalninger til at købe billetter til følgende shows du kan købe hvis du trykker &lt;a href="https://linktr.ee/britneycorvette?fbclid=IwAR1rE-NCb0IBc7FJik6gy3Cv-0gZXh9S06jgLp7zx8AWrymLejWaZCdnYL8_aem_AajO5Ucr7cElOOZEq80_9fkNFfIeLTD_vpXKYWT1wZ7dKgO9OjYoT6FmKp83G1Wbv41BXwY285IyQsRWjEdTDV_o" target="_blank" rel="noreferrer noopener"&gt;her.&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;RIGTIG GOD LYTTER!&lt;br /&gt;&lt;br /&gt;
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/59185579
+   </guid>
+   <pubDate>
+    Wed, 27 Mar 2024 00:13:51 +0000
+   </pubDate>
+   <enclosure length="65464155" type="audio/mpeg" url="https://api.spreaker.com/download/episode/59185579/drag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvor meget tjener man som dansk drag queen? 
+Hvem er drag queen shows for? Og hvem er de til?
+Og er det kun homoseksuelle mænd, der ønsker at være kvinder, der arbejder som drag performer?
+
+Anne har inviteret Britney Corvette, også kendt med det mere...
+   </itunes:subtitle>
+   <itunes:summary>
+    &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Hvor meget tjener man som dansk drag queen? &lt;br /&gt;Hvem er drag queen shows for? Og hvem er de til?&lt;br /&gt;Og er det kun homoseksuelle mænd, der ønsker at være kvinder, der arbejder som drag performer?&lt;br /&gt;&lt;br /&gt;Anne har inviteret Britney Corvette, også kendt med det mere borgerlige navn Oliver Warming, med i studiet i dag til en snak om at arbejde som drag queen superstar.&lt;br /&gt;&lt;br /&gt;Britney fortæller om behovet og kaldet for at underholde, om voldsepisoder i Sønderjylland, der gjorde, at han rykkede til København, og drømmen om at blive den første Vild Med Dans dragqueen vært.&lt;br /&gt;&lt;br /&gt;Britney giver også et indblik i den praktiske og økonomiske del i faget, som spænder fra omkostninger af kostumer, til hvordan han får det til at løbe rundt økonomisk, hvilke fagforeninger der findes, og hvordan man både skal have nok storhedsvanvid til at kunne indtage en scene, men også være i stand til at lægge sit ego på hylden, når ingen anerkender, at du står på en scene, eller køber billetter til dine shows.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Og apropos show, så får du Annes varmeste anbefalninger til at købe billetter til følgende shows du kan købe hvis du trykker &lt;a href="https://linktr.ee/britneycorvette?fbclid=IwAR1rE-NCb0IBc7FJik6gy3Cv-0gZXh9S06jgLp7zx8AWrymLejWaZCdnYL8_aem_AajO5Ucr7cElOOZEq80_9fkNFfIeLTD_vpXKYWT1wZ7dKgO9OjYoT6FmKp83G1Wbv41BXwY285IyQsRWjEdTDV_o" target="_blank" rel="noreferrer noopener"&gt;her.&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;RIGTIG GOD LYTTER!&lt;br /&gt;&lt;br /&gt;
+   </itunes:summary>
+   <itunes:duration>
+    4088
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a8bf7aa1509cdf802faccf50ca407667.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Restaurations Branchen: ''Der er en grund til ingen adoptere den danske spisekultur''
+   </title>
+   <link>
+    https://www.spreaker.com/episode/restaurations-branchen-der-er-en-grund-til-ingen-adoptere-den-danske-spisekultur--59026298
+   </link>
+   <description>
+    Hvad burde en tjener egentlig få i løn? &lt;br /&gt;Er det en menneskeret at have råd til at tage ud at spise? &lt;br /&gt;og undervudere vi hvor mentalt hårdt det kan være at skulle være socialt på hele tiden? &lt;br /&gt;&lt;br /&gt;Yu og Frederik deltager i dagens afsnit vi de fortæller om deres tid i restaurationbranchen der indebar mentale mavepustere, bræk ud over bardisken og racist anklager efter at have taget gæster i at stjæle. &lt;br /&gt;&lt;br /&gt;Og hvis du var fan af programmet ''Når Den Sidste Gæst Er Gået'', så vil du også være fan af dette afsnit, hvor sammen agenda og energi opstår den næste time i ''Bagsiden Af branchen'' &lt;br /&gt;&lt;br /&gt;Rigtig god lytter!
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/59026298
+   </guid>
+   <pubDate>
+    Wed, 13 Mar 2024 03:00:01 +0000
+   </pubDate>
+   <enclosure length="65380981" type="audio/mpeg" url="https://api.spreaker.com/download/episode/59026298/frede_og_y.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad burde en tjener egentlig få i løn? 
+Er det en menneskeret at have råd til at tage ud at spise? 
+og undervudere vi hvor mentalt hårdt det kan være at skulle være socialt på hele tiden? 
+
+Yu og Frederik deltager i dagens afsnit vi de fortæller om...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad burde en tjener egentlig få i løn? &lt;br /&gt;Er det en menneskeret at have råd til at tage ud at spise? &lt;br /&gt;og undervudere vi hvor mentalt hårdt det kan være at skulle være socialt på hele tiden? &lt;br /&gt;&lt;br /&gt;Yu og Frederik deltager i dagens afsnit vi de fortæller om deres tid i restaurationbranchen der indebar mentale mavepustere, bræk ud over bardisken og racist anklager efter at have taget gæster i at stjæle. &lt;br /&gt;&lt;br /&gt;Og hvis du var fan af programmet ''Når Den Sidste Gæst Er Gået'', så vil du også være fan af dette afsnit, hvor sammen agenda og energi opstår den næste time i ''Bagsiden Af branchen'' &lt;br /&gt;&lt;br /&gt;Rigtig god lytter!
+   </itunes:summary>
+   <itunes:duration>
+    4083
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a8bf7aa1509cdf802faccf50ca407667.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    SoMe Branchen: ''Den dag, gik jeg på kompromis med mig selv''
+   </title>
+   <link>
+    https://www.spreaker.com/episode/some-branchen-den-dag-gik-jeg-pa-kompromis-med-mig-selv--58831347
+   </link>
+   <description>
+    Kan alle med en iPhone og basale tekniske færdigheder lave SoMe-indhold?&lt;br /&gt;Hvordan finder man balancen i at skabe viralt indhold, uden at det går ud over sårbare personer?&lt;br /&gt;Og hvordan fortæller man en kildes livshistorie på 3 minutter?&lt;br /&gt;&lt;br /&gt;I dag dykker vi ned i den hektiske verden hos Maja. Hun jonglerer hver dag på SoMe-redaktionen for et nyhedsmedie, hvor udfordringerne ikke bare går ud på at finde den perfekte vinkel, den fantastiske tekst eller den troværdige kilde.&lt;br /&gt;&lt;br /&gt;Det handler derimod om at nurse kollegerne, så de tror, deres indhold er det ultimative. At være en blanding af politi og babysitter for de ivrige Facebook-krigere. Og ikke nok med det, skal hun også bevare sin egen integritet, mens hun dækker historier objektivt – en opgave, der vækker frygt for, hvad andre tænker og måske endda kunne finde på at gøre ved hende.&lt;br /&gt;&lt;br /&gt;Så få hovedet op fra skærmen, men derimod lyt til bagsiden om So-Me.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/58831347
+   </guid>
+   <pubDate>
+    Wed, 28 Feb 2024 03:00:02 +0000
+   </pubDate>
+   <enclosure length="69166019" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58831347/maja_some.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Kan alle med en iPhone og basale tekniske færdigheder lave SoMe-indhold?
+Hvordan finder man balancen i at skabe viralt indhold, uden at det går ud over sårbare personer?
+Og hvordan fortæller man en kildes livshistorie på 3 minutter?
+
+I dag dykker vi...
+   </itunes:subtitle>
+   <itunes:summary>
+    Kan alle med en iPhone og basale tekniske færdigheder lave SoMe-indhold?&lt;br /&gt;Hvordan finder man balancen i at skabe viralt indhold, uden at det går ud over sårbare personer?&lt;br /&gt;Og hvordan fortæller man en kildes livshistorie på 3 minutter?&lt;br /&gt;&lt;br /&gt;I dag dykker vi ned i den hektiske verden hos Maja. Hun jonglerer hver dag på SoMe-redaktionen for et nyhedsmedie, hvor udfordringerne ikke bare går ud på at finde den perfekte vinkel, den fantastiske tekst eller den troværdige kilde.&lt;br /&gt;&lt;br /&gt;Det handler derimod om at nurse kollegerne, så de tror, deres indhold er det ultimative. At være en blanding af politi og babysitter for de ivrige Facebook-krigere. Og ikke nok med det, skal hun også bevare sin egen integritet, mens hun dækker historier objektivt – en opgave, der vækker frygt for, hvad andre tænker og måske endda kunne finde på at gøre ved hende.&lt;br /&gt;&lt;br /&gt;Så få hovedet op fra skærmen, men derimod lyt til bagsiden om So-Me.
+   </itunes:summary>
+   <itunes:duration>
+    4319
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a8bf7aa1509cdf802faccf50ca407667.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Film Branchen: ''Jeg stod op hver morgen, og var helt tom..''
+   </title>
+   <link>
+    https://www.spreaker.com/episode/film-branchen-jeg-stod-op-hver-morgen-og-var-helt-tom--58754162
+   </link>
+   <description>
+    Hvordan kommer man ind i filmbranchen?&lt;br /&gt;Hvorfor bliver ikke alle medvirkende anerkendt og krediteret?&lt;br /&gt;Og hvordan kan man stadig drømme om en karriere i branchen, når den associeres med frygt?&lt;br /&gt;&lt;br /&gt;Træd ind bag kulisserne i den danske filmverden gennem "Agnes"' perspektiv. Historien ender ikke så idyllisk, som film ofte gør, men måske med en uventet drejning?&lt;br /&gt;&lt;br /&gt;Agnes har valgt at være anonym, både for at beskytte sig selv og de mennesker, hun har arbejdet med, som ikke er en del af de nævnte problemer.&lt;br /&gt;&lt;br /&gt;Agnes deler åbent sine oplevelser og frustrationer med branchens udfordringer, manglen på social bæredygtighed og presset om at håndtere skuespillernes tilnærmelser. Tryk på afspil og udforsk den tilsyneladende perfekte danske filmverden, før vi vender tilbage til virkeligheden, før den rammer skærmen.&lt;br /&gt;&lt;br /&gt;God fornøjelse med at lytte!
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/58754162
+   </guid>
+   <pubDate>
+    Wed, 21 Feb 2024 03:00:01 +0000
+   </pubDate>
+   <enclosure length="55772517" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58754162/malle.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvordan kommer man ind i filmbranchen?
+Hvorfor bliver ikke alle medvirkende anerkendt og krediteret?
+Og hvordan kan man stadig drømme om en karriere i branchen, når den associeres med frygt?
+
+Træd ind bag kulisserne i den danske filmverden gennem...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvordan kommer man ind i filmbranchen?&lt;br /&gt;Hvorfor bliver ikke alle medvirkende anerkendt og krediteret?&lt;br /&gt;Og hvordan kan man stadig drømme om en karriere i branchen, når den associeres med frygt?&lt;br /&gt;&lt;br /&gt;Træd ind bag kulisserne i den danske filmverden gennem "Agnes"' perspektiv. Historien ender ikke så idyllisk, som film ofte gør, men måske med en uventet drejning?&lt;br /&gt;&lt;br /&gt;Agnes har valgt at være anonym, både for at beskytte sig selv og de mennesker, hun har arbejdet med, som ikke er en del af de nævnte problemer.&lt;br /&gt;&lt;br /&gt;Agnes deler åbent sine oplevelser og frustrationer med branchens udfordringer, manglen på social bæredygtighed og presset om at håndtere skuespillernes tilnærmelser. Tryk på afspil og udforsk den tilsyneladende perfekte danske filmverden, før vi vender tilbage til virkeligheden, før den rammer skærmen.&lt;br /&gt;&lt;br /&gt;God fornøjelse med at lytte!
+   </itunes:summary>
+   <itunes:duration>
+    3482
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a8bf7aa1509cdf802faccf50ca407667.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episode>
+    4
+   </itunes:episode>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Hotel Branchen: ''Mennesker er et SINDSYGT koncept!''
+   </title>
+   <link>
+    https://www.spreaker.com/episode/hotel-branchen-mennesker-er-et-sindsygt-koncept--58591247
+   </link>
+   <description>
+    Har du nogensinde undret dig over, hvad en hotelreceptionist egentlig laver?&lt;br /&gt;Eller hvordan man besvarer spørgsmål om anbefalinger til lokale prostituerede?&lt;br /&gt;Og hvad med den triste virkelighed, hvor folk begår selvmord på ens arbejdplads?&lt;br /&gt;&lt;br /&gt;Stil din kuffert og tjek ind i dette afsnits brutale og følsomme fortællinger om hotelbranchen.&lt;br /&gt;Ida og Hannah deler ærligt deres oplevelser om blandt andet den manglende respekt fra deres gæster, formodninger om at de både er vvs’er, brandmænd, teknikker, og personlige assistenter og den personlige frustration i altid at ville søge højere i karrierestigen i stedet for at værdsætte det nuværende øjeblik.&lt;br /&gt;&lt;br /&gt;Tag med os på en rejse, hvor vi undersøger glæderne, gæsterne har ved at tjekke ind på et hotel, stemmer overens med dem, der tjekker dig ind.&lt;br /&gt;&lt;br /&gt;**TRIGGERWARNING &amp;amp; DISCLAIMER**&lt;br /&gt;I dette afsnit snakker vi om selskade og selvmord. &lt;br /&gt;Du kan kontakte Livslinien, hvis du har selvmordstanker eller er i anden alvorlig livskrise, eller hvis du er pårørende eller efterladt til selvmord&lt;br /&gt;Telefonrådgivning: 70 201 201 alle årets dage fra kl. 11-05&lt;br /&gt;Mailrådgivning og Chatrådgivning: For at se åbningstider og for at skrive, gå ind på &lt;a href="https://www.livslinien.dk/" target="_blank" rel="noreferrer noopener"&gt;&lt;/a&gt;&lt;a href="https://www.livslinien.dk/" target="_blank" rel="noreferrer noopener"&gt;www.livslinien.dk&lt;/a&gt;
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/58591247
+   </guid>
+   <pubDate>
+    Wed, 07 Feb 2024 03:00:02 +0000
+   </pubDate>
+   <enclosure length="69470294" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58591247/hotel_f_rdig_disclaimer.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Har du nogensinde undret dig over, hvad en hotelreceptionist egentlig laver?
+Eller hvordan man besvarer spørgsmål om anbefalinger til lokale prostituerede?
+Og hvad med den triste virkelighed, hvor folk begår selvmord på ens arbejdplads?
+
+Stil din...
+   </itunes:subtitle>
+   <itunes:summary>
+    Har du nogensinde undret dig over, hvad en hotelreceptionist egentlig laver?&lt;br /&gt;Eller hvordan man besvarer spørgsmål om anbefalinger til lokale prostituerede?&lt;br /&gt;Og hvad med den triste virkelighed, hvor folk begår selvmord på ens arbejdplads?&lt;br /&gt;&lt;br /&gt;Stil din kuffert og tjek ind i dette afsnits brutale og følsomme fortællinger om hotelbranchen.&lt;br /&gt;Ida og Hannah deler ærligt deres oplevelser om blandt andet den manglende respekt fra deres gæster, formodninger om at de både er vvs’er, brandmænd, teknikker, og personlige assistenter og den personlige frustration i altid at ville søge højere i karrierestigen i stedet for at værdsætte det nuværende øjeblik.&lt;br /&gt;&lt;br /&gt;Tag med os på en rejse, hvor vi undersøger glæderne, gæsterne har ved at tjekke ind på et hotel, stemmer overens med dem, der tjekker dig ind.&lt;br /&gt;&lt;br /&gt;**TRIGGERWARNING &amp;amp; DISCLAIMER**&lt;br /&gt;I dette afsnit snakker vi om selskade og selvmord. &lt;br /&gt;Du kan kontakte Livslinien, hvis du har selvmordstanker eller er i anden alvorlig livskrise, eller hvis du er pårørende eller efterladt til selvmord&lt;br /&gt;Telefonrådgivning: 70 201 201 alle årets dage fra kl. 11-05&lt;br /&gt;Mailrådgivning og Chatrådgivning: For at se åbningstider og for at skrive, gå ind på &lt;a href="https://www.livslinien.dk/" target="_blank" rel="noreferrer noopener"&gt;&lt;/a&gt;&lt;a href="https://www.livslinien.dk/" target="_blank" rel="noreferrer noopener"&gt;www.livslinien.dk&lt;/a&gt;
+   </itunes:summary>
+   <itunes:duration>
+    4338
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a8bf7aa1509cdf802faccf50ca407667.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episode>
+    3
+   </itunes:episode>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Musik Branchen: ''Jeg har aldrig grædt så meget, som jeg gjorde den dag''
+   </title>
+   <link>
+    https://www.spreaker.com/episode/musik-branchen-jeg-har-aldrig-graedt-sa-meget-som-jeg-gjorde-den-dag--58505674
+   </link>
+   <description>
+    Hvorfor er lønnen så lav for musikmanagers? &lt;br /&gt;Hvem tager sig af musikmanagers mentale velvære, når de jonglerer med at passe på deres artister?&lt;br /&gt;Er musikbranchen virkelig bygget på en cocktail af sex, stoffer og depressioner?&lt;br /&gt;Og hvordan føles det er blive fyret af en artist? &lt;br /&gt;&lt;br /&gt;Tag med på en rejse ind i musikbranchen gennem øjnene af to managere, Arense og Emilie. Her er glæden ved jobbet ikke drevet af tykke lønsedler, optimale arbejdsforhold eller den manglende respekt for kvindelige musikmanagers.&lt;br /&gt;&lt;br /&gt;Arense og Emilie deler ærligt deres oplevelser og frustrationer over musikbranchens økonomiske udfordringer, ubehagelige antagelser om romantiske forhold med deres artister, og advarsler fra chefer baseret på falske rygter om deres personlige liv.Tag med os og udforsk den ‘’glamourøse'' musikverden, mens vi vender blikket mod bagsiden af livet som musikmanager.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/58505674
+   </guid>
+   <pubDate>
+    Wed, 31 Jan 2024 03:00:02 +0000
+   </pubDate>
+   <enclosure length="83547577" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58505674/spreker_musikbranchen.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvorfor er lønnen så lav for musikmanagers? 
+Hvem tager sig af musikmanagers mentale velvære, når de jonglerer med at passe på deres artister?
+Er musikbranchen virkelig bygget på en cocktail af sex, stoffer og depressioner?
+Og hvordan føles det er...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvorfor er lønnen så lav for musikmanagers? &lt;br /&gt;Hvem tager sig af musikmanagers mentale velvære, når de jonglerer med at passe på deres artister?&lt;br /&gt;Er musikbranchen virkelig bygget på en cocktail af sex, stoffer og depressioner?&lt;br /&gt;Og hvordan føles det er blive fyret af en artist? &lt;br /&gt;&lt;br /&gt;Tag med på en rejse ind i musikbranchen gennem øjnene af to managere, Arense og Emilie. Her er glæden ved jobbet ikke drevet af tykke lønsedler, optimale arbejdsforhold eller den manglende respekt for kvindelige musikmanagers.&lt;br /&gt;&lt;br /&gt;Arense og Emilie deler ærligt deres oplevelser og frustrationer over musikbranchens økonomiske udfordringer, ubehagelige antagelser om romantiske forhold med deres artister, og advarsler fra chefer baseret på falske rygter om deres personlige liv.Tag med os og udforsk den ‘’glamourøse'' musikverden, mens vi vender blikket mod bagsiden af livet som musikmanager.
+   </itunes:summary>
+   <itunes:duration>
+    5218
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a8bf7aa1509cdf802faccf50ca407667.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episode>
+    2
+   </itunes:episode>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Beauty Branchen: ''Folk I Beauty Branchen Er Sindsyge!''
+   </title>
+   <link>
+    https://www.spreaker.com/episode/beauty-branchen-folk-i-beauty-branchen-er-sindsyge--58363435
+   </link>
+   <description>
+    Hvordan kan man risikere at modtage dødstrusler som skønhedsmedarbejder?&lt;br /&gt;Hvorfor er det ikke tilladt for kunder at lave deres egne produkttestere?&lt;br /&gt;Og er TikTok ansvarlig for, at butikstyverier er blevet mere udbredte?&lt;br /&gt;&lt;br /&gt;Dyk ned i Regitzes verden som beauty-butiksmedarbejder, hvor glæden ved jobbet overskygges af dødstrusler fra hendes Beauty-TikTok, mundtlige advarsler fra chefen på grund af kunder, hun aldrig har mødt, og en ugentlig konfrontation med butikstyve.&lt;br /&gt;&lt;br /&gt;Regitze deler også sin frustration over skønhedsbranchen, der foretrækker at bruge penge på at sende gaver til influencers i stedet for at uddanne det personale, der faktisk skal sælge produkterne. Hør konsekvenserne af denne tilgang i programmet, og tag med Regitze på arbejde, når vi udforsker bagsiden af at være medarbejder i Beauty-Butik.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/58363435
+   </guid>
+   <pubDate>
+    Tue, 23 Jan 2024 03:00:02 +0000
+   </pubDate>
+   <enclosure length="51351345" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58363435/bab_projekt_regitze.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Hvordan kan man risikere at modtage dødstrusler som skønhedsmedarbejder?
+Hvorfor er det ikke tilladt for kunder at lave deres egne produkttestere?
+Og er TikTok ansvarlig for, at butikstyverier er blevet mere udbredte?
+
+Dyk ned i Regitzes verden som...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvordan kan man risikere at modtage dødstrusler som skønhedsmedarbejder?&lt;br /&gt;Hvorfor er det ikke tilladt for kunder at lave deres egne produkttestere?&lt;br /&gt;Og er TikTok ansvarlig for, at butikstyverier er blevet mere udbredte?&lt;br /&gt;&lt;br /&gt;Dyk ned i Regitzes verden som beauty-butiksmedarbejder, hvor glæden ved jobbet overskygges af dødstrusler fra hendes Beauty-TikTok, mundtlige advarsler fra chefen på grund af kunder, hun aldrig har mødt, og en ugentlig konfrontation med butikstyve.&lt;br /&gt;&lt;br /&gt;Regitze deler også sin frustration over skønhedsbranchen, der foretrækker at bruge penge på at sende gaver til influencers i stedet for at uddanne det personale, der faktisk skal sælge produkterne. Hør konsekvenserne af denne tilgang i programmet, og tag med Regitze på arbejde, når vi udforsker bagsiden af at være medarbejder i Beauty-Butik.
+   </itunes:summary>
+   <itunes:duration>
+    3206
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a8bf7aa1509cdf802faccf50ca407667.jpg"/>
+   <itunes:season>
+    1
+   </itunes:season>
+   <itunes:episode>
+    1
+   </itunes:episode>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Bagsiden af Branchen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/bagsiden-af-branchen--58230400
+   </link>
+   <description>
+    Dyk ned i Bagsiden af Branchen med Anne Lund! Glem glamourøse antagelser om musikbranchen, salgsfokuserede fordomme om butiksassistenter og drømmen om at blive rig som iværksætter. Vores ugentlige gæster deler skæve øjeblikke, sjove episoder og kostbare lærepenge fra arbejdslivet. Vi graver dybere end den blanke overflade for at starte en samtale om de forhold og vilkår, vi arbejder under, og håber det kan hjælpe dig til at forstå, hvilken retning du skal gå i. Få indblik i de virkelige 'deal breakers' og insider-viden om danskernes hovedbeskæftigelse - arbejdet.&lt;br /&gt;&lt;br /&gt;Vil du dele dine arbejdshistorier? Skriv til &lt;a href="https://24syv.dk" target="_blank" rel="noreferrer noopener"&gt;anll@24syv.dk&lt;/a&gt; eller DM Anne på IG: Annehund_official. Lyt med og få et ærligt perspektiv på arbejdslivet!&lt;br /&gt;
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/58230400
+   </guid>
+   <pubDate>
+    Mon, 08 Jan 2024 13:51:40 +0000
+   </pubDate>
+   <enclosure length="947557" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58230400/bab_trailer.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Dyk ned i Bagsiden af Branchen med Anne Lund! Glem glamourøse antagelser om musikbranchen, salgsfokuserede fordomme om butiksassistenter og drømmen om at blive rig som iværksætter. Vores ugentlige gæster deler skæve øjeblikke, sjove episoder og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Dyk ned i Bagsiden af Branchen med Anne Lund! Glem glamourøse antagelser om musikbranchen, salgsfokuserede fordomme om butiksassistenter og drømmen om at blive rig som iværksætter. Vores ugentlige gæster deler skæve øjeblikke, sjove episoder og kostbare lærepenge fra arbejdslivet. Vi graver dybere end den blanke overflade for at starte en samtale om de forhold og vilkår, vi arbejder under, og håber det kan hjælpe dig til at forstå, hvilken retning du skal gå i. Få indblik i de virkelige 'deal breakers' og insider-viden om danskernes hovedbeskæftigelse - arbejdet.&lt;br /&gt;&lt;br /&gt;Vil du dele dine arbejdshistorier? Skriv til &lt;a href="https://24syv.dk" target="_blank" rel="noreferrer noopener"&gt;anll@24syv.dk&lt;/a&gt; eller DM Anne på IG: Annehund_official. Lyt med og få et ærligt perspektiv på arbejdslivet!&lt;br /&gt;
+   </itunes:summary>
+   <itunes:duration>
+    60
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a8bf7aa1509cdf802faccf50ca407667.jpg"/>
+   <itunes:episodeType>
+    trailer
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

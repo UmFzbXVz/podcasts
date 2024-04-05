@@ -1,212 +1,640 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Nordic True Stories</title>
-		<link>https://web.24syv.dk/channels/4977</link>
-		<description>Nordic True Stories forkæler dine ører med skæve og hjertevarme reportager om livet - når det kan mærkes: Menneskeskæbner indsamlet med følsomme mikrofoner. Vi tager dig med ud i landets og ind i sindets afkroge. Vi dvæler ved detaljerne; den larmende stilhed, det dirrende åndedræt og det forløsende suk. Kort sagt storytelling, der går tæt på. Nordic True Stories er produceret af Nordic Podcast Academy i samarbejde med Rakkerpak productions &amp;amp; Struer Lydens ByVært &amp;amp; tilrettelæggelse: Tanja Kjeldgaard Lyddesign &amp;amp; musik: Jesper Lundager Producer: Dorte Palle Executive producers: Tor Arnbjørn og Peter Kjeldbjerg</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/815/827984e90ff433469ac9b1dec0cadcf4.jpg"/>
-		<item>
-			<title>Danmarks gæstearbejdere</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49132557/nts_guldbryllups_final_master.mp3</link>
-			<description>For lidt over 50 år siden, kom de sidste gæstearbejdere til Danmark for at hjælpe os alle, ved at give deres arbejdskraft. Nogle blev og andre tog væk igen. Merel er taget til Immigrantmuseets markering af invandrestoppet i Farum kulturhus, for at tale med de fremmødte om, hvad det er, som de har opnået her i Danmark og hvordan de føler, at de blev og bliver modtaget, nu 50 år siden de ankom på hovedbanegården i København. 
-
-Produceret af Rakkerpak Productions
-Tilrettelæggelse og klip, Merel Rasmussen
-Lyddesign og teknik, René Slott
-Redaktør, Dorte Palle</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49132557/nts_guldbryllups_final_master.mp3</guid>
-			<pubDate>Thu, 24 Mar 2022 08:25:08 +0000</pubDate>
-			<itunes:duration>00:11:17</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49132557/nts_guldbryllups_final_master.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Louise, Louise, Louise</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47665501/nts_louise_louise_louise_master.mp3</link>
-			<description>I Brønshøj ligger Brønshøjparken. Men alle folk i Brønshøj kender kun parken under navnet Louisehullet. Der har i hundrede år gået mange historier om parken. Parken skulle være hjemsøgt, og den lille cirkelrunde sø i parken, som også hedder Louisehullet, skulle være bundløs. Men hvem var Louise? Det går der også mange historier om. Jeg har sat mig for at finde ud af det.
-Nordic True Stories er produceret af Nordic Podcast Academy i samarbejde med Rakkerpak productions &amp; Struer Lydens By.
-
-Nordic True Storyteller: Jonas Henrik Neivelt
-
-Vært &amp; tilrettelæggelse: Tanja Kjeldgaard 
-Lyddesign &amp; musik: Jesper Lundager 
-Producer: Dorte Palle 
-Executive producers: Tor Arnbjørn og Peter Kjeldbjerg</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47665501/nts_louise_louise_louise_master.mp3</guid>
-			<pubDate>Thu, 02 Dec 2021 11:46:09 +0000</pubDate>
-			<itunes:duration>00:27:00</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47665501/nts_louise_louise_louise_master.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Den der dør først</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47619019/den_der_d_r_f_rst.mp3</link>
-			<description>Helle tager de 400 trin til toppen af det unikke gyldne tårn på Vor Frelsers Kirke på Christianshavn. De sidste 150 på den udvendige spiralsnoede trappe - med et ikke særlig højt gelænder. Turen er ramme om en intens kærlighedshistorie og en frygtelig hændelse i fortiden, der vender alt på vrangen, så ingenting nogensinde bliver det samme igen.  
-
-Nordic True Storyteller: Helle Højland
-Lyddesign &amp; musik: Jesper Lundager</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47619019/den_der_d_r_f_rst.mp3</guid>
-			<pubDate>Tue, 23 Nov 2021 12:30:57 +0000</pubDate>
-			<itunes:duration>00:09:12</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47619019/den_der_d_r_f_rst.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Min søns morfar - Kærlighed og alkoholisme</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231279/nts_3_min_s_ns_morfar_final.mp3</link>
-			<description>Hvem var egentlig manden, der kom vadende ind på fritidshjemmet med fuldt dykkerudstyr. Ham, der havde fjordens hurtigste speedbåd og som kunne få en kvinde til at føle sig som det 8. vidunder? Men også manden der langsomt blev opløst af den væske, der kan fortynde og forpeste vores allernærmeste relationer? Da Kathrine bliver gravid beslutter hun sig for at fortælle historien ‘Hendes søns morfar’.
-
-Nordic True Storyteller: Kathrine Wismann
-Vært &amp; tilrettelæggelse: Tanja Kjeldgaard
-Lyddesign &amp; musik: Jesper Lundager</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231279/nts_3_min_s_ns_morfar_final.mp3</guid>
-			<pubDate>Fri, 05 Nov 2021 12:18:00 +0000</pubDate>
-			<itunes:duration>00:39:23</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231279/nts_3_min_s_ns_morfar_final.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Man kan ikke løbe fra et spisemonster</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47327308/nts_spisemonstret_fina.mp3</link>
-			<description>“Jeg er ikke bange for at dø”. 
-Puk vinder pokalløbet i 3. klasse, fordi hendes storesøster, Sofie, løber med rundt. Året efter tager spisemonsteret sin første bid af hende. Fra familiens tilskuerpladser følger Sofie apatisk sin lillesøster årelange kamp med spisemonstret. I denne fortælling genoplever familien det længste løb, Puk tager med spisemonsteret en junidag i 2017. Fordi hun ville væk. Rigtig væk.
-
-Nordic True Storyteller: Sofie Hoppe Søe
-Vært &amp; tilrettelæggelse: Tanja Kjeldgaard
-Lyddesign &amp; musik: Jesper Lundager // René Slott</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47327308/nts_spisemonstret_fina.mp3</guid>
-			<pubDate>Fri, 05 Nov 2021 07:17:39 +0000</pubDate>
-			<itunes:duration>00:22:20</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47327308/nts_spisemonstret_fina.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>To skrøbelige hjerter - Drengen med Danmarks mindste fødselsvægt</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231634/to_skr_belige_hjerter.mp3</link>
-			<description>Han vejede ikke meget mere end en pakke smør, da han kom til verden - men han er her stadig.
-På en legeplads i Struer møder Luna Svarrer drengen Frederik og hans mormor. Frederik er født for tidligt. En lille skrøbelig dreng, med Danmarks mindste hjerte. Men mellem Frederik og og hans mormor vokser en stor kærlighed, der gør dem begge stærkere.
-
-Nordic True Storyteller: Luna Svarrer
-Vært &amp; tilrettelæggelse: Tanja Kjeldgaard
-Lyddesign &amp; musik: Jesper Lundager</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231634/to_skr_belige_hjerter.mp3</guid>
-			<pubDate>Thu, 04 Nov 2021 06:35:51 +0000</pubDate>
-			<itunes:duration>00:18:44</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231634/to_skr_belige_hjerter.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Theis true crime - Pigen der blev splittet i to</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44237256/nts_02_theis_true_crime.mp3</link>
-			<description>Theis har fået færden af noget på Struers værtshuse. Nogen mener, at det spøger i Søndergade 13. Men, hvis det er sandt, hvad skyldes det så? Theis sætter sig for at komme til bunds i historien og finde ud af, hvem hun var - pigen i nr. 13. Imens fortsætter sømandssangen på byens værtshuse og Theis's samvittighed vækkes langsomt til live.
-
-Nordic True Storyteller: Theis Kamuk Larsen
-Vært &amp; tilrettelæggelse: Tanja Kjeldgaard
-Lyddesign &amp; musik: Jesper Lundager</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44237256/nts_02_theis_true_crime.mp3</guid>
-			<pubDate>Thu, 07 Oct 2021 10:44:16 +0000</pubDate>
-			<itunes:duration>00:27:44</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44237256/nts_02_theis_true_crime.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mormor med Karoline Balstrøm</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46427661/mormor_nts_master_1.mp3</link>
-			<description>'Mormor’ er Karolines fortælling om at være bange for måske at miste en god (og bogstaveligtalt gammel) ven, fordi hendes mormor langsomt 
-Det hele er meget forvirrende, fordi hun aldrig helt ved hvad status er og ting stadig bliver ændret og slået fast uge for uge.
-Måske er det alt sammen lidt ekstra scary, fordi Karoline ikke har mistet nogen før, og ikke ved hvorvidt hun er ved det nu eller ej. Hun kender jo ikke tegnene.
-Men mest af alt handler den om mormor og morfars forhold, som i mine øjne er det überste og mest romantiske i hele verden.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46427661/mormor_nts_master_1.mp3</guid>
-			<pubDate>Thu, 09 Sep 2021 12:07:07 +0000</pubDate>
-			<itunes:duration>00:11:20</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46427661/mormor_nts_master_1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>&quot;I en brystlomme ved midnatstid&quot; - Asbjørn Mogstad</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46427631/asbj_rn_nts_master_2.mp3</link>
-			<description>To unge mænd rejser ud i nattelivet på jagt efter det, de begge så inderligt søger – kærligheden.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46427631/asbj_rn_nts_master_2.mp3</guid>
-			<pubDate>Thu, 09 Sep 2021 06:26:42 +0000</pubDate>
-			<itunes:duration>00:10:52</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46427631/asbj_rn_nts_master_2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>NORDIC TRUE STORIES - INTRO</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231182/loud_promo.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231182/loud_promo.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 08:10:51 +0000</pubDate>
-			<itunes:duration>00:00:59</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231182/loud_promo.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Et knald med konsekvenser - og kærlighed</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231936/nts_04_et_knald_med_konsekvenser_final_udgivelse.mp3</link>
-			<description>En våd aften i byen får konsekvenser for Julie, da hun opdager to streger på en graviditetstest. Og manden, der ellers opfattede sig selv som en fri fugl, må i gang med at bygge redde. ‘Et knald med konsekvenser - og kærlighed’ er historien om at hoppe ud i det uvisse og opdage, at det var lige præcis sådan det skulle være.
-
-Nordic True Storyteller: Julie Rylander-Petersen
-Vært &amp; tilrettelæggelse: Tanja Kjeldgaard
-Lyddesign &amp; musik: Jesper Lundager</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231936/nts_04_et_knald_med_konsekvenser_final_udgivelse.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 08:10:51 +0000</pubDate>
-			<itunes:duration>00:12:14</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231936/nts_04_et_knald_med_konsekvenser_final_udgivelse.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Da Danmark gik i stå</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43779322/da_danmark_gik_i_sta.mp3</link>
-			<description>Et vidnesbyrd om den dag, hvor verden - som vi kendte den - ændrede sig totalt. 
-Vi befinder os i marts 2020 - før nedlukning af landet. Tanja er på podcastkursus i Struer, da en af kursisterne tester corona-positiv. Fra at synes det med corona, håndsprit og dumme støvlehilsner er noget hysteri, bliver alle overflader, mikrofoner og mennesker nu potentielle trusler i en ny virkelighed, der ligner den vi kender - men som føles helt anderledes. Hudsulten og altanmusikken buldrer - og uvished og afmagt afslører både medmenneskers bedste og værste sider. Hvor længe kan vi holde vejret?
-
-‘Da Danmark gik i stå’ er et unik historie optaget midt i en verdensomspændende pandemi, da den pludselig slog ned midt i en ellers lille og fredelig provinsby. Hvor ingen vidste-  eller var enige om - hvad der var det rigtige at foretage sig. 
-
-
-
-
-
-
- 
-Nordic True Storyteller: Tanja Kjeldgaard
-Vært &amp; tilrettelæggelse: Tanja Kjeldgaard &amp; Linda Nygaard
-Lyddesign &amp; musik: Jesper Lundager</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43779322/da_danmark_gik_i_sta.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 08:10:50 +0000</pubDate>
-			<itunes:duration>00:39:50</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43779322/da_danmark_gik_i_sta.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>På date med et spøgelse</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44432891/nordic_true_stories_5_ghostet_nyspeak_final.mp3</link>
-			<description>Søs er ikke til mænd, der bryder ud i sang midt i en date. Caroline er den kyniske type, der ikke spilder tid på fyre, hvis de ikke viser, at de virkelig vil hende. Men der er noget over den høje mand i læderjakke, der giver kvinderne sommerfugle i maven, og får dem til at efterspørge en date nummer to. 
-Men hvem er manden - de har været på på date med egentlig - og skal de være bekymrede for ham?
-
-Nordic True Storyteller: Tanja Kjeldgaard
-Vært &amp; tilrettelæggelse: Signe Hare 
-Lyddesign &amp; musik: Jesper Lundager</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44432891/nordic_true_stories_5_ghostet_nyspeak_final.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 08:10:50 +0000</pubDate>
-			<itunes:duration>00:11:07</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44432891/nordic_true_stories_5_ghostet_nyspeak_final.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Det er ikke en hest</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45214872/nts_det_er_ikke_en_hest.mp3</link>
-			<description>Anlægget spiller stadig da hun vågner. Det har det gjort en uge nu. Gulvet er blevet til en forhindringsbane af flasker og fyldte askebæger. Hvor var det gået så galt, og hvad skulle de gøre nu? Hænderne er begyndt at ryste - de er løbet tør for alkohol. Det hele var ellers startet så godt for en uge siden. Dengang de mødtes for at lave en podcast om skak. Efter en uge har de stadig ikke fået spillet et eneste spil skak, men har startet et andet eksperiment - en søgen efter et moralsk ståsted de aldrig har kendt, og som trækker dem dybere væk fra den virkelighed, ingen af dem bryder sig særlig meget om. 
-
-Nordic True Storyteller: Emma Jacobi 
-Vært &amp; tilrettelæggelse: Tanja Kjeldgaard
-Lyddesign &amp; musik: Jesper Lundager</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45214872/nts_det_er_ikke_en_hest.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 08:10:50 +0000</pubDate>
-			<itunes:duration>00:27:22</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45214872/nts_det_er_ikke_en_hest.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mit allerfarligste sted</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45691940/mit_aller_farligste_sted_final_til_gennemlyt_hos_dorte.mp3</link>
-			<description>Thomas er en ung mand med en stor libido - og en alt for lille forhud. Han går uden om kvinder han egentlig er interesseret i - fordi det ofte ender smertefuldt. Den slags sætter sig i en mand og til sidst er der kun en mulighed tilbage: Full kosher. I ‘Mit allerfarligste sted’ tager han dig med helt ind under huden - nærmere bestemt forhuden - når han lukker os ind i sin smertefulde færd for at genvinde en ny manddom. 
-
-Nordic True Storyteller: Thomas Ipsen
-Vært &amp; tilrettelæggelse: Tanja Kjeldgaard
-Lyddesign &amp; musik: Jesper Lundager</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45691940/mit_aller_farligste_sted_final_til_gennemlyt_hos_dorte.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 08:10:50 +0000</pubDate>
-			<itunes:duration>00:27:02</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45691940/mit_aller_farligste_sted_final_til_gennemlyt_hos_dorte.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   NORDIC TRUE STORIES
+  </title>
+  <link>
+   https://loud.land/podcast/nordic-true-stories
+  </link>
+  <description>
+   Nordic True Stories forkæler dine ører med skæve og hjertevarme reportager om livet - når det kan mærkes: Menneskeskæbner indsamlet med følsomme mikrofoner. Vi tager dig med ud i landets og ind i sindets afkroge. Vi dvæler ved detaljerne; den larmende stilhed, det dirrende åndedræt og det forløsende suk. Kort sagt storytelling, der går tæt på. &lt;br /&gt;&lt;br /&gt;Nordic True Stories er produceret af Nordic Podcast Academy i samarbejde med Rakkerpak productions &amp; Struer Lydens By&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard &lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager &lt;br /&gt;Producer: Dorte Palle &lt;br /&gt;Executive producers: Tor Arnbjørn og Peter Kjeldbjerg
+  </description>
+  <atom:link href="https://www.spreaker.com/show/4769496/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Documentary
+  </category>
+  <copyright>
+   521943
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/827984e90ff433469ac9b1dec0cadcf4.jpg
+   </url>
+   <title>
+    NORDIC TRUE STORIES
+   </title>
+   <link>
+    https://loud.land/podcast/nordic-true-stories
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   LOUD
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    LOUD
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/827984e90ff433469ac9b1dec0cadcf4.jpg"/>
+  <itunes:subtitle>
+   Nordic True Stories forkæler dine ører med skæve og hjertevarme reportager om livet - når det kan mærkes: Menneskeskæbner indsamlet med følsomme mikrofoner. Vi tager dig med ud i landets og ind i sindets afkroge. Vi dvæler ved detaljerne; den larmende...
+  </itunes:subtitle>
+  <itunes:summary>
+   Nordic True Stories forkæler dine ører med skæve og hjertevarme reportager om livet - når det kan mærkes: Menneskeskæbner indsamlet med følsomme mikrofoner. Vi tager dig med ud i landets og ind i sindets afkroge. Vi dvæler ved detaljerne; den larmende stilhed, det dirrende åndedræt og det forløsende suk. Kort sagt storytelling, der går tæt på. &lt;br /&gt;&lt;br /&gt;Nordic True Stories er produceret af Nordic Podcast Academy i samarbejde med Rakkerpak productions &amp; Struer Lydens By&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard &lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager &lt;br /&gt;Producer: Dorte Palle &lt;br /&gt;Executive producers: Tor Arnbjørn og Peter Kjeldbjerg
+  </itunes:summary>
+  <itunes:category text="Society &amp; Culture">
+   <itunes:category text="Documentary"/>
+  </itunes:category>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    Danmarks gæstearbejdere
+   </title>
+   <link>
+    https://www.spreaker.com/episode/danmarks-gaestearbejdere--49132557
+   </link>
+   <description>
+    For lidt over 50 år siden, kom de sidste gæstearbejdere til Danmark for at hjælpe os alle, ved at give deres arbejdskraft. Nogle blev og andre tog væk igen. Merel er taget til Immigrantmuseets markering af invandrestoppet i Farum kulturhus, for at tale med de fremmødte om, hvad det er, som de har opnået her i Danmark og hvordan de føler, at de blev og bliver modtaget, nu 50 år siden de ankom på hovedbanegården i København. &lt;br /&gt;&lt;br /&gt;Produceret af Rakkerpak Productions&lt;br /&gt;Tilrettelæggelse og klip, Merel Rasmussen&lt;br /&gt;Lyddesign og teknik, René Slott&lt;br /&gt;Redaktør, Dorte Palle
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/49132557
+   </guid>
+   <pubDate>
+    Thu, 24 Mar 2022 08:19:20 +0000
+   </pubDate>
+   <enclosure length="27152553" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49132557/nts_guldbryllups_final_master.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    For lidt over 50 år siden, kom de sidste gæstearbejdere til Danmark for at hjælpe os alle, ved at give deres arbejdskraft. Nogle blev og andre tog væk igen. Merel er taget til Immigrantmuseets markering af invandrestoppet i Farum kulturhus, for at...
+   </itunes:subtitle>
+   <itunes:summary>
+    For lidt over 50 år siden, kom de sidste gæstearbejdere til Danmark for at hjælpe os alle, ved at give deres arbejdskraft. Nogle blev og andre tog væk igen. Merel er taget til Immigrantmuseets markering af invandrestoppet i Farum kulturhus, for at tale med de fremmødte om, hvad det er, som de har opnået her i Danmark og hvordan de føler, at de blev og bliver modtaget, nu 50 år siden de ankom på hovedbanegården i København. &lt;br /&gt;&lt;br /&gt;Produceret af Rakkerpak Productions&lt;br /&gt;Tilrettelæggelse og klip, Merel Rasmussen&lt;br /&gt;Lyddesign og teknik, René Slott&lt;br /&gt;Redaktør, Dorte Palle
+   </itunes:summary>
+   <itunes:duration>
+    678
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e37a90bc64bd7796671b1d293966f7f9.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Louise, Louise, Louise
+   </title>
+   <link>
+    https://www.spreaker.com/episode/louise-louise-louise--47665501
+   </link>
+   <description>
+    I Brønshøj ligger Brønshøjparken. Men alle folk i Brønshøj kender kun parken under navnet Louisehullet. Der har i hundrede år gået mange historier om parken. Parken skulle være hjemsøgt, og den lille cirkelrunde sø i parken, som også hedder Louisehullet, skulle være bundløs. Men hvem var Louise? Det går der også mange historier om. Jeg har sat mig for at finde ud af det.&lt;br /&gt;Nordic True Stories er produceret af Nordic Podcast Academy i samarbejde med Rakkerpak productions &amp; Struer Lydens By.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Jonas Henrik Neivelt&lt;br /&gt;&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard &lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager &lt;br /&gt;Producer: Dorte Palle &lt;br /&gt;Executive producers: Tor Arnbjørn og Peter Kjeldbjerg
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47665501
+   </guid>
+   <pubDate>
+    Thu, 02 Dec 2021 11:36:50 +0000
+   </pubDate>
+   <enclosure length="64869190" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47665501/nts_louise_louise_louise_master.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    I Brønshøj ligger Brønshøjparken. Men alle folk i Brønshøj kender kun parken under navnet Louisehullet. Der har i hundrede år gået mange historier om parken. Parken skulle være hjemsøgt, og den lille cirkelrunde sø i parken, som også hedder...
+   </itunes:subtitle>
+   <itunes:summary>
+    I Brønshøj ligger Brønshøjparken. Men alle folk i Brønshøj kender kun parken under navnet Louisehullet. Der har i hundrede år gået mange historier om parken. Parken skulle være hjemsøgt, og den lille cirkelrunde sø i parken, som også hedder Louisehullet, skulle være bundløs. Men hvem var Louise? Det går der også mange historier om. Jeg har sat mig for at finde ud af det.&lt;br /&gt;Nordic True Stories er produceret af Nordic Podcast Academy i samarbejde med Rakkerpak productions &amp; Struer Lydens By.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Jonas Henrik Neivelt&lt;br /&gt;&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard &lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager &lt;br /&gt;Producer: Dorte Palle &lt;br /&gt;Executive producers: Tor Arnbjørn og Peter Kjeldbjerg
+   </itunes:summary>
+   <itunes:duration>
+    1621
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/141b72125d2ed4e99ff62b4e539c98ac.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Den der dør først
+   </title>
+   <link>
+    https://www.spreaker.com/episode/den-der-dor-forst--47619019
+   </link>
+   <description>
+    Helle tager de 400 trin til toppen af det unikke gyldne tårn på Vor Frelsers Kirke på Christianshavn. De sidste 150 på den udvendige spiralsnoede trappe - med et ikke særlig højt gelænder. Turen er ramme om en intens kærlighedshistorie og en frygtelig hændelse i fortiden, der vender alt på vrangen, så ingenting nogensinde bliver det samme igen.  &lt;br /&gt;&lt;br /&gt;Hvis du selv har selvmordstanker, så kan du kontakte Livslinien på 70 20 12 01.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Helle Højland&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47619019
+   </guid>
+   <pubDate>
+    Tue, 23 Nov 2021 12:17:11 +0000
+   </pubDate>
+   <enclosure length="22147492" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47619019/den_der_d_r_f_rst.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Helle tager de 400 trin til toppen af det unikke gyldne tårn på Vor Frelsers Kirke på Christianshavn. De sidste 150 på den udvendige spiralsnoede trappe - med et ikke særlig højt gelænder. Turen er ramme om en intens kærlighedshistorie og en frygtelig...
+   </itunes:subtitle>
+   <itunes:summary>
+    Helle tager de 400 trin til toppen af det unikke gyldne tårn på Vor Frelsers Kirke på Christianshavn. De sidste 150 på den udvendige spiralsnoede trappe - med et ikke særlig højt gelænder. Turen er ramme om en intens kærlighedshistorie og en frygtelig hændelse i fortiden, der vender alt på vrangen, så ingenting nogensinde bliver det samme igen.  &lt;br /&gt;&lt;br /&gt;Hvis du selv har selvmordstanker, så kan du kontakte Livslinien på 70 20 12 01.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Helle Højland&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </itunes:summary>
+   <itunes:duration>
+    553
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1791b0d60f4fa61b76077b5a74b6cb63.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Min søns morfar - Kærlighed og alkoholisme
+   </title>
+   <link>
+    https://www.spreaker.com/episode/min-sons-morfar-kaerlighed-og-alkoholisme--43231279
+   </link>
+   <description>
+    Hvem var egentlig manden, der kom vadende ind på fritidshjemmet med fuldt dykkerudstyr. Ham, der havde fjordens hurtigste speedbåd og som kunne få en kvinde til at føle sig som det 8. vidunder? Men også manden der langsomt blev opløst af den væske, der kan fortynde og forpeste vores allernærmeste relationer? Da Kathrine bliver gravid beslutter hun sig for at fortælle historien ‘Hendes søns morfar’.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Kathrine Wismann&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43231279
+   </guid>
+   <pubDate>
+    Fri, 05 Nov 2021 12:10:50 +0000
+   </pubDate>
+   <enclosure length="37874251" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231279/nts_3_min_s_ns_morfar_final.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvem var egentlig manden, der kom vadende ind på fritidshjemmet med fuldt dykkerudstyr. Ham, der havde fjordens hurtigste speedbåd og som kunne få en kvinde til at føle sig som det 8. vidunder? Men også manden der langsomt blev opløst af den væske,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvem var egentlig manden, der kom vadende ind på fritidshjemmet med fuldt dykkerudstyr. Ham, der havde fjordens hurtigste speedbåd og som kunne få en kvinde til at føle sig som det 8. vidunder? Men også manden der langsomt blev opløst af den væske, der kan fortynde og forpeste vores allernærmeste relationer? Da Kathrine bliver gravid beslutter hun sig for at fortælle historien ‘Hendes søns morfar’.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Kathrine Wismann&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </itunes:summary>
+   <itunes:duration>
+    2364
+   </itunes:duration>
+   <itunes:keywords>
+    alkohol,alkoholisme,bedemand,død,familie,historie,kærlighed,liv,misbrug,morfar,roskilde
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0ed404babc5d9cb6aa74ab3c5017114d.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Man kan ikke løbe fra et spisemonster
+   </title>
+   <link>
+    https://www.spreaker.com/episode/man-kan-ikke-lobe-fra-et-spisemonster--47327308
+   </link>
+   <description>
+    “Jeg er ikke bange for at dø”. &lt;br /&gt;Puk vinder pokalløbet i 3. klasse, fordi hendes storesøster, Sofie, løber med rundt. Året efter tager spisemonsteret sin første bid af hende. Fra familiens tilskuerpladser følger Sofie apatisk sin lillesøster årelange kamp med spisemonstret. I denne fortælling genoplever familien det længste løb, Puk tager med spisemonsteret en junidag i 2019. Fordi hun ville væk. Rigtig væk.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Sofie Hoppe Søe&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager // René Slott
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47327308
+   </guid>
+   <pubDate>
+    Fri, 05 Nov 2021 07:10:48 +0000
+   </pubDate>
+   <enclosure length="53613631" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47327308/nts_spisemonstret_fina.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    “Jeg er ikke bange for at dø”. 
+Puk vinder pokalløbet i 3. klasse, fordi hendes storesøster, Sofie, løber med rundt. Året efter tager spisemonsteret sin første bid af hende. Fra familiens tilskuerpladser følger Sofie apatisk sin lillesøster årelange...
+   </itunes:subtitle>
+   <itunes:summary>
+    “Jeg er ikke bange for at dø”. &lt;br /&gt;Puk vinder pokalløbet i 3. klasse, fordi hendes storesøster, Sofie, løber med rundt. Året efter tager spisemonsteret sin første bid af hende. Fra familiens tilskuerpladser følger Sofie apatisk sin lillesøster årelange kamp med spisemonstret. I denne fortælling genoplever familien det længste løb, Puk tager med spisemonsteret en junidag i 2019. Fordi hun ville væk. Rigtig væk.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Sofie Hoppe Søe&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager // René Slott
+   </itunes:summary>
+   <itunes:duration>
+    1341
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ed1f582de61a8f21971c7b3aa53147d0.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    To skrøbelige hjerter - Drengen med Danmarks mindste fødselsvægt
+   </title>
+   <link>
+    https://www.spreaker.com/episode/to-skrobelige-hjerter-drengen-med-danmarks-mindste-fodselsvaegt--43231634
+   </link>
+   <description>
+    Han vejede ikke meget mere end en pakke smør, da han kom til verden - men han er her stadig.&lt;br /&gt;På en legeplads i Struer møder Luna Svarrer drengen Frederik og hans mormor. Frederik er født for tidligt. En lille skrøbelig dreng, med Danmarks mindste hjerte. Men mellem Frederik og og hans mormor vokser en stor kærlighed, der gør dem begge stærkere.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Luna Svarrer&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43231634
+   </guid>
+   <pubDate>
+    Thu, 04 Nov 2021 06:25:03 +0000
+   </pubDate>
+   <enclosure length="18050447" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231634/to_skr_belige_hjerter.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Han vejede ikke meget mere end en pakke smør, da han kom til verden - men han er her stadig.
+På en legeplads i Struer møder Luna Svarrer drengen Frederik og hans mormor. Frederik er født for tidligt. En lille skrøbelig dreng, med Danmarks mindste...
+   </itunes:subtitle>
+   <itunes:summary>
+    Han vejede ikke meget mere end en pakke smør, da han kom til verden - men han er her stadig.&lt;br /&gt;På en legeplads i Struer møder Luna Svarrer drengen Frederik og hans mormor. Frederik er født for tidligt. En lille skrøbelig dreng, med Danmarks mindste hjerte. Men mellem Frederik og og hans mormor vokser en stor kærlighed, der gør dem begge stærkere.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Luna Svarrer&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </itunes:summary>
+   <itunes:duration>
+    1125
+   </itunes:duration>
+   <itunes:keywords>
+    familiebånd,fødsel,fødselsvægt,frygt,kærlighed,legeplads,lille,miste,overlevelse,premature,skrøbelighed,svigt,tro
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a3a5f8dcc6c5a861295e80c17e991d85.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Theis true crime - Pigen der blev splittet i to
+   </title>
+   <link>
+    https://www.spreaker.com/episode/theis-true-crime-pigen-der-blev-splittet-i-to--44237256
+   </link>
+   <description>
+    Theis har fået færden af noget på Struers værtshuse. Nogen mener, at det spøger i Søndergade 13. Men, hvis det er sandt, hvad skyldes det så? Theis sætter sig for at komme til bunds i historien og finde ud af, hvem hun var - pigen i nr. 13. Imens fortsætter sømandssangen på byens værtshuse og Theis's samvittighed vækkes langsomt til live.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Theis Kamuk Larsen&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44237256
+   </guid>
+   <pubDate>
+    Thu, 07 Oct 2021 10:35:16 +0000
+   </pubDate>
+   <enclosure length="26690081" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44237256/nts_02_theis_true_crime.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Theis har fået færden af noget på Struers værtshuse. Nogen mener, at det spøger i Søndergade 13. Men, hvis det er sandt, hvad skyldes det så? Theis sætter sig for at komme til bunds i historien og finde ud af, hvem hun var - pigen i nr. 13. Imens...
+   </itunes:subtitle>
+   <itunes:summary>
+    Theis har fået færden af noget på Struers værtshuse. Nogen mener, at det spøger i Søndergade 13. Men, hvis det er sandt, hvad skyldes det så? Theis sætter sig for at komme til bunds i historien og finde ud af, hvem hun var - pigen i nr. 13. Imens fortsætter sømandssangen på byens værtshuse og Theis's samvittighed vækkes langsomt til live.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Theis Kamuk Larsen&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </itunes:summary>
+   <itunes:duration>
+    1665
+   </itunes:duration>
+   <itunes:keywords>
+    crime,genfærd,journalist,splittelse,spøgelse,struer,true,undersøgelse,unge
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/87a404edf31736544ecbdbcdb611ca53.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    'Mormor' med Karoline Balstrøm
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mormor-med-karoline-balstrom--46427661
+   </link>
+   <description>
+    'Mormor’ er fortællingen om for første gang at miste nogen, man virkelig holder af. Man kan miste på mange forskellige måder. I 'Mormor' sker det langsomt og gradvist. Det gør tabet ekstremt smertefuldt og til tider forvirrende.&lt;br /&gt;&lt;br /&gt;Men det er også en fortælling om det überste og mest romantiske i hele verden: Livslang kærlighed mellem to mennesker der stadig taler om sprøjteorgasmer adskillige årtier efter de har mødt hinanden.&lt;br /&gt;&lt;br /&gt;Musik: Relaxing Piano Music af Kevin MacLeod.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46427661
+   </guid>
+   <pubDate>
+    Thu, 09 Sep 2021 11:47:24 +0000
+   </pubDate>
+   <enclosure length="10882057" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46427661/mormor_nts_master_1.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    'Mormor’ er fortællingen om for første gang at miste nogen, man virkelig holder af. Man kan miste på mange forskellige måder. I 'Mormor' sker det langsomt og gradvist. Det gør tabet ekstremt smertefuldt og til tider forvirrende.
+
+Men det er også en...
+   </itunes:subtitle>
+   <itunes:summary>
+    'Mormor’ er fortællingen om for første gang at miste nogen, man virkelig holder af. Man kan miste på mange forskellige måder. I 'Mormor' sker det langsomt og gradvist. Det gør tabet ekstremt smertefuldt og til tider forvirrende.&lt;br /&gt;&lt;br /&gt;Men det er også en fortælling om det überste og mest romantiske i hele verden: Livslang kærlighed mellem to mennesker der stadig taler om sprøjteorgasmer adskillige årtier efter de har mødt hinanden.&lt;br /&gt;&lt;br /&gt;Musik: Relaxing Piano Music af Kevin MacLeod.
+   </itunes:summary>
+   <itunes:duration>
+    681
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1f272784a50a37f8fc15ace9e7e2ad5f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    'I en brystlomme ved midnatstid' - Asbjørn Mogstad
+   </title>
+   <link>
+    https://www.spreaker.com/episode/i-en-brystlomme-ved-midnatstid-asbjorn-mogstad--46427631
+   </link>
+   <description>
+    To unge mænd rejser ud i nattelivet på jagt efter det, de begge så inderligt søger – kærligheden.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46427631
+   </guid>
+   <pubDate>
+    Wed, 08 Sep 2021 15:42:29 +0000
+   </pubDate>
+   <enclosure length="10434005" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46427631/asbj_rn_nts_master_2.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    To unge mænd rejser ud i nattelivet på jagt efter det, de begge så inderligt søger – kærligheden.
+   </itunes:subtitle>
+   <itunes:summary>
+    To unge mænd rejser ud i nattelivet på jagt efter det, de begge så inderligt søger – kærligheden.
+   </itunes:summary>
+   <itunes:duration>
+    653
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a1d852fe15f98541e60a43ed0fee5917.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Mit allerfarligste sted
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mit-allerfarligste-sted--45691940
+   </link>
+   <description>
+    Thomas er en ung mand med en stor libido - og en alt for lille forhud. Han går uden om kvinder han egentlig er interesseret i - fordi det ofte ender smertefuldt. Den slags sætter sig i en mand og til sidst er der kun en mulighed tilbage: Full kosher. I ‘Mit allerfarligste sted’ tager han dig med helt ind under huden - nærmere bestemt forhuden - når han lukker os ind i sin smertefulde færd for at genvinde en ny manddom. &lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Thomas Ipsen&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45691940
+   </guid>
+   <pubDate>
+    Wed, 14 Jul 2021 18:20:11 +0000
+   </pubDate>
+   <enclosure length="26022601" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45691940/mit_aller_farligste_sted_final_til_gennemlyt_hos_dorte.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Thomas er en ung mand med en stor libido - og en alt for lille forhud. Han går uden om kvinder han egentlig er interesseret i - fordi det ofte ender smertefuldt. Den slags sætter sig i en mand og til sidst er der kun en mulighed tilbage: Full kosher....
+   </itunes:subtitle>
+   <itunes:summary>
+    Thomas er en ung mand med en stor libido - og en alt for lille forhud. Han går uden om kvinder han egentlig er interesseret i - fordi det ofte ender smertefuldt. Den slags sætter sig i en mand og til sidst er der kun en mulighed tilbage: Full kosher. I ‘Mit allerfarligste sted’ tager han dig med helt ind under huden - nærmere bestemt forhuden - når han lukker os ind i sin smertefulde færd for at genvinde en ny manddom. &lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Thomas Ipsen&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </itunes:summary>
+   <itunes:duration>
+    1623
+   </itunes:duration>
+   <itunes:keywords>
+    lyst,maskulinitet,omskæring,operation,pik,sex,ung
+   </itunes:keywords>
+   <itunes:explicit>
+    yes
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6375aab00ca7376e605b8916fac87f20.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Det er ikke en hest
+   </title>
+   <link>
+    https://www.spreaker.com/episode/det-er-ikke-en-hest--45214872
+   </link>
+   <description>
+    Anlægget spiller stadig da hun vågner. Det har det gjort en uge nu. Gulvet er blevet til en forhindringsbane af flasker og fyldte askebæger. Hvor var det gået så galt, og hvad skulle de gøre nu? Hænderne er begyndt at ryste - de er løbet tør for alkohol. Det hele var ellers startet så godt for en uge siden. Dengang de mødtes for at lave en podcast om skak. Efter en uge har de stadig ikke fået spillet et eneste spil skak, men har startet et andet eksperiment - en søgen efter et moralsk ståsted de aldrig har kendt, og som trækker dem dybere væk fra den virkelighed, ingen af dem bryder sig særlig meget om. &lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Emma Jacobi &lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45214872
+   </guid>
+   <pubDate>
+    Wed, 09 Jun 2021 08:34:17 +0000
+   </pubDate>
+   <enclosure length="26337742" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45214872/nts_det_er_ikke_en_hest.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Anlægget spiller stadig da hun vågner. Det har det gjort en uge nu. Gulvet er blevet til en forhindringsbane af flasker og fyldte askebæger. Hvor var det gået så galt, og hvad skulle de gøre nu? Hænderne er begyndt at ryste - de er løbet tør for...
+   </itunes:subtitle>
+   <itunes:summary>
+    Anlægget spiller stadig da hun vågner. Det har det gjort en uge nu. Gulvet er blevet til en forhindringsbane af flasker og fyldte askebæger. Hvor var det gået så galt, og hvad skulle de gøre nu? Hænderne er begyndt at ryste - de er løbet tør for alkohol. Det hele var ellers startet så godt for en uge siden. Dengang de mødtes for at lave en podcast om skak. Efter en uge har de stadig ikke fået spillet et eneste spil skak, men har startet et andet eksperiment - en søgen efter et moralsk ståsted de aldrig har kendt, og som trækker dem dybere væk fra den virkelighed, ingen af dem bryder sig særlig meget om. &lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Emma Jacobi &lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </itunes:summary>
+   <itunes:duration>
+    1643
+   </itunes:duration>
+   <itunes:keywords>
+    alkohol,boheme,chess,loud,skak,smøger
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2c834a6d300da678a4ce6a30bce47ee7.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    På date med et spøgelse
+   </title>
+   <link>
+    https://www.spreaker.com/episode/pa-date-med-et-spogelse--44432891
+   </link>
+   <description>
+    Søs er ikke til mænd, der bryder ud i sang midt i en date. Caroline er den kyniske type, der ikke spilder tid på fyre, hvis de ikke viser, at de virkelig vil hende. Men der er noget over den høje mand i læderjakke, der giver kvinderne sommerfugle i maven, og får dem til at efterspørge en date nummer to. &lt;br /&gt;Men hvem er manden - de har været på på date med egentlig - og skal de være bekymrede for ham?&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Tanja Kjeldgaard&lt;br /&gt;Vært &amp; tilrettelæggelse: Signe Hare &lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44432891
+   </guid>
+   <pubDate>
+    Thu, 22 Apr 2021 13:10:12 +0000
+   </pubDate>
+   <enclosure length="10680946" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44432891/nordic_true_stories_5_ghostet_nyspeak_final.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Søs er ikke til mænd, der bryder ud i sang midt i en date. Caroline er den kyniske type, der ikke spilder tid på fyre, hvis de ikke viser, at de virkelig vil hende. Men der er noget over den høje mand i læderjakke, der giver kvinderne sommerfugle i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Søs er ikke til mænd, der bryder ud i sang midt i en date. Caroline er den kyniske type, der ikke spilder tid på fyre, hvis de ikke viser, at de virkelig vil hende. Men der er noget over den høje mand i læderjakke, der giver kvinderne sommerfugle i maven, og får dem til at efterspørge en date nummer to. &lt;br /&gt;Men hvem er manden - de har været på på date med egentlig - og skal de være bekymrede for ham?&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Tanja Kjeldgaard&lt;br /&gt;Vært &amp; tilrettelæggelse: Signe Hare &lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </itunes:summary>
+   <itunes:duration>
+    668
+   </itunes:duration>
+   <itunes:keywords>
+    bar,date,datingapp,genåbning,ghost,ghostet,love,spøgelse,unge
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d920bf06c20a914ea2080f39fc61140a.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Da Danmark gik i stå
+   </title>
+   <link>
+    https://www.spreaker.com/episode/da-danmark-gik-i-sta--43779322
+   </link>
+   <description>
+    Et vidnesbyrd om den dag, hvor verden - som vi kendte den - ændrede sig totalt. &lt;br /&gt;Vi befinder os i marts 2020 - før nedlukning af landet. Tanja er på podcastkursus i Struer, da en af kursisterne tester corona-positiv. Fra at synes det med corona, håndsprit og dumme støvlehilsner er noget hysteri, bliver alle overflader, mikrofoner og mennesker nu potentielle trusler i en ny virkelighed, der ligner den vi kender - men som føles helt anderledes. Hudsulten og altanmusikken buldrer - og uvished og afmagt afslører både medmenneskers bedste og værste sider. Hvor længe kan vi holde vejret?&lt;br /&gt;&lt;br /&gt;‘Da Danmark gik i stå’ er et unik historie optaget midt i en verdensomspændende pandemi, da den pludselig slog ned midt i en ellers lille og fredelig provinsby. Hvor ingen vidste-  eller var enige om - hvad der var det rigtige at foretage sig. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;Nordic True Storyteller: Tanja Kjeldgaard&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard &amp; Linda Nygaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43779322
+   </guid>
+   <pubDate>
+    Tue, 09 Mar 2021 04:05:14 +0000
+   </pubDate>
+   <enclosure length="38319378" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43779322/da_danmark_gik_i_sta.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Et vidnesbyrd om den dag, hvor verden - som vi kendte den - ændrede sig totalt. 
+Vi befinder os i marts 2020 - før nedlukning af landet. Tanja er på podcastkursus i Struer, da en af kursisterne tester corona-positiv. Fra at synes det med corona,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Et vidnesbyrd om den dag, hvor verden - som vi kendte den - ændrede sig totalt. &lt;br /&gt;Vi befinder os i marts 2020 - før nedlukning af landet. Tanja er på podcastkursus i Struer, da en af kursisterne tester corona-positiv. Fra at synes det med corona, håndsprit og dumme støvlehilsner er noget hysteri, bliver alle overflader, mikrofoner og mennesker nu potentielle trusler i en ny virkelighed, der ligner den vi kender - men som føles helt anderledes. Hudsulten og altanmusikken buldrer - og uvished og afmagt afslører både medmenneskers bedste og værste sider. Hvor længe kan vi holde vejret?&lt;br /&gt;&lt;br /&gt;‘Da Danmark gik i stå’ er et unik historie optaget midt i en verdensomspændende pandemi, da den pludselig slog ned midt i en ellers lille og fredelig provinsby. Hvor ingen vidste-  eller var enige om - hvad der var det rigtige at foretage sig. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;Nordic True Storyteller: Tanja Kjeldgaard&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard &amp; Linda Nygaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </itunes:summary>
+   <itunes:duration>
+    2391
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8e6f2a3dea567735fb15b14bf323d80b.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Et knald med konsekvenser - og kærlighed
+   </title>
+   <link>
+    https://www.spreaker.com/episode/et-knald-med-konsekvenser-og-kaerlighed--43231936
+   </link>
+   <description>
+    En våd aften i byen får konsekvenser for Julie, da hun opdager to streger på en graviditetstest. Og manden, der ellers opfattede sig selv som en fri fugl, må i gang med at bygge redde. ‘Et knald med konsekvenser - og kærlighed’ er historien om at hoppe ud i det uvisse og opdage, at det var lige præcis sådan det skulle være.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Julie Rylander-Petersen&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43231936
+   </guid>
+   <pubDate>
+    Sun, 07 Feb 2021 06:35:08 +0000
+   </pubDate>
+   <enclosure length="11810317" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231936/nts_04_et_knald_med_konsekvenser_final_udgivelse.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    En våd aften i byen får konsekvenser for Julie, da hun opdager to streger på en graviditetstest. Og manden, der ellers opfattede sig selv som en fri fugl, må i gang med at bygge redde. ‘Et knald med konsekvenser - og kærlighed’ er historien om at...
+   </itunes:subtitle>
+   <itunes:summary>
+    En våd aften i byen får konsekvenser for Julie, da hun opdager to streger på en graviditetstest. Og manden, der ellers opfattede sig selv som en fri fugl, må i gang med at bygge redde. ‘Et knald med konsekvenser - og kærlighed’ er historien om at hoppe ud i det uvisse og opdage, at det var lige præcis sådan det skulle være.&lt;br /&gt;&lt;br /&gt;Nordic True Storyteller: Julie Rylander-Petersen&lt;br /&gt;Vært &amp; tilrettelæggelse: Tanja Kjeldgaard&lt;br /&gt;Lyddesign &amp; musik: Jesper Lundager
+   </itunes:summary>
+   <itunes:duration>
+    735
+   </itunes:duration>
+   <itunes:keywords>
+    alternativ,barn,bollevenner,bryllup,far,graviditetstest,kernefamilie,mod,mor,ny,nytår,onenightstand,sankthans,sex,start,uforpligtende
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/10dde5bd39f5625b8680718cec4722f8.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    NORDIC TRUE STORIES - INTRO
+   </title>
+   <link>
+    https://www.spreaker.com/episode/nordic-true-stories-intro--43231182
+   </link>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43231182
+   </guid>
+   <pubDate>
+    Mon, 01 Feb 2021 17:07:40 +0000
+   </pubDate>
+   <enclosure length="1024044" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43231182/loud_promo.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:duration>
+    60
+   </itunes:duration>
+   <itunes:keywords>
+    ægte,autentisk,crime,danmark,historie,livet,sårbar,skæve,stærk,stories,true,unge
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/827984e90ff433469ac9b1dec0cadcf4.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

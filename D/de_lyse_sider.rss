@@ -1,222 +1,739 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>De lyse sider</title>
-		<link>https://web.24syv.dk/channels/5103</link>
-		<description>24syvs sendetilladelse dikterer, at kanalen skal levere konstruktive nyheder. Tjansen med at levere disse nyheder er tilfaldet Lasse Sandholdt og Jonas Kjærsgaard, som vil bruge sommerferien på at opfylde kvoten for løsningsorienteret journalistik. Med komplet mangel på journalistisk integritet og evner vil de gøre, hvad der skal til for at finde det positive budskab, på hverdagens grå triste nyhedsstrøm.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/948/de_lyse_sider_-ny.png"/>
-		<item>
-			<title>Doku: Midtpunkt Bag Masken</title>
-			<link>https://api.spreaker.com/download/episode/50715500/doku.mp3</link>
-			<description>6 måneder efter Jonas Kjærsgaards forsvinden sidder Lasse Sandholdt i fængsel, anklaget for Jonas’ forbrydelser. I dokumentaren “Midtpunkt Bag Masken” prøver reporter Simon Porse at komme til bunds i sagen. Falske løfter, dødstrusler og en tom badmintonhal, leder alt sammen reporter Simon Porse til Mexico.
-
-Medvirkende: Simon Porse, Lasse Sandholdt og Jonas Kjærsgaard</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50715500/doku.mp3</guid>
-			<pubDate>Tue, 26 Jul 2022 13:29:09 +0000</pubDate>
-			<itunes:duration>00:45:34</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50715500/doku.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Tror du, vi er dumme i politiet?</title>
-			<link>https://api.spreaker.com/download/episode/50704651/den_lyse_side_uge_4_mandag.mp3</link>
-			<description>Jonas har ved et uheld byttet den sorte sprittusch ud med den gule highlighter, da han skulle overstrege de fortrolige oplysninger i agtindsigten, så alle skeletterne er væltet ud af skabet.
-Det kan ikke blive ved med at gå godt...  
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50704651/den_lyse_side_uge_4_mandag.mp3</guid>
-			<pubDate>Mon, 25 Jul 2022 13:13:12 +0000</pubDate>
-			<itunes:duration>00:53:57</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50704651/den_lyse_side_uge_4_mandag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Går nederdelen under knæene er hun fra kommunen</title>
-			<link>https://api.spreaker.com/download/episode/50677998/lyse_side_uge_3_fredag.mp3</link>
-			<description>Festivallen er ved at kollapse over Jonas og Lasse. Samtidig har en Festens Midtpunkt artist whistleblowet og mystiske folk begynder at snuse rundt i badmintonhallen. 
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50677998/lyse_side_uge_3_fredag.mp3</guid>
-			<pubDate>Fri, 22 Jul 2022 12:56:09 +0000</pubDate>
-			<itunes:duration>00:53:42</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50677998/lyse_side_uge_3_fredag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jeg har lige brug for at være pendul</title>
-			<link>https://api.spreaker.com/download/episode/50667670/lys_uge_3_torsdag.mp3</link>
-			<description>Festival Midtpunkt rykker tættere på. Lasse har ordnet praktik på badmintonklubben hele natten, og festivallen udvider sig kommercielt. Dog har word-of-mouth metoden givet bagslag, og rygterne om Festival Midtpunkt er ved at komme ud af kontrol.
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50667670/lys_uge_3_torsdag.mp3</guid>
-			<pubDate>Thu, 21 Jul 2022 13:39:41 +0000</pubDate>
-			<itunes:duration>00:53:53</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50667670/lys_uge_3_torsdag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Badmintonklubben af 2022</title>
-			<link>https://api.spreaker.com/download/episode/50656912/lys_uge_3_onsdag.mp3</link>
-			<description>Der er indkaldt til stiftende generalforsamling for den nye badmintonforening. Stolt samarbejdspartner med Festival Midtpunkt. 
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50656912/lys_uge_3_onsdag.mp3</guid>
-			<pubDate>Wed, 20 Jul 2022 13:16:19 +0000</pubDate>
-			<itunes:duration>00:53:52</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50656912/lys_uge_3_onsdag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Heinz of 99</title>
-			<link>https://api.spreaker.com/download/episode/50645697/lys_side_uge_3_tirsdag.mp3</link>
-			<description>Redaktionen har smidt sine lænker og forberedelserne til Festival Midtpunkt er i fuld gang. Der skal laves pressetekster, købes armbånd og laves PR. 
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50645697/lys_side_uge_3_tirsdag.mp3</guid>
-			<pubDate>Tue, 19 Jul 2022 12:50:39 +0000</pubDate>
-			<itunes:duration>00:53:51</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50645697/lys_side_uge_3_tirsdag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Nu er der krig!</title>
-			<link>https://api.spreaker.com/download/episode/50611481/lyse_side_uge_3.mp3</link>
-			<description>Redaktionen opdager den gruopvækkende sandhed omkring deres arbejde på 24syv.
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50611481/lyse_side_uge_3.mp3</guid>
-			<pubDate>Mon, 18 Jul 2022 13:56:43 +0000</pubDate>
-			<itunes:duration>00:53:51</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50611481/lyse_side_uge_3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Far til fire på rumænsk</title>
-			<link>https://api.spreaker.com/download/episode/50582322/lys_side_fredag_uge_2.mp3</link>
-			<description>Redaktionen har hele to historier på programmet: Outsourcing af dansk familiefilm og et nyt filter til til triste botox-kunder. 
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50582322/lys_side_fredag_uge_2.mp3</guid>
-			<pubDate>Fri, 15 Jul 2022 13:06:35 +0000</pubDate>
-			<itunes:duration>00:53:51</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50582322/lys_side_fredag_uge_2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Undergrunds bangoforeninger</title>
-			<link>https://api.spreaker.com/download/episode/50571529/lys_side.mp3</link>
-			<description>Redaktionen lancerer deres første liberale stykke journalistik med et nyt forbugermagasin. Derefter bliver der kastet en livlinje til de bangoforeninger, der nu er ved at dø under regeringens urimelige beskatning.  
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50571529/lys_side.mp3</guid>
-			<pubDate>Thu, 14 Jul 2022 14:24:13 +0000</pubDate>
-			<itunes:duration>00:53:49</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50571529/lys_side.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Peter er tilbage i uge 31</title>
-			<link>https://api.spreaker.com/download/episode/50558365/lys_onsdag.mp3</link>
-			<description>Der er feriestemning i de københavnske daginstitutioner, og det udfordre redaktionen. Til gengæld har Jonas skaffet et eksklusivt portræt interview med manden, der gik amok i Fakta Slagelse.
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50558365/lys_onsdag.mp3</guid>
-			<pubDate>Wed, 13 Jul 2022 13:49:39 +0000</pubDate>
-			<itunes:duration>00:54:00</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50558365/lys_onsdag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Baggrundtjek på Soundboks købere og Festival Midtpunkt</title>
-			<link>https://api.spreaker.com/download/episode/50546576/lyse_sider_uge_2_tirsdag.mp3</link>
-			<description>Redaktionen opstarter en screeningsordning på Soundboks købere og Jonas forsøger at søsætte sin egen festival
-
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   De lyse sider
+  </title>
+  <link>
+   https://www.spreaker.com/show/de-lyse-sider
+  </link>
+  <description>
+   24syvs sendetilladelse dikterer, at kanalen skal levere konstruktive nyheder. Tjansen med at levere disse nyheder er tilfaldet Lasse Sandholdt og Jonas Kjærsgaard, som vil bruge sommerferien på at opfylde kvoten for løsningsorienteret journalistik. Med komplet mangel på journalistisk integritet og evner vil de gøre, hvad der skal til for at finde det positive budskab, på hverdagens grå triste nyhedsstrøm.
+  </description>
+  <atom:link href="https://www.spreaker.com/show/5607407/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   Comedy Interviews
+  </category>
+  <copyright>
+   Copyright 24syv
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg
+   </url>
+   <title>
+    De lyse sider
+   </title>
+   <link>
+    https://www.spreaker.com/show/de-lyse-sider
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   24syv
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    24syv
+   </itunes:name>
+   <itunes:email>
+    podcast@24syv.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+  <itunes:subtitle>
+   24syvs sendetilladelse dikterer, at kanalen skal levere konstruktive nyheder. Tjansen med at levere disse nyheder er tilfaldet Lasse Sandholdt og Jonas Kjærsgaard, som vil bruge sommerferien på at opfylde kvoten for løsningsorienteret journalistik.
+  </itunes:subtitle>
+  <itunes:summary>
+   24syvs sendetilladelse dikterer, at kanalen skal levere konstruktive nyheder. Tjansen med at levere disse nyheder er tilfaldet Lasse Sandholdt og Jonas Kjærsgaard, som vil bruge sommerferien på at opfylde kvoten for løsningsorienteret journalistik. Med komplet mangel på journalistisk integritet og evner vil de gøre, hvad der skal til for at finde det positive budskab, på hverdagens grå triste nyhedsstrøm.
+  </itunes:summary>
+  <itunes:category text="Comedy">
+   <itunes:category text="Comedy Interviews"/>
+  </itunes:category>
+  <itunes:category text="News">
+   <itunes:category text="Entertainment News"/>
+  </itunes:category>
+  <itunes:category text="Comedy"/>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    Doku: Midtpunkt Bag Masken
+   </title>
+   <link>
+    https://www.spreaker.com/episode/doku-midtpunkt-bag-masken--50715500
+   </link>
+   <description>
+    6 måneder efter Jonas Kjærsgaards forsvinden sidder Lasse Sandholdt i fængsel, anklaget for Jonas’ forbrydelser. I dokumentaren “Midtpunkt Bag Masken” prøver reporter Simon Porse at komme til bunds i sagen. Falske løfter, dødstrusler og en tom badmintonhal, leder alt sammen reporter Simon Porse til Mexico.&lt;br /&gt;&lt;br /&gt;Medvirkende: Simon Porse, Lasse Sandholdt og Jonas Kjærsgaard
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50715500
+   </guid>
+   <pubDate>
+    Tue, 26 Jul 2022 13:29:09 +0000
+   </pubDate>
+   <enclosure length="43812615" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50715500/doku.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    6 måneder efter Jonas Kjærsgaards forsvinden sidder Lasse Sandholdt i fængsel, anklaget for Jonas’ forbrydelser. I dokumentaren “Midtpunkt Bag Masken” prøver reporter Simon Porse at komme til bunds i sagen. Falske løfter, dødstrusler og en tom...
+   </itunes:subtitle>
+   <itunes:summary>
+    6 måneder efter Jonas Kjærsgaards forsvinden sidder Lasse Sandholdt i fængsel, anklaget for Jonas’ forbrydelser. I dokumentaren “Midtpunkt Bag Masken” prøver reporter Simon Porse at komme til bunds i sagen. Falske løfter, dødstrusler og en tom badmintonhal, leder alt sammen reporter Simon Porse til Mexico.&lt;br /&gt;&lt;br /&gt;Medvirkende: Simon Porse, Lasse Sandholdt og Jonas Kjærsgaard
+   </itunes:summary>
+   <itunes:duration>
+    2735
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Tror du, vi er dumme i politiet?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/tror-du-vi-er-dumme-i-politiet--50704651
+   </link>
+   <description>
+    Jonas har ved et uheld byttet den sorte sprittusch ud med den gule highlighter, da han skulle overstrege de fortrolige oplysninger i agtindsigten, så alle skeletterne er væltet ud af skabet.&lt;br /&gt;Det kan ikke blive ved med at gå godt...  &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50704651
+   </guid>
+   <pubDate>
+    Mon, 25 Jul 2022 13:13:12 +0000
+   </pubDate>
+   <enclosure length="51867107" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50704651/den_lyse_side_uge_4_mandag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Jonas har ved et uheld byttet den sorte sprittusch ud med den gule highlighter, da han skulle overstrege de fortrolige oplysninger i agtindsigten, så alle skeletterne er væltet ud af skabet.
+Det kan ikke blive ved med at gå godt...  
+
+Værter: Jonas...
+   </itunes:subtitle>
+   <itunes:summary>
+    Jonas har ved et uheld byttet den sorte sprittusch ud med den gule highlighter, da han skulle overstrege de fortrolige oplysninger i agtindsigten, så alle skeletterne er væltet ud af skabet.&lt;br /&gt;Det kan ikke blive ved med at gå godt...  &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3238
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Går nederdelen under knæene er hun fra kommunen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/gar-nederdelen-under-knaeene-er-hun-fra-kommunen--50677998
+   </link>
+   <description>
+    Festivallen er ved at kollapse over Jonas og Lasse. Samtidig har en Festens Midtpunkt artist whistleblowet og mystiske folk begynder at snuse rundt i badmintonhallen. &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50677998
+   </guid>
+   <pubDate>
+    Fri, 22 Jul 2022 12:56:09 +0000
+   </pubDate>
+   <enclosure length="51620093" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50677998/lyse_side_uge_3_fredag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Festivallen er ved at kollapse over Jonas og Lasse. Samtidig har en Festens Midtpunkt artist whistleblowet og mystiske folk begynder at snuse rundt i badmintonhallen. 
+
 Værter: Jonas Kjærsgaard og Lasse Sandholdt
-
-
-Gæster: 
-Jesper Theil Thomsen - CEO hos Soundboks
-Troels Tavsten - Kommunal ansat
-Peder Filtholm - Ex-minkavler</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50546576/lyse_sider_uge_2_tirsdag.mp3</guid>
-			<pubDate>Tue, 12 Jul 2022 13:23:34 +0000</pubDate>
-			<itunes:duration>00:54:07</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50546576/lyse_sider_uge_2_tirsdag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ryste sammen dag og boykot af bugtaler</title>
-			<link>https://api.spreaker.com/download/episode/50534335/lyse_side_uge_mandag.mp3</link>
-			<description>Der er ryste-sammen-dag på redaktionen. Hyggen bliver dog afbrudt af Bugtaleren Reno, der er blevet ramt af et benhårdt boykot af Fermaten i Herning.   
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt 
-
-Gæster:
-Reno Madsen - Bugtaler
-Thomas Rørvig - Koordinerings ansvarlig for Fermaten i Herning</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50534335/lyse_side_uge_mandag.mp3</guid>
-			<pubDate>Mon, 11 Jul 2022 13:46:35 +0000</pubDate>
-			<itunes:duration>00:53:51</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50534335/lyse_side_uge_mandag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pædagogfaget får genoprejsning i &quot;Jagten 2&quot; og Britta Nielsens besøgsven</title>
-			<link>https://api.spreaker.com/download/episode/50509011/lyse_sider_fredag.mp3</link>
-			<description>Redaktionen forsøger at redde pædagogfagets ryg med en ny &quot;Jagten&quot; film. 
-Lasse har store weekendplaner!
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50509011/lyse_sider_fredag.mp3</guid>
-			<pubDate>Fri, 08 Jul 2022 12:51:36 +0000</pubDate>
-			<itunes:duration>00:53:52</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50509011/lyse_sider_fredag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Extinction Rebellion spærrer for samarbejde og en reprimande til Ekstra Bladet</title>
-			<link>https://api.spreaker.com/download/episode/50496018/de_lyse_sider_torsdag.mp3</link>
-			<description>Redaktionen præsenterer Extinction Rebelion for en ny arbejdsstrategi, men de er ikke udpræget løsningsorienterede. Jonas har stadig en høne at plukke med Ekstra Bladet og en kontrakt deres skal ordnes med &quot;Bassen&quot;.
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50496018/de_lyse_sider_torsdag.mp3</guid>
-			<pubDate>Thu, 07 Jul 2022 13:17:00 +0000</pubDate>
-			<itunes:duration>00:53:58</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50496018/de_lyse_sider_torsdag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Influencer tower og gæstearbejdere på Heidi's</title>
-			<link>https://api.spreaker.com/download/episode/50482290/de_lyse_sider_onsdag.mp3</link>
-			<description>Redaktionen samler op på løs tråde og skaber i processen flere løse tråde. Det skrider dog langsomt fremad med cyklebud appen. Og så skaffer Jonas et nyt job til en paradiso.
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50482290/de_lyse_sider_onsdag.mp3</guid>
-			<pubDate>Wed, 06 Jul 2022 13:27:45 +0000</pubDate>
-			<itunes:duration>00:53:35</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50482290/de_lyse_sider_onsdag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Cykelbud app leverer børn fra daginstitutioner og kan døde mink redde fattige studerende?</title>
-			<link>https://api.spreaker.com/download/episode/50468806/de_lyse_sider_tirsdag.mp3</link>
-			<description>En dags erfaring rigere. 
-Første historie på dagsordenen: &quot;Ny kurér-ejet cykelbuds app bringer karriereforældres børn ud&quot;. Der er premiere på Charlie News. 
-Og så forsøger redaktionen at løse problemet med manglende studieboliger i samarbejde med en godt brugt ex-minkavler. 
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50468806/de_lyse_sider_tirsdag.mp3</guid>
-			<pubDate>Tue, 05 Jul 2022 13:08:35 +0000</pubDate>
-			<itunes:duration>00:53:34</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50468806/de_lyse_sider_tirsdag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En universitetsgrad fra hjemmeskoling og klager fra julemærkehjemmet</title>
-			<link>https://api.spreaker.com/download/episode/50460810/de_lyse_side_rmandag.mp3</link>
-			<description>Redaktionen møder ind til første dag på kontoret. Hovedhistorien denne mandag: &quot;For at modvirke centraliseringen udvides hjemmeskoleundervisning, så det nu er muligt at få en universitetsgrad hjemme fra privaten&quot;.  Kilderne på historien er dog noget tilbageholdende. 
-
-og så har booking bureauet &quot;Festen midtpunkt.dk&quot; fået klager julemærkehjemmet..
-
-Værter: Jonas Kjærsgaard og Lasse Sandholdt</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50460810/de_lyse_side_rmandag.mp3</guid>
-			<pubDate>Mon, 04 Jul 2022 16:48:20 +0000</pubDate>
-			<itunes:duration>00:54:12</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50460810/de_lyse_side_rmandag.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Lyse sider</title>
-			<link>https://api.spreaker.com/download/episode/50416732/lyse_sider.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/50416732/lyse_sider.mp3</guid>
-			<pubDate>Thu, 30 Jun 2022 13:07:13 +0000</pubDate>
-			<itunes:duration>00:00:06</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/50416732/lyse_sider.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+   </itunes:subtitle>
+   <itunes:summary>
+    Festivallen er ved at kollapse over Jonas og Lasse. Samtidig har en Festens Midtpunkt artist whistleblowet og mystiske folk begynder at snuse rundt i badmintonhallen. &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3223
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Jeg har lige brug for at være pendul
+   </title>
+   <link>
+    https://www.spreaker.com/episode/jeg-har-lige-brug-for-at-vaere-pendul--50667670
+   </link>
+   <description>
+    Festival Midtpunkt rykker tættere på. Lasse har ordnet praktik på badmintonklubben hele natten, og festivallen udvider sig kommercielt. Dog har word-of-mouth metoden givet bagslag, og rygterne om Festival Midtpunkt er ved at komme ud af kontrol.&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50667670
+   </guid>
+   <pubDate>
+    Thu, 21 Jul 2022 13:39:41 +0000
+   </pubDate>
+   <enclosure length="51794382" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50667670/lys_uge_3_torsdag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Festival Midtpunkt rykker tættere på. Lasse har ordnet praktik på badmintonklubben hele natten, og festivallen udvider sig kommercielt. Dog har word-of-mouth metoden givet bagslag, og rygterne om Festival Midtpunkt er ved at komme ud af kontrol....
+   </itunes:subtitle>
+   <itunes:summary>
+    Festival Midtpunkt rykker tættere på. Lasse har ordnet praktik på badmintonklubben hele natten, og festivallen udvider sig kommercielt. Dog har word-of-mouth metoden givet bagslag, og rygterne om Festival Midtpunkt er ved at komme ud af kontrol.&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3234
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Badmintonklubben af 2022
+   </title>
+   <link>
+    https://www.spreaker.com/episode/badmintonklubben-af-2022--50656912
+   </link>
+   <description>
+    Der er indkaldt til stiftende generalforsamling for den nye badmintonforening. Stolt samarbejdspartner med Festival Midtpunkt. &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50656912
+   </guid>
+   <pubDate>
+    Wed, 20 Jul 2022 13:16:19 +0000
+   </pubDate>
+   <enclosure length="51788948" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50656912/lys_uge_3_onsdag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Der er indkaldt til stiftende generalforsamling for den nye badmintonforening. Stolt samarbejdspartner med Festival Midtpunkt. 
+
+Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:subtitle>
+   <itunes:summary>
+    Der er indkaldt til stiftende generalforsamling for den nye badmintonforening. Stolt samarbejdspartner med Festival Midtpunkt. &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3233
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Heinz of 99
+   </title>
+   <link>
+    https://www.spreaker.com/episode/heinz-of-99--50645697
+   </link>
+   <description>
+    Redaktionen har smidt sine journalistiske lænker og forberedelserne til Festival Midtpunkt er i fuld gang. Der skal laves pressetekster, købes armbånd og laves PR. &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50645697
+   </guid>
+   <pubDate>
+    Tue, 19 Jul 2022 12:50:39 +0000
+   </pubDate>
+   <enclosure length="51773066" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50645697/lys_side_uge_3_tirsdag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Redaktionen har smidt sine journalistiske lænker og forberedelserne til Festival Midtpunkt er i fuld gang. Der skal laves pressetekster, købes armbånd og laves PR. 
+
+Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:subtitle>
+   <itunes:summary>
+    Redaktionen har smidt sine journalistiske lænker og forberedelserne til Festival Midtpunkt er i fuld gang. Der skal laves pressetekster, købes armbånd og laves PR. &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3232
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Nu er der krig!
+   </title>
+   <link>
+    https://www.spreaker.com/episode/nu-er-der-krig--50611481
+   </link>
+   <description>
+    Redaktionen opdager den gruopvækkende sandhed omkring deres arbejde på 24syv.&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50611481
+   </guid>
+   <pubDate>
+    Mon, 18 Jul 2022 13:56:43 +0000
+   </pubDate>
+   <enclosure length="51776410" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50611481/lyse_side_uge_3.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Redaktionen opdager den gruopvækkende sandhed omkring deres arbejde på 24syv.
+
+Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:subtitle>
+   <itunes:summary>
+    Redaktionen opdager den gruopvækkende sandhed omkring deres arbejde på 24syv.&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3232
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Far til fire på rumænsk
+   </title>
+   <link>
+    https://www.spreaker.com/episode/far-til-fire-pa-rumaensk--50582322
+   </link>
+   <description>
+    Redaktionen har hele to historier på programmet: Outsourcing af dansk familiefilm og et nyt filter til til triste botox-kunder. &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50582322
+   </guid>
+   <pubDate>
+    Fri, 15 Jul 2022 13:06:35 +0000
+   </pubDate>
+   <enclosure length="51765961" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50582322/lys_side_fredag_uge_2.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Redaktionen har hele to historier på programmet: Outsourcing af dansk familiefilm og et nyt filter til til triste botox-kunder. 
+
+Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:subtitle>
+   <itunes:summary>
+    Redaktionen har hele to historier på programmet: Outsourcing af dansk familiefilm og et nyt filter til til triste botox-kunder. &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3232
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Undergrunds bangoforeninger
+   </title>
+   <link>
+    https://www.spreaker.com/episode/undergrunds-bangoforeninger--50571529
+   </link>
+   <description>
+    Redaktionen lancerer deres første liberale stykke journalistik med et nyt forbugermagasin. Derefter bliver der kastet en livlinje til de bangoforeninger, der nu er ved at dø under regeringens urimelige beskatning.  &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50571529
+   </guid>
+   <pubDate>
+    Thu, 14 Jul 2022 14:24:13 +0000
+   </pubDate>
+   <enclosure length="51738793" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50571529/lys_side.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Redaktionen lancerer deres første liberale stykke journalistik med et nyt forbugermagasin. Derefter bliver der kastet en livlinje til de bangoforeninger, der nu er ved at dø under regeringens urimelige beskatning.  
+
+Værter: Jonas Kjærsgaard og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Redaktionen lancerer deres første liberale stykke journalistik med et nyt forbugermagasin. Derefter bliver der kastet en livlinje til de bangoforeninger, der nu er ved at dø under regeringens urimelige beskatning.  &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3230
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Peter er tilbage i uge 31
+   </title>
+   <link>
+    https://www.spreaker.com/episode/peter-er-tilbage-i-uge-31--50558365
+   </link>
+   <description>
+    Der er feriestemning i de københavnske daginstitutioner, og det udfordre redaktionen. Til gengæld har Jonas skaffet et eksklusivt portræt interview med manden, der gik amok i Fakta Slagelse.&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50558365
+   </guid>
+   <pubDate>
+    Wed, 13 Jul 2022 13:49:39 +0000
+   </pubDate>
+   <enclosure length="51908352" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50558365/lys_onsdag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Der er feriestemning i de københavnske daginstitutioner, og det udfordre redaktionen. Til gengæld har Jonas skaffet et eksklusivt portræt interview med manden, der gik amok i Fakta Slagelse.
+
+Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:subtitle>
+   <itunes:summary>
+    Der er feriestemning i de københavnske daginstitutioner, og det udfordre redaktionen. Til gengæld har Jonas skaffet et eksklusivt portræt interview med manden, der gik amok i Fakta Slagelse.&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3241
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Baggrundtjek på Soundboks købere og Festival Midtpunkt
+   </title>
+   <link>
+    https://www.spreaker.com/episode/baggrundtjek-pa-soundboks-kobere-og-festival-midtpunkt--50546576
+   </link>
+   <description>
+    Redaktionen opstarter en screeningsordning på Soundboks købere og Jonas forsøger at søsætte sin egen festival&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Jesper Theil Thomsen - CEO hos Soundboks&lt;br /&gt;Troels Tavsten - Kommunal ansat&lt;br /&gt;Peder Filtholm - Ex-minkavler
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50546576
+   </guid>
+   <pubDate>
+    Tue, 12 Jul 2022 13:23:34 +0000
+   </pubDate>
+   <enclosure length="52026767" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50546576/lyse_sider_uge_2_tirsdag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Redaktionen opstarter en screeningsordning på Soundboks købere og Jonas forsøger at søsætte sin egen festival
+
+Værter: Jonas Kjærsgaard og Lasse Sandholdt
+
+
+Gæster: 
+Jesper Theil Thomsen - CEO hos Soundboks
+Troels Tavsten - Kommunal ansat...
+   </itunes:subtitle>
+   <itunes:summary>
+    Redaktionen opstarter en screeningsordning på Soundboks købere og Jonas forsøger at søsætte sin egen festival&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Jesper Theil Thomsen - CEO hos Soundboks&lt;br /&gt;Troels Tavsten - Kommunal ansat&lt;br /&gt;Peder Filtholm - Ex-minkavler
+   </itunes:summary>
+   <itunes:duration>
+    3248
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Ryste sammen dag og boykot af bugtaler
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ryste-sammen-dag-og-boykot-af-bugtaler--50534335
+   </link>
+   <description>
+    Der er ryste-sammen-dag på redaktionen. Hyggen bliver dog afbrudt af Bugtaleren Reno, der er blevet ramt af et benhårdt boykot af Fermaten i Herning.   &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Reno Madsen - Bugtaler&lt;br /&gt;Thomas Rørvig - Koordinerings ansvarlig for Fermaten i Herning
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50534335
+   </guid>
+   <pubDate>
+    Mon, 11 Jul 2022 13:46:35 +0000
+   </pubDate>
+   <enclosure length="51767633" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50534335/lyse_side_uge_mandag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Der er ryste-sammen-dag på redaktionen. Hyggen bliver dog afbrudt af Bugtaleren Reno, der er blevet ramt af et benhårdt boykot af Fermaten i Herning.   
+
+Værter: Jonas Kjærsgaard og Lasse Sandholdt 
+
+Gæster:
+Reno Madsen - Bugtaler
+Thomas Rørvig...
+   </itunes:subtitle>
+   <itunes:summary>
+    Der er ryste-sammen-dag på redaktionen. Hyggen bliver dog afbrudt af Bugtaleren Reno, der er blevet ramt af et benhårdt boykot af Fermaten i Herning.   &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Reno Madsen - Bugtaler&lt;br /&gt;Thomas Rørvig - Koordinerings ansvarlig for Fermaten i Herning
+   </itunes:summary>
+   <itunes:duration>
+    3232
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Pædagogfaget får genoprejsning i "Jagten 2" og Britta Nielsens besøgsven
+   </title>
+   <link>
+    https://www.spreaker.com/episode/paedagogfaget-far-genoprejsning-i-jagten-2-og-britta-nielsens-besogsven--50509011
+   </link>
+   <description>
+    Redaktionen forsøger at redde pædagogfagets ryg med en ny "Jagten" film. &lt;br /&gt;Lasse har store weekendplaner!&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt&lt;br /&gt;&lt;br /&gt;Gæst: Peter Aalbæk - Filmproducent hos Zentropa
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50509011
+   </guid>
+   <pubDate>
+    Fri, 08 Jul 2022 12:51:36 +0000
+   </pubDate>
+   <enclosure length="51790620" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50509011/lyse_sider_fredag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Redaktionen forsøger at redde pædagogfagets ryg med en ny "Jagten" film. 
+Lasse har store weekendplaner!
+
+Værter: Jonas Kjærsgaard og Lasse Sandholdt
+
+Gæst: Peter Aalbæk - Filmproducent hos Zentropa
+   </itunes:subtitle>
+   <itunes:summary>
+    Redaktionen forsøger at redde pædagogfagets ryg med en ny "Jagten" film. &lt;br /&gt;Lasse har store weekendplaner!&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt&lt;br /&gt;&lt;br /&gt;Gæst: Peter Aalbæk - Filmproducent hos Zentropa
+   </itunes:summary>
+   <itunes:duration>
+    3233
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Extinction Rebellion spærrer for samarbejde og en reprimande til Ekstra Bladet
+   </title>
+   <link>
+    https://www.spreaker.com/episode/extinction-rebellion-spaerrer-for-samarbejde-og-en-reprimande-til-ekstra-bladet--50496018
+   </link>
+   <description>
+    Redaktionen præsenterer Extinction Rebelion for en ny arbejdsstrategi, men de er ikke udpræget løsningsorienterede. Jonas har stadig en høne at plukke med Ekstra Bladet og en kontrakt deres skal ordnes med "Bassen".&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50496018
+   </guid>
+   <pubDate>
+    Thu, 07 Jul 2022 13:17:00 +0000
+   </pubDate>
+   <enclosure length="51880064" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50496018/de_lyse_sider_torsdag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Redaktionen præsenterer Extinction Rebelion for en ny arbejdsstrategi, men de er ikke udpræget løsningsorienterede. Jonas har stadig en høne at plukke med Ekstra Bladet og en kontrakt deres skal ordnes med "Bassen".
+
+Værter: Jonas Kjærsgaard og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Redaktionen præsenterer Extinction Rebelion for en ny arbejdsstrategi, men de er ikke udpræget løsningsorienterede. Jonas har stadig en høne at plukke med Ekstra Bladet og en kontrakt deres skal ordnes med "Bassen".&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3239
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Influencer tower og gæstearbejdere på Heidi's
+   </title>
+   <link>
+    https://www.spreaker.com/episode/influencer-tower-og-gaestearbejdere-pa-heidi-s--50482290
+   </link>
+   <description>
+    Redaktionen samler op på løs tråde og skaber i processen flere løse tråde. Det skrider dog langsomt fremad med cyklebud appen. Og så skaffer Jonas et nyt job til en paradiso.&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50482290
+   </guid>
+   <pubDate>
+    Wed, 06 Jul 2022 13:27:45 +0000
+   </pubDate>
+   <enclosure length="51513095" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50482290/de_lyse_sider_onsdag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Redaktionen samler op på løs tråde og skaber i processen flere løse tråde. Det skrider dog langsomt fremad med cyklebud appen. Og så skaffer Jonas et nyt job til en paradiso.
+
+Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:subtitle>
+   <itunes:summary>
+    Redaktionen samler op på løs tråde og skaber i processen flere løse tråde. Det skrider dog langsomt fremad med cyklebud appen. Og så skaffer Jonas et nyt job til en paradiso.&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3216
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Cykelbud app leverer børn fra daginstitutioner og kan døde mink redde fattige studerende?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/cykelbud-app-leverer-born-fra-daginstitutioner-og-kan-dode-mink-redde-fattige-studerende--50468806
+   </link>
+   <description>
+    En dags erfaring rigere. &lt;br /&gt;Første historie på dagsordenen: "Ny kurér-ejet cykelbuds app bringer karriereforældres børn ud". Der er premiere på Charlie News. &lt;br /&gt;Og så forsøger redaktionen at løse problemet med manglende studieboliger i samarbejde med en godt brugt ex-minkavler. &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50468806
+   </guid>
+   <pubDate>
+    Tue, 05 Jul 2022 13:08:35 +0000
+   </pubDate>
+   <enclosure length="51493869" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50468806/de_lyse_sider_tirsdag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    En dags erfaring rigere. 
+Første historie på dagsordenen: "Ny kurér-ejet cykelbuds app bringer karriereforældres børn ud". Der er premiere på Charlie News. 
+Og så forsøger redaktionen at løse problemet med manglende studieboliger i samarbejde med en...
+   </itunes:subtitle>
+   <itunes:summary>
+    En dags erfaring rigere. &lt;br /&gt;Første historie på dagsordenen: "Ny kurér-ejet cykelbuds app bringer karriereforældres børn ud". Der er premiere på Charlie News. &lt;br /&gt;Og så forsøger redaktionen at løse problemet med manglende studieboliger i samarbejde med en godt brugt ex-minkavler. &lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3215
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    En universitetsgrad fra hjemmeskoling og klager fra julemærkehjemmet
+   </title>
+   <link>
+    https://www.spreaker.com/episode/en-universitetsgrad-fra-hjemmeskoling-og-klager-fra-julemaerkehjemmet--50460810
+   </link>
+   <description>
+    Redaktionen møder ind til første dag på kontoret. Hovedhistorien denne mandag: "For at modvirke centraliseringen udvides hjemmeskoleundervisning, så det nu er muligt at få en universitetsgrad hjemme fra privaten".  Kilderne på historien er dog noget tilbageholdende. &lt;br /&gt;&lt;br /&gt;og så har booking bureauet "Festen midtpunkt.dk" fået klager julemærkehjemmet..&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/50460810
+   </guid>
+   <pubDate>
+    Mon, 04 Jul 2022 16:48:20 +0000
+   </pubDate>
+   <enclosure length="52104926" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50460810/de_lyse_side_rmandag.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Redaktionen møder ind til første dag på kontoret. Hovedhistorien denne mandag: "For at modvirke centraliseringen udvides hjemmeskoleundervisning, så det nu er muligt at få en universitetsgrad hjemme fra privaten".  Kilderne på historien er dog noget...
+   </itunes:subtitle>
+   <itunes:summary>
+    Redaktionen møder ind til første dag på kontoret. Hovedhistorien denne mandag: "For at modvirke centraliseringen udvides hjemmeskoleundervisning, så det nu er muligt at få en universitetsgrad hjemme fra privaten".  Kilderne på historien er dog noget tilbageholdende. &lt;br /&gt;&lt;br /&gt;og så har booking bureauet "Festen midtpunkt.dk" fået klager julemærkehjemmet..&lt;br /&gt;&lt;br /&gt;Værter: Jonas Kjærsgaard og Lasse Sandholdt
+   </itunes:summary>
+   <itunes:duration>
+    3253
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/552a55f0b064eefa7663266e56734010.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

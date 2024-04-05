@@ -1,100 +1,438 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Mogens og Kristiansen</title>
-		<link>https://web.24syv.dk/channels/5153</link>
-		<description>Mogens Og Kristiansen</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/998/unnamed.png"/>
-		<item>
-			<title>Mogens og Kristiansen takker af</title>
-			<link>https://api.spreaker.com/download/episode/58076730/m_og_k_20_12.mp3</link>
-			<description>Onsdagsanalysen siger tak for nu. Vi runder programmet af ved at få Mogens og Kristiansens analyser af forsvarsaftalen med USA, tre oprørte oppositionspartier og en utilfreds Venstre-ordfører. Derudover bliver der også plads til en gaveuddeling for at markere programmets afslutning.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58076730/m_og_k_20_12.mp3</guid>
-			<pubDate>Wed, 20 Dec 2023 22:02:33 +0000</pubDate>
-			<itunes:duration>00:35:07</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/58076730/m_og_k_20_12.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Særudsendelsen: Hvem er Mogens?</title>
-			<link>https://api.spreaker.com/download/episode/58008326/mogensogk2.mp3</link>
-			<description>I denne særudsendelse beslutter 'Kristiansen' at undersøge, hvem hans medvært Mogens egentlig er.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/58008326/mogensogk2.mp3</guid>
-			<pubDate>Thu, 14 Dec 2023 14:52:02 +0000</pubDate>
-			<itunes:duration>00:57:43</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/58008326/mogensogk2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Særudsendelsen: Hvem er Kristiansen?</title>
-			<link>https://api.spreaker.com/download/episode/57937460/mogens_s_r.mp3</link>
-			<description>I denne særudsendelse beslutter Mogens at undersøge, hvem hans medvært 'Kristiansen' egentlig er. </description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57937460/mogens_s_r.mp3</guid>
-			<pubDate>Thu, 07 Dec 2023 09:36:54 +0000</pubDate>
-			<itunes:duration>00:56:36</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/57937460/mogens_s_r.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>&quot;Troels Lund Poulsen burde tage en tur til traktortræk&quot;</title>
-			<link>https://api.spreaker.com/download/episode/57770155/m_og_k_22_11.mp3</link>
-			<description>I denne Onsdagsanalyse analyserer Mogens og Kristiansen den nyvalgte formand i Venstres taleevner og hvorvidt Troels Lund Poulsen er klar til at vise blødere sider af sig selv. Hør også hvordan kommentatorerne råder Venstre til partiets videre branding. Til slut vender vi også situationen med Mike Fonseca og Moderaterne.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57770155/m_og_k_22_11.mp3</guid>
-			<pubDate>Wed, 22 Nov 2023 19:50:09 +0000</pubDate>
-			<itunes:duration>00:35:20</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/57770155/m_og_k_22_11.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>&quot;Det er endnu et dårligt æble i regeringens kurv&quot;</title>
-			<link>https://api.spreaker.com/download/episode/57650576/m_og_k_15nov.mp3</link>
-			<description>Kristiansen er i denne uge til et vigtigt kursus i Jylland og er derfor med på en telefonforbindelse.Et kursus er dog ingen hindring, vi holder fortsat skarpt øje med den politiske scene - og taler i denne Onsdagsanalyse om en heftig debat i Folketingssalen og udenrigsministerens balancetur til Israel.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57650576/m_og_k_15nov.mp3</guid>
-			<pubDate>Wed, 15 Nov 2023 16:58:46 +0000</pubDate>
-			<itunes:duration>00:20:45</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/57650576/m_og_k_15nov.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>&quot;Det er smart at have én, man kan smide i skraldespanden&quot;</title>
-			<link>https://api.spreaker.com/download/episode/57564544/m_og_k_4.mp3</link>
-			<description>Tempofyldte dage har udspillet sig på Christiansborg. Vi følger i Onsdagsanalysen det politiske landskab og i denne uge analyserer Mogens og Kristiansen situationen med Claus Hjort Frederiksen, Danmarksdemokraternes kommende landsmøde og den største lempelse af personskatterne i 10 år.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57564544/m_og_k_4.mp3</guid>
-			<pubDate>Wed, 08 Nov 2023 21:08:48 +0000</pubDate>
-			<itunes:duration>00:35:02</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/57564544/m_og_k_4.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>&quot;Det der - det blir op ad bakke!&quot;</title>
-			<link>https://api.spreaker.com/download/episode/57473347/mogens_og_k_ep_4.mp3</link>
-			<description>Spænd sikkerhedsselen! I denne uges Onsdagsanalyse kommer vi ind på, at Nye Borgerliges formand ikke er bange for at indrømme sine fejl. Vi vender også ny udvikling i den såkaldte FE-sag og så taler vi blandt andet om nye justeringer af koranloven.OBS: Afsnittet er optaget før anklagemynidhgedens beslutning om, at straffesagerne mod Claus Hjort Frederiksen og Lars Findsen droppes.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57473347/mogens_og_k_ep_4.mp3</guid>
-			<pubDate>Wed, 01 Nov 2023 16:47:40 +0000</pubDate>
-			<itunes:duration>00:32:54</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/57473347/mogens_og_k_ep_4.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>&quot;Så fik de gamle bønder ham alligevel!&quot;</title>
-			<link>https://api.spreaker.com/download/episode/57381726/m_og_k_3.mp3</link>
-			<description>Dramatiske dage har udspillet sig i Venstre. Mogens og Kristiansen analyserer denne onsdag situationen i partiet og årsagerne til Ellemanns farvel til politik. De kommer også med et bud på, hvordan fremtiden ser ud for Venstre.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57381726/m_og_k_3.mp3</guid>
-			<pubDate>Wed, 25 Oct 2023 15:13:01 +0000</pubDate>
-			<itunes:duration>00:34:48</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/57381726/m_og_k_3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Venstre i nutid og datid og et blik på Folketingets åbningsdebat</title>
-			<link>https://api.spreaker.com/download/episode/57291855/m_og_k.mp3</link>
-			<description>I denne Onsdagsanalyse taler vi om Jakob Ellemann-Jensen og Venstre. Mogens og Kristiansen giver blandt andet et par råd med på vejen til partiformanden. Og så ser vi også tilbage på begivenhederne i forbindelse med Folketingets åbningsdebat.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57291855/m_og_k.mp3</guid>
-			<pubDate>Wed, 18 Oct 2023 15:34:06 +0000</pubDate>
-			<itunes:duration>00:29:07</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/57291855/m_og_k.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Løkke går til modangreb på journalister</title>
-			<link>https://api.spreaker.com/download/episode/57209906/mogens_kristiansen_12_10_23.mp3</link>
-			<description>Landets udenrigsminister, Lars Løkke Rasmussen, er indblandet i en kompliceret sag om opstilling af vindmøller. Men kan historien ramme Løkke negativt? Dét og meget mere svarer Mogens og Kristiansen på i Onsdagsanalysen.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/57209906/mogens_kristiansen_12_10_23.mp3</guid>
-			<pubDate>Thu, 12 Oct 2023 14:02:44 +0000</pubDate>
-			<itunes:duration>00:30:20</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/57209906/mogens_kristiansen_12_10_23.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Mogens Og Kristiansen
+  </title>
+  <link>
+   https://www.spreaker.com/podcast/mogens-og-kristiansen--5975370
+  </link>
+  <description>
+   I Onsdagsanalysen leverer de politiske kommentatorer Mogens og Kristiansen skarptskårne analyser af ugens vigtigste begivenheder i dansk politik.&lt;br /&gt;&lt;br /&gt;Kommentatorer: Mogens Nørgaard og Niels Christensen&lt;br /&gt;&lt;br /&gt;Vært: Roxana Zakeri
+  </description>
+  <atom:link href="https://www.spreaker.com/show/5975370/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   News
+  </category>
+  <copyright>
+   Copyright 24syv
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fdbfe43de6c48ec72945e72ee66c8f9.jpg
+   </url>
+   <title>
+    Mogens Og Kristiansen
+   </title>
+   <link>
+    https://www.spreaker.com/podcast/mogens-og-kristiansen--5975370
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   24syv
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    24syv
+   </itunes:name>
+   <itunes:email>
+    podcast@24syv.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fdbfe43de6c48ec72945e72ee66c8f9.jpg"/>
+  <itunes:subtitle>
+   I Onsdagsanalysen leverer de politiske kommentatorer Mogens og Kristiansen skarptskårne analyser af ugens vigtigste begivenheder i dansk politik.
+
+Kommentatorer: Mogens Nørgaard og Niels Christensen
+
+Vært: Roxana Zakeri
+  </itunes:subtitle>
+  <itunes:summary>
+   I Onsdagsanalysen leverer de politiske kommentatorer Mogens og Kristiansen skarptskårne analyser af ugens vigtigste begivenheder i dansk politik.&lt;br /&gt;&lt;br /&gt;Kommentatorer: Mogens Nørgaard og Niels Christensen&lt;br /&gt;&lt;br /&gt;Vært: Roxana Zakeri
+  </itunes:summary>
+  <itunes:category text="News"/>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    Mogens og Kristiansen takker af
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mogens-og-kristiansen-takker-af--58076730
+   </link>
+   <description>
+    Onsdagsanalysen siger tak for nu. Vi runder programmet af ved at få Mogens og Kristiansens analyser af forsvarsaftalen med USA, tre oprørte oppositionspartier og en utilfreds Venstre-ordfører. Derudover bliver der også plads til en gaveuddeling for at markere programmets afslutning.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/58076730
+   </guid>
+   <pubDate>
+    Wed, 20 Dec 2023 22:02:33 +0000
+   </pubDate>
+   <enclosure length="33780480" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58076730/m_og_k_20_12.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Onsdagsanalysen siger tak for nu. Vi runder programmet af ved at få Mogens og Kristiansens analyser af forsvarsaftalen med USA, tre oprørte oppositionspartier og en utilfreds Venstre-ordfører. Derudover bliver der også plads til en gaveuddeling for at...
+   </itunes:subtitle>
+   <itunes:summary>
+    Onsdagsanalysen siger tak for nu. Vi runder programmet af ved at få Mogens og Kristiansens analyser af forsvarsaftalen med USA, tre oprørte oppositionspartier og en utilfreds Venstre-ordfører. Derudover bliver der også plads til en gaveuddeling for at markere programmets afslutning.
+   </itunes:summary>
+   <itunes:duration>
+    2108
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fdbfe43de6c48ec72945e72ee66c8f9.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Særudsendelsen: Hvem er Mogens?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/saerudsendelsen-hvem-er-mogens--58008326
+   </link>
+   <description>
+    I denne særudsendelse beslutter 'Kristiansen' at undersøge, hvem hans medvært Mogens egentlig er.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/58008326
+   </guid>
+   <pubDate>
+    Thu, 14 Dec 2023 14:52:02 +0000
+   </pubDate>
+   <enclosure length="83199168" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58008326/mogensogk2.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I denne særudsendelse beslutter 'Kristiansen' at undersøge, hvem hans medvært Mogens egentlig er.
+   </itunes:subtitle>
+   <itunes:summary>
+    I denne særudsendelse beslutter 'Kristiansen' at undersøge, hvem hans medvært Mogens egentlig er.
+   </itunes:summary>
+   <itunes:duration>
+    3464
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fdbfe43de6c48ec72945e72ee66c8f9.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Særudsendelsen: Hvem er Kristiansen?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/saerudsendelsen-hvem-er-kristiansen--57937460
+   </link>
+   <description>
+    I denne særudsendelse beslutter Mogens at undersøge, hvem hans medvært 'Kristiansen' egentlig er. &lt;br /&gt;
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/57937460
+   </guid>
+   <pubDate>
+    Thu, 07 Dec 2023 09:36:54 +0000
+   </pubDate>
+   <enclosure length="81583488" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57937460/mogens_s_r.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I denne særudsendelse beslutter Mogens at undersøge, hvem hans medvært 'Kristiansen' egentlig er.
+   </itunes:subtitle>
+   <itunes:summary>
+    I denne særudsendelse beslutter Mogens at undersøge, hvem hans medvært 'Kristiansen' egentlig er. &lt;br /&gt;
+   </itunes:summary>
+   <itunes:duration>
+    3397
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fdbfe43de6c48ec72945e72ee66c8f9.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    "Troels Lund Poulsen burde tage en tur til traktortræk"
+   </title>
+   <link>
+    https://www.spreaker.com/episode/troels-lund-poulsen-burde-tage-en-tur-til-traktortraek--57770155
+   </link>
+   <description>
+    I denne Onsdagsanalyse analyserer Mogens og Kristiansen den nyvalgte formand i Venstres taleevner og hvorvidt Troels Lund Poulsen er klar til at vise blødere sider af sig selv. Hør også hvordan kommentatorerne råder Venstre til partiets videre branding. Til slut vender vi også situationen med Mike Fonseca og Moderaterne.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/57770155
+   </guid>
+   <pubDate>
+    Wed, 22 Nov 2023 19:50:09 +0000
+   </pubDate>
+   <enclosure length="33994368" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57770155/m_og_k_22_11.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I denne Onsdagsanalyse analyserer Mogens og Kristiansen den nyvalgte formand i Venstres taleevner og hvorvidt Troels Lund Poulsen er klar til at vise blødere sider af sig selv. Hør også hvordan kommentatorerne råder Venstre til partiets videre...
+   </itunes:subtitle>
+   <itunes:summary>
+    I denne Onsdagsanalyse analyserer Mogens og Kristiansen den nyvalgte formand i Venstres taleevner og hvorvidt Troels Lund Poulsen er klar til at vise blødere sider af sig selv. Hør også hvordan kommentatorerne råder Venstre til partiets videre branding. Til slut vender vi også situationen med Mike Fonseca og Moderaterne.
+   </itunes:summary>
+   <itunes:duration>
+    2121
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fdbfe43de6c48ec72945e72ee66c8f9.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    "Det er endnu et dårligt æble i regeringens kurv"
+   </title>
+   <link>
+    https://www.spreaker.com/episode/det-er-endnu-et-darligt-aeble-i-regeringens-kurv--57650576
+   </link>
+   <description>
+    Kristiansen er i denne uge til et vigtigt kursus i Jylland og er derfor med på en telefonforbindelse.&lt;br /&gt;Et kursus er dog ingen hindring, vi holder fortsat skarpt øje med den politiske scene - og taler i denne Onsdagsanalyse om en heftig debat i Folketingssalen og udenrigsministerens balancetur til Israel.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/57650576
+   </guid>
+   <pubDate>
+    Wed, 15 Nov 2023 16:58:46 +0000
+   </pubDate>
+   <enclosure length="19990272" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57650576/m_og_k_15nov.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Kristiansen er i denne uge til et vigtigt kursus i Jylland og er derfor med på en telefonforbindelse.
+Et kursus er dog ingen hindring, vi holder fortsat skarpt øje med den politiske scene - og taler i denne Onsdagsanalyse om en heftig debat i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Kristiansen er i denne uge til et vigtigt kursus i Jylland og er derfor med på en telefonforbindelse.&lt;br /&gt;Et kursus er dog ingen hindring, vi holder fortsat skarpt øje med den politiske scene - og taler i denne Onsdagsanalyse om en heftig debat i Folketingssalen og udenrigsministerens balancetur til Israel.
+   </itunes:summary>
+   <itunes:duration>
+    1246
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fdbfe43de6c48ec72945e72ee66c8f9.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    "Det er smart at have én, man kan smide i skraldespanden"
+   </title>
+   <link>
+    https://www.spreaker.com/episode/det-er-smart-at-have-en-man-kan-smide-i-skraldespanden--57564544
+   </link>
+   <description>
+    Tempofyldte dage har udspillet sig på Christiansborg. Vi følger i Onsdagsanalysen det politiske landskab og i denne uge analyserer Mogens og Kristiansen situationen med Claus Hjort Frederiksen, Danmarksdemokraternes kommende landsmøde og den største lempelse af personskatterne i 10 år.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/57564544
+   </guid>
+   <pubDate>
+    Wed, 08 Nov 2023 21:08:48 +0000
+   </pubDate>
+   <enclosure length="33712128" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57564544/m_og_k_4.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Tempofyldte dage har udspillet sig på Christiansborg. Vi følger i Onsdagsanalysen det politiske landskab og i denne uge analyserer Mogens og Kristiansen situationen med Claus Hjort Frederiksen, Danmarksdemokraternes kommende landsmøde og den største...
+   </itunes:subtitle>
+   <itunes:summary>
+    Tempofyldte dage har udspillet sig på Christiansborg. Vi følger i Onsdagsanalysen det politiske landskab og i denne uge analyserer Mogens og Kristiansen situationen med Claus Hjort Frederiksen, Danmarksdemokraternes kommende landsmøde og den største lempelse af personskatterne i 10 år.
+   </itunes:summary>
+   <itunes:duration>
+    2103
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fdbfe43de6c48ec72945e72ee66c8f9.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    "Dét der - det bli'r op ad bakke!"
+   </title>
+   <link>
+    https://www.spreaker.com/episode/det-der-det-bli-r-op-ad-bakke--57473347
+   </link>
+   <description>
+    Spænd sikkerhedsselen! I denne uges Onsdagsanalyse kommer vi ind på, at Nye Borgerliges formand ikke er bange for at indrømme sine fejl. Vi vender også ny udvikling i den såkaldte FE-sag og så taler vi blandt andet om nye justeringer af koranloven.&lt;br /&gt;&lt;br /&gt;NB: Afsnittet er optaget før anklagemynidhgedens beslutning om, at straffesagerne mod Claus Hjort Frederiksen og Lars Findsen droppes.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/57473347
+   </guid>
+   <pubDate>
+    Wed, 01 Nov 2023 16:47:40 +0000
+   </pubDate>
+   <enclosure length="31652736" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57473347/mogens_og_k_ep_4.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Spænd sikkerhedsselen! I denne uges Onsdagsanalyse kommer vi ind på, at Nye Borgerliges formand ikke er bange for at indrømme sine fejl. Vi vender også ny udvikling i den såkaldte FE-sag og så taler vi blandt andet om nye justeringer af koranloven....
+   </itunes:subtitle>
+   <itunes:summary>
+    Spænd sikkerhedsselen! I denne uges Onsdagsanalyse kommer vi ind på, at Nye Borgerliges formand ikke er bange for at indrømme sine fejl. Vi vender også ny udvikling i den såkaldte FE-sag og så taler vi blandt andet om nye justeringer af koranloven.&lt;br /&gt;&lt;br /&gt;NB: Afsnittet er optaget før anklagemynidhgedens beslutning om, at straffesagerne mod Claus Hjort Frederiksen og Lars Findsen droppes.
+   </itunes:summary>
+   <itunes:duration>
+    1975
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fdbfe43de6c48ec72945e72ee66c8f9.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    "Så fik de gamle bønder ham alligevel!"
+   </title>
+   <link>
+    https://www.spreaker.com/episode/sa-fik-de-gamle-bonder-ham-alligevel--57381726
+   </link>
+   <description>
+    Dramatiske dage har udspillet sig i Venstre. Mogens og Kristiansen analyserer denne onsdag situationen i partiet og årsagerne til Ellemanns farvel til politik. De kommer også med et bud på, hvordan fremtiden ser ud for Venstre.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/57381726
+   </guid>
+   <pubDate>
+    Wed, 25 Oct 2023 15:13:01 +0000
+   </pubDate>
+   <enclosure length="33485568" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57381726/m_og_k_3.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Dramatiske dage har udspillet sig i Venstre. Mogens og Kristiansen analyserer denne onsdag situationen i partiet og årsagerne til Ellemanns farvel til politik. De kommer også med et bud på, hvordan fremtiden ser ud for Venstre.
+   </itunes:subtitle>
+   <itunes:summary>
+    Dramatiske dage har udspillet sig i Venstre. Mogens og Kristiansen analyserer denne onsdag situationen i partiet og årsagerne til Ellemanns farvel til politik. De kommer også med et bud på, hvordan fremtiden ser ud for Venstre.
+   </itunes:summary>
+   <itunes:duration>
+    2089
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fdbfe43de6c48ec72945e72ee66c8f9.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Venstre i nutid og datid og et blik på Folketingets åbningsdebat
+   </title>
+   <link>
+    https://www.spreaker.com/episode/venstre-i-nutid-og-datid-og-et-blik-pa-folketingets-abningsdebat--57291855
+   </link>
+   <description>
+    I denne Onsdagsanalyse taler vi om Jakob Ellemann-Jensen og Venstre. Mogens og Kristiansen giver blandt andet et par råd med på vejen til partiformanden. Og så ser vi også tilbage på begivenhederne i forbindelse med Folketingets åbningsdebat.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/57291855
+   </guid>
+   <pubDate>
+    Wed, 18 Oct 2023 15:34:06 +0000
+   </pubDate>
+   <enclosure length="28030848" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57291855/m_og_k.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    I denne Onsdagsanalyse taler vi om Jakob Ellemann-Jensen og Venstre. Mogens og Kristiansen giver blandt andet et par råd med på vejen til partiformanden. Og så ser vi også tilbage på begivenhederne i forbindelse med Folketingets åbningsdebat.
+   </itunes:subtitle>
+   <itunes:summary>
+    I denne Onsdagsanalyse taler vi om Jakob Ellemann-Jensen og Venstre. Mogens og Kristiansen giver blandt andet et par råd med på vejen til partiformanden. Og så ser vi også tilbage på begivenhederne i forbindelse med Folketingets åbningsdebat.
+   </itunes:summary>
+   <itunes:duration>
+    1748
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fdbfe43de6c48ec72945e72ee66c8f9.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Løkke går til modangreb på journalister
+   </title>
+   <link>
+    https://www.spreaker.com/episode/lokke-gar-til-modangreb-pa-journalister--57209906
+   </link>
+   <description>
+    Landets udenrigsminister, Lars Løkke Rasmussen, er indblandet i en kompliceret sag om opstilling af vindmøller. Men kan historien ramme Løkke negativt? Dét og meget mere svarer Mogens og Kristiansen på i Onsdagsanalysen.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/57209906
+   </guid>
+   <pubDate>
+    Thu, 12 Oct 2023 14:02:44 +0000
+   </pubDate>
+   <enclosure length="72802560" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57209906/mogens_kristiansen_12_10_23.mp3"/>
+   <itunes:author>
+    24syv
+   </itunes:author>
+   <itunes:subtitle>
+    Landets udenrigsminister, Lars Løkke Rasmussen, er indblandet i en kompliceret sag om opstilling af vindmøller. Men kan historien ramme Løkke negativt? Dét og meget mere svarer Mogens og Kristiansen på i Onsdagsanalysen.
+   </itunes:subtitle>
+   <itunes:summary>
+    Landets udenrigsminister, Lars Løkke Rasmussen, er indblandet i en kompliceret sag om opstilling af vindmøller. Men kan historien ramme Løkke negativt? Dét og meget mere svarer Mogens og Kristiansen på i Onsdagsanalysen.
+   </itunes:summary>
+   <itunes:duration>
+    1821
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fdbfe43de6c48ec72945e72ee66c8f9.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>

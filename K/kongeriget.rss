@@ -1,253 +1,2208 @@
-<?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Kongeriget</title>
-		<link>https://web.24syv.dk/channels/4957</link>
-		<description>Hvordan kan vi sikre at magthaverne skaber en fremtid for personer i midten af deres 20’ere, når gennemsnitsalderen på Folketingets medlemmer er 46,2? I Kongeriget stiller værterne Aleksander Bruun og Miriam Leander skarpt på begivenheder, der sker lige nu. Altid med et spørgsmål til en nøgleperson for øje: Hvad betyder det for den unge generation.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/795/82322649714fcffddc630f5a7d14bc9a.jpg"/>
-		<item>
-			<title>Mental Sundhed: Er der nogen, der vil snakke med mig?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48036047/kongeriget21dec_spreaker.mp3</link>
-			<description>Psykologhjælpen til unge er gratis - men ventelisterne er lange. Hvem er der så at tale med, når ensomheden eller eksamensangsten har overtaget? Vi møder i denne episode Headspace og Studenterpræsterne i Aarhus, som tilbyder et rum, hvor der er nogen, der lytter. Hør også episode 1 om mental sundhed for at møde stedet Husrum. Du er ikke alene. Glædelig jul fra Kongeriget.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48036047/kongeriget21dec_spreaker.mp3</guid>
-			<pubDate>Thu, 23 Dec 2021 13:12:07 +0000</pubDate>
-			<itunes:duration>00:33:37</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48036047/kongeriget21dec_spreaker.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mental Sundhed: Præstationskultur med præsteøjne</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47917605/loa_pr_stationskultur.mp3</link>
-			<description>Aleksander og Miriam har været på besøg hos Loa, der er studenterpræst og til dagligt lægger ører til, hvad studerende har på hjertet. Hun møder mange ambitiøse studerende, der kæmper med følelsen af ikke at slå til. Vi lever i en nulfejlskultur, mener Loa. I stedet synes hun, vi skal være mere nådige overfor os selv - også selvom, det er et præsteord.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47917605/loa_pr_stationskultur.mp3</guid>
-			<pubDate>Thu, 16 Dec 2021 07:19:44 +0000</pubDate>
-			<itunes:duration>00:22:32</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47917605/loa_pr_stationskultur.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mental Sundhed: Nikoline om eksamensangst</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47917425/nikoline_pod.mp3</link>
-			<description>Nikoline er studerende og er en af dem, der får ekstra ondt i maven i eksamenstiden.  Hvornår er det egentlig opgaven, der får karakter og hvornår er det Nikoline, der får en karakter som menneske? Miriam og Nikoline er enige om, at eksamensangst er irrationelt. Men hvordan ændrer vi den præstationskultur, vi lever i, så vi kan slippe af med angsten?</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47917425/nikoline_pod.mp3</guid>
-			<pubDate>Wed, 15 Dec 2021 07:18:04 +0000</pubDate>
-			<itunes:duration>00:19:03</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47917425/nikoline_pod.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mental Sundhed: Alexandra om ensomheden</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47905271/alexandra_hus.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47905271/alexandra_hus.mp3</guid>
-			<pubDate>Mon, 13 Dec 2021 16:15:16 +0000</pubDate>
-			<itunes:duration>00:16:11</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47905271/alexandra_hus.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mental sundhed: Har du været ensom?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47741809/woxpop_spotify.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47741809/woxpop_spotify.mp3</guid>
-			<pubDate>Thu, 02 Dec 2021 05:36:03 +0000</pubDate>
-			<itunes:duration>00:17:50</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47741809/woxpop_spotify.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mental Sundhed: Fællesskabet Husrum - Sammen bryder vi ensomheden</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47741808/husrum_spotify.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47741808/husrum_spotify.mp3</guid>
-			<pubDate>Thu, 02 Dec 2021 05:15:59 +0000</pubDate>
-			<itunes:duration>00:26:01</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47741808/husrum_spotify.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kommunalvalg i Kongeriget: Reportage fra vælgermøde på Dokk1 i Aarhus</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47482772/repotage.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47482772/repotage.mp3</guid>
-			<pubDate>Mon, 15 Nov 2021 13:27:17 +0000</pubDate>
-			<itunes:duration>00:22:02</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47482772/repotage.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kommunalvalg i Kongeriget: Hvad med udkanten, Borgmester-Jan?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47288637/kommunal_valg_pod_borgmester_jan.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47288637/kommunal_valg_pod_borgmester_jan.mp3</guid>
-			<pubDate>Wed, 03 Nov 2021 10:07:25 +0000</pubDate>
-			<itunes:duration>00:21:41</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47288637/kommunal_valg_pod_borgmester_jan.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kommunalvalg i Kongeriget: Valgplakaterne er oppe &amp;amp; en neutral kandidattest</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47180028/podcast_kommunavalg_e_4.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47180028/podcast_kommunavalg_e_4.mp3</guid>
-			<pubDate>Wed, 27 Oct 2021 13:15:54 +0000</pubDate>
-			<itunes:duration>00:29:47</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47180028/podcast_kommunavalg_e_4.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kommunalvalg i Kongeriget: Hvor er kvinderne?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47061329/k_pod_e_3.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47061329/k_pod_e_3.mp3</guid>
-			<pubDate>Wed, 20 Oct 2021 12:02:43 +0000</pubDate>
-			<itunes:duration>00:30:20</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47061329/k_pod_e_3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kommunalvalg i Kongeriget: Hvorfor stemmer vi ikke?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46952454/kommunal_valg_e_2_pod.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46952454/kommunal_valg_e_2_pod.mp3</guid>
-			<pubDate>Wed, 13 Oct 2021 08:09:31 +0000</pubDate>
-			<itunes:duration>00:39:43</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46952454/kommunal_valg_e_2_pod.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kommunalvalg i Kongeriget #1</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46846504/kommunal_valg_podcast.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46846504/kommunal_valg_podcast.mp3</guid>
-			<pubDate>Wed, 06 Oct 2021 10:16:46 +0000</pubDate>
-			<itunes:duration>00:39:43</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46846504/kommunal_valg_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hvad så nu, Tyskland?</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46738243/pod_tyskland.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46738243/pod_tyskland.mp3</guid>
-			<pubDate>Wed, 29 Sep 2021 08:23:55 +0000</pubDate>
-			<itunes:duration>00:38:39</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46738243/pod_tyskland.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Nye Borgelige spiser Dansk Folkeparti</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46631589/pod_ny_borgelige.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46631589/pod_ny_borgelige.mp3</guid>
-			<pubDate>Wed, 22 Sep 2021 08:11:12 +0000</pubDate>
-			<itunes:duration>00:31:57</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46631589/pod_ny_borgelige.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Vores generation mistrives</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46527812/stress_podcast.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46527812/stress_podcast.mp3</guid>
-			<pubDate>Wed, 15 Sep 2021 06:37:41 +0000</pubDate>
-			<itunes:duration>00:28:38</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46527812/stress_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Black Lives Matter - året efter mordet på George Floyd</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46418462/blm.mp3</link>
-			<description>I den her uge skal det handle om Black Lives Matter bevægelsen året efter mordet på George Floyd d. 25. maj 2020. For ændrede sidste sommers Black Lives Matter protester noget i den verden vi har i dag? Det skal vi spørge vores gæster om i dag. Vi får besøg af Black Lives Matter aktivist Moity Sarr her i studiet til en snak om BLM-DK og deres arbejde. Og så skal vi ringe til professor Christian Axboe Nielsen for til sidst at få hans perspektiver her året efter.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46418462/blm.mp3</guid>
-			<pubDate>Wed, 08 Sep 2021 05:04:29 +0000</pubDate>
-			<itunes:duration>00:50:53</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46418462/blm.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sagaen om crop toppen på Firehøjeskolen</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46323941/podcast_crop_top.mp3</link>
-			<description>Episoden er med gæst Sidsel Lieknins Vestertjele der er lærer og med i Everyday Sexism Project DK</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46323941/podcast_crop_top.mp3</guid>
-			<pubDate>Wed, 01 Sep 2021 05:51:45 +0000</pubDate>
-			<itunes:duration>00:30:49</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46323941/podcast_crop_top.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Israel-Palæstina</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44886013/kongeriget_israel_pal_stina.mp3</link>
-			<description>Konflikten mellem israelere og palæstinensere er eskaleret endnu en gang og har resulteret i død og ødelæggelse i Gaza. Krigs-konfrontationerne er opstået oven på, at den israelske domstol har gjort krav på husene i området Sheik Jarrah. Palæstinensiske familier er blevet beordret at flytte fra området, så de kan blive overdraget til jødiske bosættere. På baggrund af den seneste udvikling forsøger Kongeriget i denne episode at tegne hovedlinjerne i konfliktens historie og vurdere mulighederne for, om der snart bliver skabt fred.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44886013/kongeriget_israel_pal_stina.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:33:54 +0000</pubDate>
-			<itunes:duration>00:37:38</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44886013/kongeriget_israel_pal_stina.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>UGE 20 - Kort og godt</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44909014/kongeriget_uge_20_part2.mp3</link>
-			<description>Eid Mubarak til alle muslimer i Danmark! Brostrøm skælder ud, fordi vi “unge bærer smitten”. Ugens dårligste nyhed drejer sig om Israel-Palæstina. Ugens bedste nyhed er, at prins Christian er blevet konfirmeret. Vi gratulerer i Kongeriget.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44909014/kongeriget_uge_20_part2.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:33:54 +0000</pubDate>
-			<itunes:duration>00:20:42</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44909014/kongeriget_uge_20_part2.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ungdomspartierne i Danmark: Rød-Grøn Ungdom</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45107654/r_d_gr_n_u_done.mp3</link>
-			<description>Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Emilie Payami, som er medlem af foretningsudvalget i Rød-Grøn Ungdom, og forsøger at blive klogere på, hvad der driver hende og hendes parti.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45107654/r_d_gr_n_u_done.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:33:54 +0000</pubDate>
-			<itunes:duration>00:29:22</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45107654/r_d_gr_n_u_done.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ungdomspartierne i Danmark: Liberal Alliances Ungdom</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45107656/lau_done.mp3</link>
-			<description>Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Simon Fendinge Olsen, som er formand for Liberal Alliances Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45107656/lau_done.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:33:54 +0000</pubDate>
-			<itunes:duration>00:32:13</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45107656/lau_done.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ungdomspartierne i Danmark: Konservativ Ungdom</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45185629/kump3.mp3</link>
-			<description>Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Magnus Von Dreiager, som er formand for Konservativ Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45185629/kump3.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:33:54 +0000</pubDate>
-			<itunes:duration>00:29:04</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45185629/kump3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ungdomspartierne i Danmark: Danmarks Socialdemokratiske Ungdom</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45185800/s_mp3.mp3</link>
-			<description>Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Andreas Peterson, som er politisk medarbejder i Danmarks Socialdemokratiske Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45185800/s_mp3.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:33:54 +0000</pubDate>
-			<itunes:duration>00:30:44</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45185800/s_mp3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ungdomspartierne i Danmark: Dansk Folkepartis Ungdom</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45297172/dfu_done.mp3</link>
-			<description>Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Christian Bülow, der er næstformand i Dansk Folkepartis Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45297172/dfu_done.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:33:53 +0000</pubDate>
-			<itunes:duration>00:30:48</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45297172/dfu_done.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ungdomspartierne i Danmark: Radikal Ungdom</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45297174/ru_done.mp3</link>
-			<description>Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Jacob Robsøe, der er formand i Radikal Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45297174/ru_done.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:33:53 +0000</pubDate>
-			<itunes:duration>00:32:59</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45297174/ru_done.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ungdomspartierne i Danmark: Alternativets Unge</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45383519/komngeriget_a_u_mp3.mp3</link>
-			<description>Hvad står jeres ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Malthe Uldbæk Iversen, organisatorisk forperson, og Mikkel Larsson, politisk forperson i Alternativets Unge og forsøger at blive klogere på, hvad der driver dem og deres parti.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45383519/komngeriget_a_u_mp3.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:33:53 +0000</pubDate>
-			<itunes:duration>00:32:20</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45383519/komngeriget_a_u_mp3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ungdomspartierne i Danmark: SF Ungdom</title>
-			<link>https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45383549/kongeriget_sfu_mp3.mp3</link>
-			<description>Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Anna Kjær, der er forkvinde for SF Ungdom, og forsøger at blive klogere på, hvad der driver hende og hendes parti.</description>
-			<guid isPermaLink="true">https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45383549/kongeriget_sfu_mp3.mp3</guid>
-			<pubDate>Fri, 23 Jul 2021 07:33:53 +0000</pubDate>
-			<itunes:duration>00:30:21</itunes:duration>
-			<enclosure url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45383549/kongeriget_sfu_mp3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+ <channel>
+  <title>
+   Kongeriget
+  </title>
+  <link>
+   https://loud.land/podcast/kongeriget
+  </link>
+  <description>
+   Hvordan kan vi sikre at magthaverne skaber en fremtid for personer i midten af deres 20’ere, når gennemsnitsalderen på Folketingets medlemmer er 46,2? I Kongeriget stiller værterne Aleksander Bruun og Miriam Leander skarpt på begivenheder, der sker lige nu. Altid med et spørgsmål til en nøgleperson for øje: Hvad betyder det for den unge generation.
+  </description>
+  <atom:link href="https://www.spreaker.com/show/4557103/episodes/feed" rel="self" type="application/rss+xml"/>
+  <language>
+   da
+  </language>
+  <category>
+   News
+  </category>
+  <copyright>
+   521943
+  </copyright>
+  <image>
+   <url>
+    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg
+   </url>
+   <title>
+    Kongeriget
+   </title>
+   <link>
+    https://loud.land/podcast/kongeriget
+   </link>
+  </image>
+  <lastBuildDate>
+   Mon, 29 Jan 2024 15:18:18 +0000
+  </lastBuildDate>
+  <itunes:author>
+   LOUD
+  </itunes:author>
+  <itunes:owner>
+   <itunes:name>
+    LOUD
+   </itunes:name>
+   <itunes:email>
+    podcast@radioloud.dk
+   </itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+  <itunes:subtitle>
+   Ungdommens blik på ugens vigtigste begivenhed.
+  </itunes:subtitle>
+  <itunes:summary>
+   Hvordan kan vi sikre at magthaverne skaber en fremtid for personer i midten af deres 20’ere, når gennemsnitsalderen på Folketingets medlemmer er 46,2? I Kongeriget stiller værterne Aleksander Bruun og Miriam Leander skarpt på begivenheder, der sker lige nu. Altid med et spørgsmål til en nøgleperson for øje: Hvad betyder det for den unge generation.
+  </itunes:summary>
+  <itunes:category text="News"/>
+  <itunes:category text="News">
+   <itunes:category text="News Commentary"/>
+  </itunes:category>
+  <itunes:category text="News">
+   <itunes:category text="Politics"/>
+  </itunes:category>
+  <itunes:explicit>
+   clean
+  </itunes:explicit>
+  <itunes:type>
+   episodic
+  </itunes:type>
+  <item>
+   <title>
+    Mental Sundhed: Er der nogen, der vil snakke med mig?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mental-sundhed-er-der-nogen-der-vil-snakke-med-mig--48036047
+   </link>
+   <description>
+    Psykologhjælpen til unge er gratis - men ventelisterne er lange. Hvem er der så at tale med, når ensomheden eller eksamensangsten har overtaget? Vi møder i denne episode Headspace og Studenterpræsterne i Aarhus, som tilbyder et rum, hvor der er nogen, der lytter. Hør også episode 1 om mental sundhed for at møde stedet Husrum. Du er ikke alene. Glædelig jul fra Kongeriget.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/48036047
+   </guid>
+   <pubDate>
+    Thu, 23 Dec 2021 12:56:37 +0000
+   </pubDate>
+   <enclosure length="32352175" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48036047/kongeriget21dec_spreaker.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Psykologhjælpen til unge er gratis - men ventelisterne er lange. Hvem er der så at tale med, når ensomheden eller eksamensangsten har overtaget? Vi møder i denne episode Headspace og Studenterpræsterne i Aarhus, som tilbyder et rum, hvor der er nogen,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Psykologhjælpen til unge er gratis - men ventelisterne er lange. Hvem er der så at tale med, når ensomheden eller eksamensangsten har overtaget? Vi møder i denne episode Headspace og Studenterpræsterne i Aarhus, som tilbyder et rum, hvor der er nogen, der lytter. Hør også episode 1 om mental sundhed for at møde stedet Husrum. Du er ikke alene. Glædelig jul fra Kongeriget.
+   </itunes:summary>
+   <itunes:duration>
+    2018
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Mental Sundhed: Præstationskultur med præsteøjne
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mental-sundhed-praestationskultur-med-praesteojne--47917605
+   </link>
+   <description>
+    Aleksander og Miriam har været på besøg hos Loa, der er studenterpræst og til dagligt lægger ører til, hvad studerende har på hjertet. Hun møder mange ambitiøse studerende, der kæmper med følelsen af ikke at slå til. Vi lever i en nulfejlskultur, mener Loa. I stedet synes hun, vi skal være mere nådige overfor os selv - også selvom, det er et præsteord.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47917605
+   </guid>
+   <pubDate>
+    Thu, 16 Dec 2021 07:00:02 +0000
+   </pubDate>
+   <enclosure length="21705082" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47917605/loa_pr_stationskultur.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Aleksander og Miriam har været på besøg hos Loa, der er studenterpræst og til dagligt lægger ører til, hvad studerende har på hjertet. Hun møder mange ambitiøse studerende, der kæmper med følelsen af ikke at slå til. Vi lever i en nulfejlskultur,...
+   </itunes:subtitle>
+   <itunes:summary>
+    Aleksander og Miriam har været på besøg hos Loa, der er studenterpræst og til dagligt lægger ører til, hvad studerende har på hjertet. Hun møder mange ambitiøse studerende, der kæmper med følelsen af ikke at slå til. Vi lever i en nulfejlskultur, mener Loa. I stedet synes hun, vi skal være mere nådige overfor os selv - også selvom, det er et præsteord.
+   </itunes:summary>
+   <itunes:duration>
+    1353
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Mental Sundhed: Nikoline om eksamensangst
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mental-sundhed-nikoline-om-eksamensangst--47917425
+   </link>
+   <description>
+    Nikoline er studerende og er en af dem, der får ekstra ondt i maven i eksamenstiden.  Hvornår er det egentlig opgaven, der får karakter og hvornår er det Nikoline, der får en karakter som menneske? Miriam og Nikoline er enige om, at eksamensangst er irrationelt. Men hvordan ændrer vi den præstationskultur, vi lever i, så vi kan slippe af med angsten?
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47917425
+   </guid>
+   <pubDate>
+    Wed, 15 Dec 2021 07:00:02 +0000
+   </pubDate>
+   <enclosure length="18363917" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47917425/nikoline_pod.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Nikoline er studerende og er en af dem, der får ekstra ondt i maven i eksamenstiden.  Hvornår er det egentlig opgaven, der får karakter og hvornår er det Nikoline, der får en karakter som menneske? Miriam og Nikoline er enige om, at eksamensangst er...
+   </itunes:subtitle>
+   <itunes:summary>
+    Nikoline er studerende og er en af dem, der får ekstra ondt i maven i eksamenstiden.  Hvornår er det egentlig opgaven, der får karakter og hvornår er det Nikoline, der får en karakter som menneske? Miriam og Nikoline er enige om, at eksamensangst er irrationelt. Men hvordan ændrer vi den præstationskultur, vi lever i, så vi kan slippe af med angsten?
+   </itunes:summary>
+   <itunes:duration>
+    1144
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Mental Sundhed: Alexandra om ensomheden
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mental-sundhed-alexandra-om-ensomheden--47905271
+   </link>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47905271
+   </guid>
+   <pubDate>
+    Mon, 13 Dec 2021 15:57:50 +0000
+   </pubDate>
+   <enclosure length="15540913" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47905271/alexandra_hus.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:duration>
+    972
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Mental sundhed: Har du været ensom?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mental-sundhed-har-du-vaeret-ensom--47741809
+   </link>
+   <description>
+    Hos fælleskabet Husrum lærte vi, at ensomheden skal kommes til livs ved at turde tale højt med hinanden om den. Vi kender selv følelsen. Derfor spørger vi et par af vores venner, om de også kender til ensomheden.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47741809
+   </guid>
+   <pubDate>
+    Thu, 02 Dec 2021 05:20:02 +0000
+   </pubDate>
+   <enclosure length="17124979" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47741809/woxpop_spotify.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hos fælleskabet Husrum lærte vi, at ensomheden skal kommes til livs ved at turde tale højt med hinanden om den. Vi kender selv følelsen. Derfor spørger vi et par af vores venner, om de også kender til ensomheden.
+   </itunes:subtitle>
+   <itunes:summary>
+    Hos fælleskabet Husrum lærte vi, at ensomheden skal kommes til livs ved at turde tale højt med hinanden om den. Vi kender selv følelsen. Derfor spørger vi et par af vores venner, om de også kender til ensomheden.
+   </itunes:summary>
+   <itunes:duration>
+    1071
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Mental Sundhed: Fællesskabet Husrum - Sammen bryder vi ensomheden
+   </title>
+   <link>
+    https://www.spreaker.com/episode/mental-sundhed-faellesskabet-husrum-sammen-bryder-vi-ensomheden--47741808
+   </link>
+   <description>
+    "Du vil opdage, du ikke er alene om at føle dig ensom."  - Det er heri vejen ud af ensomheden skal findes, mener Line Laxy, der er frivilligkkordinator hos Husrum i Aarhus, som Kongeriget besøger her i første episode med fokus på mental sundhed.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47741808
+   </guid>
+   <pubDate>
+    Thu, 02 Dec 2021 05:15:02 +0000
+   </pubDate>
+   <enclosure length="24991393" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47741808/husrum_spotify.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    "Du vil opdage, du ikke er alene om at føle dig ensom."  - Det er heri vejen ud af ensomheden skal findes, mener Line Laxy, der er frivilligkkordinator hos Husrum i Aarhus, som Kongeriget besøger her i første episode med fokus på mental sundhed.
+   </itunes:subtitle>
+   <itunes:summary>
+    "Du vil opdage, du ikke er alene om at føle dig ensom."  - Det er heri vejen ud af ensomheden skal findes, mener Line Laxy, der er frivilligkkordinator hos Husrum i Aarhus, som Kongeriget besøger her i første episode med fokus på mental sundhed.
+   </itunes:summary>
+   <itunes:duration>
+    1562
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kommunalvalg i Kongeriget: Reportage fra vælgermøde på Dokk1 i Aarhus
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kommunalvalg-i-kongeriget-reportage-fra-vaelgermode-pa-dokk1-i-aarhus--47482772
+   </link>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47482772
+   </guid>
+   <pubDate>
+    Mon, 15 Nov 2021 13:16:10 +0000
+   </pubDate>
+   <enclosure length="21163295" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47482772/repotage.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:duration>
+    1323
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kommunalvalg i Kongeriget: Hvad med udkanten, Borgmester-Jan?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kommunalvalg-i-kongeriget-hvad-med-udkanten-borgmester-jan--47288637
+   </link>
+   <description>
+    Udkantskommunen Norddjurs er stedet, hvor tidligere folketingspolitiker Jan Petersen er borgmester. Hvad gøres der på danmarks næse for at få flere unge kandidater til at stille op? Og for at få flere unge til at stemme? Det spørgsmål stiller vi vores gæst i denne episode af Kongeriget.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47288637
+   </guid>
+   <pubDate>
+    Wed, 03 Nov 2021 10:03:13 +0000
+   </pubDate>
+   <enclosure length="20830625" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47288637/kommunal_valg_pod_borgmester_jan.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Udkantskommunen Norddjurs er stedet, hvor tidligere folketingspolitiker Jan Petersen er borgmester. Hvad gøres der på danmarks næse for at få flere unge kandidater til at stille op? Og for at få flere unge til at stemme? Det spørgsmål stiller vi vores...
+   </itunes:subtitle>
+   <itunes:summary>
+    Udkantskommunen Norddjurs er stedet, hvor tidligere folketingspolitiker Jan Petersen er borgmester. Hvad gøres der på danmarks næse for at få flere unge kandidater til at stille op? Og for at få flere unge til at stemme? Det spørgsmål stiller vi vores gæst i denne episode af Kongeriget.
+   </itunes:summary>
+   <itunes:duration>
+    1302
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b49a4cda7740531968da0e4bc976624b.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kommunalvalg i Kongeriget: Valgplakaterne er oppe &amp; en neutral kandidattest
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kommunalvalg-i-kongeriget-valgplakaterne-er-oppe-en-neutral-kandidattest--47180028
+   </link>
+   <description>
+    Lørdag blev land og by klistret til med valgplakater i hele kongeriget. Unge gider ikke kommunalpolitik. Eller kan det miodbevises? Vi besøger Radikal Ungdoms lokaler i Aarhus og taler med 19-årige Kristian Højen om, hvorfor han brugte hele sin lørdag på at hænge i lygtepælene i Aarhus og hvorfor han synes, at kommunalvalget er så vigtigt.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47180028
+   </guid>
+   <pubDate>
+    Wed, 27 Oct 2021 13:00:16 +0000
+   </pubDate>
+   <enclosure length="28605491" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47180028/podcast_kommunavalg_e_4.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Lørdag blev land og by klistret til med valgplakater i hele kongeriget. Unge gider ikke kommunalpolitik. Eller kan det miodbevises? Vi besøger Radikal Ungdoms lokaler i Aarhus og taler med 19-årige Kristian Højen om, hvorfor han brugte hele sin lørdag...
+   </itunes:subtitle>
+   <itunes:summary>
+    Lørdag blev land og by klistret til med valgplakater i hele kongeriget. Unge gider ikke kommunalpolitik. Eller kan det miodbevises? Vi besøger Radikal Ungdoms lokaler i Aarhus og taler med 19-årige Kristian Højen om, hvorfor han brugte hele sin lørdag på at hænge i lygtepælene i Aarhus og hvorfor han synes, at kommunalvalget er så vigtigt.
+   </itunes:summary>
+   <itunes:duration>
+    1788
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b49a4cda7740531968da0e4bc976624b.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kommunalvalg i Kongeriget: Hvor er kvinderne?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kommunalvalg-i-kongeriget-hvor-er-kvinderne--47061329
+   </link>
+   <description>
+    Kun en tredjedel af landets byrådsmedlemmer er kvinder og ud af 98 kommuner sidder der 14  kvindlige borgmestre. Hvorfor ser det sådan ud i 2021? Hvor er kvinderne? Det spørgsmål søger vi svaret på i denne episode af Kongeriget, hvor vi taler med Aaarhus' eneste kvindlige spidskandidat til Kommunalvalget 2021 Laura Bryhl fra Enhedslisten samt tidligere borgmester i Syddjurs Kommune Kirstine Bille.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/47061329
+   </guid>
+   <pubDate>
+    Wed, 20 Oct 2021 11:47:32 +0000
+   </pubDate>
+   <enclosure length="29128344" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47061329/k_pod_e_3.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Kun en tredjedel af landets byrådsmedlemmer er kvinder og ud af 98 kommuner sidder der 14  kvindlige borgmestre. Hvorfor ser det sådan ud i 2021? Hvor er kvinderne? Det spørgsmål søger vi svaret på i denne episode af Kongeriget, hvor vi taler med...
+   </itunes:subtitle>
+   <itunes:summary>
+    Kun en tredjedel af landets byrådsmedlemmer er kvinder og ud af 98 kommuner sidder der 14  kvindlige borgmestre. Hvorfor ser det sådan ud i 2021? Hvor er kvinderne? Det spørgsmål søger vi svaret på i denne episode af Kongeriget, hvor vi taler med Aaarhus' eneste kvindlige spidskandidat til Kommunalvalget 2021 Laura Bryhl fra Enhedslisten samt tidligere borgmester i Syddjurs Kommune Kirstine Bille.
+   </itunes:summary>
+   <itunes:duration>
+    1821
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b49a4cda7740531968da0e4bc976624b.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kommunalvalg i Kongeriget: Hvorfor stemmer vi ikke?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kommunalvalg-i-kongeriget-hvorfor-stemmer-vi-ikke--46952454
+   </link>
+   <description>
+    Personer i midten af 20'erne er de dårligste til at få stemt til kommunalvalget. Hvorfor er vi så dårlige til at få stemt? Mangler vi jævnaldrende kandidater at spejle os i? Hvem er de yngre kandidater? Og hvad gør de for at bryde ind i byrådene?
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46952454
+   </guid>
+   <pubDate>
+    Wed, 13 Oct 2021 07:55:23 +0000
+   </pubDate>
+   <enclosure length="38139974" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46952454/kommunal_valg_e_2_pod.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Personer i midten af 20'erne er de dårligste til at få stemt til kommunalvalget. Hvorfor er vi så dårlige til at få stemt? Mangler vi jævnaldrende kandidater at spejle os i? Hvem er de yngre kandidater? Og hvad gør de for at bryde ind i byrådene?
+   </itunes:subtitle>
+   <itunes:summary>
+    Personer i midten af 20'erne er de dårligste til at få stemt til kommunalvalget. Hvorfor er vi så dårlige til at få stemt? Mangler vi jævnaldrende kandidater at spejle os i? Hvem er de yngre kandidater? Og hvad gør de for at bryde ind i byrådene?
+   </itunes:summary>
+   <itunes:duration>
+    2384
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b49a4cda7740531968da0e4bc976624b.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kommunalvalg i Kongeriget: Ung i kommunalpolitik
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kommunalvalg-i-kongeriget-ung-i-kommunalpolitik--46846504
+   </link>
+   <description>
+    Hvem er den typiske kommunalpolitiker? Det spørger vi professor Martin Bækgaard fra institut for statskundskab på Aarhus universitet om. Vi taler også med en af de få unge kandidater til kommunalvalget 2021, Maria Witthøft, som stiller op for Socialdemokratiet i Greve kommune. &lt;br /&gt;&lt;br /&gt;Første episode af podcastserien: "Kommunalvalg i Kongeriget".
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46846504
+   </guid>
+   <pubDate>
+    Wed, 06 Oct 2021 10:13:08 +0000
+   </pubDate>
+   <enclosure length="38139976" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46846504/kommunal_valg_podcast.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvem er den typiske kommunalpolitiker? Det spørger vi professor Martin Bækgaard fra institut for statskundskab på Aarhus universitet om. Vi taler også med en af de få unge kandidater til kommunalvalget 2021, Maria Witthøft, som stiller op for...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvem er den typiske kommunalpolitiker? Det spørger vi professor Martin Bækgaard fra institut for statskundskab på Aarhus universitet om. Vi taler også med en af de få unge kandidater til kommunalvalget 2021, Maria Witthøft, som stiller op for Socialdemokratiet i Greve kommune. &lt;br /&gt;&lt;br /&gt;Første episode af podcastserien: "Kommunalvalg i Kongeriget".
+   </itunes:summary>
+   <itunes:duration>
+    2384
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b49a4cda7740531968da0e4bc976624b.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Hvad så nu, Tyskland?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/hvad-sa-nu-tyskland--46738243
+   </link>
+   <description>
+    I denne episode taler Kongeriget med Tabea Thielmann om at være vokset op under Merkel, den tyske ungdom og om valgresultaterne og fremtiden.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46738243
+   </guid>
+   <pubDate>
+    Wed, 29 Sep 2021 08:15:39 +0000
+   </pubDate>
+   <enclosure length="37117637" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46738243/pod_tyskland.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    I denne episode taler Kongeriget med Tabea Thielmann om at være vokset op under Merkel, den tyske ungdom og om valgresultaterne og fremtiden.
+   </itunes:subtitle>
+   <itunes:summary>
+    I denne episode taler Kongeriget med Tabea Thielmann om at være vokset op under Merkel, den tyske ungdom og om valgresultaterne og fremtiden.
+   </itunes:summary>
+   <itunes:duration>
+    2320
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b49a4cda7740531968da0e4bc976624b.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Nye Borgelige spiser Dansk Folkeparti
+   </title>
+   <link>
+    https://www.spreaker.com/episode/nye-borgelige-spiser-dansk-folkeparti--46631589
+   </link>
+   <description>
+    I dag spørger forsøger vi at få svar på, hvorfor Nye Borgerlige står til så stor en fremgang og Dansk Folkeparti til så stor en tilbagegang. Ved folketingsvalget i 2015 var Dansk Folkeparti danmarks næststørste parti med hele 21% af stemmerne. I dag står partiet dog kun til at opnå 7% af stemmerne ved næste folketingsvalg. Nye Borgerlige derimod står til at få 8% af stemmerne. &lt;br /&gt;Vi taler senere i episoden med landsformand for Nye Borgerlig Ungdom Mikkel Bjørn Sørensen om hvordan hans parti sprængte patenten på Dansk Folkepartis største mærkesag.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46631589
+   </guid>
+   <pubDate>
+    Wed, 22 Sep 2021 07:55:32 +0000
+   </pubDate>
+   <enclosure length="30681905" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46631589/pod_ny_borgelige.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    I dag spørger forsøger vi at få svar på, hvorfor Nye Borgerlige står til så stor en fremgang og Dansk Folkeparti til så stor en tilbagegang. Ved folketingsvalget i 2015 var Dansk Folkeparti danmarks næststørste parti med hele 21% af stemmerne. I dag...
+   </itunes:subtitle>
+   <itunes:summary>
+    I dag spørger forsøger vi at få svar på, hvorfor Nye Borgerlige står til så stor en fremgang og Dansk Folkeparti til så stor en tilbagegang. Ved folketingsvalget i 2015 var Dansk Folkeparti danmarks næststørste parti med hele 21% af stemmerne. I dag står partiet dog kun til at opnå 7% af stemmerne ved næste folketingsvalg. Nye Borgerlige derimod står til at få 8% af stemmerne. &lt;br /&gt;Vi taler senere i episoden med landsformand for Nye Borgerlig Ungdom Mikkel Bjørn Sørensen om hvordan hans parti sprængte patenten på Dansk Folkepartis største mærkesag.
+   </itunes:summary>
+   <itunes:duration>
+    1918
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b49a4cda7740531968da0e4bc976624b.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Vores generation mistrives
+   </title>
+   <link>
+    https://www.spreaker.com/episode/vores-generation-mistrives--46527812
+   </link>
+   <description>
+    Vores generation mistrives - hvorfor? &lt;br /&gt;&lt;br /&gt;I ugens episode af Kongeriget skal vi tale med Loa Mortensen, der er studenterpræst ved Aarhus universitet, og som til dagligt taler med unge om hvad de kan have på hjertet. Vi har også tidligere i dag stået foran universitetet her i Aarhus og udspurgt studerende. Begge dele gør vi i den her episode for at forsøge at få svar på, hvorfor vores generation mistrives, som den gør.&lt;br /&gt;&lt;br /&gt;Ifølge den seneste Nationale Sundhedsprofil udarbejdet af Syddansk Universitet og Sundhedsstyrelsen har hver fjerde 16 til 24-årige et højt stressniveau. Det fremgår også af et forskningsprojekt fra Rigshospitalet, at antallet af unge med depression er tredoblet siden 2000.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46527812
+   </guid>
+   <pubDate>
+    Wed, 15 Sep 2021 06:33:32 +0000
+   </pubDate>
+   <enclosure length="27499144" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46527812/stress_podcast.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Vores generation mistrives - hvorfor? 
+
+I ugens episode af Kongeriget skal vi tale med Loa Mortensen, der er studenterpræst ved Aarhus universitet, og som til dagligt taler med unge om hvad de kan have på hjertet. Vi har også tidligere i dag stået...
+   </itunes:subtitle>
+   <itunes:summary>
+    Vores generation mistrives - hvorfor? &lt;br /&gt;&lt;br /&gt;I ugens episode af Kongeriget skal vi tale med Loa Mortensen, der er studenterpræst ved Aarhus universitet, og som til dagligt taler med unge om hvad de kan have på hjertet. Vi har også tidligere i dag stået foran universitetet her i Aarhus og udspurgt studerende. Begge dele gør vi i den her episode for at forsøge at få svar på, hvorfor vores generation mistrives, som den gør.&lt;br /&gt;&lt;br /&gt;Ifølge den seneste Nationale Sundhedsprofil udarbejdet af Syddansk Universitet og Sundhedsstyrelsen har hver fjerde 16 til 24-årige et højt stressniveau. Det fremgår også af et forskningsprojekt fra Rigshospitalet, at antallet af unge med depression er tredoblet siden 2000.
+   </itunes:summary>
+   <itunes:duration>
+    1719
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b49a4cda7740531968da0e4bc976624b.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Black Lives Matter - året efter mordet på George Floyd
+   </title>
+   <link>
+    https://www.spreaker.com/episode/black-lives-matter-aret-efter-mordet-pa-george-floyd--46418462
+   </link>
+   <description>
+    Ændrede sidste sommers Black Lives Matter protester verdenen? Vi interviewer Black Lives Matter aktivist Moity Sarr om Black Lives Matter-bevægelsen året efter mordet på George Floyd d. 25. maj 2020, og ringer til professor Christian Axboe Nielsen for at få hans perspektiver på bevægelsens effekt.&lt;br /&gt;&lt;br /&gt;Værter: Miriam Leander og Aleksander Bruun
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46418462
+   </guid>
+   <pubDate>
+    Wed, 08 Sep 2021 05:05:00 +0000
+   </pubDate>
+   <enclosure length="48863535" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46418462/blm.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Ændrede sidste sommers Black Lives Matter protester verdenen? Vi interviewer Black Lives Matter aktivist Moity Sarr om Black Lives Matter-bevægelsen året efter mordet på George Floyd d. 25. maj 2020, og ringer til professor Christian Axboe Nielsen for...
+   </itunes:subtitle>
+   <itunes:summary>
+    Ændrede sidste sommers Black Lives Matter protester verdenen? Vi interviewer Black Lives Matter aktivist Moity Sarr om Black Lives Matter-bevægelsen året efter mordet på George Floyd d. 25. maj 2020, og ringer til professor Christian Axboe Nielsen for at få hans perspektiver på bevægelsens effekt.&lt;br /&gt;&lt;br /&gt;Værter: Miriam Leander og Aleksander Bruun
+   </itunes:summary>
+   <itunes:duration>
+    3054
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b49a4cda7740531968da0e4bc976624b.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Sagaen om crop toppen på Firehøjeskolen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/sagaen-om-crop-toppen-pa-firehojeskolen--46323941
+   </link>
+   <description>
+    Episoden er med gæst Sidsel Lieknins Vestertjele der er lærer og med i Everyday Sexism Project DK
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/46323941
+   </guid>
+   <pubDate>
+    Wed, 01 Sep 2021 05:34:01 +0000
+   </pubDate>
+   <enclosure length="29589360" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46323941/podcast_crop_top.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Episoden er med gæst Sidsel Lieknins Vestertjele der er lærer og med i Everyday Sexism Project DK
+   </itunes:subtitle>
+   <itunes:summary>
+    Episoden er med gæst Sidsel Lieknins Vestertjele der er lærer og med i Everyday Sexism Project DK
+   </itunes:summary>
+   <itunes:duration>
+    1850
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/eae6d4ac297eaa530980c7dd97b08ebd.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Ungdomspartierne i Danmark: SF Ungdom
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ungdomspartierne-i-danmark-sf-ungdom--45383549
+   </link>
+   <description>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Anna Kjær, der er forkvinde for SF Ungdom, og forsøger at blive klogere på, hvad der driver hende og hendes parti.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45383549
+   </guid>
+   <pubDate>
+    Wed, 23 Jun 2021 06:00:13 +0000
+   </pubDate>
+   <enclosure length="43731823" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45383549/kongeriget_sfu_mp3.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Anna Kjær, der er forkvinde for SF Ungdom, og forsøger at blive klogere på, hvad der driver hende og hendes parti.
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Anna Kjær, der er forkvinde for SF Ungdom, og forsøger at blive klogere på, hvad der driver hende og hendes parti.
+   </itunes:summary>
+   <itunes:duration>
+    1822
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Ungdomspartierne i Danmark: Alternativets Unge
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ungdomspartierne-i-danmark-alternativets-unge--45383519
+   </link>
+   <description>
+    Hvad står jeres ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Malthe Uldbæk Iversen, organisatorisk forperson, og Mikkel Larsson, politisk forperson i Alternativets Unge og forsøger at blive klogere på, hvad der driver dem og deres parti.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45383519
+   </guid>
+   <pubDate>
+    Wed, 23 Jun 2021 06:00:13 +0000
+   </pubDate>
+   <enclosure length="46585021" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45383519/komngeriget_a_u_mp3.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad står jeres ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Malthe Uldbæk Iversen, organisatorisk forperson, og Mikkel Larsson, politisk forperson i Alternativets Unge og forsøger at blive...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad står jeres ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Malthe Uldbæk Iversen, organisatorisk forperson, og Mikkel Larsson, politisk forperson i Alternativets Unge og forsøger at blive klogere på, hvad der driver dem og deres parti.
+   </itunes:summary>
+   <itunes:duration>
+    1941
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Ungdomspartierne i Danmark: Radikal Ungdom
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ungdomspartierne-i-danmark-radikal-ungdom--45297174
+   </link>
+   <description>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Jacob Robsøe, der er formand i Radikal Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45297174
+   </guid>
+   <pubDate>
+    Wed, 16 Jun 2021 06:05:11 +0000
+   </pubDate>
+   <enclosure length="31672460" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45297174/ru_done.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Jacob Robsøe, der er formand i Radikal Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Jacob Robsøe, der er formand i Radikal Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </itunes:summary>
+   <itunes:duration>
+    1980
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Ungdomspartierne i Danmark: Dansk Folkepartis Ungdom
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ungdomspartierne-i-danmark-dansk-folkepartis-ungdom--45297172
+   </link>
+   <description>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Christian Bülow, der er næstformand i Dansk Folkepartis Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45297172
+   </guid>
+   <pubDate>
+    Wed, 16 Jun 2021 06:05:11 +0000
+   </pubDate>
+   <enclosure length="29580157" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45297172/dfu_done.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Christian Bülow, der er næstformand i Dansk Folkepartis Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Christian Bülow, der er næstformand i Dansk Folkepartis Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </itunes:summary>
+   <itunes:duration>
+    1849
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Ungdomspartierne i Danmark: Danmarks Socialdemokratiske Ungdom
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ungdomspartierne-i-danmark-danmarks-socialdemokratiske-ungdom--45185800
+   </link>
+   <description>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Andreas Peterson, som er politisk medarbejder i Danmarks Socialdemokratiske Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45185800
+   </guid>
+   <pubDate>
+    Wed, 09 Jun 2021 06:00:18 +0000
+   </pubDate>
+   <enclosure length="29583195" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45185800/s_mp3.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Andreas Peterson, som er politisk medarbejder i Danmarks Socialdemokratiske Ungdom, og forsøger at blive klogere på, hvad der driver...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Andreas Peterson, som er politisk medarbejder i Danmarks Socialdemokratiske Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </itunes:summary>
+   <itunes:duration>
+    1845
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Ungdomspartierne i Danmark: Konservativ Ungdom
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ungdomspartierne-i-danmark-konservativ-ungdom--45185629
+   </link>
+   <description>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Magnus Von Dreiager, som er formand for Konservativ Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45185629
+   </guid>
+   <pubDate>
+    Wed, 09 Jun 2021 06:00:18 +0000
+   </pubDate>
+   <enclosure length="27972798" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45185629/kump3.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Magnus Von Dreiager, som er formand for Konservativ Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Magnus Von Dreiager, som er formand for Konservativ Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </itunes:summary>
+   <itunes:duration>
+    1745
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Ungdomspartierne i Danmark: Liberal Alliances Ungdom
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ungdomspartierne-i-danmark-liberal-alliances-ungdom--45107656
+   </link>
+   <description>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Simon Fendinge Olsen, som er formand for Liberal Alliances Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45107656
+   </guid>
+   <pubDate>
+    Wed, 02 Jun 2021 06:00:15 +0000
+   </pubDate>
+   <enclosure length="30935248" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45107656/lau_done.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Simon Fendinge Olsen, som er formand for Liberal Alliances Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Simon Fendinge Olsen, som er formand for Liberal Alliances Ungdom, og forsøger at blive klogere på, hvad der driver ham og hans parti.
+   </itunes:summary>
+   <itunes:duration>
+    1934
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Ungdomspartierne i Danmark: Rød-Grøn Ungdom
+   </title>
+   <link>
+    https://www.spreaker.com/episode/ungdomspartierne-i-danmark-rod-gron-ungdom--45107654
+   </link>
+   <description>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Emilie Payami, som er medlem af foretningsudvalget i Rød-Grøn Ungdom, og forsøger at blive klogere på, hvad der driver hende og hendes parti.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/45107654
+   </guid>
+   <pubDate>
+    Wed, 02 Jun 2021 06:00:15 +0000
+   </pubDate>
+   <enclosure length="28200959" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45107654/r_d_gr_n_u_done.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Emilie Payami, som er medlem af foretningsudvalget i Rød-Grøn Ungdom, og forsøger at blive klogere på, hvad der driver hende og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvad står dit ungdomsparti for for? Og hvordan er det at være politisk aktiv ung? I denne episode mødes Kongeriget med Emilie Payami, som er medlem af foretningsudvalget i Rød-Grøn Ungdom, og forsøger at blive klogere på, hvad der driver hende og hendes parti.
+   </itunes:summary>
+   <itunes:duration>
+    1763
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 20 - Kort og godt
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-20-kort-og-godt--44909014
+   </link>
+   <description>
+    Eid Mubarak til alle muslimer i Danmark! Brostrøm skælder ud, fordi vi “unge bærer smitten”. Ugens dårligste nyhed drejer sig om Israel-Palæstina. Ugens bedste nyhed er, at prins Christian er blevet konfirmeret. Vi gratulerer i Kongeriget.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44909014
+   </guid>
+   <pubDate>
+    Wed, 19 May 2021 12:48:34 +0000
+   </pubDate>
+   <enclosure length="19949568" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44909014/kongeriget_uge_20_part2.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Eid Mubarak til alle muslimer i Danmark! Brostrøm skælder ud, fordi vi “unge bærer smitten”. Ugens dårligste nyhed drejer sig om Israel-Palæstina. Ugens bedste nyhed er, at prins Christian er blevet konfirmeret. Vi gratulerer i Kongeriget.
+   </itunes:subtitle>
+   <itunes:summary>
+    Eid Mubarak til alle muslimer i Danmark! Brostrøm skælder ud, fordi vi “unge bærer smitten”. Ugens dårligste nyhed drejer sig om Israel-Palæstina. Ugens bedste nyhed er, at prins Christian er blevet konfirmeret. Vi gratulerer i Kongeriget.
+   </itunes:summary>
+   <itunes:duration>
+    1243
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Israel-Palæstina
+   </title>
+   <link>
+    https://www.spreaker.com/episode/israel-palaestina--44886013
+   </link>
+   <description>
+    Konflikten mellem israelere og palæstinensere er eskaleret endnu en gang og har resulteret i død og ødelæggelse i Gaza. Krigs-konfrontationerne er opstået oven på, at den israelske domstol har gjort krav på husene i området Sheik Jarrah. Palæstinensiske familier er blevet beordret at flytte fra området, så de kan blive overdraget til jødiske bosættere. På baggrund af den seneste udvikling forsøger Kongeriget i denne episode at tegne hovedlinjerne i konfliktens historie og vurdere mulighederne for, om der snart bliver skabt fred.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44886013
+   </guid>
+   <pubDate>
+    Wed, 19 May 2021 06:00:12 +0000
+   </pubDate>
+   <enclosure length="36198235" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44886013/kongeriget_israel_pal_stina.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Konflikten mellem israelere og palæstinensere er eskaleret endnu en gang og har resulteret i død og ødelæggelse i Gaza. Krigs-konfrontationerne er opstået oven på, at den israelske domstol har gjort krav på husene i området Sheik Jarrah....
+   </itunes:subtitle>
+   <itunes:summary>
+    Konflikten mellem israelere og palæstinensere er eskaleret endnu en gang og har resulteret i død og ødelæggelse i Gaza. Krigs-konfrontationerne er opstået oven på, at den israelske domstol har gjort krav på husene i området Sheik Jarrah. Palæstinensiske familier er blevet beordret at flytte fra området, så de kan blive overdraget til jødiske bosættere. På baggrund af den seneste udvikling forsøger Kongeriget i denne episode at tegne hovedlinjerne i konfliktens historie og vurdere mulighederne for, om der snart bliver skabt fred.
+   </itunes:summary>
+   <itunes:duration>
+    2259
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/fd89801fe578bc527be58c30d32d66c7.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Skrottet vaccine - ja tak eller nej tak?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/skrottet-vaccine-ja-tak-eller-nej-tak--44808002
+   </link>
+   <description>
+    Sundhedsstyrelsen har meldt ud, at det bliver muligt at takke ja til de kasserede vacciner fra AstraZeneca og Johnson &amp; Johnson. Nu står vi alle sammen i et nyt dilemma. For hvor lækkert ville det ikke lige være at blive vaccineret og få det evigt gyldige coronapas? Kongeriget forsøger i dette afsnit at kortlægge pros and cons for at sige ja tak eller nej tak til vaccinerne i en samtale med Astrid Skifter Madsen, der læser til kemiteknologi-ingeniør.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44808002
+   </guid>
+   <pubDate>
+    Fri, 14 May 2021 08:15:08 +0000
+   </pubDate>
+   <enclosure length="27492936" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44808002/vaccine.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Sundhedsstyrelsen har meldt ud, at det bliver muligt at takke ja til de kasserede vacciner fra AstraZeneca og Johnson &amp; Johnson. Nu står vi alle sammen i et nyt dilemma. For hvor lækkert ville det ikke lige være at blive vaccineret og få det evigt...
+   </itunes:subtitle>
+   <itunes:summary>
+    Sundhedsstyrelsen har meldt ud, at det bliver muligt at takke ja til de kasserede vacciner fra AstraZeneca og Johnson &amp; Johnson. Nu står vi alle sammen i et nyt dilemma. For hvor lækkert ville det ikke lige være at blive vaccineret og få det evigt gyldige coronapas? Kongeriget forsøger i dette afsnit at kortlægge pros and cons for at sige ja tak eller nej tak til vaccinerne i en samtale med Astrid Skifter Madsen, der læser til kemiteknologi-ingeniør.
+   </itunes:summary>
+   <itunes:duration>
+    1719
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/32ecce3fb97ac9865050ff25e233d855.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 19 - Kort og ekstra godt
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-19-kort-og-ekstra-godt--44759475
+   </link>
+   <description>
+    Ugens nyheder bliver til en samtale om stort og småt i Kongeriget. Lidt om den kinesiske rumraket, der faldt ned i weekenden og lidt mere om klima-aftale mellem regeringen og støttepartierne. Og så en hel del om den enorme, tyske fallos-asparges i Torgau.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44759475
+   </guid>
+   <pubDate>
+    Wed, 12 May 2021 06:00:03 +0000
+   </pubDate>
+   <enclosure length="25447443" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44759475/uge_19.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Ugens nyheder bliver til en samtale om stort og småt i Kongeriget. Lidt om den kinesiske rumraket, der faldt ned i weekenden og lidt mere om klima-aftale mellem regeringen og støttepartierne. Og så en hel del om den enorme, tyske fallos-asparges i Torgau.
+   </itunes:subtitle>
+   <itunes:summary>
+    Ugens nyheder bliver til en samtale om stort og småt i Kongeriget. Lidt om den kinesiske rumraket, der faldt ned i weekenden og lidt mere om klima-aftale mellem regeringen og støttepartierne. Og så en hel del om den enorme, tyske fallos-asparges i Torgau.
+   </itunes:summary>
+   <itunes:duration>
+    1591
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/480e3a3d71b1c34646d3e937c3d05af2.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 18 - Kort og godt
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-18-kort-og-godt--44632734
+   </link>
+   <description>
+    Ugens nyheder bliver til en samtale om en vaccinekalender der bliver ved med at blive udskudt, endnu en mand der er sur på Lars Løkke, Jens Rohde der ikke helt ved hvad hans nyeste parti står for og en Pirat-techno-drugs-scooter-fest i Aleksanders hjemby. Plus meget mere.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44632734
+   </guid>
+   <pubDate>
+    Wed, 05 May 2021 06:00:03 +0000
+   </pubDate>
+   <enclosure length="24349047" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44632734/uge_18.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Ugens nyheder bliver til en samtale om en vaccinekalender der bliver ved med at blive udskudt, endnu en mand der er sur på Lars Løkke, Jens Rohde der ikke helt ved hvad hans nyeste parti står for og en Pirat-techno-drugs-scooter-fest i Aleksanders...
+   </itunes:subtitle>
+   <itunes:summary>
+    Ugens nyheder bliver til en samtale om en vaccinekalender der bliver ved med at blive udskudt, endnu en mand der er sur på Lars Løkke, Jens Rohde der ikke helt ved hvad hans nyeste parti står for og en Pirat-techno-drugs-scooter-fest i Aleksanders hjemby. Plus meget mere.
+   </itunes:summary>
+   <itunes:duration>
+    1522
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c6501d64a95759d2161637c091229a19.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Pandemi og international politik
+   </title>
+   <link>
+    https://www.spreaker.com/episode/pandemi-og-international-politik--44506387
+   </link>
+   <description>
+    Pandemien kom som en gigantisk flodbølge, der skyllede ind over alle andre internationale politiske dagsordener. Blev de eksisterende verdens-problematikker ligegyldige? Eller stod de bare i skyggen for en stund? Kan vi ovenpå pandemien løse problemer på en ny måde? Denne episode af Kongeriget står på tanker om verdenspolitik i en tid af undtagelsestilstand.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44506387
+   </guid>
+   <pubDate>
+    Fri, 30 Apr 2021 06:00:13 +0000
+   </pubDate>
+   <enclosure length="21096070" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44506387/international_politik.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Pandemien kom som en gigantisk flodbølge, der skyllede ind over alle andre internationale politiske dagsordener. Blev de eksisterende verdens-problematikker ligegyldige? Eller stod de bare i skyggen for en stund? Kan vi ovenpå pandemien løse problemer...
+   </itunes:subtitle>
+   <itunes:summary>
+    Pandemien kom som en gigantisk flodbølge, der skyllede ind over alle andre internationale politiske dagsordener. Blev de eksisterende verdens-problematikker ligegyldige? Eller stod de bare i skyggen for en stund? Kan vi ovenpå pandemien løse problemer på en ny måde? Denne episode af Kongeriget står på tanker om verdenspolitik i en tid af undtagelsestilstand.
+   </itunes:summary>
+   <itunes:duration>
+    1319
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ebaabed6acdabc9c0f4b9881a6ecf674.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 17 - Kort og godt
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-17-kort-og-godt--44506374
+   </link>
+   <description>
+    Ugens nyheder bliver til en samtale om Corona i Indien, festivalernes dødsstød, den store genåbning og ikke mindst pandaparring.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44506374
+   </guid>
+   <pubDate>
+    Wed, 28 Apr 2021 06:00:09 +0000
+   </pubDate>
+   <enclosure length="32480861" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44506374/uge_17_den_gte.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Ugens nyheder bliver til en samtale om Corona i Indien, festivalernes dødsstød, den store genåbning og ikke mindst pandaparring.
+   </itunes:subtitle>
+   <itunes:summary>
+    Ugens nyheder bliver til en samtale om Corona i Indien, festivalernes dødsstød, den store genåbning og ikke mindst pandaparring.
+   </itunes:summary>
+   <itunes:duration>
+    2031
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c6501d64a95759d2161637c091229a19.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kaos i blå blok
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kaos-i-bla-blok--44412356
+   </link>
+   <description>
+    I de nyeste meningsmålinger står Venstre til at miste 24 mandater siden sidste valg. Konservative derimod står til en fremgang på 16 mandater siden valget og ville, hvis der var valg i morgen, blive Danmarks næststørste parti. Der er vendt op og ned på magtbalancen i oppositionen, men hvad skyldes det egentlig? Pandemi? Rigsretssag? En tidligere statsminister, der savner rampelyset? Og hvilken betydning får det? Er Søren Pape Mette Frederiksens udfordrer ved næste valg?
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44412356
+   </guid>
+   <pubDate>
+    Wed, 21 Apr 2021 06:00:12 +0000
+   </pubDate>
+   <enclosure length="26275003" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44412356/ballade_i_venstre.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    I de nyeste meningsmålinger står Venstre til at miste 24 mandater siden sidste valg. Konservative derimod står til en fremgang på 16 mandater siden valget og ville, hvis der var valg i morgen, blive Danmarks næststørste parti. Der er vendt op og ned...
+   </itunes:subtitle>
+   <itunes:summary>
+    I de nyeste meningsmålinger står Venstre til at miste 24 mandater siden sidste valg. Konservative derimod står til en fremgang på 16 mandater siden valget og ville, hvis der var valg i morgen, blive Danmarks næststørste parti. Der er vendt op og ned på magtbalancen i oppositionen, men hvad skyldes det egentlig? Pandemi? Rigsretssag? En tidligere statsminister, der savner rampelyset? Og hvilken betydning får det? Er Søren Pape Mette Frederiksens udfordrer ved næste valg?
+   </itunes:summary>
+   <itunes:duration>
+    1643
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2544774119c774979422c76732986c45.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Hvorfor demonstrerer du imod coronarestriktionerne? (Uddrag)
+   </title>
+   <link>
+    https://www.spreaker.com/episode/hvorfor-demonstrerer-du-imod-coronarestriktionerne-uddrag--44412353
+   </link>
+   <description>
+    Kongeriget talte d. 7. januar  med en jævnaldrende studerende, der deltager i de “Men In Black”-arrangerede demonstrationer mod coronarestriktionerne i Danmark. Vi spørger hvorfor. Vi spørger hvordan det føles at stå ret så alene med sine holdninger. Og vi spørger om, hvordan folk reagerer, når hun fortæller det.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44412353
+   </guid>
+   <pubDate>
+    Wed, 21 Apr 2021 06:00:12 +0000
+   </pubDate>
+   <enclosure length="29190268" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44412353/corona_demonstranten.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Kongeriget talte d. 7. januar  med en jævnaldrende studerende, der deltager i de “Men In Black”-arrangerede demonstrationer mod coronarestriktionerne i Danmark. Vi spørger hvorfor. Vi spørger hvordan det føles at stå ret så alene med sine holdninger....
+   </itunes:subtitle>
+   <itunes:summary>
+    Kongeriget talte d. 7. januar  med en jævnaldrende studerende, der deltager i de “Men In Black”-arrangerede demonstrationer mod coronarestriktionerne i Danmark. Vi spørger hvorfor. Vi spørger hvordan det føles at stå ret så alene med sine holdninger. Og vi spørger om, hvordan folk reagerer, når hun fortæller det.
+   </itunes:summary>
+   <itunes:duration>
+    1825
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/502e976d3795398a3cd97a22c51b58ef.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 15 - Russerne kommer
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-15-russerne-kommer--44300436
+   </link>
+   <description>
+    Russerne kommer! Og snart kan vi spille computer med en chip i hjernen. Meget om valget i Grønland og stormagternes interesse i Arktis. Lidt om Syrien. Men først sender Kongeriget en kondolence til Hendes Majestæt Dronning Elizabeth II for tabet af hendes mand. Og endnu en kondolence til blå blok oven på Lars Løkke Rasmussens annoncering af sit nye politiske parti. Der er fart på i Kongeriget i denne uge.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44300436
+   </guid>
+   <pubDate>
+    Wed, 14 Apr 2021 06:00:17 +0000
+   </pubDate>
+   <enclosure length="53048214" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44300436/uge_15.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Russerne kommer! Og snart kan vi spille computer med en chip i hjernen. Meget om valget i Grønland og stormagternes interesse i Arktis. Lidt om Syrien. Men først sender Kongeriget en kondolence til Hendes Majestæt Dronning Elizabeth II for tabet af...
+   </itunes:subtitle>
+   <itunes:summary>
+    Russerne kommer! Og snart kan vi spille computer med en chip i hjernen. Meget om valget i Grønland og stormagternes interesse i Arktis. Lidt om Syrien. Men først sender Kongeriget en kondolence til Hendes Majestæt Dronning Elizabeth II for tabet af hendes mand. Og endnu en kondolence til blå blok oven på Lars Løkke Rasmussens annoncering af sit nye politiske parti. Der er fart på i Kongeriget i denne uge.
+   </itunes:summary>
+   <itunes:duration>
+    3316
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e6b530c51e9f8d528eb92891121b131b.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget DEBAT - Krænket?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-debat-kraenket--44268788
+   </link>
+   <description>
+    Kongerigets debat-special fra langfredag 2021 handler om krænkelser. Vi debatterer Metoo, #textmewhenyougethome, samtykkelov og digitale krænkeler i selskab med Viktoria Malaika Guldmann, Signe Daugaard og Julius Nicolaisen.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44268788
+   </guid>
+   <pubDate>
+    Sat, 10 Apr 2021 07:00:10 +0000
+   </pubDate>
+   <enclosure length="105191548" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44268788/pa_skeradio_fredag.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Kongerigets debat-special fra langfredag 2021 handler om krænkelser. Vi debatterer Metoo, #textmewhenyougethome, samtykkelov og digitale krænkeler i selskab med Viktoria Malaika Guldmann, Signe Daugaard og Julius Nicolaisen.
+   </itunes:subtitle>
+   <itunes:summary>
+    Kongerigets debat-special fra langfredag 2021 handler om krænkelser. Vi debatterer Metoo, #textmewhenyougethome, samtykkelov og digitale krænkeler i selskab med Viktoria Malaika Guldmann, Signe Daugaard og Julius Nicolaisen.
+   </itunes:summary>
+   <itunes:duration>
+    6575
+   </itunes:duration>
+   <itunes:keywords>
+    debat,krænkelser,metoo,talpænt,textmewhenyougethome,ung
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e30643fef4144550a1d7945ae79fff06.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget DEBAT - Hvordan vælger jeg uddannelse?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-debat-hvordan-vaelger-jeg-uddannelse--44268741
+   </link>
+   <description>
+    Kongerigets debat-special fra skærtorsdag 2021 handler om livets store valg - nemlig valget af uddannelse. Hvad vil jeg gerne være? Hvordan bliver jeg det? Medvirkende i programmet er Ingrid Kjærgaard, forkvinde for Danske Gymnasieelevers Sammenslutning, Kaja Nielsen, næstformand for Erhvervsskolernes Elevorganisation, Teis Zacho radiovært og musiker samt Kasper Knudsen, virksomhedsindehaver og foredragsholder.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44268741
+   </guid>
+   <pubDate>
+    Sat, 10 Apr 2021 07:00:10 +0000
+   </pubDate>
+   <enclosure length="107046033" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44268741/pa_skeradio_torsdag.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Kongerigets debat-special fra skærtorsdag 2021 handler om livets store valg - nemlig valget af uddannelse. Hvad vil jeg gerne være? Hvordan bliver jeg det? Medvirkende i programmet er Ingrid Kjærgaard, forkvinde for Danske Gymnasieelevers...
+   </itunes:subtitle>
+   <itunes:summary>
+    Kongerigets debat-special fra skærtorsdag 2021 handler om livets store valg - nemlig valget af uddannelse. Hvad vil jeg gerne være? Hvordan bliver jeg det? Medvirkende i programmet er Ingrid Kjærgaard, forkvinde for Danske Gymnasieelevers Sammenslutning, Kaja Nielsen, næstformand for Erhvervsskolernes Elevorganisation, Teis Zacho radiovært og musiker samt Kasper Knudsen, virksomhedsindehaver og foredragsholder.
+   </itunes:summary>
+   <itunes:duration>
+    6691
+   </itunes:duration>
+   <itunes:keywords>
+    debat,politik,samfund,uddannelse,ung
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/305407fb1f13220a60ddc5fe79df1e40.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 14 - FIRST MOVER ligesom Zac Efron
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-14-first-mover-ligesom-zac-efron--44235439
+   </link>
+   <description>
+    En ny uge er over os, og Kongeriget opdaterer dig på valget i Grønland, hærværket på den jødiske kirkegård, Vaccine-ræset i USA, Syrien, Putin der redder Suezkanalen og bilfrie søndage herhjemme.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44235439
+   </guid>
+   <pubDate>
+    Wed, 07 Apr 2021 08:15:14 +0000
+   </pubDate>
+   <enclosure length="53048214" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44235439/uge_14.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    En ny uge er over os, og Kongeriget opdaterer dig på valget i Grønland, hærværket på den jødiske kirkegård, Vaccine-ræset i USA, Syrien, Putin der redder Suezkanalen og bilfrie søndage herhjemme.
+   </itunes:subtitle>
+   <itunes:summary>
+    En ny uge er over os, og Kongeriget opdaterer dig på valget i Grønland, hærværket på den jødiske kirkegård, Vaccine-ræset i USA, Syrien, Putin der redder Suezkanalen og bilfrie søndage herhjemme.
+   </itunes:summary>
+   <itunes:duration>
+    3316
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cbf0f512ada7517b475b15badf652c46.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 13 - Riget i midten
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-13-riget-i-midten--44126879
+   </link>
+   <description>
+    Kongeriget byder igen op til dans. Kina-nyt, job-nyt, bolig-nyt og Mette F-nyt. Der er en masse gode nyheder på spisesedlen i dag. 5000 mennesker var samlede for at fyre op for en Corona-fest i Barcelona de españa. Vi siger NEJ til Kina sammen Anders Fogh og NIKE. Folket flygter fra Ellemanden og Venstre, selv Britt Bager gad ikke mere.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44126879
+   </guid>
+   <pubDate>
+    Wed, 31 Mar 2021 08:45:07 +0000
+   </pubDate>
+   <enclosure length="52976743" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44126879/uge_13.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Kongeriget byder igen op til dans. Kina-nyt, job-nyt, bolig-nyt og Mette F-nyt. Der er en masse gode nyheder på spisesedlen i dag. 5000 mennesker var samlede for at fyre op for en Corona-fest i Barcelona de españa. Vi siger NEJ til Kina sammen Anders...
+   </itunes:subtitle>
+   <itunes:summary>
+    Kongeriget byder igen op til dans. Kina-nyt, job-nyt, bolig-nyt og Mette F-nyt. Der er en masse gode nyheder på spisesedlen i dag. 5000 mennesker var samlede for at fyre op for en Corona-fest i Barcelona de españa. Vi siger NEJ til Kina sammen Anders Fogh og NIKE. Folket flygter fra Ellemanden og Venstre, selv Britt Bager gad ikke mere.
+   </itunes:summary>
+   <itunes:duration>
+    3312
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ab598a61a5135dba12cf522c2837b822.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 12 - Den med lidt nyt under solen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-12-den-med-lidt-nyt-under-solen--44023143
+   </link>
+   <description>
+    Kongeriget serverer i denne uge nyhedssamtalen som en enorm lagkage. Bunden består i public service om Den Store Bagedysts nye juniordeltagere, hvortil der er smurt med et tungt lag af debatten om børnene i Syrien, dertil består midten af lagkagen af alt fra USA til højtalervogn på jysk og #textmewhenyougethome. Kagen er pyntet med fejring af nyt under solen fra Ekstra Bladet og bør serveres sammen med forårsstemning og lysten til et underholdende nyhedsoverblik.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/44023143
+   </guid>
+   <pubDate>
+    Wed, 24 Mar 2021 07:00:14 +0000
+   </pubDate>
+   <enclosure length="53285615" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44023143/uge_12.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Kongeriget serverer i denne uge nyhedssamtalen som en enorm lagkage. Bunden består i public service om Den Store Bagedysts nye juniordeltagere, hvortil der er smurt med et tungt lag af debatten om børnene i Syrien, dertil består midten af lagkagen af...
+   </itunes:subtitle>
+   <itunes:summary>
+    Kongeriget serverer i denne uge nyhedssamtalen som en enorm lagkage. Bunden består i public service om Den Store Bagedysts nye juniordeltagere, hvortil der er smurt med et tungt lag af debatten om børnene i Syrien, dertil består midten af lagkagen af alt fra USA til højtalervogn på jysk og #textmewhenyougethome. Kagen er pyntet med fejring af nyt under solen fra Ekstra Bladet og bør serveres sammen med forårsstemning og lysten til et underholdende nyhedsoverblik.
+   </itunes:summary>
+   <itunes:duration>
+    3331
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c441f82d65a9f01a6e757eaacd67f939.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 11 - Et ekstra vigtigt budskab
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-11-et-ekstra-vigtigt-budskab--43930021
+   </link>
+   <description>
+    Juhuuu! Højskoler og efterskoler er åbnet, Druk er oscar-nomineret og Kristian Jensen er blevet ambassadør. Der bliver også sat fokus på usikkerhed i det offentlige rum med #textmewhenyougethome-bevægelsen. Der er så meget at fejre! Derfor går bølgerne højt i denne uges selektive gennemgang af nyhederne. Du-ved-hvad er næsten glemt.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43930021
+   </guid>
+   <pubDate>
+    Wed, 17 Mar 2021 10:20:02 +0000
+   </pubDate>
+   <enclosure length="53173602" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43930021/uge_11.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Juhuuu! Højskoler og efterskoler er åbnet, Druk er oscar-nomineret og Kristian Jensen er blevet ambassadør. Der bliver også sat fokus på usikkerhed i det offentlige rum med #textmewhenyougethome-bevægelsen. Der er så meget at fejre! Derfor går...
+   </itunes:subtitle>
+   <itunes:summary>
+    Juhuuu! Højskoler og efterskoler er åbnet, Druk er oscar-nomineret og Kristian Jensen er blevet ambassadør. Der bliver også sat fokus på usikkerhed i det offentlige rum med #textmewhenyougethome-bevægelsen. Der er så meget at fejre! Derfor går bølgerne højt i denne uges selektive gennemgang af nyhederne. Du-ved-hvad er næsten glemt.
+   </itunes:summary>
+   <itunes:duration>
+    3324
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d6654fb3e94911d62164a89f74ff0334.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 10 - Dan som i såDAN
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-10-dan-som-i-sadan--43815957
+   </link>
+   <description>
+    Efter en kæmpe Melodi Grand Prix-weekend prøver vi at tage konfettien med ind i studiet. Vi skal runde kvindernes kampdag, vi skal snakke lidt om Lille Lars og hans ekstra lækre lejlighed, Dan som i såDan Jørgensen gider ikke dumpe og så leverer Miriam et dybfølt digt. Guten Tag.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43815957
+   </guid>
+   <pubDate>
+    Wed, 10 Mar 2021 08:00:06 +0000
+   </pubDate>
+   <enclosure length="53296064" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43815957/uge_10.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Efter en kæmpe Melodi Grand Prix-weekend prøver vi at tage konfettien med ind i studiet. Vi skal runde kvindernes kampdag, vi skal snakke lidt om Lille Lars og hans ekstra lækre lejlighed, Dan som i såDan Jørgensen gider ikke dumpe og så leverer...
+   </itunes:subtitle>
+   <itunes:summary>
+    Efter en kæmpe Melodi Grand Prix-weekend prøver vi at tage konfettien med ind i studiet. Vi skal runde kvindernes kampdag, vi skal snakke lidt om Lille Lars og hans ekstra lækre lejlighed, Dan som i såDan Jørgensen gider ikke dumpe og så leverer Miriam et dybfølt digt. Guten Tag.
+   </itunes:summary>
+   <itunes:duration>
+    3331
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d843f0202848d88904373cb590e6b042.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 9 - Pinden i næsen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-9-pinden-i-naesen--43710430
+   </link>
+   <description>
+    Selektivt udvalgt oversigt over den forgangne uge. Du får alt lige fra begivenhederne i Myanmar til genåbningspolitik i Danmark. Plus en masse gode råd til næsetest og hvad du ellers kan lave i denne evige lockdown. Vi lover højt humør og forårs-optimisme.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43710430
+   </guid>
+   <pubDate>
+    Wed, 03 Mar 2021 07:05:11 +0000
+   </pubDate>
+   <enclosure length="53606190" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43710430/uge_9.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Selektivt udvalgt oversigt over den forgangne uge. Du får alt lige fra begivenhederne i Myanmar til genåbningspolitik i Danmark. Plus en masse gode råd til næsetest og hvad du ellers kan lave i denne evige lockdown. Vi lover højt humør og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Selektivt udvalgt oversigt over den forgangne uge. Du får alt lige fra begivenhederne i Myanmar til genåbningspolitik i Danmark. Plus en masse gode råd til næsetest og hvad du ellers kan lave i denne evige lockdown. Vi lover højt humør og forårs-optimisme.
+   </itunes:summary>
+   <itunes:duration>
+    3351
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/17396902526d734733821de8d53d058a.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 8 - En billet til Mars, por favor
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-8-en-billet-til-mars-por-favor--43607720
+   </link>
+   <description>
+    Der er store armbevægelser i Kongeriget i denne uge. Episoden byder på alt fra samtale om Mars-landingen til genåbningspolitik og en alvorlig diskussion af sociale mediers rolle i generation Z’s liv samt kæmpe analyse af KIMYE DIVORCE. Vi ringer til Teis fra Ørehænger, der er “Kanye West”-ekspert. Glæd dig.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43607720
+   </guid>
+   <pubDate>
+    Wed, 24 Feb 2021 07:00:10 +0000
+   </pubDate>
+   <enclosure length="53333262" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43607720/uge_8.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Der er store armbevægelser i Kongeriget i denne uge. Episoden byder på alt fra samtale om Mars-landingen til genåbningspolitik og en alvorlig diskussion af sociale mediers rolle i generation Z’s liv samt kæmpe analyse af KIMYE DIVORCE. Vi ringer til...
+   </itunes:subtitle>
+   <itunes:summary>
+    Der er store armbevægelser i Kongeriget i denne uge. Episoden byder på alt fra samtale om Mars-landingen til genåbningspolitik og en alvorlig diskussion af sociale mediers rolle i generation Z’s liv samt kæmpe analyse af KIMYE DIVORCE. Vi ringer til Teis fra Ørehænger, der er “Kanye West”-ekspert. Glæd dig.
+   </itunes:summary>
+   <itunes:duration>
+    3334
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e66782f67144b6b2145fc55787054536.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    UGE 7 - Hvorfor demonstrerer du imod Corona-restriktionerne?
+   </title>
+   <link>
+    https://www.spreaker.com/episode/uge-7-hvorfor-demonstrerer-du-imod-corona-restriktionerne--43496945
+   </link>
+   <description>
+    Hvorfor demonstrerer du imod Corona-restriktionerne? Det spørgsmål, plus mange flere, stiller vi i denne uge en demonstrant (til dagligt en helt almindelig jævnaldrende studerende) om i denne uges episode af Kongeriget.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43496945
+   </guid>
+   <pubDate>
+    Wed, 17 Feb 2021 08:00:16 +0000
+   </pubDate>
+   <enclosure length="53428557" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43496945/uge_7.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Hvorfor demonstrerer du imod Corona-restriktionerne? Det spørgsmål, plus mange flere, stiller vi i denne uge en demonstrant (til dagligt en helt almindelig jævnaldrende studerende) om i denne uges episode af Kongeriget.
+   </itunes:subtitle>
+   <itunes:summary>
+    Hvorfor demonstrerer du imod Corona-restriktionerne? Det spørgsmål, plus mange flere, stiller vi i denne uge en demonstrant (til dagligt en helt almindelig jævnaldrende studerende) om i denne uges episode af Kongeriget.
+   </itunes:summary>
+   <itunes:duration>
+    3340
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9371f1020d23e5e68328d41a9bf868b5.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - UGE 6
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-uge-6--43371394
+   </link>
+   <description>
+    Kongeriget orker ikke mere Corona. Derfor gøres der i denne uge brug af strategien fra Harry Potter, hvor Voldemort omtales: “Du ved hvem. Ham der ikke må benævnes.” Corona er en Voldemort. Med betegnelsen: “Du ved hvad. Det der ikke må benævnes” for den grumme pandemi forsøger Kongeriget at tage fat i alt det andet, der sker og gøre det til en samtale.&lt;br /&gt;Be updated with love. Kongeriget
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43371394
+   </guid>
+   <pubDate>
+    Wed, 10 Feb 2021 10:20:42 +0000
+   </pubDate>
+   <enclosure length="53927600" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43371394/uge_6.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Kongeriget orker ikke mere Corona. Derfor gøres der i denne uge brug af strategien fra Harry Potter, hvor Voldemort omtales: “Du ved hvem. Ham der ikke må benævnes.” Corona er en Voldemort. Med betegnelsen: “Du ved hvad. Det der ikke må benævnes” for...
+   </itunes:subtitle>
+   <itunes:summary>
+    Kongeriget orker ikke mere Corona. Derfor gøres der i denne uge brug af strategien fra Harry Potter, hvor Voldemort omtales: “Du ved hvem. Ham der ikke må benævnes.” Corona er en Voldemort. Med betegnelsen: “Du ved hvad. Det der ikke må benævnes” for den grumme pandemi forsøger Kongeriget at tage fat i alt det andet, der sker og gøre det til en samtale.&lt;br /&gt;Be updated with love. Kongeriget
+   </itunes:summary>
+   <itunes:duration>
+    3371
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/21a032beb8fb05893920678fa53dc621.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - UGE 5
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-uge-5--43234348
+   </link>
+   <description>
+    Kongeriget sender hjemmefra. Med kanelsnurrer og kaffe forsøger vi at finde hoved og hale i mediemøllen og gøre det hele til en hyggelig samtale i bedste lockdown-stil i Miriams køkken. Hvad sker der for danskerne og bagværk denne vinter? Vi dykker ned i Ida Aukens partiskifte, vi spår om Inger Støjbergs fremtid, og vi vender USA's tilbagevenden til samarbejdende international politik. Måske gemmer der sig også en dramaturgisk overraskelse i ugens afsnit... Noget der foregår et sted i Rusland.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43234348
+   </guid>
+   <pubDate>
+    Wed, 03 Feb 2021 06:00:08 +0000
+   </pubDate>
+   <enclosure length="54835324" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43234348/20210202_kongeriget_s1e23_t24_online_audio_converter_com.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Kongeriget sender hjemmefra. Med kanelsnurrer og kaffe forsøger vi at finde hoved og hale i mediemøllen og gøre det hele til en hyggelig samtale i bedste lockdown-stil i Miriams køkken. Hvad sker der for danskerne og bagværk denne vinter? Vi dykker...
+   </itunes:subtitle>
+   <itunes:summary>
+    Kongeriget sender hjemmefra. Med kanelsnurrer og kaffe forsøger vi at finde hoved og hale i mediemøllen og gøre det hele til en hyggelig samtale i bedste lockdown-stil i Miriams køkken. Hvad sker der for danskerne og bagværk denne vinter? Vi dykker ned i Ida Aukens partiskifte, vi spår om Inger Støjbergs fremtid, og vi vender USA's tilbagevenden til samarbejdende international politik. Måske gemmer der sig også en dramaturgisk overraskelse i ugens afsnit... Noget der foregår et sted i Rusland.
+   </itunes:summary>
+   <itunes:duration>
+    3427
+   </itunes:duration>
+   <itunes:keywords>
+    humor,politik,satire
+   </itunes:keywords>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d6d2a9a48ac0b18e5cb8ae7ec7b87067.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - UGE 4
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-uge-4--43134067
+   </link>
+   <description>
+    Samtykke-app? Nej tak til latterliggørelse af noget så vigtigt som samtykkelov, siger Aleksander. Britt Terkelen er med fra Washington D.C., og Kongeriget bringer dig alle præsidentindsættelsens højdepunkter. Joe Biden har allerede signet Parisaftalen, så vesten ånder lettet op. Eller hvad? Angela Merkels efterfølger er valgt, og nu bliver et Europa uden hende pludselig snart virkelighed. Alexei Navalny er vendt hjem til Rusland og er nu fængslet, og Hviderusserne får ikke lov at afholde VM i ishockey, fordi Alexander Lukajenko undertrykker sin befolkning i bedste Vladimir Putin-stil. Selvom Donald Trump er ude, lurer der stadig uro i international politik. Men bare rolig: Dagslyset er nu tiltaget med èn time.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/43134067
+   </guid>
+   <pubDate>
+    Wed, 27 Jan 2021 07:00:16 +0000
+   </pubDate>
+   <enclosure length="53523434" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43134067/uge_4.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Samtykke-app? Nej tak til latterliggørelse af noget så vigtigt som samtykkelov, siger Aleksander. Britt Terkelen er med fra Washington D.C., og Kongeriget bringer dig alle præsidentindsættelsens højdepunkter. Joe Biden har allerede signet...
+   </itunes:subtitle>
+   <itunes:summary>
+    Samtykke-app? Nej tak til latterliggørelse af noget så vigtigt som samtykkelov, siger Aleksander. Britt Terkelen er med fra Washington D.C., og Kongeriget bringer dig alle præsidentindsættelsens højdepunkter. Joe Biden har allerede signet Parisaftalen, så vesten ånder lettet op. Eller hvad? Angela Merkels efterfølger er valgt, og nu bliver et Europa uden hende pludselig snart virkelighed. Alexei Navalny er vendt hjem til Rusland og er nu fængslet, og Hviderusserne får ikke lov at afholde VM i ishockey, fordi Alexander Lukajenko undertrykker sin befolkning i bedste Vladimir Putin-stil. Selvom Donald Trump er ude, lurer der stadig uro i international politik. Men bare rolig: Dagslyset er nu tiltaget med èn time.
+   </itunes:summary>
+   <itunes:duration>
+    3346
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8a785f07624ff29e527dea471295f0cb.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - UGE 3
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-uge-3--42989381
+   </link>
+   <description>
+    Miriam står i et vaskeægte januar-lockdown-dilemma. Men hvor går man hen med sine dilemmaer i 2021? Joe Biden indsættes som USA’s 46. præsident, og der er fortsat kaos i Venstre herhjemme. Sundhedsstyrelsen kæmper febrilsk for at få medicinalvirksomhederne til at holde aftalerne om vacciner, så vi kan komme på Roskilde til sommer. Vi gemmer os fortsat inden for hver for sig og passer på hinanden. Alt imens en flok danskere lever livet i Dubai... Men bare rolig. Kongeriget er her for dig.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/42989381
+   </guid>
+   <pubDate>
+    Wed, 20 Jan 2021 07:00:17 +0000
+   </pubDate>
+   <enclosure length="54957452" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42989381/uge_3.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Miriam står i et vaskeægte januar-lockdown-dilemma. Men hvor går man hen med sine dilemmaer i 2021? Joe Biden indsættes som USA’s 46. præsident, og der er fortsat kaos i Venstre herhjemme. Sundhedsstyrelsen kæmper febrilsk for at få...
+   </itunes:subtitle>
+   <itunes:summary>
+    Miriam står i et vaskeægte januar-lockdown-dilemma. Men hvor går man hen med sine dilemmaer i 2021? Joe Biden indsættes som USA’s 46. præsident, og der er fortsat kaos i Venstre herhjemme. Sundhedsstyrelsen kæmper febrilsk for at få medicinalvirksomhederne til at holde aftalerne om vacciner, så vi kan komme på Roskilde til sommer. Vi gemmer os fortsat inden for hver for sig og passer på hinanden. Alt imens en flok danskere lever livet i Dubai... Men bare rolig. Kongeriget er her for dig.
+   </itunes:summary>
+   <itunes:duration>
+    3435
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b29d44773f91652a3267bdcd944d6290.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - UGE 2
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-uge-2--42872631
+   </link>
+   <description>
+    Lockdown. Kongeriget sender i denne uge fra hjemmekontoret. Med stearinlys og kaffe forsøger vi at gøre starten på året til en hyggelig samtale. Vi dykker ned i alt fra begivenhederne i USA til dramaet i Venstre herhjemme, vacciner ikke mindst, og danske konspirationsteorier om Corona og Mettes farlige, skjulte agenda...
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/42872631
+   </guid>
+   <pubDate>
+    Wed, 13 Jan 2021 07:00:12 +0000
+   </pubDate>
+   <enclosure length="53119267" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42872631/ind_i_2021.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Lockdown. Kongeriget sender i denne uge fra hjemmekontoret. Med stearinlys og kaffe forsøger vi at gøre starten på året til en hyggelig samtale. Vi dykker ned i alt fra begivenhederne i USA til dramaet i Venstre herhjemme, vacciner ikke mindst, og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Lockdown. Kongeriget sender i denne uge fra hjemmekontoret. Med stearinlys og kaffe forsøger vi at gøre starten på året til en hyggelig samtale. Vi dykker ned i alt fra begivenhederne i USA til dramaet i Venstre herhjemme, vacciner ikke mindst, og danske konspirationsteorier om Corona og Mettes farlige, skjulte agenda...
+   </itunes:summary>
+   <itunes:duration>
+    3320
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d8852d4c3b6fb00b49844173ccf84c29.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - Året der gik
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-aret-der-gik--42689532
+   </link>
+   <description>
+    Vi taler om året, der gik i Kongeriget og verden. Med pandemi, Black Lives Matter, Valg i USA, anden bølge af Metoo, masser af drama på Christiansborg og en stadig truende klimakrise hængende over hovedet. Men også om, hvor fedt det har været at få lov at lave radio. GODT NYTÅR fra alle os i Kongeriget. Vi er tilbage den 12. januar. Men hvis du savner os i mellemtiden, holder vi dig sammen med Ørehænger og Nattely ved selskab den 1./1. i en fire timers Sein nytårsspecial med pizza, musikquiz, bagklog snak om året, der er gået og alt det gode til dagen derpå.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/42689532
+   </guid>
+   <pubDate>
+    Wed, 30 Dec 2020 08:09:37 +0000
+   </pubDate>
+   <enclosure length="52814491" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42689532/20201229_kongeriget_s1e18_t24_online_audio_converter_com.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Vi taler om året, der gik i Kongeriget og verden. Med pandemi, Black Lives Matter, Valg i USA, anden bølge af Metoo, masser af drama på Christiansborg og en stadig truende klimakrise hængende over hovedet. Men også om, hvor fedt det har været at få...
+   </itunes:subtitle>
+   <itunes:summary>
+    Vi taler om året, der gik i Kongeriget og verden. Med pandemi, Black Lives Matter, Valg i USA, anden bølge af Metoo, masser af drama på Christiansborg og en stadig truende klimakrise hængende over hovedet. Men også om, hvor fedt det har været at få lov at lave radio. GODT NYTÅR fra alle os i Kongeriget. Vi er tilbage den 12. januar. Men hvis du savner os i mellemtiden, holder vi dig sammen med Ørehænger og Nattely ved selskab den 1./1. i en fire timers Sein nytårsspecial med pizza, musikquiz, bagklog snak om året, der er gået og alt det gode til dagen derpå.
+   </itunes:summary>
+   <itunes:duration>
+    3301
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/20e2292ec68b67131b08e8e12d104e3f.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - Joachim Bay og Daniel Danielsen om minksagen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-joachim-bay-og-daniel-danielsen-om-minksagen--42609506
+   </link>
+   <description>
+    Det er blevet december, og Kongeriget bringer dig i denne måned 4 julespecials. En for hver uge inden jul. Vi samler op på året, der er gået ved at fortælle 2020’s store historier på bagkant. Vi interviewer skønne unge mennesker med noget særligt på hjertet.&lt;br /&gt;&lt;br /&gt;I denne uge får du 2 interviews - vi har snakket med Joachim Bay og Daniel Danielsen om "Minksagen."
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/42609506
+   </guid>
+   <pubDate>
+    Tue, 22 Dec 2020 10:23:27 +0000
+   </pubDate>
+   <enclosure length="55436851" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42609506/minkavler_20_12_2020_20_11.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Det er blevet december, og Kongeriget bringer dig i denne måned 4 julespecials. En for hver uge inden jul. Vi samler op på året, der er gået ved at fortælle 2020’s store historier på bagkant. Vi interviewer skønne unge mennesker med noget særligt på...
+   </itunes:subtitle>
+   <itunes:summary>
+    Det er blevet december, og Kongeriget bringer dig i denne måned 4 julespecials. En for hver uge inden jul. Vi samler op på året, der er gået ved at fortælle 2020’s store historier på bagkant. Vi interviewer skønne unge mennesker med noget særligt på hjertet.&lt;br /&gt;&lt;br /&gt;I denne uge får du 2 interviews - vi har snakket med Joachim Bay og Daniel Danielsen om "Minksagen."
+   </itunes:summary>
+   <itunes:duration>
+    3465
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - Hinda Olad &amp; MeToo-bevægelsen
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-hinda-olad-metoo-bevaegelsen--42517144
+   </link>
+   <description>
+    Det er blevet december, og Kongeriget bringer dig i denne måned 4 julespecials. En for hver uge inden jul. Vi samler op på året, der er gået ved at fortælle 2020’s store historier på bagkant. Vi interviewer skønne unge mennesker med noget særligt på hjertet.&lt;br /&gt;&lt;br /&gt;I denne uge får du et interview med Hinda Olad om anden bølgen af MeToo-bevægelsen og status på ligestilling i Danmark.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/42517144
+   </guid>
+   <pubDate>
+    Wed, 16 Dec 2020 11:30:46 +0000
+   </pubDate>
+   <enclosure length="48470725" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42517144/metoo_16_12_2020_12_17.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Det er blevet december, og Kongeriget bringer dig i denne måned 4 julespecials. En for hver uge inden jul. Vi samler op på året, der er gået ved at fortælle 2020’s store historier på bagkant. Vi interviewer skønne unge mennesker med noget særligt på...
+   </itunes:subtitle>
+   <itunes:summary>
+    Det er blevet december, og Kongeriget bringer dig i denne måned 4 julespecials. En for hver uge inden jul. Vi samler op på året, der er gået ved at fortælle 2020’s store historier på bagkant. Vi interviewer skønne unge mennesker med noget særligt på hjertet.&lt;br /&gt;&lt;br /&gt;I denne uge får du et interview med Hinda Olad om anden bølgen af MeToo-bevægelsen og status på ligestilling i Danmark.
+   </itunes:summary>
+   <itunes:duration>
+    3030
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - Sofie Brøgger &amp; kampen for klimaet
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-sofie-brogger-kampen-for-klimaet--42394915
+   </link>
+   <description>
+    Det er blevet december, og Kongeriget bringer dig i denne måned 4 julespecials. En for hver uge inden jul. Vi samler op på året, der er gået ved at fortælle 2020’s store historier på bagkant. Vi interviewer skønne unge mennesker med noget særligt på hjertet.&lt;br /&gt;&lt;br /&gt;I denne uge får du et interview med Sofie Brøgger om klimaet og biodiversitet.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/42394915
+   </guid>
+   <pubDate>
+    Wed, 09 Dec 2020 11:23:12 +0000
+   </pubDate>
+   <enclosure length="52810395" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42394915/kilma_07_12_2020_11_51.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Det er blevet december, og Kongeriget bringer dig i denne måned 4 julespecials. En for hver uge inden jul. Vi samler op på året, der er gået ved at fortælle 2020’s store historier på bagkant. Vi interviewer skønne unge mennesker med noget særligt på...
+   </itunes:subtitle>
+   <itunes:summary>
+    Det er blevet december, og Kongeriget bringer dig i denne måned 4 julespecials. En for hver uge inden jul. Vi samler op på året, der er gået ved at fortælle 2020’s store historier på bagkant. Vi interviewer skønne unge mennesker med noget særligt på hjertet.&lt;br /&gt;&lt;br /&gt;I denne uge får du et interview med Sofie Brøgger om klimaet og biodiversitet.
+   </itunes:summary>
+   <itunes:duration>
+    3301
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - Viktoria Guldmann &amp; BLACK LIVES MATTER
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-viktoria-guldmann-black-lives-matter--42259815
+   </link>
+   <description>
+    Det er blevet december, og Kongeriget bringer dig i denne måned 4 julespecials. En for hver uge inden jul. Vi samler op på året, der er gået ved at fortælle 2020’s store historier på bagkant. Vi interviewer skønne unge mennesker med noget særligt på hjertet. &lt;br /&gt;&lt;br /&gt;I denne uge får du et interview med Viktoria Guldmann om “Black Lives Matter”-bevægelsen.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/42259815
+   </guid>
+   <pubDate>
+    Tue, 01 Dec 2020 22:55:09 +0000
+   </pubDate>
+   <enclosure length="52810395" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42259815/blm_the_whole_thing.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Det er blevet december, og Kongeriget bringer dig i denne måned 4 julespecials. En for hver uge inden jul. Vi samler op på året, der er gået ved at fortælle 2020’s store historier på bagkant. Vi interviewer skønne unge mennesker med noget særligt på...
+   </itunes:subtitle>
+   <itunes:summary>
+    Det er blevet december, og Kongeriget bringer dig i denne måned 4 julespecials. En for hver uge inden jul. Vi samler op på året, der er gået ved at fortælle 2020’s store historier på bagkant. Vi interviewer skønne unge mennesker med noget særligt på hjertet. &lt;br /&gt;&lt;br /&gt;I denne uge får du et interview med Viktoria Guldmann om “Black Lives Matter”-bevægelsen.
+   </itunes:summary>
+   <itunes:duration>
+    3301
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/459bd91d19d7d7d9f94bc42d141ba2e9.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - UGE 47
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-uge-47--42147842
+   </link>
+   <description>
+    Mogens Jensen er ude. Rasmus Prehn og Flemming Møller Mortensen er inde. De to herrer er nye ministre i den vaklende regering. For vores kongerige er kørt ned af en mink gate. I traktorer. Uden nåde. Vil minkskandalen vende op og ned på magtbalancen i det lille Kongerige? Bliver der fred i land og by inden jul? Og vil der blive sendt gode julekalendre i år? Har den amerikanske præsident fortsat tænk sig at underkende valgresultater? Og gad vide, hvem der er ugens politker? Gad vide, om Joy Mogensen lytter med på her på Loud?
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/42147842
+   </guid>
+   <pubDate>
+    Tue, 24 Nov 2020 22:00:18 +0000
+   </pubDate>
+   <enclosure length="52572577" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42147842/podcast_uge_47_22_11_2020_15_15.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Mogens Jensen er ude. Rasmus Prehn og Flemming Møller Mortensen er inde. De to herrer er nye ministre i den vaklende regering. For vores kongerige er kørt ned af en mink gate. I traktorer. Uden nåde. Vil minkskandalen vende op og ned på magtbalancen i...
+   </itunes:subtitle>
+   <itunes:summary>
+    Mogens Jensen er ude. Rasmus Prehn og Flemming Møller Mortensen er inde. De to herrer er nye ministre i den vaklende regering. For vores kongerige er kørt ned af en mink gate. I traktorer. Uden nåde. Vil minkskandalen vende op og ned på magtbalancen i det lille Kongerige? Bliver der fred i land og by inden jul? Og vil der blive sendt gode julekalendre i år? Har den amerikanske præsident fortsat tænk sig at underkende valgresultater? Og gad vide, hvem der er ugens politker? Gad vide, om Joy Mogensen lytter med på her på Loud?
+   </itunes:summary>
+   <itunes:duration>
+    3286
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - UGE 46
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-uge-46--41991718
+   </link>
+   <description>
+    Fock... Er ude af dansk politik. Tilliden til Mette daler, og de andre vil ikke lege med hendes epidemilov. De forvoksede hvide mus har måtte lade livet, og det bringer uro over vores lille Kongerige. Mørket sænker sig allerede kl. 16, og kan vi overhovedet få lov at holde jul i år? Frygten er over by og land. Men bare rolig, Bertel Haarder er ved at skrive årets julesang, så det skal alligevel nok blive jul i 2020. Og ude i den store verden er en ny brik - eller gammel brik i nyt job - faldet på plads. Joe Biden sejrede over Donald Trump, og Kamala Harris bliver den første kvinde i office. Om Trump går selv til Januar eller kører efter samme metode som Anne fra bagedysten, der i lørdag sagde at “hvis jeg ryger ud lænker jeg mig fast til et køkken og så må de se, hvordan de vil få mig ud.” - ja, det kan man kun gisne om. Alt sammen kan du glæde digt til at få serveret i dette afsnit af vores podcast, kære lytter.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/41991718
+   </guid>
+   <pubDate>
+    Sun, 15 Nov 2020 23:17:31 +0000
+   </pubDate>
+   <enclosure length="51003140" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41991718/pdcast_uge_46.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Fock... Er ude af dansk politik. Tilliden til Mette daler, og de andre vil ikke lege med hendes epidemilov. De forvoksede hvide mus har måtte lade livet, og det bringer uro over vores lille Kongerige. Mørket sænker sig allerede kl. 16, og kan vi...
+   </itunes:subtitle>
+   <itunes:summary>
+    Fock... Er ude af dansk politik. Tilliden til Mette daler, og de andre vil ikke lege med hendes epidemilov. De forvoksede hvide mus har måtte lade livet, og det bringer uro over vores lille Kongerige. Mørket sænker sig allerede kl. 16, og kan vi overhovedet få lov at holde jul i år? Frygten er over by og land. Men bare rolig, Bertel Haarder er ved at skrive årets julesang, så det skal alligevel nok blive jul i 2020. Og ude i den store verden er en ny brik - eller gammel brik i nyt job - faldet på plads. Joe Biden sejrede over Donald Trump, og Kamala Harris bliver den første kvinde i office. Om Trump går selv til Januar eller kører efter samme metode som Anne fra bagedysten, der i lørdag sagde at “hvis jeg ryger ud lænker jeg mig fast til et køkken og så må de se, hvordan de vil få mig ud.” - ja, det kan man kun gisne om. Alt sammen kan du glæde digt til at få serveret i dette afsnit af vores podcast, kære lytter.
+   </itunes:summary>
+   <itunes:duration>
+    3188
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+  <item>
+   <title>
+    Kongeriget - UGE 45
+   </title>
+   <link>
+    https://www.spreaker.com/episode/kongeriget-uge-45--41864652
+   </link>
+   <description>
+    Podcast er kommet for at blive. Ugen hvor Aleksander og Miriam dækkede det amerikanske valg fra Grenaa Gymnasium er også ugen, hvor Kongeriget udgiver sit første 55-minutters podcast, hvor nyhederne bliver til en samtale. Hvordan vil Joe Biden og Kamala Harris samle det opdelte USA? Hører Strauss hjemme på Loud? Overlever minkindustrien i Danmark? Og vil folketingspolitikerne snart tage mundbind på ligesom vi andre?  Lyt med og gør dig overvejelser sammen med kongerigets værter.
+   </description>
+   <guid isPermaLink="false">
+    https://api.spreaker.com/episode/41864652
+   </guid>
+   <pubDate>
+    Sun, 08 Nov 2020 20:45:06 +0000
+   </pubDate>
+   <enclosure length="52804126" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41864652/projekt_08_11_2020_21_04_kongeriget1.mp3"/>
+   <itunes:author>
+    LOUD
+   </itunes:author>
+   <itunes:subtitle>
+    Podcast er kommet for at blive. Ugen hvor Aleksander og Miriam dækkede det amerikanske valg fra Grenaa Gymnasium er også ugen, hvor Kongeriget udgiver sit første 55-minutters podcast, hvor nyhederne bliver til en samtale. Hvordan vil Joe Biden og...
+   </itunes:subtitle>
+   <itunes:summary>
+    Podcast er kommet for at blive. Ugen hvor Aleksander og Miriam dækkede det amerikanske valg fra Grenaa Gymnasium er også ugen, hvor Kongeriget udgiver sit første 55-minutters podcast, hvor nyhederne bliver til en samtale. Hvordan vil Joe Biden og Kamala Harris samle det opdelte USA? Hører Strauss hjemme på Loud? Overlever minkindustrien i Danmark? Og vil folketingspolitikerne snart tage mundbind på ligesom vi andre?  Lyt med og gør dig overvejelser sammen med kongerigets værter.
+   </itunes:summary>
+   <itunes:duration>
+    3301
+   </itunes:duration>
+   <itunes:explicit>
+    clean
+   </itunes:explicit>
+   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b7a55c1b0fb7b7c8354269f17c65bfe.jpg"/>
+   <itunes:episodeType>
+    full
+   </itunes:episodeType>
+  </item>
+ </channel>
 </rss>
