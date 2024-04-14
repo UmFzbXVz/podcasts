@@ -1,91 +1,111 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Podcasts</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Podcasts</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="container">
-    <h2>Søg i Podcasts</h2>
-    <div class="search-wrapper">
-        <input type="text" id="searchInput" placeholder="Search for podcasts...">
-        <span class="clear-search" onclick="clearSearch()">&#10006;</span>
-    </div>
-    <p class="helper-text">*Klik på det lille ikon for at kopiere RSS-linket</p>
-    <div id="results"></div>
+  <h2>Søg i Podcasts</h2>
+  <div class="search-wrapper">
+      <input type="text" id="searchInput" placeholder="Søg efter podcasts fra DR, Podimo, r8Dio, 24syv...">
+      <span class="clear-search" onclick="clearSearch()">&#10006;</span>
+  </div>
+  <p class="helper-text">*Klik på det lille ikon for at kopiere RSS-linket</p>
+  <div id="results"></div>
 </div>
 
 <script>
+const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
+
 async function fetchDRPodcastsData() {
-    try {
-        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/docs/drlyd.json');
-        if (!response.ok) {
-            throw new Error('Error fetching DR podcasts data');
-        }
-        const data = await response.json();
-        return data;
-    } catch (error) {
-        console.error('Error fetching DR podcasts data:', error);
-        return null;
+  try {
+    const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/docs/drlyd.json');
+    if (!response.ok) {
+      throw new Error('Error fetching DR podcasts data');
     }
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Error fetching DR podcasts data:', error);
+    return null;
+  }
 }
 
 async function fetchPodimoPodcastsData() {
-    try {
-        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/docs/podimo.json');
-        if (!response.ok) {
-            throw new Error('Error fetching Podimo podcasts data');
-        }
-        const data = await response.json();
-        return data;
-    } catch (error) {
-        console.error('Error fetching Podimo podcasts data:', error);
-        return null;
+  try {
+    const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/docs/podimo.json');
+    if (!response.ok) {
+      throw new Error('Error fetching Podimo podcasts data');
     }
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Error fetching Podimo podcasts data:', error);
+    return null;
+  }
 }
 
 function clearSearch() {
-    document.getElementById('searchInput').value = '';
-    document.getElementById('results').innerHTML = '';
+  document.getElementById('searchInput').value = '';
+  document.getElementById('results').innerHTML = '';
 }
 
 function sanitizeFilename(filename) {
-    return filename.replace(/[<>:"/\\|?*]/g, '_');
+  // Sanitize filename for Windows by replacing illegal characters
+  return filename.replace(/[<>:"/\\|?*]/g, '_');
 }
 
 async function getPodimoRSSLink(podcastName, podcastURL) {
-    try {
-        const sanitizedTitle = sanitizeFilename(podcastName);
-        const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(sanitizedTitle)}.rss`;
-        return rssLink;
-    } catch (error) {
-        console.error('Error getting Podimo RSS link:', error);
-        return null;
-    }
+  try {
+    // Sanitize the podcast title
+    const sanitizedTitle = sanitizeFilename(podcastName);
+    // Generate the RSS link based on the sanitized podcast title
+    const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(sanitizedTitle)}.rss`;
+    return rssLink;
+  } catch (error) {
+    console.error('Error getting Podimo RSS link:', error);
+    return null;
+  }
 }
 
 const resultsContainer = document.getElementById('results');
 
 async function fetchMiscPodcastsData() {
-    try {
-        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
-        if (!response.ok) {
-            throw new Error('Error fetching misc podcasts data');
-        }
-        const data = await response.json();
-        return data;
-    } catch (error) {
-        console.error('Error fetching misc podcasts data:', error);
-        return null;
+  try {
+    const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
+    if (!response.ok) {
+      throw new Error('Error fetching misc podcasts data');
     }
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Error fetching misc podcasts data:', error);
+    return null;
+  }
 }
 
-async function displayResults(drResults, podimoResults, miscResults) {
+async function fetchPir8dioPodcastsData() {
+  try {
+    const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/data.json');
+    if (!response.ok) {
+      throw new Error('Error fetching Pir8dio podcasts data');
+    }
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Error fetching Pir8dio podcasts data:', error);
+    return null;
+  }
+}
+
+
+async function displayResults(drResults, podimoResults, miscResults, pir8dioResults) {
     resultsContainer.innerHTML = '';
-    if (drResults.length === 0 && podimoResults.length === 0 && miscResults.length === 0) {
+    if (drResults.length === 0 && podimoResults.length === 0 && miscResults.length === 0 && pir8dioResults.length === 0) {
         resultsContainer.innerHTML = '<p>No results found</p>';
         return;
     }
@@ -142,8 +162,35 @@ async function displayResults(drResults, podimoResults, miscResults) {
         ul.appendChild(li);
     });
 
+pir8dioResults.forEach(podcast => {
+    const li = createListItem(podcast.title + ' (r8dio)', podcast.url);
+    ul.appendChild(li);
+
+    // Generate the RSS link based on the podcast URL
+    const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${encodeURIComponent(podcast.slug)}.rss`;
+
+    // Create RSS icon
+    const rssIcon = document.createElement('img');
+    rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png'; // Standard RSS icon URL
+    rssIcon.alt = 'RSS';
+    rssIcon.classList.add('rss-icon');
+
+    // Add click event to copy RSS link to clipboard
+    rssIcon.addEventListener('click', async () => {
+        await navigator.clipboard.writeText(rssLink);
+    });
+
+    // Append RSS icon to list item
+    li.appendChild(rssIcon);
+});
+
+resultsContainer.appendChild(ul);
+
+
+
     resultsContainer.appendChild(ul);
 }
+
 
 async function filterPodcasts(searchText) {
     if (searchText.length < 3) {
@@ -154,25 +201,30 @@ async function filterPodcasts(searchText) {
     const drPodcastsData = await fetchDRPodcastsData();
     const podimoPodcastsData = await fetchPodimoPodcastsData();
     const miscPodcastsData = await fetchMiscPodcastsData();
+    const pir8dioPodcastsData = await fetchPir8dioPodcastsData();
 
-    if (!drPodcastsData || !podimoPodcastsData || !miscPodcastsData) {
+    if (!drPodcastsData || !podimoPodcastsData || !miscPodcastsData || !pir8dioPodcastsData) {
         console.error('Error: No podcasts data available');
         return;
     }
 
     const filteredDRPodcasts = drPodcastsData.filter(podcast => {
-        return podcast.name.toLowerCase().includes(searchText.toLowerCase()) || podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        return podcast.name.toLowerCase().includes(searchText.toLowerCase());
     });
 
     const filteredPodimoPodcasts = podimoPodcastsData.filter(podcast => {
-        return podcast.title.toLowerCase().includes(searchText.toLowerCase()) || podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        return podcast.title.toLowerCase().includes(searchText.toLowerCase());
     });
 
     const filteredMiscPodcasts = Object.values(miscPodcastsData).filter(podcast => {
-        return podcast.alt_text.toLowerCase().includes(searchText.toLowerCase()) || podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        return podcast.alt_text.toLowerCase().includes(searchText.toLowerCase());
     });
 
-    displayResults(filteredDRPodcasts, filteredPodimoPodcasts, filteredMiscPodcasts);
+    const filteredPir8dioPodcasts = pir8dioPodcastsData.filter(podcast => {
+        return podcast.title.toLowerCase().includes(searchText.toLowerCase());
+    });
+
+    displayResults(filteredDRPodcasts, filteredPodimoPodcasts, filteredMiscPodcasts, filteredPir8dioPodcasts);
 }
 
 document.getElementById('searchInput').addEventListener('input', function() {
@@ -181,16 +233,30 @@ document.getElementById('searchInput').addEventListener('input', function() {
 });
 
 
-function createRSSIcon(identifier) {
+function createRSSIcon(rssLink) {
     const rssIcon = document.createElement('img');
-    rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
+    rssIcon.src = rssIconUrl;
     rssIcon.alt = 'RSS';
     rssIcon.classList.add('rss-icon');
     rssIcon.addEventListener('click', async () => {
-        const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/${identifier}.rss`;
         await navigator.clipboard.writeText(rssLink);
     });
     return rssIcon;
+}
+
+function createListItem(text, url, rssLink) {
+    const li = document.createElement('li');
+    const a = document.createElement('a');
+    a.href = url;
+    a.textContent = text;
+    li.appendChild(a);
+
+    if (rssLink) {
+        const rssIcon = createRSSIcon(rssLink);
+        li.appendChild(rssIcon);
+    }
+
+    return li;
 }
 
 
@@ -202,11 +268,16 @@ function createListItem(text, url) {
     li.appendChild(a);
 
     if (url.includes('dr.dk/podcasts')) {
+        // Extract the identifier from the URL
         const parts = url.split('/');
         const feedIdentifier = parts[parts.length - 1];
+        
+        // Generate the RSS link for DR podcasts
         const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/${feedIdentifier}.rss`;
 
+        // Check if an RSS icon has already been appended
         if (li.querySelector('.rss-icon') === null) {
+            // Create RSS icon
             const rssIcon = document.createElement('img');
             rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
             rssIcon.alt = 'RSS';
@@ -214,6 +285,8 @@ function createListItem(text, url) {
             rssIcon.addEventListener('click', () => {
                 navigator.clipboard.writeText(rssLink);
             });
+
+            // Append RSS icon
             li.appendChild(rssIcon);
         }
     }
@@ -234,6 +307,21 @@ async function fetchMiscPodcastsData() {
         return null;
     }
 }
+
+async function fetchPir8dioPodcastsData() {
+    try {
+        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/data.json');
+        if (!response.ok) {
+            throw new Error('Error fetching Pir8dio podcasts data');
+        }
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Error fetching Pir8dio podcasts data:', error);
+        return null;
+    }
+}
+  
 </script>
 
 </body>
