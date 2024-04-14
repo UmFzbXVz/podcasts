@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Podcasts fra (Radio)24syv</title>
+    <title>Podcasts</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="container">
-    <h2>Søg i Radio24syv Podcasts</h2>
+    <h2>Søg i Podcasts</h2>
     <div class="search-wrapper">
-        <input type="text" id="searchInput" placeholder="Søg efter podcasts...">
+        <input type="text" id="searchInput" placeholder="Search for podcasts...">
         <span class="clear-search" onclick="clearSearch()">&#10006;</span>
     </div>
     <p class="helper-text">*Klik på det lille ikon for at kopiere RSS-linket</p>
@@ -19,16 +19,30 @@
 </div>
 
 <script>
-async function fetchPodcastsData() {
+async function fetchDRPodcastsData() {
     try {
-        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
+        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/docs/drlyd.json');
         if (!response.ok) {
-            throw new Error('Fejl ved indlæsning af podcasts data');
+            throw new Error('Error fetching DR podcasts data');
         }
         const data = await response.json();
         return data;
     } catch (error) {
-        console.error('Fejl ved indlæsning af podcasts data:', error);
+        console.error('Error fetching DR podcasts data:', error);
+        return null;
+    }
+}
+
+async function fetchPodimoPodcastsData() {
+    try {
+        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/docs/podimo.json');
+        if (!response.ok) {
+            throw new Error('Error fetching Podimo podcasts data');
+        }
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Error fetching Podimo podcasts data:', error);
         return null;
     }
 }
@@ -37,107 +51,67 @@ function clearSearch() {
     document.getElementById('searchInput').value = '';
     document.getElementById('results').innerHTML = '';
 }
-    
-async function checkRSSExists(podcastName) {
-    const formattedPodcastName = podcastName.replace('/', '_').replace('?', '_').replace(' ', '_').toLowerCase() + '.rss';
-    const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
-    const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
 
-    try {
-        const response = await fetch(rssUrl);
-        return response.ok;
-    } catch (error) {
-        console.error('Fejl ved tjek af RSS-fil:', error);
-        return false;
-    }
+function sanitizeFilename(filename) {
+    return filename.replace(/[<>:"/\\|?*]/g, '_');
 }
 
-async function getRSSLink(podcastName) {
-    const uniqueChar = '~'; 
-
-    const formattedPodcastName = podcastName
-        .toLowerCase()
-        .replace(/\s+/g, '_')
-        .replace(/-/g, uniqueChar) 
-        .replace(/%/g, '%25') 
-        .replace(/\?/g, '_')
-        + '.rss';
-
-    let folderName = '';
-    const firstChar = formattedPodcastName.charAt(0);
-    if (/^[0-9]$/.test(firstChar)) {
-        folderName = '0-9';
-    } else {
-        folderName = firstChar.toUpperCase();
-    }
-
-    const finalPodcastName = formattedPodcastName.replace(new RegExp(uniqueChar, 'g'), '-');
-    const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${folderName}/${finalPodcastName}`;
-
+async function getPodimoRSSLink(podcastName, podcastURL) {
     try {
-        const response = await fetch(rssUrl);
-        if (response.ok) {
-            return rssUrl;
-        } else {
-            console.error('Fejl ved hentning af RSS-fil:', response.statusText);
-            return null;
-        }
+        const sanitizedTitle = sanitizeFilename(podcastName);
+        const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(sanitizedTitle)}.rss`;
+        return rssLink;
     } catch (error) {
-        console.error('Fejl ved hentning af RSS-fil:', error);
+        console.error('Error getting Podimo RSS link:', error);
         return null;
     }
 }
 
-
-
-
 const resultsContainer = document.getElementById('results');
 
-async function filterPodcasts(searchText) {
-    if (searchText.length < 3) {
-        resultsContainer.innerHTML = '<p>Indtast mindst 3 tegn for at søge</p>';
-        return;
-    }
-
-    const podcastsData = await fetchPodcastsData();
-    if (!podcastsData) {
-        console.error('Fejl: Ingen podcasts data tilgængelig');
-        return;
-    }
-
-    const filteredPodcasts = [];
-    for (const id in podcastsData) {
-        const podcast = podcastsData[id];
-        if (podcast.alt_text.toLowerCase().includes(searchText.toLowerCase()) || podcast.description.toLowerCase().includes(searchText.toLowerCase())) {
-            filteredPodcasts.push(podcast);
+async function fetchMiscPodcastsData() {
+    try {
+        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
+        if (!response.ok) {
+            throw new Error('Error fetching misc podcasts data');
         }
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Error fetching misc podcasts data:', error);
+        return null;
     }
-
-    displayResults(filteredPodcasts);
 }
 
-async function displayResults(results) {
+async function displayResults(drResults, podimoResults, miscResults) {
     resultsContainer.innerHTML = '';
-    if (results.length === 0) {
-        resultsContainer.innerHTML = '<p>Ingen resultater fundet</p>';
+    if (drResults.length === 0 && podimoResults.length === 0 && miscResults.length === 0) {
+        resultsContainer.innerHTML = '<p>No results found</p>';
         return;
     }
+
     const ul = document.createElement('ul');
-    results.forEach(async podcast => {
+
+    drResults.forEach(podcast => {
+        const li = createListItem(podcast.name + ' (DR)', podcast.url);
+        ul.appendChild(li);
+    });
+
+    podimoResults.forEach(async podcast => {
         const li = document.createElement('li');
         const a = document.createElement('a');
-        a.href = podcast.url;
-        a.textContent = podcast.alt_text;
+        a.href = `https://podimo.com/dk/shows/${podcast.id}`;
+        a.textContent = `${podcast.title} (Podimo)`;
         li.appendChild(a);
 
-        const rssLink = await getRSSLink(podcast.alt_text);
+        const rssLink = await getPodimoRSSLink(podcast.title, podcast.url);
         if (rssLink) {
             const rssIcon = document.createElement('img');
             rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
             rssIcon.alt = 'RSS';
             rssIcon.classList.add('rss-icon');
             rssIcon.addEventListener('click', () => {
-            navigator.clipboard.writeText(rssLink)
+                navigator.clipboard.writeText(rssLink);
             });
 
             li.appendChild(rssIcon);
@@ -145,7 +119,60 @@ async function displayResults(results) {
 
         ul.appendChild(li);
     });
+
+    miscResults.forEach(podcast => {
+        const li = createListItem(podcast.alt_text + ' (24syv)', podcast.url);
+        
+        const formattedPodcastName = podcast.alt_text.replace('/', '_').replace('?', '_').replace(' ', '_').toLowerCase() + '.rss';
+        const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
+        const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
+        
+        if (rssUrl) {
+            const rssIcon = document.createElement('img');
+            rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
+            rssIcon.alt = 'RSS';
+            rssIcon.classList.add('rss-icon');
+            rssIcon.addEventListener('click', () => {
+                navigator.clipboard.writeText(rssUrl);
+            });
+
+            li.appendChild(rssIcon);
+        }
+
+        ul.appendChild(li);
+    });
+
     resultsContainer.appendChild(ul);
+}
+
+async function filterPodcasts(searchText) {
+    if (searchText.length < 3) {
+        resultsContainer.innerHTML = '<p>Enter at least 3 characters to search</p>';
+        return;
+    }
+
+    const drPodcastsData = await fetchDRPodcastsData();
+    const podimoPodcastsData = await fetchPodimoPodcastsData();
+    const miscPodcastsData = await fetchMiscPodcastsData();
+
+    if (!drPodcastsData || !podimoPodcastsData || !miscPodcastsData) {
+        console.error('Error: No podcasts data available');
+        return;
+    }
+
+    const filteredDRPodcasts = drPodcastsData.filter(podcast => {
+        return podcast.name.toLowerCase().includes(searchText.toLowerCase()) || podcast.description.toLowerCase().includes(searchText.toLowerCase());
+    });
+
+    const filteredPodimoPodcasts = podimoPodcastsData.filter(podcast => {
+        return podcast.title.toLowerCase().includes(searchText.toLowerCase()) || podcast.description.toLowerCase().includes(searchText.toLowerCase());
+    });
+
+    const filteredMiscPodcasts = Object.values(miscPodcastsData).filter(podcast => {
+        return podcast.alt_text.toLowerCase().includes(searchText.toLowerCase()) || podcast.description.toLowerCase().includes(searchText.toLowerCase());
+    });
+
+    displayResults(filteredDRPodcasts, filteredPodimoPodcasts, filteredMiscPodcasts);
 }
 
 document.getElementById('searchInput').addEventListener('input', function() {
@@ -153,6 +180,60 @@ document.getElementById('searchInput').addEventListener('input', function() {
     filterPodcasts(searchText);
 });
 
+
+function createRSSIcon(identifier) {
+    const rssIcon = document.createElement('img');
+    rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
+    rssIcon.alt = 'RSS';
+    rssIcon.classList.add('rss-icon');
+    rssIcon.addEventListener('click', async () => {
+        const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/${identifier}.rss`;
+        await navigator.clipboard.writeText(rssLink);
+    });
+    return rssIcon;
+}
+
+
+function createListItem(text, url) {
+    const li = document.createElement('li');
+    const a = document.createElement('a');
+    a.href = url;
+    a.textContent = text;
+    li.appendChild(a);
+
+    if (url.includes('dr.dk/podcasts')) {
+        const parts = url.split('/');
+        const feedIdentifier = parts[parts.length - 1];
+        const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/${feedIdentifier}.rss`;
+
+        if (li.querySelector('.rss-icon') === null) {
+            const rssIcon = document.createElement('img');
+            rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
+            rssIcon.alt = 'RSS';
+            rssIcon.classList.add('rss-icon');
+            rssIcon.addEventListener('click', () => {
+                navigator.clipboard.writeText(rssLink);
+            });
+            li.appendChild(rssIcon);
+        }
+    }
+
+    return li;
+}
+
+async function fetchMiscPodcastsData() {
+    try {
+        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
+        if (!response.ok) {
+            throw new Error('Error fetching miscellaneous podcasts data');
+        }
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Error fetching miscellaneous podcasts data:', error);
+        return null;
+    }
+}
 </script>
 
 </body>
