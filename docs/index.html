@@ -3,23 +3,54 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Podcasts</title>
+  <title>Podcasts fra DR, Podimo, r8Dio, 24syv</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="container">
-  <h2>Søg i Podcasts</h2>
+  <h2>Find podcasts</h2>
   <div class="search-wrapper">
-      <input type="text" id="searchInput" placeholder="Søg efter podcasts fra DR, Podimo, r8Dio, 24syv...">
+      <input type="text" id="searchInput" placeholder="Søg i DR, Podimo, r8Dio, 24syv...">
       <span class="clear-search" onclick="clearSearch()">&#10006;</span>
   </div>
-  <p class="helper-text">*Klik på det lille ikon for at kopiere RSS-linket</p>
+  <p class="helper-text">*Klik på det orange ikon for at kopiere RSS-linket, der kan indsættes i din podcast-app</p>
   <div id="results"></div>
 </div>
-
+ 
 <script>
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
+  
+document.addEventListener('DOMContentLoaded', async () => {
+    try {
+        const [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData] = await Promise.all([
+            fetchDRPodcastsData(),
+            fetchPodimoPodcastsData(),
+            fetchMiscPodcastsData(),
+            fetchPir8dioPodcastsData(),
+            preloadRssIcon()
+        ]);
+        filterAndDisplayResults(drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData);
+    } catch (error) {
+        console.error('Error fetching data:', error);
+    }
+});
+
+async function preloadRssIcon() {
+    try {
+        const response = await fetch(rssIconUrl);
+        if (!response.ok) {
+            throw new Error('Error fetching RSS icon');
+        }
+        return await response.blob();
+    } catch (error) {
+        console.error('Error preloading RSS icon:', error);
+        return null;
+    }
+}
+
+async function filterAndDisplayResults(drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData) {
+}
 
 async function fetchDRPodcastsData() {
   try {
@@ -55,15 +86,12 @@ function clearSearch() {
 }
 
 function sanitizeFilename(filename) {
-  // Sanitize filename for Windows by replacing illegal characters
   return filename.replace(/[<>:"/\\|?*]/g, '_');
 }
 
 async function getPodimoRSSLink(podcastName, podcastURL) {
   try {
-    // Sanitize the podcast title
     const sanitizedTitle = sanitizeFilename(podcastName);
-    // Generate the RSS link based on the sanitized podcast title
     const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(sanitizedTitle)}.rss`;
     return rssLink;
   } catch (error) {
@@ -155,38 +183,26 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
             rssIcon.addEventListener('click', () => {
                 navigator.clipboard.writeText(rssUrl);
             });
-
             li.appendChild(rssIcon);
         }
-
         ul.appendChild(li);
     });
 
 pir8dioResults.forEach(podcast => {
     const li = createListItem(podcast.title + ' (r8Dio)', podcast.url);
     ul.appendChild(li);
-
-    // Generate the RSS link based on the podcast URL
     const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${encodeURIComponent(podcast.slug)}.rss`;
-
-    // Create RSS icon
     const rssIcon = document.createElement('img');
     rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png'; // Standard RSS icon URL
     rssIcon.alt = 'RSS';
     rssIcon.classList.add('rss-icon');
-
-    // Add click event to copy RSS link to clipboard
     rssIcon.addEventListener('click', async () => {
         await navigator.clipboard.writeText(rssLink);
     });
-
-    // Append RSS icon to list item
     li.appendChild(rssIcon);
 });
 
 resultsContainer.appendChild(ul);
-
-
 
     resultsContainer.appendChild(ul);
 }
@@ -268,16 +284,9 @@ function createListItem(text, url) {
     li.appendChild(a);
 
     if (url.includes('dr.dk/podcasts')) {
-        // Extract the identifier from the URL
-        const parts = url.split('/');
-        const feedIdentifier = parts[parts.length - 1];
-        
-        // Generate the RSS link for DR podcasts
-        const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/${feedIdentifier}.rss`;
+        const rssLink = url; // Use the same link as the main URL
 
-        // Check if an RSS icon has already been appended
         if (li.querySelector('.rss-icon') === null) {
-            // Create RSS icon
             const rssIcon = document.createElement('img');
             rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
             rssIcon.alt = 'RSS';
@@ -286,13 +295,13 @@ function createListItem(text, url) {
                 navigator.clipboard.writeText(rssLink);
             });
 
-            // Append RSS icon
             li.appendChild(rssIcon);
         }
     }
 
     return li;
 }
+
 
 async function fetchMiscPodcastsData() {
     try {
