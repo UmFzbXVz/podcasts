@@ -260,25 +260,26 @@ function createRSSIcon(rssLink) {
     rssIcon.alt = 'RSS';
     rssIcon.classList.add('rss-icon');
     rssIcon.addEventListener('click', async () => {
-
-
-    if( /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent) ) {
-      window.open('feed://' + rssLink);
-      await navigator.clipboard.writeText(rssLink);
-    }
-      else {
-        try {
-          await navigator.clipboard.writeText(rssLink);
-          alert('RSS link copied to clipboard');
-        } catch (error) {
-          console.error('Failed to copy RSS link to clipboard:', error);
+        if (/Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent)) {
+            // Create an anchor element
+            const anchor = document.createElement('a');
+            anchor.href = 'feed://' + rssLink;
+            anchor.target = '_blank'; 
+            anchor.click(); 
+            await navigator.clipboard.writeText(rssLink);
+        } else {
+            try {
+                await navigator.clipboard.writeText(rssLink);
+                alert('RSS link copied to clipboard');
+            } catch (error) {
+                console.error('Failed to copy RSS link to clipboard:', error);
+            }
         }
-      }
     });
-  return rssIcon;
+    return rssIcon;
 }
 
-
+ 
 function createListItem(text, url, rssLink) {
     const li = document.createElement('li');
     const a = document.createElement('a');
