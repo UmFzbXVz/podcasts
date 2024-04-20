@@ -260,19 +260,24 @@ function createRSSIcon(rssLink) {
     rssIcon.alt = 'RSS';
     rssIcon.classList.add('rss-icon');
     rssIcon.addEventListener('click', async () => {
-        if (/iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream) {
-            await navigator.clipboard.writeText(rssLink);
-            window.location.href = 'feed://' + rssLink;
-        } else if (/Android/.test(navigator.userAgent)) {
-            await navigator.clipboard.writeText(rssLink);
-            window.location.href = 'feed://' + rssLink;
-        } else {
-            await navigator.clipboard.writeText(rssLink);
-            alert('RSS link copied to clipboard');
+
+
+    if( /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent) ) {
+      window.location.href = 'feed://' + rssLink;
+      await navigator.clipboard.writeText(rssLink);
+    }
+      else {
+        try {
+          await navigator.clipboard.writeText(rssLink);
+          alert('RSS link copied to clipboard');
+        } catch (error) {
+          console.error('Failed to copy RSS link to clipboard:', error);
         }
+      }
     });
-    return rssIcon;
+  return rssIcon;
 }
+
 
 function createListItem(text, url, rssLink) {
     const li = document.createElement('li');
@@ -298,7 +303,7 @@ function createListItem(text, url) {
     li.appendChild(a);
 
     if (url.includes('dr.dk/podcasts')) {
-        const rssLink = url;
+        const rssLink = url; // Use the same link as the main URL
 
         if (li.querySelector('.rss-icon') === null) {
             const rssIcon = document.createElement('img');
