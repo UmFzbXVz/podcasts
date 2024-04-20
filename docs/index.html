@@ -171,7 +171,12 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
     miscResults.forEach(podcast => {
         const li = createListItem(podcast.alt_text + ' (24syv)', podcast.url);
         
-        const formattedPodcastName = podcast.alt_text.replace('/', '_').replace('?', '_').replace(' ', '_').toLowerCase() + '.rss';
+        const formattedPodcastName = podcast.alt_text
+    .replace(/\//g, '_')
+    .replace(/\?/g, '_')
+    .replace(/ /g, '_')
+    .toLowerCase()
+    + '.rss';
         const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
         const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
         
