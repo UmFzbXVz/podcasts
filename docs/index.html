@@ -263,7 +263,7 @@ function createRSSIcon(rssLink) {
 
 
     if( /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent) ) {
-      window.location.href = 'feed://' + rssLink;
+      window.open('feed://' + rssLink);
       await navigator.clipboard.writeText(rssLink);
     }
       else {
