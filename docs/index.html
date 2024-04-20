@@ -260,7 +260,16 @@ function createRSSIcon(rssLink) {
     rssIcon.alt = 'RSS';
     rssIcon.classList.add('rss-icon');
     rssIcon.addEventListener('click', async () => {
-        await navigator.clipboard.writeText(rssLink);
+        if (/iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream) {
+            await navigator.clipboard.writeText(rssLink);
+            window.location.href = 'feed://' + rssLink;
+        } else if (/Android/.test(navigator.userAgent)) {
+            await navigator.clipboard.writeText(rssLink);
+            window.location.href = 'feed://' + rssLink;
+        } else {
+            await navigator.clipboard.writeText(rssLink);
+            alert('RSS link copied to clipboard');
+        }
     });
     return rssIcon;
 }
@@ -289,7 +298,7 @@ function createListItem(text, url) {
     li.appendChild(a);
 
     if (url.includes('dr.dk/podcasts')) {
-        const rssLink = url; // Use the same link as the main URL
+        const rssLink = url;
 
         if (li.querySelector('.rss-icon') === null) {
             const rssIcon = document.createElement('img');
