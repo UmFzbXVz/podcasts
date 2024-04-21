@@ -21,7 +21,8 @@
 <script>
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
 const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
-  
+const resultsContainer = document.getElementById('results');
+
 document.addEventListener('DOMContentLoaded', async () => {
     try {
         const [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData] = await Promise.all([
@@ -50,88 +51,53 @@ async function preloadRssIcon() {
     }
 }
 
-  
-async function filterAndDisplayResults(drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData) {
-}
-
 async function fetchDRPodcastsData() {
-  try {
-    const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/docs/drlyd.json');
-    if (!response.ok) {
-      throw new Error('Error fetching DR podcasts data');
-    }
-    const data = await response.json();
-    return data;
-  } catch (error) {
-    console.error('Error fetching DR podcasts data:', error);
-    return null;
-  }
+    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/docs/drlyd.json');
 }
 
 async function fetchPodimoPodcastsData() {
-  try {
-    const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/docs/podimo.json');
-    if (!response.ok) {
-      throw new Error('Error fetching Podimo podcasts data');
-    }
-    const data = await response.json();
-    return data;
-  } catch (error) {
-    console.error('Error fetching Podimo podcasts data:', error);
-    return null;
-  }
+    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/docs/podimo.json');
 }
-
-function clearSearch() {
-  document.getElementById('searchInput').value = '';
-  document.getElementById('results').innerHTML = '';
-}
-
-function sanitizeFilename(filename) {
-  return filename.replace(/[<>:"/\\|?*]/g, '_');
-}
-
-async function getPodimoRSSLink(podcastName, podcastURL) {
-  try {
-    const sanitizedTitle = sanitizeFilename(podcastName);
-    const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(sanitizedTitle)}.rss`;
-    return rssLink;
-  } catch (error) {
-    console.error('Error getting Podimo RSS link:', error);
-    return null;
-  }
-}
-
-const resultsContainer = document.getElementById('results');
 
 async function fetchMiscPodcastsData() {
-  try {
-    const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
-    if (!response.ok) {
-      throw new Error('Error fetching misc podcasts data');
-    }
-    const data = await response.json();
-    return data;
-  } catch (error) {
-    console.error('Error fetching misc podcasts data:', error);
-    return null;
-  }
+    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
 }
 
 async function fetchPir8dioPodcastsData() {
-  try {
-    const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/data.json');
-    if (!response.ok) {
-      throw new Error('Error fetching Pir8dio podcasts data');
-    }
-    const data = await response.json();
-    return data;
-  } catch (error) {
-    console.error('Error fetching Pir8dio podcasts data:', error);
-    return null;
-  }
+    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/data.json');
 }
 
+async function fetchData(url) {
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`Error fetching data from ${url}`);
+        }
+        return await response.json();
+    } catch (error) {
+        console.error(`Error fetching data from ${url}:`, error);
+        return null;
+    }
+}
+
+function clearSearch() {
+    document.getElementById('searchInput').value = '';
+    resultsContainer.innerHTML = '';
+}
+
+function sanitizeFilename(filename) {
+    return filename.replace(/[<>:"/\\|?*]/g, '_');
+}
+
+async function getPodimoRSSLink(podcastName, podcastURL) {
+    try {
+        const sanitizedTitle = sanitizeFilename(podcastName);
+        return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(sanitizedTitle)}.rss`;
+    } catch (error) {
+        console.error('Error getting Podimo RSS link:', error);
+        return null;
+    }
+}
 
 async function displayResults(drResults, podimoResults, miscResults, pir8dioResults) {
     resultsContainer.innerHTML = '';
@@ -144,6 +110,11 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
 
     drResults.forEach(podcast => {
         const li = createListItem(podcast.name + ' (DR)', podcast.url);
+        if (podcast.url.includes('dr.dk/podcasts')) {
+            const rssLink = podcast.url;
+            const rssIcon = createRSSIcon(rssLink);
+            li.appendChild(rssIcon);
+        }
         ul.appendChild(li);
     });
 
@@ -156,27 +127,7 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
 
         const rssLink = await getPodimoRSSLink(podcast.title, podcast.url);
         if (rssLink) {
-            const rssIcon = document.createElement('img');
-            rssIcon.src = rssIconUrl;
-            rssIcon.alt = 'RSS';
-            rssIcon.classList.add('rss-icon');
-            if (isMobile) {
-                rssIcon.addEventListener('click', async () => {
-                    const anchor = document.createElement('a');
-                    anchor.href = 'feed://' + rssLink;
-                    anchor.target = '_blank'; 
-                    anchor.click(); 
-                    await navigator.clipboard.writeText(rssLink);
-                });
-            } else {
-                rssIcon.addEventListener('click', async () => {
-                    try {
-                        await navigator.clipboard.writeText(rssLink);
-                    } catch (error) {
-                        console.error('Fejl', error);
-                    }
-                });
-            }
+            const rssIcon = createRSSIcon(rssLink);
             li.appendChild(rssIcon);
         }
 
@@ -185,38 +136,9 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
 
     miscResults.forEach(podcast => {
         const li = createListItem(podcast.alt_text + ' (24syv)', podcast.url);
-        
-        const formattedPodcastName = podcast.alt_text
-            .replace(/\//g, '_')
-            .replace(/\?/g, '_')
-            .replace(/ /g, '_')
-            .toLowerCase()
-            + '.rss';
-        const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
-        const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
-        
+        const rssUrl = getFormattedRSSUrl(podcast.alt_text);
         if (rssUrl) {
-            const rssIcon = document.createElement('img');
-            rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
-            rssIcon.alt = 'RSS';
-            rssIcon.classList.add('rss-icon');
-            if (isMobile) {
-                rssIcon.addEventListener('click', async () => {
-                    const anchor = document.createElement('a');
-                    anchor.href = 'feed://' + rssUrl;
-                    anchor.target = '_blank'; 
-                    anchor.click(); 
-                    await navigator.clipboard.writeText(rssUrl);
-                });
-            } else {
-                rssIcon.addEventListener('click', async () => {
-                    try {
-                        await navigator.clipboard.writeText(rssUrl);
-                    } catch (error) {
-                        console.error('Fejl', error);
-                    }
-                });
-            }
+            const rssIcon = createRSSIcon(rssUrl);
             li.appendChild(rssIcon);
         }
         ul.appendChild(li);
@@ -224,34 +146,9 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
 
     pir8dioResults.forEach(podcast => {
         const li = createListItem(podcast.title + ' (r8Dio)', podcast.url);
-        ul.appendChild(li);
         const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${encodeURIComponent(podcast.slug)}.rss`;
-        const rssIcon = document.createElement('img');
-        rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
-        rssIcon.alt = 'RSS';
-        rssIcon.classList.add('rss-icon');
         if (rssLink) {
-            const rssIcon = document.createElement('img');
-            rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
-            rssIcon.alt = 'RSS';
-            rssIcon.classList.add('rss-icon');
-            if (isMobile) {
-                rssIcon.addEventListener('click', async () => {
-                    const anchor = document.createElement('a');
-                    anchor.href = 'feed://' + rssLink;
-                    anchor.target = '_blank'; 
-                    anchor.click(); 
-                    await navigator.clipboard.writeText(rssLink);
-                });
-            } else {
-                rssIcon.addEventListener('click', async () => {
-                    try {
-                        await navigator.clipboard.writeText(rssLink);
-                    } catch (error) {
-                        console.error('Fejl', error);
-                    }
-                });
-            }
+            const rssIcon = createRSSIcon(rssLink);
             li.appendChild(rssIcon);
         }
         ul.appendChild(li);
@@ -260,12 +157,9 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
     resultsContainer.appendChild(ul);
 }
 
-  
-  
-
 async function filterPodcasts(searchText) {
     if (searchText.length < 3) {
-        resultsContainer.innerHTML = '<p>Indtast mindst 3 tegn for at søge</p>';
+        resultsContainer.innerHTML = '<p>Enter at least 3 characters to search</p>';
         return;
     }
 
@@ -303,7 +197,6 @@ document.getElementById('searchInput').addEventListener('input', function() {
     filterPodcasts(searchText);
 });
 
-
 function createRSSIcon(rssLink) {
     const rssIcon = document.createElement('img');
     rssIcon.src = rssIconUrl;
@@ -320,47 +213,12 @@ function createRSSIcon(rssLink) {
             try {
                 await navigator.clipboard.writeText(rssLink);
             } catch (error) {
-                console.error('Failed to copy RSS link to clipboard:', error);
+                console.error('Fejl', error);
             }
         }
     });
     return rssIcon;
 }
-
-
- 
-function createListItem(text, url, rssLink) {
-    const li = document.createElement('li');
-    const a = document.createElement('a');
-    a.href = url;
-    a.textContent = text;
-    li.appendChild(a);
-
-    if (rssLink) {
-        const rssIcon = createRSSIcon(rssLink);
-                  if (isMobile) {
-            rssIcon.addEventListener('click', async () => {
-                const anchor = document.createElement('a');
-                anchor.href = 'feed://' + rssLink;
-                anchor.target = '_blank'; 
-                anchor.click(); 
-                await navigator.clipboard.writeText(rssLink);
-            });
-        } else {
-            rssIcon.addEventListener('click', async () => {
-                try {
-                    await navigator.clipboard.writeText(rssLink);
-                } catch (error) {
-                    console.error('Fejl', error);
-                }
-            });
-        }
-        li.appendChild(rssIcon);
-    }
-
-    return li;
-}
-
 
 function createListItem(text, url) {
     const li = document.createElement('li');
@@ -368,66 +226,17 @@ function createListItem(text, url) {
     a.href = url;
     a.textContent = text;
     li.appendChild(a);
-
-    if (url.includes('dr.dk/podcasts')) {
-        const rssLink = url; 
-        const rssIcon = document.createElement('img');
-        rssIcon.src = rssIconUrl;
-        rssIcon.alt = 'RSS';
-        rssIcon.classList.add('rss-icon');
-
-        if (isMobile) {
-            rssIcon.addEventListener('click', async () => {
-                const anchor = document.createElement('a');
-                anchor.href = 'feed://' + rssLink;
-                anchor.target = '_blank'; 
-                anchor.click(); 
-                await navigator.clipboard.writeText(rssLink);
-            });
-        } else {
-            rssIcon.addEventListener('click', async () => {
-                try {
-                    await navigator.clipboard.writeText(rssLink);
-                } catch (error) {
-                    console.error('Fejl', error);
-                }
-            });
-        }
-
-        li.appendChild(rssIcon);
-    }
-
     return li;
 }
 
-
-
-async function fetchMiscPodcastsData() {
-    try {
-        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
-        if (!response.ok) {
-            throw new Error('Error fetching miscellaneous podcasts data');
-        }
-        const data = await response.json();
-        return data;
-    } catch (error) {
-        console.error('Error fetching miscellaneous podcasts data:', error);
-        return null;
-    }
-}
-
-async function fetchPir8dioPodcastsData() {
-    try {
-        const response = await fetch('https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/data.json');
-        if (!response.ok) {
-            throw new Error('Error fetching Pir8dio podcasts data');
-        }
-        const data = await response.json();
-        return data;
-    } catch (error) {
-        console.error('Error fetching Pir8dio podcasts data:', error);
-        return null;
-    }
+function getFormattedRSSUrl(podcastName) {
+    const formattedPodcastName = podcastName
+        .replace(/\//g, '_')
+        .replace(/\?/g, '_')
+        .replace(/ /g, '_')
+        .toLowerCase() + '.rss';
+    const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
+    return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
 }
 </script>
 </body>
