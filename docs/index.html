@@ -21,7 +21,6 @@
 <script>
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
 const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
-  console.log("isMobile?:", isMobile)
   
 document.addEventListener('DOMContentLoaded', async () => {
     try {
@@ -51,6 +50,7 @@ async function preloadRssIcon() {
     }
 }
 
+  
 async function filterAndDisplayResults(drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData) {
 }
 
@@ -136,7 +136,7 @@ async function fetchPir8dioPodcastsData() {
 async function displayResults(drResults, podimoResults, miscResults, pir8dioResults) {
     resultsContainer.innerHTML = '';
     if (drResults.length === 0 && podimoResults.length === 0 && miscResults.length === 0 && pir8dioResults.length === 0) {
-        resultsContainer.innerHTML = '<p>No results found</p>';
+        resultsContainer.innerHTML = '<p>Ingen søgeresultater fundet</p>';
         return;
     }
 
@@ -157,13 +157,26 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
         const rssLink = await getPodimoRSSLink(podcast.title, podcast.url);
         if (rssLink) {
             const rssIcon = document.createElement('img');
-            rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
+            rssIcon.src = rssIconUrl;
             rssIcon.alt = 'RSS';
             rssIcon.classList.add('rss-icon');
-            rssIcon.addEventListener('click', () => {
-                navigator.clipboard.writeText(rssLink);
-            });
-
+            if (isMobile) {
+                rssIcon.addEventListener('click', async () => {
+                    const anchor = document.createElement('a');
+                    anchor.href = 'feed://' + rssLink;
+                    anchor.target = '_blank'; 
+                    anchor.click(); 
+                    await navigator.clipboard.writeText(rssLink);
+                });
+            } else {
+                rssIcon.addEventListener('click', async () => {
+                    try {
+                        await navigator.clipboard.writeText(rssLink);
+                    } catch (error) {
+                        console.error('Fejl', error);
+                    }
+                });
+            }
             li.appendChild(rssIcon);
         }
 
@@ -174,11 +187,11 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
         const li = createListItem(podcast.alt_text + ' (24syv)', podcast.url);
         
         const formattedPodcastName = podcast.alt_text
-    .replace(/\//g, '_')
-    .replace(/\?/g, '_')
-    .replace(/ /g, '_')
-    .toLowerCase()
-    + '.rss';
+            .replace(/\//g, '_')
+            .replace(/\?/g, '_')
+            .replace(/ /g, '_')
+            .toLowerCase()
+            + '.rss';
         const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
         const rssUrl = `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
         
@@ -187,37 +200,72 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
             rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
             rssIcon.alt = 'RSS';
             rssIcon.classList.add('rss-icon');
-            rssIcon.addEventListener('click', () => {
-                navigator.clipboard.writeText(rssUrl);
-            });
+            if (isMobile) {
+                rssIcon.addEventListener('click', async () => {
+                    const anchor = document.createElement('a');
+                    anchor.href = 'feed://' + rssUrl;
+                    anchor.target = '_blank'; 
+                    anchor.click(); 
+                    await navigator.clipboard.writeText(rssUrl);
+                });
+            } else {
+                rssIcon.addEventListener('click', async () => {
+                    try {
+                        await navigator.clipboard.writeText(rssUrl);
+                    } catch (error) {
+                        console.error('Fejl', error);
+                    }
+                });
+            }
             li.appendChild(rssIcon);
         }
         ul.appendChild(li);
     });
 
-pir8dioResults.forEach(podcast => {
-    const li = createListItem(podcast.title + ' (r8Dio)', podcast.url);
-    ul.appendChild(li);
-    const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${encodeURIComponent(podcast.slug)}.rss`;
-    const rssIcon = document.createElement('img');
-    rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png'; // Standard RSS icon URL
-    rssIcon.alt = 'RSS';
-    rssIcon.classList.add('rss-icon');
-    rssIcon.addEventListener('click', async () => {
-        await navigator.clipboard.writeText(rssLink);
+    pir8dioResults.forEach(podcast => {
+        const li = createListItem(podcast.title + ' (r8Dio)', podcast.url);
+        ul.appendChild(li);
+        const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${encodeURIComponent(podcast.slug)}.rss`;
+        const rssIcon = document.createElement('img');
+        rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
+        rssIcon.alt = 'RSS';
+        rssIcon.classList.add('rss-icon');
+        if (rssLink) {
+            const rssIcon = document.createElement('img');
+            rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
+            rssIcon.alt = 'RSS';
+            rssIcon.classList.add('rss-icon');
+            if (isMobile) {
+                rssIcon.addEventListener('click', async () => {
+                    const anchor = document.createElement('a');
+                    anchor.href = 'feed://' + rssLink;
+                    anchor.target = '_blank'; 
+                    anchor.click(); 
+                    await navigator.clipboard.writeText(rssLink);
+                });
+            } else {
+                rssIcon.addEventListener('click', async () => {
+                    try {
+                        await navigator.clipboard.writeText(rssLink);
+                    } catch (error) {
+                        console.error('Fejl', error);
+                    }
+                });
+            }
+            li.appendChild(rssIcon);
+        }
+        ul.appendChild(li);
     });
-    li.appendChild(rssIcon);
-});
-
-resultsContainer.appendChild(ul);
 
     resultsContainer.appendChild(ul);
 }
 
+  
+  
 
 async function filterPodcasts(searchText) {
     if (searchText.length < 3) {
-        resultsContainer.innerHTML = '<p>Enter at least 3 characters to search</p>';
+        resultsContainer.innerHTML = '<p>Indtast mindst 3 tegn for at søge</p>';
         return;
     }
 
@@ -262,8 +310,7 @@ function createRSSIcon(rssLink) {
     rssIcon.alt = 'RSS';
     rssIcon.classList.add('rss-icon');
     rssIcon.addEventListener('click', async () => {
-        if (/Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent)) {
-            // Create an anchor element
+        if (isMobile) {
             const anchor = document.createElement('a');
             anchor.href = 'feed://' + rssLink;
             anchor.target = '_blank'; 
@@ -272,7 +319,6 @@ function createRSSIcon(rssLink) {
         } else {
             try {
                 await navigator.clipboard.writeText(rssLink);
-                alert('RSS link copied to clipboard');
             } catch (error) {
                 console.error('Failed to copy RSS link to clipboard:', error);
             }
@@ -280,6 +326,7 @@ function createRSSIcon(rssLink) {
     });
     return rssIcon;
 }
+
 
  
 function createListItem(text, url, rssLink) {
@@ -291,6 +338,23 @@ function createListItem(text, url, rssLink) {
 
     if (rssLink) {
         const rssIcon = createRSSIcon(rssLink);
+                  if (isMobile) {
+            rssIcon.addEventListener('click', async () => {
+                const anchor = document.createElement('a');
+                anchor.href = 'feed://' + rssLink;
+                anchor.target = '_blank'; 
+                anchor.click(); 
+                await navigator.clipboard.writeText(rssLink);
+            });
+        } else {
+            rssIcon.addEventListener('click', async () => {
+                try {
+                    await navigator.clipboard.writeText(rssLink);
+                } catch (error) {
+                    console.error('Fejl', error);
+                }
+            });
+        }
         li.appendChild(rssIcon);
     }
 
@@ -306,23 +370,36 @@ function createListItem(text, url) {
     li.appendChild(a);
 
     if (url.includes('dr.dk/podcasts')) {
-        const rssLink = url; // Use the same link as the main URL
+        const rssLink = url; 
+        const rssIcon = document.createElement('img');
+        rssIcon.src = rssIconUrl;
+        rssIcon.alt = 'RSS';
+        rssIcon.classList.add('rss-icon');
 
-        if (li.querySelector('.rss-icon') === null) {
-            const rssIcon = document.createElement('img');
-            rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
-            rssIcon.alt = 'RSS';
-            rssIcon.classList.add('rss-icon');
-            rssIcon.addEventListener('click', () => {
-                navigator.clipboard.writeText(rssLink);
+        if (isMobile) {
+            rssIcon.addEventListener('click', async () => {
+                const anchor = document.createElement('a');
+                anchor.href = 'feed://' + rssLink;
+                anchor.target = '_blank'; 
+                anchor.click(); 
+                await navigator.clipboard.writeText(rssLink);
             });
-
-            li.appendChild(rssIcon);
+        } else {
+            rssIcon.addEventListener('click', async () => {
+                try {
+                    await navigator.clipboard.writeText(rssLink);
+                } catch (error) {
+                    console.error('Fejl', error);
+                }
+            });
         }
+
+        li.appendChild(rssIcon);
     }
 
     return li;
 }
+
 
 
 async function fetchMiscPodcastsData() {
@@ -352,8 +429,6 @@ async function fetchPir8dioPodcastsData() {
         return null;
     }
 }
-  
 </script>
-
 </body>
 </html>
