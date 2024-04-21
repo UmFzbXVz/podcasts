@@ -205,7 +205,7 @@ function createRSSIcon(rssLink) {
     rssIcon.addEventListener('click', async () => {
         if (isMobile) {
             const anchor = document.createElement('a');
-            anchor.href = 'feed://' + rssLink;
+            anchor.href = 'podcast://' + rssLink;
             anchor.target = '_blank'; 
             anchor.click(); 
             await navigator.clipboard.writeText(rssLink);
