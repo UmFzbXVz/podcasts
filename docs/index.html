@@ -109,7 +109,7 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
     const ul = document.createElement('ul');
 
     drResults.forEach(podcast => {
-        const li = createListItem(podcast.name + ' (DR)', podcast.url);
+        const li = createListItem(podcast.name + ' (DR)', podcast.program_url);
         if (podcast.url.includes('dr.dk/podcasts')) {
             const rssLink = podcast.url;
             const rssIcon = createRSSIcon(rssLink);
