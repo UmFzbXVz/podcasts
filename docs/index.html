@@ -238,6 +238,13 @@ function getFormattedRSSUrl(podcastName) {
     const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
     return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
 }
+
+document.getElementById('searchInput').addEventListener('keypress', function(event) {
+    if (event.key === 'Enter') {
+        this.blur(); 
+    }
+});
+  
 </script>
 </body>
 </html>
