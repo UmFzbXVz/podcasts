@@ -145,7 +145,7 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
     });
 
     pir8dioResults.forEach(podcast => {
-        const li = createListItem(podcast.title + ' (r8Dio)', podcast.url);
+        const li = createListItem(podcast.title + ' (r8Dio)', podcast.program_url);
         const rssLink = `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${encodeURIComponent(podcast.slug)}.rss`;
         if (rssLink) {
             const rssIcon = createRSSIcon(rssLink);
