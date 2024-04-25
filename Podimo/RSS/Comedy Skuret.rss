@@ -17,7 +17,6 @@
       <enclosure url="https://api.spreaker.com/download/episode/15604036/james_acaster_comedy_skuret.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:22:31</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/c6cdf0a9-67b1-491a-9ee2-c51188a4817a_400x400.png"/>
-      <itunes:author>Author Name</itunes:author>
     </item>
     <item>
       <title>Episode 2 - James Acaster</title>
@@ -27,7 +26,6 @@
       <enclosure url="http://api.spreaker.com/download/episode/15604036/james_acaster_comedy_skuret.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:22:31</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/86c8c25c-9f68-46b0-b2a9-258928d8809d_400x400.png"/>
-      <itunes:author>Author Name</itunes:author>
     </item>
     <item>
       <title>Episode 1 - Bill Burr</title>
@@ -37,7 +35,6 @@
       <enclosure url="https://api.spreaker.com/download/episode/14543010/comedy_skuret_bill_burr.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:37:52</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/c6cdf0a9-67b1-491a-9ee2-c51188a4817a_400x400.png"/>
-      <itunes:author>Author Name</itunes:author>
     </item>
     <item>
       <title>Episode 1 - Bill Burr</title>
@@ -47,7 +44,6 @@
       <enclosure url="http://api.spreaker.com/download/episode/14543010/comedy_skuret_bill_burr.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:37:52</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/87b8ec13-d1ad-4c4f-9fc1-4cd7783dc969_400x400.png"/>
-      <itunes:author>Author Name</itunes:author>
     </item>
   </channel>
 </rss>
