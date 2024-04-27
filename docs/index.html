@@ -24,6 +24,32 @@ const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.use
 const resultsContainer = document.getElementById('results');
 let isAdvanced = false;
   
+document.querySelector('.container h2').addEventListener('touchstart', function(event) {
+    event.preventDefault();
+    const touchDuration = 1000;
+    const start = new Date().getTime();
+
+    const longPressTimer = setTimeout(() => {
+        if (!isAdvanced) {
+            this.style.color = '#1DA1F2'; 
+        } else {
+            this.style.color = '#f5f5f5';
+        }
+        isAdvanced = !isAdvanced;
+        const searchText = document.getElementById('searchInput').value.trim();
+        filterPodcasts(searchText);
+    }, touchDuration);
+
+    this.addEventListener('touchend', function() {
+        clearTimeout(longPressTimer); 
+    });
+
+    this.addEventListener('touchmove', function() {
+        clearTimeout(longPressTimer); 
+    });
+});
+
+
 document.addEventListener('DOMContentLoaded', async () => {
     try {
         const [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData] = await Promise.all([
@@ -33,7 +59,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             fetchPir8dioPodcastsData(),
             preloadRssIcon()
         ]);
-        filterAndDisplayResults(drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData);
+        filterPodcasts(drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData);
     } catch (error) {
         console.error('Error fetching data:', error);
     }
@@ -106,22 +132,26 @@ async function displayResults(results) {
         resultsContainer.innerHTML = '<p>Ingen søgeresultater fundet</p>';
         return;
     }
+
     const ul = document.createElement('ul');
 
     results.forEach(result => {
         const li = createListItem(result.text, result.url);
+
         if (result.rssLink) {
             const rssIcon = createRSSIcon(result.rssLink);
             li.appendChild(rssIcon);
         }
+
         ul.appendChild(li);
     });
+
     resultsContainer.appendChild(ul);
 }
 
 async function filterPodcasts(searchText) {
     if (searchText.length < 3) {
-        resultsContainer.innerHTML = '<p>Indtast mindst 3 bogstaver for at søge</p>';
+        resultsContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
         return;
     }
 
@@ -136,39 +166,27 @@ async function filterPodcasts(searchText) {
     }
 
     const filteredDRPodcasts = drPodcastsData.filter(podcast => {
-        if (isAdvanced) {
-            return podcast.name.toLowerCase().includes(searchText.toLowerCase()) ||
-                   podcast.description.toLowerCase().includes(searchText.toLowerCase());
-        } else {
-            return podcast.name.toLowerCase().includes(searchText.toLowerCase());
-        }
+        const nameMatches = podcast.name && podcast.name.toLowerCase().includes(searchText.toLowerCase());
+        const descriptionMatches = isAdvanced && podcast.description && podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        return nameMatches || descriptionMatches;
     });
 
     const filteredPodimoPodcasts = podimoPodcastsData.filter(podcast => {
-        if (isAdvanced) {
-            return podcast.title.toLowerCase().includes(searchText.toLowerCase()) ||
-                   podcast.description.toLowerCase().includes(searchText.toLowerCase());
-        } else {
-            return podcast.title.toLowerCase().includes(searchText.toLowerCase());
-        }
+        const titleMatches = podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
+        const descriptionMatches = isAdvanced && podcast.description && podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        return titleMatches || descriptionMatches;
     });
 
     const filteredMiscPodcasts = Object.values(miscPodcastsData).filter(podcast => {
-        if (isAdvanced) {
-            return podcast.alt_text.toLowerCase().includes(searchText.toLowerCase()) ||
-                   podcast.description.toLowerCase().includes(searchText.toLowerCase());
-        } else {
-            return podcast.alt_text.toLowerCase().includes(searchText.toLowerCase());
-        }
+        const altTextMatches = podcast.alt_text && podcast.alt_text.toLowerCase().includes(searchText.toLowerCase());
+        const descriptionMatches = isAdvanced && podcast.description && podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        return altTextMatches || descriptionMatches;
     });
 
     const filteredPir8dioPodcasts = pir8dioPodcastsData.filter(podcast => {
-        if (isAdvanced) {
-            return podcast.title.toLowerCase().includes(searchText.toLowerCase()) ||
-                   podcast.description.toLowerCase().includes(searchText.toLowerCase());
-        } else {
-            return podcast.title.toLowerCase().includes(searchText.toLowerCase());
-        }
+        const titleMatches = podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
+        const contentMatches = isAdvanced && podcast.content && podcast.content.toLowerCase().includes(searchText.toLowerCase());
+        return titleMatches || contentMatches;
     });
 
     const results = [];
@@ -231,6 +249,7 @@ async function filterPodcasts(searchText) {
 
     displayResults(results);
 }
+
 
 
 document.getElementById('searchInput').addEventListener('input', function() {
