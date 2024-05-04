@@ -207,7 +207,7 @@ async function filterPodcasts(searchText) {
         results.push({
             text: podcast.name + ' (DR)',
             url: podcast.program_url,
-            rssLink: podcast.url.includes('dr.dk/podcasts') ? podcast.url : null,
+            rssLink: podcast.url.includes('') ? podcast.url : null,
             weight: calculateWeight(podcast.name, searchText)
         });
     });
