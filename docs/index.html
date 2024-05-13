@@ -289,15 +289,25 @@ function createListItem(text, url) {
     return li;
 }
 
+  
 function getFormattedRSSUrl(podcastName) {
     const formattedPodcastName = podcastName
         .replace(/\//g, '_')
         .replace(/\?/g, '_')
         .replace(/ /g, '_')
         .toLowerCase() + '.rss';
-    const firstLetter = formattedPodcastName.charAt(0).toUpperCase();
-    return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${firstLetter}/${formattedPodcastName}`;
+    let directory;
+    const firstCharacter = formattedPodcastName.charAt(0);
+    
+    if (!isNaN(parseInt(firstCharacter))) {
+        directory = '0-9';
+    } else {
+        directory = firstCharacter.toUpperCase();
+    }
+
+    return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${directory}/${formattedPodcastName}`;
 }
+
   
 document.getElementById('searchInput').addEventListener('keypress', function(event) {
     if (event.key === 'Enter') {
