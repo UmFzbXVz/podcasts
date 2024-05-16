@@ -9,5 +9,41 @@
       <title>Comedy Skuret</title>
       <link>https://podimo.com/dk/shows/b95716ed-a2cb-41a9-9b3c-b968ece2de21</link>
     </image>
+    <item>
+      <title>Episode 2 - James Acaster</title>
+      <description>Emma og Josephine taler om James Acaster...</description>
+      <guid isPermaLink="false">55cf6c70-fe43-44ec-9b9d-517774028b2a</guid>
+      <pubDate>Thu, 30 Aug 2018 10:52:53 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/15604036/james_acaster_comedy_skuret.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:22:31</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/c6cdf0a9-67b1-491a-9ee2-c51188a4817a_400x400.png"/>
+    </item>
+    <item>
+      <title>Episode 2 - James Acaster</title>
+      <description>Emma og Josephine taler om James Acaster...</description>
+      <guid isPermaLink="false">eed14929-bee3-4efd-bf58-551c7043a26c</guid>
+      <pubDate>Thu, 30 Aug 2018 10:52:53 +0000</pubDate>
+      <enclosure url="http://api.spreaker.com/download/episode/15604036/james_acaster_comedy_skuret.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:22:31</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/86c8c25c-9f68-46b0-b2a9-258928d8809d_400x400.png"/>
+    </item>
+    <item>
+      <title>Episode 1 - Bill Burr</title>
+      <description>Emma og Josephine taler om Bill Burr...</description>
+      <guid isPermaLink="false">08d1063c-a5ec-475a-a9b3-da9c865a5753</guid>
+      <pubDate>Sun, 15 Apr 2018 12:19:57 +0000</pubDate>
+      <enclosure url="https://api.spreaker.com/download/episode/14543010/comedy_skuret_bill_burr.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:37:52</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/c6cdf0a9-67b1-491a-9ee2-c51188a4817a_400x400.png"/>
+    </item>
+    <item>
+      <title>Episode 1 - Bill Burr</title>
+      <description>Emma og Josephine taler om Bill Burr...</description>
+      <guid isPermaLink="false">beb215a6-f186-4dd0-9933-6d3496ba0f17</guid>
+      <pubDate>Sun, 15 Apr 2018 12:19:57 +0000</pubDate>
+      <enclosure url="http://api.spreaker.com/download/episode/14543010/comedy_skuret_bill_burr.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:37:52</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/87b8ec13-d1ad-4c4f-9fc1-4cd7783dc969_400x400.png"/>
+    </item>
   </channel>
 </rss>
