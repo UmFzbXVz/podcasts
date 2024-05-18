@@ -1,328 +1,283 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Politik – Radio24syv</title>
-		<link>https://web.24syv.dk/channels/4563</link>
-		<description>Her finder du vores dækning af forskellige politiske begivenheder. Det er bl.a. vores dækning af parternes landsmøder og særudsendelser vhor vi går i dybden med forskellige politiske emner.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/564/Politik.png"/>
-		<item>
-			<title>Venstre kalder minister i samråd om sygdagpengetal</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109157/9149958-audio.mp3</link>
-			<description>Beskæftigelsesminister Mette Frederiksen bliver nu kaldt i samråd, hvor hun skal forklare misinformationer omkring sygedagpengetal.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109157/9149958-audio.mp3</guid>
-			<pubDate>Wed, 08 Jan 2014 07:51:31 +0000</pubDate>
-			<itunes:duration>00:04:44</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109157/9149958-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Claus Hjort afviser kritik i ejendomssag</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109158/9060081-audio.mp3</link>
-			<description>Tidligere finansminister Claus Hjort Frederiksen (V) afviser overfor Radio24syv den kritik, der bliver rejst, efter Berlingske i dag skriver, at VK-regeringen var vidende om de problemfyldte ejendomsvurderinger i 2009.
+   <channel>
+      <title>Politik – Radio24syv</title>
+      <link>https://web.24syv.dk/channels/4563</link>
+      <description>Her finder du vores dækning af forskellige politiske begivenheder. Det er bl.a. vores dækning af parternes landsmøder og særudsendelser vhor vi går i dybden med forskellige politiske emner.</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/Politik.png" />
+      <item>
+         <title>Venstre kalder minister i samråd om sygdagpengetal</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109157/9149958-audio.mp3</link>
+         <description>Beskæftigelsesminister Mette Frederiksen bliver nu kaldt i samråd, hvor hun skal forklare misinformationer omkring sygedagpengetal.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109157/9149958-audio.mp3</guid>
+         <pubDate>Wed, 08 Jan 2014 07:51:31 +0000</pubDate>
+         <itunes:duration>00:04:44</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2014.01.08%20-%20Venstre%20kalder%20minister%20i%20samr%C3%A5d%20om%20sygdagpengetal.mp3" />
+      </item>
+      <item>
+         <title>Claus Hjort afviser kritik i ejendomssag</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109158/9060081-audio.mp3</link>
+         <description>Tidligere finansminister Claus Hjort Frederiksen (V) afviser overfor Radio24syv den kritik, der bliver rejst, efter Berlingske i dag skriver, at VK-regeringen var vidende om de problemfyldte ejendomsvurderinger i 2009.
 Diskussionen i 2009 gik slet ikke på fejlagtige ejendomsvurderinger. Den handlede i stedet om en tilpasning af de offentlige ejendomsvurderinger i forhold til regeringens skattestop, siger den tidligere finansminister.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109158/9060081-audio.mp3</guid>
-			<pubDate>Mon, 16 Dec 2013 15:01:46 +0000</pubDate>
-			<itunes:duration>00:01:58</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109158/9060081-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kommunalvalg 2013</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109159/8947990-audio.mp3</link>
-			<description>24syv dækker KV13 hele dagen.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109159/8947990-audio.mp3</guid>
-			<pubDate>Tue, 19 Nov 2013 10:01:59 +0000</pubDate>
-			<itunes:duration>00:00:38</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109159/8947990-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Thorning om super-måling: Jeg koncentrerer mig om kommunalvalget</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109160/8944385-audio.mp3</link>
-			<description>Statsminister Helle Thorning-Schmidt (S) vil ikke forholde sig til formiddagens overraskende Voxmeter-måling, der gør Socialdemokraterne til landets største parti og oven i købet giver rød blok beskedent flertal. Radio24syv fangede statsministeren i Slagelse.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109160/8944385-audio.mp3</guid>
-			<pubDate>Mon, 18 Nov 2013 12:26:51 +0000</pubDate>
-			<itunes:duration>00:02:10</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109160/8944385-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Venstre vil genindføre kontraktpolitikken</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109161/8758381-audio.mp3</link>
-			<description>Som optakt til Venstres landsmøde i Odense melder partiets top nu ud, at kontraktpolitikken skal genindføres. Radio24syv spørger Venstres chefstrateg Claus Hjort Frederiksen hvorfor.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109161/8758381-audio.mp3</guid>
-			<pubDate>Fri, 04 Oct 2013 23:48:10 +0000</pubDate>
-			<itunes:duration>00:02:39</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109161/8758381-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Margrethe Vestager: Vi har forskellige holdninger i regeringen</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109162/8679040-audio.mp3</link>
-			<description>Margrethe Vestager blev konfronteret med sine beskyldninger om, at det var Socialdemokraterne, der var årsag til, at løftet om øremærket barsel til mænd blev lagt i graven, da hun mødte op til De Radikales landsmøde i Nyborg.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109162/8679040-audio.mp3</guid>
-			<pubDate>Sat, 14 Sep 2013 12:03:14 +0000</pubDate>
-			<itunes:duration>00:02:22</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109162/8679040-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politisk sommergæst: Mette Gjerskov</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109163/8436961-audio.mp3</link>
-			<description>Mette Gjerskov, minister for fødevarer, landbrug og fiskeri, har arvet en varm kartoffel fra den tidligere regering. Nemlig de miljøbræmmer, randzonerne, som landmænd ikke må dyrke. Hele ti samråd har ministeren været kaldt I i Folketinget om den sag. Den socialdemokratiske minister er selv uddannet agronom og er ikke bange for at tage den politiske kamp med både landbrugsinteresser og borgerlige politikere. til stor vrede for rigtig mange landmænd. Mette Gjerskov har talt med Radio24syvs politiske redaktør, Jesper Termansen, som dagens sommergæst.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109163/8436961-audio.mp3</guid>
-			<pubDate>Tue, 09 Jul 2013 07:10:00 +0000</pubDate>
-			<itunes:duration>00:09:17</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109163/8436961-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politisk sommergæst: Carsten Hansen (2)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109164/8436958-audio.mp3</link>
-			<description>Rådne bananer og udkantsDanmark, by-, bolig- og landdistriktsminister Carsten Hansen bruger betydelig politisk energi på at tale det stadigt mere affolkede land uden for de store byer op. Jesper Termansen, politisk redaktør på Radio24syv, har talt med Carsten Hansen om den problemstilling.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109164/8436958-audio.mp3</guid>
-			<pubDate>Mon, 08 Jul 2013 07:10:00 +0000</pubDate>
-			<itunes:duration>00:05:30</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109164/8436958-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politisk sommergæst: Carsten Hansen (1)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109165/8436955-audio.mp3</link>
-			<description>Han har selv stået i en boligforening med beboere fra andre lande, der ikke vidste, hvordan en vaskemaskine virker. Så den tidligere ejendomsfunktionær, ny minister for by, bolig og landdistrikter, Carsten Hansen, kender godt til landets lejebyggeri. Én af hans primære opgaver er at forhindre, at flere boligområder i byerne får deres navn kendt, men ikke for det gode. Jesper Termansen, politisk redaktør her på Radio24syv har Carsten Hansen som dagens politiske sommergæst.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109165/8436955-audio.mp3</guid>
-			<pubDate>Mon, 08 Jul 2013 07:00:00 +0000</pubDate>
-			<itunes:duration>00:05:54</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109165/8436955-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politisk sommergæst: Johanne Schmidt-Nielsen (2)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109166/8436954-audio.mp3</link>
-			<description>Johanne Schmidt-Nielsen, politisk ordfører for Enhedslisten, har haft mange skuffelser i de snart to år som støtteparti for S-SF-R -regeringen. Men et enkelt lyspunkt var dagpengeaftalen, som partiet indgik i pinsen. Nu venter en finanslov til efteråret, hvor regeringen på forhånd har lagt en temmelig fast ramme for, hvor mange penge, der kan bruges. Jesper Termansen, politisk redaktør på Radio24syv, har interviewet Johanne Schmidt-Nielsen som dagens sommergæst.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109166/8436954-audio.mp3</guid>
-			<pubDate>Fri, 05 Jul 2013 07:10:00 +0000</pubDate>
-			<itunes:duration>00:08:41</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109166/8436954-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politisk sommergæst: Johanne Schmidt-Nielsen (1)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198261/8436953-audio.mp3</link>
-			<description>De har stadig medlemmer, som taler om revolution og omstyrtelse af kapitalisterne. Men med en rekordhøj tilslutning blandt vælgerne, er det ikke længere revolutionsromantik, der dominerer partiet. Johanne Schmidt-Nielsen er dagens politiske sommergæst, og hun interesserer sig ikke for skrivebordsteorier. Men hun kan stadig godt drømme om en finanssektor, som staten har magten over, fortæller hun her til Radio24syvs politiske redaktør, Jesper Termansen.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198261/8436953-audio.mp3</guid>
-			<pubDate>Fri, 05 Jul 2013 07:00:00 +0000</pubDate>
-			<itunes:duration>00:10:32</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198261/8436953-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politisk sommergæst: Kristian Thulesen Dahl (2)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198262/8436899-audio.mp3</link>
-			<description>Han er uenig i nulvækst. Han bryder dig ikke om brugerbetaling. Nogen mener, at han forsøger at kapre socialdemokratiske vælgere, men til syvende og sidst er han en loyal støtte for Venstres formand, Lars Løkke Rasmussen. Det er Dansk Folkepartis leder, Kristian Thulesen Dahl, som Jesper Termansen, politisk redaktør på Radio24syv har talt med som sommergæsten i dag.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198262/8436899-audio.mp3</guid>
-			<pubDate>Thu, 04 Jul 2013 07:10:00 +0000</pubDate>
-			<itunes:duration>00:08:43</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198262/8436899-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politisk Sommergæst: Kristian Thulesen Dahl (1)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198263/8436897-audio.mp3</link>
-			<description>Befolknigen er stadig optaget af integration og udlændinge, det er bare folketingspolitikerne, der ikke har blik for, hvad der sker - for eksempel i Vejle, siger Dansk Folkepartis formand Kristian Thulesen Dahl.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109158/9060081-audio.mp3</guid>
+         <pubDate>Mon, 16 Dec 2013 15:01:46 +0000</pubDate>
+         <itunes:duration>00:01:58</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.12.16%20-%20Claus%20Hjort%20afviser%20kritik%20i%20ejendomssag.mp3" />
+      </item>
+      <item>
+         <title>Kommunalvalg 2013</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109159/8947990-audio.mp3</link>
+         <description>24syv dækker KV13 hele dagen.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109159/8947990-audio.mp3</guid>
+         <pubDate>Tue, 19 Nov 2013 10:01:59 +0000</pubDate>
+         <itunes:duration>00:00:38</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.11.19%20-%20Kommunalvalg%202013.mp3" />
+      </item>
+      <item>
+         <title>Thorning om super-måling: Jeg koncentrerer mig om kommunalvalget</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109160/8944385-audio.mp3</link>
+         <description>Statsminister Helle Thorning-Schmidt (S) vil ikke forholde sig til formiddagens overraskende Voxmeter-måling, der gør Socialdemokraterne til landets største parti og oven i købet giver rød blok beskedent flertal. Radio24syv fangede statsministeren i Slagelse.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109160/8944385-audio.mp3</guid>
+         <pubDate>Mon, 18 Nov 2013 12:26:51 +0000</pubDate>
+         <itunes:duration>00:02:10</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.11.18%20-%20Thorning%20om%20super-m%C3%A5ling.mp3" />
+      </item>
+      <item>
+         <title>Venstre vil genindføre kontraktpolitikken</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109161/8758381-audio.mp3</link>
+         <description>Som optakt til Venstres landsmøde i Odense melder partiets top nu ud, at kontraktpolitikken skal genindføres. Radio24syv spørger Venstres chefstrateg Claus Hjort Frederiksen hvorfor.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109161/8758381-audio.mp3</guid>
+         <pubDate>Fri, 04 Oct 2013 23:48:10 +0000</pubDate>
+         <itunes:duration>00:02:39</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.10.04%20-%20Venstre%20vil%20genindf%C3%B8re%20kontraktpolitikken.mp3" />
+      </item>
+      <item>
+         <title>Margrethe Vestager: Vi har forskellige holdninger i regeringen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109162/8679040-audio.mp3</link>
+         <description>Margrethe Vestager blev konfronteret med sine beskyldninger om, at det var Socialdemokraterne, der var årsag til, at løftet om øremærket barsel til mænd blev lagt i graven, da hun mødte op til De Radikales landsmøde i Nyborg.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109162/8679040-audio.mp3</guid>
+         <pubDate>Sat, 14 Sep 2013 12:03:14 +0000</pubDate>
+         <itunes:duration>00:02:22</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.09.14%20-%20Margrethe%20Vestager.mp3" />
+      </item>
+      <item>
+         <title>Politisk sommergæst: Mette Gjerskov</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109163/8436961-audio.mp3</link>
+         <description>Mette Gjerskov, minister for fødevarer, landbrug og fiskeri, har arvet en varm kartoffel fra den tidligere regering. Nemlig de miljøbræmmer, randzonerne, som landmænd ikke må dyrke. Hele ti samråd har ministeren været kaldt I i Folketinget om den sag. Den socialdemokratiske minister er selv uddannet agronom og er ikke bange for at tage den politiske kamp med både landbrugsinteresser og borgerlige politikere. til stor vrede for rigtig mange landmænd. Mette Gjerskov har talt med Radio24syvs politiske redaktør, Jesper Termansen, som dagens sommergæst.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109163/8436961-audio.mp3</guid>
+         <pubDate>Tue, 09 Jul 2013 07:10:00 +0000</pubDate>
+         <itunes:duration>00:09:17</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.07.09%20-%20Politisk%20sommerg%C3%A6st.mp3" />
+      </item>
+      <item>
+         <title>Politisk sommergæst: Carsten Hansen (1)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109165/8436955-audio.mp3</link>
+         <description>Han har selv stået i en boligforening med beboere fra andre lande, der ikke vidste, hvordan en vaskemaskine virker. Så den tidligere ejendomsfunktionær, ny minister for by, bolig og landdistrikter, Carsten Hansen, kender godt til landets lejebyggeri. Én af hans primære opgaver er at forhindre, at flere boligområder i byerne får deres navn kendt, men ikke for det gode. Jesper Termansen, politisk redaktør her på Radio24syv har Carsten Hansen som dagens politiske sommergæst.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109165/8436955-audio.mp3</guid>
+         <pubDate>Mon, 08 Jul 2013 07:00:00 +0000</pubDate>
+         <itunes:duration>00:05:54</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.07.08%20-%20Politisk%20sommerg%C3%A6st.mp3" />
+      </item>
+      <item>
+         <title>Politisk sommergæst: Johanne Schmidt-Nielsen (1)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198261/8436953-audio.mp3</link>
+         <description>De har stadig medlemmer, som taler om revolution og omstyrtelse af kapitalisterne. Men med en rekordhøj tilslutning blandt vælgerne, er det ikke længere revolutionsromantik, der dominerer partiet. Johanne Schmidt-Nielsen er dagens politiske sommergæst, og hun interesserer sig ikke for skrivebordsteorier. Men hun kan stadig godt drømme om en finanssektor, som staten har magten over, fortæller hun her til Radio24syvs politiske redaktør, Jesper Termansen.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198261/8436953-audio.mp3</guid>
+         <pubDate>Fri, 05 Jul 2013 07:00:00 +0000</pubDate>
+         <itunes:duration>00:10:32</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.07.05%20-%20Politisk%20sommerg%C3%A6st.mp3" />
+      </item>
+      <item>
+         <title>Politisk Sommergæst: Kristian Thulesen Dahl (1)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198263/8436897-audio.mp3</link>
+         <description>Befolknigen er stadig optaget af integration og udlændinge, det er bare folketingspolitikerne, der ikke har blik for, hvad der sker - for eksempel i Vejle, siger Dansk Folkepartis formand Kristian Thulesen Dahl.
 Partiet står godt i meningsmålingerne, selv om mærkesagen, udlændinge, har været langt nede på den politiske dagsorden. Jesper Termansen, politisk redaktør på Radio24syv, har Kristian Thulesen Dahl som dagens politiske sommergæst.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198263/8436897-audio.mp3</guid>
-			<pubDate>Thu, 04 Jul 2013 07:00:00 +0000</pubDate>
-			<itunes:duration>00:08:24</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198263/8436897-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politisk sommergæst: Morten Bødskov (2)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198264/8436896-audio.mp3</link>
-			<description>Asyltallet vokser dramatisk - det skyldes regeringens meget lempelige regler for udlændinge her i landet, lyder det fra oppositionen. Justitsminister Morten Bødskov afviser. Han er i dag regeringens vigtigste spydspids i et opgør mellem den blå blok og regeringen om udlændingepolitikken. Et tema, der ikke hidtil har spillet en stor rolle i denne regerings tid, men som vokser på Christiansborg.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198264/8436896-audio.mp3</guid>
-			<pubDate>Tue, 02 Jul 2013 07:10:00 +0000</pubDate>
-			<itunes:duration>00:08:01</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198264/8436896-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politisk sommergæst: Morten Bødskov (1)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198265/8436895-audio.mp3</link>
-			<description>Kommunerne må se at komme op i omdrejninger og sætte ind, hvis det skal lykkes at få bugt med banderne. Det siger justitsminister Morten Bødskov, der er dagens politiske sommergæst.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198265/8436895-audio.mp3</guid>
-			<pubDate>Tue, 02 Jul 2013 07:00:00 +0000</pubDate>
-			<itunes:duration>00:07:20</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198265/8436895-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politisk sommergæst: Lars Barfoed (2)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198266/8436894-audio.mp3</link>
-			<description>Vi er mere markante borgerlige end Venstre. Det siger Lars Barfoed, partileder for De Konservative, som har brugt de seneste måneder på at markere sit parti med en selvstændig profil i forhold til Venstre. Senest har de Konservative brugt debatten om skolereform til at markere sig selvstændigt. Radio24syvs politisk redaktør har talt med Lars Barfoed om den øjeblikkelige konservative selvopfattelse.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198266/8436894-audio.mp3</guid>
-			<pubDate>Mon, 01 Jul 2013 07:10:00 +0000</pubDate>
-			<itunes:duration>00:07:58</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198266/8436894-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politisk sommergæst: Lars Barfoed (1)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198267/8436893-audio.mp3</link>
-			<description>Understøttelsen bør lægges om. Der er brug for en reform, så de højtlønnede får mere ud af at være i a-kasse. Det mener den konservative leder, Lars Barfoed, som er sommergæst. Jesper Termansen, politisk redaktør på Radio24syv, har talt med Lars Barfoed blandt andet om det konservative syn på, hvordan velfærdssamfundet bør ændres. Om brugerbetaling og understøttelse.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198267/8436893-audio.mp3</guid>
-			<pubDate>Mon, 01 Jul 2013 07:00:00 +0000</pubDate>
-			<itunes:duration>00:06:48</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198267/8436893-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politik - De røde kaffeklubber 20-05-2013</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198268/8177371-audio.mp3</link>
-			<description>De har været der altid. De var der, da Ritt kom i Folketinget, de var der, da Per Hækkerup holdt hof i Snapsetinget og de styrer magtkampen internt i Socialdemokratiet. 24syvs politiske redaktør Jesper Termansen sætter fokus på &quot;De Røde Kaffeklubber.” Jesper Termansen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198268/8177371-audio.mp3</guid>
-			<pubDate>Mon, 20 May 2013 18:03:33 +0000</pubDate>
-			<itunes:duration>00:55:33</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198268/8177371-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politik: SF - landsmøde 2013 05-05-2013</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198269/8106086-audio.mp3</link>
-			<description>24syv samler op på SF's landsmøde, som blev afholdt i weekenden den 3.-5. maj 2013.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198269/8106086-audio.mp3</guid>
-			<pubDate>Sun, 05 May 2013 19:03:00 +0000</pubDate>
-			<itunes:duration>00:55:26</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198269/8106086-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politik: Enhedslisten - årsmøde 2013 28-04-2013 </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198270/8074372-audio.mp3</link>
-			<description>Radio24syv rapporterer fra Enhedslistens årsmøde 2013.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198270/8074372-audio.mp3</guid>
-			<pubDate>Sun, 28 Apr 2013 19:03:00 +0000</pubDate>
-			<itunes:duration>00:55:28</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198270/8074372-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pressemøde i statsministeriet 25-04-2013</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198271/8060551-audio.mp3</link>
-			<description>Regeringsindgreb i konflikten mellem Danmarks Lærerforening og Kommunernes Landsforeningen præsenteres. Statsminister Helle Thorning-Schmidt og Beskæftigelsesminister Mette Frederiksen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198271/8060551-audio.mp3</guid>
-			<pubDate>Thu, 25 Apr 2013 10:37:48 +0000</pubDate>
-			<itunes:duration>00:14:14</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198271/8060551-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Politik: Liberal Alliance - landsmøde 2013 21-04-2013</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198272/8046379-audio.mp3</link>
-			<description>Danmarks eneste liberale parti. Sådan er selvforståelsen hos Liberal Alliance, der her i weekenden afholdt  landsmøde. Radio24syvs politiske reporter Jimmy Solgaard indrammer landsmødet. Jimmy Solgaard</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198272/8046379-audio.mp3</guid>
-			<pubDate>Sun, 21 Apr 2013 19:10:00 +0000</pubDate>
-			<itunes:duration>00:55:17</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198272/8046379-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>De politiske købmænd  29-03-2013</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198273/7942025-audio.mp3</link>
-			<description>De politiske købmænd. Det handler om magt, når programmet De politiske købmænd sætter fokus på lobbyisme i Danmark. For hvem er de, lobbyisterne i mørke jakkesæt, der kryber langs panelerne på Christiansborg og forsøger at påvirke politikerne? Hvordan arbejder lobbyisterne og er de i virkeligheden bedre end deres ry? Det spørger vi lobbyist for PrimeTime Lars Nielsen og Journalist og forfatter Peter Mose om, og sidst i programmet debatterer lobbyist og forfatter Mads Christian Esbensen og MF for Liberal Alliance Mette Bock, om vi har brug for regler for lobbyisme i Danmark.  Vært: Rasmus Bitsch Nielsen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198273/7942025-audio.mp3</guid>
-			<pubDate>Fri, 29 Mar 2013 18:03:33 +0000</pubDate>
-			<itunes:duration>00:55:34</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198273/7942025-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Velfærd på spidsen  28-03-2013</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198274/7938251-audio.mp3</link>
-			<description>Velfærd på spidsen. Bliver man invalideret af at gå på kontanthjælp ? Skal frivillige klare omsorgs-og støtteopgaver i fremtidens velfærdsstat? Det er nogle af de temaer, som en række politikere debatterer i programmet &quot;Velfærd på Spidsen&quot;. Radio24syvs politiske redaktør, Jesper Termansen, har inviteret, Nadeem Farooq, beskæftigelsesordfører for De Radikale, Ulla Tørnæs, beskæftigelsesordfører for Venstre samt Stine Brix, sundhedsordfører for Enhedslisten til at tage en holmgang om overførselsindkomster i fremtiden. I anden halvdel af programmet debatterer Stine Brix videre med Simon Emil Ammizbøll, gruppeformand for Liberal Alliance samt socialordfører for Socialdemokratiet, Maja Panduro, om fremtidens frivillige. Vært: Jepser Termansen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198274/7938251-audio.mp3</guid>
-			<pubDate>Thu, 28 Mar 2013 18:03:33 +0000</pubDate>
-			<itunes:duration>00:55:24</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198274/7938251-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pressemøde i Statsministeriet uge 3, 2013 </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198275/7592792-audio.mp3</link>
-			<description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198275/7592792-audio.mp3</guid>
-			<pubDate>Tue, 15 Jan 2013 12:40:00 +0000</pubDate>
-			<itunes:duration>00:26:20</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198275/7592792-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pressemøde i Statsministeriet uge 2, 2013 </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198276/7559953-audio.mp3</link>
-			<description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198276/7559953-audio.mp3</guid>
-			<pubDate>Tue, 08 Jan 2013 12:03:00 +0000</pubDate>
-			<itunes:duration>00:32:20</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198276/7559953-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pressemøde i Statsministeriet uge 22, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198277/6316818-audio.mp3</link>
-			<description>Regeringen præsenterer skattereformen.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198277/6316818-audio.mp3</guid>
-			<pubDate>Tue, 29 May 2012 12:10:45 +0000</pubDate>
-			<itunes:duration>00:32:27</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198277/6316818-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pressemøde i Statsministeriet uge 20, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198278/5019637-audio.mp3</link>
-			<description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198263/8436897-audio.mp3</guid>
+         <pubDate>Thu, 04 Jul 2013 07:00:00 +0000</pubDate>
+         <itunes:duration>00:08:24</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.07.04%20-%20Politisk%20sommerg%C3%A6st.mp3" />
+      </item>
+      <item>
+         <title>Politisk sommergæst: Morten Bødskov (1)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198265/8436895-audio.mp3</link>
+         <description>Kommunerne må se at komme op i omdrejninger og sætte ind, hvis det skal lykkes at få bugt med banderne. Det siger justitsminister Morten Bødskov, der er dagens politiske sommergæst.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198265/8436895-audio.mp3</guid>
+         <pubDate>Tue, 02 Jul 2013 07:00:00 +0000</pubDate>
+         <itunes:duration>00:07:20</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.07.02%20-%20Politisk%20sommerg%C3%A6st.mp3" />
+      </item>
+      <item>
+         <title>Politisk sommergæst: Lars Barfoed (1)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198267/8436893-audio.mp3</link>
+         <description>Understøttelsen bør lægges om. Der er brug for en reform, så de højtlønnede får mere ud af at være i a-kasse. Det mener den konservative leder, Lars Barfoed, som er sommergæst. Jesper Termansen, politisk redaktør på Radio24syv, har talt med Lars Barfoed blandt andet om det konservative syn på, hvordan velfærdssamfundet bør ændres. Om brugerbetaling og understøttelse.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198267/8436893-audio.mp3</guid>
+         <pubDate>Mon, 01 Jul 2013 07:00:00 +0000</pubDate>
+         <itunes:duration>00:06:48</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.07.01%20-%20Politisk%20sommerg%C3%A6st.mp3" />
+      </item>
+      <item>
+         <title>Politik - De røde kaffeklubber 20-05-2013</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198268/8177371-audio.mp3</link>
+         <description>De har været der altid. De var der, da Ritt kom i Folketinget, de var der, da Per Hækkerup holdt hof i Snapsetinget og de styrer magtkampen internt i Socialdemokratiet. 24syvs politiske redaktør Jesper Termansen sætter fokus på "De Røde Kaffeklubber.” Jesper Termansen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198268/8177371-audio.mp3</guid>
+         <pubDate>Mon, 20 May 2013 18:03:33 +0000</pubDate>
+         <itunes:duration>00:55:33</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.05.20%20-%20Politik%20-%20De%20r%C3%B8de%20kaffeklubber%2020-05-2013.mp3" />
+      </item>
+      <item>
+         <title>Politik: SF - landsmøde 2013 05-05-2013</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198269/8106086-audio.mp3</link>
+         <description>24syv samler op på SF's landsmøde, som blev afholdt i weekenden den 3.-5. maj 2013.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198269/8106086-audio.mp3</guid>
+         <pubDate>Sun, 05 May 2013 19:03:00 +0000</pubDate>
+         <itunes:duration>00:55:26</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.05.05%20-%20Politik.mp3" />
+      </item>
+      <item>
+         <title>Politik: Enhedslisten - årsmøde 2013 28-04-2013</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198270/8074372-audio.mp3</link>
+         <description>Radio24syv rapporterer fra Enhedslistens årsmøde 2013.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198270/8074372-audio.mp3</guid>
+         <pubDate>Sun, 28 Apr 2013 19:03:00 +0000</pubDate>
+         <itunes:duration>00:55:28</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.04.28%20-%20Politik.mp3" />
+      </item>
+      <item>
+         <title>Pressemøde i statsministeriet 25-04-2013</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198271/8060551-audio.mp3</link>
+         <description>Regeringsindgreb i konflikten mellem Danmarks Lærerforening og Kommunernes Landsforeningen præsenteres. Statsminister Helle Thorning-Schmidt og Beskæftigelsesminister Mette Frederiksen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198271/8060551-audio.mp3</guid>
+         <pubDate>Thu, 25 Apr 2013 10:37:48 +0000</pubDate>
+         <itunes:duration>00:14:14</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.04.25%20-%20Pressem%C3%B8de%20i%20statsministeriet%2025-04-2013.mp3" />
+      </item>
+      <item>
+         <title>Politik: Liberal Alliance - landsmøde 2013 21-04-2013</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198272/8046379-audio.mp3</link>
+         <description>Danmarks eneste liberale parti. Sådan er selvforståelsen hos Liberal Alliance, der her i weekenden afholdt  landsmøde. Radio24syvs politiske reporter Jimmy Solgaard indrammer landsmødet. Jimmy Solgaard</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198272/8046379-audio.mp3</guid>
+         <pubDate>Sun, 21 Apr 2013 19:10:00 +0000</pubDate>
+         <itunes:duration>00:55:17</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.04.21%20-%20Politik.mp3" />
+      </item>
+      <item>
+         <title>De politiske købmænd  29-03-2013</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198273/7942025-audio.mp3</link>
+         <description>De politiske købmænd. Det handler om magt, når programmet De politiske købmænd sætter fokus på lobbyisme i Danmark. For hvem er de, lobbyisterne i mørke jakkesæt, der kryber langs panelerne på Christiansborg og forsøger at påvirke politikerne? Hvordan arbejder lobbyisterne og er de i virkeligheden bedre end deres ry? Det spørger vi lobbyist for PrimeTime Lars Nielsen og Journalist og forfatter Peter Mose om, og sidst i programmet debatterer lobbyist og forfatter Mads Christian Esbensen og MF for Liberal Alliance Mette Bock, om vi har brug for regler for lobbyisme i Danmark.  Vært: Rasmus Bitsch Nielsen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198273/7942025-audio.mp3</guid>
+         <pubDate>Fri, 29 Mar 2013 18:03:33 +0000</pubDate>
+         <itunes:duration>00:55:34</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.03.29%20-%20De%20politiske%20k%C3%B8bm%C3%A6nd%20%2029-03-2013.mp3" />
+      </item>
+      <item>
+         <title>Velfærd på spidsen  28-03-2013</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198274/7938251-audio.mp3</link>
+         <description>Velfærd på spidsen. Bliver man invalideret af at gå på kontanthjælp ? Skal frivillige klare omsorgs-og støtteopgaver i fremtidens velfærdsstat? Det er nogle af de temaer, som en række politikere debatterer i programmet "Velfærd på Spidsen". Radio24syvs politiske redaktør, Jesper Termansen, har inviteret, Nadeem Farooq, beskæftigelsesordfører for De Radikale, Ulla Tørnæs, beskæftigelsesordfører for Venstre samt Stine Brix, sundhedsordfører for Enhedslisten til at tage en holmgang om overførselsindkomster i fremtiden. I anden halvdel af programmet debatterer Stine Brix videre med Simon Emil Ammizbøll, gruppeformand for Liberal Alliance samt socialordfører for Socialdemokratiet, Maja Panduro, om fremtidens frivillige. Vært: Jepser Termansen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198274/7938251-audio.mp3</guid>
+         <pubDate>Thu, 28 Mar 2013 18:03:33 +0000</pubDate>
+         <itunes:duration>00:55:24</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.03.28%20-%20Velf%C3%A6rd%20p%C3%A5%20spidsen%20%2028-03-2013.mp3" />
+      </item>
+      <item>
+         <title>Pressemøde i Statsministeriet uge 3, 2013</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198275/7592792-audio.mp3</link>
+         <description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198275/7592792-audio.mp3</guid>
+         <pubDate>Tue, 15 Jan 2013 12:40:00 +0000</pubDate>
+         <itunes:duration>00:26:20</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.01.15%20-%20Pressem%C3%B8de%20i%20Statsministeriet%20uge%203%2C%202013%20.mp3" />
+      </item>
+      <item>
+         <title>Pressemøde i Statsministeriet uge 2, 2013</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198276/7559953-audio.mp3</link>
+         <description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198276/7559953-audio.mp3</guid>
+         <pubDate>Tue, 08 Jan 2013 12:03:00 +0000</pubDate>
+         <itunes:duration>00:32:20</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2013.01.08%20-%20Pressem%C3%B8de%20i%20Statsministeriet%20uge%202%2C%202013%20.mp3" />
+      </item>
+      <item>
+         <title>Pressemøde i Statsministeriet uge 22, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198277/6316818-audio.mp3</link>
+         <description>Regeringen præsenterer skattereformen.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198277/6316818-audio.mp3</guid>
+         <pubDate>Tue, 29 May 2012 12:10:45 +0000</pubDate>
+         <itunes:duration>00:32:27</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2012.05.29%20-%20Pressem%C3%B8de%20i%20Statsministeriet%20uge%2022%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Pressemøde i Statsministeriet uge 20, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198278/5019637-audio.mp3</link>
+         <description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.
 Vi skal beklage de tekniske problemer undervejs.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198278/5019637-audio.mp3</guid>
-			<pubDate>Tue, 15 May 2012 12:08:01 +0000</pubDate>
-			<itunes:duration>00:32:05</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198278/5019637-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pressemøde i Statsministeriet uge 19, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198279/4981942-audio.mp3</link>
-			<description>Regeringen præsenterer 2020-planen.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198279/4981942-audio.mp3</guid>
-			<pubDate>Tue, 08 May 2012 12:07:25 +0000</pubDate>
-			<itunes:duration>00:32:14</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198279/4981942-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pressemøde i Statsministeriet uge 16, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198280/4878693-audio.mp3</link>
-			<description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198280/4878693-audio.mp3</guid>
-			<pubDate>Tue, 17 Apr 2012 12:05:47 +0000</pubDate>
-			<itunes:duration>00:30:31</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198280/4878693-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pressemøde i Statsministeriet uge 15, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198281/4844573-audio.mp3</link>
-			<description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198281/4844573-audio.mp3</guid>
-			<pubDate>Tue, 10 Apr 2012 12:10:54 +0000</pubDate>
-			<itunes:duration>00:32:06</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198281/4844573-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pressemøde i Statsministeriet uge 12, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198282/4723986-audio.mp3</link>
-			<description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198282/4723986-audio.mp3</guid>
-			<pubDate>Tue, 20 Mar 2012 12:13:31 +0000</pubDate>
-			<itunes:duration>00:32:04</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198282/4723986-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pressemøde i Statsministeriet uge 11, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198283/4689358-audio.mp3</link>
-			<description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198283/4689358-audio.mp3</guid>
-			<pubDate>Tue, 13 Mar 2012 12:26:00 +0000</pubDate>
-			<itunes:duration>00:32:04</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198283/4689358-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pressemøde i Statsministeriet uge 9, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198284/4604553-audio.mp3</link>
-			<description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198284/4604553-audio.mp3</guid>
-			<pubDate>Tue, 28 Feb 2012 12:30:00 +0000</pubDate>
-			<itunes:duration>00:31:16</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198284/4604553-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pressemøde i Statsministeriet uge 8, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198285/4555229-audio.mp3</link>
-			<description>Helle Thorning-Schmidts pressemøde om bl.a. den københavnske betalingsring.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198285/4555229-audio.mp3</guid>
-			<pubDate>Tue, 21 Feb 2012 12:02:33 +0000</pubDate>
-			<itunes:duration>00:18:40</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198285/4555229-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198278/5019637-audio.mp3</guid>
+         <pubDate>Tue, 15 May 2012 12:08:01 +0000</pubDate>
+         <itunes:duration>00:32:05</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2012.05.15%20-%20Pressem%C3%B8de%20i%20Statsministeriet%20uge%2020%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Pressemøde i Statsministeriet uge 19, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198279/4981942-audio.mp3</link>
+         <description>Regeringen præsenterer 2020-planen.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198279/4981942-audio.mp3</guid>
+         <pubDate>Tue, 08 May 2012 12:07:25 +0000</pubDate>
+         <itunes:duration>00:32:14</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2012.05.08%20-%20Pressem%C3%B8de%20i%20Statsministeriet%20uge%2019%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Pressemøde i Statsministeriet uge 16, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198280/4878693-audio.mp3</link>
+         <description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198280/4878693-audio.mp3</guid>
+         <pubDate>Tue, 17 Apr 2012 12:05:47 +0000</pubDate>
+         <itunes:duration>00:30:31</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2012.04.17%20-%20Pressem%C3%B8de%20i%20Statsministeriet%20uge%2016%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Pressemøde i Statsministeriet uge 15, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198281/4844573-audio.mp3</link>
+         <description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198281/4844573-audio.mp3</guid>
+         <pubDate>Tue, 10 Apr 2012 12:10:54 +0000</pubDate>
+         <itunes:duration>00:32:06</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2012.04.10%20-%20Pressem%C3%B8de%20i%20Statsministeriet%20uge%2015%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Pressemøde i Statsministeriet uge 12, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198282/4723986-audio.mp3</link>
+         <description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198282/4723986-audio.mp3</guid>
+         <pubDate>Tue, 20 Mar 2012 12:13:31 +0000</pubDate>
+         <itunes:duration>00:32:04</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2012.03.20%20-%20Pressem%C3%B8de%20i%20Statsministeriet%20uge%2012%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Pressemøde i Statsministeriet uge 11, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198283/4689358-audio.mp3</link>
+         <description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198283/4689358-audio.mp3</guid>
+         <pubDate>Tue, 13 Mar 2012 12:26:00 +0000</pubDate>
+         <itunes:duration>00:32:04</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2012.03.13%20-%20Pressem%C3%B8de%20i%20Statsministeriet%20uge%2011%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Pressemøde i Statsministeriet uge 9, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198284/4604553-audio.mp3</link>
+         <description>Radio24syvs dækning af Statsministerens ugentlige pressemøde.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198284/4604553-audio.mp3</guid>
+         <pubDate>Tue, 28 Feb 2012 12:30:00 +0000</pubDate>
+         <itunes:duration>00:31:16</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2012.02.28%20-%20Pressem%C3%B8de%20i%20Statsministeriet%20uge%209%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Pressemøde i Statsministeriet uge 8, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198285/4555229-audio.mp3</link>
+         <description>Helle Thorning-Schmidts pressemøde om bl.a. den københavnske betalingsring.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198285/4555229-audio.mp3</guid>
+         <pubDate>Tue, 21 Feb 2012 12:02:33 +0000</pubDate>
+         <itunes:duration>00:18:40</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politik_-_radio24syv/Politik%20%E2%80%93%20Radio24syv/2012.02.21%20-%20Pressem%C3%B8de%20i%20Statsministeriet%20uge%208%2C%202012.mp3" />
+      </item>
+   </channel>
 </rss>

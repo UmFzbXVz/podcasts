@@ -1,295 +1,129 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Rustur
-  </title>
-  <link>
-   https://loud.land/podcast/rustur
-  </link>
-  <description>
-   Mennesker og rusmidler har hørt sammen igennem flere tusinde år. Nogle bruger rusmidlerne for at komme i kontakt med de højere magter eller for at grave sig ind i deres allerdybeste indre. Andre tager dem for glemme verden omkring sig, eller for at kunne præstere bare lige lidt mere. Vi dykker ned i rusmidlernes kulturhistorie og ser nærmere på, hvorfor mennesker har brugt rusmidler gennem historien, og hvordan det trækker tråde til det liv, vi lever i dag.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4857751/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   History
-  </category>
-  <copyright>
-   Vores Tid &amp; LOUD
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg
-   </url>
-   <title>
-    Rustur
-   </title>
-   <link>
-    https://loud.land/podcast/rustur
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   Vores Tid &amp; LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg"/>
-  <itunes:subtitle>
-   Mennesker og rusmidler har hørt sammen igennem flere tusinde år, og vi dykker ned i rusmidlernes kulturhistorie.
-  </itunes:subtitle>
-  <itunes:summary>
-   Mennesker og rusmidler har hørt sammen igennem flere tusinde år. Nogle bruger rusmidlerne for at komme i kontakt med de højere magter eller for at grave sig ind i deres allerdybeste indre. Andre tager dem for glemme verden omkring sig, eller for at kunne præstere bare lige lidt mere. Vi dykker ned i rusmidlernes kulturhistorie og ser nærmere på, hvorfor mennesker har brugt rusmidler gennem historien, og hvordan det trækker tråde til det liv, vi lever i dag.
-  </itunes:summary>
-  <itunes:category text="History"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    5. Afhængighed: Dagen derpå
-   </title>
-   <link>
-    https://www.spreaker.com/episode/5-afhaengighed-dagen-derpa--44300034
-   </link>
-   <description>
-    I denne sidste episode af Rustur skal vi høre om dagen derpå. &lt;br /&gt;&lt;br /&gt;Om hvordan rusmidler gennem historien har gjort mennesker afhængige, hvordan vi behandlede alkoholikere med at smide dem i fangehullet – og hvordan det egentlig er at gøre op med sit kokainmisbrug. &lt;br /&gt;&lt;br /&gt;Medvirkende: Tidligere kokainmisbruger Kristoffer, rusmiddelforsker Morten Hesse.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44300034
-   </guid>
-   <pubDate>
-    Tue, 13 Apr 2021 04:00:04 +0000
-   </pubDate>
-   <enclosure length="26823410" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44300034/5_afhaengighed.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I denne sidste episode af Rustur skal vi høre om dagen derpå. 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Rustur</title>
+      <link>https://loud.land/podcast/rustur</link>
+      <description>Mennesker og rusmidler har hørt sammen igennem flere tusinde år. Nogle bruger rusmidlerne for at komme i kontakt med de højere magter eller for at grave sig ind i deres allerdybeste indre. Andre tager dem for glemme verden omkring sig, eller for at kunne præstere bare lige lidt mere. Vi dykker ned i rusmidlernes kulturhistorie og ser nærmere på, hvorfor mennesker har brugt rusmidler gennem historien, og hvordan det trækker tråde til det liv, vi lever i dag.</description>
+      <atom:link href="https://www.spreaker.com/show/4857751/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>History</category>
+      <copyright>Vores Tid &amp; LOUD</copyright>
+      <image>
+         <url>https://archive.org/download/rustur/Rustur/c468b54e6eeaa99583413e0549a40665.jpg</url>
+         <title>Rustur</title>
+         <link>https://loud.land/podcast/rustur</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg" />
+      <itunes:subtitle>Mennesker og rusmidler har hørt sammen igennem flere tusinde år, og vi dykker ned i rusmidlernes kulturhistorie.</itunes:subtitle>
+      <itunes:summary>Mennesker og rusmidler har hørt sammen igennem flere tusinde år. Nogle bruger rusmidlerne for at komme i kontakt med de højere magter eller for at grave sig ind i deres allerdybeste indre. Andre tager dem for glemme verden omkring sig, eller for at kunne præstere bare lige lidt mere. Vi dykker ned i rusmidlernes kulturhistorie og ser nærmere på, hvorfor mennesker har brugt rusmidler gennem historien, og hvordan det trækker tråde til det liv, vi lever i dag.</itunes:summary>
+      <itunes:category text="History" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>5. Afhængighed: Dagen derpå</title>
+         <link>https://www.spreaker.com/episode/5-afhaengighed-dagen-derpa--44300034</link>
+         <description>I denne sidste episode af Rustur skal vi høre om dagen derpå. &lt;br /&gt;&lt;br /&gt;Om hvordan rusmidler gennem historien har gjort mennesker afhængige, hvordan vi behandlede alkoholikere med at smide dem i fangehullet – og hvordan det egentlig er at gøre op med sit kokainmisbrug. &lt;br /&gt;&lt;br /&gt;Medvirkende: Tidligere kokainmisbruger Kristoffer, rusmiddelforsker Morten Hesse.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44300034</guid>
+         <pubDate>Tue, 13 Apr 2021 04:00:04 +0000</pubDate>
+         <enclosure length="26823410" type="audio/mpeg" url="https://archive.org/download/rustur/Rustur/2021.04.13%20-%205.%20Afh%C3%A6ngighed.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>I denne sidste episode af Rustur skal vi høre om dagen derpå. 
 
-Om hvordan rusmidler gennem historien har gjort mennesker afhængige, hvordan vi behandlede alkoholikere med at smide dem i fangehullet – og hvordan det egentlig er at gøre op med sit...
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne sidste episode af Rustur skal vi høre om dagen derpå. &lt;br /&gt;&lt;br /&gt;Om hvordan rusmidler gennem historien har gjort mennesker afhængige, hvordan vi behandlede alkoholikere med at smide dem i fangehullet – og hvordan det egentlig er at gøre op med sit kokainmisbrug. &lt;br /&gt;&lt;br /&gt;Medvirkende: Tidligere kokainmisbruger Kristoffer, rusmiddelforsker Morten Hesse.
-   </itunes:summary>
-   <itunes:duration>
-    1673
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    4. Tobak: Den hellige røg
-   </title>
-   <link>
-    https://www.spreaker.com/episode/4-tobak-den-hellige-rog--44300025
-   </link>
-   <description>
-    På dagens Rustur skal vi høre om dengang, tobakken var en hellig plante. Dengang røgen kunne bruges til at skabe kontakt til guderne, og hvor der igen blev fred, når fjender røg en pibe tobak sammen.&lt;br /&gt;&lt;br /&gt;I dag er det lige modsat. Nu gør tobakken os syge, og rygere føler næsten ikke, at der er plads til dem længere. Det er som om, at røgen er blevet giftig. &lt;br /&gt;&lt;br /&gt;Medvirkende: Piberygerformand Peter Lau, rusmiddelforsker Morten Hesse, antropolog og arkæolog Inge Schjellerup.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44300025
-   </guid>
-   <pubDate>
-    Mon, 12 Apr 2021 08:35:10 +0000
-   </pubDate>
-   <enclosure length="33492664" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44300025/4_tobak.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    På dagens Rustur skal vi høre om dengang, tobakken var en hellig plante. Dengang røgen kunne bruges til at skabe kontakt til guderne, og hvor der igen blev fred, når fjender røg en pibe tobak sammen.
+Om hvordan rusmidler gennem historien har gjort mennesker afhængige, hvordan vi behandlede alkoholikere med at smide dem i fangehullet – og hvordan det egentlig er at gøre op med sit...</itunes:subtitle>
+         <itunes:summary>I denne sidste episode af Rustur skal vi høre om dagen derpå. &lt;br /&gt;&lt;br /&gt;Om hvordan rusmidler gennem historien har gjort mennesker afhængige, hvordan vi behandlede alkoholikere med at smide dem i fangehullet – og hvordan det egentlig er at gøre op med sit kokainmisbrug. &lt;br /&gt;&lt;br /&gt;Medvirkende: Tidligere kokainmisbruger Kristoffer, rusmiddelforsker Morten Hesse.</itunes:summary>
+         <itunes:duration>1673</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>4. Tobak: Den hellige røg</title>
+         <link>https://www.spreaker.com/episode/4-tobak-den-hellige-rog--44300025</link>
+         <description>På dagens Rustur skal vi høre om dengang, tobakken var en hellig plante. Dengang røgen kunne bruges til at skabe kontakt til guderne, og hvor der igen blev fred, når fjender røg en pibe tobak sammen.&lt;br /&gt;&lt;br /&gt;I dag er det lige modsat. Nu gør tobakken os syge, og rygere føler næsten ikke, at der er plads til dem længere. Det er som om, at røgen er blevet giftig. &lt;br /&gt;&lt;br /&gt;Medvirkende: Piberygerformand Peter Lau, rusmiddelforsker Morten Hesse, antropolog og arkæolog Inge Schjellerup.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44300025</guid>
+         <pubDate>Mon, 12 Apr 2021 08:35:10 +0000</pubDate>
+         <enclosure length="33492664" type="audio/mpeg" url="https://archive.org/download/rustur/Rustur/2021.04.12%20-%204.%20Tobak.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>På dagens Rustur skal vi høre om dengang, tobakken var en hellig plante. Dengang røgen kunne bruges til at skabe kontakt til guderne, og hvor der igen blev fred, når fjender røg en pibe tobak sammen.
 
-I dag er det lige modsat. Nu gør tobakken os syge,...
-   </itunes:subtitle>
-   <itunes:summary>
-    På dagens Rustur skal vi høre om dengang, tobakken var en hellig plante. Dengang røgen kunne bruges til at skabe kontakt til guderne, og hvor der igen blev fred, når fjender røg en pibe tobak sammen.&lt;br /&gt;&lt;br /&gt;I dag er det lige modsat. Nu gør tobakken os syge, og rygere føler næsten ikke, at der er plads til dem længere. Det er som om, at røgen er blevet giftig. &lt;br /&gt;&lt;br /&gt;Medvirkende: Piberygerformand Peter Lau, rusmiddelforsker Morten Hesse, antropolog og arkæolog Inge Schjellerup.
-   </itunes:summary>
-   <itunes:duration>
-    1675
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    3. Sløvende: Den søde bedøvelse
-   </title>
-   <link>
-    https://www.spreaker.com/episode/3-slovende-den-sode-bedovelse--44300012
-   </link>
-   <description>
-    Det handler om den søde rus, der får dig til at dykke langt ned i sofaen, eller giver dig varme, røde kinder, mens verden omkring dig langsomt bliver utydelig.&lt;br /&gt;&lt;br /&gt;Denne gang hører vi om Odysseens opiumsspisere, om cannabissens lyksaligheder – og om dengang, der var gemt øl bag bøgerne på Nationalmuseet. &lt;br /&gt;&lt;br /&gt;Medvirkende: Studerende Laura Krogh- Hansen, rusmiddelforsker Morten Hesse, antropolog ogarkæolog Inge Schjellerup.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44300012
-   </guid>
-   <pubDate>
-    Mon, 12 Apr 2021 08:33:21 +0000
-   </pubDate>
-   <enclosure length="32579427" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44300012/3_sloevende.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Det handler om den søde rus, der får dig til at dykke langt ned i sofaen, eller giver dig varme, røde kinder, mens verden omkring dig langsomt bliver utydelig.
+I dag er det lige modsat. Nu gør tobakken os syge,...</itunes:subtitle>
+         <itunes:summary>På dagens Rustur skal vi høre om dengang, tobakken var en hellig plante. Dengang røgen kunne bruges til at skabe kontakt til guderne, og hvor der igen blev fred, når fjender røg en pibe tobak sammen.&lt;br /&gt;&lt;br /&gt;I dag er det lige modsat. Nu gør tobakken os syge, og rygere føler næsten ikke, at der er plads til dem længere. Det er som om, at røgen er blevet giftig. &lt;br /&gt;&lt;br /&gt;Medvirkende: Piberygerformand Peter Lau, rusmiddelforsker Morten Hesse, antropolog og arkæolog Inge Schjellerup.</itunes:summary>
+         <itunes:duration>1675</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>3. Sløvende: Den søde bedøvelse</title>
+         <link>https://www.spreaker.com/episode/3-slovende-den-sode-bedovelse--44300012</link>
+         <description>Det handler om den søde rus, der får dig til at dykke langt ned i sofaen, eller giver dig varme, røde kinder, mens verden omkring dig langsomt bliver utydelig.&lt;br /&gt;&lt;br /&gt;Denne gang hører vi om Odysseens opiumsspisere, om cannabissens lyksaligheder – og om dengang, der var gemt øl bag bøgerne på Nationalmuseet. &lt;br /&gt;&lt;br /&gt;Medvirkende: Studerende Laura Krogh- Hansen, rusmiddelforsker Morten Hesse, antropolog ogarkæolog Inge Schjellerup.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44300012</guid>
+         <pubDate>Mon, 12 Apr 2021 08:33:21 +0000</pubDate>
+         <enclosure length="32579427" type="audio/mpeg" url="https://archive.org/download/rustur/Rustur/2021.04.12%20-%203.%20Sl%C3%B8vende.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>Det handler om den søde rus, der får dig til at dykke langt ned i sofaen, eller giver dig varme, røde kinder, mens verden omkring dig langsomt bliver utydelig.
 
-Denne gang hører vi om Odysseens opiumsspisere, om cannabissens lyksaligheder – og om...
-   </itunes:subtitle>
-   <itunes:summary>
-    Det handler om den søde rus, der får dig til at dykke langt ned i sofaen, eller giver dig varme, røde kinder, mens verden omkring dig langsomt bliver utydelig.&lt;br /&gt;&lt;br /&gt;Denne gang hører vi om Odysseens opiumsspisere, om cannabissens lyksaligheder – og om dengang, der var gemt øl bag bøgerne på Nationalmuseet. &lt;br /&gt;&lt;br /&gt;Medvirkende: Studerende Laura Krogh- Hansen, rusmiddelforsker Morten Hesse, antropolog ogarkæolog Inge Schjellerup.
-   </itunes:summary>
-   <itunes:duration>
-    1629
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    2. Stimulerende stoffer: Det skal være vildere
-   </title>
-   <link>
-    https://www.spreaker.com/episode/2-stimulerende-stoffer-det-skal-vaere-vildere--44300003
-   </link>
-   <description>
-    Nogle bruger det for at kunne feste hele natten, andre for at kunne arbejde i bjergene – eller for at holde en enorm timeløn på akkord. &lt;br /&gt;&lt;br /&gt;De stimulerende rusmidler som amfetamin, kokain og kokablade har altid været brugt til at kunne yde lidt mere end de andre.&lt;br /&gt;&lt;br /&gt;Vi hører blandt andet historien om de grønne blade, der holdt inkaerne vågne i bjergene, og som i dag stadig er en vigtig del af Perus kultur. &lt;br /&gt;&lt;br /&gt;Medvirkende: Rusmiddelforsker Morten Hesse, Antropolog og arkæolog Inge Schjellerup.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44300003
-   </guid>
-   <pubDate>
-    Mon, 12 Apr 2021 08:32:00 +0000
-   </pubDate>
-   <enclosure length="26467309" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44300003/2_stimulerendestoffer.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Nogle bruger det for at kunne feste hele natten, andre for at kunne arbejde i bjergene – eller for at holde en enorm timeløn på akkord. 
+Denne gang hører vi om Odysseens opiumsspisere, om cannabissens lyksaligheder – og om...</itunes:subtitle>
+         <itunes:summary>Det handler om den søde rus, der får dig til at dykke langt ned i sofaen, eller giver dig varme, røde kinder, mens verden omkring dig langsomt bliver utydelig.&lt;br /&gt;&lt;br /&gt;Denne gang hører vi om Odysseens opiumsspisere, om cannabissens lyksaligheder – og om dengang, der var gemt øl bag bøgerne på Nationalmuseet. &lt;br /&gt;&lt;br /&gt;Medvirkende: Studerende Laura Krogh- Hansen, rusmiddelforsker Morten Hesse, antropolog ogarkæolog Inge Schjellerup.</itunes:summary>
+         <itunes:duration>1629</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>2. Stimulerende stoffer: Det skal være vildere</title>
+         <link>https://www.spreaker.com/episode/2-stimulerende-stoffer-det-skal-vaere-vildere--44300003</link>
+         <description>Nogle bruger det for at kunne feste hele natten, andre for at kunne arbejde i bjergene – eller for at holde en enorm timeløn på akkord. &lt;br /&gt;&lt;br /&gt;De stimulerende rusmidler som amfetamin, kokain og kokablade har altid været brugt til at kunne yde lidt mere end de andre.&lt;br /&gt;&lt;br /&gt;Vi hører blandt andet historien om de grønne blade, der holdt inkaerne vågne i bjergene, og som i dag stadig er en vigtig del af Perus kultur. &lt;br /&gt;&lt;br /&gt;Medvirkende: Rusmiddelforsker Morten Hesse, Antropolog og arkæolog Inge Schjellerup.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44300003</guid>
+         <pubDate>Mon, 12 Apr 2021 08:32:00 +0000</pubDate>
+         <enclosure length="26467309" type="audio/mpeg" url="https://archive.org/download/rustur/Rustur/2021.04.12%20-%202.%20Stimulerende%20stoffer.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>Nogle bruger det for at kunne feste hele natten, andre for at kunne arbejde i bjergene – eller for at holde en enorm timeløn på akkord. 
 
-De stimulerende rusmidler som amfetamin, kokain og kokablade har altid været brugt til at kunne yde lidt mere end...
-   </itunes:subtitle>
-   <itunes:summary>
-    Nogle bruger det for at kunne feste hele natten, andre for at kunne arbejde i bjergene – eller for at holde en enorm timeløn på akkord. &lt;br /&gt;&lt;br /&gt;De stimulerende rusmidler som amfetamin, kokain og kokablade har altid været brugt til at kunne yde lidt mere end de andre.&lt;br /&gt;&lt;br /&gt;Vi hører blandt andet historien om de grønne blade, der holdt inkaerne vågne i bjergene, og som i dag stadig er en vigtig del af Perus kultur. &lt;br /&gt;&lt;br /&gt;Medvirkende: Rusmiddelforsker Morten Hesse, Antropolog og arkæolog Inge Schjellerup.
-   </itunes:summary>
-   <itunes:duration>
-    1651
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    1. Hallucinogener: Kontakten til ånderne
-   </title>
-   <link>
-    https://www.spreaker.com/episode/1-hallucinogener-kontakten-til-anderne--44299994
-   </link>
-   <description>
-    Det er ikke nødvendigvis behageligt at dykke ind i sig selv og se, hvad der gemmer sig i mørket. Men både regnskovens shamaner og sjælesøgere i Nordvestsjælland bruger rusmidler til at kigge indad og komme i kontakt med noget meget større.&lt;br /&gt;&lt;br /&gt;Denne episode af Rustur handler om at blive til en jaguar på ayahuasca, at kunne tale med svampene og at åbne døren til det ukendte. &lt;br /&gt;&lt;br /&gt;Medvirkende: Bruger af svampe og hallucinogener Fanny Brandt, rusmiddelforsker Morten Hesse, antropolog og arkæolog Inge Schjellerup.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44299994
-   </guid>
-   <pubDate>
-    Mon, 12 Apr 2021 08:30:50 +0000
-   </pubDate>
-   <enclosure length="27143149" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44299994/1_hallucinogener.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Det er ikke nødvendigvis behageligt at dykke ind i sig selv og se, hvad der gemmer sig i mørket. Men både regnskovens shamaner og sjælesøgere i Nordvestsjælland bruger rusmidler til at kigge indad og komme i kontakt med noget meget større.
+De stimulerende rusmidler som amfetamin, kokain og kokablade har altid været brugt til at kunne yde lidt mere end...</itunes:subtitle>
+         <itunes:summary>Nogle bruger det for at kunne feste hele natten, andre for at kunne arbejde i bjergene – eller for at holde en enorm timeløn på akkord. &lt;br /&gt;&lt;br /&gt;De stimulerende rusmidler som amfetamin, kokain og kokablade har altid været brugt til at kunne yde lidt mere end de andre.&lt;br /&gt;&lt;br /&gt;Vi hører blandt andet historien om de grønne blade, der holdt inkaerne vågne i bjergene, og som i dag stadig er en vigtig del af Perus kultur. &lt;br /&gt;&lt;br /&gt;Medvirkende: Rusmiddelforsker Morten Hesse, Antropolog og arkæolog Inge Schjellerup.</itunes:summary>
+         <itunes:duration>1651</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>1. Hallucinogener: Kontakten til ånderne</title>
+         <link>https://www.spreaker.com/episode/1-hallucinogener-kontakten-til-anderne--44299994</link>
+         <description>Det er ikke nødvendigvis behageligt at dykke ind i sig selv og se, hvad der gemmer sig i mørket. Men både regnskovens shamaner og sjælesøgere i Nordvestsjælland bruger rusmidler til at kigge indad og komme i kontakt med noget meget større.&lt;br /&gt;&lt;br /&gt;Denne episode af Rustur handler om at blive til en jaguar på ayahuasca, at kunne tale med svampene og at åbne døren til det ukendte. &lt;br /&gt;&lt;br /&gt;Medvirkende: Bruger af svampe og hallucinogener Fanny Brandt, rusmiddelforsker Morten Hesse, antropolog og arkæolog Inge Schjellerup.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44299994</guid>
+         <pubDate>Mon, 12 Apr 2021 08:30:50 +0000</pubDate>
+         <enclosure length="27143149" type="audio/mpeg" url="https://archive.org/download/rustur/Rustur/2021.04.12%20-%201.%20Hallucinogener.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>Det er ikke nødvendigvis behageligt at dykke ind i sig selv og se, hvad der gemmer sig i mørket. Men både regnskovens shamaner og sjælesøgere i Nordvestsjælland bruger rusmidler til at kigge indad og komme i kontakt med noget meget større.
 
-Denne...
-   </itunes:subtitle>
-   <itunes:summary>
-    Det er ikke nødvendigvis behageligt at dykke ind i sig selv og se, hvad der gemmer sig i mørket. Men både regnskovens shamaner og sjælesøgere i Nordvestsjælland bruger rusmidler til at kigge indad og komme i kontakt med noget meget større.&lt;br /&gt;&lt;br /&gt;Denne episode af Rustur handler om at blive til en jaguar på ayahuasca, at kunne tale med svampene og at åbne døren til det ukendte. &lt;br /&gt;&lt;br /&gt;Medvirkende: Bruger af svampe og hallucinogener Fanny Brandt, rusmiddelforsker Morten Hesse, antropolog og arkæolog Inge Schjellerup.
-   </itunes:summary>
-   <itunes:duration>
-    1693
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Teaser: Rustur
-   </title>
-   <link>
-    https://www.spreaker.com/episode/teaser-rustur--44113627
-   </link>
-   <description>
-    Mennesker og rusmidler har hørt sammen igennem flere tusinde år, og vi dykker ned i rusmidlernes kulturhistorie.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44113627
-   </guid>
-   <pubDate>
-    Tue, 30 Mar 2021 11:52:23 +0000
-   </pubDate>
-   <enclosure length="1371741" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44113627/rustur_teaser.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Mennesker og rusmidler har hørt sammen igennem flere tusinde år, og vi dykker ned i rusmidlernes kulturhistorie.
-   </itunes:subtitle>
-   <itunes:summary>
-    Mennesker og rusmidler har hørt sammen igennem flere tusinde år, og vi dykker ned i rusmidlernes kulturhistorie.
-   </itunes:summary>
-   <itunes:duration>
-    86
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg"/>
-   <itunes:episodeType>
-    trailer
-   </itunes:episodeType>
-  </item>
- </channel>
+Denne...</itunes:subtitle>
+         <itunes:summary>Det er ikke nødvendigvis behageligt at dykke ind i sig selv og se, hvad der gemmer sig i mørket. Men både regnskovens shamaner og sjælesøgere i Nordvestsjælland bruger rusmidler til at kigge indad og komme i kontakt med noget meget større.&lt;br /&gt;&lt;br /&gt;Denne episode af Rustur handler om at blive til en jaguar på ayahuasca, at kunne tale med svampene og at åbne døren til det ukendte. &lt;br /&gt;&lt;br /&gt;Medvirkende: Bruger af svampe og hallucinogener Fanny Brandt, rusmiddelforsker Morten Hesse, antropolog og arkæolog Inge Schjellerup.</itunes:summary>
+         <itunes:duration>1693</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Teaser: Rustur</title>
+         <link>https://www.spreaker.com/episode/teaser-rustur--44113627</link>
+         <description>Mennesker og rusmidler har hørt sammen igennem flere tusinde år, og vi dykker ned i rusmidlernes kulturhistorie.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44113627</guid>
+         <pubDate>Tue, 30 Mar 2021 11:52:23 +0000</pubDate>
+         <enclosure length="1371741" type="audio/mpeg" url="https://archive.org/download/rustur/Rustur/2021.03.30%20-%20Teaser.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>Mennesker og rusmidler har hørt sammen igennem flere tusinde år, og vi dykker ned i rusmidlernes kulturhistorie.</itunes:subtitle>
+         <itunes:summary>Mennesker og rusmidler har hørt sammen igennem flere tusinde år, og vi dykker ned i rusmidlernes kulturhistorie.</itunes:summary>
+         <itunes:duration>86</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c468b54e6eeaa99583413e0549a40665.jpg" />
+         <itunes:episodeType>trailer</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

@@ -1,432 +1,190 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   POP Den Op
-  </title>
-  <link>
-   https://www.spreaker.com/podcast/pop-den-op--5947736
-  </link>
-  <description>
-   POP DEN OP tager fat i alt det vi snakker om i POPkulturen. Musik, trends, serier og alt det midt i mellem. Intet POP-fænomen er for stort til at gå i dybden med.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5947736/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Entertainment News
-  </category>
-  <copyright>
-   Copyright 24syv
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg
-   </url>
-   <title>
-    POP Den Op
-   </title>
-   <link>
-    https://www.spreaker.com/podcast/pop-den-op--5947736
-   </link>
-  </image>
-  <lastBuildDate>
-   Fri, 26 Jan 2024 12:51:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   24syv
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    24syv
-   </itunes:name>
-   <itunes:email>
-    podcast@24syv.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg"/>
-  <itunes:subtitle>
-   POP DEN OP tager fat i alt det vi snakker om i POPkulturen. Musik, trends, serier og alt det midt i mellem. Intet POP-fænomen er for stort til at gå i dybden med.
-  </itunes:subtitle>
-  <itunes:summary>
-   POP DEN OP tager fat i alt det vi snakker om i POPkulturen. Musik, trends, serier og alt det midt i mellem. Intet POP-fænomen er for stort til at gå i dybden med.
-  </itunes:summary>
-  <itunes:category text="News">
-   <itunes:category text="Entertainment News"/>
-  </itunes:category>
-  <itunes:category text="Music"/>
-  <itunes:category text="TV &amp; Film"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    29 nye navne på Roskilde Festival
-   </title>
-   <link>
-    https://www.spreaker.com/episode/29-nye-navne-paa-roskilde-festival--58455607
-   </link>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/58455607
-   </guid>
-   <pubDate>
-    Fri, 26 Jan 2024 12:50:34 +0000
-   </pubDate>
-   <enclosure length="26492804" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58455607/roskilde_29_nye_navne.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:duration>
-    1656
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Jungle kommer til byen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/jungle-kommer-til-byen--57579947
-   </link>
-   <description>
-    Det britiske band Jungle kommer til København. De skal spille d. 10. og 11. november i KB Hallen.&lt;br /&gt;Jungle kom for alvor på alles læber i 2014 med kæmpe hittet Busy Earnin' og er siden udkommet med fire albums - Jungle, For Ever, Loving in Stereo og Volcano. Din vært Aleksander Bruun laver en selektiv gennemgang, og prøver at gøre dig og ham selv klar til de længe ventede koncerter.&lt;br /&gt;&lt;br /&gt;(Live udsendelse d. 6. nov)&lt;br /&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57579947
-   </guid>
-   <pubDate>
-    Thu, 09 Nov 2023 15:56:31 +0000
-   </pubDate>
-   <enclosure length="52320404" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57579947/jungle.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Det britiske band Jungle kommer til København. De skal spille d. 10. og 11. november i KB Hallen.
-Jungle kom for alvor på alles læber i 2014 med kæmpe hittet Busy Earnin' og er siden udkommet med fire albums - Jungle, For Ever, Loving in Stereo og...
-   </itunes:subtitle>
-   <itunes:summary>
-    Det britiske band Jungle kommer til København. De skal spille d. 10. og 11. november i KB Hallen.&lt;br /&gt;Jungle kom for alvor på alles læber i 2014 med kæmpe hittet Busy Earnin' og er siden udkommet med fire albums - Jungle, For Ever, Loving in Stereo og Volcano. Din vært Aleksander Bruun laver en selektiv gennemgang, og prøver at gøre dig og ham selv klar til de længe ventede koncerter.&lt;br /&gt;&lt;br /&gt;(Live udsendelse d. 6. nov)&lt;br /&gt;
-   </itunes:summary>
-   <itunes:duration>
-    3270
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hvordan kommer vi gennem efteråret?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hvordan-kommer-vi-gennem-efteraaret--57320436
-   </link>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57320436
-   </guid>
-   <pubDate>
-    Fri, 20 Oct 2023 13:51:51 +0000
-   </pubDate>
-   <enclosure length="81604774" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57320436/eftera_r.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:duration>
-    5101
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kan Olivia Rodrigo gøre det igen?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kan-olivia-rodrigo-goere-det-igen--56844007
-   </link>
-   <description>
-    Et begreb som ’kometkarriere’ er blevet brugt i mange sammenhænge i popkulturen, men det er som om, at det aldrig har passet bedre på en musiker som Olivia Rodrigo. Hun udkom med sit første album ’Sour’ tilbage i 2021 hvor hun lagde hele verden ned med hits som Driver licens, Good 4 U og Traitor.   Derfor er vi også mange som utålmodigt og spændt har ventet på ny musik fra hende, og nu er det altså endelig kommet – for efter to års ventetid er Olivia Rodrigo nu endelig ude med det nye album ’Guts’ – og med et nyt album, kommer der også en masse forventninger – SÅ - Kan Olivia Rodrigo leve op til den store hype der er kommet omkring hende og hvad er det egentlig for et album som Olivia Rodrigo har givet os?&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Julie Rahbek - Radiovært&lt;br /&gt;Anton Nørvæk - Musikanmelder&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Aleksander Bruun
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56844007
-   </guid>
-   <pubDate>
-    Mon, 18 Sep 2023 16:53:22 +0000
-   </pubDate>
-   <enclosure length="70584702" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56844007/oliviarodrigo.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Et begreb som ’kometkarriere’ er blevet brugt i mange sammenhænge i popkulturen, men det er som om, at det aldrig har passet bedre på en musiker som Olivia Rodrigo. Hun udkom med sit første album ’Sour’ tilbage i 2021 hvor hun lagde hele verden ned...
-   </itunes:subtitle>
-   <itunes:summary>
-    Et begreb som ’kometkarriere’ er blevet brugt i mange sammenhænge i popkulturen, men det er som om, at det aldrig har passet bedre på en musiker som Olivia Rodrigo. Hun udkom med sit første album ’Sour’ tilbage i 2021 hvor hun lagde hele verden ned med hits som Driver licens, Good 4 U og Traitor.   Derfor er vi også mange som utålmodigt og spændt har ventet på ny musik fra hende, og nu er det altså endelig kommet – for efter to års ventetid er Olivia Rodrigo nu endelig ude med det nye album ’Guts’ – og med et nyt album, kommer der også en masse forventninger – SÅ - Kan Olivia Rodrigo leve op til den store hype der er kommet omkring hende og hvad er det egentlig for et album som Olivia Rodrigo har givet os?&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Julie Rahbek - Radiovært&lt;br /&gt;Anton Nørvæk - Musikanmelder&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Aleksander Bruun
-   </itunes:summary>
-   <itunes:duration>
-    4412
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kan jeg blive Taylor Swift fan?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kan-jeg-blive-taylor-swift-fan--56774423
-   </link>
-   <description>
-    Hun er en af de mest sælgende og streamede musikere nogensinde. Hun har gang i kæmpe verdensturne, hvor alt bliver udsolgt og koncerter der kan måles på Richterskalaen - Hun gik fra at være Country-Girl til verdens største musiker lige nu. Men selvom hun er en af de allerstørste stjerner, så er det alligevel som om, at Taylor Swift skiller vandene verden over. POP DEN OP er på en mission. Kan Anna Laurtisen gøre Marie Hobitz til en Swiftie?&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Radiovært - Marie Hobitz, 12 % Swiftie &lt;br /&gt;Filmanmelder - Anna Lauritsen, 100 % Swiftie&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Aleksander Bruun
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56774423
-   </guid>
-   <pubDate>
-    Wed, 13 Sep 2023 05:45:02 +0000
-   </pubDate>
-   <enclosure length="143025065" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56774423/taylor_swift.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Hun er en af de mest sælgende og streamede musikere nogensinde. Hun har gang i kæmpe verdensturne, hvor alt bliver udsolgt og koncerter der kan måles på Richterskalaen - Hun gik fra at være Country-Girl til verdens største musiker lige nu. Men selvom...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hun er en af de mest sælgende og streamede musikere nogensinde. Hun har gang i kæmpe verdensturne, hvor alt bliver udsolgt og koncerter der kan måles på Richterskalaen - Hun gik fra at være Country-Girl til verdens største musiker lige nu. Men selvom hun er en af de allerstørste stjerner, så er det alligevel som om, at Taylor Swift skiller vandene verden over. POP DEN OP er på en mission. Kan Anna Laurtisen gøre Marie Hobitz til en Swiftie?&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Radiovært - Marie Hobitz, 12 % Swiftie &lt;br /&gt;Filmanmelder - Anna Lauritsen, 100 % Swiftie&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Aleksander Bruun
-   </itunes:summary>
-   <itunes:duration>
-    8940
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Debrief af festivalsæsonen 2023
-   </title>
-   <link>
-    https://www.spreaker.com/episode/debrief-af-festivalsaesonen-2023--56736486
-   </link>
-   <description>
-    Sommeren er forbi og det betyder også, at festivalsæsonen er ovre. Derfor gennemgår vi alle de fantastiske og måske mindre gode festival-oplevelser vi har haft henover sommeren. Med andre ord - dette er den debrief af festivalsæsonen du har ventet på.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Nicoline Ulrichs Olsen - Radiovært&lt;br /&gt;Alfred Hestbech - Booker og Manager &lt;br /&gt;Jonas Foldager - Radiovært &lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Aleksander Bruun
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56736486
-   </guid>
-   <pubDate>
-    Fri, 08 Sep 2023 14:36:38 +0000
-   </pubDate>
-   <enclosure length="94322451" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56736486/festivaldebrief.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Sommeren er forbi og det betyder også, at festivalsæsonen er ovre. Derfor gennemgår vi alle de fantastiske og måske mindre gode festival-oplevelser vi har haft henover sommeren. Med andre ord - dette er den debrief af festivalsæsonen du har ventet på....
-   </itunes:subtitle>
-   <itunes:summary>
-    Sommeren er forbi og det betyder også, at festivalsæsonen er ovre. Derfor gennemgår vi alle de fantastiske og måske mindre gode festival-oplevelser vi har haft henover sommeren. Med andre ord - dette er den debrief af festivalsæsonen du har ventet på.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Nicoline Ulrichs Olsen - Radiovært&lt;br /&gt;Alfred Hestbech - Booker og Manager &lt;br /&gt;Jonas Foldager - Radiovært &lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Aleksander Bruun
-   </itunes:summary>
-   <itunes:duration>
-    5896
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Den danske hiphop-scene lige nu og her
-   </title>
-   <link>
-    https://www.spreaker.com/episode/den-danske-hiphop-scene-lige-nu-og-her--56736098
-   </link>
-   <description>
-    Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Tais Holm: Musikanmelder på De Sorte Plader&lt;br /&gt;Anton Nørbæk: Musikanmelder, alias Badboitonton&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56736098
-   </guid>
-   <pubDate>
-    Fri, 08 Sep 2023 14:21:15 +0000
-   </pubDate>
-   <enclosure length="103349647" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56736098/danskrap.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>POP Den Op</title>
+      <link>https://www.spreaker.com/podcast/pop-den-op--5947736</link>
+      <description>POP DEN OP tager fat i alt det vi snakker om i POPkulturen. Musik, trends, serier og alt det midt i mellem. Intet POP-fænomen er for stort til at gå i dybden med.</description>
+      <atom:link href="https://www.spreaker.com/show/5947736/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Entertainment News</category>
+      <copyright>Copyright 24syv</copyright>
+      <image>
+         <url>https://archive.org/download/pop_den_op/POP%20Den%20Op/8019169b708a83a8c22cf36234c83e03.jpg</url>
+         <title>POP Den Op</title>
+         <link>https://www.spreaker.com/podcast/pop-den-op--5947736</link>
+      </image>
+      <lastBuildDate>Fri, 26 Jan 2024 12:51:18 +0000</lastBuildDate>
+      <itunes:author>24syv</itunes:author>
+      <itunes:owner>
+         <itunes:name>24syv</itunes:name>
+         <itunes:email>podcast@24syv.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg" />
+      <itunes:subtitle>POP DEN OP tager fat i alt det vi snakker om i POPkulturen. Musik, trends, serier og alt det midt i mellem. Intet POP-fænomen er for stort til at gå i dybden med.</itunes:subtitle>
+      <itunes:summary>POP DEN OP tager fat i alt det vi snakker om i POPkulturen. Musik, trends, serier og alt det midt i mellem. Intet POP-fænomen er for stort til at gå i dybden med.</itunes:summary>
+      <itunes:category text="News">
+         <itunes:category text="Entertainment News" />
+      </itunes:category>
+      <itunes:category text="Music" />
+      <itunes:category text="TV &amp; Film" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>29 nye navne på Roskilde Festival</title>
+         <link>https://www.spreaker.com/episode/29-nye-navne-paa-roskilde-festival--58455607</link>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/58455607</guid>
+         <pubDate>Fri, 26 Jan 2024 12:50:34 +0000</pubDate>
+         <enclosure length="26492804" type="audio/mpeg" url="https://archive.org/download/pop_den_op/POP%20Den%20Op/2024.01.26%20-%2029%20nye%20navne%20p%C3%A5%20Roskilde%20Festival.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:duration>1656</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Jungle kommer til byen</title>
+         <link>https://www.spreaker.com/episode/jungle-kommer-til-byen--57579947</link>
+         <description>Det britiske band Jungle kommer til København. De skal spille d. 10. og 11. november i KB Hallen.&lt;br /&gt;Jungle kom for alvor på alles læber i 2014 med kæmpe hittet Busy Earnin' og er siden udkommet med fire albums - Jungle, For Ever, Loving in Stereo og Volcano. Din vært Aleksander Bruun laver en selektiv gennemgang, og prøver at gøre dig og ham selv klar til de længe ventede koncerter.&lt;br /&gt;&lt;br /&gt;(Live udsendelse d. 6. nov)&lt;br /&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57579947</guid>
+         <pubDate>Thu, 09 Nov 2023 15:56:31 +0000</pubDate>
+         <enclosure length="52320404" type="audio/mpeg" url="https://archive.org/download/pop_den_op/POP%20Den%20Op/2023.11.09%20-%20Jungle%20kommer%20til%20byen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Det britiske band Jungle kommer til København. De skal spille d. 10. og 11. november i KB Hallen.
+Jungle kom for alvor på alles læber i 2014 med kæmpe hittet Busy Earnin' og er siden udkommet med fire albums - Jungle, For Ever, Loving in Stereo og...</itunes:subtitle>
+         <itunes:summary>Det britiske band Jungle kommer til København. De skal spille d. 10. og 11. november i KB Hallen.&lt;br /&gt;Jungle kom for alvor på alles læber i 2014 med kæmpe hittet Busy Earnin' og er siden udkommet med fire albums - Jungle, For Ever, Loving in Stereo og Volcano. Din vært Aleksander Bruun laver en selektiv gennemgang, og prøver at gøre dig og ham selv klar til de længe ventede koncerter.&lt;br /&gt;&lt;br /&gt;(Live udsendelse d. 6. nov)&lt;br /&gt;</itunes:summary>
+         <itunes:duration>3270</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hvordan kommer vi gennem efteråret?</title>
+         <link>https://www.spreaker.com/episode/hvordan-kommer-vi-gennem-efteraaret--57320436</link>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57320436</guid>
+         <pubDate>Fri, 20 Oct 2023 13:51:51 +0000</pubDate>
+         <enclosure length="81604774" type="audio/mpeg" url="https://archive.org/download/pop_den_op/POP%20Den%20Op/2023.10.20%20-%20Hvordan%20kommer%20vi%20gennem%20efter%C3%A5ret.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:duration>5101</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kan Olivia Rodrigo gøre det igen?</title>
+         <link>https://www.spreaker.com/episode/kan-olivia-rodrigo-goere-det-igen--56844007</link>
+         <description>Et begreb som ’kometkarriere’ er blevet brugt i mange sammenhænge i popkulturen, men det er som om, at det aldrig har passet bedre på en musiker som Olivia Rodrigo. Hun udkom med sit første album ’Sour’ tilbage i 2021 hvor hun lagde hele verden ned med hits som Driver licens, Good 4 U og Traitor.   Derfor er vi også mange som utålmodigt og spændt har ventet på ny musik fra hende, og nu er det altså endelig kommet – for efter to års ventetid er Olivia Rodrigo nu endelig ude med det nye album ’Guts’ – og med et nyt album, kommer der også en masse forventninger – SÅ - Kan Olivia Rodrigo leve op til den store hype der er kommet omkring hende og hvad er det egentlig for et album som Olivia Rodrigo har givet os?&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Julie Rahbek - Radiovært&lt;br /&gt;Anton Nørvæk - Musikanmelder&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Aleksander Bruun</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56844007</guid>
+         <pubDate>Mon, 18 Sep 2023 16:53:22 +0000</pubDate>
+         <enclosure length="70584702" type="audio/mpeg" url="https://archive.org/download/pop_den_op/POP%20Den%20Op/2023.09.18%20-%20Kan%20Olivia%20Rodrigo%20g%C3%B8re%20det%20igen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Et begreb som ’kometkarriere’ er blevet brugt i mange sammenhænge i popkulturen, men det er som om, at det aldrig har passet bedre på en musiker som Olivia Rodrigo. Hun udkom med sit første album ’Sour’ tilbage i 2021 hvor hun lagde hele verden ned...</itunes:subtitle>
+         <itunes:summary>Et begreb som ’kometkarriere’ er blevet brugt i mange sammenhænge i popkulturen, men det er som om, at det aldrig har passet bedre på en musiker som Olivia Rodrigo. Hun udkom med sit første album ’Sour’ tilbage i 2021 hvor hun lagde hele verden ned med hits som Driver licens, Good 4 U og Traitor.   Derfor er vi også mange som utålmodigt og spændt har ventet på ny musik fra hende, og nu er det altså endelig kommet – for efter to års ventetid er Olivia Rodrigo nu endelig ude med det nye album ’Guts’ – og med et nyt album, kommer der også en masse forventninger – SÅ - Kan Olivia Rodrigo leve op til den store hype der er kommet omkring hende og hvad er det egentlig for et album som Olivia Rodrigo har givet os?&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Julie Rahbek - Radiovært&lt;br /&gt;Anton Nørvæk - Musikanmelder&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Aleksander Bruun</itunes:summary>
+         <itunes:duration>4412</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kan jeg blive Taylor Swift fan?</title>
+         <link>https://www.spreaker.com/episode/kan-jeg-blive-taylor-swift-fan--56774423</link>
+         <description>Hun er en af de mest sælgende og streamede musikere nogensinde. Hun har gang i kæmpe verdensturne, hvor alt bliver udsolgt og koncerter der kan måles på Richterskalaen - Hun gik fra at være Country-Girl til verdens største musiker lige nu. Men selvom hun er en af de allerstørste stjerner, så er det alligevel som om, at Taylor Swift skiller vandene verden over. POP DEN OP er på en mission. Kan Anna Laurtisen gøre Marie Hobitz til en Swiftie?&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Radiovært - Marie Hobitz, 12 % Swiftie &lt;br /&gt;Filmanmelder - Anna Lauritsen, 100 % Swiftie&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Aleksander Bruun</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56774423</guid>
+         <pubDate>Wed, 13 Sep 2023 05:45:02 +0000</pubDate>
+         <enclosure length="143025065" type="audio/mpeg" url="https://archive.org/download/pop_den_op/POP%20Den%20Op/2023.09.13%20-%20Kan%20jeg%20blive%20Taylor%20Swift%20fan.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Hun er en af de mest sælgende og streamede musikere nogensinde. Hun har gang i kæmpe verdensturne, hvor alt bliver udsolgt og koncerter der kan måles på Richterskalaen - Hun gik fra at være Country-Girl til verdens største musiker lige nu. Men selvom...</itunes:subtitle>
+         <itunes:summary>Hun er en af de mest sælgende og streamede musikere nogensinde. Hun har gang i kæmpe verdensturne, hvor alt bliver udsolgt og koncerter der kan måles på Richterskalaen - Hun gik fra at være Country-Girl til verdens største musiker lige nu. Men selvom hun er en af de allerstørste stjerner, så er det alligevel som om, at Taylor Swift skiller vandene verden over. POP DEN OP er på en mission. Kan Anna Laurtisen gøre Marie Hobitz til en Swiftie?&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Radiovært - Marie Hobitz, 12 % Swiftie &lt;br /&gt;Filmanmelder - Anna Lauritsen, 100 % Swiftie&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Aleksander Bruun</itunes:summary>
+         <itunes:duration>8940</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Debrief af festivalsæsonen 2023</title>
+         <link>https://www.spreaker.com/episode/debrief-af-festivalsaesonen-2023--56736486</link>
+         <description>Sommeren er forbi og det betyder også, at festivalsæsonen er ovre. Derfor gennemgår vi alle de fantastiske og måske mindre gode festival-oplevelser vi har haft henover sommeren. Med andre ord - dette er den debrief af festivalsæsonen du har ventet på.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Nicoline Ulrichs Olsen - Radiovært&lt;br /&gt;Alfred Hestbech - Booker og Manager &lt;br /&gt;Jonas Foldager - Radiovært &lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Aleksander Bruun</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56736486</guid>
+         <pubDate>Fri, 08 Sep 2023 14:36:38 +0000</pubDate>
+         <enclosure length="94322451" type="audio/mpeg" url="https://archive.org/download/pop_den_op/POP%20Den%20Op/2023.09.08%20-%20Ukendt%20Kunstner%20er%20tilbage.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Sommeren er forbi og det betyder også, at festivalsæsonen er ovre. Derfor gennemgår vi alle de fantastiske og måske mindre gode festival-oplevelser vi har haft henover sommeren. Med andre ord - dette er den debrief af festivalsæsonen du har ventet på....</itunes:subtitle>
+         <itunes:summary>Sommeren er forbi og det betyder også, at festivalsæsonen er ovre. Derfor gennemgår vi alle de fantastiske og måske mindre gode festival-oplevelser vi har haft henover sommeren. Med andre ord - dette er den debrief af festivalsæsonen du har ventet på.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Nicoline Ulrichs Olsen - Radiovært&lt;br /&gt;Alfred Hestbech - Booker og Manager &lt;br /&gt;Jonas Foldager - Radiovært &lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Aleksander Bruun</itunes:summary>
+         <itunes:duration>5896</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Den danske hiphop-scene lige nu og her</title>
+         <link>https://www.spreaker.com/episode/den-danske-hiphop-scene-lige-nu-og-her--56736098</link>
+         <description>Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Tais Holm: Musikanmelder på De Sorte Plader&lt;br /&gt;Anton Nørbæk: Musikanmelder, alias Badboitonton&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56736098</guid>
+         <pubDate>Fri, 08 Sep 2023 14:21:15 +0000</pubDate>
+         <enclosure length="103349647" type="audio/mpeg" url="https://archive.org/download/pop_den_op/POP%20Den%20Op/2023.09.08%20-%20Roskilde%20Festival%2C%20hvad%20skal%20vi%20h%C3%B8re.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.
 
 Gæster:
 Tais Holm: Musikanmelder på De Sorte Plader
 Anton Nørbæk: Musikanmelder, alias Badboitonton
 
-Vært: Aleksander Bruun
-   </itunes:subtitle>
-   <itunes:summary>
-    Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Tais Holm: Musikanmelder på De Sorte Plader&lt;br /&gt;Anton Nørbæk: Musikanmelder, alias Badboitonton&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun
-   </itunes:summary>
-   <itunes:duration>
-    6460
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Roskilde Festival, hvad skal vi høre?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/roskilde-festival-hvad-skal-vi-hoere--56736087
-   </link>
-   <description>
-    Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;- Björk Brandt Aabling: Anmelder på Bands of Tomorrow og skribent på Sein Magasin&lt;br /&gt;- Nicoline Ulrichs Olsen: Radiovært The Voice, uddannet i Musikvidenskab med speciale i Christine and the queens og frivillig ved HUN SOLO&lt;br /&gt;- Teis Zacho: Radiovært på programmet Ørehænger, producer og sangsskriver&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56736087
-   </guid>
-   <pubDate>
-    Fri, 08 Sep 2023 14:20:07 +0000
-   </pubDate>
-   <enclosure length="144953127" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56736087/roskilde_special.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.
+Vært: Aleksander Bruun</itunes:subtitle>
+         <itunes:summary>Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Tais Holm: Musikanmelder på De Sorte Plader&lt;br /&gt;Anton Nørbæk: Musikanmelder, alias Badboitonton&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun</itunes:summary>
+         <itunes:duration>6460</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Roskilde Festival, hvad skal vi høre?</title>
+         <link>https://www.spreaker.com/episode/roskilde-festival-hvad-skal-vi-hoere--56736087</link>
+         <description>Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;- Björk Brandt Aabling: Anmelder på Bands of Tomorrow og skribent på Sein Magasin&lt;br /&gt;- Nicoline Ulrichs Olsen: Radiovært The Voice, uddannet i Musikvidenskab med speciale i Christine and the queens og frivillig ved HUN SOLO&lt;br /&gt;- Teis Zacho: Radiovært på programmet Ørehænger, producer og sangsskriver&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56736087</guid>
+         <pubDate>Fri, 08 Sep 2023 14:20:07 +0000</pubDate>
+         <enclosure length="144953127" type="audio/mpeg" url="https://archive.org/download/pop_den_op/POP%20Den%20Op/2023.09.08%20-%20Harry%20Styles%20er%20den%20moderne%20popstjerne.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.
 
-Gæster:...
-   </itunes:subtitle>
-   <itunes:summary>
-    Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;- Björk Brandt Aabling: Anmelder på Bands of Tomorrow og skribent på Sein Magasin&lt;br /&gt;- Nicoline Ulrichs Olsen: Radiovært The Voice, uddannet i Musikvidenskab med speciale i Christine and the queens og frivillig ved HUN SOLO&lt;br /&gt;- Teis Zacho: Radiovært på programmet Ørehænger, producer og sangsskriver&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun
-   </itunes:summary>
-   <itunes:duration>
-    9060
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Harry Styles er den moderne popstjerne
-   </title>
-   <link>
-    https://www.spreaker.com/episode/harry-styles-er-den-moderne-popstjerne--56736076
-   </link>
-   <description>
-    I denne episode hylder og nørder vi fænomenet Harry Styles. For hvordan blomstrede Harry Styles fra One Direction til at være det ikon han er i dag?&lt;br /&gt;&lt;br /&gt;Lyt med, når vi folder hans karriere ud fra begyndelsen og nørder hvordan Harry Styles er blevet alt det han er i dag. Vi gennemgår de tre soloplader, men også alt det udenom musikken. Harry Styles havde lige været i Danmark med sin Love On Tour og armene var stadig ikke kommet helt ned endnu - så ja, dette endte med at blive en vaskeægte fan-episode.&lt;br /&gt;&lt;br /&gt;Velkommen til en dag i Harry Styles' tegn.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Radiovært Karoline Haubek &lt;br /&gt;Radiovært Anne Lund&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Aleksander Bruun
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56736076
-   </guid>
-   <pubDate>
-    Fri, 08 Sep 2023 14:19:05 +0000
-   </pubDate>
-   <enclosure length="102853529" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56736076/harry_styles_i_fokus.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I denne episode hylder og nørder vi fænomenet Harry Styles. For hvordan blomstrede Harry Styles fra One Direction til at være det ikon han er i dag?
+Gæster:...</itunes:subtitle>
+         <itunes:summary>Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;- Björk Brandt Aabling: Anmelder på Bands of Tomorrow og skribent på Sein Magasin&lt;br /&gt;- Nicoline Ulrichs Olsen: Radiovært The Voice, uddannet i Musikvidenskab med speciale i Christine and the queens og frivillig ved HUN SOLO&lt;br /&gt;- Teis Zacho: Radiovært på programmet Ørehænger, producer og sangsskriver&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun</itunes:summary>
+         <itunes:duration>9060</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Harry Styles er den moderne popstjerne</title>
+         <link>https://www.spreaker.com/episode/harry-styles-er-den-moderne-popstjerne--56736076</link>
+         <description>I denne episode hylder og nørder vi fænomenet Harry Styles. For hvordan blomstrede Harry Styles fra One Direction til at være det ikon han er i dag?&lt;br /&gt;&lt;br /&gt;Lyt med, når vi folder hans karriere ud fra begyndelsen og nørder hvordan Harry Styles er blevet alt det han er i dag. Vi gennemgår de tre soloplader, men også alt det udenom musikken. Harry Styles havde lige været i Danmark med sin Love On Tour og armene var stadig ikke kommet helt ned endnu - så ja, dette endte med at blive en vaskeægte fan-episode.&lt;br /&gt;&lt;br /&gt;Velkommen til en dag i Harry Styles' tegn.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Radiovært Karoline Haubek &lt;br /&gt;Radiovært Anne Lund&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Aleksander Bruun</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56736076</guid>
+         <pubDate>Fri, 08 Sep 2023 14:19:05 +0000</pubDate>
+         <enclosure length="102853529" type="audio/mpeg" url="https://archive.org/download/pop_den_op/POP%20Den%20Op/2023.09.08%20-%20Den%20danske%20hiphop-scene%20lige%20nu%20og%20her.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I denne episode hylder og nørder vi fænomenet Harry Styles. For hvordan blomstrede Harry Styles fra One Direction til at være det ikon han er i dag?
 
-Lyt med, når vi folder hans karriere ud fra begyndelsen og nørder hvordan Harry Styles er blevet alt...
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne episode hylder og nørder vi fænomenet Harry Styles. For hvordan blomstrede Harry Styles fra One Direction til at være det ikon han er i dag?&lt;br /&gt;&lt;br /&gt;Lyt med, når vi folder hans karriere ud fra begyndelsen og nørder hvordan Harry Styles er blevet alt det han er i dag. Vi gennemgår de tre soloplader, men også alt det udenom musikken. Harry Styles havde lige været i Danmark med sin Love On Tour og armene var stadig ikke kommet helt ned endnu - så ja, dette endte med at blive en vaskeægte fan-episode.&lt;br /&gt;&lt;br /&gt;Velkommen til en dag i Harry Styles' tegn.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Radiovært Karoline Haubek &lt;br /&gt;Radiovært Anne Lund&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Aleksander Bruun
-   </itunes:summary>
-   <itunes:duration>
-    6429
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Ukendt Kunstner er tilbage
-   </title>
-   <link>
-    https://www.spreaker.com/episode/ukendt-kunstner-er-tilbage--56736061
-   </link>
-   <description>
-    Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.&lt;br /&gt;&lt;br /&gt;Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i dybden på bandet der har lagt hele Danmark ned 2 gange.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56736061
-   </guid>
-   <pubDate>
-    Fri, 08 Sep 2023 14:17:28 +0000
-   </pubDate>
-   <enclosure length="98872886" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56736061/ukendt_kunstner.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.
+Lyt med, når vi folder hans karriere ud fra begyndelsen og nørder hvordan Harry Styles er blevet alt...</itunes:subtitle>
+         <itunes:summary>I denne episode hylder og nørder vi fænomenet Harry Styles. For hvordan blomstrede Harry Styles fra One Direction til at være det ikon han er i dag?&lt;br /&gt;&lt;br /&gt;Lyt med, når vi folder hans karriere ud fra begyndelsen og nørder hvordan Harry Styles er blevet alt det han er i dag. Vi gennemgår de tre soloplader, men også alt det udenom musikken. Harry Styles havde lige været i Danmark med sin Love On Tour og armene var stadig ikke kommet helt ned endnu - så ja, dette endte med at blive en vaskeægte fan-episode.&lt;br /&gt;&lt;br /&gt;Velkommen til en dag i Harry Styles' tegn.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Radiovært Karoline Haubek &lt;br /&gt;Radiovært Anne Lund&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Aleksander Bruun</itunes:summary>
+         <itunes:duration>6429</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Ukendt Kunstner er tilbage</title>
+         <link>https://www.spreaker.com/episode/ukendt-kunstner-er-tilbage--56736061</link>
+         <description>Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.&lt;br /&gt;&lt;br /&gt;Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i dybden på bandet der har lagt hele Danmark ned 2 gange.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56736061</guid>
+         <pubDate>Fri, 08 Sep 2023 14:17:28 +0000</pubDate>
+         <enclosure length="98872886" type="audio/mpeg" url="https://archive.org/download/pop_den_op/POP%20Den%20Op/2023.09.08%20-%20Debrief%20af%20festivals%C3%A6sonen%202023.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.
 
-Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.&lt;br /&gt;&lt;br /&gt;Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i dybden på bandet der har lagt hele Danmark ned 2 gange.
-   </itunes:summary>
-   <itunes:duration>
-    6180
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i...</itunes:subtitle>
+         <itunes:summary>Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.&lt;br /&gt;&lt;br /&gt;Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i dybden på bandet der har lagt hele Danmark ned 2 gange.</itunes:summary>
+         <itunes:duration>6180</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8019169b708a83a8c22cf36234c83e03.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

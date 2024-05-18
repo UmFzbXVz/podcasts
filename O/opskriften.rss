@@ -1,1068 +1,440 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Opskriften
-  </title>
-  <link>
-   https://www.spreaker.com/show/opskriften
-  </link>
-  <description>
-   Vil du have opskriften på alt? Har du brug for tips og tricks til at opnå dine mål? Eller måske bare springe over hvor gærdet er lavest? Sammen med en kendt gæst gennemgår vært Anton Grue opskriften på alt fra evigt liv til en rigtig lorte aften, serveret med en 1 knivspids humor og 2 kg nysgerrighed.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5785449/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   Copyright 24syv
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg
-   </url>
-   <title>
-    Opskriften
-   </title>
-   <link>
-    https://www.spreaker.com/show/opskriften
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   24syv
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    24syv
-   </itunes:name>
-   <itunes:email>
-    podcast@24syv.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-  <itunes:subtitle>
-   Vil du have opskriften på alt? Har du brug for tips og trick til at opnå dine mål? Eller måske bare springe over hvor gærdet er lavest? Sammen med en kendt gæst gennemgår vært Anton Grue opskriften på alt fra evigt liv til en rigtig lorte aften,...
-  </itunes:subtitle>
-  <itunes:summary>
-   Vil du have opskriften på alt? Har du brug for tips og tricks til at opnå dine mål? Eller måske bare springe over hvor gærdet er lavest? Sammen med en kendt gæst gennemgår vært Anton Grue opskriften på alt fra evigt liv til en rigtig lorte aften, serveret med en 1 knivspids humor og 2 kg nysgerrighed.
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:explicit>
-   yes
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Opskriften på at blive stjerneatlet med Jeanette Ottesen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-blive-stjerneatlet-med-jeanette-ottesen--57926561
-   </link>
-   <description>
-    Ugens gæst bevæger sig som en fisk i vand. Hun har vundet medaljer i svømning til VM, EM og OL. Hun er den mest vindende danske atlet nogensinde, og har vundet 50 medaljer i alt. Hun er bedst i fri og butterfly og så har hun en vilje af stål! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jeanette Ottesen&lt;br /&gt;&lt;br /&gt;Synes Jeanette egentlig, at svømning er sjovt? Hvad er den vigtigste ingrediens for en eliteatlet? Hvorfor bliver man ved? Og hvordan er det efter man er stoppet? Lyt med og få hele opskriften.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57926561
-   </guid>
-   <pubDate>
-    Mon, 11 Dec 2023 04:00:03 +0000
-   </pubDate>
-   <enclosure length="51758208" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57926561/jeanette_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst bevæger sig som en fisk i vand. Hun har vundet medaljer i svømning til VM, EM og OL. Hun er den mest vindende danske atlet nogensinde, og har vundet 50 medaljer i alt. Hun er bedst i fri og butterfly og så har hun en vilje af stål! 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Opskriften</title>
+      <link>https://www.spreaker.com/show/opskriften</link>
+      <description>Vil du have opskriften på alt? Har du brug for tips og tricks til at opnå dine mål? Eller måske bare springe over hvor gærdet er lavest? Sammen med en kendt gæst gennemgår vært Anton Grue opskriften på alt fra evigt liv til en rigtig lorte aften, serveret med en 1 knivspids humor og 2 kg nysgerrighed.</description>
+      <atom:link href="https://www.spreaker.com/show/5785449/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>Copyright 24syv</copyright>
+      <image>
+         <url>https://archive.org/download/opskriften/Opskriften/d9bfc283358d265106493267efc24b95.jpg</url>
+         <title>Opskriften</title>
+         <link>https://www.spreaker.com/show/opskriften</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>24syv</itunes:author>
+      <itunes:owner>
+         <itunes:name>24syv</itunes:name>
+         <itunes:email>podcast@24syv.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+      <itunes:subtitle>Vil du have opskriften på alt? Har du brug for tips og trick til at opnå dine mål? Eller måske bare springe over hvor gærdet er lavest? Sammen med en kendt gæst gennemgår vært Anton Grue opskriften på alt fra evigt liv til en rigtig lorte aften,...</itunes:subtitle>
+      <itunes:summary>Vil du have opskriften på alt? Har du brug for tips og tricks til at opnå dine mål? Eller måske bare springe over hvor gærdet er lavest? Sammen med en kendt gæst gennemgår vært Anton Grue opskriften på alt fra evigt liv til en rigtig lorte aften, serveret med en 1 knivspids humor og 2 kg nysgerrighed.</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Opskriften på at blive stjerneatlet med Jeanette Ottesen</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-blive-stjerneatlet-med-jeanette-ottesen--57926561</link>
+         <description>Ugens gæst bevæger sig som en fisk i vand. Hun har vundet medaljer i svømning til VM, EM og OL. Hun er den mest vindende danske atlet nogensinde, og har vundet 50 medaljer i alt. Hun er bedst i fri og butterfly og så har hun en vilje af stål! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jeanette Ottesen&lt;br /&gt;&lt;br /&gt;Synes Jeanette egentlig, at svømning er sjovt? Hvad er den vigtigste ingrediens for en eliteatlet? Hvorfor bliver man ved? Og hvordan er det efter man er stoppet? Lyt med og få hele opskriften.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57926561</guid>
+         <pubDate>Mon, 11 Dec 2023 04:00:03 +0000</pubDate>
+         <enclosure length="51758208" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.12.11%20-%20Opskriften%20p%C3%A5%20at%20blive%20stjerneatlet%20med%20Jeanette%20Ottesen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst bevæger sig som en fisk i vand. Hun har vundet medaljer i svømning til VM, EM og OL. Hun er den mest vindende danske atlet nogensinde, og har vundet 50 medaljer i alt. Hun er bedst i fri og butterfly og så har hun en vilje af stål! 
 
-Ugens...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst bevæger sig som en fisk i vand. Hun har vundet medaljer i svømning til VM, EM og OL. Hun er den mest vindende danske atlet nogensinde, og har vundet 50 medaljer i alt. Hun er bedst i fri og butterfly og så har hun en vilje af stål! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jeanette Ottesen&lt;br /&gt;&lt;br /&gt;Synes Jeanette egentlig, at svømning er sjovt? Hvad er den vigtigste ingrediens for en eliteatlet? Hvorfor bliver man ved? Og hvordan er det efter man er stoppet? Lyt med og få hele opskriften.
-   </itunes:summary>
-   <itunes:duration>
-    3231
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at blive So-Me madanmelder med Casper Drømme
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-blive-so-me-madanmelder-med-casper-dromme--57818682
-   </link>
-   <description>
-    Ugens gæst er en ægte Vestegns-brumbasse. Han er influencer, podcaster og professionel livsnyder, der lever af at køre rundt i sin bil og anmelde mad. Du kender ham på hans farverige tophuer og linjen “Lad os se hvad det kan”. Han elsker når maden er helt oppe og spille superliga og når madtrolden river ham helt ned i kælderen.  &lt;br /&gt;&lt;br /&gt;Ugens gæst er:  Casper Drømme&lt;br /&gt;&lt;br /&gt;Hvorfor anmelder Casper maden i sin bil? Hedder han overhovedet Drømme? Hvad er det værste han har spist og hvorfor er Vestegnen så fedt? Lyt med og få hele Opskriften. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57818682
-   </guid>
-   <pubDate>
-    Mon, 04 Dec 2023 04:00:03 +0000
-   </pubDate>
-   <enclosure length="51384192" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57818682/casper_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst er en ægte Vestegns-brumbasse. Han er influencer, podcaster og professionel livsnyder, der lever af at køre rundt i sin bil og anmelde mad. Du kender ham på hans farverige tophuer og linjen “Lad os se hvad det kan”. Han elsker når maden er...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst er en ægte Vestegns-brumbasse. Han er influencer, podcaster og professionel livsnyder, der lever af at køre rundt i sin bil og anmelde mad. Du kender ham på hans farverige tophuer og linjen “Lad os se hvad det kan”. Han elsker når maden er helt oppe og spille superliga og når madtrolden river ham helt ned i kælderen.  &lt;br /&gt;&lt;br /&gt;Ugens gæst er:  Casper Drømme&lt;br /&gt;&lt;br /&gt;Hvorfor anmelder Casper maden i sin bil? Hedder han overhovedet Drømme? Hvad er det værste han har spist og hvorfor er Vestegnen så fedt? Lyt med og få hele Opskriften. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;
-   </itunes:summary>
-   <itunes:duration>
-    3208
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at blive hjerneentusiast med Peter Lund Madsen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-blive-hjerneentusiast-med-peter-lund-madsen--57662422
-   </link>
-   <description>
-    Ugens gæst ved utrolig meget om hjernen. Han er både læge, forsker, psykiater, forfatter, tv- og radiovært. Han er en mester i at formidle viden om alle hjernens gåder og mysterier, og så går han under navnet “Hjernemadsen”. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Peter Lund Madsen&lt;br /&gt;&lt;br /&gt;Hvorfor er Peter så fascineret af hjernen? Hvorfor skaber den irrationel angst i dag? Kommer computere til at overtage vores hjerner, og hvad er egentlig virkeligheden? Lyt med og få hele opskriften. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57662422
-   </guid>
-   <pubDate>
-    Mon, 27 Nov 2023 04:00:04 +0000
-   </pubDate>
-   <enclosure length="51802368" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57662422/peter_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst ved utrolig meget om hjernen. Han er både læge, forsker, psykiater, forfatter, tv- og radiovært. Han er en mester i at formidle viden om alle hjernens gåder og mysterier, og så går han under navnet “Hjernemadsen”. 
+Ugens...</itunes:subtitle>
+         <itunes:summary>Ugens gæst bevæger sig som en fisk i vand. Hun har vundet medaljer i svømning til VM, EM og OL. Hun er den mest vindende danske atlet nogensinde, og har vundet 50 medaljer i alt. Hun er bedst i fri og butterfly og så har hun en vilje af stål! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jeanette Ottesen&lt;br /&gt;&lt;br /&gt;Synes Jeanette egentlig, at svømning er sjovt? Hvad er den vigtigste ingrediens for en eliteatlet? Hvorfor bliver man ved? Og hvordan er det efter man er stoppet? Lyt med og få hele opskriften.</itunes:summary>
+         <itunes:duration>3231</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at blive So-Me madanmelder med Casper Drømme</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-blive-so-me-madanmelder-med-casper-dromme--57818682</link>
+         <description>Ugens gæst er en ægte Vestegns-brumbasse. Han er influencer, podcaster og professionel livsnyder, der lever af at køre rundt i sin bil og anmelde mad. Du kender ham på hans farverige tophuer og linjen “Lad os se hvad det kan”. Han elsker når maden er helt oppe og spille superliga og når madtrolden river ham helt ned i kælderen.  &lt;br /&gt;&lt;br /&gt;Ugens gæst er:  Casper Drømme&lt;br /&gt;&lt;br /&gt;Hvorfor anmelder Casper maden i sin bil? Hedder han overhovedet Drømme? Hvad er det værste han har spist og hvorfor er Vestegnen så fedt? Lyt med og få hele Opskriften. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57818682</guid>
+         <pubDate>Mon, 04 Dec 2023 04:00:03 +0000</pubDate>
+         <enclosure length="51384192" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.12.04%20-%20Opskriften%20p%C3%A5%20at%20blive%20So-Me%20madanmelder%20med%20Casper%20Dr%C3%B8mme.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst er en ægte Vestegns-brumbasse. Han er influencer, podcaster og professionel livsnyder, der lever af at køre rundt i sin bil og anmelde mad. Du kender ham på hans farverige tophuer og linjen “Lad os se hvad det kan”. Han elsker når maden er...</itunes:subtitle>
+         <itunes:summary>Ugens gæst er en ægte Vestegns-brumbasse. Han er influencer, podcaster og professionel livsnyder, der lever af at køre rundt i sin bil og anmelde mad. Du kender ham på hans farverige tophuer og linjen “Lad os se hvad det kan”. Han elsker når maden er helt oppe og spille superliga og når madtrolden river ham helt ned i kælderen.  &lt;br /&gt;&lt;br /&gt;Ugens gæst er:  Casper Drømme&lt;br /&gt;&lt;br /&gt;Hvorfor anmelder Casper maden i sin bil? Hedder han overhovedet Drømme? Hvad er det værste han har spist og hvorfor er Vestegnen så fedt? Lyt med og få hele Opskriften. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;</itunes:summary>
+         <itunes:duration>3208</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at blive hjerneentusiast med Peter Lund Madsen</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-blive-hjerneentusiast-med-peter-lund-madsen--57662422</link>
+         <description>Ugens gæst ved utrolig meget om hjernen. Han er både læge, forsker, psykiater, forfatter, tv- og radiovært. Han er en mester i at formidle viden om alle hjernens gåder og mysterier, og så går han under navnet “Hjernemadsen”. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Peter Lund Madsen&lt;br /&gt;&lt;br /&gt;Hvorfor er Peter så fascineret af hjernen? Hvorfor skaber den irrationel angst i dag? Kommer computere til at overtage vores hjerner, og hvad er egentlig virkeligheden? Lyt med og få hele opskriften. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57662422</guid>
+         <pubDate>Mon, 27 Nov 2023 04:00:04 +0000</pubDate>
+         <enclosure length="51802368" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.11.27%20-%20Opskriften%20p%C3%A5%20at%20blive%20hjerneentusiast%20med%20Peter%20Lund%20Madsen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst ved utrolig meget om hjernen. Han er både læge, forsker, psykiater, forfatter, tv- og radiovært. Han er en mester i at formidle viden om alle hjernens gåder og mysterier, og så går han under navnet “Hjernemadsen”. 
 
-Ugens gæst er: Peter...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst ved utrolig meget om hjernen. Han er både læge, forsker, psykiater, forfatter, tv- og radiovært. Han er en mester i at formidle viden om alle hjernens gåder og mysterier, og så går han under navnet “Hjernemadsen”. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Peter Lund Madsen&lt;br /&gt;&lt;br /&gt;Hvorfor er Peter så fascineret af hjernen? Hvorfor skaber den irrationel angst i dag? Kommer computere til at overtage vores hjerner, og hvad er egentlig virkeligheden? Lyt med og få hele opskriften. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;
-   </itunes:summary>
-   <itunes:duration>
-    3234
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på en god historie med Kim Fupz Aakeson
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-en-god-historie-med-kim-fupz-aakeson--57558584
-   </link>
-   <description>
-    Ugens gæst er en mester til at fortælle historier. Han har udgivet over 70 bøger til børn og voksne og vundet et hav af priser. Derudover har han også skrevet utallige manuskripter, bl.a. til “Den Eneste Ene”, “En Soap” og “Hannibal og Jerry”. Han har en original, humoristisk og finurlig skrivestil, og så holder han sig fra at udgive krimier! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Kim Fupz Aakeson&lt;br /&gt;&lt;br /&gt;Hvordan laver man en god historie? Har Kim en syret og vild side, eller er han kedelig i privaten? Hvorfor blev DR-serien "Huset" til på en meget mærkelig måde? Og hvor grusomt er det at skrive en roman? Lyt med og få hele opskriften.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57558584
-   </guid>
-   <pubDate>
-    Mon, 20 Nov 2023 04:00:03 +0000
-   </pubDate>
-   <enclosure length="51825024" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57558584/kim_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst er en mester til at fortælle historier. Han har udgivet over 70 bøger til børn og voksne og vundet et hav af priser. Derudover har han også skrevet utallige manuskripter, bl.a. til “Den Eneste Ene”, “En Soap” og “Hannibal og Jerry”. Han har...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst er en mester til at fortælle historier. Han har udgivet over 70 bøger til børn og voksne og vundet et hav af priser. Derudover har han også skrevet utallige manuskripter, bl.a. til “Den Eneste Ene”, “En Soap” og “Hannibal og Jerry”. Han har en original, humoristisk og finurlig skrivestil, og så holder han sig fra at udgive krimier! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Kim Fupz Aakeson&lt;br /&gt;&lt;br /&gt;Hvordan laver man en god historie? Har Kim en syret og vild side, eller er han kedelig i privaten? Hvorfor blev DR-serien "Huset" til på en meget mærkelig måde? Og hvor grusomt er det at skrive en roman? Lyt med og få hele opskriften.
-   </itunes:summary>
-   <itunes:duration>
-    3235
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at blive en kreativ blæksprutte med Laura Drasbæk
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-blive-en-kreativ-blaeksprutte-med-laura-drasbaek--57511179
-   </link>
-   <description>
-    Ugens gæst er en kreativ sjæl. Hun er uddannet skuespiller og har medvirket i bl.a. Lærkevej, Sommerdahl og Pusher. Men hun er også børnebogsforfatter, lydbogsspeaker og nu keramiker med egen butik! Hun er en sprudlende humørbombe, der trives godt i kaos.  &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Laura Drasbæk!&lt;br /&gt;&lt;br /&gt;Hvordan bliver man en god skuespiller? Kan Laura bedst lide film eller teater? Hvorfor laver hun keramik nu? Og hvorfor er hendes drømmerolle en skrøbelig kattedame? Lyt med og få hele opskriften.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57511179
-   </guid>
-   <pubDate>
-    Mon, 13 Nov 2023 04:00:03 +0000
-   </pubDate>
-   <enclosure length="51824256" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57511179/laura_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst er en kreativ sjæl. Hun er uddannet skuespiller og har medvirket i bl.a. Lærkevej, Sommerdahl og Pusher. Men hun er også børnebogsforfatter, lydbogsspeaker og nu keramiker med egen butik! Hun er en sprudlende humørbombe, der trives godt i...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst er en kreativ sjæl. Hun er uddannet skuespiller og har medvirket i bl.a. Lærkevej, Sommerdahl og Pusher. Men hun er også børnebogsforfatter, lydbogsspeaker og nu keramiker med egen butik! Hun er en sprudlende humørbombe, der trives godt i kaos.  &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Laura Drasbæk!&lt;br /&gt;&lt;br /&gt;Hvordan bliver man en god skuespiller? Kan Laura bedst lide film eller teater? Hvorfor laver hun keramik nu? Og hvorfor er hendes drømmerolle en skrøbelig kattedame? Lyt med og få hele opskriften.
-   </itunes:summary>
-   <itunes:duration>
-    3235
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på en god investering med Anne Stampe Olesen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-en-god-investering-med-anne-stampe-olesen--57409627
-   </link>
-   <description>
-    Ugens gæst ved alt om business. Hun er tidligere driftsdirektør i Freeway Koncernen, stifter af Nordic Female Founders og en af løvinderne i Løvens Hule. Hun elsker heste og krimier, men bliver så træt af folk, der kommer med en alt for høj værdiansættelse!! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Anne Stampe Olesen&lt;br /&gt;&lt;br /&gt;Hvordan bliver man en succesfuld iværksætter? Hvad er en god investering? Hvorfor kan Anne ikke bage, og hvad ville hun aldrig investere i? Lyt med og få hele opskriften.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57409627
-   </guid>
-   <pubDate>
-    Mon, 06 Nov 2023 04:00:03 +0000
-   </pubDate>
-   <enclosure length="51446784" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57409627/anne_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst ved alt om business. Hun er tidligere driftsdirektør i Freeway Koncernen, stifter af Nordic Female Founders og en af løvinderne i Løvens Hule. Hun elsker heste og krimier, men bliver så træt af folk, der kommer med en alt for høj...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst ved alt om business. Hun er tidligere driftsdirektør i Freeway Koncernen, stifter af Nordic Female Founders og en af løvinderne i Løvens Hule. Hun elsker heste og krimier, men bliver så træt af folk, der kommer med en alt for høj værdiansættelse!! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Anne Stampe Olesen&lt;br /&gt;&lt;br /&gt;Hvordan bliver man en succesfuld iværksætter? Hvad er en god investering? Hvorfor kan Anne ikke bage, og hvad ville hun aldrig investere i? Lyt med og få hele opskriften.
-   </itunes:summary>
-   <itunes:duration>
-    3212
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at blive influencer med Astrid Olsen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-blive-influencer-med-astrid-olsen--57305972
-   </link>
-   <description>
-    Ugens gæst lever af likes, followers og visninger. Hun er en af Danmarks mest populære youtubere, instagrammer og tiktok’ere. Hun er bedste venner med kameraet og tattoo-maskinen, og så har hun også en kogebog på vej!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Astrid Olsen&lt;br /&gt;&lt;br /&gt;Hvordan er det at leve som influencer? Hvorfor er vlogs så populære? Hvorfor bruger Astrid ikke youtube mere, og starter hun mon som AI-fluencer? Lyt med og få hele Opskriften &lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57305972
-   </guid>
-   <pubDate>
-    Mon, 30 Oct 2023 04:00:02 +0000
-   </pubDate>
-   <enclosure length="51647616" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57305972/astridklippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst lever af likes, followers og visninger. Hun er en af Danmarks mest populære youtubere, instagrammer og tiktok’ere. Hun er bedste venner med kameraet og tattoo-maskinen, og så har hun også en kogebog på vej!
+Ugens gæst er: Peter...</itunes:subtitle>
+         <itunes:summary>Ugens gæst ved utrolig meget om hjernen. Han er både læge, forsker, psykiater, forfatter, tv- og radiovært. Han er en mester i at formidle viden om alle hjernens gåder og mysterier, og så går han under navnet “Hjernemadsen”. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Peter Lund Madsen&lt;br /&gt;&lt;br /&gt;Hvorfor er Peter så fascineret af hjernen? Hvorfor skaber den irrationel angst i dag? Kommer computere til at overtage vores hjerner, og hvad er egentlig virkeligheden? Lyt med og få hele opskriften. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;</itunes:summary>
+         <itunes:duration>3234</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på en god historie med Kim Fupz Aakeson</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-en-god-historie-med-kim-fupz-aakeson--57558584</link>
+         <description>Ugens gæst er en mester til at fortælle historier. Han har udgivet over 70 bøger til børn og voksne og vundet et hav af priser. Derudover har han også skrevet utallige manuskripter, bl.a. til “Den Eneste Ene”, “En Soap” og “Hannibal og Jerry”. Han har en original, humoristisk og finurlig skrivestil, og så holder han sig fra at udgive krimier! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Kim Fupz Aakeson&lt;br /&gt;&lt;br /&gt;Hvordan laver man en god historie? Har Kim en syret og vild side, eller er han kedelig i privaten? Hvorfor blev DR-serien "Huset" til på en meget mærkelig måde? Og hvor grusomt er det at skrive en roman? Lyt med og få hele opskriften.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57558584</guid>
+         <pubDate>Mon, 20 Nov 2023 04:00:03 +0000</pubDate>
+         <enclosure length="51825024" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.11.20%20-%20Opskriften%20p%C3%A5%20en%20god%20historie%20med%20Kim%20Fupz%20Aakeson.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst er en mester til at fortælle historier. Han har udgivet over 70 bøger til børn og voksne og vundet et hav af priser. Derudover har han også skrevet utallige manuskripter, bl.a. til “Den Eneste Ene”, “En Soap” og “Hannibal og Jerry”. Han har...</itunes:subtitle>
+         <itunes:summary>Ugens gæst er en mester til at fortælle historier. Han har udgivet over 70 bøger til børn og voksne og vundet et hav af priser. Derudover har han også skrevet utallige manuskripter, bl.a. til “Den Eneste Ene”, “En Soap” og “Hannibal og Jerry”. Han har en original, humoristisk og finurlig skrivestil, og så holder han sig fra at udgive krimier! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Kim Fupz Aakeson&lt;br /&gt;&lt;br /&gt;Hvordan laver man en god historie? Har Kim en syret og vild side, eller er han kedelig i privaten? Hvorfor blev DR-serien "Huset" til på en meget mærkelig måde? Og hvor grusomt er det at skrive en roman? Lyt med og få hele opskriften.</itunes:summary>
+         <itunes:duration>3235</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at blive en kreativ blæksprutte med Laura Drasbæk</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-blive-en-kreativ-blaeksprutte-med-laura-drasbaek--57511179</link>
+         <description>Ugens gæst er en kreativ sjæl. Hun er uddannet skuespiller og har medvirket i bl.a. Lærkevej, Sommerdahl og Pusher. Men hun er også børnebogsforfatter, lydbogsspeaker og nu keramiker med egen butik! Hun er en sprudlende humørbombe, der trives godt i kaos.  &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Laura Drasbæk!&lt;br /&gt;&lt;br /&gt;Hvordan bliver man en god skuespiller? Kan Laura bedst lide film eller teater? Hvorfor laver hun keramik nu? Og hvorfor er hendes drømmerolle en skrøbelig kattedame? Lyt med og få hele opskriften.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57511179</guid>
+         <pubDate>Mon, 13 Nov 2023 04:00:03 +0000</pubDate>
+         <enclosure length="51824256" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.11.13%20-%20Opskriften%20p%C3%A5%20at%20blive%20en%20kreativ%20bl%C3%A6ksprutte%20med%20Laura%20Drasb%C3%A6k.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst er en kreativ sjæl. Hun er uddannet skuespiller og har medvirket i bl.a. Lærkevej, Sommerdahl og Pusher. Men hun er også børnebogsforfatter, lydbogsspeaker og nu keramiker med egen butik! Hun er en sprudlende humørbombe, der trives godt i...</itunes:subtitle>
+         <itunes:summary>Ugens gæst er en kreativ sjæl. Hun er uddannet skuespiller og har medvirket i bl.a. Lærkevej, Sommerdahl og Pusher. Men hun er også børnebogsforfatter, lydbogsspeaker og nu keramiker med egen butik! Hun er en sprudlende humørbombe, der trives godt i kaos.  &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Laura Drasbæk!&lt;br /&gt;&lt;br /&gt;Hvordan bliver man en god skuespiller? Kan Laura bedst lide film eller teater? Hvorfor laver hun keramik nu? Og hvorfor er hendes drømmerolle en skrøbelig kattedame? Lyt med og få hele opskriften.</itunes:summary>
+         <itunes:duration>3235</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på en god investering med Anne Stampe Olesen</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-en-god-investering-med-anne-stampe-olesen--57409627</link>
+         <description>Ugens gæst ved alt om business. Hun er tidligere driftsdirektør i Freeway Koncernen, stifter af Nordic Female Founders og en af løvinderne i Løvens Hule. Hun elsker heste og krimier, men bliver så træt af folk, der kommer med en alt for høj værdiansættelse!! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Anne Stampe Olesen&lt;br /&gt;&lt;br /&gt;Hvordan bliver man en succesfuld iværksætter? Hvad er en god investering? Hvorfor kan Anne ikke bage, og hvad ville hun aldrig investere i? Lyt med og få hele opskriften.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57409627</guid>
+         <pubDate>Mon, 06 Nov 2023 04:00:03 +0000</pubDate>
+         <enclosure length="51446784" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.11.06%20-%20Opskriften%20p%C3%A5%20en%20god%20investering%20med%20Anne%20Stampe%20Olesen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst ved alt om business. Hun er tidligere driftsdirektør i Freeway Koncernen, stifter af Nordic Female Founders og en af løvinderne i Løvens Hule. Hun elsker heste og krimier, men bliver så træt af folk, der kommer med en alt for høj...</itunes:subtitle>
+         <itunes:summary>Ugens gæst ved alt om business. Hun er tidligere driftsdirektør i Freeway Koncernen, stifter af Nordic Female Founders og en af løvinderne i Løvens Hule. Hun elsker heste og krimier, men bliver så træt af folk, der kommer med en alt for høj værdiansættelse!! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Anne Stampe Olesen&lt;br /&gt;&lt;br /&gt;Hvordan bliver man en succesfuld iværksætter? Hvad er en god investering? Hvorfor kan Anne ikke bage, og hvad ville hun aldrig investere i? Lyt med og få hele opskriften.</itunes:summary>
+         <itunes:duration>3212</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at blive influencer med Astrid Olsen</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-blive-influencer-med-astrid-olsen--57305972</link>
+         <description>Ugens gæst lever af likes, followers og visninger. Hun er en af Danmarks mest populære youtubere, instagrammer og tiktok’ere. Hun er bedste venner med kameraet og tattoo-maskinen, og så har hun også en kogebog på vej!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Astrid Olsen&lt;br /&gt;&lt;br /&gt;Hvordan er det at leve som influencer? Hvorfor er vlogs så populære? Hvorfor bruger Astrid ikke youtube mere, og starter hun mon som AI-fluencer? Lyt med og få hele Opskriften &lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57305972</guid>
+         <pubDate>Mon, 30 Oct 2023 04:00:02 +0000</pubDate>
+         <enclosure length="51647616" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.10.30%20-%20Opskriften%20p%C3%A5%20at%20blive%20influencer%20med%20Astrid%20Olsen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst lever af likes, followers og visninger. Hun er en af Danmarks mest populære youtubere, instagrammer og tiktok’ere. Hun er bedste venner med kameraet og tattoo-maskinen, og så har hun også en kogebog på vej!
 
-Ugens gæst er: Astrid Olsen...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst lever af likes, followers og visninger. Hun er en af Danmarks mest populære youtubere, instagrammer og tiktok’ere. Hun er bedste venner med kameraet og tattoo-maskinen, og så har hun også en kogebog på vej!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Astrid Olsen&lt;br /&gt;&lt;br /&gt;Hvordan er det at leve som influencer? Hvorfor er vlogs så populære? Hvorfor bruger Astrid ikke youtube mere, og starter hun mon som AI-fluencer? Lyt med og få hele Opskriften &lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;
-   </itunes:summary>
-   <itunes:duration>
-    3224
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at blive filmanmelder med Ann Lind Andersen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-blive-filmanmelder-med-ann-lind-andersen--57254070
-   </link>
-   <description>
-    Ugens gæst ved alt om film. Hun har anmeldt flere film og serier, end de fleste når at se på et helt liv, både på TV og på tekst. Hun er en skarp kritiker, der elsker film fra New Hollywood-bølgen - og så giver hun ikke 6 stjerner til hvem som helst! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Ann Lind Andersen&lt;br /&gt;&lt;br /&gt;Hvordan laver man en god anmeldelse? Findes der anmeldersnobberi? Hvad er Ann Lind Andersens yndlingsfilm? Hvor mange film ser hun hver dag? Og hvad synes hun om ideen om en filmbageklub? Lyt med og få hele opskriften. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57254070
-   </guid>
-   <pubDate>
-    Mon, 23 Oct 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51862656" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57254070/ann_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst ved alt om film. Hun har anmeldt flere film og serier, end de fleste når at se på et helt liv, både på TV og på tekst. Hun er en skarp kritiker, der elsker film fra New Hollywood-bølgen - og så giver hun ikke 6 stjerner til hvem som helst!...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst ved alt om film. Hun har anmeldt flere film og serier, end de fleste når at se på et helt liv, både på TV og på tekst. Hun er en skarp kritiker, der elsker film fra New Hollywood-bølgen - og så giver hun ikke 6 stjerner til hvem som helst! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Ann Lind Andersen&lt;br /&gt;&lt;br /&gt;Hvordan laver man en god anmeldelse? Findes der anmeldersnobberi? Hvad er Ann Lind Andersens yndlingsfilm? Hvor mange film ser hun hver dag? Og hvad synes hun om ideen om en filmbageklub? Lyt med og få hele opskriften. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;
-   </itunes:summary>
-   <itunes:duration>
-    3238
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at blive strikdesigner med Josefine Dyring
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-blive-strikdesigner-med-josefine-dyring--56882920
-   </link>
-   <description>
-    Ugens gæst bruger strikkepinde, som vi andre trækker vejret. Hun er en kreativ og innovativ tøjdesigner, der ikke er bange for at bryde reglerne for tøjdesign. Hun elsker farver og det tilfældige - og så skal der altid indgå lyserød i hendes tøj! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Josefine Dyring&lt;br /&gt;&lt;br /&gt;Hvad tænker Josefine om et samarbejde med gangsterrappere? Hvorfor er hendes nyeste design inspireret af Desperate Housewives? Og hvorfor er det så fedt at strikke?? Lyt med og få hele opskriften.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56882920
-   </guid>
-   <pubDate>
-    Mon, 16 Oct 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51778560" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56882920/josefinedyring_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst bruger strikkepinde, som vi andre trækker vejret. Hun er en kreativ og innovativ tøjdesigner, der ikke er bange for at bryde reglerne for tøjdesign. Hun elsker farver og det tilfældige - og så skal der altid indgå lyserød i hendes tøj!...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst bruger strikkepinde, som vi andre trækker vejret. Hun er en kreativ og innovativ tøjdesigner, der ikke er bange for at bryde reglerne for tøjdesign. Hun elsker farver og det tilfældige - og så skal der altid indgå lyserød i hendes tøj! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Josefine Dyring&lt;br /&gt;&lt;br /&gt;Hvad tænker Josefine om et samarbejde med gangsterrappere? Hvorfor er hendes nyeste design inspireret af Desperate Housewives? Og hvorfor er det så fedt at strikke?? Lyt med og få hele opskriften.
-   </itunes:summary>
-   <itunes:duration>
-    3233
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på en flot have med Søren Vester
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-en-flot-have-med-soren-vester--56841207
-   </link>
-   <description>
-    Ugens gæst kalder sig selv for en moderne bonderøv. Han er uddannet designer og er en mester i at vende ting på hovedet og give dem et kreativt twist. Han har medvirket i programmer som “I hus til halsen”, “Vores Genbrugshjem”, og nu viser han igen sin gigantiske have frem i “Søren Vesters have”. Han har en herlig dialekt, elsker friske farver og så hader han skyggereb!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Søren Vester&lt;br /&gt;&lt;br /&gt;Hvornår åbner Sørens Blomsterpark? Hvordan satan får man egentlig en flot have? Og hvorfor er det genialt at tisse i haven? Lyt med og få hele opskriften!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56841207
-   </guid>
-   <pubDate>
-    Mon, 09 Oct 2023 03:00:03 +0000
-   </pubDate>
-   <enclosure length="51801984" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56841207/s_renklippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst kalder sig selv for en moderne bonderøv. Han er uddannet designer og er en mester i at vende ting på hovedet og give dem et kreativt twist. Han har medvirket i programmer som “I hus til halsen”, “Vores Genbrugshjem”, og nu viser han igen...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst kalder sig selv for en moderne bonderøv. Han er uddannet designer og er en mester i at vende ting på hovedet og give dem et kreativt twist. Han har medvirket i programmer som “I hus til halsen”, “Vores Genbrugshjem”, og nu viser han igen sin gigantiske have frem i “Søren Vesters have”. Han har en herlig dialekt, elsker friske farver og så hader han skyggereb!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Søren Vester&lt;br /&gt;&lt;br /&gt;Hvornår åbner Sørens Blomsterpark? Hvordan satan får man egentlig en flot have? Og hvorfor er det genialt at tisse i haven? Lyt med og få hele opskriften!
-   </itunes:summary>
-   <itunes:duration>
-    3234
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at blive motivational speaker med JCW Sunshineman
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-blive-motivational-speaker-med-jcw-sunshineman--56799444
-   </link>
-   <description>
-    Ugens gæst er en levende instagram-legende. Han er kendt for sætninger som “Live in the fucking now”, “The sun is shining out dere” og “Good day, this is strongest basics JCW, der speaker to you all”. Han er bodybuilder og motivational speaker, og så kæmper han for at få folk op af sofaen og stoppe med at spise chokolade!!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jasper C. Willumsen // JCW Sunshineman&lt;br /&gt;&lt;br /&gt;Hvor meget træner Jasper? Hvorfor snakker han engelsk i sine videoer? Hvordan lever man i nuet? Og skal folk egentlig bare tage sig sammen? Lyt med og få hele opskriften.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56799444
-   </guid>
-   <pubDate>
-    Mon, 02 Oct 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51799680" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56799444/jcw_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst er en levende instagram-legende. Han er kendt for sætninger som “Live in the fucking now”, “The sun is shining out dere” og “Good day, this is strongest basics JCW, der speaker to you all”. Han er bodybuilder og motivational speaker, og så...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst er en levende instagram-legende. Han er kendt for sætninger som “Live in the fucking now”, “The sun is shining out dere” og “Good day, this is strongest basics JCW, der speaker to you all”. Han er bodybuilder og motivational speaker, og så kæmper han for at få folk op af sofaen og stoppe med at spise chokolade!!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jasper C. Willumsen // JCW Sunshineman&lt;br /&gt;&lt;br /&gt;Hvor meget træner Jasper? Hvorfor snakker han engelsk i sine videoer? Hvordan lever man i nuet? Og skal folk egentlig bare tage sig sammen? Lyt med og få hele opskriften.
-   </itunes:summary>
-   <itunes:duration>
-    3234
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på et hit med Arto Eriksen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-et-hit-med-arto-eriksen--56788557
-   </link>
-   <description>
-    Ugens gæst er en kæmpe hitmager. Han har produceret Tobias Rahims gigantiske hits såsom “Stor Mand” og “Mucki Bar”, og han er samtidig en vild tech-house connoisseur og optræder under navnet Yo Johnny, hvis han da ikke lige laver sindssyg punk eller eksperimenterende lydflader. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Arto Eriksen&lt;br /&gt;&lt;br /&gt;Hvordan laver man et Tobias Rahim hit? Hvorfor begyndte de at lave musik sammen? Og hvornår spiller Yo Johnny deres første koncert på en rumstation? Lyt med og få hele opskriften.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56788557
-   </guid>
-   <pubDate>
-    Mon, 25 Sep 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51736704" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56788557/arto_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst er en kæmpe hitmager. Han har produceret Tobias Rahims gigantiske hits såsom “Stor Mand” og “Mucki Bar”, og han er samtidig en vild tech-house connoisseur og optræder under navnet Yo Johnny, hvis han da ikke lige laver sindssyg punk eller...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst er en kæmpe hitmager. Han har produceret Tobias Rahims gigantiske hits såsom “Stor Mand” og “Mucki Bar”, og han er samtidig en vild tech-house connoisseur og optræder under navnet Yo Johnny, hvis han da ikke lige laver sindssyg punk eller eksperimenterende lydflader. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Arto Eriksen&lt;br /&gt;&lt;br /&gt;Hvordan laver man et Tobias Rahim hit? Hvorfor begyndte de at lave musik sammen? Og hvornår spiller Yo Johnny deres første koncert på en rumstation? Lyt med og få hele opskriften.
-   </itunes:summary>
-   <itunes:duration>
-    3230
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på en trend med Julia Lahme
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-en-trend-med-julia-lahme--56773918
-   </link>
-   <description>
-    Ugens gæst ved alt om livsstil og trends. Hun er uddannet etnolog, og arbejder med trendforskning og kommunikation i eget bureau. Hun har skrevet en lang række bøger om alt fra teenage-tackling, danmarkshistorien og kolonihaver. Hun elsker marcipan og alt der glimter, og så har hun aldrig fået kørekort.&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Julia Lahme&lt;br /&gt;&lt;br /&gt;Hvordan opstår en trend? Hvad skete der for hipsteren og new nordic mad? Hvad kommer der til at ske i fremtiden - og kan vi nå at redde 24syv? Lyt og få hele opskriften.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56773918
-   </guid>
-   <pubDate>
-    Mon, 18 Sep 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51826944" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56773918/julia_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst ved alt om livsstil og trends. Hun er uddannet etnolog, og arbejder med trendforskning og kommunikation i eget bureau. Hun har skrevet en lang række bøger om alt fra teenage-tackling, danmarkshistorien og kolonihaver. Hun elsker marcipan og...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst ved alt om livsstil og trends. Hun er uddannet etnolog, og arbejder med trendforskning og kommunikation i eget bureau. Hun har skrevet en lang række bøger om alt fra teenage-tackling, danmarkshistorien og kolonihaver. Hun elsker marcipan og alt der glimter, og så har hun aldrig fået kørekort.&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Julia Lahme&lt;br /&gt;&lt;br /&gt;Hvordan opstår en trend? Hvad skete der for hipsteren og new nordic mad? Hvad kommer der til at ske i fremtiden - og kan vi nå at redde 24syv? Lyt og få hele opskriften.
-   </itunes:summary>
-   <itunes:duration>
-    3236
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at redde klimaet med Anders Morgenthaler
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-redde-klimaet-med-anders-morgenthaler--56685217
-   </link>
-   <description>
-    Ugens gæst er både forfatter, tegner, filminstruktør og selverklæret klimaaktivist. Han er en af mændene bag den ikoniske stribe Wulffmorgenthaler og den sindssyge flodhest Dolph. Han er en original, kreativ, skæv og humoristisk mand, der ikke er bange for at tage bladet fra munden! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Anders Morgenthaler!&lt;br /&gt;&lt;br /&gt;Hvor radikal må man være, når det kommer til at kæmpe mod klimaforandringer? Har Anders givet op på at redde klimaet, og hvor rasende er han på en skala fra 1-10? Lyt med og få hele opskriften.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56685217
-   </guid>
-   <pubDate>
-    Mon, 11 Sep 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51559296" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56685217/anders_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst er både forfatter, tegner, filminstruktør og selverklæret klimaaktivist. Han er en af mændene bag den ikoniske stribe Wulffmorgenthaler og den sindssyge flodhest Dolph. Han er en original, kreativ, skæv og humoristisk mand, der ikke er...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst er både forfatter, tegner, filminstruktør og selverklæret klimaaktivist. Han er en af mændene bag den ikoniske stribe Wulffmorgenthaler og den sindssyge flodhest Dolph. Han er en original, kreativ, skæv og humoristisk mand, der ikke er bange for at tage bladet fra munden! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Anders Morgenthaler!&lt;br /&gt;&lt;br /&gt;Hvor radikal må man være, når det kommer til at kæmpe mod klimaforandringer? Har Anders givet op på at redde klimaet, og hvor rasende er han på en skala fra 1-10? Lyt med og få hele opskriften.
-   </itunes:summary>
-   <itunes:duration>
-    3219
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på et godt meme med Morfarfortæller
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-et-godt-meme-med-morfarfortaeller--56577061
-   </link>
-   <description>
-    Ugens gæst er en vaskeægte memer. Han er uddannet slagter, og det kan mærkes i hans memes. Han skærer i politikerne, samfundet, og populære holdninger - ikke med knive, men med humor. Han er også forfatter og kunstner, hvor han går under navnet Talentløs. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Morfarfortæller eller Jan Lillie Lauritsen&lt;br /&gt;&lt;br /&gt;Hvordan har Jan brugt memes som sit safe-space? Hvad er et godt meme ifølge ham? Og skaber hans memes egentlig mere splid end dialog? Lyt til programmet og få hele opskriften.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56577061
-   </guid>
-   <pubDate>
-    Mon, 04 Sep 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51880320" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56577061/morfar_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst er en vaskeægte memer. Han er uddannet slagter, og det kan mærkes i hans memes. Han skærer i politikerne, samfundet, og populære holdninger - ikke med knive, men med humor. Han er også forfatter og kunstner, hvor han går under navnet...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst er en vaskeægte memer. Han er uddannet slagter, og det kan mærkes i hans memes. Han skærer i politikerne, samfundet, og populære holdninger - ikke med knive, men med humor. Han er også forfatter og kunstner, hvor han går under navnet Talentløs. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Morfarfortæller eller Jan Lillie Lauritsen&lt;br /&gt;&lt;br /&gt;Hvordan har Jan brugt memes som sit safe-space? Hvad er et godt meme ifølge ham? Og skaber hans memes egentlig mere splid end dialog? Lyt til programmet og få hele opskriften.
-   </itunes:summary>
-   <itunes:duration>
-    3239
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at lægge sit liv om med Jokeren
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-laegge-sit-liv-om-med-jokeren--56485464
-   </link>
-   <description>
-    Ugens gæst er en vaskeægte rap-legende. Han slog igennem med Den Gale Pose med sangen Spændt Op til Lir, og står bag utallige hits såsom Havnen, Godt Taget og Nogen Spørgsmål?. Han har kaldt sig selv for stodder, og levet et vildt liv med sex, drugs &amp;amp; rock n’roll - men nu har han lagt sit liv om og er gået en anden vej. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jesper "Jokeren" Dahl! &lt;br /&gt;&lt;br /&gt;Hvordan opstod Jokerens misbrug? Hvorfor er det så svært at komme ud af? Hvordan kom Jokeren ud af det - og hvorfor var psykedelisk terapi løsningen? Det og meget mere kan du høre om i dagens episode.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56485464
-   </guid>
-   <pubDate>
-    Mon, 28 Aug 2023 03:00:03 +0000
-   </pubDate>
-   <enclosure length="51825024" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56485464/jokeren_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ugens gæst er en vaskeægte rap-legende. Han slog igennem med Den Gale Pose med sangen Spændt Op til Lir, og står bag utallige hits såsom Havnen, Godt Taget og Nogen Spørgsmål?. Han har kaldt sig selv for stodder, og levet et vildt liv med sex, drugs...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ugens gæst er en vaskeægte rap-legende. Han slog igennem med Den Gale Pose med sangen Spændt Op til Lir, og står bag utallige hits såsom Havnen, Godt Taget og Nogen Spørgsmål?. Han har kaldt sig selv for stodder, og levet et vildt liv med sex, drugs &amp;amp; rock n’roll - men nu har han lagt sit liv om og er gået en anden vej. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jesper "Jokeren" Dahl! &lt;br /&gt;&lt;br /&gt;Hvordan opstod Jokerens misbrug? Hvorfor er det så svært at komme ud af? Hvordan kom Jokeren ud af det - og hvorfor var psykedelisk terapi løsningen? Det og meget mere kan du høre om i dagens episode.
-   </itunes:summary>
-   <itunes:duration>
-    3235
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på god arkitektur med Bjarke Ingels
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-god-arkitektur-med-bjarke-ingels--54740908
-   </link>
-   <description>
-    Dagens gæst er en vaskeægte verdensstjerne. Han har Elon Musk på speed-dial og hygger med Robert De Niro. Hans tegnestue BIG, har tegnet nogle af de vildeste bygninger i verden, som tæller et forbrændingsanlæg med en skibakke, en selvforsynende ø med huse bygget af strå og tang, og et museum i en bro. Han er energisk, visionær, kreativ, og så har han altid ja-hatten på! &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Bjarke Ingels!!&lt;br /&gt;&lt;br /&gt;Hvad er dårlig arkitektur ifølge Bjarke? Hvorfor levede han af pasta ansjos i 6 måneder? Hvordan bevarer man ja-hatten? Og blev han arkitekt ved et tilfælde? Lyt med og få hele opskriften.&lt;b&gt; &lt;/b&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54740908
-   </guid>
-   <pubDate>
-    Mon, 31 Jul 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51723648" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54740908/bjarke_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens gæst er en vaskeægte verdensstjerne. Han har Elon Musk på speed-dial og hygger med Robert De Niro. Hans tegnestue BIG, har tegnet nogle af de vildeste bygninger i verden, som tæller et forbrændingsanlæg med en skibakke, en selvforsynende ø med...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens gæst er en vaskeægte verdensstjerne. Han har Elon Musk på speed-dial og hygger med Robert De Niro. Hans tegnestue BIG, har tegnet nogle af de vildeste bygninger i verden, som tæller et forbrændingsanlæg med en skibakke, en selvforsynende ø med huse bygget af strå og tang, og et museum i en bro. Han er energisk, visionær, kreativ, og så har han altid ja-hatten på! &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Bjarke Ingels!!&lt;br /&gt;&lt;br /&gt;Hvad er dårlig arkitektur ifølge Bjarke? Hvorfor levede han af pasta ansjos i 6 måneder? Hvordan bevarer man ja-hatten? Og blev han arkitekt ved et tilfælde? Lyt med og få hele opskriften.&lt;b&gt; &lt;/b&gt;
-   </itunes:summary>
-   <itunes:duration>
-    3229
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på et langt liv i showbiz med Pernille Højmark
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-et-langt-liv-i-showbiz-med-pernille-hojmark--54739204
-   </link>
-   <description>
-    Dagens gæst er både skuespiller og sanger, og hun har medvirket i utallige film og teaterstykker som bl.a. tæller TAXA og Krøniken. Hun er en mester i at synge dansktop, og så har hun opvarmet for selveste Whitney Houston. Hun elsker Pippi, og så er hun ikke færdig i showbizz! &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Pernille Højmark! &lt;br /&gt;&lt;br /&gt;Hvordan rejser man sig fra en meget hård opvækst? Hvordan slår man igennem i showbizz? Hvordan var det at varme op for Whitney Houston? Og hvad er der galt med filmcastingen i Danmark? Så prøv da at give programmet et lyt????
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54739204
-   </guid>
-   <pubDate>
-    Mon, 24 Jul 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51782016" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54739204/pernille_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens gæst er både skuespiller og sanger, og hun har medvirket i utallige film og teaterstykker som bl.a. tæller TAXA og Krøniken. Hun er en mester i at synge dansktop, og så har hun opvarmet for selveste Whitney Houston. Hun elsker Pippi, og så er...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens gæst er både skuespiller og sanger, og hun har medvirket i utallige film og teaterstykker som bl.a. tæller TAXA og Krøniken. Hun er en mester i at synge dansktop, og så har hun opvarmet for selveste Whitney Houston. Hun elsker Pippi, og så er hun ikke færdig i showbizz! &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Pernille Højmark! &lt;br /&gt;&lt;br /&gt;Hvordan rejser man sig fra en meget hård opvækst? Hvordan slår man igennem i showbizz? Hvordan var det at varme op for Whitney Houston? Og hvad er der galt med filmcastingen i Danmark? Så prøv da at give programmet et lyt????
-   </itunes:summary>
-   <itunes:duration>
-    3233
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at blive TV-vært med Ane Cortzen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-blive-tv-vaert-med-ane-cortzen--54124848
-   </link>
-   <description>
-    Dagens gæst er både TV-vært, arkitekt, grafisk designer, konferencier og foredragsholder. Hun slog igennem på skærmen i 2011 med TV-programmet TVTVTV og blev kåret som årets kvindelige TV-vært samme år. Hun er en knivskarp formidler, og så er hun træt af grimme bygninger i København!&lt;br /&gt;&lt;br /&gt;Dagens gæst er: Ane Cortzen! &lt;br /&gt;&lt;br /&gt;Hvordan bliver man TV-vært uden nogen erfaring? Hvorfor tror Ane stadig, at hun kommer til at vinde en Oscar? Hvorfor drikker hun ikke? Og hvordan har hun det med søskendewrestling? Dagens opskrift byder bl.a. på 2 kg mediefamilie og 3 spsk J.R. Resten kan du finde i dette delikate afsnit.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54124848
-   </guid>
-   <pubDate>
-    Mon, 17 Jul 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51788160" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54124848/ane_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens gæst er både TV-vært, arkitekt, grafisk designer, konferencier og foredragsholder. Hun slog igennem på skærmen i 2011 med TV-programmet TVTVTV og blev kåret som årets kvindelige TV-vært samme år. Hun er en knivskarp formidler, og så er hun træt...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens gæst er både TV-vært, arkitekt, grafisk designer, konferencier og foredragsholder. Hun slog igennem på skærmen i 2011 med TV-programmet TVTVTV og blev kåret som årets kvindelige TV-vært samme år. Hun er en knivskarp formidler, og så er hun træt af grimme bygninger i København!&lt;br /&gt;&lt;br /&gt;Dagens gæst er: Ane Cortzen! &lt;br /&gt;&lt;br /&gt;Hvordan bliver man TV-vært uden nogen erfaring? Hvorfor tror Ane stadig, at hun kommer til at vinde en Oscar? Hvorfor drikker hun ikke? Og hvordan har hun det med søskendewrestling? Dagens opskrift byder bl.a. på 2 kg mediefamilie og 3 spsk J.R. Resten kan du finde i dette delikate afsnit.
-   </itunes:summary>
-   <itunes:duration>
-    3233
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på en moderne viking med Jim Lyngvild
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-en-moderne-viking-med-jim-lyngvild--54124839
-   </link>
-   <description>
-    Dagens gæst er en vild excentriker, der ikke er bange for at skille sig ud. Han er modedesigner, museumsdesigner, og så er han viking med egen vikingeborg - som han selv har bygget! Han har et kæmpe talent for historiefortælling, design og ikke mindst - at spise Ferrero Rocher på tid! &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Jim Lyngvild!&lt;br /&gt;&lt;br /&gt;Hvordan har Jim det med shitstorms? Hvorfor lever han som en viking? Og hvordan rejser man sig fra en hård opvækst? Dagens opskrift byder bl.a. p å 5 kg craziness og 1 spsk hesteporno. Resten gemmer sig i afsnittet.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54124839
-   </guid>
-   <pubDate>
-    Mon, 10 Jul 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51794688" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54124839/jim_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens gæst er en vild excentriker, der ikke er bange for at skille sig ud. Han er modedesigner, museumsdesigner, og så er han viking med egen vikingeborg - som han selv har bygget! Han har et kæmpe talent for historiefortælling, design og ikke mindst...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens gæst er en vild excentriker, der ikke er bange for at skille sig ud. Han er modedesigner, museumsdesigner, og så er han viking med egen vikingeborg - som han selv har bygget! Han har et kæmpe talent for historiefortælling, design og ikke mindst - at spise Ferrero Rocher på tid! &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Jim Lyngvild!&lt;br /&gt;&lt;br /&gt;Hvordan har Jim det med shitstorms? Hvorfor lever han som en viking? Og hvordan rejser man sig fra en hård opvækst? Dagens opskrift byder bl.a. p å 5 kg craziness og 1 spsk hesteporno. Resten gemmer sig i afsnittet.
-   </itunes:summary>
-   <itunes:duration>
-    3234
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på en gastronomisk revolution med Claus Meyer
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-en-gastronomisk-revolution-med-claus-meyer--54124832
-   </link>
-   <description>
-    Dagens gæst er et fyrtårn i dansk gastronomi. Han har været på den danske madscene i over 30 år og lavet så mange forskellige projekter, at man bliver helt forpustet bare ved tanken. Han har revolutioneret det nordiske køkken med Noma, givet danskerne bedre brød, lavet mad i både fængsler og New York, startet festivaler og æbleplantager - alt sammen med en kæmpe passion og begejstring for mad. &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Claus Meyer!&lt;br /&gt;&lt;br /&gt;Hvorfor elsker Claus Meyer Jesus? Hvordan har han det med Noma i dag? Og hvordan er det at vokse op i et hjem med 4 kummefrysere? Dagens opskrift lyder bl.a. på 1 kg lortemad og 3 spsk spiritualitet. Resten må du lytte dig til.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54124832
-   </guid>
-   <pubDate>
-    Mon, 03 Jul 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51712512" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54124832/clausmeyer_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens gæst er et fyrtårn i dansk gastronomi. Han har været på den danske madscene i over 30 år og lavet så mange forskellige projekter, at man bliver helt forpustet bare ved tanken. Han har revolutioneret det nordiske køkken med Noma, givet danskerne...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens gæst er et fyrtårn i dansk gastronomi. Han har været på den danske madscene i over 30 år og lavet så mange forskellige projekter, at man bliver helt forpustet bare ved tanken. Han har revolutioneret det nordiske køkken med Noma, givet danskerne bedre brød, lavet mad i både fængsler og New York, startet festivaler og æbleplantager - alt sammen med en kæmpe passion og begejstring for mad. &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Claus Meyer!&lt;br /&gt;&lt;br /&gt;Hvorfor elsker Claus Meyer Jesus? Hvordan har han det med Noma i dag? Og hvordan er det at vokse op i et hjem med 4 kummefrysere? Dagens opskrift lyder bl.a. på 1 kg lortemad og 3 spsk spiritualitet. Resten må du lytte dig til.
-   </itunes:summary>
-   <itunes:duration>
-    3228
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at blive Bachelorette med Mette Sommer
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-blive-bachelorette-med-mette-sommer--54124807
-   </link>
-   <description>
-    Dagens gæst har en bachelor i kærlighed. Bogstaveligt talt. Hun har nemlig både deltaget i The Bachelor på TV2, hvor hun var med hele vejen, og nu er hun simpelthen også blevet Bachelorette. Hun er en kæk, charmerende fodboldpige med ben i næsen, der ikke er bange for at vise, hvor skabet skal stå!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Mette Sommer&lt;br /&gt;&lt;br /&gt;Hvordan har Mette det med akavet tavshed? Fandt hun kærligheden i Mexico? Og hvordan er det at date på TV? Dagens opskrift består bl.a. af 1 spsk tungekys og 3 spsk sangskriver. Lyt og få den hele&lt;b&gt;.&lt;/b&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54124807
-   </guid>
-   <pubDate>
-    Mon, 26 Jun 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51740160" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54124807/mette_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens gæst har en bachelor i kærlighed. Bogstaveligt talt. Hun har nemlig både deltaget i The Bachelor på TV2, hvor hun var med hele vejen, og nu er hun simpelthen også blevet Bachelorette. Hun er en kæk, charmerende fodboldpige med ben i næsen, der...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens gæst har en bachelor i kærlighed. Bogstaveligt talt. Hun har nemlig både deltaget i The Bachelor på TV2, hvor hun var med hele vejen, og nu er hun simpelthen også blevet Bachelorette. Hun er en kæk, charmerende fodboldpige med ben i næsen, der ikke er bange for at vise, hvor skabet skal stå!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Mette Sommer&lt;br /&gt;&lt;br /&gt;Hvordan har Mette det med akavet tavshed? Fandt hun kærligheden i Mexico? Og hvordan er det at date på TV? Dagens opskrift består bl.a. af 1 spsk tungekys og 3 spsk sangskriver. Lyt og få den hele&lt;b&gt;.&lt;/b&gt;
-   </itunes:summary>
-   <itunes:duration>
-    3230
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på et ikonisk konditori med Marianne Stagetorn Kolos
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-et-ikonisk-konditori-med-marianne-stagetorn-kolos--54124789
-   </link>
-   <description>
-    Dagens gæst ejer stedet der serverer en af Danmarks mest kendte kager: Sportskagen. Hun er indehaver af Danmarks fineste konditori La Glace og en vaskeægte powerwoman. Hun elsker kager, Nik &amp;amp; Jay og gode rim - og så ved hun i dén grad noget om, hvordan man driver forretning.&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Marianne Stagetorn Kolos!&lt;br /&gt;&lt;br /&gt;Hvorfor elsker Marianne Nik &amp;amp; Jay? Hvorfor skulle La Glace bare rives ned? Hvad synes Marianne egentlig om La Glaces slogan? Dagens opskrift består bl.a. af 1 kg bondepige og 5 kg kageglæde. Lyt dog med for at få resten??
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54124789
-   </guid>
-   <pubDate>
-    Mon, 19 Jun 2023 03:00:01 +0000
-   </pubDate>
-   <enclosure length="51739392" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54124789/marianne_program_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens gæst ejer stedet der serverer en af Danmarks mest kendte kager: Sportskagen. Hun er indehaver af Danmarks fineste konditori La Glace og en vaskeægte powerwoman. Hun elsker kager, Nik &amp;amp; Jay og gode rim - og så ved hun i dén grad noget om,...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens gæst ejer stedet der serverer en af Danmarks mest kendte kager: Sportskagen. Hun er indehaver af Danmarks fineste konditori La Glace og en vaskeægte powerwoman. Hun elsker kager, Nik &amp;amp; Jay og gode rim - og så ved hun i dén grad noget om, hvordan man driver forretning.&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Marianne Stagetorn Kolos!&lt;br /&gt;&lt;br /&gt;Hvorfor elsker Marianne Nik &amp;amp; Jay? Hvorfor skulle La Glace bare rives ned? Hvad synes Marianne egentlig om La Glaces slogan? Dagens opskrift består bl.a. af 1 kg bondepige og 5 kg kageglæde. Lyt dog med for at få resten??
-   </itunes:summary>
-   <itunes:duration>
-    3230
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at være en moderne mand med Jesper Zuschlag
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-vaere-en-moderne-mand-med-jesper-zuschlag--54124777
-   </link>
-   <description>
-    Dagens gæst er både skuespiller, manuskriptforfatter og instruktør. Han er den ene halvdel af dansk fiktions powerduo med Julie Rudbæk. Han har udforsket 30 års krisen, det moderne parforhold, klassiske kønsroller, og vist hvordan man er elite-dater. Alt dette med en god blanding af alvor og komik.&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jesper Zuschlag!&lt;br /&gt;&lt;br /&gt;Hvornår er Jesper mindst en moderne mand? Hvordan er man en rigtig mand? Hvad er der med Jesper og fodbold? Dagens opskrift lyder bl.a. på 2 kg alderskrise og 3 dl bløde værdier. Lyt med for at få resten.&lt;b&gt; &lt;br /&gt;&lt;/b&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54124777
-   </guid>
-   <pubDate>
-    Mon, 12 Jun 2023 03:00:02 +0000
-   </pubDate>
-   <enclosure length="51805056" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54124777/jesper_program_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens gæst er både skuespiller, manuskriptforfatter og instruktør. Han er den ene halvdel af dansk fiktions powerduo med Julie Rudbæk. Han har udforsket 30 års krisen, det moderne parforhold, klassiske kønsroller, og vist hvordan man er elite-dater....
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens gæst er både skuespiller, manuskriptforfatter og instruktør. Han er den ene halvdel af dansk fiktions powerduo med Julie Rudbæk. Han har udforsket 30 års krisen, det moderne parforhold, klassiske kønsroller, og vist hvordan man er elite-dater. Alt dette med en god blanding af alvor og komik.&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jesper Zuschlag!&lt;br /&gt;&lt;br /&gt;Hvornår er Jesper mindst en moderne mand? Hvordan er man en rigtig mand? Hvad er der med Jesper og fodbold? Dagens opskrift lyder bl.a. på 2 kg alderskrise og 3 dl bløde værdier. Lyt med for at få resten.&lt;b&gt; &lt;br /&gt;&lt;/b&gt;
-   </itunes:summary>
-   <itunes:duration>
-    3234
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at blive madmand med Timm Vladimir
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-blive-madmand-med-timm-vladimir--52864851
-   </link>
-   <description>
-    Dagens gæst har et CV så langt, at man bliver helt forpustet. Han er både stand-up komiker, skuespiller, radiovært, tv-vært, fotograf, kogebogsforfatter, masterchef-vinder og madskoleindehaver. Han er en knivskarp formidler med masser af humor, charme og energi. Jeg mødte ham første gang, da jeg stod og svedte i et kæmpe telt i Nordjylland, og hørte ordende: KLAR, PARAT, BAG. &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Timm Vladimir! &lt;br /&gt;&lt;br /&gt;Hvor mange insekter har Timm spist? Hvordan satan vinder man masterchef? Hvornår kommer Timm’s Kitsch &amp;amp; Cook roadshow? Hvordan er det at leve af leverpostej i 2 år? Dagens opskrift, lyder blandt andet, på 500g dreng med krudt i røven, 5 dl karriereskift og 3 spsk skuespil og sketches. Lyt med for at få den hele.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/52864851
-   </guid>
-   <pubDate>
-    Mon, 27 Feb 2023 13:20:48 +0000
-   </pubDate>
-   <enclosure length="62526720" type="audio/mpeg" url="https://api.spreaker.com/download/episode/52864851/timm_program3_klippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens gæst har et CV så langt, at man bliver helt forpustet. Han er både stand-up komiker, skuespiller, radiovært, tv-vært, fotograf, kogebogsforfatter, masterchef-vinder og madskoleindehaver. Han er en knivskarp formidler med masser af humor, charme...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens gæst har et CV så langt, at man bliver helt forpustet. Han er både stand-up komiker, skuespiller, radiovært, tv-vært, fotograf, kogebogsforfatter, masterchef-vinder og madskoleindehaver. Han er en knivskarp formidler med masser af humor, charme og energi. Jeg mødte ham første gang, da jeg stod og svedte i et kæmpe telt i Nordjylland, og hørte ordende: KLAR, PARAT, BAG. &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Timm Vladimir! &lt;br /&gt;&lt;br /&gt;Hvor mange insekter har Timm spist? Hvordan satan vinder man masterchef? Hvornår kommer Timm’s Kitsch &amp;amp; Cook roadshow? Hvordan er det at leve af leverpostej i 2 år? Dagens opskrift, lyder blandt andet, på 500g dreng med krudt i røven, 5 dl karriereskift og 3 spsk skuespil og sketches. Lyt med for at få den hele.
-   </itunes:summary>
-   <itunes:duration>
-    3904
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på et alterego med Pattesutter
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-et-alterego-med-pattesutter--52724794
-   </link>
-   <description>
-    Store fede, Patte, eller Suttefar - kært barn har mange navne. Han elsker at rappe om pik, patter, stoffer og byture. Han lagde Roskilde Festival ned i 2018 med sangen Technopiik, og så er han altid på gæstelisten. Han er rappens svar på Crazy Frog og en mand, der virkelig deler vandene. Han er min faste go-to til fester, når jeg har drukket 100 bajere - og det er dælme gur!&lt;br /&gt;&lt;br /&gt;Dagens gæst er: Pattesutter / Jakob Maegaard! &lt;br /&gt;&lt;br /&gt;Hvordan har Jakob udviklet alteregoet Pattesutter? Hvor kommer navnet Pattesutter fra? Hvad er forskellen mellem Jakob og Pattesutter? Er der en forskel? Hvordan lyder Razz fra MGP feat Pattesutter? Hvornår udkommer hans tegnefilm? Er det altid sjovt at være Pattesutter? Dagens opskrift, lyder blandt meget andet, på 1 kg ballademager, 1 kg kokain og 5 spsk klassisk klaver og tromme. Hvis du vil have hele opskriften, er du nødt til at lytte med.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/52724794
-   </guid>
-   <pubDate>
-    Tue, 14 Feb 2023 10:20:01 +0000
-   </pubDate>
-   <enclosure length="41839104" type="audio/mpeg" url="https://api.spreaker.com/download/episode/52724794/pattesutter_program2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Store fede, Patte, eller Suttefar - kært barn har mange navne. Han elsker at rappe om pik, patter, stoffer og byture. Han lagde Roskilde Festival ned i 2018 med sangen Technopiik, og så er han altid på gæstelisten. Han er rappens svar på Crazy Frog og...
-   </itunes:subtitle>
-   <itunes:summary>
-    Store fede, Patte, eller Suttefar - kært barn har mange navne. Han elsker at rappe om pik, patter, stoffer og byture. Han lagde Roskilde Festival ned i 2018 med sangen Technopiik, og så er han altid på gæstelisten. Han er rappens svar på Crazy Frog og en mand, der virkelig deler vandene. Han er min faste go-to til fester, når jeg har drukket 100 bajere - og det er dælme gur!&lt;br /&gt;&lt;br /&gt;Dagens gæst er: Pattesutter / Jakob Maegaard! &lt;br /&gt;&lt;br /&gt;Hvordan har Jakob udviklet alteregoet Pattesutter? Hvor kommer navnet Pattesutter fra? Hvad er forskellen mellem Jakob og Pattesutter? Er der en forskel? Hvordan lyder Razz fra MGP feat Pattesutter? Hvornår udkommer hans tegnefilm? Er det altid sjovt at være Pattesutter? Dagens opskrift, lyder blandt meget andet, på 1 kg ballademager, 1 kg kokain og 5 spsk klassisk klaver og tromme. Hvis du vil have hele opskriften, er du nødt til at lytte med.
-   </itunes:summary>
-   <itunes:duration>
-    2611
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Opskriften på at blive politisk TikTok-konge med Alex Vanopslagh
-   </title>
-   <link>
-    https://www.spreaker.com/episode/opskriften-pa-at-blive-politisk-tiktok-konge-med-alex-vanopslagh--52724793
-   </link>
-   <description>
-    Dagens gæst er sindssygt populær blandt de unge. Han laver fedt content på Tiktok, Instagram og Facebook, hvor mere end 100.000 følger med. Han er sjov, han er skarp, og så går han også under navnet Daddy. MEN han er IKKE influencer! Han er en blå komet i det politiske landskab, en rockstjerne i jakkesæt, og så er han kun 31 år.&lt;br /&gt;&lt;br /&gt;Dagens gæst er Alex Vanopslagh! &lt;br /&gt;&lt;br /&gt;Hvilke ingredienser skal der til for at blive TikTok-konge? Hvorfor vil Alex Vanopslagh aldrig blive fuldtidsinfluencer? Hvor går grænsen mellem humor og politik? Går LA snart ind i Metaverse eller bliver det Reddit? Det er nogle af de ting, vi snakker om i dagens afsnit. &lt;br /&gt;Dagens opskrift, indeholder blandt andet, 2 kg entertainer, 2 spsk selvironi, og 1,5 pund ungdommelighed. Lyt med for at få hele opskriften.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/52724793
-   </guid>
-   <pubDate>
-    Tue, 14 Feb 2023 10:15:01 +0000
-   </pubDate>
-   <enclosure length="47481600" type="audio/mpeg" url="https://api.spreaker.com/download/episode/52724793/alex_program1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens gæst er sindssygt populær blandt de unge. Han laver fedt content på Tiktok, Instagram og Facebook, hvor mere end 100.000 følger med. Han er sjov, han er skarp, og så går han også under navnet Daddy. MEN han er IKKE influencer! Han er en blå...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens gæst er sindssygt populær blandt de unge. Han laver fedt content på Tiktok, Instagram og Facebook, hvor mere end 100.000 følger med. Han er sjov, han er skarp, og så går han også under navnet Daddy. MEN han er IKKE influencer! Han er en blå komet i det politiske landskab, en rockstjerne i jakkesæt, og så er han kun 31 år.&lt;br /&gt;&lt;br /&gt;Dagens gæst er Alex Vanopslagh! &lt;br /&gt;&lt;br /&gt;Hvilke ingredienser skal der til for at blive TikTok-konge? Hvorfor vil Alex Vanopslagh aldrig blive fuldtidsinfluencer? Hvor går grænsen mellem humor og politik? Går LA snart ind i Metaverse eller bliver det Reddit? Det er nogle af de ting, vi snakker om i dagens afsnit. &lt;br /&gt;Dagens opskrift, indeholder blandt andet, 2 kg entertainer, 2 spsk selvironi, og 1,5 pund ungdommelighed. Lyt med for at få hele opskriften.
-   </itunes:summary>
-   <itunes:duration>
-    2964
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+Ugens gæst er: Astrid Olsen...</itunes:subtitle>
+         <itunes:summary>Ugens gæst lever af likes, followers og visninger. Hun er en af Danmarks mest populære youtubere, instagrammer og tiktok’ere. Hun er bedste venner med kameraet og tattoo-maskinen, og så har hun også en kogebog på vej!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Astrid Olsen&lt;br /&gt;&lt;br /&gt;Hvordan er det at leve som influencer? Hvorfor er vlogs så populære? Hvorfor bruger Astrid ikke youtube mere, og starter hun mon som AI-fluencer? Lyt med og få hele Opskriften &lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;</itunes:summary>
+         <itunes:duration>3224</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at blive filmanmelder med Ann Lind Andersen</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-blive-filmanmelder-med-ann-lind-andersen--57254070</link>
+         <description>Ugens gæst ved alt om film. Hun har anmeldt flere film og serier, end de fleste når at se på et helt liv, både på TV og på tekst. Hun er en skarp kritiker, der elsker film fra New Hollywood-bølgen - og så giver hun ikke 6 stjerner til hvem som helst! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Ann Lind Andersen&lt;br /&gt;&lt;br /&gt;Hvordan laver man en god anmeldelse? Findes der anmeldersnobberi? Hvad er Ann Lind Andersens yndlingsfilm? Hvor mange film ser hun hver dag? Og hvad synes hun om ideen om en filmbageklub? Lyt med og få hele opskriften. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57254070</guid>
+         <pubDate>Mon, 23 Oct 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51862656" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.10.23%20-%20Opskriften%20p%C3%A5%20at%20blive%20filmanmelder%20med%20Ann%20Lind%20Andersen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst ved alt om film. Hun har anmeldt flere film og serier, end de fleste når at se på et helt liv, både på TV og på tekst. Hun er en skarp kritiker, der elsker film fra New Hollywood-bølgen - og så giver hun ikke 6 stjerner til hvem som helst!...</itunes:subtitle>
+         <itunes:summary>Ugens gæst ved alt om film. Hun har anmeldt flere film og serier, end de fleste når at se på et helt liv, både på TV og på tekst. Hun er en skarp kritiker, der elsker film fra New Hollywood-bølgen - og så giver hun ikke 6 stjerner til hvem som helst! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Ann Lind Andersen&lt;br /&gt;&lt;br /&gt;Hvordan laver man en god anmeldelse? Findes der anmeldersnobberi? Hvad er Ann Lind Andersens yndlingsfilm? Hvor mange film ser hun hver dag? Og hvad synes hun om ideen om en filmbageklub? Lyt med og få hele opskriften. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;</itunes:summary>
+         <itunes:duration>3238</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at blive strikdesigner med Josefine Dyring</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-blive-strikdesigner-med-josefine-dyring--56882920</link>
+         <description>Ugens gæst bruger strikkepinde, som vi andre trækker vejret. Hun er en kreativ og innovativ tøjdesigner, der ikke er bange for at bryde reglerne for tøjdesign. Hun elsker farver og det tilfældige - og så skal der altid indgå lyserød i hendes tøj! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Josefine Dyring&lt;br /&gt;&lt;br /&gt;Hvad tænker Josefine om et samarbejde med gangsterrappere? Hvorfor er hendes nyeste design inspireret af Desperate Housewives? Og hvorfor er det så fedt at strikke?? Lyt med og få hele opskriften.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56882920</guid>
+         <pubDate>Mon, 16 Oct 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51778560" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.10.16%20-%20Opskriften%20p%C3%A5%20at%20blive%20strikdesigner%20med%20Josefine%20Dyring.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst bruger strikkepinde, som vi andre trækker vejret. Hun er en kreativ og innovativ tøjdesigner, der ikke er bange for at bryde reglerne for tøjdesign. Hun elsker farver og det tilfældige - og så skal der altid indgå lyserød i hendes tøj!...</itunes:subtitle>
+         <itunes:summary>Ugens gæst bruger strikkepinde, som vi andre trækker vejret. Hun er en kreativ og innovativ tøjdesigner, der ikke er bange for at bryde reglerne for tøjdesign. Hun elsker farver og det tilfældige - og så skal der altid indgå lyserød i hendes tøj! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Josefine Dyring&lt;br /&gt;&lt;br /&gt;Hvad tænker Josefine om et samarbejde med gangsterrappere? Hvorfor er hendes nyeste design inspireret af Desperate Housewives? Og hvorfor er det så fedt at strikke?? Lyt med og få hele opskriften.</itunes:summary>
+         <itunes:duration>3233</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på en flot have med Søren Vester</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-en-flot-have-med-soren-vester--56841207</link>
+         <description>Ugens gæst kalder sig selv for en moderne bonderøv. Han er uddannet designer og er en mester i at vende ting på hovedet og give dem et kreativt twist. Han har medvirket i programmer som “I hus til halsen”, “Vores Genbrugshjem”, og nu viser han igen sin gigantiske have frem i “Søren Vesters have”. Han har en herlig dialekt, elsker friske farver og så hader han skyggereb!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Søren Vester&lt;br /&gt;&lt;br /&gt;Hvornår åbner Sørens Blomsterpark? Hvordan satan får man egentlig en flot have? Og hvorfor er det genialt at tisse i haven? Lyt med og få hele opskriften!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56841207</guid>
+         <pubDate>Mon, 09 Oct 2023 03:00:03 +0000</pubDate>
+         <enclosure length="51801984" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.10.09%20-%20Opskriften%20p%C3%A5%20en%20flot%20have%20med%20S%C3%B8ren%20Vester.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst kalder sig selv for en moderne bonderøv. Han er uddannet designer og er en mester i at vende ting på hovedet og give dem et kreativt twist. Han har medvirket i programmer som “I hus til halsen”, “Vores Genbrugshjem”, og nu viser han igen...</itunes:subtitle>
+         <itunes:summary>Ugens gæst kalder sig selv for en moderne bonderøv. Han er uddannet designer og er en mester i at vende ting på hovedet og give dem et kreativt twist. Han har medvirket i programmer som “I hus til halsen”, “Vores Genbrugshjem”, og nu viser han igen sin gigantiske have frem i “Søren Vesters have”. Han har en herlig dialekt, elsker friske farver og så hader han skyggereb!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Søren Vester&lt;br /&gt;&lt;br /&gt;Hvornår åbner Sørens Blomsterpark? Hvordan satan får man egentlig en flot have? Og hvorfor er det genialt at tisse i haven? Lyt med og få hele opskriften!</itunes:summary>
+         <itunes:duration>3234</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at blive motivational speaker med JCW Sunshineman</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-blive-motivational-speaker-med-jcw-sunshineman--56799444</link>
+         <description>Ugens gæst er en levende instagram-legende. Han er kendt for sætninger som “Live in the fucking now”, “The sun is shining out dere” og “Good day, this is strongest basics JCW, der speaker to you all”. Han er bodybuilder og motivational speaker, og så kæmper han for at få folk op af sofaen og stoppe med at spise chokolade!!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jasper C. Willumsen // JCW Sunshineman&lt;br /&gt;&lt;br /&gt;Hvor meget træner Jasper? Hvorfor snakker han engelsk i sine videoer? Hvordan lever man i nuet? Og skal folk egentlig bare tage sig sammen? Lyt med og få hele opskriften.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56799444</guid>
+         <pubDate>Mon, 02 Oct 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51799680" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.10.02%20-%20Opskriften%20p%C3%A5%20at%20blive%20motivational%20speaker%20med%20JCW%20Sunshineman.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst er en levende instagram-legende. Han er kendt for sætninger som “Live in the fucking now”, “The sun is shining out dere” og “Good day, this is strongest basics JCW, der speaker to you all”. Han er bodybuilder og motivational speaker, og så...</itunes:subtitle>
+         <itunes:summary>Ugens gæst er en levende instagram-legende. Han er kendt for sætninger som “Live in the fucking now”, “The sun is shining out dere” og “Good day, this is strongest basics JCW, der speaker to you all”. Han er bodybuilder og motivational speaker, og så kæmper han for at få folk op af sofaen og stoppe med at spise chokolade!!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jasper C. Willumsen // JCW Sunshineman&lt;br /&gt;&lt;br /&gt;Hvor meget træner Jasper? Hvorfor snakker han engelsk i sine videoer? Hvordan lever man i nuet? Og skal folk egentlig bare tage sig sammen? Lyt med og få hele opskriften.</itunes:summary>
+         <itunes:duration>3234</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på et hit med Arto Eriksen</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-et-hit-med-arto-eriksen--56788557</link>
+         <description>Ugens gæst er en kæmpe hitmager. Han har produceret Tobias Rahims gigantiske hits såsom “Stor Mand” og “Mucki Bar”, og han er samtidig en vild tech-house connoisseur og optræder under navnet Yo Johnny, hvis han da ikke lige laver sindssyg punk eller eksperimenterende lydflader. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Arto Eriksen&lt;br /&gt;&lt;br /&gt;Hvordan laver man et Tobias Rahim hit? Hvorfor begyndte de at lave musik sammen? Og hvornår spiller Yo Johnny deres første koncert på en rumstation? Lyt med og få hele opskriften.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56788557</guid>
+         <pubDate>Mon, 25 Sep 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51736704" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.09.25%20-%20Opskriften%20p%C3%A5%20et%20hit%20med%20Arto%20Eriksen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst er en kæmpe hitmager. Han har produceret Tobias Rahims gigantiske hits såsom “Stor Mand” og “Mucki Bar”, og han er samtidig en vild tech-house connoisseur og optræder under navnet Yo Johnny, hvis han da ikke lige laver sindssyg punk eller...</itunes:subtitle>
+         <itunes:summary>Ugens gæst er en kæmpe hitmager. Han har produceret Tobias Rahims gigantiske hits såsom “Stor Mand” og “Mucki Bar”, og han er samtidig en vild tech-house connoisseur og optræder under navnet Yo Johnny, hvis han da ikke lige laver sindssyg punk eller eksperimenterende lydflader. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Arto Eriksen&lt;br /&gt;&lt;br /&gt;Hvordan laver man et Tobias Rahim hit? Hvorfor begyndte de at lave musik sammen? Og hvornår spiller Yo Johnny deres første koncert på en rumstation? Lyt med og få hele opskriften.</itunes:summary>
+         <itunes:duration>3230</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på en trend med Julia Lahme</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-en-trend-med-julia-lahme--56773918</link>
+         <description>Ugens gæst ved alt om livsstil og trends. Hun er uddannet etnolog, og arbejder med trendforskning og kommunikation i eget bureau. Hun har skrevet en lang række bøger om alt fra teenage-tackling, danmarkshistorien og kolonihaver. Hun elsker marcipan og alt der glimter, og så har hun aldrig fået kørekort.&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Julia Lahme&lt;br /&gt;&lt;br /&gt;Hvordan opstår en trend? Hvad skete der for hipsteren og new nordic mad? Hvad kommer der til at ske i fremtiden - og kan vi nå at redde 24syv? Lyt og få hele opskriften.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56773918</guid>
+         <pubDate>Mon, 18 Sep 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51826944" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.09.18%20-%20Opskriften%20p%C3%A5%20en%20trend%20med%20Julia%20Lahme.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst ved alt om livsstil og trends. Hun er uddannet etnolog, og arbejder med trendforskning og kommunikation i eget bureau. Hun har skrevet en lang række bøger om alt fra teenage-tackling, danmarkshistorien og kolonihaver. Hun elsker marcipan og...</itunes:subtitle>
+         <itunes:summary>Ugens gæst ved alt om livsstil og trends. Hun er uddannet etnolog, og arbejder med trendforskning og kommunikation i eget bureau. Hun har skrevet en lang række bøger om alt fra teenage-tackling, danmarkshistorien og kolonihaver. Hun elsker marcipan og alt der glimter, og så har hun aldrig fået kørekort.&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Julia Lahme&lt;br /&gt;&lt;br /&gt;Hvordan opstår en trend? Hvad skete der for hipsteren og new nordic mad? Hvad kommer der til at ske i fremtiden - og kan vi nå at redde 24syv? Lyt og få hele opskriften.</itunes:summary>
+         <itunes:duration>3236</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at redde klimaet med Anders Morgenthaler</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-redde-klimaet-med-anders-morgenthaler--56685217</link>
+         <description>Ugens gæst er både forfatter, tegner, filminstruktør og selverklæret klimaaktivist. Han er en af mændene bag den ikoniske stribe Wulffmorgenthaler og den sindssyge flodhest Dolph. Han er en original, kreativ, skæv og humoristisk mand, der ikke er bange for at tage bladet fra munden! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Anders Morgenthaler!&lt;br /&gt;&lt;br /&gt;Hvor radikal må man være, når det kommer til at kæmpe mod klimaforandringer? Har Anders givet op på at redde klimaet, og hvor rasende er han på en skala fra 1-10? Lyt med og få hele opskriften.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56685217</guid>
+         <pubDate>Mon, 11 Sep 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51559296" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.09.11%20-%20Opskriften%20p%C3%A5%20at%20redde%20klimaet%20med%20Anders%20Morgenthaler.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst er både forfatter, tegner, filminstruktør og selverklæret klimaaktivist. Han er en af mændene bag den ikoniske stribe Wulffmorgenthaler og den sindssyge flodhest Dolph. Han er en original, kreativ, skæv og humoristisk mand, der ikke er...</itunes:subtitle>
+         <itunes:summary>Ugens gæst er både forfatter, tegner, filminstruktør og selverklæret klimaaktivist. Han er en af mændene bag den ikoniske stribe Wulffmorgenthaler og den sindssyge flodhest Dolph. Han er en original, kreativ, skæv og humoristisk mand, der ikke er bange for at tage bladet fra munden! &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Anders Morgenthaler!&lt;br /&gt;&lt;br /&gt;Hvor radikal må man være, når det kommer til at kæmpe mod klimaforandringer? Har Anders givet op på at redde klimaet, og hvor rasende er han på en skala fra 1-10? Lyt med og få hele opskriften.</itunes:summary>
+         <itunes:duration>3219</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på et godt meme med Morfarfortæller</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-et-godt-meme-med-morfarfortaeller--56577061</link>
+         <description>Ugens gæst er en vaskeægte memer. Han er uddannet slagter, og det kan mærkes i hans memes. Han skærer i politikerne, samfundet, og populære holdninger - ikke med knive, men med humor. Han er også forfatter og kunstner, hvor han går under navnet Talentløs. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Morfarfortæller eller Jan Lillie Lauritsen&lt;br /&gt;&lt;br /&gt;Hvordan har Jan brugt memes som sit safe-space? Hvad er et godt meme ifølge ham? Og skaber hans memes egentlig mere splid end dialog? Lyt til programmet og få hele opskriften.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56577061</guid>
+         <pubDate>Mon, 04 Sep 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51880320" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.09.04%20-%20Opskriften%20p%C3%A5%20et%20godt%20meme%20med%20Morfarfort%C3%A6ller.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst er en vaskeægte memer. Han er uddannet slagter, og det kan mærkes i hans memes. Han skærer i politikerne, samfundet, og populære holdninger - ikke med knive, men med humor. Han er også forfatter og kunstner, hvor han går under navnet...</itunes:subtitle>
+         <itunes:summary>Ugens gæst er en vaskeægte memer. Han er uddannet slagter, og det kan mærkes i hans memes. Han skærer i politikerne, samfundet, og populære holdninger - ikke med knive, men med humor. Han er også forfatter og kunstner, hvor han går under navnet Talentløs. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Morfarfortæller eller Jan Lillie Lauritsen&lt;br /&gt;&lt;br /&gt;Hvordan har Jan brugt memes som sit safe-space? Hvad er et godt meme ifølge ham? Og skaber hans memes egentlig mere splid end dialog? Lyt til programmet og få hele opskriften.</itunes:summary>
+         <itunes:duration>3239</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at lægge sit liv om med Jokeren</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-laegge-sit-liv-om-med-jokeren--56485464</link>
+         <description>Ugens gæst er en vaskeægte rap-legende. Han slog igennem med Den Gale Pose med sangen Spændt Op til Lir, og står bag utallige hits såsom Havnen, Godt Taget og Nogen Spørgsmål?. Han har kaldt sig selv for stodder, og levet et vildt liv med sex, drugs &amp;amp; rock n’roll - men nu har han lagt sit liv om og er gået en anden vej. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jesper "Jokeren" Dahl! &lt;br /&gt;&lt;br /&gt;Hvordan opstod Jokerens misbrug? Hvorfor er det så svært at komme ud af? Hvordan kom Jokeren ud af det - og hvorfor var psykedelisk terapi løsningen? Det og meget mere kan du høre om i dagens episode.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56485464</guid>
+         <pubDate>Mon, 28 Aug 2023 03:00:03 +0000</pubDate>
+         <enclosure length="51825024" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.08.28%20-%20Opskriften%20p%C3%A5%20at%20l%C3%A6gge%20sit%20liv%20om%20med%20Jokeren.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ugens gæst er en vaskeægte rap-legende. Han slog igennem med Den Gale Pose med sangen Spændt Op til Lir, og står bag utallige hits såsom Havnen, Godt Taget og Nogen Spørgsmål?. Han har kaldt sig selv for stodder, og levet et vildt liv med sex, drugs...</itunes:subtitle>
+         <itunes:summary>Ugens gæst er en vaskeægte rap-legende. Han slog igennem med Den Gale Pose med sangen Spændt Op til Lir, og står bag utallige hits såsom Havnen, Godt Taget og Nogen Spørgsmål?. Han har kaldt sig selv for stodder, og levet et vildt liv med sex, drugs &amp;amp; rock n’roll - men nu har han lagt sit liv om og er gået en anden vej. &lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jesper "Jokeren" Dahl! &lt;br /&gt;&lt;br /&gt;Hvordan opstod Jokerens misbrug? Hvorfor er det så svært at komme ud af? Hvordan kom Jokeren ud af det - og hvorfor var psykedelisk terapi løsningen? Det og meget mere kan du høre om i dagens episode.</itunes:summary>
+         <itunes:duration>3235</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på god arkitektur med Bjarke Ingels</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-god-arkitektur-med-bjarke-ingels--54740908</link>
+         <description>Dagens gæst er en vaskeægte verdensstjerne. Han har Elon Musk på speed-dial og hygger med Robert De Niro. Hans tegnestue BIG, har tegnet nogle af de vildeste bygninger i verden, som tæller et forbrændingsanlæg med en skibakke, en selvforsynende ø med huse bygget af strå og tang, og et museum i en bro. Han er energisk, visionær, kreativ, og så har han altid ja-hatten på! &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Bjarke Ingels!!&lt;br /&gt;&lt;br /&gt;Hvad er dårlig arkitektur ifølge Bjarke? Hvorfor levede han af pasta ansjos i 6 måneder? Hvordan bevarer man ja-hatten? Og blev han arkitekt ved et tilfælde? Lyt med og få hele opskriften.&lt;b&gt; &lt;/b&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54740908</guid>
+         <pubDate>Mon, 31 Jul 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51723648" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.07.31%20-%20Opskriften%20p%C3%A5%20god%20arkitektur%20med%20Bjarke%20Ingels.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dagens gæst er en vaskeægte verdensstjerne. Han har Elon Musk på speed-dial og hygger med Robert De Niro. Hans tegnestue BIG, har tegnet nogle af de vildeste bygninger i verden, som tæller et forbrændingsanlæg med en skibakke, en selvforsynende ø med...</itunes:subtitle>
+         <itunes:summary>Dagens gæst er en vaskeægte verdensstjerne. Han har Elon Musk på speed-dial og hygger med Robert De Niro. Hans tegnestue BIG, har tegnet nogle af de vildeste bygninger i verden, som tæller et forbrændingsanlæg med en skibakke, en selvforsynende ø med huse bygget af strå og tang, og et museum i en bro. Han er energisk, visionær, kreativ, og så har han altid ja-hatten på! &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Bjarke Ingels!!&lt;br /&gt;&lt;br /&gt;Hvad er dårlig arkitektur ifølge Bjarke? Hvorfor levede han af pasta ansjos i 6 måneder? Hvordan bevarer man ja-hatten? Og blev han arkitekt ved et tilfælde? Lyt med og få hele opskriften.&lt;b&gt; &lt;/b&gt;</itunes:summary>
+         <itunes:duration>3229</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på et langt liv i showbiz med Pernille Højmark</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-et-langt-liv-i-showbiz-med-pernille-hojmark--54739204</link>
+         <description>Dagens gæst er både skuespiller og sanger, og hun har medvirket i utallige film og teaterstykker som bl.a. tæller TAXA og Krøniken. Hun er en mester i at synge dansktop, og så har hun opvarmet for selveste Whitney Houston. Hun elsker Pippi, og så er hun ikke færdig i showbizz! &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Pernille Højmark! &lt;br /&gt;&lt;br /&gt;Hvordan rejser man sig fra en meget hård opvækst? Hvordan slår man igennem i showbizz? Hvordan var det at varme op for Whitney Houston? Og hvad er der galt med filmcastingen i Danmark? Så prøv da at give programmet et lyt????</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54739204</guid>
+         <pubDate>Mon, 24 Jul 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51782016" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.07.24%20-%20Opskriften%20p%C3%A5%20et%20langt%20liv%20i%20showbiz%20med%20Pernille%20H%C3%B8jmark.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dagens gæst er både skuespiller og sanger, og hun har medvirket i utallige film og teaterstykker som bl.a. tæller TAXA og Krøniken. Hun er en mester i at synge dansktop, og så har hun opvarmet for selveste Whitney Houston. Hun elsker Pippi, og så er...</itunes:subtitle>
+         <itunes:summary>Dagens gæst er både skuespiller og sanger, og hun har medvirket i utallige film og teaterstykker som bl.a. tæller TAXA og Krøniken. Hun er en mester i at synge dansktop, og så har hun opvarmet for selveste Whitney Houston. Hun elsker Pippi, og så er hun ikke færdig i showbizz! &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Pernille Højmark! &lt;br /&gt;&lt;br /&gt;Hvordan rejser man sig fra en meget hård opvækst? Hvordan slår man igennem i showbizz? Hvordan var det at varme op for Whitney Houston? Og hvad er der galt med filmcastingen i Danmark? Så prøv da at give programmet et lyt????</itunes:summary>
+         <itunes:duration>3233</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at blive TV-vært med Ane Cortzen</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-blive-tv-vaert-med-ane-cortzen--54124848</link>
+         <description>Dagens gæst er både TV-vært, arkitekt, grafisk designer, konferencier og foredragsholder. Hun slog igennem på skærmen i 2011 med TV-programmet TVTVTV og blev kåret som årets kvindelige TV-vært samme år. Hun er en knivskarp formidler, og så er hun træt af grimme bygninger i København!&lt;br /&gt;&lt;br /&gt;Dagens gæst er: Ane Cortzen! &lt;br /&gt;&lt;br /&gt;Hvordan bliver man TV-vært uden nogen erfaring? Hvorfor tror Ane stadig, at hun kommer til at vinde en Oscar? Hvorfor drikker hun ikke? Og hvordan har hun det med søskendewrestling? Dagens opskrift byder bl.a. på 2 kg mediefamilie og 3 spsk J.R. Resten kan du finde i dette delikate afsnit.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54124848</guid>
+         <pubDate>Mon, 17 Jul 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51788160" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.07.17%20-%20Opskriften%20p%C3%A5%20at%20blive%20TV-v%C3%A6rt%20med%20Ane%20Cortzen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dagens gæst er både TV-vært, arkitekt, grafisk designer, konferencier og foredragsholder. Hun slog igennem på skærmen i 2011 med TV-programmet TVTVTV og blev kåret som årets kvindelige TV-vært samme år. Hun er en knivskarp formidler, og så er hun træt...</itunes:subtitle>
+         <itunes:summary>Dagens gæst er både TV-vært, arkitekt, grafisk designer, konferencier og foredragsholder. Hun slog igennem på skærmen i 2011 med TV-programmet TVTVTV og blev kåret som årets kvindelige TV-vært samme år. Hun er en knivskarp formidler, og så er hun træt af grimme bygninger i København!&lt;br /&gt;&lt;br /&gt;Dagens gæst er: Ane Cortzen! &lt;br /&gt;&lt;br /&gt;Hvordan bliver man TV-vært uden nogen erfaring? Hvorfor tror Ane stadig, at hun kommer til at vinde en Oscar? Hvorfor drikker hun ikke? Og hvordan har hun det med søskendewrestling? Dagens opskrift byder bl.a. på 2 kg mediefamilie og 3 spsk J.R. Resten kan du finde i dette delikate afsnit.</itunes:summary>
+         <itunes:duration>3233</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på en moderne viking med Jim Lyngvild</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-en-moderne-viking-med-jim-lyngvild--54124839</link>
+         <description>Dagens gæst er en vild excentriker, der ikke er bange for at skille sig ud. Han er modedesigner, museumsdesigner, og så er han viking med egen vikingeborg - som han selv har bygget! Han har et kæmpe talent for historiefortælling, design og ikke mindst - at spise Ferrero Rocher på tid! &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Jim Lyngvild!&lt;br /&gt;&lt;br /&gt;Hvordan har Jim det med shitstorms? Hvorfor lever han som en viking? Og hvordan rejser man sig fra en hård opvækst? Dagens opskrift byder bl.a. p å 5 kg craziness og 1 spsk hesteporno. Resten gemmer sig i afsnittet.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54124839</guid>
+         <pubDate>Mon, 10 Jul 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51794688" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.07.10%20-%20Opskriften%20p%C3%A5%20en%20moderne%20viking%20med%20Jim%20Lyngvild.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dagens gæst er en vild excentriker, der ikke er bange for at skille sig ud. Han er modedesigner, museumsdesigner, og så er han viking med egen vikingeborg - som han selv har bygget! Han har et kæmpe talent for historiefortælling, design og ikke mindst...</itunes:subtitle>
+         <itunes:summary>Dagens gæst er en vild excentriker, der ikke er bange for at skille sig ud. Han er modedesigner, museumsdesigner, og så er han viking med egen vikingeborg - som han selv har bygget! Han har et kæmpe talent for historiefortælling, design og ikke mindst - at spise Ferrero Rocher på tid! &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Jim Lyngvild!&lt;br /&gt;&lt;br /&gt;Hvordan har Jim det med shitstorms? Hvorfor lever han som en viking? Og hvordan rejser man sig fra en hård opvækst? Dagens opskrift byder bl.a. p å 5 kg craziness og 1 spsk hesteporno. Resten gemmer sig i afsnittet.</itunes:summary>
+         <itunes:duration>3234</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på en gastronomisk revolution med Claus Meyer</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-en-gastronomisk-revolution-med-claus-meyer--54124832</link>
+         <description>Dagens gæst er et fyrtårn i dansk gastronomi. Han har været på den danske madscene i over 30 år og lavet så mange forskellige projekter, at man bliver helt forpustet bare ved tanken. Han har revolutioneret det nordiske køkken med Noma, givet danskerne bedre brød, lavet mad i både fængsler og New York, startet festivaler og æbleplantager - alt sammen med en kæmpe passion og begejstring for mad. &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Claus Meyer!&lt;br /&gt;&lt;br /&gt;Hvorfor elsker Claus Meyer Jesus? Hvordan har han det med Noma i dag? Og hvordan er det at vokse op i et hjem med 4 kummefrysere? Dagens opskrift lyder bl.a. på 1 kg lortemad og 3 spsk spiritualitet. Resten må du lytte dig til.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54124832</guid>
+         <pubDate>Mon, 03 Jul 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51712512" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.07.03%20-%20Opskriften%20p%C3%A5%20en%20gastronomisk%20revolution%20med%20Claus%20Meyer.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dagens gæst er et fyrtårn i dansk gastronomi. Han har været på den danske madscene i over 30 år og lavet så mange forskellige projekter, at man bliver helt forpustet bare ved tanken. Han har revolutioneret det nordiske køkken med Noma, givet danskerne...</itunes:subtitle>
+         <itunes:summary>Dagens gæst er et fyrtårn i dansk gastronomi. Han har været på den danske madscene i over 30 år og lavet så mange forskellige projekter, at man bliver helt forpustet bare ved tanken. Han har revolutioneret det nordiske køkken med Noma, givet danskerne bedre brød, lavet mad i både fængsler og New York, startet festivaler og æbleplantager - alt sammen med en kæmpe passion og begejstring for mad. &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Claus Meyer!&lt;br /&gt;&lt;br /&gt;Hvorfor elsker Claus Meyer Jesus? Hvordan har han det med Noma i dag? Og hvordan er det at vokse op i et hjem med 4 kummefrysere? Dagens opskrift lyder bl.a. på 1 kg lortemad og 3 spsk spiritualitet. Resten må du lytte dig til.</itunes:summary>
+         <itunes:duration>3228</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at blive Bachelorette med Mette Sommer</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-blive-bachelorette-med-mette-sommer--54124807</link>
+         <description>Dagens gæst har en bachelor i kærlighed. Bogstaveligt talt. Hun har nemlig både deltaget i The Bachelor på TV2, hvor hun var med hele vejen, og nu er hun simpelthen også blevet Bachelorette. Hun er en kæk, charmerende fodboldpige med ben i næsen, der ikke er bange for at vise, hvor skabet skal stå!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Mette Sommer&lt;br /&gt;&lt;br /&gt;Hvordan har Mette det med akavet tavshed? Fandt hun kærligheden i Mexico? Og hvordan er det at date på TV? Dagens opskrift består bl.a. af 1 spsk tungekys og 3 spsk sangskriver. Lyt og få den hele&lt;b&gt;.&lt;/b&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54124807</guid>
+         <pubDate>Mon, 26 Jun 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51740160" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.06.26%20-%20Opskriften%20p%C3%A5%20at%20blive%20Bachelorette%20med%20Mette%20Sommer.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dagens gæst har en bachelor i kærlighed. Bogstaveligt talt. Hun har nemlig både deltaget i The Bachelor på TV2, hvor hun var med hele vejen, og nu er hun simpelthen også blevet Bachelorette. Hun er en kæk, charmerende fodboldpige med ben i næsen, der...</itunes:subtitle>
+         <itunes:summary>Dagens gæst har en bachelor i kærlighed. Bogstaveligt talt. Hun har nemlig både deltaget i The Bachelor på TV2, hvor hun var med hele vejen, og nu er hun simpelthen også blevet Bachelorette. Hun er en kæk, charmerende fodboldpige med ben i næsen, der ikke er bange for at vise, hvor skabet skal stå!&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Mette Sommer&lt;br /&gt;&lt;br /&gt;Hvordan har Mette det med akavet tavshed? Fandt hun kærligheden i Mexico? Og hvordan er det at date på TV? Dagens opskrift består bl.a. af 1 spsk tungekys og 3 spsk sangskriver. Lyt og få den hele&lt;b&gt;.&lt;/b&gt;</itunes:summary>
+         <itunes:duration>3230</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på et ikonisk konditori med Marianne Stagetorn Kolos</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-et-ikonisk-konditori-med-marianne-stagetorn-kolos--54124789</link>
+         <description>Dagens gæst ejer stedet der serverer en af Danmarks mest kendte kager: Sportskagen. Hun er indehaver af Danmarks fineste konditori La Glace og en vaskeægte powerwoman. Hun elsker kager, Nik &amp;amp; Jay og gode rim - og så ved hun i dén grad noget om, hvordan man driver forretning.&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Marianne Stagetorn Kolos!&lt;br /&gt;&lt;br /&gt;Hvorfor elsker Marianne Nik &amp;amp; Jay? Hvorfor skulle La Glace bare rives ned? Hvad synes Marianne egentlig om La Glaces slogan? Dagens opskrift består bl.a. af 1 kg bondepige og 5 kg kageglæde. Lyt dog med for at få resten??</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54124789</guid>
+         <pubDate>Mon, 19 Jun 2023 03:00:01 +0000</pubDate>
+         <enclosure length="51739392" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.06.19%20-%20Opskriften%20p%C3%A5%20et%20ikonisk%20konditori%20med%20Marianne%20Stagetorn%20Kolos.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dagens gæst ejer stedet der serverer en af Danmarks mest kendte kager: Sportskagen. Hun er indehaver af Danmarks fineste konditori La Glace og en vaskeægte powerwoman. Hun elsker kager, Nik &amp;amp; Jay og gode rim - og så ved hun i dén grad noget om,...</itunes:subtitle>
+         <itunes:summary>Dagens gæst ejer stedet der serverer en af Danmarks mest kendte kager: Sportskagen. Hun er indehaver af Danmarks fineste konditori La Glace og en vaskeægte powerwoman. Hun elsker kager, Nik &amp;amp; Jay og gode rim - og så ved hun i dén grad noget om, hvordan man driver forretning.&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Marianne Stagetorn Kolos!&lt;br /&gt;&lt;br /&gt;Hvorfor elsker Marianne Nik &amp;amp; Jay? Hvorfor skulle La Glace bare rives ned? Hvad synes Marianne egentlig om La Glaces slogan? Dagens opskrift består bl.a. af 1 kg bondepige og 5 kg kageglæde. Lyt dog med for at få resten??</itunes:summary>
+         <itunes:duration>3230</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at være en moderne mand med Jesper Zuschlag</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-vaere-en-moderne-mand-med-jesper-zuschlag--54124777</link>
+         <description>Dagens gæst er både skuespiller, manuskriptforfatter og instruktør. Han er den ene halvdel af dansk fiktions powerduo med Julie Rudbæk. Han har udforsket 30 års krisen, det moderne parforhold, klassiske kønsroller, og vist hvordan man er elite-dater. Alt dette med en god blanding af alvor og komik.&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jesper Zuschlag!&lt;br /&gt;&lt;br /&gt;Hvornår er Jesper mindst en moderne mand? Hvordan er man en rigtig mand? Hvad er der med Jesper og fodbold? Dagens opskrift lyder bl.a. på 2 kg alderskrise og 3 dl bløde værdier. Lyt med for at få resten.&lt;b&gt; &lt;br /&gt;&lt;/b&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54124777</guid>
+         <pubDate>Mon, 12 Jun 2023 03:00:02 +0000</pubDate>
+         <enclosure length="51805056" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.06.12%20-%20Opskriften%20p%C3%A5%20at%20v%C3%A6re%20en%20moderne%20mand%20med%20Jesper%20Zuschlag.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dagens gæst er både skuespiller, manuskriptforfatter og instruktør. Han er den ene halvdel af dansk fiktions powerduo med Julie Rudbæk. Han har udforsket 30 års krisen, det moderne parforhold, klassiske kønsroller, og vist hvordan man er elite-dater....</itunes:subtitle>
+         <itunes:summary>Dagens gæst er både skuespiller, manuskriptforfatter og instruktør. Han er den ene halvdel af dansk fiktions powerduo med Julie Rudbæk. Han har udforsket 30 års krisen, det moderne parforhold, klassiske kønsroller, og vist hvordan man er elite-dater. Alt dette med en god blanding af alvor og komik.&lt;br /&gt;&lt;br /&gt;Ugens gæst er: Jesper Zuschlag!&lt;br /&gt;&lt;br /&gt;Hvornår er Jesper mindst en moderne mand? Hvordan er man en rigtig mand? Hvad er der med Jesper og fodbold? Dagens opskrift lyder bl.a. på 2 kg alderskrise og 3 dl bløde værdier. Lyt med for at få resten.&lt;b&gt; &lt;br /&gt;&lt;/b&gt;</itunes:summary>
+         <itunes:duration>3234</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at blive madmand med Timm Vladimir</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-blive-madmand-med-timm-vladimir--52864851</link>
+         <description>Dagens gæst har et CV så langt, at man bliver helt forpustet. Han er både stand-up komiker, skuespiller, radiovært, tv-vært, fotograf, kogebogsforfatter, masterchef-vinder og madskoleindehaver. Han er en knivskarp formidler med masser af humor, charme og energi. Jeg mødte ham første gang, da jeg stod og svedte i et kæmpe telt i Nordjylland, og hørte ordende: KLAR, PARAT, BAG. &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Timm Vladimir! &lt;br /&gt;&lt;br /&gt;Hvor mange insekter har Timm spist? Hvordan satan vinder man masterchef? Hvornår kommer Timm’s Kitsch &amp;amp; Cook roadshow? Hvordan er det at leve af leverpostej i 2 år? Dagens opskrift, lyder blandt andet, på 500g dreng med krudt i røven, 5 dl karriereskift og 3 spsk skuespil og sketches. Lyt med for at få den hele.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/52864851</guid>
+         <pubDate>Mon, 27 Feb 2023 13:20:48 +0000</pubDate>
+         <enclosure length="62526720" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.02.27%20-%20Opskriften%20p%C3%A5%20at%20blive%20madmand%20med%20Timm%20Vladimir.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dagens gæst har et CV så langt, at man bliver helt forpustet. Han er både stand-up komiker, skuespiller, radiovært, tv-vært, fotograf, kogebogsforfatter, masterchef-vinder og madskoleindehaver. Han er en knivskarp formidler med masser af humor, charme...</itunes:subtitle>
+         <itunes:summary>Dagens gæst har et CV så langt, at man bliver helt forpustet. Han er både stand-up komiker, skuespiller, radiovært, tv-vært, fotograf, kogebogsforfatter, masterchef-vinder og madskoleindehaver. Han er en knivskarp formidler med masser af humor, charme og energi. Jeg mødte ham første gang, da jeg stod og svedte i et kæmpe telt i Nordjylland, og hørte ordende: KLAR, PARAT, BAG. &lt;br /&gt;&lt;br /&gt;Dagens gæst er: Timm Vladimir! &lt;br /&gt;&lt;br /&gt;Hvor mange insekter har Timm spist? Hvordan satan vinder man masterchef? Hvornår kommer Timm’s Kitsch &amp;amp; Cook roadshow? Hvordan er det at leve af leverpostej i 2 år? Dagens opskrift, lyder blandt andet, på 500g dreng med krudt i røven, 5 dl karriereskift og 3 spsk skuespil og sketches. Lyt med for at få den hele.</itunes:summary>
+         <itunes:duration>3904</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på et alterego med Pattesutter</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-et-alterego-med-pattesutter--52724794</link>
+         <description>Store fede, Patte, eller Suttefar - kært barn har mange navne. Han elsker at rappe om pik, patter, stoffer og byture. Han lagde Roskilde Festival ned i 2018 med sangen Technopiik, og så er han altid på gæstelisten. Han er rappens svar på Crazy Frog og en mand, der virkelig deler vandene. Han er min faste go-to til fester, når jeg har drukket 100 bajere - og det er dælme gur!&lt;br /&gt;&lt;br /&gt;Dagens gæst er: Pattesutter / Jakob Maegaard! &lt;br /&gt;&lt;br /&gt;Hvordan har Jakob udviklet alteregoet Pattesutter? Hvor kommer navnet Pattesutter fra? Hvad er forskellen mellem Jakob og Pattesutter? Er der en forskel? Hvordan lyder Razz fra MGP feat Pattesutter? Hvornår udkommer hans tegnefilm? Er det altid sjovt at være Pattesutter? Dagens opskrift, lyder blandt meget andet, på 1 kg ballademager, 1 kg kokain og 5 spsk klassisk klaver og tromme. Hvis du vil have hele opskriften, er du nødt til at lytte med.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/52724794</guid>
+         <pubDate>Tue, 14 Feb 2023 10:20:01 +0000</pubDate>
+         <enclosure length="41839104" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.02.14%20-%20Opskriften%20p%C3%A5%20et%20alterego%20med%20Pattesutter.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Store fede, Patte, eller Suttefar - kært barn har mange navne. Han elsker at rappe om pik, patter, stoffer og byture. Han lagde Roskilde Festival ned i 2018 med sangen Technopiik, og så er han altid på gæstelisten. Han er rappens svar på Crazy Frog og...</itunes:subtitle>
+         <itunes:summary>Store fede, Patte, eller Suttefar - kært barn har mange navne. Han elsker at rappe om pik, patter, stoffer og byture. Han lagde Roskilde Festival ned i 2018 med sangen Technopiik, og så er han altid på gæstelisten. Han er rappens svar på Crazy Frog og en mand, der virkelig deler vandene. Han er min faste go-to til fester, når jeg har drukket 100 bajere - og det er dælme gur!&lt;br /&gt;&lt;br /&gt;Dagens gæst er: Pattesutter / Jakob Maegaard! &lt;br /&gt;&lt;br /&gt;Hvordan har Jakob udviklet alteregoet Pattesutter? Hvor kommer navnet Pattesutter fra? Hvad er forskellen mellem Jakob og Pattesutter? Er der en forskel? Hvordan lyder Razz fra MGP feat Pattesutter? Hvornår udkommer hans tegnefilm? Er det altid sjovt at være Pattesutter? Dagens opskrift, lyder blandt meget andet, på 1 kg ballademager, 1 kg kokain og 5 spsk klassisk klaver og tromme. Hvis du vil have hele opskriften, er du nødt til at lytte med.</itunes:summary>
+         <itunes:duration>2611</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Opskriften på at blive politisk TikTok-konge med Alex Vanopslagh</title>
+         <link>https://www.spreaker.com/episode/opskriften-pa-at-blive-politisk-tiktok-konge-med-alex-vanopslagh--52724793</link>
+         <description>Dagens gæst er sindssygt populær blandt de unge. Han laver fedt content på Tiktok, Instagram og Facebook, hvor mere end 100.000 følger med. Han er sjov, han er skarp, og så går han også under navnet Daddy. MEN han er IKKE influencer! Han er en blå komet i det politiske landskab, en rockstjerne i jakkesæt, og så er han kun 31 år.&lt;br /&gt;&lt;br /&gt;Dagens gæst er Alex Vanopslagh! &lt;br /&gt;&lt;br /&gt;Hvilke ingredienser skal der til for at blive TikTok-konge? Hvorfor vil Alex Vanopslagh aldrig blive fuldtidsinfluencer? Hvor går grænsen mellem humor og politik? Går LA snart ind i Metaverse eller bliver det Reddit? Det er nogle af de ting, vi snakker om i dagens afsnit. &lt;br /&gt;Dagens opskrift, indeholder blandt andet, 2 kg entertainer, 2 spsk selvironi, og 1,5 pund ungdommelighed. Lyt med for at få hele opskriften.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/52724793</guid>
+         <pubDate>Tue, 14 Feb 2023 10:15:01 +0000</pubDate>
+         <enclosure length="47481600" type="audio/mpeg" url="https://archive.org/download/opskriften/Opskriften/2023.02.14%20-%20Opskriften%20p%C3%A5%20at%20blive%20politisk%20TikTok-konge%20med%20Alex%20Vanopslagh.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dagens gæst er sindssygt populær blandt de unge. Han laver fedt content på Tiktok, Instagram og Facebook, hvor mere end 100.000 følger med. Han er sjov, han er skarp, og så går han også under navnet Daddy. MEN han er IKKE influencer! Han er en blå...</itunes:subtitle>
+         <itunes:summary>Dagens gæst er sindssygt populær blandt de unge. Han laver fedt content på Tiktok, Instagram og Facebook, hvor mere end 100.000 følger med. Han er sjov, han er skarp, og så går han også under navnet Daddy. MEN han er IKKE influencer! Han er en blå komet i det politiske landskab, en rockstjerne i jakkesæt, og så er han kun 31 år.&lt;br /&gt;&lt;br /&gt;Dagens gæst er Alex Vanopslagh! &lt;br /&gt;&lt;br /&gt;Hvilke ingredienser skal der til for at blive TikTok-konge? Hvorfor vil Alex Vanopslagh aldrig blive fuldtidsinfluencer? Hvor går grænsen mellem humor og politik? Går LA snart ind i Metaverse eller bliver det Reddit? Det er nogle af de ting, vi snakker om i dagens afsnit. &lt;br /&gt;Dagens opskrift, indeholder blandt andet, 2 kg entertainer, 2 spsk selvironi, og 1,5 pund ungdommelighed. Lyt med for at få hele opskriften.</itunes:summary>
+         <itunes:duration>2964</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9bfc283358d265106493267efc24b95.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

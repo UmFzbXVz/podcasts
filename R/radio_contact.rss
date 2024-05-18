@@ -1,807 +1,797 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Radio CONTACT</title>
-		<link>https://web.24syv.dk/channels/4584</link>
-		<description>Radio C:NTACT er C:NTACTs helt nye radioredaktion. C:NTACT laver sociale og kunstneriske projekter, der med afsæt i den personlige fortælling skaber levende møder mellem mennesker. 
+   <channel>
+      <title>Radio CONTACT</title>
+      <link>https://web.24syv.dk/channels/4584</link>
+      <description>Radio C:NTACT er C:NTACTs helt nye radioredaktion. C:NTACT laver sociale og kunstneriske projekter, der med afsæt i den personlige fortælling skaber levende møder mellem mennesker. 
 
 Alle podcasts er produceret af Radio C:NTACT og distribueret af Radio24syv.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/574/Radio_CONTACT.png"/>
-		<item>
-			<title>88 år og nyforelsket </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198587/55460347-audio.mp3</link>
-			<description>Af Jonas Rohold I takt med, at vi bliver ældre, risikerer vi i højere grad at ende alene. Ens ægtefælle er gået bort og måske flere af de gamle venner, og tilbage sidder man ensom og forladt. Men det gælder ikke Flemming Bryde på 88 år. Han satte sig for at komme videre i sit liv, da hans Annelise døde af kræft efter 61 år sammen. Men kan man blive forelsket efter man er fyldt 80 år? Flemming kunne - men ikke helt uden omkostninger. Hør hans historie om at blive forelsket i Hanne efter 61 år sammen med Annelise.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198587/55460347-audio.mp3</guid>
-			<pubDate>Fri, 06 Sep 2019 09:57:47 +0000</pubDate>
-			<itunes:duration>00:09:51</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198587/55460347-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>88 år og nyforelsket</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109254/55460347-audio.mp3</link>
-			<description>Af Jonas Rohold I takt med, at vi bliver ældre, risikerer vi i højere grad at ende alene. Ens ægtefælle er gået bort og måske flere af de gamle venner, og tilbage sidder man ensom og forladt. Men det gælder ikke Flemming Bryde på 88 år. Han satte sig for at komme videre i sit liv, da hans Annelise døde af kræft efter 61 år sammen. Men kan man blive forelsket efter man er fyldt 80 år? Flemming kunne - men ikke helt uden omkostninger. Hør hans historie om at blive forelsket i Hanne efter 61 år sammen med Annelise.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109254/55460347-audio.mp3</guid>
-			<pubDate>Fri, 06 Sep 2019 09:57:47 +0000</pubDate>
-			<itunes:duration>00:09:51</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109254/55460347-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Drømmer mig væk </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198588/52809372-audio.mp3</link>
-			<description>Af Jonas Rohold “…og så sidder man og kigger, og så drømmer man sig til Østrig selv, ik? Drømmer sig til bjergene i baggrunden. Solen der skinner. Og toget der tøffer roligt og sindigt afsted ik? Og så er det ligesom om… så har man det godt.” Bo Person er 72 år og bosat på Nørrebro i København. Han har det meste af sit liv haft en brændende passion for modeltog. En passion der har givet ham meget, men som måske også til tider har været en klods om benet på ham. Bo var som barn i Rødovre ikke den mest udadvendte og sprudlende dreng. Det skyldtes måske forholdet til sin far, der bar præg af at være ukærligt og akavet. Farens alkoholmisbrug gjorde tilværelsen nemmere for ham selv, men for Bo var det hjerteskærede. Når de to var i kælderen, faren på sit lille atelier, hvor han sad og malede og Bo inde ved siden af hos sin modeltogsbane, så kunne Bo hører hver gang, skuffen med en flaske Rød Ålborg blev åbnet. Bo har i dag et besværet forhold til sin egen datter, der ikke vil se ham. Hun har, ligesom han, haft alkoholmisbrug inde på livet, og som skilsmissebarn med en dybt alkoholiseret mor, har hun oplevet et stort svigt. Men Bo drømmer stadig videre. Han drømmer om fjerne lande, landskaber og togstrækninger. Han drømmer sig tilbage til sin ungdom og ønsker den anerledes. Og han drømmer om igen at komme til at se sin elskede datter.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198588/52809372-audio.mp3</guid>
-			<pubDate>Fri, 07 Jun 2019 12:00:00 +0000</pubDate>
-			<itunes:duration>00:13:57</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198588/52809372-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Drømmer mig væk</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109255/52809372-audio.mp3</link>
-			<description>Af Jonas Rohold “…og så sidder man og kigger, og så drømmer man sig til Østrig selv, ik? Drømmer sig til bjergene i baggrunden. Solen der skinner. Og toget der tøffer roligt og sindigt afsted ik? Og så er det ligesom om… så har man det godt.” Bo Person er 72 år og bosat på Nørrebro i København. Han har det meste af sit liv haft en brændende passion for modeltog. En passion der har givet ham meget, men som måske også til tider har været en klods om benet på ham. Bo var som barn i Rødovre ikke den mest udadvendte og sprudlende dreng. Det skyldtes måske forholdet til sin far, der bar præg af at være ukærligt og akavet. Farens alkoholmisbrug gjorde tilværelsen nemmere for ham selv, men for Bo var det hjerteskærede. Når de to var i kælderen, faren på sit lille atelier, hvor han sad og malede og Bo inde ved siden af hos sin modeltogsbane, så kunne Bo hører hver gang, skuffen med en flaske Rød Ålborg blev åbnet. Bo har i dag et besværet forhold til sin egen datter, der ikke vil se ham. Hun har, ligesom han, haft alkoholmisbrug inde på livet, og som skilsmissebarn med en dybt alkoholiseret mor, har hun oplevet et stort svigt. Men Bo drømmer stadig videre. Han drømmer om fjerne lande, landskaber og togstrækninger. Han drømmer sig tilbage til sin ungdom og ønsker den anerledes. Og han drømmer om igen at komme til at se sin elskede datter.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109255/52809372-audio.mp3</guid>
-			<pubDate>Fri, 07 Jun 2019 12:00:00 +0000</pubDate>
-			<itunes:duration>00:13:57</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109255/52809372-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hvorfor mennesker tegner </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198589/50014383-audio.mp3</link>
-			<description>Set fra et overlevelses- eller profit-orienteret perspektiv, er det at tegne ikke det mest rationelle at gøre. Hverken i stenalderhulerne eller i dag, hvor vi i princippet kan videooptage og fotografere alt det visuelle, vi gerne vil forevige. Så hvorfor tegner mennesker? I denne podcast spørger jeg Signe Parkins. Signe Parkins hjemmeside: http://www.signeparkins.com/ Signe Parkins blog, Signe Parkins &amp; Drawings: http://signeparkins.blogspot.com/ Musik: Magnus Kudsk Rasmussen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198589/50014383-audio.mp3</guid>
-			<pubDate>Tue, 02 Apr 2019 16:31:36 +0000</pubDate>
-			<itunes:duration>00:45:41</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198589/50014383-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hvorfor mennesker tegner</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109256/50014383-audio.mp3</link>
-			<description>Set fra et overlevelses- eller profit-orienteret perspektiv, er det at tegne ikke det mest rationelle at gøre. Hverken i stenalderhulerne eller i dag, hvor vi i princippet kan videooptage og fotografere alt det visuelle, vi gerne vil forevige. Så hvorfor tegner mennesker? I denne podcast spørger jeg Signe Parkins. Signe Parkins hjemmeside: http://www.signeparkins.com/ Signe Parkins blog, Signe Parkins &amp; Drawings: http://signeparkins.blogspot.com/ Musik: Magnus Kudsk Rasmussen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109256/50014383-audio.mp3</guid>
-			<pubDate>Tue, 02 Apr 2019 16:31:36 +0000</pubDate>
-			<itunes:duration>00:45:41</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109256/50014383-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Munter sangfugl, halv vinge</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109257/36452315-audio.mp3</link>
-			<description>Af Jonas RoholdDette er en fortælling om en ung pige med en kronisk lidelse og et fantastisk smittende humør.Nanna er 17 år og lider af kroniske smerter, der binder hende til sengen 22 timer i døgnet. Derudover har hun astma og en sensibilitetstilstand, der gør berøring ubehageligt for hende.Hun fortæller her om, hvor svært det kan være at føle sig ung og “normal” og samtidig forsøge at skabe sig en identitet, når omverdenen ikke rigtig forstår de udfordringer, der følger med en kronisk lidelse som hendes.Nanna har dog en indre styrke og et mod på tilværelsen, der kommer ud gennem musik og sprog og glæden ved at lære og i det hele taget alt, hvad hun kan bruge sin kløgt til. Podcasten er skabt i samarbejde med Ungdommens Røde Kors og produceret med støtte fra Egmont Fonden.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109257/36452315-audio.mp3</guid>
-			<pubDate>Fri, 12 Oct 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:10:27</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109257/36452315-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Min sygdom er usynlig - men det er jeg ikke</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109258/35501033-audio.m4a</link>
-			<description>Af Jonas RoholdEn fortælling om det at være ung og leve med en langtidssygdom, som ingen kan se. Kristian har siden han var 12 år gammel levet med en svær svimmelhedssygdom, der startede med at komme til udtryk som alvorlige krampeanfald, men som siden har udviklet sig til at være stadigt ubehagelige men mere overkommelige anfald af svimmelhed.Kristian fortæller her om, hvor svært det er at være ung og indlagt på et hospital, og samtidigt om hvor vigtigt det er, at langtidssyge børn og unge også har mulighed for at føle sig almindelige og ikke kun syge.Kristian er i dag 27 år gammel og aktiv frivillig i Ungdommens Røde Kors’ HR BERG-crew, som er en del af ungecafeen, HR BERG, på Rigshospitalet. Sammen med op mod 40 andre frivillige i alderen 23-35 år forsøger han at give syge børn og unge en mulighed for at glemme deres sygdom for en stund og bare være børn og unge. Podcasten er produceret med støtte fra Egmont Fonden.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109258/35501033-audio.m4a</guid>
-			<pubDate>Fri, 07 Sep 2018 16:42:57 +0000</pubDate>
-			<itunes:duration>00:08:28</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109258/35501033-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Min søns morfar</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109259/27818089-audio.m4a</link>
-			<description>‘Min Søns Morfar’ er en fortælling, der samler og formidler Kathrines fars eftermæle - som hun viderefortæller til sin lille søn. Men hvordan formidler man essensen af morfars betydning, liv og skæbne, når hans liv var domineret af alkohol, depression, og tragikomiske episoder? Podcasten fortæller historien om mennesket bag alkoholikeren og kærlighedens kår, når alkoholismen er allestedsnærværende i en familie. 36 minutter. Af Kathrine Maria Egeskov Wismann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109259/27818089-audio.m4a</guid>
-			<pubDate>Mon, 11 Jun 2018 11:31:26 +0000</pubDate>
-			<itunes:duration>00:36:16</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109259/27818089-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Vi sætter ord på stilheden</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109260/27817062-audio.m4a</link>
-			<description>For 17 år siden mistede Anna Cæcilie sin far. Selvom det er mange år siden, så kan det stadig lidt svært at sætte tale om hvad der sker, når sorgen rammer. Cille har lige mistet sin far og bryder sig ikke om den stilhed der pludselig er kommet. I en brevveksling forsøger de to venner at sætte ord på alt det der gør ondt. Stemmer: Lina Løgstrup Brygger og Anna Cæcilie Sørensen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109260/27817062-audio.m4a</guid>
-			<pubDate>Mon, 11 Jun 2018 10:10:16 +0000</pubDate>
-			<itunes:duration>00:12:14</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109260/27817062-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jeg kan se lys og mørke </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198590/27486743-audio.m4a</link>
-			<description>Af Jonas Rohold
-&quot;Vi er, som vi er, og sådan ser det ud, slut&quot;.
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/radio_contact/Radio%20CONTACT/Radio_CONTACT.png" />
+      <item>
+         <title>88 år og nyforelsket</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198587/55460347-audio.mp3</link>
+         <description>Af Jonas Rohold I takt med, at vi bliver ældre, risikerer vi i højere grad at ende alene. Ens ægtefælle er gået bort og måske flere af de gamle venner, og tilbage sidder man ensom og forladt. Men det gælder ikke Flemming Bryde på 88 år. Han satte sig for at komme videre i sit liv, da hans Annelise døde af kræft efter 61 år sammen. Men kan man blive forelsket efter man er fyldt 80 år? Flemming kunne - men ikke helt uden omkostninger. Hør hans historie om at blive forelsket i Hanne efter 61 år sammen med Annelise.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198587/55460347-audio.mp3</guid>
+         <pubDate>Fri, 06 Sep 2019 09:57:47 +0000</pubDate>
+         <itunes:duration>00:09:51</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2019.09.06%20-%2088%20%C3%A5r%20og%20nyforelsket%20.mp3" />
+      </item>
+      <item>
+         <title>88 år og nyforelsket</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109254/55460347-audio.mp3</link>
+         <description>Af Jonas Rohold I takt med, at vi bliver ældre, risikerer vi i højere grad at ende alene. Ens ægtefælle er gået bort og måske flere af de gamle venner, og tilbage sidder man ensom og forladt. Men det gælder ikke Flemming Bryde på 88 år. Han satte sig for at komme videre i sit liv, da hans Annelise døde af kræft efter 61 år sammen. Men kan man blive forelsket efter man er fyldt 80 år? Flemming kunne - men ikke helt uden omkostninger. Hør hans historie om at blive forelsket i Hanne efter 61 år sammen med Annelise.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109254/55460347-audio.mp3</guid>
+         <pubDate>Fri, 06 Sep 2019 09:57:47 +0000</pubDate>
+         <itunes:duration>00:09:51</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2019.09.06%20-%2088%20%C3%A5r%20og%20nyforelsket.mp3" />
+      </item>
+      <item>
+         <title>Drømmer mig væk</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198588/52809372-audio.mp3</link>
+         <description>Af Jonas Rohold “…og så sidder man og kigger, og så drømmer man sig til Østrig selv, ik? Drømmer sig til bjergene i baggrunden. Solen der skinner. Og toget der tøffer roligt og sindigt afsted ik? Og så er det ligesom om… så har man det godt.” Bo Person er 72 år og bosat på Nørrebro i København. Han har det meste af sit liv haft en brændende passion for modeltog. En passion der har givet ham meget, men som måske også til tider har været en klods om benet på ham. Bo var som barn i Rødovre ikke den mest udadvendte og sprudlende dreng. Det skyldtes måske forholdet til sin far, der bar præg af at være ukærligt og akavet. Farens alkoholmisbrug gjorde tilværelsen nemmere for ham selv, men for Bo var det hjerteskærede. Når de to var i kælderen, faren på sit lille atelier, hvor han sad og malede og Bo inde ved siden af hos sin modeltogsbane, så kunne Bo hører hver gang, skuffen med en flaske Rød Ålborg blev åbnet. Bo har i dag et besværet forhold til sin egen datter, der ikke vil se ham. Hun har, ligesom han, haft alkoholmisbrug inde på livet, og som skilsmissebarn med en dybt alkoholiseret mor, har hun oplevet et stort svigt. Men Bo drømmer stadig videre. Han drømmer om fjerne lande, landskaber og togstrækninger. Han drømmer sig tilbage til sin ungdom og ønsker den anerledes. Og han drømmer om igen at komme til at se sin elskede datter.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198588/52809372-audio.mp3</guid>
+         <pubDate>Fri, 07 Jun 2019 12:00:00 +0000</pubDate>
+         <itunes:duration>00:13:57</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2019.06.07%20-%20Dr%C3%B8mmer%20mig%20v%C3%A6k%20.mp3" />
+      </item>
+      <item>
+         <title>Drømmer mig væk</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109255/52809372-audio.mp3</link>
+         <description>Af Jonas Rohold “…og så sidder man og kigger, og så drømmer man sig til Østrig selv, ik? Drømmer sig til bjergene i baggrunden. Solen der skinner. Og toget der tøffer roligt og sindigt afsted ik? Og så er det ligesom om… så har man det godt.” Bo Person er 72 år og bosat på Nørrebro i København. Han har det meste af sit liv haft en brændende passion for modeltog. En passion der har givet ham meget, men som måske også til tider har været en klods om benet på ham. Bo var som barn i Rødovre ikke den mest udadvendte og sprudlende dreng. Det skyldtes måske forholdet til sin far, der bar præg af at være ukærligt og akavet. Farens alkoholmisbrug gjorde tilværelsen nemmere for ham selv, men for Bo var det hjerteskærede. Når de to var i kælderen, faren på sit lille atelier, hvor han sad og malede og Bo inde ved siden af hos sin modeltogsbane, så kunne Bo hører hver gang, skuffen med en flaske Rød Ålborg blev åbnet. Bo har i dag et besværet forhold til sin egen datter, der ikke vil se ham. Hun har, ligesom han, haft alkoholmisbrug inde på livet, og som skilsmissebarn med en dybt alkoholiseret mor, har hun oplevet et stort svigt. Men Bo drømmer stadig videre. Han drømmer om fjerne lande, landskaber og togstrækninger. Han drømmer sig tilbage til sin ungdom og ønsker den anerledes. Og han drømmer om igen at komme til at se sin elskede datter.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109255/52809372-audio.mp3</guid>
+         <pubDate>Fri, 07 Jun 2019 12:00:00 +0000</pubDate>
+         <itunes:duration>00:13:57</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2019.06.07%20-%20Dr%C3%B8mmer%20mig%20v%C3%A6k.mp3" />
+      </item>
+      <item>
+         <title>Hvorfor mennesker tegner</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198589/50014383-audio.mp3</link>
+         <description>Set fra et overlevelses- eller profit-orienteret perspektiv, er det at tegne ikke det mest rationelle at gøre. Hverken i stenalderhulerne eller i dag, hvor vi i princippet kan videooptage og fotografere alt det visuelle, vi gerne vil forevige. Så hvorfor tegner mennesker? I denne podcast spørger jeg Signe Parkins. Signe Parkins hjemmeside: http://www.signeparkins.com/ Signe Parkins blog, Signe Parkins &amp; Drawings: http://signeparkins.blogspot.com/ Musik: Magnus Kudsk Rasmussen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198589/50014383-audio.mp3</guid>
+         <pubDate>Tue, 02 Apr 2019 16:31:36 +0000</pubDate>
+         <itunes:duration>00:45:41</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2019.04.02%20-%20Hvorfor%20mennesker%20tegner%20.mp3" />
+      </item>
+      <item>
+         <title>Hvorfor mennesker tegner</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109256/50014383-audio.mp3</link>
+         <description>Set fra et overlevelses- eller profit-orienteret perspektiv, er det at tegne ikke det mest rationelle at gøre. Hverken i stenalderhulerne eller i dag, hvor vi i princippet kan videooptage og fotografere alt det visuelle, vi gerne vil forevige. Så hvorfor tegner mennesker? I denne podcast spørger jeg Signe Parkins. Signe Parkins hjemmeside: http://www.signeparkins.com/ Signe Parkins blog, Signe Parkins &amp; Drawings: http://signeparkins.blogspot.com/ Musik: Magnus Kudsk Rasmussen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109256/50014383-audio.mp3</guid>
+         <pubDate>Tue, 02 Apr 2019 16:31:36 +0000</pubDate>
+         <itunes:duration>00:45:41</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2019.04.02%20-%20Hvorfor%20mennesker%20tegner.mp3" />
+      </item>
+      <item>
+         <title>Munter sangfugl, halv vinge</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109257/36452315-audio.mp3</link>
+         <description>Af Jonas RoholdDette er en fortælling om en ung pige med en kronisk lidelse og et fantastisk smittende humør.Nanna er 17 år og lider af kroniske smerter, der binder hende til sengen 22 timer i døgnet. Derudover har hun astma og en sensibilitetstilstand, der gør berøring ubehageligt for hende.Hun fortæller her om, hvor svært det kan være at føle sig ung og “normal” og samtidig forsøge at skabe sig en identitet, når omverdenen ikke rigtig forstår de udfordringer, der følger med en kronisk lidelse som hendes.Nanna har dog en indre styrke og et mod på tilværelsen, der kommer ud gennem musik og sprog og glæden ved at lære og i det hele taget alt, hvad hun kan bruge sin kløgt til. Podcasten er skabt i samarbejde med Ungdommens Røde Kors og produceret med støtte fra Egmont Fonden.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109257/36452315-audio.mp3</guid>
+         <pubDate>Fri, 12 Oct 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:10:27</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.10.12%20-%20Munter%20sangfugl%2C%20halv%20vinge.mp3" />
+      </item>
+      <item>
+         <title>Min sygdom er usynlig - men det er jeg ikke</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109258/35501033-audio.m4a</link>
+         <description>Af Jonas RoholdEn fortælling om det at være ung og leve med en langtidssygdom, som ingen kan se. Kristian har siden han var 12 år gammel levet med en svær svimmelhedssygdom, der startede med at komme til udtryk som alvorlige krampeanfald, men som siden har udviklet sig til at være stadigt ubehagelige men mere overkommelige anfald af svimmelhed.Kristian fortæller her om, hvor svært det er at være ung og indlagt på et hospital, og samtidigt om hvor vigtigt det er, at langtidssyge børn og unge også har mulighed for at føle sig almindelige og ikke kun syge.Kristian er i dag 27 år gammel og aktiv frivillig i Ungdommens Røde Kors’ HR BERG-crew, som er en del af ungecafeen, HR BERG, på Rigshospitalet. Sammen med op mod 40 andre frivillige i alderen 23-35 år forsøger han at give syge børn og unge en mulighed for at glemme deres sygdom for en stund og bare være børn og unge. Podcasten er produceret med støtte fra Egmont Fonden.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109258/35501033-audio.m4a</guid>
+         <pubDate>Fri, 07 Sep 2018 16:42:57 +0000</pubDate>
+         <itunes:duration>00:08:28</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.09.07%20-%20Min%20sygdom%20er%20usynlig%20-%20men%20det%20er%20jeg%20ikke.mp3" />
+      </item>
+      <item>
+         <title>Min søns morfar</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109259/27818089-audio.m4a</link>
+         <description>‘Min Søns Morfar’ er en fortælling, der samler og formidler Kathrines fars eftermæle - som hun viderefortæller til sin lille søn. Men hvordan formidler man essensen af morfars betydning, liv og skæbne, når hans liv var domineret af alkohol, depression, og tragikomiske episoder? Podcasten fortæller historien om mennesket bag alkoholikeren og kærlighedens kår, når alkoholismen er allestedsnærværende i en familie. 36 minutter. Af Kathrine Maria Egeskov Wismann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109259/27818089-audio.m4a</guid>
+         <pubDate>Mon, 11 Jun 2018 11:31:26 +0000</pubDate>
+         <itunes:duration>00:36:16</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.06.11%20-%20Vi%20s%C3%A6tter%20ord%20p%C3%A5%20stilheden.mp3" />
+      </item>
+      <item>
+         <title>Vi sætter ord på stilheden</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109260/27817062-audio.m4a</link>
+         <description>For 17 år siden mistede Anna Cæcilie sin far. Selvom det er mange år siden, så kan det stadig lidt svært at sætte tale om hvad der sker, når sorgen rammer. Cille har lige mistet sin far og bryder sig ikke om den stilhed der pludselig er kommet. I en brevveksling forsøger de to venner at sætte ord på alt det der gør ondt. Stemmer: Lina Løgstrup Brygger og Anna Cæcilie Sørensen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109260/27817062-audio.m4a</guid>
+         <pubDate>Mon, 11 Jun 2018 10:10:16 +0000</pubDate>
+         <itunes:duration>00:12:14</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.06.11%20-%20Min%20s%C3%B8ns%20morfar.mp3" />
+      </item>
+      <item>
+         <title>Jeg kan se lys og mørke</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198590/27486743-audio.m4a</link>
+         <description>Af Jonas Rohold
+"Vi er, som vi er, og sådan ser det ud, slut".
 Dette er en fortælling om Marie Anne på 79 år, der gradvist har mistet synet, siden hun blev født. Hun fortæller her om, at livet ikke behøver at stoppe, bare fordi man bliver halvblind og halvdøv. Man skal blive ved med at opsøge de ting, der gør en glad, uanset om det måske kan være lidt besværligt og tilmed lidt farligt. Selvom man er handicappet, så har man stadig en plads i verden.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198590/27486743-audio.m4a</guid>
-			<pubDate>Mon, 14 May 2018 10:52:42 +0000</pubDate>
-			<itunes:duration>00:13:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198590/27486743-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jeg kan se lys og mørke</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109261/27486743-audio.m4a</link>
-			<description>Af Jonas Rohold
-&quot;Vi er, som vi er, og sådan ser det ud, slut&quot;.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198590/27486743-audio.m4a</guid>
+         <pubDate>Mon, 14 May 2018 10:52:42 +0000</pubDate>
+         <itunes:duration>00:13:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.05.14%20-%20Jeg%20kan%20se%20lys%20og%20m%C3%B8rke%20.mp3" />
+      </item>
+      <item>
+         <title>Jeg kan se lys og mørke</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109261/27486743-audio.m4a</link>
+         <description>Af Jonas Rohold
+"Vi er, som vi er, og sådan ser det ud, slut".
 Dette er en fortælling om Marie Anne på 79 år, der gradvist har mistet synet, siden hun blev født. Hun fortæller her om, at livet ikke behøver at stoppe, bare fordi man bliver halvblind og halvdøv. Man skal blive ved med at opsøge de ting, der gør en glad, uanset om det måske kan være lidt besværligt og tilmed lidt farligt. Selvom man er handicappet, så har man stadig en plads i verden.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109261/27486743-audio.m4a</guid>
-			<pubDate>Mon, 14 May 2018 10:52:42 +0000</pubDate>
-			<itunes:duration>00:13:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109261/27486743-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>På besøg hos en ny klassekammerat</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109262/27089825-audio.m4a</link>
-			<description>I dette podcast besøger eleverne fra en 8. klasse deres nye kammerater fra skolens modtageklasser. Med en optager i hånden, fortæller de om deres liv og hverdag både forskellene og lighederne. Lyt til gamle og nye elever møde hinanden på en ny måde. Fortalt og optaget af: Andreas, Stefania, Ditte, Samira, Ali, Malte, Victor, Mohammed, Mustafa, Ditte og Shannon Tilrettelæggelse og redigering af: Benjamin Mørch og Jonas Rohold.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109262/27089825-audio.m4a</guid>
-			<pubDate>Fri, 13 Apr 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:24:37</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109262/27089825-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>På besøg hos en ny klassekammerat </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198591/27089825-audio.m4a</link>
-			<description>I dette podcast besøger eleverne fra en 8. klasse deres nye kammerater fra skolens modtageklasser. Med en optager i hånden, fortæller de om deres liv og hverdag både forskellene og lighederne. Lyt til gamle og nye elever møde hinanden på en ny måde. Fortalt og optaget af: Andreas, Stefania, Ditte, Samira, Ali, Malte, Victor, Mohammed, Mustafa, Ditte og Shannon Tilrettelæggelse og redigering af: Benjamin Mørch og Jonas Rohold.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198591/27089825-audio.m4a</guid>
-			<pubDate>Fri, 13 Apr 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:24:37</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198591/27089825-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>De Flygtede afsnit 5: At forandre verden gennem dans</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109263/26784763-audio.m4a</link>
-			<description>Hvorfor må man ikke tage kylling med i biografen, når andre spiser popcorn? Hvorfor går danskerne så hurtigt på gaden? Hvordan kan det være, at Lokua bliver tilbudt folks tomme pantflasker på festivaller?  Lokua er danser, aktivist og politisk flygtning. Han fortæller om sit møde med sjove og tankevækkende kulturforskelle. Og så fortæller han om sin drøm om at skabe en gensidig menneskelig forståelse gennem dans.Skrivementor: Anni Lyngskær (speak: Claes Bang)</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109263/26784763-audio.m4a</guid>
-			<pubDate>Fri, 16 Mar 2018 11:20:06 +0000</pubDate>
-			<itunes:duration>00:16:45</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109263/26784763-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>De Flygtede afsnit 4: Livet stopper jo ikke</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198592/26784755-audio.m4a</link>
-			<description>Syriske Aras elsker sin kone Sally. Han er optimist og siger altid: ”Det skal nok gå alt sammen”. Men Sally bliver bange, da Aras er nødt til at flygte fra Syrien og hende. Hun bliver så bange at hun hverken kan spise eller sove. Aras fortæller om kærlighed og kampen for sin familie gennem hele flugten, der ender i Danmark.  Og selvom alt ikke bliver, som han forventede, stopper livet jo ikke. Skrivementor: Anette Lilleøre (speak: Jens Jørn Spottag)</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198592/26784755-audio.m4a</guid>
-			<pubDate>Fri, 16 Mar 2018 11:13:56 +0000</pubDate>
-			<itunes:duration>00:13:14</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198592/26784755-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>De Flygtede afsnit 3: De siger jeg er kriminel – er jeg det?</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198593/26784739-audio.m4a</link>
-			<description>Da Idil flygter fra sit hjemland, er det første gang nogensinde, at hun krydser grænsen til et andet land. Hendes flugt tager hende gennem Afrika, over Middelhavet og endelig til Danmark, hvor hun bliver konfronteret med, at det at være på flugt er lig med at være kriminel. Idil fortæller om frygt, flugt og ensomhed, men også om mødet med det nye og håbet om en bedre fremtid i et nyt land.Skrivementor: Louise Thomsen (speak: Rosalinde Mynster)</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198593/26784739-audio.m4a</guid>
-			<pubDate>Fri, 16 Mar 2018 11:13:23 +0000</pubDate>
-			<itunes:duration>00:14:54</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198593/26784739-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>De Flygtede afsnit 2: Kan du høre jeg kalder, mor?</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198594/26784730-audio.m4a</link>
-			<description>Amanuel er 16 år og drager ud på en stor rejse, hvor han en stille nat, helt alene, pakker han sin taske med ønsker om et fredeligt liv fra Eritrea til Danmark. Og så drager Amanuel også ud på rejsen fra sit lille værelse på Frederiksberg til den store kirke, lidt udenfor den travle by, en kold søndag morgen. Amanuels historie fortæller om fremmedfølelser og drømme for fremtiden.Skrivementor: Benedikte Møllegaard Raft (speak: Andreas Jessen)</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198594/26784730-audio.m4a</guid>
-			<pubDate>Fri, 16 Mar 2018 11:13:08 +0000</pubDate>
-			<itunes:duration>00:14:49</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198594/26784730-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>De Flygtede afsnit 1: Hjertet i hjertet i Jasmin</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198595/26784725-audio.m4a</link>
-			<description>Jasmin blev født af Mama midt i det arabiske hjerte. Men en dag begynder nogen at knuse det arabiske hjerte i stykker og Jasmin er nødt til at flygte til kongeriget med fred og rugbrød og mælkebøtter. Jasmin er en pige med elefantstyrke og sårbarhed. Hun får tager sit nej, hun griner når det gør ondt og til sidst åbner hun til hjertet i hjertet i Jasmin.Skrivementor: Alberte Zacho (speak: Peter Mygind)</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198595/26784725-audio.m4a</guid>
-			<pubDate>Fri, 16 Mar 2018 11:12:05 +0000</pubDate>
-			<itunes:duration>00:16:37</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198595/26784725-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Waqas</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198596/25272139-audio.m4a</link>
-			<description>Bandet Outlandish var nogle af dem der rykkede allermest i Danmarks minoritetsmiljøer i 00'erne. Den her podcast kommer til at handle om et af bandets medlemmer, Waqas Ali, hans opvækst og bandets hurtige eksponering.Af: Salma AbdurrazagLyddesign: Subhan
- Moughal </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198596/25272139-audio.m4a</guid>
-			<pubDate>Mon, 05 Mar 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:16:16</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198596/25272139-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sofies Barsel 4. afsnit: Bjørnebanden</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198597/21512073-audio.m4a</link>
-			<description>Sofies Barsel er en serie på fire afsnit, der handler om livet som førstegangsmor anno 2017. Sofies barsel er slut og hverdagen er sat ind. I dette afsnit starter Ole i vuggestue – og det har med Sofies egne ord virkelig fucket hende up. Spørgsmålet er derfor, om det er Sofie eller Ole, der går først i panik når nu Ole har første dag i vuggestuen, Bjørnebanden .</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198597/21512073-audio.m4a</guid>
-			<pubDate>Fri, 23 Feb 2018 12:01:00 +0000</pubDate>
-			<itunes:duration>00:13:26</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198597/21512073-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sofies Barsel 3. afsnit: Viljestærk tumling</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198598/21512061-audio.m4a</link>
-			<description>Sofies Barsel er en serie på fire afsnit, der handler om livet som førstegangsmor anno 2017. Ole er ved at udvikle sig fra spædbarn til tumling - og med det følger der en stærk vilje. I dette afsnit mødes Sofie med to andre småbørnsmødre med jævnaldrende børn. De diskuterer de nye udfordringer, de hver især står overfor, men taler også om gevinsten ved de smås nyerhvervede vilje og stædighed.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198598/21512061-audio.m4a</guid>
-			<pubDate>Fri, 23 Feb 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:09:52</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198598/21512061-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Anbragt i andres fordomme</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198599/20871982-audio.m4a</link>
-			<description>Selvom Mads har været anbragt siden han var tre år gammel og blev efterladt i en barnevogn med lightergas, taler han sjældent om det. Der har været for mange fordomme. I skolen regnede de nærmest med, at opholdsstedet var et fængsel.  I dag er Mads 20 år og klar til at fortælle om sit liv som anbragt. Han er flyttet fra opholdssted til ungdomspension - og har i dag sin helt egen lejlighed, hvor han endelig kan lukke døren, når han vil.  Af Freja Eriksen Lyddesign: Simon Minke</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198599/20871982-audio.m4a</guid>
-			<pubDate>Wed, 10 Jan 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:05:20</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198599/20871982-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>I Fællesskabets Tjeneste</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198600/20610098-audio.m4a</link>
-			<description>Af Jonas Rohold
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109261/27486743-audio.m4a</guid>
+         <pubDate>Mon, 14 May 2018 10:52:42 +0000</pubDate>
+         <itunes:duration>00:13:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.05.14%20-%20Jeg%20kan%20se%20lys%20og%20m%C3%B8rke.mp3" />
+      </item>
+      <item>
+         <title>På besøg hos en ny klassekammerat</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109262/27089825-audio.m4a</link>
+         <description>I dette podcast besøger eleverne fra en 8. klasse deres nye kammerater fra skolens modtageklasser. Med en optager i hånden, fortæller de om deres liv og hverdag både forskellene og lighederne. Lyt til gamle og nye elever møde hinanden på en ny måde. Fortalt og optaget af: Andreas, Stefania, Ditte, Samira, Ali, Malte, Victor, Mohammed, Mustafa, Ditte og Shannon Tilrettelæggelse og redigering af: Benjamin Mørch og Jonas Rohold.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109262/27089825-audio.m4a</guid>
+         <pubDate>Fri, 13 Apr 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:24:37</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.04.13%20-%20P%C3%A5%20bes%C3%B8g%20hos%20en%20ny%20klassekammerat%20.mp3" />
+      </item>
+      <item>
+         <title>På besøg hos en ny klassekammerat</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198591/27089825-audio.m4a</link>
+         <description>I dette podcast besøger eleverne fra en 8. klasse deres nye kammerater fra skolens modtageklasser. Med en optager i hånden, fortæller de om deres liv og hverdag både forskellene og lighederne. Lyt til gamle og nye elever møde hinanden på en ny måde. Fortalt og optaget af: Andreas, Stefania, Ditte, Samira, Ali, Malte, Victor, Mohammed, Mustafa, Ditte og Shannon Tilrettelæggelse og redigering af: Benjamin Mørch og Jonas Rohold.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198591/27089825-audio.m4a</guid>
+         <pubDate>Fri, 13 Apr 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:24:37</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.04.13%20-%20P%C3%A5%20bes%C3%B8g%20hos%20en%20ny%20klassekammerat.mp3" />
+      </item>
+      <item>
+         <title>De Flygtede afsnit 5: At forandre verden gennem dans</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109263/26784763-audio.m4a</link>
+         <description>Hvorfor må man ikke tage kylling med i biografen, når andre spiser popcorn? Hvorfor går danskerne så hurtigt på gaden? Hvordan kan det være, at Lokua bliver tilbudt folks tomme pantflasker på festivaller?  Lokua er danser, aktivist og politisk flygtning. Han fortæller om sit møde med sjove og tankevækkende kulturforskelle. Og så fortæller han om sin drøm om at skabe en gensidig menneskelig forståelse gennem dans.Skrivementor: Anni Lyngskær (speak: Claes Bang)</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109263/26784763-audio.m4a</guid>
+         <pubDate>Fri, 16 Mar 2018 11:20:06 +0000</pubDate>
+         <itunes:duration>00:16:45</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.03.16%20-%20De%20Flygtede%20afsnit%205.mp3" />
+      </item>
+      <item>
+         <title>De Flygtede afsnit 4: Livet stopper jo ikke</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198592/26784755-audio.m4a</link>
+         <description>Syriske Aras elsker sin kone Sally. Han er optimist og siger altid: ”Det skal nok gå alt sammen”. Men Sally bliver bange, da Aras er nødt til at flygte fra Syrien og hende. Hun bliver så bange at hun hverken kan spise eller sove. Aras fortæller om kærlighed og kampen for sin familie gennem hele flugten, der ender i Danmark.  Og selvom alt ikke bliver, som han forventede, stopper livet jo ikke. Skrivementor: Anette Lilleøre (speak: Jens Jørn Spottag)</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198592/26784755-audio.m4a</guid>
+         <pubDate>Fri, 16 Mar 2018 11:13:56 +0000</pubDate>
+         <itunes:duration>00:13:14</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.03.16%20-%20De%20Flygtede%20afsnit%204.mp3" />
+      </item>
+      <item>
+         <title>De Flygtede afsnit 3: De siger jeg er kriminel – er jeg det?</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198593/26784739-audio.m4a</link>
+         <description>Da Idil flygter fra sit hjemland, er det første gang nogensinde, at hun krydser grænsen til et andet land. Hendes flugt tager hende gennem Afrika, over Middelhavet og endelig til Danmark, hvor hun bliver konfronteret med, at det at være på flugt er lig med at være kriminel. Idil fortæller om frygt, flugt og ensomhed, men også om mødet med det nye og håbet om en bedre fremtid i et nyt land.Skrivementor: Louise Thomsen (speak: Rosalinde Mynster)</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198593/26784739-audio.m4a</guid>
+         <pubDate>Fri, 16 Mar 2018 11:13:23 +0000</pubDate>
+         <itunes:duration>00:14:54</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.03.16%20-%20De%20Flygtede%20afsnit%203.mp3" />
+      </item>
+      <item>
+         <title>De Flygtede afsnit 2: Kan du høre jeg kalder, mor?</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198594/26784730-audio.m4a</link>
+         <description>Amanuel er 16 år og drager ud på en stor rejse, hvor han en stille nat, helt alene, pakker han sin taske med ønsker om et fredeligt liv fra Eritrea til Danmark. Og så drager Amanuel også ud på rejsen fra sit lille værelse på Frederiksberg til den store kirke, lidt udenfor den travle by, en kold søndag morgen. Amanuels historie fortæller om fremmedfølelser og drømme for fremtiden.Skrivementor: Benedikte Møllegaard Raft (speak: Andreas Jessen)</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198594/26784730-audio.m4a</guid>
+         <pubDate>Fri, 16 Mar 2018 11:13:08 +0000</pubDate>
+         <itunes:duration>00:14:49</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.03.16%20-%20De%20Flygtede%20afsnit%202.mp3" />
+      </item>
+      <item>
+         <title>De Flygtede afsnit 1: Hjertet i hjertet i Jasmin</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198595/26784725-audio.m4a</link>
+         <description>Jasmin blev født af Mama midt i det arabiske hjerte. Men en dag begynder nogen at knuse det arabiske hjerte i stykker og Jasmin er nødt til at flygte til kongeriget med fred og rugbrød og mælkebøtter. Jasmin er en pige med elefantstyrke og sårbarhed. Hun får tager sit nej, hun griner når det gør ondt og til sidst åbner hun til hjertet i hjertet i Jasmin.Skrivementor: Alberte Zacho (speak: Peter Mygind)</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198595/26784725-audio.m4a</guid>
+         <pubDate>Fri, 16 Mar 2018 11:12:05 +0000</pubDate>
+         <itunes:duration>00:16:37</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.03.16%20-%20De%20Flygtede%20afsnit%201.mp3" />
+      </item>
+      <item>
+         <title>Waqas</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198596/25272139-audio.m4a</link>
+         <description>Bandet Outlandish var nogle af dem der rykkede allermest i Danmarks minoritetsmiljøer i 00'erne. Den her podcast kommer til at handle om et af bandets medlemmer, Waqas Ali, hans opvækst og bandets hurtige eksponering.Af: Salma AbdurrazagLyddesign: Subhan
+ Moughal</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198596/25272139-audio.m4a</guid>
+         <pubDate>Mon, 05 Mar 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:16:16</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.03.05%20-%20Waqas.mp3" />
+      </item>
+      <item>
+         <title>Sofies Barsel 4. afsnit: Bjørnebanden</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198597/21512073-audio.m4a</link>
+         <description>Sofies Barsel er en serie på fire afsnit, der handler om livet som førstegangsmor anno 2017. Sofies barsel er slut og hverdagen er sat ind. I dette afsnit starter Ole i vuggestue – og det har med Sofies egne ord virkelig fucket hende up. Spørgsmålet er derfor, om det er Sofie eller Ole, der går først i panik når nu Ole har første dag i vuggestuen, Bjørnebanden .</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198597/21512073-audio.m4a</guid>
+         <pubDate>Fri, 23 Feb 2018 12:01:00 +0000</pubDate>
+         <itunes:duration>00:13:26</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.02.23%20-%20Sofies%20Barsel%204.%20afsnit.mp3" />
+      </item>
+      <item>
+         <title>Sofies Barsel 3. afsnit: Viljestærk tumling</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198598/21512061-audio.m4a</link>
+         <description>Sofies Barsel er en serie på fire afsnit, der handler om livet som førstegangsmor anno 2017. Ole er ved at udvikle sig fra spædbarn til tumling - og med det følger der en stærk vilje. I dette afsnit mødes Sofie med to andre småbørnsmødre med jævnaldrende børn. De diskuterer de nye udfordringer, de hver især står overfor, men taler også om gevinsten ved de smås nyerhvervede vilje og stædighed.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198598/21512061-audio.m4a</guid>
+         <pubDate>Fri, 23 Feb 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:09:52</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.02.23%20-%20Sofies%20Barsel%203.%20afsnit.mp3" />
+      </item>
+      <item>
+         <title>Anbragt i andres fordomme</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198599/20871982-audio.m4a</link>
+         <description>Selvom Mads har været anbragt siden han var tre år gammel og blev efterladt i en barnevogn med lightergas, taler han sjældent om det. Der har været for mange fordomme. I skolen regnede de nærmest med, at opholdsstedet var et fængsel.  I dag er Mads 20 år og klar til at fortælle om sit liv som anbragt. Han er flyttet fra opholdssted til ungdomspension - og har i dag sin helt egen lejlighed, hvor han endelig kan lukke døren, når han vil.  Af Freja Eriksen Lyddesign: Simon Minke</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198599/20871982-audio.m4a</guid>
+         <pubDate>Wed, 10 Jan 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:05:20</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.01.10%20-%20Anbragt%20i%20andres%20fordomme.mp3" />
+      </item>
+      <item>
+         <title>I Fællesskabets Tjeneste</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198600/20610098-audio.m4a</link>
+         <description>Af Jonas Rohold
 Hvordan påvirker det et menneske at blive sendt i krig? Hvad gør det ved én at føle at døden er nær? Og hvordan definerer man så sig selv, når man er kommet hjem i trygge rammer igen?
 I denne podcast kan du høre, hvordan en tidligere soldat oplever et meningstab, da han vender hjem efter sin udsendelse til Kuwait og Irak. Hvordan han ændrer adfærd, da han havner i et højreradikalt fodboldmiljø, hvor racistiske udbasuneringer, aggressiv attitude og kokainmisbrug var en del af hverdagen. Dette er en fortælling om, hvad anerkendelse, eller mangel på samme, kan gøre ved et menneske.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198600/20610098-audio.m4a</guid>
-			<pubDate>Fri, 05 Jan 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:12:46</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198600/20610098-audio.m4a" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Stolegymnastik og kaffe </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198601/20205258-audio.mp3</link>
-			<description>I Rødby sker der ikke så meget. Gaderne er ofte tomme. Men i ældrecentret kan du tro, der er gang i den - især torsdag formiddag til stolegymnastik. Vi har taget optageren med til work out og kaffe sammen med en flok energiske pensionister. Af Laura Barfoed Mikkelsen &amp; Sigrid Schjær Jensen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198601/20205258-audio.mp3</guid>
-			<pubDate>Tue, 05 Dec 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:08:57</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198601/20205258-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Den terrordømte fynbo </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198602/20152587-audio.mp3</link>
-			<description>Rene Andersen blev i 2007 idømt 4 års fængsel for medvirken til planlægning af en terrorhandling i Danmark. I denne podcast kan du høre ham fortælle, hvordan det kunne gå så galt, at han blev en del af et radikaliseret miljø og fællesskab. Et fællesskab der ønskede at hævne sig på det danske samfund ved at bygge og sprænge en bombe et ukendt sted i Danmark. Rene hedder i dag Sohrab Khan, han er 43 år, bor i Odense og har været muslimsk konvertit i 15 år.Af Jonas Rohold </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198602/20152587-audio.mp3</guid>
-			<pubDate>Fri, 01 Dec 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:10:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198602/20152587-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Drømmen om en kernefamilie</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198603/20003356-audio.mp3</link>
-			<description>Natasja på 17 år har været anbragt siden hun var 15 mdr. gammel fra sine biologiske forældre, der var narkomaner og derfor ikke kunne tage vare på hende og hendes storebror. Først kom de på børnehjem i Svendborg, men kom derefter til et opholdssted hos et gift par, hvor de boede fra Natasja var 5 år, til hun var 16 år. Her fik hun lov at opleve, hvad det vil sige at have en mor og far. Men i dag bor Natasja på opholdsstedet Svennebjerggaard i udkanten af Odense, fordi hendes temperament blev for meget for plejeforældrene. Hendes største drøm er, at hun en dag kan få sin egen kernefamilie.Af Jonas Rohold</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198603/20003356-audio.mp3</guid>
-			<pubDate>Fri, 17 Nov 2017 12:02:00 +0000</pubDate>
-			<itunes:duration>00:08:28</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198603/20003356-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Elektroder på Lolland</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198604/20003352-audio.mp3</link>
-			<description>Finanskrisen har nedlagt mange Bailine klinikker rundt om i landet, men kvinderne kommer fortsat hos Maibritt Hansen på Lolland, med et ønske om at røde, gule og grønne elektroderne kan tage 2 cm af ridebukselårene. I denne podcast inviterer Laura og Sigrid dig med ind i dette slankeunivers på Maribos gågade Af Laura Barfoed og Sigrid Schjær Jensen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198604/20003352-audio.mp3</guid>
-			<pubDate>Fri, 17 Nov 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:12:29</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198604/20003352-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hitmagerne fra mors garage</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198605/19889872-audio.mp3</link>
-			<description>Sangene “Nede Mette” og “Slem igen” er tilsammen blevet afspillet 29 millioner gange på Spotify, men drengene bag musikken: BLAK, Jimilian og Beshmir laver fortsat deres musik i mors garage på Maribo. Denne podcast inviterer dig med ind i lydstudiet. Afsnittet er også det første i en serie på fem, hvor Laura og Sigrid fra C:ntact redaktionen rejser rundt på Lolland og lytter til lokalbefolkningens historier.Af Laura Barfoed og Sigrid Schjær Jensen </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198605/19889872-audio.mp3</guid>
-			<pubDate>Mon, 06 Nov 2017 13:02:01 +0000</pubDate>
-			<itunes:duration>00:18:29</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198605/19889872-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fardins historie</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198606/19838683-audio.mp3</link>
-			<description>Fardin er kun 9 år gammel, da Taleban kommer til hans landsby i Afghanistan og slår hans far ihjel. Sammen med sin mor og storebror flygter han, og ender i Danmark, hvor mødet med det danske skolesystem bliver et mareridt, fuld af misforståelser og daglige slåskampe. Alle er bange for den udadreagerende dreng, bortset fra hans tosprogslærer, som ender med at blive hans plejemor. Radio C:NTACT fulgte den i dag 23-årige Fardin, da han besøgte 14 anbragte børn i alderen 14-17 år i Nordsjælland for at fortælle sin historie og udbrede sit budskab: man kan, hvad man vil, hvis man får den rette støtte og selv tror på, at titlen som &quot;anbragt barn&quot; ikke dømmer en til at blive en fremtidig fiasko. Af Karoline Ulvig Pedersen </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198606/19838683-audio.mp3</guid>
-			<pubDate>Fri, 03 Nov 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:15:05</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198606/19838683-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Overhørt i bussen </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198607/19182368-audio.mp3</link>
-			<description>Overhørt i bussen er lydsiden af en site-specific lydinstallation, der fandt sted i en HT-bus på Frederiksberg Rådhusplads foråret 2017. Lydinstallationens formål var at give en stemme til virkelighedens overhørte stemmer og konflikter i det offentlige rum angående spørgsmål om danskhed og fremmedgørelse. Her kan du høre en mosaik af autentiske historier, som viser, hvordan debatten omkring danskhed siver ind i vores dagligsprog, og hvad særligt unge etniske minoriteter tænker om spørgsmålet: &quot;Føler du dig dansk&quot;? Af Jonas Rohold</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198607/19182368-audio.mp3</guid>
-			<pubDate>Fri, 29 Sep 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:30:51</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198607/19182368-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hvalfangeren Johannes</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198608/19140597-audio.mp3</link>
-			<description>Den grønlandske hvalfanger Johannes på 69 år har i en tidlig alder måtte erkende, at han var bedre til at kæmpe med tonstunge hvaler på det åbne hav end svære lærebøger i skolen. Johannes giver os i denne fortælling et indblik i, hvordan det er at have havet som arbejdsplads, hvor målet er at få en 20 meter hval med hjem.Af Laura Barfoed Mikkelsen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198608/19140597-audio.mp3</guid>
-			<pubDate>Fri, 22 Sep 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:09:15</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198608/19140597-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sofies Barsel - 2. afsnit: Ud af babyhulen </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198609/18781861-audio.mp3</link>
-			<description>Sofies barsel er en serie på fire afsnit, der handler om livet som førstegangsmor anno 2017. I løbet af 2. afsnit bliver du klogere på hvilket lydrepertoire en baby i seksmåneders alderen har, hvordan en brystpumpe fungerer og hvordan man sådan lige hurtigt bliver enige om at få sig et barn. Jingle lavet af Setuniman at www.freesound.org/people/setuniman/</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198609/18781861-audio.mp3</guid>
-			<pubDate>Fri, 08 Sep 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:12:58</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198609/18781861-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sofies barsel - 1. afsnit: Det første smil</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198610/18781828-audio.mp3</link>
-			<description>Sofies barsel er en serie på fire afsnit, der handler om livet som førstegangsmor anno 2017. I løbet af 1. afsnit lære du hvor ubrugelig Halfdans Rasmussen ABC er, når det kommer til spædbørn, at det at være stjernekigger nok lyder poetisk, men ikke er det og at et smil kan få en ellers håbløs situation til at virke helt magisk. Jingle lavet af Setuniman at www.freesound.org/people/setuniman/ </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198610/18781828-audio.mp3</guid>
-			<pubDate>Fri, 01 Sep 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:07:58</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198610/18781828-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fra land og Indre Mission til København</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198611/18795006-audio.mp3</link>
-			<description>Tinne er 88 år og født og opvokset i et Indre Missionsk hjem i Nordjylland, men har boet det meste af sit liv i København. Et liv langt fra den hverdag hun oplevede som barn, og en person langt fra den stille pige hun var engang. Lyt til Tinne fortælle sin historie om at ville ændre sig, og om hvordan det ændrede hende at få et barn med handicap i en helt anden tid end i dag. Af Benjamin Mørch</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198611/18795006-audio.mp3</guid>
-			<pubDate>Fri, 25 Aug 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:16:06</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198611/18795006-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Spækhugger</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198612/18673945-audio.mp3</link>
-			<description>Der er ikke nogen, der siger at det skal være let med kærligheden. Hvordan er man overhovedet lykkelig? Er det nemmere bare at være ulykkelig? Og kan man svømme med spækhuggere uden at blive ædt?
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198600/20610098-audio.m4a</guid>
+         <pubDate>Fri, 05 Jan 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:12:46</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2018.01.05%20-%20I%20F%C3%A6llesskabets%20Tjeneste.mp3" />
+      </item>
+      <item>
+         <title>Stolegymnastik og kaffe</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198601/20205258-audio.mp3</link>
+         <description>I Rødby sker der ikke så meget. Gaderne er ofte tomme. Men i ældrecentret kan du tro, der er gang i den - især torsdag formiddag til stolegymnastik. Vi har taget optageren med til work out og kaffe sammen med en flok energiske pensionister. Af Laura Barfoed Mikkelsen &amp; Sigrid Schjær Jensen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198601/20205258-audio.mp3</guid>
+         <pubDate>Tue, 05 Dec 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:08:57</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.12.05%20-%20Stolegymnastik%20og%20kaffe%20.mp3" />
+      </item>
+      <item>
+         <title>Den terrordømte fynbo</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198602/20152587-audio.mp3</link>
+         <description>Rene Andersen blev i 2007 idømt 4 års fængsel for medvirken til planlægning af en terrorhandling i Danmark. I denne podcast kan du høre ham fortælle, hvordan det kunne gå så galt, at han blev en del af et radikaliseret miljø og fællesskab. Et fællesskab der ønskede at hævne sig på det danske samfund ved at bygge og sprænge en bombe et ukendt sted i Danmark. Rene hedder i dag Sohrab Khan, han er 43 år, bor i Odense og har været muslimsk konvertit i 15 år.Af Jonas Rohold </description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198602/20152587-audio.mp3</guid>
+         <pubDate>Fri, 01 Dec 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:10:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.12.01%20-%20Den%20terrord%C3%B8mte%20fynbo%20.mp3" />
+      </item>
+      <item>
+         <title>Drømmen om en kernefamilie</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198603/20003356-audio.mp3</link>
+         <description>Natasja på 17 år har været anbragt siden hun var 15 mdr. gammel fra sine biologiske forældre, der var narkomaner og derfor ikke kunne tage vare på hende og hendes storebror. Først kom de på børnehjem i Svendborg, men kom derefter til et opholdssted hos et gift par, hvor de boede fra Natasja var 5 år, til hun var 16 år. Her fik hun lov at opleve, hvad det vil sige at have en mor og far. Men i dag bor Natasja på opholdsstedet Svennebjerggaard i udkanten af Odense, fordi hendes temperament blev for meget for plejeforældrene. Hendes største drøm er, at hun en dag kan få sin egen kernefamilie.Af Jonas Rohold</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198603/20003356-audio.mp3</guid>
+         <pubDate>Fri, 17 Nov 2017 12:02:00 +0000</pubDate>
+         <itunes:duration>00:08:28</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.11.17%20-%20Elektroder%20p%C3%A5%20Lolland.mp3" />
+      </item>
+      <item>
+         <title>Elektroder på Lolland</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198604/20003352-audio.mp3</link>
+         <description>Finanskrisen har nedlagt mange Bailine klinikker rundt om i landet, men kvinderne kommer fortsat hos Maibritt Hansen på Lolland, med et ønske om at røde, gule og grønne elektroderne kan tage 2 cm af ridebukselårene. I denne podcast inviterer Laura og Sigrid dig med ind i dette slankeunivers på Maribos gågade Af Laura Barfoed og Sigrid Schjær Jensen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198604/20003352-audio.mp3</guid>
+         <pubDate>Fri, 17 Nov 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:12:29</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.11.17%20-%20Dr%C3%B8mmen%20om%20en%20kernefamilie.mp3" />
+      </item>
+      <item>
+         <title>Hitmagerne fra mors garage</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198605/19889872-audio.mp3</link>
+         <description>Sangene “Nede Mette” og “Slem igen” er tilsammen blevet afspillet 29 millioner gange på Spotify, men drengene bag musikken: BLAK, Jimilian og Beshmir laver fortsat deres musik i mors garage på Maribo. Denne podcast inviterer dig med ind i lydstudiet. Afsnittet er også det første i en serie på fem, hvor Laura og Sigrid fra C:ntact redaktionen rejser rundt på Lolland og lytter til lokalbefolkningens historier.Af Laura Barfoed og Sigrid Schjær Jensen </description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198605/19889872-audio.mp3</guid>
+         <pubDate>Mon, 06 Nov 2017 13:02:01 +0000</pubDate>
+         <itunes:duration>00:18:29</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.11.06%20-%20Hitmagerne%20fra%20mors%20garage.mp3" />
+      </item>
+      <item>
+         <title>Fardins historie</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198606/19838683-audio.mp3</link>
+         <description>Fardin er kun 9 år gammel, da Taleban kommer til hans landsby i Afghanistan og slår hans far ihjel. Sammen med sin mor og storebror flygter han, og ender i Danmark, hvor mødet med det danske skolesystem bliver et mareridt, fuld af misforståelser og daglige slåskampe. Alle er bange for den udadreagerende dreng, bortset fra hans tosprogslærer, som ender med at blive hans plejemor. Radio C:NTACT fulgte den i dag 23-årige Fardin, da han besøgte 14 anbragte børn i alderen 14-17 år i Nordsjælland for at fortælle sin historie og udbrede sit budskab: man kan, hvad man vil, hvis man får den rette støtte og selv tror på, at titlen som "anbragt barn" ikke dømmer en til at blive en fremtidig fiasko. Af Karoline Ulvig Pedersen </description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198606/19838683-audio.mp3</guid>
+         <pubDate>Fri, 03 Nov 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:15:05</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.11.03%20-%20Fardins%20historie.mp3" />
+      </item>
+      <item>
+         <title>Overhørt i bussen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198607/19182368-audio.mp3</link>
+         <description>Overhørt i bussen er lydsiden af en site-specific lydinstallation, der fandt sted i en HT-bus på Frederiksberg Rådhusplads foråret 2017. Lydinstallationens formål var at give en stemme til virkelighedens overhørte stemmer og konflikter i det offentlige rum angående spørgsmål om danskhed og fremmedgørelse. Her kan du høre en mosaik af autentiske historier, som viser, hvordan debatten omkring danskhed siver ind i vores dagligsprog, og hvad særligt unge etniske minoriteter tænker om spørgsmålet: "Føler du dig dansk"? Af Jonas Rohold</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198607/19182368-audio.mp3</guid>
+         <pubDate>Fri, 29 Sep 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:30:51</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.09.29%20-%20Overh%C3%B8rt%20i%20bussen%20.mp3" />
+      </item>
+      <item>
+         <title>Hvalfangeren Johannes</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198608/19140597-audio.mp3</link>
+         <description>Den grønlandske hvalfanger Johannes på 69 år har i en tidlig alder måtte erkende, at han var bedre til at kæmpe med tonstunge hvaler på det åbne hav end svære lærebøger i skolen. Johannes giver os i denne fortælling et indblik i, hvordan det er at have havet som arbejdsplads, hvor målet er at få en 20 meter hval med hjem.Af Laura Barfoed Mikkelsen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198608/19140597-audio.mp3</guid>
+         <pubDate>Fri, 22 Sep 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:09:15</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.09.22%20-%20Hvalfangeren%20Johannes.mp3" />
+      </item>
+      <item>
+         <title>Sofies Barsel - 2. afsnit: Ud af babyhulen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198609/18781861-audio.mp3</link>
+         <description>Sofies barsel er en serie på fire afsnit, der handler om livet som førstegangsmor anno 2017. I løbet af 2. afsnit bliver du klogere på hvilket lydrepertoire en baby i seksmåneders alderen har, hvordan en brystpumpe fungerer og hvordan man sådan lige hurtigt bliver enige om at få sig et barn. Jingle lavet af Setuniman at www.freesound.org/people/setuniman/</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198609/18781861-audio.mp3</guid>
+         <pubDate>Fri, 08 Sep 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:12:58</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.09.08%20-%20Sofies%20Barsel%20-%202.%20afsnit.mp3" />
+      </item>
+      <item>
+         <title>Sofies barsel - 1. afsnit: Det første smil</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198610/18781828-audio.mp3</link>
+         <description>Sofies barsel er en serie på fire afsnit, der handler om livet som førstegangsmor anno 2017. I løbet af 1. afsnit lære du hvor ubrugelig Halfdans Rasmussen ABC er, når det kommer til spædbørn, at det at være stjernekigger nok lyder poetisk, men ikke er det og at et smil kan få en ellers håbløs situation til at virke helt magisk. Jingle lavet af Setuniman at www.freesound.org/people/setuniman/ </description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198610/18781828-audio.mp3</guid>
+         <pubDate>Fri, 01 Sep 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:07:58</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.09.01%20-%20Sofies%20barsel%20-%201.%20afsnit.mp3" />
+      </item>
+      <item>
+         <title>Fra land og Indre Mission til København</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198611/18795006-audio.mp3</link>
+         <description>Tinne er 88 år og født og opvokset i et Indre Missionsk hjem i Nordjylland, men har boet det meste af sit liv i København. Et liv langt fra den hverdag hun oplevede som barn, og en person langt fra den stille pige hun var engang. Lyt til Tinne fortælle sin historie om at ville ændre sig, og om hvordan det ændrede hende at få et barn med handicap i en helt anden tid end i dag. Af Benjamin Mørch</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198611/18795006-audio.mp3</guid>
+         <pubDate>Fri, 25 Aug 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:16:06</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.08.25%20-%20Fra%20land%20og%20Indre%20Mission%20til%20K%C3%B8benhavn.mp3" />
+      </item>
+      <item>
+         <title>Spækhugger</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198612/18673945-audio.mp3</link>
+         <description>Der er ikke nogen, der siger at det skal være let med kærligheden. Hvordan er man overhovedet lykkelig? Er det nemmere bare at være ulykkelig? Og kan man svømme med spækhuggere uden at blive ædt?
 Af Anna Cæcilie Sørensen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198612/18673945-audio.mp3</guid>
-			<pubDate>Mon, 14 Aug 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:22:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198612/18673945-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jomfrurejsen</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198613/18534648-audio.mp3</link>
-			<description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198612/18673945-audio.mp3</guid>
+         <pubDate>Mon, 14 Aug 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:22:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.08.14%20-%20Sp%C3%A6khugger.mp3" />
+      </item>
+      <item>
+         <title>Jomfrurejsen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198613/18534648-audio.mp3</link>
+         <description>25 år og skrupforvirret. Anna Cæcilie skal til optagelsessamtale på læreruddannelsen, men hun er i tvivl om, hvorvidt uddannelsen er noget for hende, og hvad hun vil med livet, så hun går alternative veje for at finde svar. 
 
-
-
-25 år og skrupforvirret. Anna Cæcilie skal til optagelsessamtale på læreruddannelsen, men hun er i tvivl om, hvorvidt uddannelsen er noget for hende, og hvad hun vil med livet, så hun går alternative veje for at finde svar. 
-
-Af Anna Cæcilie Sørensen
-
-
-
-
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198613/18534648-audio.mp3</guid>
-			<pubDate>Wed, 02 Aug 2017 14:58:39 +0000</pubDate>
-			<itunes:duration>00:16:26</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198613/18534648-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Under stjernerne</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198614/17525553-audio.mp3</link>
-			<description>Historien om en mand, der ikke må gå i glemmebogen. En mand der tog til søs, men ikke selv bestemte hvor han ville hen. Tag med på en rejse ind i Uffes liv. Tag med op under stjernerne.
 Af Anna Cæcilie Sørensen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198614/17525553-audio.mp3</guid>
-			<pubDate>Fri, 07 Jul 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:20:13</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198614/17525553-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Skolen på Nyelandsvej</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198615/17961530-audio.mp3</link>
-			<description>
-I denne podcast besøger eleverne fra 8. klasse på Skolen på Nyelandsvej deres nye kammerater fra skolens modtageklasser, som består af elever der er kommet til Danmark fornyeligt fx som flygtning. Med en optager i hånden møder de nye og gamle elever hinanden på en ny måde.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198613/18534648-audio.mp3</guid>
+         <pubDate>Wed, 02 Aug 2017 14:58:39 +0000</pubDate>
+         <itunes:duration>00:16:26</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.08.02%20-%20Jomfrurejsen.mp3" />
+      </item>
+      <item>
+         <title>Under stjernerne</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198614/17525553-audio.mp3</link>
+         <description>Historien om en mand, der ikke må gå i glemmebogen. En mand der tog til søs, men ikke selv bestemte hvor han ville hen. Tag med på en rejse ind i Uffes liv. Tag med op under stjernerne.
+Af Anna Cæcilie Sørensen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198614/17525553-audio.mp3</guid>
+         <pubDate>Fri, 07 Jul 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:20:13</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.07.07%20-%20Under%20stjernerne.mp3" />
+      </item>
+      <item>
+         <title>Skolen på Nyelandsvej</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198615/17961530-audio.mp3</link>
+         <description>I denne podcast besøger eleverne fra 8. klasse på Skolen på Nyelandsvej deres nye kammerater fra skolens modtageklasser, som består af elever der er kommet til Danmark fornyeligt fx som flygtning. Med en optager i hånden møder de nye og gamle elever hinanden på en ny måde.
 Fortalt og optaget af: Marcus og Mahdiya. Aske og Zara. Nikolaj og Paulos. Rajab og Vuksan.
 Tilrettelæggelse og redigering af Benjamin Mørch.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198615/17961530-audio.mp3</guid>
-			<pubDate>Tue, 27 Jun 2017 18:52:29 +0000</pubDate>
-			<itunes:duration>00:16:46</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198615/17961530-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Er den død eller hvad?</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198616/17823482-audio.mp3</link>
-			<description>Blandt 15-29 årige danskere er Netflix og Youtube de mest populære medieplatforme. Men hvad betyder det for den demokratiske samtale, vores fællesskab og oplysning, når grineren youtube-klip og fede amerikanske tv-serier blandt de unge overdøver gammeldags dansk public service? I denne podcast indtager Carsten Ortmann fra Supertanker på P1 rollen som public service fanebærer
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198615/17961530-audio.mp3</guid>
+         <pubDate>Tue, 27 Jun 2017 18:52:29 +0000</pubDate>
+         <itunes:duration>00:16:46</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.06.27%20-%20Skolen%20pa%CC%8A%20Nyelandsvej.mp3" />
+      </item>
+      <item>
+         <title>Er den død eller hvad?</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198616/17823482-audio.mp3</link>
+         <description>Blandt 15-29 årige danskere er Netflix og Youtube de mest populære medieplatforme. Men hvad betyder det for den demokratiske samtale, vores fællesskab og oplysning, når grineren youtube-klip og fede amerikanske tv-serier blandt de unge overdøver gammeldags dansk public service? I denne podcast indtager Carsten Ortmann fra Supertanker på P1 rollen som public service fanebærer
 Af Joalane Mohapeloa</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198616/17823482-audio.mp3</guid>
-			<pubDate>Tue, 20 Jun 2017 15:17:16 +0000</pubDate>
-			<itunes:duration>00:16:49</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198616/17823482-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>To spastikere og en livsdrøm</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198617/17082215-audio.mp3</link>
-			<description>Claus kan ikke snakke, det kan Peder. De to herrer på henholdsvis 58 og 59 år, er begge født som spastikere og har levet en halv menneskealder sammen i Aarhus. Trods kørestole, hængelift og hjælpeordninger har de nu udlevet deres gamle drøm om at flytte til København. Det er her, jeg har lært dem at kende, som to sjove og yderst bramfri mennesker, der i den grad har mod på livet. Af Hans Kappel Skau.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198617/17082215-audio.mp3</guid>
-			<pubDate>Fri, 12 May 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:14:46</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198617/17082215-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Robins rejse</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198618/16958242-audio.mp3</link>
-			<description>De første år af Robins opvækst foregår hos hans omsorgsfuld mor, der lever med en psykisk sygdom og er på kontanthjælp. Da han er 12 år gammel, eskalerer hans mors sygdom, og hans far overtager derfor børneopdragelsen. Her byder livet på rigdom, gallapræmier og rejser - og otte år på kostskole, børnepassere og en fraværende far, der opfostrer ham igennem telefonen.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198616/17823482-audio.mp3</guid>
+         <pubDate>Tue, 20 Jun 2017 15:17:16 +0000</pubDate>
+         <itunes:duration>00:16:49</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.06.20%20-%20Er%20den%20d%C3%B8d%20eller%20hvad.mp3" />
+      </item>
+      <item>
+         <title>To spastikere og en livsdrøm</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198617/17082215-audio.mp3</link>
+         <description>Claus kan ikke snakke, det kan Peder. De to herrer på henholdsvis 58 og 59 år, er begge født som spastikere og har levet en halv menneskealder sammen i Aarhus. Trods kørestole, hængelift og hjælpeordninger har de nu udlevet deres gamle drøm om at flytte til København. Det er her, jeg har lært dem at kende, som to sjove og yderst bramfri mennesker, der i den grad har mod på livet. Af Hans Kappel Skau.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198617/17082215-audio.mp3</guid>
+         <pubDate>Fri, 12 May 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:14:46</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.05.12%20-%20To%20spastikere%20og%20en%20livsdr%C3%B8m.mp3" />
+      </item>
+      <item>
+         <title>Robins rejse</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198618/16958242-audio.mp3</link>
+         <description>De første år af Robins opvækst foregår hos hans omsorgsfuld mor, der lever med en psykisk sygdom og er på kontanthjælp. Da han er 12 år gammel, eskalerer hans mors sygdom, og hans far overtager derfor børneopdragelsen. Her byder livet på rigdom, gallapræmier og rejser - og otte år på kostskole, børnepassere og en fraværende far, der opfostrer ham igennem telefonen.
 ''Robins rejse'' er en udviklingshistorie om en ung splittet mand, som kæmper for at danne sit eget verdenssyn, uafhængigt af sine forældre.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198618/16958242-audio.mp3</guid>
-			<pubDate>Thu, 04 May 2017 10:07:17 +0000</pubDate>
-			<itunes:duration>00:08:26</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198618/16958242-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>67 år </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198619/16837432-audio.mp3</link>
-			<description>Når Lone ser sin mor i dag, ser hun rødt, selvom hun elskede hende som barn. Efter 67 år har Lone oplevet både opture og nedture i sit liv med både druk, misbrug, og en mand som endnu jager hende om natten. Hør Lone fortælle sin historie om at ville lave alt om, hvis hun kunne, og et forhold til en mor som kun består af indkøb i dag.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198618/16958242-audio.mp3</guid>
+         <pubDate>Thu, 04 May 2017 10:07:17 +0000</pubDate>
+         <itunes:duration>00:08:26</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.05.04%20-%20Robins%20rejse.mp3" />
+      </item>
+      <item>
+         <title>67 år</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198619/16837432-audio.mp3</link>
+         <description>Når Lone ser sin mor i dag, ser hun rødt, selvom hun elskede hende som barn. Efter 67 år har Lone oplevet både opture og nedture i sit liv med både druk, misbrug, og en mand som endnu jager hende om natten. Hør Lone fortælle sin historie om at ville lave alt om, hvis hun kunne, og et forhold til en mor som kun består af indkøb i dag.
 Fortalt af Lone
 Tilrettelæggelse og redigering af Benjamin Mørch</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198619/16837432-audio.mp3</guid>
-			<pubDate>Wed, 26 Apr 2017 11:46:17 +0000</pubDate>
-			<itunes:duration>00:11:03</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198619/16837432-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Maltes Historie</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198620/16533127-audio.mp3</link>
-			<description>af Harald Brønd
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198619/16837432-audio.mp3</guid>
+         <pubDate>Wed, 26 Apr 2017 11:46:17 +0000</pubDate>
+         <itunes:duration>00:11:03</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.04.26%20-%2067%20%C3%A5r%20.mp3" />
+      </item>
+      <item>
+         <title>Maltes Historie</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198620/16533127-audio.mp3</link>
+         <description>af Harald Brønd
 Da Maltes far ikke kan acceptere at hans søn er et fuck up, som Malte siger det, bliver han smidt på porten som 16-årig. Malte lever resten af sine teenage-år med småkriminalitet, et hashmisbrug og inde og ude af skoler og jobs, men for Malte er der en ting, der altid har givet en retning. Rap-musik!</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198620/16533127-audio.mp3</guid>
-			<pubDate>Tue, 04 Apr 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:05:48</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198620/16533127-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kaos ved Palæstina Maraton</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198621/16432423-audio.mp3</link>
-			<description>I marts 2016 tog Salma Al-fitouri til Vestbredden for at løbe Palæstina Maraton, men løbet blev afbrudt, og hun befandt sig pludselig nærmest i en krigszone
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198620/16533127-audio.mp3</guid>
+         <pubDate>Tue, 04 Apr 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:05:48</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.04.04%20-%20Maltes%20Historie.mp3" />
+      </item>
+      <item>
+         <title>Kaos ved Palæstina Maraton</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198621/16432423-audio.mp3</link>
+         <description>I marts 2016 tog Salma Al-fitouri til Vestbredden for at løbe Palæstina Maraton, men løbet blev afbrudt, og hun befandt sig pludselig nærmest i en krigszone
 Af Salma Jamal Abdurrazag Al-fitouri.
 Med hjælp til klipning og Lyd af Andrea Sandahl Skov Bøkter .</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198621/16432423-audio.mp3</guid>
-			<pubDate>Wed, 29 Mar 2017 08:00:00 +0000</pubDate>
-			<itunes:duration>00:04:59</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198621/16432423-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Vellness Pladder</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198622/16107599-audio.mp3</link>
-			<description>De deler drinks, øvelokaler og presseomtale. Musikkollektivet Vellness Plader er ved at gøre sig bemærkede på den danske musikscene, og i december holdt kollektivet release-koncert på pumpehuset. Radio C:ntact var med
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198621/16432423-audio.mp3</guid>
+         <pubDate>Wed, 29 Mar 2017 08:00:00 +0000</pubDate>
+         <itunes:duration>00:04:59</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.03.29%20-%20Kaos%20ved%20Pal%C3%A6stina%20Maraton.mp3" />
+      </item>
+      <item>
+         <title>Vellness Pladder</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198622/16107599-audio.mp3</link>
+         <description>De deler drinks, øvelokaler og presseomtale. Musikkollektivet Vellness Plader er ved at gøre sig bemærkede på den danske musikscene, og i december holdt kollektivet release-koncert på pumpehuset. Radio C:ntact var med
 Af Joalane Mohapeloa</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198622/16107599-audio.mp3</guid>
-			<pubDate>Fri, 17 Mar 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:13:02</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198622/16107599-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Bulgarske toner på Kongelunden</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198623/15668287-audio.mp3</link>
-			<description>Kan musik nedbryde kulturelle forskelle i mødet mellem mennesker? Vokalkoret Glas spiller op for asylcenter Kongelunden på Amager. Reportagen tager dig med på en rejse, hvor Bulgarsk folkemusik er udgangspunktet for et møde mellem mennesker fra vidt forskellige folkeslag.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198622/16107599-audio.mp3</guid>
+         <pubDate>Fri, 17 Mar 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:13:02</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.03.17%20-%20Vellness%20Pladder.mp3" />
+      </item>
+      <item>
+         <title>Bulgarske toner på Kongelunden</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198623/15668287-audio.mp3</link>
+         <description>Kan musik nedbryde kulturelle forskelle i mødet mellem mennesker? Vokalkoret Glas spiller op for asylcenter Kongelunden på Amager. Reportagen tager dig med på en rejse, hvor Bulgarsk folkemusik er udgangspunktet for et møde mellem mennesker fra vidt forskellige folkeslag.
 Hør hvordan bulgarsk folkemusik kan bygge bro til nye venskaber på tværs af sprog, kultur og religion.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198623/15668287-audio.mp3</guid>
-			<pubDate>Fri, 24 Feb 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:08:14</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198623/15668287-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Når jeg tænker tilbage på mit liv i ungdomspolitik</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198624/15601318-audio.mp3</link>
-			<description>Når Franciska kigger tilbage på sine 3 år som aktiv i Radikal ungdom, vækker det 2 følelser i hende. En glæde ved alle de venner og oplevelser hun har haft, men samtidig også en frustration over hvordan det har været, at være purung i det ungdomsparti, som hun kalder en mandeverden.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198624/15601318-audio.mp3</guid>
-			<pubDate>Fri, 17 Feb 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:13:04</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198624/15601318-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Danmark tog min barndom</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198625/15440430-audio.mp3</link>
-			<description>Helene Thiesen bliver som barn tvangflyttet til Danmark, som en del af et integrationsprojekt for grønlandske børn. Denne podcast handler om Helenes oplevelser og om savnet efter sit hjemland.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198623/15668287-audio.mp3</guid>
+         <pubDate>Fri, 24 Feb 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:08:14</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.02.24%20-%20Bulgarske%20toner%20p%C3%A5%20Kongelunden.mp3" />
+      </item>
+      <item>
+         <title>Når jeg tænker tilbage på mit liv i ungdomspolitik</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198624/15601318-audio.mp3</link>
+         <description>Når Franciska kigger tilbage på sine 3 år som aktiv i Radikal ungdom, vækker det 2 følelser i hende. En glæde ved alle de venner og oplevelser hun har haft, men samtidig også en frustration over hvordan det har været, at være purung i det ungdomsparti, som hun kalder en mandeverden.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198624/15601318-audio.mp3</guid>
+         <pubDate>Fri, 17 Feb 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:13:04</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.02.17%20-%20N%C3%A5r%20jeg%20t%C3%A6nker%20tilbage%20p%C3%A5%20mit%20liv%20i%20ungdomspolitik.mp3" />
+      </item>
+      <item>
+         <title>Danmark tog min barndom</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198625/15440430-audio.mp3</link>
+         <description>Helene Thiesen bliver som barn tvangflyttet til Danmark, som en del af et integrationsprojekt for grønlandske børn. Denne podcast handler om Helenes oplevelser og om savnet efter sit hjemland.
 Af Ann-Sophie Møller</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198625/15440430-audio.mp3</guid>
-			<pubDate>Fri, 27 Jan 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:16:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198625/15440430-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Historien om Jørgen </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198626/15302901-audio.mp3</link>
-			<description>Af Jeppe Wissing
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198625/15440430-audio.mp3</guid>
+         <pubDate>Fri, 27 Jan 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:16:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.01.27%20-%20Danmark%20tog%20min%20barndom.mp3" />
+      </item>
+      <item>
+         <title>Historien om Jørgen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198626/15302901-audio.mp3</link>
+         <description>Af Jeppe Wissing
 Du kender godt Jørgen fra reklamerne for Kims Chips. Men vidste du, at der bag karakteren gemmer sig en Vestjysk kloakmester ved navn Henning Jacobsen? Her får du historien om, hvordan kongen af kartoffelchips blev til.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198626/15302901-audio.mp3</guid>
-			<pubDate>Fri, 13 Jan 2017 12:00:00 +0000</pubDate>
-			<itunes:duration>00:09:14</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198626/15302901-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hvorfor er lykken så lunefuld?</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198627/15265643-audio.mp3</link>
-			<description>Af Emil Damtoft, Erol Bajramovic, Signe Baunsgaard, Vilma Reedtz Sparrevohn &amp; Alvin Mazaheri
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198626/15302901-audio.mp3</guid>
+         <pubDate>Fri, 13 Jan 2017 12:00:00 +0000</pubDate>
+         <itunes:duration>00:09:14</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.01.13%20-%20Historien%20om%20J%C3%B8rgen%20.mp3" />
+      </item>
+      <item>
+         <title>Hvorfor er lykken så lunefuld?</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198627/15265643-audio.mp3</link>
+         <description>Af Emil Damtoft, Erol Bajramovic, Signe Baunsgaard, Vilma Reedtz Sparrevohn &amp; Alvin Mazaheri
 To skoler fra Frederiksberg, hhv.
 Nyelandsvej skole og Søndermarkskolen, deltog i foråret 2016 i et understøttende undervisningsforløb med deres 8. klasses elever, hos C:ntact på Edisonteatret. Her arbejdede 8. klasseeleverne sammen om at skabe en teaterforestilling på baggrund af deres forståelser og oplevelser med forskellige temaer.
 Dette podcast handler om elevernes forståelser og oplevelser med temaerne lykke og kærlighed - og så handler den især også om en dreng fra Søndermarkskolen og en pige fra Nyelandsvej skole.
 Workshopleder: Jonas Rohold</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198627/15265643-audio.mp3</guid>
-			<pubDate>Wed, 04 Jan 2017 11:53:59 +0000</pubDate>
-			<itunes:duration>00:18:05</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198627/15265643-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sugarbaby</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198628/15110598-audio.mp3</link>
-			<description>Af Emma Frederiksen
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198627/15265643-audio.mp3</guid>
+         <pubDate>Wed, 04 Jan 2017 11:53:59 +0000</pubDate>
+         <itunes:duration>00:18:05</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2017.01.04%20-%20Hvorfor%20er%20lykken%20s%C3%A5%20lunefuld.mp3" />
+      </item>
+      <item>
+         <title>Sugarbaby</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198628/15110598-audio.mp3</link>
+         <description>Af Emma Frederiksen
 Sugardating er ofte et aldersmæssigt og økonomisk ulige seksuelt forhold, men for 21-årige Nanette var det netop de traditionelle kønsroller der trak, da hun indledte et forhold til en dobbelt så gammel SugarDaddy.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198628/15110598-audio.mp3</guid>
-			<pubDate>Fri, 16 Dec 2016 12:00:00 +0000</pubDate>
-			<itunes:duration>00:15:46</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198628/15110598-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hasselhof og papilotter </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198629/15031616-audio.mp3</link>
-			<description>Intet har ændret sig i de 36 år, Jane Borglit har haft Salon Arten, der ligger placeret i midten af København. Fru Klausen er en af de trofaste kunder, der bruger frisøren som et opholdssted, hvor hun ivrigt deler alt med Jane.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198628/15110598-audio.mp3</guid>
+         <pubDate>Fri, 16 Dec 2016 12:00:00 +0000</pubDate>
+         <itunes:duration>00:15:46</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.12.16%20-%20Sugarbaby.mp3" />
+      </item>
+      <item>
+         <title>Hasselhof og papilotter</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198629/15031616-audio.mp3</link>
+         <description>Intet har ændret sig i de 36 år, Jane Borglit har haft Salon Arten, der ligger placeret i midten af København. Fru Klausen er en af de trofaste kunder, der bruger frisøren som et opholdssted, hvor hun ivrigt deler alt med Jane.
 Af: Laura Barfoed Mikkelsen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198629/15031616-audio.mp3</guid>
-			<pubDate>Fri, 02 Dec 2016 12:00:00 +0000</pubDate>
-			<itunes:duration>00:06:57</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198629/15031616-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Edderkop og sommerfugl</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198630/14738076-audio.mp3</link>
-			<description>Af Cæcilie Sylvest Brix Møller
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198629/15031616-audio.mp3</guid>
+         <pubDate>Fri, 02 Dec 2016 12:00:00 +0000</pubDate>
+         <itunes:duration>00:06:57</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.12.02%20-%20Hasselhof%20og%20papilotter%20.mp3" />
+      </item>
+      <item>
+         <title>Edderkop og sommerfugl</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198630/14738076-audio.mp3</link>
+         <description>Af Cæcilie Sylvest Brix Møller
 Natashas far er skizofren. Sådan har det været siden hun var helt lille, men en skelsættende begivenhed som 12-årig ændrer hendes opfattelse af at være barn. Hun veksler efterfølgende i sin tilværelse mellem hvem der er den voksne og hvem der er barnet? Er det hende eller far? Hør Natasha fortælle om hvordan det er at være vokset op med en far der lider af paranoid skizofreni og om frygten for selv at blive psykisk syg. Det handler om at give skyggesiderne plads, men at passe på at de dårlige følelser ikke tager overhånd og går ud over andre.
 Fortalt af Natasha.
 Tilrettelæggelse og interview af Cæcilie Sylvest Brix Møller.
 Redigering af Cæcilie Sylvest Brix Møller og Jonas Rohold
 Torvholdere: Jonas Rohold og Line Jakobsgaard Hansen.
 Musik: “So long lonesome” af Explotions In The Sky, 2007.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198630/14738076-audio.mp3</guid>
-			<pubDate>Wed, 26 Oct 2016 09:50:32 +0000</pubDate>
-			<itunes:duration>00:13:35</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198630/14738076-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Annas beslutning</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198631/14738075-audio.mp3</link>
-			<description>Af Astrid Uldall
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198630/14738076-audio.mp3</guid>
+         <pubDate>Wed, 26 Oct 2016 09:50:32 +0000</pubDate>
+         <itunes:duration>00:13:35</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.10.26%20-%20Edderkop%20og%20sommerfugl.mp3" />
+      </item>
+      <item>
+         <title>Annas beslutning</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198631/14738075-audio.mp3</link>
+         <description>Af Astrid Uldall
 Anna er fast besluttet på at dø, da hun i efteråret 2015 klikker flere pakker Panodiler ud i hånden og sluger dem en efter en.
 Hun har diagnosen svær depression og var dengang overbevist om, at hun ikke kunne være andet end depressiv og at livet ikke var noget for hende.
 I dag, knap et år og en indlæggelse senere, ser Anna anderledes på det.
 Fortalt af Anna
 Redigering af Astrid Uldall og Jonas Rohold
 Tovholdere: Line Jakobsgaard og Jonas Rohold
-Musik: &quot;Hello!&quot; af Explosions In The Sky &amp; David Wingo.’</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198631/14738075-audio.mp3</guid>
-			<pubDate>Wed, 26 Oct 2016 09:49:51 +0000</pubDate>
-			<itunes:duration>00:14:45</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198631/14738075-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En skildpadde i Sahara</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198632/14710622-audio.mp3</link>
-			<description>At leve med en psykisk lidelse og opleve depression er noget, der kan være meget svært at forklare til nogen, der ikke har oplevet det på egen krop. Hvordan forklarer man familie, venner og bekendte, hvad det er, man gennemlever, når man bare ikke kan komme op om morgenen eller gentagende gange må trække sig fordi, man ganske enkelt ikke har overskuddet til at deltage i livet omkring sig?
-I &quot;En skildpadde i Sahara” giver Emil et indblik i, hvordan det føles, når han rammes af en svær depressiv tilstand. Hør ham forklare sin ensomme ørkenvandring.
+Musik: "Hello!" af Explosions In The Sky &amp; David Wingo.’</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198631/14738075-audio.mp3</guid>
+         <pubDate>Wed, 26 Oct 2016 09:49:51 +0000</pubDate>
+         <itunes:duration>00:14:45</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.10.26%20-%20Annas%20beslutning.mp3" />
+      </item>
+      <item>
+         <title>En skildpadde i Sahara</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198632/14710622-audio.mp3</link>
+         <description>At leve med en psykisk lidelse og opleve depression er noget, der kan være meget svært at forklare til nogen, der ikke har oplevet det på egen krop. Hvordan forklarer man familie, venner og bekendte, hvad det er, man gennemlever, når man bare ikke kan komme op om morgenen eller gentagende gange må trække sig fordi, man ganske enkelt ikke har overskuddet til at deltage i livet omkring sig?
+I "En skildpadde i Sahara” giver Emil et indblik i, hvordan det føles, når han rammes af en svær depressiv tilstand. Hør ham forklare sin ensomme ørkenvandring.
 Fortalt af Emil Kjaer Hansen
 Tilrettelagt og redigeret af Jonas Rohold
 Lyddesign af Signe Hendel Møller</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198632/14710622-audio.mp3</guid>
-			<pubDate>Fri, 21 Oct 2016 12:00:00 +0000</pubDate>
-			<itunes:duration>00:04:01</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198632/14710622-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Tørklæde eller ej 1. del</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198633/14539248-audio.mp3</link>
-			<description>Af Jonas Rohold
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198632/14710622-audio.mp3</guid>
+         <pubDate>Fri, 21 Oct 2016 12:00:00 +0000</pubDate>
+         <itunes:duration>00:04:01</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.10.21%20-%20En%20skildpadde%20i%20Sahara.mp3" />
+      </item>
+      <item>
+         <title>Tørklæde eller ej 1. del</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198633/14539248-audio.mp3</link>
+         <description>Af Jonas Rohold
 De fleste har oplevet at rende ind i en gammel ven eller bekendt, og så have problemer med lige at placere denne i hukommelsen. Men i mit tilfælde med Sarah var det også forbundet med, at jeg aldrig havde set hende uden tørklæde på før.
 Sarah har siden dette interview valgt at smide tørklædet igen. Hun skrev, at samtalen om det at gå med tørklæde og det at have sin personlige frihed, havde givet hende en masse at tænke over, og at hun nu havde fået modet til igen at prøve livet uden. Hun ved ikke hvad fremtiden bringer, men håber at holde fast i sin beslutning denne gang.’</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198633/14539248-audio.mp3</guid>
-			<pubDate>Fri, 23 Sep 2016 12:00:00 +0000</pubDate>
-			<itunes:duration>00:16:12</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198633/14539248-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ung og hjemløs </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198634/13768703-audio.mp3</link>
-			<description>Af Sofie Trier Jensen og Nanna Endahl
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198633/14539248-audio.mp3</guid>
+         <pubDate>Fri, 23 Sep 2016 12:00:00 +0000</pubDate>
+         <itunes:duration>00:16:12</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.09.23%20-%20T%C3%B8rkl%C3%A6de%20eller%20ej%201.%20del.mp3" />
+      </item>
+      <item>
+         <title>Ung og hjemløs</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198634/13768703-audio.mp3</link>
+         <description>Af Sofie Trier Jensen og Nanna Endahl
 Josefine er bare 21 år, alligevel har hun i lange perioder af sit liv boet rundt omkring i de københavnske gader, på sofaer hos venner og bekendte og på diverse natåbne barer og caféer. Men hun har alligevel svært ved at identificere sig med rollen som hjemløs. I dette podcast fortæller Josefine om sine oplevelser med at være uden en fast base og så filosoferer hun over hvad det vil sige at være hjem-løs</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198634/13768703-audio.mp3</guid>
-			<pubDate>Fri, 05 Aug 2016 11:14:12 +0000</pubDate>
-			<itunes:duration>00:08:39</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198634/13768703-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Malthes Monolog</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198635/13570065-audio.mp3</link>
-			<description>Af Anna Cæcilie Sørensen
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198634/13768703-audio.mp3</guid>
+         <pubDate>Fri, 05 Aug 2016 11:14:12 +0000</pubDate>
+         <itunes:duration>00:08:39</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.08.05%20-%20Ung%20og%20hjeml%C3%B8s%20.mp3" />
+      </item>
+      <item>
+         <title>Malthes Monolog</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198635/13570065-audio.mp3</link>
+         <description>Af Anna Cæcilie Sørensen
 Ved Radio C:NTACTs sidste Radiobiograf i Bremen Teater deltog 600 mennesker, der blandt andet hørte Malthes monolog på scenen om sit ungdommelige stofmisbrug - og om kærlighed. Hør hans monolog, og den snak han havde med Radio C:NTACTs Anna Cæcilie Sørensen få minutter før hans optræden om lighederne mellem at tage stoffer og stå på scenen, og om hvor han står henne i dag.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198635/13570065-audio.mp3</guid>
-			<pubDate>Fri, 20 May 2016 12:00:00 +0000</pubDate>
-			<itunes:duration>00:12:02</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198635/13570065-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Død af kedsomhed</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198636/13515815-audio.mp3</link>
-			<description>Af Asta Maria Mouritzen og Simon Minke.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198635/13570065-audio.mp3</guid>
+         <pubDate>Fri, 20 May 2016 12:00:00 +0000</pubDate>
+         <itunes:duration>00:12:02</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.05.20%20-%20Malthes%20Monolog.mp3" />
+      </item>
+      <item>
+         <title>Død af kedsomhed</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198636/13515815-audio.mp3</link>
+         <description>Af Asta Maria Mouritzen og Simon Minke.
 Den i dag 61-årige Hans Madsen døde første gang i 2003. Siden har han været ved at dø af hjertestop otte gange. Angsten var hans følgesvend indtil lægerne for nylig diagnosticerede ham med en hjertesygdom, som kun tre andre i verden fejler.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198636/13515815-audio.mp3</guid>
-			<pubDate>Fri, 13 May 2016 12:00:00 +0000</pubDate>
-			<itunes:duration>00:12:01</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198636/13515815-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Et udsyn påny</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198637/13328055-audio.mp3</link>
-			<description>Dine sanser giver dig oplevelser og indtryk. Alle sanserne arbejder sammen og skaber helhed, der giver informationer om verdenen omkring dig. Forestil dig at vågne op til en ganske almindelig hverdag, hvor en af dine sanser uden varsel er forsvundet.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198636/13515815-audio.mp3</guid>
+         <pubDate>Fri, 13 May 2016 12:00:00 +0000</pubDate>
+         <itunes:duration>00:12:01</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.05.13%20-%20D%C3%B8d%20af%20kedsomhed.mp3" />
+      </item>
+      <item>
+         <title>Et udsyn påny</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198637/13328055-audio.mp3</link>
+         <description>Dine sanser giver dig oplevelser og indtryk. Alle sanserne arbejder sammen og skaber helhed, der giver informationer om verdenen omkring dig. Forestil dig at vågne op til en ganske almindelig hverdag, hvor en af dine sanser uden varsel er forsvundet.
 Dette var virkeligheden for Anna Hansen, der i denne podcast giver dig et indblik i sin periode som blind, da hun for 2 år siden blev ramt af synsnervebetændelse.
 Tilrettelægger: Nanna Endahl
 Lyddesign: Sofie Voight Simonsen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198637/13328055-audio.mp3</guid>
-			<pubDate>Fri, 22 Apr 2016 12:00:00 +0000</pubDate>
-			<itunes:duration>00:11:51</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198637/13328055-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>￼Tohid - de hjemløses frisør 2. del</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198638/12669124-audio.mp3</link>
-			<description>￼Af Jonas Rohold
-￼I dette 2. afsnit af Tohids historie, fortæller han om sin egen fortid som hjemløs, hvor han bl.a. boede i sin bil og løj
-￼om det over for vennerne.
-￼Tohid finder i dag mening i sit liv ved at klippe hjemløse gratis på gaden, mens han kæmper for at betale gælden
-￼for sin fortid.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198638/12669124-audio.mp3</guid>
-			<pubDate>Fri, 22 Jan 2016 12:00:00 +0000</pubDate>
-			<itunes:duration>00:14:49</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198638/12669124-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jens</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198639/12593135-audio.mp3</link>
-			<description>Det næste podcast vi skal høre er et benspænd. For hvor meget kan man nå at finde ud af om et menneske på tyve minutter? Det satte Liva Sylvester Polack sig for at undersøge. Hun blev sat af i Svinninge i nærheden af Svinninge Torv og satte stopuret i gang, da hun mødte pensionisten Jens.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198637/13328055-audio.mp3</guid>
+         <pubDate>Fri, 22 Apr 2016 12:00:00 +0000</pubDate>
+         <itunes:duration>00:11:51</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.04.22%20-%20Et%20udsyn%20pa%CC%8Any.mp3" />
+      </item>
+      <item>
+         <title>Tohid - de hjemløses frisør 2. del</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198638/12669124-audio.mp3</link>
+         <description>Af Jonas Rohold
+ I dette 2. afsnit af Tohids historie, fortæller han om sin egen fortid som hjemløs, hvor han bl.a. boede i sin bil og løj
+ om det over for vennerne.
+ Tohid finder i dag mening i sit liv ved at klippe hjemløse gratis på gaden, mens han kæmper for at betale gælden
+ for sin fortid.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198638/12669124-audio.mp3</guid>
+         <pubDate>Fri, 22 Jan 2016 12:00:00 +0000</pubDate>
+         <itunes:duration>00:14:49</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.01.22%20-%20%EF%BF%BCTohid%20-%20de%20hjeml%C3%B8ses%20fris%C3%B8r%202.%20del.mp3" />
+      </item>
+      <item>
+         <title>Jens</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198639/12593135-audio.mp3</link>
+         <description>Det næste podcast vi skal høre er et benspænd. For hvor meget kan man nå at finde ud af om et menneske på tyve minutter? Det satte Liva Sylvester Polack sig for at undersøge. Hun blev sat af i Svinninge i nærheden af Svinninge Torv og satte stopuret i gang, da hun mødte pensionisten Jens.
 Tag med på en tour de force ned af Svinninge hovedgade, hvor Jens fortæller om sit liv, der indeholder fordomme, familietragedier og en tur på hospitalet.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198639/12593135-audio.mp3</guid>
-			<pubDate>Fri, 15 Jan 2016 12:00:00 +0000</pubDate>
-			<itunes:duration>00:07:37</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198639/12593135-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Steen – jeg ville gøre det hele igen </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198640/12595956-audio.mp3</link>
-			<description>Af Nadia Liva Hein
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198639/12593135-audio.mp3</guid>
+         <pubDate>Fri, 15 Jan 2016 12:00:00 +0000</pubDate>
+         <itunes:duration>00:07:37</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.01.15%20-%20Jens.mp3" />
+      </item>
+      <item>
+         <title>Steen – jeg ville gøre det hele igen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198640/12595956-audio.mp3</link>
+         <description>Af Nadia Liva Hein
 Steen Rosenquist har været hjemløs i 12 år af sit liv, og i denne podcast kommer vi tæt på Steen og hans liv på gaden. Vi skal blandt andet opleve, hvordan en helt almindelig dag forløber, hvad der kan skabe glæde i denne tilværelse – og hvad der savnes allermest.
 I dag er Steen formand for de hjemløses landsorganisation SAND og har haft tag over hovedet i godt 20 år.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198640/12595956-audio.mp3</guid>
-			<pubDate>Wed, 06 Jan 2016 12:00:00 +0000</pubDate>
-			<itunes:duration>00:12:11</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198640/12595956-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Tohid - de hjemløses frisør</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198641/12513041-audio.mp3</link>
-			<description>af Jonas Rohold
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198640/12595956-audio.mp3</guid>
+         <pubDate>Wed, 06 Jan 2016 12:00:00 +0000</pubDate>
+         <itunes:duration>00:12:11</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2016.01.06%20-%20Steen%20%E2%80%93%20jeg%20ville%20g%C3%B8re%20det%20hele%20igen%20.mp3" />
+      </item>
+      <item>
+         <title>Tohid - de hjemløses frisør</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198641/12513041-audio.mp3</link>
+         <description>af Jonas Rohold
 23-årige Tohid boede i halvandet år skiftevis i sin bil og på en madras hos en ven. Han blev hjemløs som 18-årig, da faren blev alvorligt syg. Tohid blev her smidt ud af deres fælles lejlighed af boligselskabet på grund af gæld. I dag er Tohid arbejdsløs, men har valgt at bruge sine søndage på at klippe hjemløse gratis på gaden. Han har selv været, hvor de er, og ved derfor hvor meget det betyder at få tilbudt en udstrakt hånd.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198641/12513041-audio.mp3</guid>
-			<pubDate>Tue, 08 Dec 2015 12:00:00 +0000</pubDate>
-			<itunes:duration>00:13:34</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198641/12513041-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Arnaq, Nina og Naja  - barndomsminder og fremtidsdrømme fra Grønland </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198642/12497850-audio.mp3</link>
-			<description>Af Ann-Sophie Møller
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198641/12513041-audio.mp3</guid>
+         <pubDate>Tue, 08 Dec 2015 12:00:00 +0000</pubDate>
+         <itunes:duration>00:13:34</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.12.08%20-%20Tohid%20-%20de%20hjeml%C3%B8ses%20fris%C3%B8r.mp3" />
+      </item>
+      <item>
+         <title>Arnaq, Nina og Naja  - barndomsminder og fremtidsdrømme fra Grønland</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198642/12497850-audio.mp3</link>
+         <description>Af Ann-Sophie Møller
 Denne podcast foregår i Grønland. Vi rejser fra den lille bygd Niaqornaarsuk i nord ned til Grønlands største by Nuuk.
 Arnaq på 24, Nina på 38 og Naja på 90 år repræsenterer hver deres generations forhold til Grønland, når de fortæller anekdoter fra barndommen og taler om drømme for fremtiden.
 Podcast’en er skabt på en antagelse af, at ikke mange i Danmark kender til hverdagen i Grøn-land. Den er skabt ud fra et ønske om at udbrede kendskabet til menneskerne på verdens største ø, som stadig er en del af vores rigsfællesskab. Jeg har selv været i Grønland mange gange fra barnsben af, og kender både Arnaq, Nina og Naja.’</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198642/12497850-audio.mp3</guid>
-			<pubDate>Fri, 04 Dec 2015 12:00:00 +0000</pubDate>
-			<itunes:duration>00:12:24</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198642/12497850-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pornobutikken</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198643/12480286-audio.mp3</link>
-			<description>Af Anders Morgenstierne
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198642/12497850-audio.mp3</guid>
+         <pubDate>Fri, 04 Dec 2015 12:00:00 +0000</pubDate>
+         <itunes:duration>00:12:24</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.12.04%20-%20Arnaq%2C%20Nina%20og%20Naja%20%20-%20barndomsminder%20og%20fremtidsdr%C3%B8mme%20fra%20Gr%C3%B8nland%20.mp3" />
+      </item>
+      <item>
+         <title>Pornobutikken</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198643/12480286-audio.mp3</link>
+         <description>Af Anders Morgenstierne
 I to år boede Anders oven på en pornofilmsforhandler. Selvom han var nysgerrig, gik han aldrig derind, før den var ved at lukke ned. For selvom det ikke er nemt at være en genert ung mand, er det heller ikke nemt at sælge pornofilm på dvd, i en tid hvor det ligger frit tilgængeligt på internettet.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198643/12480286-audio.mp3</guid>
-			<pubDate>Fri, 27 Nov 2015 12:00:00 +0000</pubDate>
-			<itunes:duration>00:08:43</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198643/12480286-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Intetkønsland</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198644/12453837-audio.mp3</link>
-			<description>Af Laura Andrea Friis Rasmussen
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198643/12480286-audio.mp3</guid>
+         <pubDate>Fri, 27 Nov 2015 12:00:00 +0000</pubDate>
+         <itunes:duration>00:08:43</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.11.27%20-%20Pornobutikken.mp3" />
+      </item>
+      <item>
+         <title>Intetkønsland</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198644/12453837-audio.mp3</link>
+         <description>Af Laura Andrea Friis Rasmussen
 Som transkønnet får man lov til at opleve begge køns verdener. Mænd og kvinders. Men det er som om at man skal passere intetkønsland for at komme fra kvindens land til mandens land. Spørgsmålet er, hvad er en rigtig mand, og hvilken slags mand er vores hovedperson overhovedet?</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198644/12453837-audio.mp3</guid>
-			<pubDate>Fri, 20 Nov 2015 12:00:00 +0000</pubDate>
-			<itunes:duration>00:16:48</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198644/12453837-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Vågeren</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198645/12416889-audio.mp3</link>
-			<description>Synne Espensen er våger i sin fritid. Det vil sige, at hun sommetider bliver ringet op at Røde Kors Vågetjeneste, der beder hende om at tage ud og besøge døende for at give dem nærvær og omsorg i deres sidste tid. I denne podcast deler Synne sine oplevelser med os. Hun fortæller om at se folk live op og se dem dø og om at blive bekræftet i sin tro på, at intet af dette skal ske i ensomhed.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198645/12416889-audio.mp3</guid>
-			<pubDate>Fri, 06 Nov 2015 12:00:00 +0000</pubDate>
-			<itunes:duration>00:14:40</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198645/12416889-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>ROSA</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198646/12379666-audio.mp3</link>
-			<description>Dette podcast tager dig med ind i en verden af fantasi, kage og depressioner. Der er ikke noget i verden der er let og nogle gange er det sgu bare nemmere at eksisterer i verden af kage. Eller snige sig ind i en bog om troldmænd, drager og overnaturlige evner. Det gode mod det onde. Det her podcast handler om Rosa og hendes verden, den virkelige og den fantastiske.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198646/12379666-audio.mp3</guid>
-			<pubDate>Fri, 30 Oct 2015 12:00:00 +0000</pubDate>
-			<itunes:duration>00:09:08</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198646/12379666-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Emil Fra Kelstrupskov</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198647/11660849-audio.mp3</link>
-			<description>I denne podcast præsenterer Emil Borgbjerg en slags landlig indianerfilosofi om det at slå dyr ihjel og peger på forskellen på kjøvenhavnere og landmandssønner, når det gælder holdningen til dyr. Emil fortæller om tilværelsen i landsbyen Kelstrupskov på Fyn, sin landmandsfar, og hvordan far og søn håndterer uheld og skader på landet. Denne podcast er den første i serien &quot;Fortællinger Fra Provinsen” af Jonas Rohold.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198647/11660849-audio.mp3</guid>
-			<pubDate>Fri, 10 Jul 2015 12:00:00 +0000</pubDate>
-			<itunes:duration>00:07:04</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198647/11660849-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Den subjektive cyklus</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198648/11660848-audio.mp3</link>
-			<description>af Nanna Endahl og Andreas Laurits Kræn Petersen
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198644/12453837-audio.mp3</guid>
+         <pubDate>Fri, 20 Nov 2015 12:00:00 +0000</pubDate>
+         <itunes:duration>00:16:48</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.11.20%20-%20Intetk%C3%B8nsland.mp3" />
+      </item>
+      <item>
+         <title>Vågeren</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198645/12416889-audio.mp3</link>
+         <description>Synne Espensen er våger i sin fritid. Det vil sige, at hun sommetider bliver ringet op at Røde Kors Vågetjeneste, der beder hende om at tage ud og besøge døende for at give dem nærvær og omsorg i deres sidste tid. I denne podcast deler Synne sine oplevelser med os. Hun fortæller om at se folk live op og se dem dø og om at blive bekræftet i sin tro på, at intet af dette skal ske i ensomhed.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198645/12416889-audio.mp3</guid>
+         <pubDate>Fri, 06 Nov 2015 12:00:00 +0000</pubDate>
+         <itunes:duration>00:14:40</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.11.06%20-%20V%C3%A5geren.mp3" />
+      </item>
+      <item>
+         <title>ROSA</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198646/12379666-audio.mp3</link>
+         <description>Dette podcast tager dig med ind i en verden af fantasi, kage og depressioner. Der er ikke noget i verden der er let og nogle gange er det sgu bare nemmere at eksisterer i verden af kage. Eller snige sig ind i en bog om troldmænd, drager og overnaturlige evner. Det gode mod det onde. Det her podcast handler om Rosa og hendes verden, den virkelige og den fantastiske.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198646/12379666-audio.mp3</guid>
+         <pubDate>Fri, 30 Oct 2015 12:00:00 +0000</pubDate>
+         <itunes:duration>00:09:08</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.10.30%20-%20ROSA.mp3" />
+      </item>
+      <item>
+         <title>Emil Fra Kelstrupskov</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198647/11660849-audio.mp3</link>
+         <description>I denne podcast præsenterer Emil Borgbjerg en slags landlig indianerfilosofi om det at slå dyr ihjel og peger på forskellen på kjøvenhavnere og landmandssønner, når det gælder holdningen til dyr. Emil fortæller om tilværelsen i landsbyen Kelstrupskov på Fyn, sin landmandsfar, og hvordan far og søn håndterer uheld og skader på landet. Denne podcast er den første i serien "Fortællinger Fra Provinsen” af Jonas Rohold.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198647/11660849-audio.mp3</guid>
+         <pubDate>Fri, 10 Jul 2015 12:00:00 +0000</pubDate>
+         <itunes:duration>00:07:04</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.07.10%20-%20Emil%20Fra%20Kelstrupskov.mp3" />
+      </item>
+      <item>
+         <title>Den subjektive cyklus</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198648/11660848-audio.mp3</link>
+         <description>af Nanna Endahl og Andreas Laurits Kræn Petersen
 Der er ingen former for prævention, der er 100% sikre, men Louise har fundet en naturlig prævention, som har virket for hende de sidste tre år.
-Kom med inden for til en snak om &quot;the dark side of the Vulva.&quot;</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198648/11660848-audio.mp3</guid>
-			<pubDate>Fri, 03 Jul 2015 12:00:00 +0000</pubDate>
-			<itunes:duration>00:15:44</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198648/11660848-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fortællinger fra Høje Gladsaxe 2:2</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198649/11737292-audio.mp3</link>
-			<description>Birgül er med i et nyt initiativ,  hvor unge hjælper ældre i Høje Gladsaxe med forskellige hverdagsgøremål og bygger bro mellem generationer og kulturer. Hassan er udlært mekaniker og var som 16-årig småkriminel, men som fik lagt sit liv om på baggrund af områdets storebrorkultur. Høje Gladsaxe er på mange måder som en landsby, hvor man hjælper hinanden, men hvor rygterne også løber hurtigt.
+Kom med inden for til en snak om "the dark side of the Vulva."</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198648/11660848-audio.mp3</guid>
+         <pubDate>Fri, 03 Jul 2015 12:00:00 +0000</pubDate>
+         <itunes:duration>00:15:44</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.07.03%20-%20Den%20subjektive%20cyklus.mp3" />
+      </item>
+      <item>
+         <title>Fortællinger fra Høje Gladsaxe 2:2</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198649/11737292-audio.mp3</link>
+         <description>Birgül er med i et nyt initiativ,  hvor unge hjælper ældre i Høje Gladsaxe med forskellige hverdagsgøremål og bygger bro mellem generationer og kulturer. Hassan er udlært mekaniker og var som 16-årig småkriminel, men som fik lagt sit liv om på baggrund af områdets storebrorkultur. Høje Gladsaxe er på mange måder som en landsby, hvor man hjælper hinanden, men hvor rygterne også løber hurtigt.
 Dette er andet og sidste afsnit i serien om livet i Høje Gladsaxe.
 Tilrettelæggelse: Jonas Rohold og Signe Lene Christiansen.
 Speak: Rukaya Shakir. Musik: Adam Hillebrandt
 Medvirkende: Birgül El-Caney, frivillig og ung fra Høje Gladsaxe; Rukaya Shakir, ung fra Høje Gladsaxe; Preben Christiansen, frivillig i Beboerrådgivningen og beboer i Høje Gladsaxe; Hassan Hasan, ung fra Høje Gladsaxe.
 Udsendelsen er et samarbejde mellem Radio C:NTACT, C:NTACT og forestillingen ”FIVE HIGH  – Fortællinger fra Høje Gladsaxe.”
 http://www.contact.dk/uddannelse/arkiv/five-high.aspx</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198649/11737292-audio.mp3</guid>
-			<pubDate>Fri, 26 Jun 2015 12:00:00 +0000</pubDate>
-			<itunes:duration>00:14:24</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198649/11737292-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fortællinger fra Høje Gladsaxe 1:2</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198650/11692091-audio.mp3</link>
-			<description>I boligområdet Høje Gladsaxe bor unge, gamle, hvide og brune danskere side om side i de fem markante højhuse. Et af de centrale steder, hvor beboerne mødes, er i det lokale center. Her handler man nemlig ikke kun grøntsager og spiser shawarma, men det er også her, at de unge i området hænger ud, hjælper hinanden med lektierne og dyrker et særligt fællesskab. Afsnit 2 følger næste fredag, den 26/6.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198649/11737292-audio.mp3</guid>
+         <pubDate>Fri, 26 Jun 2015 12:00:00 +0000</pubDate>
+         <itunes:duration>00:14:24</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.06.26%20-%20Fort%C3%A6llinger%20fra%20H%C3%B8je%20Gladsaxe%202.mp3" />
+      </item>
+      <item>
+         <title>Fortællinger fra Høje Gladsaxe 1:2</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198650/11692091-audio.mp3</link>
+         <description>I boligområdet Høje Gladsaxe bor unge, gamle, hvide og brune danskere side om side i de fem markante højhuse. Et af de centrale steder, hvor beboerne mødes, er i det lokale center. Her handler man nemlig ikke kun grøntsager og spiser shawarma, men det er også her, at de unge i området hænger ud, hjælper hinanden med lektierne og dyrker et særligt fællesskab. Afsnit 2 følger næste fredag, den 26/6.
 Tilrettelæggelse: Jonas Rohold og Signe Lene Christiansen.
 Speak: Rukaya Shakir. Musik: Adam Hillebrandt
 Udsendelsen er et samarbejde med forestillingen ”FIVE HIGH  – Fortællinger fra Høje Gladsaxe.”
 http://www.contact.dk/uddannelse/arkiv/five-high.aspx</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198650/11692091-audio.mp3</guid>
-			<pubDate>Fri, 19 Jun 2015 12:00:00 +0000</pubDate>
-			<itunes:duration>00:15:18</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198650/11692091-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Brækkede tanker</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198651/11660847-audio.mp3</link>
-			<description>af Laura Andrea Friis
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198650/11692091-audio.mp3</guid>
+         <pubDate>Fri, 19 Jun 2015 12:00:00 +0000</pubDate>
+         <itunes:duration>00:15:18</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.06.19%20-%20Fort%C3%A6llinger%20fra%20H%C3%B8je%20Gladsaxe%201.mp3" />
+      </item>
+      <item>
+         <title>Brækkede tanker</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198651/11660847-audio.mp3</link>
+         <description>af Laura Andrea Friis
 Nils er 5 år, første gang han hører stemmer i sit hoved. De siger til ham, at han ikke må leve. Nils bliver først som voksen diagnosticeret skizofren. Her 27 år efter, fortæller han, hvordan det føles, når tankerne bobler over og skaber kaos i livet. Nils er fætter til Radio C:NTACTs Laura Andrea Friis, der her forsøger at få svar på, hvordan det påvirker ens identitet, når ens tanker er brækkede og anderledes.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198651/11660847-audio.mp3</guid>
-			<pubDate>Fri, 12 Jun 2015 12:00:00 +0000</pubDate>
-			<itunes:duration>00:07:23</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198651/11660847-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Rejsefeber</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198652/11640769-audio.mp3</link>
-			<description>af Ulrik Ørsnes Jansen og Olga Gry Becker Lauritsen
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198651/11660847-audio.mp3</guid>
+         <pubDate>Fri, 12 Jun 2015 12:00:00 +0000</pubDate>
+         <itunes:duration>00:07:23</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.06.12%20-%20Br%C3%A6kkede%20tanker.mp3" />
+      </item>
+      <item>
+         <title>Rejsefeber</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198652/11640769-audio.mp3</link>
+         <description>af Ulrik Ørsnes Jansen og Olga Gry Becker Lauritsen
 Filip Lamhauge Hansen er 17 år gammel og går i gymnasiet. Han har brug for et afbræk fra dagligdagen og vælger derfor at tage på sin første store rejse alene. Første stop er Mongoliet hvor han møder en italiensk skønhed. Rejsen går videre til Kirgisistan, hvor turen tager en uventet drejning, da Filip pludselig rammes af dybe smerter.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198652/11640769-audio.mp3</guid>
-			<pubDate>Fri, 05 Jun 2015 12:00:00 +0000</pubDate>
-			<itunes:duration>00:17:27</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198652/11640769-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>MIN FARS HJERTE</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198653/11598074-audio.mp3</link>
-			<description>af Anna Cæcilie Sørensen
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198652/11640769-audio.mp3</guid>
+         <pubDate>Fri, 05 Jun 2015 12:00:00 +0000</pubDate>
+         <itunes:duration>00:17:27</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.06.05%20-%20Rejsefeber.mp3" />
+      </item>
+      <item>
+         <title>MIN FARS HJERTE</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198653/11598074-audio.mp3</link>
+         <description>af Anna Cæcilie Sørensen
 Bendt Andersen døde den 13. maj 2001 klokken 11.17,  og nu vil hans datter, Anna Cæcilie, på 23 gerne vide, om hun skal dø af det samme. Han stod på venteliste for at få et nyt hjerte, men nåede ikke at få det, og nu prøver hans datter at fastholde ham i efterlivet, så godt hun kan. Følg hende i denne fortælling om længsel, ængstelse og kærlighed genoplive mindet om sin far, da hun undersøges for, om hun har arvet hans forstørrede hjerte.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198653/11598074-audio.mp3</guid>
-			<pubDate>Thu, 28 May 2015 19:01:00 +0000</pubDate>
-			<itunes:duration>00:14:57</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198653/11598074-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>SAHITS HISTORIE</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198654/11597857-audio.mp3</link>
-			<description>af Yllka HaxhijajDet får ofte store konsekvenser, når en homoseksuel med anden etnisk baggrund springer ud. Derfor holder flere det hemmeligt, hvilket bidrager til et tabu omkring homoseksualitet, og at unge til stadighed holder deres seksualitet skjult. Efter at have holdt sin seksualitet skjult for sine forældre i årevis, valgte Sahit at stå frem, selvom han vidste, at det kunne koste ham forbindelsen til sin familie.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198654/11597857-audio.mp3</guid>
-			<pubDate>Thu, 28 May 2015 19:00:00 +0000</pubDate>
-			<itunes:duration>00:10:38</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198654/11597857-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198653/11598074-audio.mp3</guid>
+         <pubDate>Thu, 28 May 2015 19:01:00 +0000</pubDate>
+         <itunes:duration>00:14:57</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.05.28%20-%20SAHITS%20HISTORIE.mp3" />
+      </item>
+      <item>
+         <title>SAHITS HISTORIE</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198654/11597857-audio.mp3</link>
+         <description>af Yllka HaxhijajDet får ofte store konsekvenser, når en homoseksuel med anden etnisk baggrund springer ud. Derfor holder flere det hemmeligt, hvilket bidrager til et tabu omkring homoseksualitet, og at unge til stadighed holder deres seksualitet skjult. Efter at have holdt sin seksualitet skjult for sine forældre i årevis, valgte Sahit at stå frem, selvom han vidste, at det kunne koste ham forbindelsen til sin familie.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198654/11597857-audio.mp3</guid>
+         <pubDate>Thu, 28 May 2015 19:00:00 +0000</pubDate>
+         <itunes:duration>00:10:38</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/radio_contact/Radio%20CONTACT/2015.05.28%20-%20MIN%20FARS%20HJERTE.mp3" />
+      </item>
+   </channel>
 </rss>

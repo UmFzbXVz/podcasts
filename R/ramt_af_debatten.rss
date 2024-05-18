@@ -1,583 +1,263 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Ramt af debatten
-  </title>
-  <link>
-   https://loud.land/podcast/ramt-af-debatten
-  </link>
-  <description>
-   Vi snakker med dem, der enten har ramt debatten - eller selv er blevet ramt af debatten.&lt;br /&gt;&lt;br /&gt;Værter: Cecilie Lange og Agnes Vesth
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5007004/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   Copyright LOUD
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg
-   </url>
-   <title>
-    Ramt af debatten
-   </title>
-   <link>
-    https://loud.land/podcast/ramt-af-debatten
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 19 Feb 2024 07:27:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-  <itunes:subtitle>
-   Vi snakker med dem, der enten har ramt debatten - eller selv er blevet ramt af debatten.
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Ramt af debatten</title>
+      <link>https://loud.land/podcast/ramt-af-debatten</link>
+      <description>Vi snakker med dem, der enten har ramt debatten - eller selv er blevet ramt af debatten.&lt;br /&gt;&lt;br /&gt;Værter: Cecilie Lange og Agnes Vesth</description>
+      <atom:link href="https://www.spreaker.com/show/5007004/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>Copyright LOUD</copyright>
+      <image>
+         <url>https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg</url>
+         <title>Ramt af debatten</title>
+         <link>https://loud.land/podcast/ramt-af-debatten</link>
+      </image>
+      <lastBuildDate>Mon, 19 Feb 2024 07:27:18 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+      <itunes:subtitle>Vi snakker med dem, der enten har ramt debatten - eller selv er blevet ramt af debatten.
 
-Værter: Cecilie Lange og Agnes Vesth
-  </itunes:subtitle>
-  <itunes:summary>
-   Vi snakker med dem, der enten har ramt debatten - eller selv er blevet ramt af debatten.&lt;br /&gt;&lt;br /&gt;Værter: Cecilie Lange og Agnes Vesth
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Vil Morten Messerschmidt lukke Loud? Undskyld... 24syv
-   </title>
-   <link>
-    https://www.spreaker.com/episode/vil-morten-messerschmidt-lukke-loud-undskyld-24syv--47214893
-   </link>
-   <description>
-    Hvis det stod til Morten Messerschmidt, medlem af Folketinget for Dansk Folkeparti og medlem af kulturudvalget, skulle Radio Loud lukke. Men er projektet allerede dødt? Eller kan vi forvente, at Morten Messerschmidt bliver overrasket? Det spørgsmål stiller Filiz Yasar folketingspolitikeren i studiet.&lt;br /&gt;&lt;br /&gt;Senere sætter vi fokus på sportsdækningen, der ofte bliver anklaget for at være for mandsdomineret. Men er det stadig tilfældet? Vi tager temperaturen hos TV2 Sport og en af fortalerne for mere diversitet i sportslandskabet Trine Nørgaard Pedersen. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Filiz Yasar
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47214893
-   </guid>
-   <pubDate>
-    Fri, 29 Oct 2021 14:30:08 +0000
-   </pubDate>
-   <enclosure length="47134137" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47214893/291021_filiz_time_2_podcast.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hvis det stod til Morten Messerschmidt, medlem af Folketinget for Dansk Folkeparti og medlem af kulturudvalget, skulle Radio Loud lukke. Men er projektet allerede dødt? Eller kan vi forvente, at Morten Messerschmidt bliver overrasket? Det spørgsmål...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvis det stod til Morten Messerschmidt, medlem af Folketinget for Dansk Folkeparti og medlem af kulturudvalget, skulle Radio Loud lukke. Men er projektet allerede dødt? Eller kan vi forvente, at Morten Messerschmidt bliver overrasket? Det spørgsmål stiller Filiz Yasar folketingspolitikeren i studiet.&lt;br /&gt;&lt;br /&gt;Senere sætter vi fokus på sportsdækningen, der ofte bliver anklaget for at være for mandsdomineret. Men er det stadig tilfældet? Vi tager temperaturen hos TV2 Sport og en af fortalerne for mere diversitet i sportslandskabet Trine Nørgaard Pedersen. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Filiz Yasar
-   </itunes:summary>
-   <itunes:duration>
-    2942
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Thisted Bryghus: Cancel culture eller almindelig indignation?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/thisted-bryghus-cancel-culture-eller-almindelig-indignation--47214891
-   </link>
-   <description>
-    Hvad er op og ned i Thisted Bryghus-gate? Er det endnu et eksempel på cancel-kulturens ubestridte magt? Eller er det bare en fadæse fra et lille bryghus? Vi forsøger at blive klogere sammen med bl.a. kommunikationsekspert Anna Thygesen.  &lt;br /&gt;&lt;br /&gt;Magnus Møller Ziegler har modtaget trusler ovenpå et tweet. For er det okay at vandalisere valgplakater, hvis der er tale om racistiske kommunalpolitikere? Det mener han. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Filiz Yasar
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47214891
-   </guid>
-   <pubDate>
-    Fri, 29 Oct 2021 12:01:54 +0000
-   </pubDate>
-   <enclosure length="52080266" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47214891/291021_filiz_time_1_podcast.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hvad er op og ned i Thisted Bryghus-gate? Er det endnu et eksempel på cancel-kulturens ubestridte magt? Eller er det bare en fadæse fra et lille bryghus? Vi forsøger at blive klogere sammen med bl.a. kommunikationsekspert Anna Thygesen.  
+Værter: Cecilie Lange og Agnes Vesth</itunes:subtitle>
+      <itunes:summary>Vi snakker med dem, der enten har ramt debatten - eller selv er blevet ramt af debatten.&lt;br /&gt;&lt;br /&gt;Værter: Cecilie Lange og Agnes Vesth</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Vil Morten Messerschmidt lukke Loud? Undskyld... 24syv</title>
+         <link>https://www.spreaker.com/episode/vil-morten-messerschmidt-lukke-loud-undskyld-24syv--47214893</link>
+         <description>Hvis det stod til Morten Messerschmidt, medlem af Folketinget for Dansk Folkeparti og medlem af kulturudvalget, skulle Radio Loud lukke. Men er projektet allerede dødt? Eller kan vi forvente, at Morten Messerschmidt bliver overrasket? Det spørgsmål stiller Filiz Yasar folketingspolitikeren i studiet.&lt;br /&gt;&lt;br /&gt;Senere sætter vi fokus på sportsdækningen, der ofte bliver anklaget for at være for mandsdomineret. Men er det stadig tilfældet? Vi tager temperaturen hos TV2 Sport og en af fortalerne for mere diversitet i sportslandskabet Trine Nørgaard Pedersen. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Filiz Yasar</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47214893</guid>
+         <pubDate>Fri, 29 Oct 2021 14:30:08 +0000</pubDate>
+         <enclosure length="47134137" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.10.29%20-%20Vil%20Morten%20Messerschmidt%20lukke%20Loud.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hvis det stod til Morten Messerschmidt, medlem af Folketinget for Dansk Folkeparti og medlem af kulturudvalget, skulle Radio Loud lukke. Men er projektet allerede dødt? Eller kan vi forvente, at Morten Messerschmidt bliver overrasket? Det spørgsmål...</itunes:subtitle>
+         <itunes:summary>Hvis det stod til Morten Messerschmidt, medlem af Folketinget for Dansk Folkeparti og medlem af kulturudvalget, skulle Radio Loud lukke. Men er projektet allerede dødt? Eller kan vi forvente, at Morten Messerschmidt bliver overrasket? Det spørgsmål stiller Filiz Yasar folketingspolitikeren i studiet.&lt;br /&gt;&lt;br /&gt;Senere sætter vi fokus på sportsdækningen, der ofte bliver anklaget for at være for mandsdomineret. Men er det stadig tilfældet? Vi tager temperaturen hos TV2 Sport og en af fortalerne for mere diversitet i sportslandskabet Trine Nørgaard Pedersen. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Filiz Yasar</itunes:summary>
+         <itunes:duration>2942</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Thisted Bryghus: Cancel culture eller almindelig indignation?</title>
+         <link>https://www.spreaker.com/episode/thisted-bryghus-cancel-culture-eller-almindelig-indignation--47214891</link>
+         <description>Hvad er op og ned i Thisted Bryghus-gate? Er det endnu et eksempel på cancel-kulturens ubestridte magt? Eller er det bare en fadæse fra et lille bryghus? Vi forsøger at blive klogere sammen med bl.a. kommunikationsekspert Anna Thygesen.  &lt;br /&gt;&lt;br /&gt;Magnus Møller Ziegler har modtaget trusler ovenpå et tweet. For er det okay at vandalisere valgplakater, hvis der er tale om racistiske kommunalpolitikere? Det mener han. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Filiz Yasar</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47214891</guid>
+         <pubDate>Fri, 29 Oct 2021 12:01:54 +0000</pubDate>
+         <enclosure length="52080266" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.10.29%20-%20Thisted%20Bryghus.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hvad er op og ned i Thisted Bryghus-gate? Er det endnu et eksempel på cancel-kulturens ubestridte magt? Eller er det bare en fadæse fra et lille bryghus? Vi forsøger at blive klogere sammen med bl.a. kommunikationsekspert Anna Thygesen.  
 
-Magnus...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvad er op og ned i Thisted Bryghus-gate? Er det endnu et eksempel på cancel-kulturens ubestridte magt? Eller er det bare en fadæse fra et lille bryghus? Vi forsøger at blive klogere sammen med bl.a. kommunikationsekspert Anna Thygesen.  &lt;br /&gt;&lt;br /&gt;Magnus Møller Ziegler har modtaget trusler ovenpå et tweet. For er det okay at vandalisere valgplakater, hvis der er tale om racistiske kommunalpolitikere? Det mener han. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Filiz Yasar
-   </itunes:summary>
-   <itunes:duration>
-    3251
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Krænkelsesparat much? Hvorfor raser alle over "Oprør på akademiet"?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kraenkelsesparat-much-hvorfor-raser-alle-over-opror-pa-akademiet--47211875
-   </link>
-   <description>
-    Hvorfor har dokumentaren "Oprør på akademiet" rejst en byge af kritiske røster? Dokumentaren, der skildrer et miljø på Kunstakademiet, er blevet kritiseret for at gå på 'listefødder over for radikal identitetspolitik'. &lt;br /&gt;&lt;br /&gt;Vi har har Anna Martensen, instruktøren bag dokumentaren med i studiet til en snak om modtagelsen. Med på telefon har vi billedkunstner Peter Martensen, der også medvirker i dokumentaren, og kulturkommentator Anna Sophia Hermansen.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Filiz Yasar
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47211875
-   </guid>
-   <pubDate>
-    Fri, 29 Oct 2021 07:46:28 +0000
-   </pubDate>
-   <enclosure length="68879232" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47211875/281021_filiz_time_2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hvorfor har dokumentaren "Oprør på akademiet" rejst en byge af kritiske røster? Dokumentaren, der skildrer et miljø på Kunstakademiet, er blevet kritiseret for at gå på 'listefødder over for radikal identitetspolitik'. 
+Magnus...</itunes:subtitle>
+         <itunes:summary>Hvad er op og ned i Thisted Bryghus-gate? Er det endnu et eksempel på cancel-kulturens ubestridte magt? Eller er det bare en fadæse fra et lille bryghus? Vi forsøger at blive klogere sammen med bl.a. kommunikationsekspert Anna Thygesen.  &lt;br /&gt;&lt;br /&gt;Magnus Møller Ziegler har modtaget trusler ovenpå et tweet. For er det okay at vandalisere valgplakater, hvis der er tale om racistiske kommunalpolitikere? Det mener han. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: &lt;br /&gt;Filiz Yasar</itunes:summary>
+         <itunes:duration>3251</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Krænkelsesparat much? Hvorfor raser alle over "Oprør på akademiet"?</title>
+         <link>https://www.spreaker.com/episode/kraenkelsesparat-much-hvorfor-raser-alle-over-opror-pa-akademiet--47211875</link>
+         <description>Hvorfor har dokumentaren "Oprør på akademiet" rejst en byge af kritiske røster? Dokumentaren, der skildrer et miljø på Kunstakademiet, er blevet kritiseret for at gå på 'listefødder over for radikal identitetspolitik'. &lt;br /&gt;&lt;br /&gt;Vi har har Anna Martensen, instruktøren bag dokumentaren med i studiet til en snak om modtagelsen. Med på telefon har vi billedkunstner Peter Martensen, der også medvirker i dokumentaren, og kulturkommentator Anna Sophia Hermansen.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Filiz Yasar</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47211875</guid>
+         <pubDate>Fri, 29 Oct 2021 07:46:28 +0000</pubDate>
+         <enclosure length="68879232" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.10.29%20-%20Kr%C3%A6nkelsesparat%20much.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hvorfor har dokumentaren "Oprør på akademiet" rejst en byge af kritiske røster? Dokumentaren, der skildrer et miljø på Kunstakademiet, er blevet kritiseret for at gå på 'listefødder over for radikal identitetspolitik'. 
 
-Vi har har Anna Martensen,...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvorfor har dokumentaren "Oprør på akademiet" rejst en byge af kritiske røster? Dokumentaren, der skildrer et miljø på Kunstakademiet, er blevet kritiseret for at gå på 'listefødder over for radikal identitetspolitik'. &lt;br /&gt;&lt;br /&gt;Vi har har Anna Martensen, instruktøren bag dokumentaren med i studiet til en snak om modtagelsen. Med på telefon har vi billedkunstner Peter Martensen, der også medvirker i dokumentaren, og kulturkommentator Anna Sophia Hermansen.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Filiz Yasar
-   </itunes:summary>
-   <itunes:duration>
-    2868
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Politisk ordfører for Veganerpartiet -  Michael Monberg
-   </title>
-   <link>
-    https://www.spreaker.com/episode/politisk-ordforer-for-veganerpartiet-michael-monberg--45991917
-   </link>
-   <description>
-    Gæst: Michael Monberg, politisk ordfører for Veganerpartiet. &lt;br /&gt;&lt;br /&gt;Det er hemmeligt, hvor Michael Monberg bor. Det er det, fordi han oplever så mange trusler, at det har været nødvendigt at få hemmelig adresse. &lt;br /&gt;&lt;br /&gt;Generelt oplever han meget hate, at folk ikke forstår ham, at folk bliver enormt provokerede over ham - og at folk laver sjov på hans bekostning. &lt;br /&gt;&lt;br /&gt;Det har været nogle af de helt store konsekvenser ved at deltage i debatten. &lt;br /&gt;&lt;br /&gt;Vi snakker med Michael om, hvad man bare må finde sig i, når man har så kontroversielle budskaber som Veganerpartiet har - og hvornår man så skal sige fra og decideret kontakte politiet. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45991917
-   </guid>
-   <pubDate>
-    Fri, 06 Aug 2021 12:28:19 +0000
-   </pubDate>
-   <enclosure length="78731136" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45991917/veganer.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Gæst: Michael Monberg, politisk ordfører for Veganerpartiet. 
+Vi har har Anna Martensen,...</itunes:subtitle>
+         <itunes:summary>Hvorfor har dokumentaren "Oprør på akademiet" rejst en byge af kritiske røster? Dokumentaren, der skildrer et miljø på Kunstakademiet, er blevet kritiseret for at gå på 'listefødder over for radikal identitetspolitik'. &lt;br /&gt;&lt;br /&gt;Vi har har Anna Martensen, instruktøren bag dokumentaren med i studiet til en snak om modtagelsen. Med på telefon har vi billedkunstner Peter Martensen, der også medvirker i dokumentaren, og kulturkommentator Anna Sophia Hermansen.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Filiz Yasar</itunes:summary>
+         <itunes:duration>2868</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Politisk ordfører for Veganerpartiet -  Michael Monberg</title>
+         <link>https://www.spreaker.com/episode/politisk-ordforer-for-veganerpartiet-michael-monberg--45991917</link>
+         <description>Gæst: Michael Monberg, politisk ordfører for Veganerpartiet. &lt;br /&gt;&lt;br /&gt;Det er hemmeligt, hvor Michael Monberg bor. Det er det, fordi han oplever så mange trusler, at det har været nødvendigt at få hemmelig adresse. &lt;br /&gt;&lt;br /&gt;Generelt oplever han meget hate, at folk ikke forstår ham, at folk bliver enormt provokerede over ham - og at folk laver sjov på hans bekostning. &lt;br /&gt;&lt;br /&gt;Det har været nogle af de helt store konsekvenser ved at deltage i debatten. &lt;br /&gt;&lt;br /&gt;Vi snakker med Michael om, hvad man bare må finde sig i, når man har så kontroversielle budskaber som Veganerpartiet har - og hvornår man så skal sige fra og decideret kontakte politiet. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45991917</guid>
+         <pubDate>Fri, 06 Aug 2021 12:28:19 +0000</pubDate>
+         <enclosure length="78731136" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.08.06%20-%20Politisk%20ordf%C3%B8rer%20for%20Veganerpartiet%20-%20%20Michael%20Monberg.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Gæst: Michael Monberg, politisk ordfører for Veganerpartiet. 
 
 Det er hemmeligt, hvor Michael Monberg bor. Det er det, fordi han oplever så mange trusler, at det har været nødvendigt at få hemmelig adresse. 
 
-Generelt oplever han meget hate, at folk...
-   </itunes:subtitle>
-   <itunes:summary>
-    Gæst: Michael Monberg, politisk ordfører for Veganerpartiet. &lt;br /&gt;&lt;br /&gt;Det er hemmeligt, hvor Michael Monberg bor. Det er det, fordi han oplever så mange trusler, at det har været nødvendigt at få hemmelig adresse. &lt;br /&gt;&lt;br /&gt;Generelt oplever han meget hate, at folk ikke forstår ham, at folk bliver enormt provokerede over ham - og at folk laver sjov på hans bekostning. &lt;br /&gt;&lt;br /&gt;Det har været nogle af de helt store konsekvenser ved at deltage i debatten. &lt;br /&gt;&lt;br /&gt;Vi snakker med Michael om, hvad man bare må finde sig i, når man har så kontroversielle budskaber som Veganerpartiet har - og hvornår man så skal sige fra og decideret kontakte politiet. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </itunes:summary>
-   <itunes:duration>
-    3278
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Meme-profilen Skammekrogen - Udstiller os som basic bitches
-   </title>
-   <link>
-    https://www.spreaker.com/episode/meme-profilen-skammekrogen-udstiller-os-som-basic-bitches--45979562
-   </link>
-   <description>
-    Gæst: Mette Skammeritz, mennesket bag meme-profilen Skammekrogen og konceptudvikler hos Holm Kommunikation&lt;br /&gt;&lt;br /&gt;Hvis du har lavet en ramme af fugeskum rundt om dit spejl eller malet en væg i en støvet farve, så er du blevet til et meme på Instagram-profilen Skammekrogen.&lt;br /&gt;&lt;br /&gt;Mere end 30.000 følger med, når meme-profilen Skammekrogen hænger politikere ud og får os allesammen til at føle os som nogle basic bitches. &lt;br /&gt;&lt;br /&gt;Vi hører Mette Skammeritz, hvad hun vil med meme-profilen, og hvorfor hun mistænker politikere for bevidst at være boomer-agtige på Instagram.&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45979562
-   </guid>
-   <pubDate>
-    Thu, 05 Aug 2021 14:01:25 +0000
-   </pubDate>
-   <enclosure length="78297408" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45979562/skammekrogen.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Gæst: Mette Skammeritz, mennesket bag meme-profilen Skammekrogen og konceptudvikler hos Holm Kommunikation
+Generelt oplever han meget hate, at folk...</itunes:subtitle>
+         <itunes:summary>Gæst: Michael Monberg, politisk ordfører for Veganerpartiet. &lt;br /&gt;&lt;br /&gt;Det er hemmeligt, hvor Michael Monberg bor. Det er det, fordi han oplever så mange trusler, at det har været nødvendigt at få hemmelig adresse. &lt;br /&gt;&lt;br /&gt;Generelt oplever han meget hate, at folk ikke forstår ham, at folk bliver enormt provokerede over ham - og at folk laver sjov på hans bekostning. &lt;br /&gt;&lt;br /&gt;Det har været nogle af de helt store konsekvenser ved at deltage i debatten. &lt;br /&gt;&lt;br /&gt;Vi snakker med Michael om, hvad man bare må finde sig i, når man har så kontroversielle budskaber som Veganerpartiet har - og hvornår man så skal sige fra og decideret kontakte politiet. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</itunes:summary>
+         <itunes:duration>3278</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Meme-profilen Skammekrogen - Udstiller os som basic bitches</title>
+         <link>https://www.spreaker.com/episode/meme-profilen-skammekrogen-udstiller-os-som-basic-bitches--45979562</link>
+         <description>Gæst: Mette Skammeritz, mennesket bag meme-profilen Skammekrogen og konceptudvikler hos Holm Kommunikation&lt;br /&gt;&lt;br /&gt;Hvis du har lavet en ramme af fugeskum rundt om dit spejl eller malet en væg i en støvet farve, så er du blevet til et meme på Instagram-profilen Skammekrogen.&lt;br /&gt;&lt;br /&gt;Mere end 30.000 følger med, når meme-profilen Skammekrogen hænger politikere ud og får os allesammen til at føle os som nogle basic bitches. &lt;br /&gt;&lt;br /&gt;Vi hører Mette Skammeritz, hvad hun vil med meme-profilen, og hvorfor hun mistænker politikere for bevidst at være boomer-agtige på Instagram.&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45979562</guid>
+         <pubDate>Thu, 05 Aug 2021 14:01:25 +0000</pubDate>
+         <enclosure length="78297408" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.08.05%20-%20Meme-profilen%20Skammekrogen%20-%20Udstiller%20os%20som%20basic%20bitches.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Gæst: Mette Skammeritz, mennesket bag meme-profilen Skammekrogen og konceptudvikler hos Holm Kommunikation
 
-Hvis du har lavet en ramme af fugeskum rundt om dit spejl eller malet en væg i en støvet farve, så er du blevet til et meme på...
-   </itunes:subtitle>
-   <itunes:summary>
-    Gæst: Mette Skammeritz, mennesket bag meme-profilen Skammekrogen og konceptudvikler hos Holm Kommunikation&lt;br /&gt;&lt;br /&gt;Hvis du har lavet en ramme af fugeskum rundt om dit spejl eller malet en væg i en støvet farve, så er du blevet til et meme på Instagram-profilen Skammekrogen.&lt;br /&gt;&lt;br /&gt;Mere end 30.000 følger med, når meme-profilen Skammekrogen hænger politikere ud og får os allesammen til at føle os som nogle basic bitches. &lt;br /&gt;&lt;br /&gt;Vi hører Mette Skammeritz, hvad hun vil med meme-profilen, og hvorfor hun mistænker politikere for bevidst at være boomer-agtige på Instagram.&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </itunes:summary>
-   <itunes:duration>
-    3260
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Twerk Queen - Samtykke er sexet
-   </title>
-   <link>
-    https://www.spreaker.com/episode/twerk-queen-samtykke-er-sexet--45964283
-   </link>
-   <description>
-    Gæst: Louise Kjølsen, twerk queen, cand. psyk., feministisk debattør.&lt;br /&gt;&lt;br /&gt;2020 bød på lidt af hvert for Louise Kjølsen, der ved årets begyndelse modtog voldtægtstrusler online. Det blev til dokumentarserien Hvem vil voldtage Louise, hvor hun forsøger at finde frem til afsenderen. &lt;br /&gt;&lt;br /&gt;Året sluttede heldigvis mere positivt med vedtagelsen af en samtykkebaseret voldtægtslovgivning, som hun længe har kæmpet for. &lt;br /&gt;&lt;br /&gt;Vi spørger Louise, hvordan det er at tage kampen op med trolde på nettet og, om vi er kommet i mål, nu hvor vi har fået samtykkeloven?&lt;br /&gt;&lt;br /&gt;Vært: Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: Oliver Bærentsen&lt;br /&gt;&lt;br /&gt;Tilrettelægger: Kirstine Mossin
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45964283
-   </guid>
-   <pubDate>
-    Wed, 04 Aug 2021 12:36:27 +0000
-   </pubDate>
-   <enclosure length="51445248" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45964283/0408_ramt_af_debatten_louise_kj_lsen.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Gæst: Louise Kjølsen, twerk queen, cand. psyk., feministisk debattør.
+Hvis du har lavet en ramme af fugeskum rundt om dit spejl eller malet en væg i en støvet farve, så er du blevet til et meme på...</itunes:subtitle>
+         <itunes:summary>Gæst: Mette Skammeritz, mennesket bag meme-profilen Skammekrogen og konceptudvikler hos Holm Kommunikation&lt;br /&gt;&lt;br /&gt;Hvis du har lavet en ramme af fugeskum rundt om dit spejl eller malet en væg i en støvet farve, så er du blevet til et meme på Instagram-profilen Skammekrogen.&lt;br /&gt;&lt;br /&gt;Mere end 30.000 følger med, når meme-profilen Skammekrogen hænger politikere ud og får os allesammen til at føle os som nogle basic bitches. &lt;br /&gt;&lt;br /&gt;Vi hører Mette Skammeritz, hvad hun vil med meme-profilen, og hvorfor hun mistænker politikere for bevidst at være boomer-agtige på Instagram.&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</itunes:summary>
+         <itunes:duration>3260</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Twerk Queen - Samtykke er sexet</title>
+         <link>https://www.spreaker.com/episode/twerk-queen-samtykke-er-sexet--45964283</link>
+         <description>Gæst: Louise Kjølsen, twerk queen, cand. psyk., feministisk debattør.&lt;br /&gt;&lt;br /&gt;2020 bød på lidt af hvert for Louise Kjølsen, der ved årets begyndelse modtog voldtægtstrusler online. Det blev til dokumentarserien Hvem vil voldtage Louise, hvor hun forsøger at finde frem til afsenderen. &lt;br /&gt;&lt;br /&gt;Året sluttede heldigvis mere positivt med vedtagelsen af en samtykkebaseret voldtægtslovgivning, som hun længe har kæmpet for. &lt;br /&gt;&lt;br /&gt;Vi spørger Louise, hvordan det er at tage kampen op med trolde på nettet og, om vi er kommet i mål, nu hvor vi har fået samtykkeloven?&lt;br /&gt;&lt;br /&gt;Vært: Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: Oliver Bærentsen&lt;br /&gt;&lt;br /&gt;Tilrettelægger: Kirstine Mossin</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45964283</guid>
+         <pubDate>Wed, 04 Aug 2021 12:36:27 +0000</pubDate>
+         <enclosure length="51445248" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.08.04%20-%20Twerk%20Queen%20-%20Samtykke%20er%20sexet.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Gæst: Louise Kjølsen, twerk queen, cand. psyk., feministisk debattør.
 
-2020 bød på lidt af hvert for Louise Kjølsen, der ved årets begyndelse modtog voldtægtstrusler online. Det blev til dokumentarserien Hvem vil voldtage Louise, hvor hun forsøger at...
-   </itunes:subtitle>
-   <itunes:summary>
-    Gæst: Louise Kjølsen, twerk queen, cand. psyk., feministisk debattør.&lt;br /&gt;&lt;br /&gt;2020 bød på lidt af hvert for Louise Kjølsen, der ved årets begyndelse modtog voldtægtstrusler online. Det blev til dokumentarserien Hvem vil voldtage Louise, hvor hun forsøger at finde frem til afsenderen. &lt;br /&gt;&lt;br /&gt;Året sluttede heldigvis mere positivt med vedtagelsen af en samtykkebaseret voldtægtslovgivning, som hun længe har kæmpet for. &lt;br /&gt;&lt;br /&gt;Vi spørger Louise, hvordan det er at tage kampen op med trolde på nettet og, om vi er kommet i mål, nu hvor vi har fået samtykkeloven?&lt;br /&gt;&lt;br /&gt;Vært: Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: Oliver Bærentsen&lt;br /&gt;&lt;br /&gt;Tilrettelægger: Kirstine Mossin
-   </itunes:summary>
-   <itunes:duration>
-    3212
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Vinderen af DM i debat - Frederik Enevoldsen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/vinderen-af-dm-i-debat-frederik-enevoldsen--45949632
-   </link>
-   <description>
-    Gæst: Frederik Enevoldsen, vinder af DM i debat, ungekonsulent i Fagbevægelsens Hovedorganisation, folketingskandidat for Socialdemokratiet. &lt;br /&gt;&lt;br /&gt;For nyligt blev DM i debat afholdt, hvor Frederik skulle debattere bønnekald. Selv om Frederik ingen holdning havde til emnet, lykkedes det ham at vinde debatten. Med få retoriske virkemidler har han fundet frem til, hvordan man vinder enhver debat. &lt;br /&gt;&lt;br /&gt;Nu stiller han op til folketinget for Socialdemokratiet - men hvad vil han så bruge sine talegaver til?  &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45949632
-   </guid>
-   <pubDate>
-    Tue, 03 Aug 2021 12:20:55 +0000
-   </pubDate>
-   <enclosure length="71027136" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45949632/dmdebat.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Gæst: Frederik Enevoldsen, vinder af DM i debat, ungekonsulent i Fagbevægelsens Hovedorganisation, folketingskandidat for Socialdemokratiet. 
+2020 bød på lidt af hvert for Louise Kjølsen, der ved årets begyndelse modtog voldtægtstrusler online. Det blev til dokumentarserien Hvem vil voldtage Louise, hvor hun forsøger at...</itunes:subtitle>
+         <itunes:summary>Gæst: Louise Kjølsen, twerk queen, cand. psyk., feministisk debattør.&lt;br /&gt;&lt;br /&gt;2020 bød på lidt af hvert for Louise Kjølsen, der ved årets begyndelse modtog voldtægtstrusler online. Det blev til dokumentarserien Hvem vil voldtage Louise, hvor hun forsøger at finde frem til afsenderen. &lt;br /&gt;&lt;br /&gt;Året sluttede heldigvis mere positivt med vedtagelsen af en samtykkebaseret voldtægtslovgivning, som hun længe har kæmpet for. &lt;br /&gt;&lt;br /&gt;Vi spørger Louise, hvordan det er at tage kampen op med trolde på nettet og, om vi er kommet i mål, nu hvor vi har fået samtykkeloven?&lt;br /&gt;&lt;br /&gt;Vært: Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: Oliver Bærentsen&lt;br /&gt;&lt;br /&gt;Tilrettelægger: Kirstine Mossin</itunes:summary>
+         <itunes:duration>3212</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Vinderen af DM i debat - Frederik Enevoldsen</title>
+         <link>https://www.spreaker.com/episode/vinderen-af-dm-i-debat-frederik-enevoldsen--45949632</link>
+         <description>Gæst: Frederik Enevoldsen, vinder af DM i debat, ungekonsulent i Fagbevægelsens Hovedorganisation, folketingskandidat for Socialdemokratiet. &lt;br /&gt;&lt;br /&gt;For nyligt blev DM i debat afholdt, hvor Frederik skulle debattere bønnekald. Selv om Frederik ingen holdning havde til emnet, lykkedes det ham at vinde debatten. Med få retoriske virkemidler har han fundet frem til, hvordan man vinder enhver debat. &lt;br /&gt;&lt;br /&gt;Nu stiller han op til folketinget for Socialdemokratiet - men hvad vil han så bruge sine talegaver til?  &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45949632</guid>
+         <pubDate>Tue, 03 Aug 2021 12:20:55 +0000</pubDate>
+         <enclosure length="71027136" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.08.03%20-%20Vinderen%20af%20DM%20i%20debat%20-%20Frederik%20Enevoldsen.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Gæst: Frederik Enevoldsen, vinder af DM i debat, ungekonsulent i Fagbevægelsens Hovedorganisation, folketingskandidat for Socialdemokratiet. 
 
-For nyligt blev DM i debat afholdt, hvor Frederik skulle debattere bønnekald. Selv om Frederik ingen...
-   </itunes:subtitle>
-   <itunes:summary>
-    Gæst: Frederik Enevoldsen, vinder af DM i debat, ungekonsulent i Fagbevægelsens Hovedorganisation, folketingskandidat for Socialdemokratiet. &lt;br /&gt;&lt;br /&gt;For nyligt blev DM i debat afholdt, hvor Frederik skulle debattere bønnekald. Selv om Frederik ingen holdning havde til emnet, lykkedes det ham at vinde debatten. Med få retoriske virkemidler har han fundet frem til, hvordan man vinder enhver debat. &lt;br /&gt;&lt;br /&gt;Nu stiller han op til folketinget for Socialdemokratiet - men hvad vil han så bruge sine talegaver til?  &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </itunes:summary>
-   <itunes:duration>
-    2957
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Chef for Vi Unge - Revolutionen er i gang
-   </title>
-   <link>
-    https://www.spreaker.com/episode/chef-for-vi-unge-revolutionen-er-i-gang--45901768
-   </link>
-   <description>
-    Gæst: Nikita Hoffmann Andersen, chefredaktøren Vi Unge. &lt;br /&gt;&lt;br /&gt;To kvinder, der kysser fik Vi Unge til at gå viralt. &lt;br /&gt;&lt;br /&gt;Hvor nogle af os måske husker Vi Unge for at være et blad med scoreguides, sådan klæder du dig efter pære-kroppen og pinlige historier om at bløde igennem, er Vi Unge i gang med en ombygning. &lt;br /&gt;&lt;br /&gt;Nu er det bæredygtighed, sexisme, køn og diversitet, der fylder.&lt;br /&gt;&lt;br /&gt;I dag har vi besøg af chefredaktøren bag Vi Unge - der altså skal gå allerforrest og sørge for at bladet er brunt nok, nonbinært nok, grønt nok, antitykfobisk, antiracistisk og antihomofobisk - og alle de andre forpligtelser, der følger med.&lt;br /&gt;&lt;br /&gt;Men lever de så op til det både i indhold og internt på redaktionen? &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45901768
-   </guid>
-   <pubDate>
-    Fri, 30 Jul 2021 10:44:43 +0000
-   </pubDate>
-   <enclosure length="74602944" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45901768/viunge.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Gæst: Nikita Hoffmann Andersen, chefredaktøren Vi Unge. 
+For nyligt blev DM i debat afholdt, hvor Frederik skulle debattere bønnekald. Selv om Frederik ingen...</itunes:subtitle>
+         <itunes:summary>Gæst: Frederik Enevoldsen, vinder af DM i debat, ungekonsulent i Fagbevægelsens Hovedorganisation, folketingskandidat for Socialdemokratiet. &lt;br /&gt;&lt;br /&gt;For nyligt blev DM i debat afholdt, hvor Frederik skulle debattere bønnekald. Selv om Frederik ingen holdning havde til emnet, lykkedes det ham at vinde debatten. Med få retoriske virkemidler har han fundet frem til, hvordan man vinder enhver debat. &lt;br /&gt;&lt;br /&gt;Nu stiller han op til folketinget for Socialdemokratiet - men hvad vil han så bruge sine talegaver til?  &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</itunes:summary>
+         <itunes:duration>2957</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Chef for Vi Unge - Revolutionen er i gang</title>
+         <link>https://www.spreaker.com/episode/chef-for-vi-unge-revolutionen-er-i-gang--45901768</link>
+         <description>Gæst: Nikita Hoffmann Andersen, chefredaktøren Vi Unge. &lt;br /&gt;&lt;br /&gt;To kvinder, der kysser fik Vi Unge til at gå viralt. &lt;br /&gt;&lt;br /&gt;Hvor nogle af os måske husker Vi Unge for at være et blad med scoreguides, sådan klæder du dig efter pære-kroppen og pinlige historier om at bløde igennem, er Vi Unge i gang med en ombygning. &lt;br /&gt;&lt;br /&gt;Nu er det bæredygtighed, sexisme, køn og diversitet, der fylder.&lt;br /&gt;&lt;br /&gt;I dag har vi besøg af chefredaktøren bag Vi Unge - der altså skal gå allerforrest og sørge for at bladet er brunt nok, nonbinært nok, grønt nok, antitykfobisk, antiracistisk og antihomofobisk - og alle de andre forpligtelser, der følger med.&lt;br /&gt;&lt;br /&gt;Men lever de så op til det både i indhold og internt på redaktionen? &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45901768</guid>
+         <pubDate>Fri, 30 Jul 2021 10:44:43 +0000</pubDate>
+         <enclosure length="74602944" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.07.30%20-%20Chef%20for%20Vi%20Unge%20-%20Revolutionen%20er%20i%20gang.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Gæst: Nikita Hoffmann Andersen, chefredaktøren Vi Unge. 
 
 To kvinder, der kysser fik Vi Unge til at gå viralt. 
 
-Hvor nogle af os måske husker Vi Unge for at være et blad med scoreguides, sådan klæder du dig efter pære-kroppen og pinlige historier om...
-   </itunes:subtitle>
-   <itunes:summary>
-    Gæst: Nikita Hoffmann Andersen, chefredaktøren Vi Unge. &lt;br /&gt;&lt;br /&gt;To kvinder, der kysser fik Vi Unge til at gå viralt. &lt;br /&gt;&lt;br /&gt;Hvor nogle af os måske husker Vi Unge for at være et blad med scoreguides, sådan klæder du dig efter pære-kroppen og pinlige historier om at bløde igennem, er Vi Unge i gang med en ombygning. &lt;br /&gt;&lt;br /&gt;Nu er det bæredygtighed, sexisme, køn og diversitet, der fylder.&lt;br /&gt;&lt;br /&gt;I dag har vi besøg af chefredaktøren bag Vi Unge - der altså skal gå allerforrest og sørge for at bladet er brunt nok, nonbinært nok, grønt nok, antitykfobisk, antiracistisk og antihomofobisk - og alle de andre forpligtelser, der følger med.&lt;br /&gt;&lt;br /&gt;Men lever de så op til det både i indhold og internt på redaktionen? &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </itunes:summary>
-   <itunes:duration>
-    3106
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Extinction Rebellion - Kriminalitet for klimaet
-   </title>
-   <link>
-    https://www.spreaker.com/episode/extinction-rebellion-kriminalitet-for-klimaet--45884641
-   </link>
-   <description>
-    Mennesker, der hænger ned over Langebro i København i wires, mens de sænker et banner med teksten: “Klimaretfærdighed har ingen grænser”. &lt;br /&gt;&lt;br /&gt;Det var sådan nogle billeder, vi så tilbage i foråret, hvor klimabevægelsen Extinction Rebellion spærrede broen for at  råbe op om regeringens manglende handling i klimaindsatsen.&lt;br /&gt;&lt;br /&gt;De er kendt for civil ulydighed med bare bryster i Folketingssalen, lænker til maskiner og afspærrede veje. &lt;br /&gt;&lt;br /&gt;Men er det i orden at være kriminel, når det handler om at redde kloden? &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45884641
-   </guid>
-   <pubDate>
-    Thu, 29 Jul 2021 07:04:52 +0000
-   </pubDate>
-   <enclosure length="78564096" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45884641/erb.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Mennesker, der hænger ned over Langebro i København i wires, mens de sænker et banner med teksten: “Klimaretfærdighed har ingen grænser”. 
+Hvor nogle af os måske husker Vi Unge for at være et blad med scoreguides, sådan klæder du dig efter pære-kroppen og pinlige historier om...</itunes:subtitle>
+         <itunes:summary>Gæst: Nikita Hoffmann Andersen, chefredaktøren Vi Unge. &lt;br /&gt;&lt;br /&gt;To kvinder, der kysser fik Vi Unge til at gå viralt. &lt;br /&gt;&lt;br /&gt;Hvor nogle af os måske husker Vi Unge for at være et blad med scoreguides, sådan klæder du dig efter pære-kroppen og pinlige historier om at bløde igennem, er Vi Unge i gang med en ombygning. &lt;br /&gt;&lt;br /&gt;Nu er det bæredygtighed, sexisme, køn og diversitet, der fylder.&lt;br /&gt;&lt;br /&gt;I dag har vi besøg af chefredaktøren bag Vi Unge - der altså skal gå allerforrest og sørge for at bladet er brunt nok, nonbinært nok, grønt nok, antitykfobisk, antiracistisk og antihomofobisk - og alle de andre forpligtelser, der følger med.&lt;br /&gt;&lt;br /&gt;Men lever de så op til det både i indhold og internt på redaktionen? &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</itunes:summary>
+         <itunes:duration>3106</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Extinction Rebellion - Kriminalitet for klimaet</title>
+         <link>https://www.spreaker.com/episode/extinction-rebellion-kriminalitet-for-klimaet--45884641</link>
+         <description>Mennesker, der hænger ned over Langebro i København i wires, mens de sænker et banner med teksten: “Klimaretfærdighed har ingen grænser”. &lt;br /&gt;&lt;br /&gt;Det var sådan nogle billeder, vi så tilbage i foråret, hvor klimabevægelsen Extinction Rebellion spærrede broen for at  råbe op om regeringens manglende handling i klimaindsatsen.&lt;br /&gt;&lt;br /&gt;De er kendt for civil ulydighed med bare bryster i Folketingssalen, lænker til maskiner og afspærrede veje. &lt;br /&gt;&lt;br /&gt;Men er det i orden at være kriminel, når det handler om at redde kloden? &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45884641</guid>
+         <pubDate>Thu, 29 Jul 2021 07:04:52 +0000</pubDate>
+         <enclosure length="78564096" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.07.29%20-%20Extinction%20Rebellion%20-%20Kriminalitet%20for%20klimaet.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Mennesker, der hænger ned over Langebro i København i wires, mens de sænker et banner med teksten: “Klimaretfærdighed har ingen grænser”. 
 
-Det var sådan nogle billeder, vi så tilbage i foråret, hvor klimabevægelsen Extinction Rebellion spærrede broen...
-   </itunes:subtitle>
-   <itunes:summary>
-    Mennesker, der hænger ned over Langebro i København i wires, mens de sænker et banner med teksten: “Klimaretfærdighed har ingen grænser”. &lt;br /&gt;&lt;br /&gt;Det var sådan nogle billeder, vi så tilbage i foråret, hvor klimabevægelsen Extinction Rebellion spærrede broen for at  råbe op om regeringens manglende handling i klimaindsatsen.&lt;br /&gt;&lt;br /&gt;De er kendt for civil ulydighed med bare bryster i Folketingssalen, lænker til maskiner og afspærrede veje. &lt;br /&gt;&lt;br /&gt;Men er det i orden at være kriminel, når det handler om at redde kloden? &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </itunes:summary>
-   <itunes:duration>
-    3271
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Fantastiske Forældre - Kvinden bag meme-profilen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/fantastiske-foraeldre-kvinden-bag-meme-profilen--45869865
-   </link>
-   <description>
-    Gæst: Anna Mathiesen, hjernen bag meme-profilen Fantastiske Forældre. &lt;br /&gt;&lt;br /&gt;Ungdommen i Jylland er sådan - soundbokse, knallerter og små sure.&lt;br /&gt;Ungdommen i København er sådan - pitabrød med falafel, blå kings og kaffe på havremælk. &lt;br /&gt;&lt;br /&gt;Sådan kan et af de mest populære memes på Instagramprofilen Fantastiske Forældre beskrives.&lt;br /&gt;&lt;br /&gt;Det skulle egentlig have været et afbræk fra barslen - men nu følger mere end 100.000 mennesker med, når dagens gæst laver alt fra provokerende memes om vaccineskeptikere til altomfavnende memes om os alle sammen.&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45869865
-   </guid>
-   <pubDate>
-    Wed, 28 Jul 2021 07:14:41 +0000
-   </pubDate>
-   <enclosure length="70017984" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45869865/fantastiskefor.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Gæst: Anna Mathiesen, hjernen bag meme-profilen Fantastiske Forældre. 
+Det var sådan nogle billeder, vi så tilbage i foråret, hvor klimabevægelsen Extinction Rebellion spærrede broen...</itunes:subtitle>
+         <itunes:summary>Mennesker, der hænger ned over Langebro i København i wires, mens de sænker et banner med teksten: “Klimaretfærdighed har ingen grænser”. &lt;br /&gt;&lt;br /&gt;Det var sådan nogle billeder, vi så tilbage i foråret, hvor klimabevægelsen Extinction Rebellion spærrede broen for at  råbe op om regeringens manglende handling i klimaindsatsen.&lt;br /&gt;&lt;br /&gt;De er kendt for civil ulydighed med bare bryster i Folketingssalen, lænker til maskiner og afspærrede veje. &lt;br /&gt;&lt;br /&gt;Men er det i orden at være kriminel, når det handler om at redde kloden? &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</itunes:summary>
+         <itunes:duration>3271</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Fantastiske Forældre - Kvinden bag meme-profilen</title>
+         <link>https://www.spreaker.com/episode/fantastiske-foraeldre-kvinden-bag-meme-profilen--45869865</link>
+         <description>Gæst: Anna Mathiesen, hjernen bag meme-profilen Fantastiske Forældre. &lt;br /&gt;&lt;br /&gt;Ungdommen i Jylland er sådan - soundbokse, knallerter og små sure.&lt;br /&gt;Ungdommen i København er sådan - pitabrød med falafel, blå kings og kaffe på havremælk. &lt;br /&gt;&lt;br /&gt;Sådan kan et af de mest populære memes på Instagramprofilen Fantastiske Forældre beskrives.&lt;br /&gt;&lt;br /&gt;Det skulle egentlig have været et afbræk fra barslen - men nu følger mere end 100.000 mennesker med, når dagens gæst laver alt fra provokerende memes om vaccineskeptikere til altomfavnende memes om os alle sammen.&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45869865</guid>
+         <pubDate>Wed, 28 Jul 2021 07:14:41 +0000</pubDate>
+         <enclosure length="70017984" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.07.28%20-%20Fantastiske%20For%C3%A6ldre%20-%20Kvinden%20bag%20meme-profilen.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Gæst: Anna Mathiesen, hjernen bag meme-profilen Fantastiske Forældre. 
 
 Ungdommen i Jylland er sådan - soundbokse, knallerter og små sure.
 Ungdommen i København er sådan - pitabrød med falafel, blå kings og kaffe på havremælk. 
 
-Sådan kan et af de...
-   </itunes:subtitle>
-   <itunes:summary>
-    Gæst: Anna Mathiesen, hjernen bag meme-profilen Fantastiske Forældre. &lt;br /&gt;&lt;br /&gt;Ungdommen i Jylland er sådan - soundbokse, knallerter og små sure.&lt;br /&gt;Ungdommen i København er sådan - pitabrød med falafel, blå kings og kaffe på havremælk. &lt;br /&gt;&lt;br /&gt;Sådan kan et af de mest populære memes på Instagramprofilen Fantastiske Forældre beskrives.&lt;br /&gt;&lt;br /&gt;Det skulle egentlig have været et afbræk fra barslen - men nu følger mere end 100.000 mennesker med, når dagens gæst laver alt fra provokerende memes om vaccineskeptikere til altomfavnende memes om os alle sammen.&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </itunes:summary>
-   <itunes:duration>
-    2915
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    #EnBlandtOs - Kvinderne bag
-   </title>
-   <link>
-    https://www.spreaker.com/episode/enblandtos-kvinderne-bag--45813001
-   </link>
-   <description>
-    Gæster: Camilla Søe (V),  Freja Fokdal (R), Sigrid Friis Proschowsky (R) og Maria Gudme (S). &lt;br /&gt;&lt;br /&gt;Dagens gæster har ikke startet en bølge. De har - med egne ord - startet en tsunami. &lt;br /&gt;&lt;br /&gt;De er initiativtagerne til oprøret mod sexisme #EnBlandtOs, der med 322 underskrifter og 79 vidneberetninger om sexisme i dansk politik, formåede at sætte en stor fed streg under, at sexismen i dansk politik drejer sig om en rådden kultur.&lt;br /&gt;&lt;br /&gt;Men er bevægelsen blevet alt det, de håbede på? Har personlige hetz og kritik imod dem være dét hele værd? Og hvordan sikrer vi, at debatten om sexisme og krænkelser ikke løber ud i sandet?&lt;br /&gt;&lt;br /&gt;Det dykker vi ned i i denne episode af Ramt af Debatten.&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Cecilie Lange&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker &lt;br /&gt;&lt;br /&gt;Tilrettelægger:&lt;br /&gt;Agnes Vesth
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45813001
-   </guid>
-   <pubDate>
-    Fri, 23 Jul 2021 11:36:05 +0000
-   </pubDate>
-   <enclosure length="74723904" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45813001/enblandtos.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Gæster: Camilla Søe (V),  Freja Fokdal (R), Sigrid Friis Proschowsky (R) og Maria Gudme (S). 
+Sådan kan et af de...</itunes:subtitle>
+         <itunes:summary>Gæst: Anna Mathiesen, hjernen bag meme-profilen Fantastiske Forældre. &lt;br /&gt;&lt;br /&gt;Ungdommen i Jylland er sådan - soundbokse, knallerter og små sure.&lt;br /&gt;Ungdommen i København er sådan - pitabrød med falafel, blå kings og kaffe på havremælk. &lt;br /&gt;&lt;br /&gt;Sådan kan et af de mest populære memes på Instagramprofilen Fantastiske Forældre beskrives.&lt;br /&gt;&lt;br /&gt;Det skulle egentlig have været et afbræk fra barslen - men nu følger mere end 100.000 mennesker med, når dagens gæst laver alt fra provokerende memes om vaccineskeptikere til altomfavnende memes om os alle sammen.&lt;br /&gt;&lt;br /&gt;Vært:&lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</itunes:summary>
+         <itunes:duration>2915</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>#EnBlandtOs - Kvinderne bag</title>
+         <link>https://www.spreaker.com/episode/enblandtos-kvinderne-bag--45813001</link>
+         <description>Gæster: Camilla Søe (V),  Freja Fokdal (R), Sigrid Friis Proschowsky (R) og Maria Gudme (S). &lt;br /&gt;&lt;br /&gt;Dagens gæster har ikke startet en bølge. De har - med egne ord - startet en tsunami. &lt;br /&gt;&lt;br /&gt;De er initiativtagerne til oprøret mod sexisme #EnBlandtOs, der med 322 underskrifter og 79 vidneberetninger om sexisme i dansk politik, formåede at sætte en stor fed streg under, at sexismen i dansk politik drejer sig om en rådden kultur.&lt;br /&gt;&lt;br /&gt;Men er bevægelsen blevet alt det, de håbede på? Har personlige hetz og kritik imod dem være dét hele værd? Og hvordan sikrer vi, at debatten om sexisme og krænkelser ikke løber ud i sandet?&lt;br /&gt;&lt;br /&gt;Det dykker vi ned i i denne episode af Ramt af Debatten.&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Cecilie Lange&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker &lt;br /&gt;&lt;br /&gt;Tilrettelægger:&lt;br /&gt;Agnes Vesth</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45813001</guid>
+         <pubDate>Fri, 23 Jul 2021 11:36:05 +0000</pubDate>
+         <enclosure length="74723904" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.07.23%20-%20Ditte%20Julie%20-%20Mor-shaming%2C%20Over%20Atlanten%20og%20Erotiske%20noveller.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Gæster: Camilla Søe (V),  Freja Fokdal (R), Sigrid Friis Proschowsky (R) og Maria Gudme (S). 
 
 Dagens gæster har ikke startet en bølge. De har - med egne ord - startet en tsunami. 
 
-De er initiativtagerne til oprøret mod sexisme #EnBlandtOs, der med...
-   </itunes:subtitle>
-   <itunes:summary>
-    Gæster: Camilla Søe (V),  Freja Fokdal (R), Sigrid Friis Proschowsky (R) og Maria Gudme (S). &lt;br /&gt;&lt;br /&gt;Dagens gæster har ikke startet en bølge. De har - med egne ord - startet en tsunami. &lt;br /&gt;&lt;br /&gt;De er initiativtagerne til oprøret mod sexisme #EnBlandtOs, der med 322 underskrifter og 79 vidneberetninger om sexisme i dansk politik, formåede at sætte en stor fed streg under, at sexismen i dansk politik drejer sig om en rådden kultur.&lt;br /&gt;&lt;br /&gt;Men er bevægelsen blevet alt det, de håbede på? Har personlige hetz og kritik imod dem være dét hele værd? Og hvordan sikrer vi, at debatten om sexisme og krænkelser ikke løber ud i sandet?&lt;br /&gt;&lt;br /&gt;Det dykker vi ned i i denne episode af Ramt af Debatten.&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Cecilie Lange&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker &lt;br /&gt;&lt;br /&gt;Tilrettelægger:&lt;br /&gt;Agnes Vesth
-   </itunes:summary>
-   <itunes:duration>
-    3111
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Ditte Julie - Mor-shaming, Over Atlanten og Erotiske noveller
-   </title>
-   <link>
-    https://www.spreaker.com/episode/ditte-julie-mor-shaming-over-atlanten-og-erotiske-noveller--45784815
-   </link>
-   <description>
-    Gæst: Ditte Julie Jensen, influencer, forfatter og iværksættter&lt;br /&gt;‘&lt;br /&gt;Ditte Julie har ramt debatten det seneste år - blandt andet har hun sagt fra over for mor-shaming. &lt;br /&gt;&lt;br /&gt;Som offentlig person oplever Ditte Julie nemlig ofte, at folk har en holdning til, hvordan hun opdrager sine børn.&lt;br /&gt;&lt;br /&gt;Senest da hun var med i tv-programmet Over Atlanten, hvor hun fik en masse hate for at tage væk fra sine børn i nogle uger. &lt;br /&gt;&lt;br /&gt;Vi snakker med Ditte Julie om livet på debatscenen, hvor hun senest har markeret sig med erotiske noveller om kvinders liderlighed. &lt;br /&gt;&lt;br /&gt;Værter: &lt;br /&gt;Cecilie Lange&lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45784815
-   </guid>
-   <pubDate>
-    Fri, 23 Jul 2021 06:15:42 +0000
-   </pubDate>
-   <enclosure length="70266816" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45784815/ditte_julie3.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Gæst: Ditte Julie Jensen, influencer, forfatter og iværksættter
+De er initiativtagerne til oprøret mod sexisme #EnBlandtOs, der med...</itunes:subtitle>
+         <itunes:summary>Gæster: Camilla Søe (V),  Freja Fokdal (R), Sigrid Friis Proschowsky (R) og Maria Gudme (S). &lt;br /&gt;&lt;br /&gt;Dagens gæster har ikke startet en bølge. De har - med egne ord - startet en tsunami. &lt;br /&gt;&lt;br /&gt;De er initiativtagerne til oprøret mod sexisme #EnBlandtOs, der med 322 underskrifter og 79 vidneberetninger om sexisme i dansk politik, formåede at sætte en stor fed streg under, at sexismen i dansk politik drejer sig om en rådden kultur.&lt;br /&gt;&lt;br /&gt;Men er bevægelsen blevet alt det, de håbede på? Har personlige hetz og kritik imod dem være dét hele værd? Og hvordan sikrer vi, at debatten om sexisme og krænkelser ikke løber ud i sandet?&lt;br /&gt;&lt;br /&gt;Det dykker vi ned i i denne episode af Ramt af Debatten.&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Cecilie Lange&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker &lt;br /&gt;&lt;br /&gt;Tilrettelægger:&lt;br /&gt;Agnes Vesth</itunes:summary>
+         <itunes:duration>3111</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Ditte Julie - Mor-shaming, Over Atlanten og Erotiske noveller</title>
+         <link>https://www.spreaker.com/episode/ditte-julie-mor-shaming-over-atlanten-og-erotiske-noveller--45784815</link>
+         <description>Gæst: Ditte Julie Jensen, influencer, forfatter og iværksættter&lt;br /&gt;‘&lt;br /&gt;Ditte Julie har ramt debatten det seneste år - blandt andet har hun sagt fra over for mor-shaming. &lt;br /&gt;&lt;br /&gt;Som offentlig person oplever Ditte Julie nemlig ofte, at folk har en holdning til, hvordan hun opdrager sine børn.&lt;br /&gt;&lt;br /&gt;Senest da hun var med i tv-programmet Over Atlanten, hvor hun fik en masse hate for at tage væk fra sine børn i nogle uger. &lt;br /&gt;&lt;br /&gt;Vi snakker med Ditte Julie om livet på debatscenen, hvor hun senest har markeret sig med erotiske noveller om kvinders liderlighed. &lt;br /&gt;&lt;br /&gt;Værter: &lt;br /&gt;Cecilie Lange&lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45784815</guid>
+         <pubDate>Fri, 23 Jul 2021 06:15:42 +0000</pubDate>
+         <enclosure length="70266816" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.07.23%20-%20%23EnBlandtOs%20-%20Kvinderne%20bag.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Gæst: Ditte Julie Jensen, influencer, forfatter og iværksættter
 ‘
 Ditte Julie har ramt debatten det seneste år - blandt andet har hun sagt fra over for mor-shaming. 
 
-Som offentlig person oplever Ditte Julie nemlig ofte, at folk har en holdning til,...
-   </itunes:subtitle>
-   <itunes:summary>
-    Gæst: Ditte Julie Jensen, influencer, forfatter og iværksættter&lt;br /&gt;‘&lt;br /&gt;Ditte Julie har ramt debatten det seneste år - blandt andet har hun sagt fra over for mor-shaming. &lt;br /&gt;&lt;br /&gt;Som offentlig person oplever Ditte Julie nemlig ofte, at folk har en holdning til, hvordan hun opdrager sine børn.&lt;br /&gt;&lt;br /&gt;Senest da hun var med i tv-programmet Over Atlanten, hvor hun fik en masse hate for at tage væk fra sine børn i nogle uger. &lt;br /&gt;&lt;br /&gt;Vi snakker med Ditte Julie om livet på debatscenen, hvor hun senest har markeret sig med erotiske noveller om kvinders liderlighed. &lt;br /&gt;&lt;br /&gt;Værter: &lt;br /&gt;Cecilie Lange&lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </itunes:summary>
-   <itunes:duration>
-    2926
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Meme-profilen Herlige Svend - Manden bag som alle troede var kvinde
-   </title>
-   <link>
-    https://www.spreaker.com/episode/meme-profilen-herlige-svend-manden-bag-som-alle-troede-var-kvinde--45769975
-   </link>
-   <description>
-    Gæst: Sebastian Lynggaard, hjernen bag meme-profilen Herlige Svend. &lt;br /&gt;&lt;br /&gt;Først troede mange, at det var en kvinde, der havde profilen.&lt;br /&gt;&lt;br /&gt;Sebastian oplevede derfor at blive udsat for mansplaining, en nedladende tone og patroniserende feedback, han aldrig havde efterspurgt. &lt;br /&gt;&lt;br /&gt;Det er af grundene til, at Sebastian føler, han har et ansvar som mand i kampen for ligestilling - som han hver dag kæmper for med nuttede dyr og pastelfarver på instagram-profilen. &lt;br /&gt;&lt;br /&gt;Værter: &lt;br /&gt;Cecilie Lange &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45769975
-   </guid>
-   <pubDate>
-    Tue, 20 Jul 2021 12:34:12 +0000
-   </pubDate>
-   <enclosure length="75547584" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45769975/herlige_svend.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Gæst: Sebastian Lynggaard, hjernen bag meme-profilen Herlige Svend. 
+Som offentlig person oplever Ditte Julie nemlig ofte, at folk har en holdning til,...</itunes:subtitle>
+         <itunes:summary>Gæst: Ditte Julie Jensen, influencer, forfatter og iværksættter&lt;br /&gt;‘&lt;br /&gt;Ditte Julie har ramt debatten det seneste år - blandt andet har hun sagt fra over for mor-shaming. &lt;br /&gt;&lt;br /&gt;Som offentlig person oplever Ditte Julie nemlig ofte, at folk har en holdning til, hvordan hun opdrager sine børn.&lt;br /&gt;&lt;br /&gt;Senest da hun var med i tv-programmet Over Atlanten, hvor hun fik en masse hate for at tage væk fra sine børn i nogle uger. &lt;br /&gt;&lt;br /&gt;Vi snakker med Ditte Julie om livet på debatscenen, hvor hun senest har markeret sig med erotiske noveller om kvinders liderlighed. &lt;br /&gt;&lt;br /&gt;Værter: &lt;br /&gt;Cecilie Lange&lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</itunes:summary>
+         <itunes:duration>2926</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Meme-profilen Herlige Svend - Manden bag som alle troede var kvinde</title>
+         <link>https://www.spreaker.com/episode/meme-profilen-herlige-svend-manden-bag-som-alle-troede-var-kvinde--45769975</link>
+         <description>Gæst: Sebastian Lynggaard, hjernen bag meme-profilen Herlige Svend. &lt;br /&gt;&lt;br /&gt;Først troede mange, at det var en kvinde, der havde profilen.&lt;br /&gt;&lt;br /&gt;Sebastian oplevede derfor at blive udsat for mansplaining, en nedladende tone og patroniserende feedback, han aldrig havde efterspurgt. &lt;br /&gt;&lt;br /&gt;Det er af grundene til, at Sebastian føler, han har et ansvar som mand i kampen for ligestilling - som han hver dag kæmper for med nuttede dyr og pastelfarver på instagram-profilen. &lt;br /&gt;&lt;br /&gt;Værter: &lt;br /&gt;Cecilie Lange &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45769975</guid>
+         <pubDate>Tue, 20 Jul 2021 12:34:12 +0000</pubDate>
+         <enclosure length="75547584" type="audio/mpeg" url="https://archive.org/download/ramt_af_debatten/Ramt%20af%20debatten/2021.07.20%20-%20Meme-profilen%20Herlige%20Svend%20-%20Manden%20bag%20som%20alle%20troede%20var%20kvinde.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Gæst: Sebastian Lynggaard, hjernen bag meme-profilen Herlige Svend. 
 
 Først troede mange, at det var en kvinde, der havde profilen.
 
-Sebastian oplevede derfor at blive udsat for mansplaining, en nedladende tone og patroniserende feedback, han aldrig...
-   </itunes:subtitle>
-   <itunes:summary>
-    Gæst: Sebastian Lynggaard, hjernen bag meme-profilen Herlige Svend. &lt;br /&gt;&lt;br /&gt;Først troede mange, at det var en kvinde, der havde profilen.&lt;br /&gt;&lt;br /&gt;Sebastian oplevede derfor at blive udsat for mansplaining, en nedladende tone og patroniserende feedback, han aldrig havde efterspurgt. &lt;br /&gt;&lt;br /&gt;Det er af grundene til, at Sebastian føler, han har et ansvar som mand i kampen for ligestilling - som han hver dag kæmper for med nuttede dyr og pastelfarver på instagram-profilen. &lt;br /&gt;&lt;br /&gt;Værter: &lt;br /&gt;Cecilie Lange &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker
-   </itunes:summary>
-   <itunes:duration>
-    3146
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+Sebastian oplevede derfor at blive udsat for mansplaining, en nedladende tone og patroniserende feedback, han aldrig...</itunes:subtitle>
+         <itunes:summary>Gæst: Sebastian Lynggaard, hjernen bag meme-profilen Herlige Svend. &lt;br /&gt;&lt;br /&gt;Først troede mange, at det var en kvinde, der havde profilen.&lt;br /&gt;&lt;br /&gt;Sebastian oplevede derfor at blive udsat for mansplaining, en nedladende tone og patroniserende feedback, han aldrig havde efterspurgt. &lt;br /&gt;&lt;br /&gt;Det er af grundene til, at Sebastian føler, han har et ansvar som mand i kampen for ligestilling - som han hver dag kæmper for med nuttede dyr og pastelfarver på instagram-profilen. &lt;br /&gt;&lt;br /&gt;Værter: &lt;br /&gt;Cecilie Lange &lt;br /&gt;Agnes Vesth&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Andrea Bøtker</itunes:summary>
+         <itunes:duration>3146</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce5a1c4e5289dfc35ac8838bd864b4c3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

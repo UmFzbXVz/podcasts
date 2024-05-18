@@ -1,273 +1,260 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Politikerbogklubben</title>
-		<link>https://web.24syv.dk/channels/4566</link>
-		<description>Hvad kan skønlitteraturen lære vores folkevalgte politikere om livet uden for Christiansborg? Forskning viser, at man bliver mere empatisk af at læse skønlitteratur, men få politikere gør det. De har simpelthen ikke tid, siger de. Politikerbogklubben i AK24syv giver dem lektier for!</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/565/Politikerbogklubben.png"/>
-		<item>
-			<title>Morten Helveg Petersen (B) og Rina Ronja Kari  (N) læser &quot;Serotonin&quot; af...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109167/52337565-audio.mp3</link>
-			<description>I anledning af det kommende Europa-Parlamentsvalg har Politikerbogklubben inviteret to danske MEP'ere i studiet. Morten Helveg Petersen fra det pro-europæiske Radikale Venstre og Rina Ronja Kari fra det EU-kritiske parti Folkebevægelsen mod EU. Hør hvordan de fortolker franske Michel Houellebecqs nyeste bog Serotonin og hvad de synes om hans udlægning af det vestlige samfunds forfald. </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109167/52337565-audio.mp3</guid>
-			<pubDate>Tue, 21 May 2019 15:42:02 +0000</pubDate>
-			<itunes:duration>00:40:16</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109167/52337565-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Zenia Stampe (R) og Hans Andersen (V) læser “Dr. Bagges anagrammer” af Ida...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109168/38588409-audio.mp3</link>
-			<description>Hans Andersens læsning
+   <channel>
+      <title>Politikerbogklubben</title>
+      <link>https://web.24syv.dk/channels/4566</link>
+      <description>Hvad kan skønlitteraturen lære vores folkevalgte politikere om livet uden for Christiansborg? Forskning viser, at man bliver mere empatisk af at læse skønlitteratur, men få politikere gør det. De har simpelthen ikke tid, siger de. Politikerbogklubben i AK24syv giver dem lektier for!</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/politikerbogklubben/Politikerbogklubben/Politikerbogklubben.png" />
+      <item>
+         <title>Morten Helveg Petersen (B) og Rina Ronja Kari  (N) læser "Serotonin" af...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109167/52337565-audio.mp3</link>
+         <description>I anledning af det kommende Europa-Parlamentsvalg har Politikerbogklubben inviteret to danske MEP'ere i studiet. Morten Helveg Petersen fra det pro-europæiske Radikale Venstre og Rina Ronja Kari fra det EU-kritiske parti Folkebevægelsen mod EU. Hør hvordan de fortolker franske Michel Houellebecqs nyeste bog Serotonin og hvad de synes om hans udlægning af det vestlige samfunds forfald. </description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109167/52337565-audio.mp3</guid>
+         <pubDate>Tue, 21 May 2019 15:42:02 +0000</pubDate>
+         <itunes:duration>00:40:16</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2019.05.21%20-%20Morten%20Helveg%20Petersen%20%28B%29%20og%20Rina%20Ronja%20Kari%20%20%28N%29%20l%C3%A6ser%20.mp3" />
+      </item>
+      <item>
+         <title>Zenia Stampe (R) og Hans Andersen (V) læser “Dr. Bagges anagrammer” af Ida...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109168/38588409-audio.mp3</link>
+         <description>Hans Andersens læsning
 består mest af højtlæsning for ungerne og tunge tekster fra
 beskæftigelsesministeriet. Når Zenia Stampe læser, er det også mest målrettet
 ift. hendes arbejde. Så hvordan går det, når de to politikere kommer på udebane
 med Ida Jessens fortælling om et stille liv i fortidens Thyregod?
-Vært: Anders Christiansen </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109168/38588409-audio.mp3</guid>
-			<pubDate>Sun, 06 Jan 2019 12:00:00 +0000</pubDate>
-			<itunes:duration>00:34:56</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109168/38588409-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Addendum: Forfatteren om Rosa Lund og Rasmus Langhofs læsning af “Elastik” </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198286/38588388-audio.mp3</link>
-			<description>Forfatter Johanne Bille
+Vært: Anders Christiansen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109168/38588409-audio.mp3</guid>
+         <pubDate>Sun, 06 Jan 2019 12:00:00 +0000</pubDate>
+         <itunes:duration>00:34:56</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2019.01.06%20-%20Zenia%20Stampe%20%28R%29%20og%20Hans%20Andersen%20%28V%29%20l%C3%A6ser%20%E2%80%9CDr.%20Bagges%20anagrammer%E2%80%9D%20af%20Ida....mp3" />
+      </item>
+      <item>
+         <title>Addendum: Forfatteren om Rosa Lund og Rasmus Langhofs læsning af “Elastik”</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198286/38588388-audio.mp3</link>
+         <description>Forfatter Johanne Bille
 kommer i studiet og fortæller, hvad hun tænker om det, Rosa Lund fra
 Enhedslisten og Rasmus Langhof fra Socialdemokratiet sagde, da de var i bogklub
 for at tale om hendes roman “Elastik”.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198286/38588388-audio.mp3</guid>
-			<pubDate>Fri, 04 Jan 2019 12:30:00 +0000</pubDate>
-			<itunes:duration>00:15:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198286/38588388-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Addendum: Forfatteren om Rosa Lund og Rasmus Langhofs læsning af “Elastik”</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109169/38588388-audio.mp3</link>
-			<description>Forfatter Johanne Bille
-kommer i studiet og fortæller, hvad hun tænker om det, Rosa Lund fra
-Enhedslisten og Rasmus Langhof fra Socialdemokratiet sagde, da de var i bogklub
-for at tale om hendes roman “Elastik”.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109169/38588388-audio.mp3</guid>
-			<pubDate>Fri, 04 Jan 2019 12:30:00 +0000</pubDate>
-			<itunes:duration>00:15:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109169/38588388-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Rosa Lund (EL) og Rasmus Horn Langhof (S) læser “Elastik” af Johanne Bille </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198287/38588379-audio.mp3</link>
-			<description>Hvad mener Rasmus Langhof
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198286/38588388-audio.mp3</guid>
+         <pubDate>Fri, 04 Jan 2019 12:30:00 +0000</pubDate>
+         <itunes:duration>00:15:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2019.01.04%20-%20Rosa%20Lund%20%28EL%29%20og%20Rasmus%20Horn%20Langhof%20%28S%29%20l%C3%A6ser%20%E2%80%9CElastik%E2%80%9D%20af%20Johanne%20Bille.mp3" />
+      </item>
+      <item>
+         <title>Rosa Lund (EL) og Rasmus Horn Langhof (S) læser “Elastik” af Johanne Bille</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198287/38588379-audio.mp3</link>
+         <description>Hvad mener Rasmus Langhof
 om det “feministiske baggrundstapet”, han har læst sig frem til i Johanne
 Billes roman “Elastik”? Rosa Lund tror, hun ville være rigtig glad for romanen,
 hvis hun havde læst den, da hun var 22.
-Vært: Anne Lærke Rasmussen </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198287/38588379-audio.mp3</guid>
-			<pubDate>Fri, 04 Jan 2019 12:00:00 +0000</pubDate>
-			<itunes:duration>00:29:13</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198287/38588379-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Rosa Lund (EL) og Rasmus Horn Langhof (S) læser “Elastik” af Johanne Bille</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109170/38588379-audio.mp3</link>
-			<description>Hvad mener Rasmus Langhof
+Vært: Anne Lærke Rasmussen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198287/38588379-audio.mp3</guid>
+         <pubDate>Fri, 04 Jan 2019 12:00:00 +0000</pubDate>
+         <itunes:duration>00:29:13</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2019.01.04%20-%20Addendum.mp3" />
+      </item>
+      <item>
+         <title>Rosa Lund (EL) og Rasmus Horn Langhof (S) læser “Elastik” af Johanne Bille</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109170/38588379-audio.mp3</link>
+         <description>Hvad mener Rasmus Langhof
 om det “feministiske baggrundstapet”, han har læst sig frem til i Johanne
 Billes roman “Elastik”? Rosa Lund tror, hun ville være rigtig glad for romanen,
 hvis hun havde læst den, da hun var 22.
-Vært: Anne Lærke Rasmussen </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109170/38588379-audio.mp3</guid>
-			<pubDate>Fri, 04 Jan 2019 12:00:00 +0000</pubDate>
-			<itunes:duration>00:29:13</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109170/38588379-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Christine Antorini (S) og Kenneth Christensen Bernth (DF) læser “Rotter og...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109171/38380282-audio.mp3</link>
-			<description>Der er uenighed om,
+Vært: Anne Lærke Rasmussen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109170/38588379-audio.mp3</guid>
+         <pubDate>Fri, 04 Jan 2019 12:00:00 +0000</pubDate>
+         <itunes:duration>00:29:13</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2019.01.04%20-%20Rosa%20Lund%20%28EL%29%20og%20Rasmus%20Horn%20Langhof%20%28S%29%20l%C3%A6ser%20%E2%80%9CElastik%E2%80%9D%20af%20Johanne%20Bille%20.mp3" />
+      </item>
+      <item>
+         <title>Christine Antorini (S) og Kenneth Christensen Bernth (DF) læser “Rotter og...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109171/38380282-audio.mp3</link>
+         <description>Der er uenighed om,
 hvorvidt “Rotter og skilsmisse” er en god roman. Kenneth Christensen Bernth
 synes, den er direkte kedelig. Men de kan godt blive enige om, at det er
-vigtigt nogle gange at læse noget andet end rapporter. </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109171/38380282-audio.mp3</guid>
-			<pubDate>Wed, 02 Jan 2019 12:00:00 +0000</pubDate>
-			<itunes:duration>00:33:27</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109171/38380282-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Holger K. Nielsen (SF) og Martin Lidegaard (R) læser “Velsignelser” af...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109172/38321754-audio.mp3</link>
-			<description>Holger K. Nielsen er velforberedt og har læst nogle af de anmelderroste noveller flere gange. Martin Lidegaard har taget noter og kan godt identificere sig med det gennemgående tema om at være småbørnsforælder.
+vigtigt nogle gange at læse noget andet end rapporter.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109171/38380282-audio.mp3</guid>
+         <pubDate>Wed, 02 Jan 2019 12:00:00 +0000</pubDate>
+         <itunes:duration>00:33:27</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2019.01.02%20-%20Christine%20Antorini%20%28S%29%20og%20Kenneth%20Christensen%20Bernth%20%28DF%29%20l%C3%A6ser%20%E2%80%9CRotter%20og....mp3" />
+      </item>
+      <item>
+         <title>Holger K. Nielsen (SF) og Martin Lidegaard (R) læser “Velsignelser” af...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109172/38321754-audio.mp3</link>
+         <description>Holger K. Nielsen er velforberedt og har læst nogle af de anmelderroste noveller flere gange. Martin Lidegaard har taget noter og kan godt identificere sig med det gennemgående tema om at være småbørnsforælder.
 Vært: Gro Vase</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109172/38321754-audio.mp3</guid>
-			<pubDate>Mon, 31 Dec 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:43:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109172/38321754-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Uffe Elbæk (Å) og Andreas Steenberg (R) læser “Bådens navn” af Kim Fupz Aakeson </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198288/38321112-audio.mp3</link>
-			<description>Uffe Elbæk synes, at Kim Fupz
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109172/38321754-audio.mp3</guid>
+         <pubDate>Mon, 31 Dec 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:43:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.31%20-%20Holger%20K.%20Nielsen%20%28SF%29%20og%20Martin%20Lidegaard%20%28R%29%20l%C3%A6ser%20%E2%80%9CVelsignelser%E2%80%9D%20af....mp3" />
+      </item>
+      <item>
+         <title>Uffe Elbæk (Å) og Andreas Steenberg (R) læser “Bådens navn” af Kim Fupz Aakeson</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198288/38321112-audio.mp3</link>
+         <description>Uffe Elbæk synes, at Kim Fupz
 Aakesons roman om Susse og Mugges skrantende ægteskab er spot on på små
 hverdagsproblemer som dårlige termokander og dårlig sex. Men kommer romanen til
 at påvirke de to politikeres realpolitik?
-Vært: Anders Christiansen </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198288/38321112-audio.mp3</guid>
-			<pubDate>Sat, 29 Dec 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:24:04</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198288/38321112-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Uffe Elbæk (Å) og Andreas Steenberg (R) læser “Bådens navn” af Kim Fupz Aakeson</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109173/38321112-audio.mp3</link>
-			<description>Uffe Elbæk synes, at Kim Fupz
+Vært: Anders Christiansen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198288/38321112-audio.mp3</guid>
+         <pubDate>Sat, 29 Dec 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:24:04</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.29%20-%20Uffe%20Elb%C3%A6k%20%28%C3%85%29%20og%20Andreas%20Steenberg%20%28R%29%20l%C3%A6ser%20%E2%80%9CB%C3%A5dens%20navn%E2%80%9D%20af%20Kim%20Fupz%20Aakeson%20.mp3" />
+      </item>
+      <item>
+         <title>Uffe Elbæk (Å) og Andreas Steenberg (R) læser “Bådens navn” af Kim Fupz Aakeson</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109173/38321112-audio.mp3</link>
+         <description>Uffe Elbæk synes, at Kim Fupz
 Aakesons roman om Susse og Mugges skrantende ægteskab er spot on på små
 hverdagsproblemer som dårlige termokander og dårlig sex. Men kommer romanen til
 at påvirke de to politikeres realpolitik?
-Vært: Anders Christiansen </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109173/38321112-audio.mp3</guid>
-			<pubDate>Sat, 29 Dec 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:24:04</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109173/38321112-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Addendum: Forfatteren om Caroline Magdalene Maier og Michael Aastrup Jensens...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109174/38321088-audio.mp3</link>
-			<description>Caroline Magdalene Maier
+Vært: Anders Christiansen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109173/38321112-audio.mp3</guid>
+         <pubDate>Sat, 29 Dec 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:24:04</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.29%20-%20Uffe%20Elb%C3%A6k%20%28%C3%85%29%20og%20Andreas%20Steenberg%20%28R%29%20l%C3%A6ser%20%E2%80%9CB%C3%A5dens%20navn%E2%80%9D%20af%20Kim%20Fupz%20Aakeson.mp3" />
+      </item>
+      <item>
+         <title>Addendum: Forfatteren om Caroline Magdalene Maier og Michael Aastrup Jensens...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109174/38321088-audio.mp3</link>
+         <description>Caroline Magdalene Maier
 fra Alternativet og Michael Aastrup Jensen var ikke helt oppe at ringe over
 “1,7 tipping point”. Romanens forfatter, Silja Henderson, kommer i studiet og
-kommenterer på deres læsning. </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109174/38321088-audio.mp3</guid>
-			<pubDate>Thu, 27 Dec 2018 13:00:00 +0000</pubDate>
-			<itunes:duration>00:23:52</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109174/38321088-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Caroline Magdalene Maier (Å) og Michael Aastrup Jensen (V) læser “1,7 tipping...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109175/38321063-audio.mp3</link>
-			<description>Der er lunkne anmeldelser
+kommenterer på deres læsning.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109174/38321088-audio.mp3</guid>
+         <pubDate>Thu, 27 Dec 2018 13:00:00 +0000</pubDate>
+         <itunes:duration>00:23:52</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.27%20-%20Caroline%20Magdalene%20Maier%20%28%C3%85%29%20og%20Michael%20Aastrup%20Jensen%20%28V%29%20l%C3%A6ser%20%E2%80%9C1%2C7%20tipping....mp3" />
+      </item>
+      <item>
+         <title>Caroline Magdalene Maier (Å) og Michael Aastrup Jensen (V) læser “1,7 tipping...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109175/38321063-audio.mp3</link>
+         <description>Der er lunkne anmeldelser
 til Silja Henderson for hendes roman “1,7 tipping point”. Men det afholder ikke
 politikerne fra at tage en snak om klimaet.
-Vært: Anne Lærke Rasmussen </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109175/38321063-audio.mp3</guid>
-			<pubDate>Thu, 27 Dec 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:28:35</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109175/38321063-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mads Fuglede (V) og Pia Olsen Dyhr (SF) læser “Happy Family” af Anne-Sophie...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109176/38318752-audio.mp3</link>
-			<description>Mads Fugledes far tog ham
+Vært: Anne Lærke Rasmussen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109175/38321063-audio.mp3</guid>
+         <pubDate>Thu, 27 Dec 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:28:35</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.27%20-%20Addendum.mp3" />
+      </item>
+      <item>
+         <title>Mads Fuglede (V) og Pia Olsen Dyhr (SF) læser “Happy Family” af Anne-Sophie...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109176/38318752-audio.mp3</link>
+         <description>Mads Fugledes far tog ham
 ud af skolen, når de skulle læse noget dårligt, og Pia Olsen Dyhr brugte
 biblioteket som tilflugtssted i sine teenageår. Hvordan tager de imod
 Anne-Sophie Lunding-Sørensens andet bind i serien om den overvægtige
 førtidspensionist, Elvira?
 Vært: Gro Vase</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109176/38318752-audio.mp3</guid>
-			<pubDate>Tue, 25 Dec 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:36:40</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109176/38318752-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Liselott Blixt (DF) læser “Stillezone” af Shosha Raymond</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198289/38318662-audio.mp3</link>
-			<description>Romanen i dagens bogklub
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109176/38318752-audio.mp3</guid>
+         <pubDate>Tue, 25 Dec 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:36:40</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.25%20-%20Mads%20Fuglede%20%28V%29%20og%20Pia%20Olsen%20Dyhr%20%28SF%29%20l%C3%A6ser%20%E2%80%9CHappy%20Family%E2%80%9D%20af%20Anne-Sophie....mp3" />
+      </item>
+      <item>
+         <title>Liselott Blixt (DF) læser “Stillezone” af Shosha Raymond</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198289/38318662-audio.mp3</link>
+         <description>Romanen i dagens bogklub
 gør et særligt indtryk på Liselott Blixt, da den river op i hendes egne
-barndomserindringer om en streng og dominerende far. 
-Vært: Güney Özcan </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198289/38318662-audio.mp3</guid>
-			<pubDate>Sun, 23 Dec 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:30:09</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198289/38318662-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ole Birk Olesen (LA) og Yildiz Akdogan (S) læser “Efter solen” af Jonas Eika </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198290/38318716-audio.mp3</link>
-			<description>De to politikere er modsat
+barndomserindringer om en streng og dominerende far. 
+Vært: Güney Özcan</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198289/38318662-audio.mp3</guid>
+         <pubDate>Sun, 23 Dec 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:30:09</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.23%20-%20Liselott%20Blixt%20%28DF%29%20l%C3%A6ser%20%E2%80%9CStillezone%E2%80%9D%20af%20Shosha%20Raymond.mp3" />
+      </item>
+      <item>
+         <title>Ole Birk Olesen (LA) og Yildiz Akdogan (S) læser “Efter solen” af Jonas Eika</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198290/38318716-audio.mp3</link>
+         <description>De to politikere er modsat
 anmelderne ikke begejstrede for Jonas Eikas nye novellesamling, og
 forfatterskolelitteraturen får en svada. Litteraturlektor Elisabeth Friis
-kommer i studiet og forklarer, hvad hun mener, de ikke har forstået. 
+kommer i studiet og forklarer, hvad hun mener, de ikke har forstået. 
 Vært: Gro Vase</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198290/38318716-audio.mp3</guid>
-			<pubDate>Fri, 21 Dec 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:41:57</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198290/38318716-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ida Auken (R) og Peter Skaarup (DF) læser “De ansatte” af Olga Ravn </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198291/38318596-audio.mp3</link>
-			<description>Peter Skaarup har det
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198290/38318716-audio.mp3</guid>
+         <pubDate>Fri, 21 Dec 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:41:57</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.21%20-%20Ole%20Birk%20Olesen%20%28LA%29%20og%20Yildiz%20Akdogan%20%28S%29%20l%C3%A6ser%20%E2%80%9CEfter%20solen%E2%80%9D%20af%20Jonas%20Eika%20.mp3" />
+      </item>
+      <item>
+         <title>Ida Auken (R) og Peter Skaarup (DF) læser “De ansatte” af Olga Ravn</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198291/38318596-audio.mp3</link>
+         <description>Peter Skaarup har det
 generelt “ret godt” med sci-fi, så hvordan tager han imod Olga Ravns
 arbejdspladsroman fra det 22. århundrede? Ida Auken kommer frem til, at hun
 blandt andet ville savne en almindelig rugbrødsmad, hvis hun blev sendt afsted
 på et rumskib.
-Vært: Gro Vase </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198291/38318596-audio.mp3</guid>
-			<pubDate>Wed, 19 Dec 2018 12:00:00 +0000</pubDate>
-			<itunes:duration>00:31:32</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198291/38318596-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>René Gade (Å) og Laura Lindahl (LA) læser “Jeg er gråhvid” af Bjørn Rasmussen </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198292/38318624-audio.mp3</link>
-			<description>Laura Lindahl er ret
+Vært: Gro Vase</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198291/38318596-audio.mp3</guid>
+         <pubDate>Wed, 19 Dec 2018 12:00:00 +0000</pubDate>
+         <itunes:duration>00:31:32</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.19%20-%20Ida%20Auken%20%28R%29%20og%20Peter%20Skaarup%20%28DF%29%20l%C3%A6ser%20%E2%80%9CDe%20ansatte%E2%80%9D%20af%20Olga%20Ravn%20.mp3" />
+      </item>
+      <item>
+         <title>René Gade (Å) og Laura Lindahl (LA) læser “Jeg er gråhvid” af Bjørn Rasmussen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198292/38318624-audio.mp3</link>
+         <description>Laura Lindahl er ret
 overbevist om, at hovedpersonen i Bjørn Rasmussens nye roman ikke ville stemme
 på hende. Kunne han til gengæld være en Alternativet-vælger?
-Vært: Güney Öscan </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198292/38318624-audio.mp3</guid>
-			<pubDate>Mon, 17 Dec 2018 12:47:27 +0000</pubDate>
-			<itunes:duration>00:31:43</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198292/38318624-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Britt Bager (V) og Thomas Jensen (S) læser “Techno” af Niels Henning Falk...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198293/38239439-audio.mp3</link>
-			<description>Det er et miljø langt fra
+Vært: Güney Öscan</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198292/38318624-audio.mp3</guid>
+         <pubDate>Mon, 17 Dec 2018 12:47:27 +0000</pubDate>
+         <itunes:duration>00:31:43</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.17%20-%20Ren%C3%A9%20Gade%20%28%C3%85%29%20og%20Laura%20Lindahl%20%28LA%29%20l%C3%A6ser%20%E2%80%9CJeg%20er%20gr%C3%A5hvid%E2%80%9D%20af%20Bj%C3%B8rn%20Rasmussen%20.mp3" />
+      </item>
+      <item>
+         <title>Britt Bager (V) og Thomas Jensen (S) læser “Techno” af Niels Henning Falk...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198293/38239439-audio.mp3</link>
+         <description>Det er et miljø langt fra
 Christiansborg, som Britt Bager og Thomas Jensen dykker ned i, da de læser
 Niels Henning Falk Jensbys debutroman om hardcore sex og techno i det
 københavnske homomiljø. 
- 
+ 
 Vært: Josefine Maria Hansen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198293/38239439-audio.mp3</guid>
-			<pubDate>Thu, 13 Dec 2018 15:18:00 +0000</pubDate>
-			<itunes:duration>00:43:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198293/38239439-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>May-Britt Kattrup (LA) og Torsten Gejl (Å) læser “Politisk Roman” af Lone...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198294/38239372-audio.mp3</link>
-			<description>Dagens to politikere er
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198293/38239439-audio.mp3</guid>
+         <pubDate>Thu, 13 Dec 2018 15:18:00 +0000</pubDate>
+         <itunes:duration>00:43:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.13%20-%20May-Britt%20Kattrup%20%28LA%29%20og%20Torsten%20Gejl%20%28%C3%85%29%20l%C3%A6ser%20%E2%80%9CPolitisk%20Roman%E2%80%9D%20af%20Lone....mp3" />
+      </item>
+      <item>
+         <title>May-Britt Kattrup (LA) og Torsten Gejl (Å) læser “Politisk Roman” af Lone...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198294/38239372-audio.mp3</link>
+         <description>Dagens to politikere er
 ifølge en undersøgelse fra Altinget nogle af de politikere på Christiansborg,
 der læser mindst. Torsten Gejl har ikke tid, og May-Britt Kattrup kan ikke
 sidde stille. Det kan Lone Aburas tilsyneladende heller ikke ændre på. 
- 
-Vært: Josefine Maria Hansen
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198294/38239372-audio.mp3</guid>
-			<pubDate>Thu, 13 Dec 2018 15:13:26 +0000</pubDate>
-			<itunes:duration>00:34:52</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198294/38239372-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Addendum: Forfatteren om Marie Krarup og Karen Ellemans læsning af “June” </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198295/38239388-audio.mp3</link>
-			<description>Karen Elleman fra Venstre
+ 
+Vært: Josefine Maria Hansen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198294/38239372-audio.mp3</guid>
+         <pubDate>Thu, 13 Dec 2018 15:13:26 +0000</pubDate>
+         <itunes:duration>00:34:52</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.13%20-%20Marie%20Krarup%20%28DF%29%20og%20Karen%20Elleman%20%28V%29%20l%C3%A6ser%20%E2%80%9CJune%E2%80%9D%20af%20Pernille%20Abd-El%20Dayem%20.mp3" />
+      </item>
+      <item>
+         <title>Addendum: Forfatteren om Marie Krarup og Karen Ellemans læsning af “June”</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198295/38239388-audio.mp3</link>
+         <description>Karen Elleman fra Venstre
 og Marie Krarup fra Dansk Folkeparti tog meget forskelligt imod romanen “June”,
 så forfatteren Pernille Abd-El Dayem kommer i studiet og fortæller, hvad hun
-tænker om deres læsninger. </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198295/38239388-audio.mp3</guid>
-			<pubDate>Thu, 13 Dec 2018 15:05:58 +0000</pubDate>
-			<itunes:duration>00:17:22</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198295/38239388-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Marie Krarup (DF) og Karen Elleman (V) læser “June” af Pernille Abd-El Dayem </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198296/38237931-audio.mp3</link>
-			<description>Karen Elleman synes,
+tænker om deres læsninger.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198295/38239388-audio.mp3</guid>
+         <pubDate>Thu, 13 Dec 2018 15:05:58 +0000</pubDate>
+         <itunes:duration>00:17:22</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.13%20-%20Britt%20Bager%20%28V%29%20og%20Thomas%20Jensen%20%28S%29%20l%C3%A6ser%20%E2%80%9CTechno%E2%80%9D%20af%20Niels%20Henning%20Falk....mp3" />
+      </item>
+      <item>
+         <title>Marie Krarup (DF) og Karen Elleman (V) læser “June” af Pernille Abd-El Dayem</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/198296/38237931-audio.mp3</link>
+         <description>Karen Elleman synes,
 romanen var en appelsin i hendes turban ift. hendes politiske arbejde. Marie
 Krarup fik kvalme af det første kapitel og har ikke læst bogen færdig.
 Vært: Gro Vase</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198296/38237931-audio.mp3</guid>
-			<pubDate>Thu, 13 Dec 2018 13:59:09 +0000</pubDate>
-			<itunes:duration>00:32:09</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/198296/38237931-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/198296/38237931-audio.mp3</guid>
+         <pubDate>Thu, 13 Dec 2018 13:59:09 +0000</pubDate>
+         <itunes:duration>00:32:09</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/politikerbogklubben/Politikerbogklubben/2018.12.13%20-%20Addendum.mp3" />
+      </item>
+   </channel>
 </rss>
