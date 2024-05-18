@@ -1,274 +1,247 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Globus Rusland – Radio24syv</title>
-		<link>https://web.24syv.dk/channels/4164</link>
-		<description>Ruslandsekspert og ph.d. i internationale studier fra Sorbonne, Frederikke Ingemann, tager os gennem en times nyheder, med Rusland som omdrejningspunkt.
+   <channel>
+      <title>Globus Rusland – Radio24syv</title>
+      <link>https://web.24syv.dk/channels/4164</link>
+      <description>Ruslandsekspert og ph.d. i internationale studier fra Sorbonne, Frederikke Ingemann, tager os gennem en times nyheder, med Rusland som omdrejningspunkt.
 
 Nyhederne skal bringe lytterne tættere på en bredere forståelse af, hvad Rusland (også) er.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/466/Globus_Rusland.jpg"/>
-		<item>
-			<title>Globus Rusland uge 17, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106878/4934104-audio.mp3</link>
-			<description>Vi tager pulsen på forandringernes tilstand i Rusland. Overhovedet i den russisk ortodokse kirke kalder de troende til kamp mod blasfemi. Putin kapper båndet til sit parti, mens han tæller ned til sin ”kroning” i Kreml. Vi gør status over Rusland og kigger frem med Putin2.0. ved roret. Hør også hvorfor Putin er blevet størens bedste ven, og få historien om Davids stærkeste våben i kampen mod Goliat, sultestrejken. Medvirkende: Charlotte Flindt Pedersen, international chef Institut for Menneskerettigheder, Roman Lunkin, sociolog, Russian Academy of Sciences, Jacob Marsing-Rossini, adm. direktør Rossini Caviar, Elena Wahl, UniRus, Flemming Splidsboel, ph.d. Forsvarsakademiet.  Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106878/4934104-audio.mp3</guid>
-			<pubDate>Sat, 28 Apr 2012 14:03:52 +0000</pubDate>
-			<itunes:duration>00:55:18</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106878/4934104-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland uge 16, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106879/4899038-audio.mp3</link>
-			<description>Denne uges Globus Rusland handler om den russiske efterretningstjeneste – eller rettere efterretningstjenester. Det skal handle om både sikkerhedstjenesten FSB og den tjeneste, der står for spionage i udlandet. Programmet giver også svaret på hvor stor den russiske ambassade egentlig er i dag. Under Den Kolde Krig var ambassaden berygtet for at være hovedkvarteret for den russiske spionage i Danmark. Vært Frederikke Ingemann undersøger også om de russiske efteretningstjenester har overtaget magten i Rusland. Og så er der Stalin på programmet. Du kan møde en amerikansk-russisk psykoterapeut, der fortæller, hvordan Stalin bliver takket for at give russere en lykkelig barndom. Medvirkende: Erik Kulavig, leder af Center for Koldkrigsstudier, Syddansk Universitet Marilyn Murray, psykoterapeut Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106879/4899038-audio.mp3</guid>
-			<pubDate>Sat, 21 Apr 2012 14:03:44 +0000</pubDate>
-			<itunes:duration>00:55:33</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106879/4899038-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland uge 15, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106880/4864878-audio.mp3</link>
-			<description>I dag handler det om skæg og blå briller – af den alvorlige slags. Hvor går grænsen mellem spionage og almindelig diplomatisk virksomhed? Og ny forskning viser, at virkelighedens Dmitrij Shostakovith, et af det 20. århundredes største komponister, ikke var et forfulgt geni, men en loyal kommunist med de rigtige forbindelser i den sovjetiske efterretningstjeneste og magtapparatet. Hør også, om tre års barsel til kvinder vidner om, at Rusland vitterlig har et velfærdssamfund og få en analyse af Putin sidste tale i Dumaen som regeringschef: Hvor er Rusland på vej hen med Putin 2.0. ved roret? Medvirkende: professor Simon Morrison, Princeton, USA, ph.d. Flemming Splidsboel, forskningskoordinator, Forsvarsakademiet, professor Markku Kivinen, Helsinki Universitet. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106880/4864878-audio.mp3</guid>
-			<pubDate>Sat, 14 Apr 2012 14:03:32 +0000</pubDate>
-			<itunes:duration>00:55:43</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106880/4864878-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland uge 14, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106881/4831502-audio.mp3</link>
-			<description>Påskespecial Globus Rusland i dag handler om den ortodokse påske, tro og religionsforfølgelser. Kristi opstandelse tages her helt bogstaveligt med kiste, kys og procession i det fri. Hør hvordan og hvorfor. Hvad har et feministisk punkband, forbud mod homoseksuelpropaganda og (ny)martyrer at gøre med kirke-stat-forholdet i Rusland? Hvor stor magt har kirken? Medvirkende ph.d. stud. Karin Hyldal Christensen, Københavns Universitet og lektor Annika Hvithammer, Syddansk Universitet. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106881/4831502-audio.mp3</guid>
-			<pubDate>Sat, 07 Apr 2012 14:03:45 +0000</pubDate>
-			<itunes:duration>00:55:36</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106881/4831502-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland uge 13, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106882/4797926-audio.mp3</link>
-			<description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106882/4797926-audio.mp3</guid>
-			<pubDate>Sat, 31 Mar 2012 14:04:26 +0000</pubDate>
-			<itunes:duration>00:55:03</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106882/4797926-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland uge 12, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106883/4747984-audio.mp3</link>
-			<description>Rusland perspektiveret - hver uge. Er det politisk forår i Rusland? Det undersøger vi ved at kigge på Rusland som atommagt og autokratiets grobund i landet. Hvor gør Putins valgløfter om modernisering af forsvaret ved atommagten? Har terrorister let ved at få fingre i russiske kernevåben? Og hvad med fordommen: russerne har brug for en zar. Nej, men Putin ER zar af Rusland. Det kan ikke være anderledes. Det siger forfatteren til en ny Putin-biografi. Og få historien om det unge danske akkordeon-talent med russisk lyd på bonede gulve i Kreml. Med journalist Anna Arutunyan,The Moscow News, ph.d. og forskningskoordinator Flemming Splidsboel, Forsvarsakademiet, akkordeonist Bjarke Mogensen. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106883/4747984-audio.mp3</guid>
-			<pubDate>Sat, 24 Mar 2012 14:03:47 +0000</pubDate>
-			<itunes:duration>00:55:03</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106883/4747984-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland uge 11, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106884/4709261-audio.mp3</link>
-			<description>lederen af Tjetjeniens eksilregering, Akhmed Zakajev, er i København til kongressen ”The Chechen Republic in the context of possible changes in Russia”. Zakajev er kontroversiel. Han er efterlyst af Interpol på Ruslands opfordring, og sidst han var i Danmark, blev han anholdt, og forholdet mellem Danmark og Rusland blev afbrudt. Hvorfor giver præsidentvalget i Rusland momentum til Tjetjenien-sagen? Kan konferencen gøre en forskel? Få også historien om EU-parlamentets diskussion af det russiske valg. Medvirkende: Akhmed Zakajev, Thomas Bindesbøll Larsen, formand for Støttekomiteen for Tjetjenien, Zulay Magazieva, tjetjensk filminstruktør, Garry Kasparov, russisk oppositionsleder.
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/Globus_Rusland.jpg" />
+      <item>
+         <title>Globus Rusland uge 17, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106878/4934104-audio.mp3</link>
+         <description>Vi tager pulsen på forandringernes tilstand i Rusland. Overhovedet i den russisk ortodokse kirke kalder de troende til kamp mod blasfemi. Putin kapper båndet til sit parti, mens han tæller ned til sin ”kroning” i Kreml. Vi gør status over Rusland og kigger frem med Putin2.0. ved roret. Hør også hvorfor Putin er blevet størens bedste ven, og få historien om Davids stærkeste våben i kampen mod Goliat, sultestrejken. Medvirkende: Charlotte Flindt Pedersen, international chef Institut for Menneskerettigheder, Roman Lunkin, sociolog, Russian Academy of Sciences, Jacob Marsing-Rossini, adm. direktør Rossini Caviar, Elena Wahl, UniRus, Flemming Splidsboel, ph.d. Forsvarsakademiet.  Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106878/4934104-audio.mp3</guid>
+         <pubDate>Sat, 28 Apr 2012 14:03:52 +0000</pubDate>
+         <itunes:duration>00:55:18</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.04.28%20-%20Globus%20Rusland%20uge%2017%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland uge 16, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106879/4899038-audio.mp3</link>
+         <description>Denne uges Globus Rusland handler om den russiske efterretningstjeneste – eller rettere efterretningstjenester. Det skal handle om både sikkerhedstjenesten FSB og den tjeneste, der står for spionage i udlandet. Programmet giver også svaret på hvor stor den russiske ambassade egentlig er i dag. Under Den Kolde Krig var ambassaden berygtet for at være hovedkvarteret for den russiske spionage i Danmark. Vært Frederikke Ingemann undersøger også om de russiske efteretningstjenester har overtaget magten i Rusland. Og så er der Stalin på programmet. Du kan møde en amerikansk-russisk psykoterapeut, der fortæller, hvordan Stalin bliver takket for at give russere en lykkelig barndom. Medvirkende: Erik Kulavig, leder af Center for Koldkrigsstudier, Syddansk Universitet Marilyn Murray, psykoterapeut Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106879/4899038-audio.mp3</guid>
+         <pubDate>Sat, 21 Apr 2012 14:03:44 +0000</pubDate>
+         <itunes:duration>00:55:33</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.04.21%20-%20Globus%20Rusland%20uge%2016%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland uge 15, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106880/4864878-audio.mp3</link>
+         <description>I dag handler det om skæg og blå briller – af den alvorlige slags. Hvor går grænsen mellem spionage og almindelig diplomatisk virksomhed? Og ny forskning viser, at virkelighedens Dmitrij Shostakovith, et af det 20. århundredes største komponister, ikke var et forfulgt geni, men en loyal kommunist med de rigtige forbindelser i den sovjetiske efterretningstjeneste og magtapparatet. Hør også, om tre års barsel til kvinder vidner om, at Rusland vitterlig har et velfærdssamfund og få en analyse af Putin sidste tale i Dumaen som regeringschef: Hvor er Rusland på vej hen med Putin 2.0. ved roret? Medvirkende: professor Simon Morrison, Princeton, USA, ph.d. Flemming Splidsboel, forskningskoordinator, Forsvarsakademiet, professor Markku Kivinen, Helsinki Universitet. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106880/4864878-audio.mp3</guid>
+         <pubDate>Sat, 14 Apr 2012 14:03:32 +0000</pubDate>
+         <itunes:duration>00:55:43</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.04.14%20-%20Globus%20Rusland%20uge%2015%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland uge 14, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106881/4831502-audio.mp3</link>
+         <description>Påskespecial Globus Rusland i dag handler om den ortodokse påske, tro og religionsforfølgelser. Kristi opstandelse tages her helt bogstaveligt med kiste, kys og procession i det fri. Hør hvordan og hvorfor. Hvad har et feministisk punkband, forbud mod homoseksuelpropaganda og (ny)martyrer at gøre med kirke-stat-forholdet i Rusland? Hvor stor magt har kirken? Medvirkende ph.d. stud. Karin Hyldal Christensen, Københavns Universitet og lektor Annika Hvithammer, Syddansk Universitet. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106881/4831502-audio.mp3</guid>
+         <pubDate>Sat, 07 Apr 2012 14:03:45 +0000</pubDate>
+         <itunes:duration>00:55:36</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.04.07%20-%20Globus%20Rusland%20uge%2014%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland uge 13, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106882/4797926-audio.mp3</link>
+         <description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106882/4797926-audio.mp3</guid>
+         <pubDate>Sat, 31 Mar 2012 14:04:26 +0000</pubDate>
+         <itunes:duration>00:55:03</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.03.31%20-%20Globus%20Rusland%20uge%2013%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland uge 12, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106883/4747984-audio.mp3</link>
+         <description>Rusland perspektiveret - hver uge. Er det politisk forår i Rusland? Det undersøger vi ved at kigge på Rusland som atommagt og autokratiets grobund i landet. Hvor gør Putins valgløfter om modernisering af forsvaret ved atommagten? Har terrorister let ved at få fingre i russiske kernevåben? Og hvad med fordommen: russerne har brug for en zar. Nej, men Putin ER zar af Rusland. Det kan ikke være anderledes. Det siger forfatteren til en ny Putin-biografi. Og få historien om det unge danske akkordeon-talent med russisk lyd på bonede gulve i Kreml. Med journalist Anna Arutunyan,The Moscow News, ph.d. og forskningskoordinator Flemming Splidsboel, Forsvarsakademiet, akkordeonist Bjarke Mogensen. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106883/4747984-audio.mp3</guid>
+         <pubDate>Sat, 24 Mar 2012 14:03:47 +0000</pubDate>
+         <itunes:duration>00:55:03</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.03.24%20-%20Globus%20Rusland%20uge%2012%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland uge 11, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106884/4709261-audio.mp3</link>
+         <description>lederen af Tjetjeniens eksilregering, Akhmed Zakajev, er i København til kongressen ”The Chechen Republic in the context of possible changes in Russia”. Zakajev er kontroversiel. Han er efterlyst af Interpol på Ruslands opfordring, og sidst han var i Danmark, blev han anholdt, og forholdet mellem Danmark og Rusland blev afbrudt. Hvorfor giver præsidentvalget i Rusland momentum til Tjetjenien-sagen? Kan konferencen gøre en forskel? Få også historien om EU-parlamentets diskussion af det russiske valg. Medvirkende: Akhmed Zakajev, Thomas Bindesbøll Larsen, formand for Støttekomiteen for Tjetjenien, Zulay Magazieva, tjetjensk filminstruktør, Garry Kasparov, russisk oppositionsleder.
 Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106884/4709261-audio.mp3</guid>
-			<pubDate>Sat, 17 Mar 2012 14:04:53 +0000</pubDate>
-			<itunes:duration>00:56:44</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106884/4709261-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland uge 10, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106885/4674633-audio.mp3</link>
-			<description>Globus Rusland tager i dag pulsen på et Rusland i valg. Vært Frederikke Ingemann var nemlig i Moskva lige før, under og efter valget. Få reportage fra turen og kom med til demonstration både for og imod Putin. Den sidste var lige ved at blive for spændende. Hør også hvorfor valget ikke var så grelt endda, og hvorfor Putin faktisk ikke sejrede så stort, som det fremstilles. Gæst i studiet er  Ruslandsekspert Lars Poulsen-Hansen. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106885/4674633-audio.mp3</guid>
-			<pubDate>Sat, 10 Mar 2012 14:07:10 +0000</pubDate>
-			<itunes:duration>00:55:21</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106885/4674633-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland uge 9, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106886/4637827-audio.mp3</link>
-			<description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106886/4637827-audio.mp3</guid>
-			<pubDate>Sat, 03 Mar 2012 14:03:53 +0000</pubDate>
-			<itunes:duration>00:55:12</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106886/4637827-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland uge 8, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106887/4585922-audio.mp3</link>
-			<description>Kampen om Ruslands fremtid er i gang: pro-Putin versus anti-Putin. Rusland vil opruste og fordoble sit forsvarsbudget. Det lover Putin i præsidentvalgkampens slutspurt, nu hvor meningsmålinger spår ham en sikker sejr. Hvor farligt er det for Vesten? Hvilken rolle spiller intelligentsiaen i oppositionsbevægelsen i Rusland? Hvor begejstret er Dansk Industri og dansk erhvervsliv for udsigten til 6 år mere med Putin? Få også fjerde afsnit i portrætserien om præsidentkandidater: Sergej Mironov. Medvirkende: Mette Skak, lektor i international politik fra Aarhus Universitet, Anna Libak, litteraturredaktør på Weekendavisen, Peter Thagesen, afsætningspolitisk chef i Dansk Industri, Per Dalgård, Ruslandsmedarbejder Information. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106887/4585922-audio.mp3</guid>
-			<pubDate>Sat, 25 Feb 2012 14:23:32 +0000</pubDate>
-			<itunes:duration>00:56:13</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106887/4585922-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland uge 7, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183390/4538994-audio.mp3</link>
-			<description>Nedtællingen til præsidentvalget i Rusland er i gang. 15 dage er der tilbage. Men hvordan går med valgkampen? Og hvad med menneskerettighederne i Rusland? Står det lige så grelt til, som vestlige medier almindeligvis rapporterer? Få et portræt af den ultranationalistiske entertainer, præsidentkandidaten Vladimir Sjirinovskij og historien om, hvordan han berigede en dansk journalist med både parfume og vodka. Og mød den unge russer, manDEN, der trykkede på den rigtige knap på internettet og fik titusindvis af mennesker til at gå på gaden for at kræve demokrati i Rusland. Medvirkende: Johanna Melén, Sveriges Radios Moskva-korrespondent, Jørgen Staun, adjunkt ved Hærens Officersskole, Jacob Rosenkrands, journalist og tv-vært, Charlotte Flindt Pedersen, International direktør i Institut for Menneskerettigheder, Ilya Faybisovich, webkoordinator for oppositionsbevægelsen i Rusland. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183390/4538994-audio.mp3</guid>
-			<pubDate>Sat, 18 Feb 2012 14:05:11 +0000</pubDate>
-			<itunes:duration>00:54:49</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183390/4538994-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland uge 6, 2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183391/4500951-audio.mp3</link>
-			<description>Det meste af verden fordømmer Rusland, efter landet nedlagde veto i FN’s sikkerhedsråd mod en resolution for at standse blodbadet i Syrien. Men hvordan ser sagen ud fra Kremls synspunkt? Hvilke motiver driver Rusland i international politik anno 2012. Få også svar på spørgsmålet: Har den russiske præsident magt som en enevældig zar?  Og få et portræt af Gennedij Zjuganov, præsidentkandidaten for Ruslands Kommunistiske Parti. Rusland står isoleret, uden for de europæiske sikkerhedsstrukturer, men hvordan er forholdet til Nato? Medvirkende: Dmitrij Trenin, direktør i tænketanken Carnegie Center i Moskva, Karsten Jakob Møller, seniorforsker ved Dansk Institut for Internationale Studier, Ruslandsekspert Lars Poulsen-Hansen og freelancejournalist Sergei Serebriakov. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183391/4500951-audio.mp3</guid>
-			<pubDate>Sat, 11 Feb 2012 14:03:40 +0000</pubDate>
-			<itunes:duration>00:55:07</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183391/4500951-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183392/4465696-audio.mp3</link>
-			<description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183392/4465696-audio.mp3</guid>
-			<pubDate>Sat, 04 Feb 2012 14:03:57 +0000</pubDate>
-			<itunes:duration>00:55:07</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183392/4465696-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183393/4406615-audio.mp3</link>
-			<description>Det er det forkerte program vi præsenterer - men det er Globus Rusland du kan høre. Risikerer nationalisme at sprænge Den russiske Føderation? Det mener regeringschef Vladimir Putin. Men har han ret? For hvad er nationalisme for en størrelse i Rusland? I dagens program går vi bag om begrebet ”regionernes Rusland” og fortsætter føljetonen om russere i Danmark med et sovjetisk antisemitisk helvede, der blev til en solstrålehistorie i Danmark. Med : lektor Erik Kulavig fra Syddansk Universitet, Lars Poulsen-Hansen og violinist i DR’s Symfoniorkester Ludmila Spektor. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183393/4406615-audio.mp3</guid>
-			<pubDate>Sat, 28 Jan 2012 13:05:31 +0000</pubDate>
-			<itunes:duration>00:55:08</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183393/4406615-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183394/4370487-audio.mp3</link>
-			<description>Rusland perspektiveret - hver uge. Hvordan kan Vesten hjælpe med at sikre, at demokratiet i Rusland ikke bliver en dødssejler? Kom tæt på oppositionen i Rusland. Hør om Vestens finansiering af den og den ny Amerikanske ambassadør i Moskva. Medvirkende: Oppositionsleder Ilya Jasjin, Ruslandsansvarlig i Nordisk Ministerråd Ane Kofod Petersen, og seniorforsker ved tænketanken Carnegie Center i Moskva Lilia Shevtsova.  Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183394/4370487-audio.mp3</guid>
-			<pubDate>Sat, 21 Jan 2012 14:03:29 +0000</pubDate>
-			<itunes:duration>00:55:08</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183394/4370487-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183395/4319350-audio.mp3</link>
-			<description>Rusland perspektiveret - hver uge. Globus Rusland handler denne gang om forholdet mellem Rusland og Vesten, hvor den kolde krig spræller fra kisten. Rusland er mistroisk over for Vesten, og Vesten misforstår Rusland. Lurer en katastrofe lige om hjørnet? Med lektor Annika Hvithammer fra Syddansk Universitet, ph.d. Flemming Splidsboel fra Forsvarsakademiet, professor Markku Kivinen fra Helsinki Universitet og chef for Ruslandskontoret i EU’s fælles udenrigstjeneste, Gunnar Wiegand. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183395/4319350-audio.mp3</guid>
-			<pubDate>Sat, 14 Jan 2012 14:04:00 +0000</pubDate>
-			<itunes:duration>00:55:42</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183395/4319350-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183396/4282114-audio.mp3</link>
-			<description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183396/4282114-audio.mp3</guid>
-			<pubDate>Sat, 07 Jan 2012 14:03:41 +0000</pubDate>
-			<itunes:duration>00:55:23</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183396/4282114-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus 13.05 (2)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216633/4213273-audio.mp3</link>
-			<description>Rusland perspektiveret. Julespecial.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216633/4213273-audio.mp3</guid>
-			<pubDate>Tue, 27 Dec 2011 14:03:39 +0000</pubDate>
-			<itunes:duration>00:55:12</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/216633/4213273-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus 13.05 (2)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183397/4213273-audio.mp3</link>
-			<description>Rusland perspektiveret. Julespecial.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183397/4213273-audio.mp3</guid>
-			<pubDate>Tue, 27 Dec 2011 14:03:39 +0000</pubDate>
-			<itunes:duration>00:55:12</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183397/4213273-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus 12.07 (1)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216634/4213054-audio.mp3</link>
-			<description>Rusland perspektiveret. Julespecial.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216634/4213054-audio.mp3</guid>
-			<pubDate>Tue, 27 Dec 2011 13:03:37 +0000</pubDate>
-			<itunes:duration>00:53:17</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/216634/4213054-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus 12.07 (1)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183398/4213054-audio.mp3</link>
-			<description>Rusland perspektiveret. Julespecial.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183398/4213054-audio.mp3</guid>
-			<pubDate>Tue, 27 Dec 2011 13:03:37 +0000</pubDate>
-			<itunes:duration>00:53:17</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183398/4213054-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183399/4155680-audio.mp3</link>
-			<description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183399/4155680-audio.mp3</guid>
-			<pubDate>Sat, 17 Dec 2011 14:03:14 +0000</pubDate>
-			<itunes:duration>00:55:31</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183399/4155680-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183400/4114539-audio.mp3</link>
-			<description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183400/4114539-audio.mp3</guid>
-			<pubDate>Sat, 10 Dec 2011 14:03:31 +0000</pubDate>
-			<itunes:duration>00:55:17</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183400/4114539-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183401/4073586-audio.mp3</link>
-			<description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183401/4073586-audio.mp3</guid>
-			<pubDate>Sat, 03 Dec 2011 14:04:49 +0000</pubDate>
-			<itunes:duration>00:55:28</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183401/4073586-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183402/4023092-audio.mp3</link>
-			<description>Rusland perspektiveret - hver uge. Med Frederikke Ingemann</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183402/4023092-audio.mp3</guid>
-			<pubDate>Sat, 26 Nov 2011 14:03:51 +0000</pubDate>
-			<itunes:duration>00:55:16</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183402/4023092-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland - 12. november</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183403/3898548-audio.mp3</link>
-			<description>Vi præsenterer ganske vidst Globus USA, men det er Globus Rusland vi sender.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183403/3898548-audio.mp3</guid>
-			<pubDate>Sat, 12 Nov 2011 13:05:11 +0000</pubDate>
-			<itunes:duration>00:55:09</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183403/3898548-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Globus Rusland - 1. Program</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183404/3844217-audio.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183404/3844217-audio.mp3</guid>
-			<pubDate>Sat, 05 Nov 2011 23:03:47 +0000</pubDate>
-			<itunes:duration>00:54:54</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183404/3844217-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>1. program</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216635/3841852-audio.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216635/3841852-audio.mp3</guid>
-			<pubDate>Sat, 05 Nov 2011 14:03:06 +0000</pubDate>
-			<itunes:duration>01:00:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/216635/3841852-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>1. program</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183405/3841852-audio.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183405/3841852-audio.mp3</guid>
-			<pubDate>Sat, 05 Nov 2011 14:03:06 +0000</pubDate>
-			<itunes:duration>01:00:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/183405/3841852-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106884/4709261-audio.mp3</guid>
+         <pubDate>Sat, 17 Mar 2012 14:04:53 +0000</pubDate>
+         <itunes:duration>00:56:44</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.03.17%20-%20Globus%20Rusland%20uge%2011%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland uge 10, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106885/4674633-audio.mp3</link>
+         <description>Globus Rusland tager i dag pulsen på et Rusland i valg. Vært Frederikke Ingemann var nemlig i Moskva lige før, under og efter valget. Få reportage fra turen og kom med til demonstration både for og imod Putin. Den sidste var lige ved at blive for spændende. Hør også hvorfor valget ikke var så grelt endda, og hvorfor Putin faktisk ikke sejrede så stort, som det fremstilles. Gæst i studiet er  Ruslandsekspert Lars Poulsen-Hansen. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106885/4674633-audio.mp3</guid>
+         <pubDate>Sat, 10 Mar 2012 14:07:10 +0000</pubDate>
+         <itunes:duration>00:55:21</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.03.10%20-%20Globus%20Rusland%20uge%2010%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland uge 9, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106886/4637827-audio.mp3</link>
+         <description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106886/4637827-audio.mp3</guid>
+         <pubDate>Sat, 03 Mar 2012 14:03:53 +0000</pubDate>
+         <itunes:duration>00:55:12</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.03.03%20-%20Globus%20Rusland%20uge%209%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland uge 8, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106887/4585922-audio.mp3</link>
+         <description>Kampen om Ruslands fremtid er i gang: pro-Putin versus anti-Putin. Rusland vil opruste og fordoble sit forsvarsbudget. Det lover Putin i præsidentvalgkampens slutspurt, nu hvor meningsmålinger spår ham en sikker sejr. Hvor farligt er det for Vesten? Hvilken rolle spiller intelligentsiaen i oppositionsbevægelsen i Rusland? Hvor begejstret er Dansk Industri og dansk erhvervsliv for udsigten til 6 år mere med Putin? Få også fjerde afsnit i portrætserien om præsidentkandidater: Sergej Mironov. Medvirkende: Mette Skak, lektor i international politik fra Aarhus Universitet, Anna Libak, litteraturredaktør på Weekendavisen, Peter Thagesen, afsætningspolitisk chef i Dansk Industri, Per Dalgård, Ruslandsmedarbejder Information. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106887/4585922-audio.mp3</guid>
+         <pubDate>Sat, 25 Feb 2012 14:23:32 +0000</pubDate>
+         <itunes:duration>00:56:13</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.02.25%20-%20Globus%20Rusland%20uge%208%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland uge 7, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183390/4538994-audio.mp3</link>
+         <description>Nedtællingen til præsidentvalget i Rusland er i gang. 15 dage er der tilbage. Men hvordan går med valgkampen? Og hvad med menneskerettighederne i Rusland? Står det lige så grelt til, som vestlige medier almindeligvis rapporterer? Få et portræt af den ultranationalistiske entertainer, præsidentkandidaten Vladimir Sjirinovskij og historien om, hvordan han berigede en dansk journalist med både parfume og vodka. Og mød den unge russer, manDEN, der trykkede på den rigtige knap på internettet og fik titusindvis af mennesker til at gå på gaden for at kræve demokrati i Rusland. Medvirkende: Johanna Melén, Sveriges Radios Moskva-korrespondent, Jørgen Staun, adjunkt ved Hærens Officersskole, Jacob Rosenkrands, journalist og tv-vært, Charlotte Flindt Pedersen, International direktør i Institut for Menneskerettigheder, Ilya Faybisovich, webkoordinator for oppositionsbevægelsen i Rusland. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183390/4538994-audio.mp3</guid>
+         <pubDate>Sat, 18 Feb 2012 14:05:11 +0000</pubDate>
+         <itunes:duration>00:54:49</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.02.18%20-%20Globus%20Rusland%20uge%207%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland uge 6, 2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183391/4500951-audio.mp3</link>
+         <description>Det meste af verden fordømmer Rusland, efter landet nedlagde veto i FN’s sikkerhedsråd mod en resolution for at standse blodbadet i Syrien. Men hvordan ser sagen ud fra Kremls synspunkt? Hvilke motiver driver Rusland i international politik anno 2012. Få også svar på spørgsmålet: Har den russiske præsident magt som en enevældig zar?  Og få et portræt af Gennedij Zjuganov, præsidentkandidaten for Ruslands Kommunistiske Parti. Rusland står isoleret, uden for de europæiske sikkerhedsstrukturer, men hvordan er forholdet til Nato? Medvirkende: Dmitrij Trenin, direktør i tænketanken Carnegie Center i Moskva, Karsten Jakob Møller, seniorforsker ved Dansk Institut for Internationale Studier, Ruslandsekspert Lars Poulsen-Hansen og freelancejournalist Sergei Serebriakov. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183391/4500951-audio.mp3</guid>
+         <pubDate>Sat, 11 Feb 2012 14:03:40 +0000</pubDate>
+         <itunes:duration>00:55:07</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.02.11%20-%20Globus%20Rusland%20uge%206%2C%202012.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183392/4465696-audio.mp3</link>
+         <description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183392/4465696-audio.mp3</guid>
+         <pubDate>Sat, 04 Feb 2012 14:03:57 +0000</pubDate>
+         <itunes:duration>00:55:07</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.02.04%20-%20Globus%20Rusland.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183393/4406615-audio.mp3</link>
+         <description>Det er det forkerte program vi præsenterer - men det er Globus Rusland du kan høre. Risikerer nationalisme at sprænge Den russiske Føderation? Det mener regeringschef Vladimir Putin. Men har han ret? For hvad er nationalisme for en størrelse i Rusland? I dagens program går vi bag om begrebet ”regionernes Rusland” og fortsætter føljetonen om russere i Danmark med et sovjetisk antisemitisk helvede, der blev til en solstrålehistorie i Danmark. Med : lektor Erik Kulavig fra Syddansk Universitet, Lars Poulsen-Hansen og violinist i DR’s Symfoniorkester Ludmila Spektor. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183393/4406615-audio.mp3</guid>
+         <pubDate>Sat, 28 Jan 2012 13:05:31 +0000</pubDate>
+         <itunes:duration>00:55:08</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.01.28%20-%20Globus%20Rusland.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183394/4370487-audio.mp3</link>
+         <description>Rusland perspektiveret - hver uge. Hvordan kan Vesten hjælpe med at sikre, at demokratiet i Rusland ikke bliver en dødssejler? Kom tæt på oppositionen i Rusland. Hør om Vestens finansiering af den og den ny Amerikanske ambassadør i Moskva. Medvirkende: Oppositionsleder Ilya Jasjin, Ruslandsansvarlig i Nordisk Ministerråd Ane Kofod Petersen, og seniorforsker ved tænketanken Carnegie Center i Moskva Lilia Shevtsova.  Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183394/4370487-audio.mp3</guid>
+         <pubDate>Sat, 21 Jan 2012 14:03:29 +0000</pubDate>
+         <itunes:duration>00:55:08</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.01.21%20-%20Globus%20Rusland.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183395/4319350-audio.mp3</link>
+         <description>Rusland perspektiveret - hver uge. Globus Rusland handler denne gang om forholdet mellem Rusland og Vesten, hvor den kolde krig spræller fra kisten. Rusland er mistroisk over for Vesten, og Vesten misforstår Rusland. Lurer en katastrofe lige om hjørnet? Med lektor Annika Hvithammer fra Syddansk Universitet, ph.d. Flemming Splidsboel fra Forsvarsakademiet, professor Markku Kivinen fra Helsinki Universitet og chef for Ruslandskontoret i EU’s fælles udenrigstjeneste, Gunnar Wiegand. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183395/4319350-audio.mp3</guid>
+         <pubDate>Sat, 14 Jan 2012 14:04:00 +0000</pubDate>
+         <itunes:duration>00:55:42</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.01.14%20-%20Globus%20Rusland.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183396/4282114-audio.mp3</link>
+         <description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183396/4282114-audio.mp3</guid>
+         <pubDate>Sat, 07 Jan 2012 14:03:41 +0000</pubDate>
+         <itunes:duration>00:55:23</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2012.01.07%20-%20Globus%20Rusland.mp3" />
+      </item>
+      <item>
+         <title>Globus 12.07 (1)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216634/4213054-audio.mp3</link>
+         <description>Rusland perspektiveret. Julespecial.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216634/4213054-audio.mp3</guid>
+         <pubDate>Tue, 27 Dec 2011 13:03:37 +0000</pubDate>
+         <itunes:duration>00:53:17</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2011.12.27%20-%20Globus%2012.07%20%281%29.mp3" />
+      </item>
+      <item>
+         <title>Globus 12.07 (1)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183398/4213054-audio.mp3</link>
+         <description>Rusland perspektiveret. Julespecial.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183398/4213054-audio.mp3</guid>
+         <pubDate>Tue, 27 Dec 2011 13:03:37 +0000</pubDate>
+         <itunes:duration>00:53:17</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2011.12.27%20-%20Globus%2013.05%20%282%29.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183399/4155680-audio.mp3</link>
+         <description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183399/4155680-audio.mp3</guid>
+         <pubDate>Sat, 17 Dec 2011 14:03:14 +0000</pubDate>
+         <itunes:duration>00:55:31</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2011.12.17%20-%20Globus%20Rusland.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183400/4114539-audio.mp3</link>
+         <description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183400/4114539-audio.mp3</guid>
+         <pubDate>Sat, 10 Dec 2011 14:03:31 +0000</pubDate>
+         <itunes:duration>00:55:17</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2011.12.10%20-%20Globus%20Rusland.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183401/4073586-audio.mp3</link>
+         <description>Rusland perspektiveret - hver uge. Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183401/4073586-audio.mp3</guid>
+         <pubDate>Sat, 03 Dec 2011 14:04:49 +0000</pubDate>
+         <itunes:duration>00:55:28</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2011.12.03%20-%20Globus%20Rusland.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183402/4023092-audio.mp3</link>
+         <description>Rusland perspektiveret - hver uge. Med Frederikke Ingemann</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183402/4023092-audio.mp3</guid>
+         <pubDate>Sat, 26 Nov 2011 14:03:51 +0000</pubDate>
+         <itunes:duration>00:55:16</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2011.11.26%20-%20Globus%20Rusland.mp3" />
+      </item>
+      <item>
+         <title>Globus Rusland - 12. november</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183403/3898548-audio.mp3</link>
+         <description>Vi præsenterer ganske vidst Globus USA, men det er Globus Rusland vi sender.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183403/3898548-audio.mp3</guid>
+         <pubDate>Sat, 12 Nov 2011 13:05:11 +0000</pubDate>
+         <itunes:duration>00:55:09</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2011.11.12%20-%20Globus%20Rusland%20-%2012.%20november.mp3" />
+      </item>
+      <item>
+         <title>1. program</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216635/3841852-audio.mp3</link>
+         <description />
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216635/3841852-audio.mp3</guid>
+         <pubDate>Sat, 05 Nov 2011 14:03:06 +0000</pubDate>
+         <itunes:duration>01:00:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2011.11.05%20-%201.%20program.mp3" />
+      </item>
+      <item>
+         <title>1. program</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/183405/3841852-audio.mp3</link>
+         <description />
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/183405/3841852-audio.mp3</guid>
+         <pubDate>Sat, 05 Nov 2011 14:03:06 +0000</pubDate>
+         <itunes:duration>01:00:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/globus_rusland_-_radio24syv/Globus%20Rusland%20%E2%80%93%20Radio24syv/2011.11.05%20-%20Globus%20Rusland%20-%201.%20Program.mp3" />
+      </item>
+   </channel>
 </rss>

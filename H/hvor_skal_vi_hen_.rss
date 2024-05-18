@@ -1,848 +1,362 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Hvor Skal Vi Hen?
-  </title>
-  <link>
-   https://www.spreaker.com/podcast/hvor-skal-vi-hen--5795665
-  </link>
-  <description>
-   Hver uge tager Aleksander Bruun ud for møde nye mennesker et sted der betyder noget ekstra for dem. Det er en samtale om drømme for fremtiden, men også et tilbageblik på det vi kom fra – for livet skal åbenbart forstås baglæns, men leves forlæns. Hvor mon vi skal hen?
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5795665/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Personal Journals
-  </category>
-  <copyright>
-   Copyright 24syv
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg
-   </url>
-   <title>
-    Hvor Skal Vi Hen?
-   </title>
-   <link>
-    https://www.spreaker.com/podcast/hvor-skal-vi-hen--5795665
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   24syv
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    24syv
-   </itunes:name>
-   <itunes:email>
-    podcast@24syv.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-  <itunes:subtitle>
-   Hver uge tager Aleksander Bruun ud for møde nye mennesker et sted der betyder noget ekstra for dem. Det er en samtale om drømme for fremtiden, men også et tilbageblik på det vi kom fra – for livet skal åbenbart forstås baglæns, men leves forlæns. Hvor...
-  </itunes:subtitle>
-  <itunes:summary>
-   Hver uge tager Aleksander Bruun ud for møde nye mennesker et sted der betyder noget ekstra for dem. Det er en samtale om drømme for fremtiden, men også et tilbageblik på det vi kom fra – for livet skal åbenbart forstås baglæns, men leves forlæns. Hvor mon vi skal hen?
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture">
-   <itunes:category text="Personal Journals"/>
-  </itunes:category>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Tais Holm
-   </title>
-   <link>
-    https://www.spreaker.com/episode/tais-holm--56923465
-   </link>
-   <description>
-    Tais Holm er et vaskeægte musikleksikon. Han deler ud af sin musikviden på kanalen 'De Sorte Plader' på YouTube, hvor han går i dybden på nye Hiphop udgivelse. Men ved siden af at være en kæmpe musiknørd, så læser han Jura på Københavns Universitet fordi han render rundt med en kæmpe refærdighedssans.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56923465
-   </guid>
-   <pubDate>
-    Wed, 27 Sep 2023 11:35:02 +0000
-   </pubDate>
-   <enclosure length="52067727" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56923465/20230915_hvor_skal_vi_hen_s1e32_t20_online_audio_converter_com.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Tais Holm er et vaskeægte musikleksikon. Han deler ud af sin musikviden på kanalen 'De Sorte Plader' på YouTube, hvor han går i dybden på nye Hiphop udgivelse. Men ved siden af at være en kæmpe musiknørd, så læser han Jura på Københavns Universitet...
-   </itunes:subtitle>
-   <itunes:summary>
-    Tais Holm er et vaskeægte musikleksikon. Han deler ud af sin musikviden på kanalen 'De Sorte Plader' på YouTube, hvor han går i dybden på nye Hiphop udgivelse. Men ved siden af at være en kæmpe musiknørd, så læser han Jura på Københavns Universitet fordi han render rundt med en kæmpe refærdighedssans.
-   </itunes:summary>
-   <itunes:duration>
-    3255
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Ju Kaia // Julie Moberg
-   </title>
-   <link>
-    https://www.spreaker.com/episode/ju-kaia-julie-moberg--56923384
-   </link>
-   <description>
-    Julie Moberg er hendes borgelige navn, men du kender hende helt sikkert som Ju Kaia. 'Hvor skal vi hen?', er taget til Månefiskeren på Christiania for at lære musikeren bedre at kende og snakke om hendes nye EP 'All of me but not even close.'
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56923384
-   </guid>
-   <pubDate>
-    Wed, 27 Sep 2023 05:25:01 +0000
-   </pubDate>
-   <enclosure length="52154244" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56923384/jukaiauploud_online_audio_converter_com.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Julie Moberg er hendes borgelige navn, men du kender hende helt sikkert som Ju Kaia. 'Hvor skal vi hen?', er taget til Månefiskeren på Christiania for at lære musikeren bedre at kende og snakke om hendes nye EP 'All of me but not even close.'
-   </itunes:subtitle>
-   <itunes:summary>
-    Julie Moberg er hendes borgelige navn, men du kender hende helt sikkert som Ju Kaia. 'Hvor skal vi hen?', er taget til Månefiskeren på Christiania for at lære musikeren bedre at kende og snakke om hendes nye EP 'All of me but not even close.'
-   </itunes:summary>
-   <itunes:duration>
-    3260
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Marcus Alvarado Eklund
-   </title>
-   <link>
-    https://www.spreaker.com/episode/marcus-alvarado-eklund--56923225
-   </link>
-   <description>
-    Hvem er Marcus Eklund? Det er der ikke mange der ved. Men for mig er han kollega, ven og charmør. Marcus startede som talent inde hos 24Syv og har derefter kæmpet sig op i branchen, som han selv vil sige det. Nu står han med 2 programmer og et tredje på vej. Når jo, så overvejer vi også at spise nogle svampe på vejen.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56923225
-   </guid>
-   <pubDate>
-    Tue, 26 Sep 2023 05:10:02 +0000
-   </pubDate>
-   <enclosure length="51684876" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56923225/20230908_hvor_skal_vi_hen_s1e30_t20_online_audio_converter_com.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Hvem er Marcus Eklund? Det er der ikke mange der ved. Men for mig er han kollega, ven og charmør. Marcus startede som talent inde hos 24Syv og har derefter kæmpet sig op i branchen, som han selv vil sige det. Nu står han med 2 programmer og et tredje...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvem er Marcus Eklund? Det er der ikke mange der ved. Men for mig er han kollega, ven og charmør. Marcus startede som talent inde hos 24Syv og har derefter kæmpet sig op i branchen, som han selv vil sige det. Nu står han med 2 programmer og et tredje på vej. Når jo, så overvejer vi også at spise nogle svampe på vejen.
-   </itunes:summary>
-   <itunes:duration>
-    3231
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Jonas Johansson
-   </title>
-   <link>
-    https://www.spreaker.com/episode/jonas-johansson--56923204
-   </link>
-   <description>
-    I denne episode er vi taget til toppen af Nordvest, for at mødes med musikeren Jonas Johannson. Efter en periode i bandet 'To Absent Friends', står han nu på egne ben og skal finde sig selv som solist. Så bliver der også lige tid til et stykke smørrebrød.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56923204
-   </guid>
-   <pubDate>
-    Mon, 25 Sep 2023 11:05:01 +0000
-   </pubDate>
-   <enclosure length="51679443" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56923204/jonas_uploud_1_online_audio_converter_com.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I denne episode er vi taget til toppen af Nordvest, for at mødes med musikeren Jonas Johannson. Efter en periode i bandet 'To Absent Friends', står han nu på egne ben og skal finde sig selv som solist. Så bliver der også lige tid til et stykke smørrebrød.
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne episode er vi taget til toppen af Nordvest, for at mødes med musikeren Jonas Johannson. Efter en periode i bandet 'To Absent Friends', står han nu på egne ben og skal finde sig selv som solist. Så bliver der også lige tid til et stykke smørrebrød.
-   </itunes:summary>
-   <itunes:duration>
-    3230
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Petar Djukic
-   </title>
-   <link>
-    https://www.spreaker.com/episode/petar-djukic--56923262
-   </link>
-   <description>
-    I denne episode af 'Hvor skal vi hen?' er vi gået i ly under træerne med Petar Djukic og "en udemærket iskaffe". Petar er studerende på DMJX, YouTuber, iværksætte, podcaster og mester i at springe ud i nye ting.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56923262
-   </guid>
-   <pubDate>
-    Mon, 25 Sep 2023 10:16:56 +0000
-   </pubDate>
-   <enclosure length="51914754" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56923262/20230728_hvor_skal_vi_hen_s1e26_t20_online_audio_converter_com.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I denne episode af 'Hvor skal vi hen?' er vi gået i ly under træerne med Petar Djukic og "en udemærket iskaffe". Petar er studerende på DMJX, YouTuber, iværksætte, podcaster og mester i at springe ud i nye ting.
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne episode af 'Hvor skal vi hen?' er vi gået i ly under træerne med Petar Djukic og "en udemærket iskaffe". Petar er studerende på DMJX, YouTuber, iværksætte, podcaster og mester i at springe ud i nye ting.
-   </itunes:summary>
-   <itunes:duration>
-    3245
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Anton Hald: "Hele min verden væltede fuldstændig. Et kontinuerligt helvede i et halvt år"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/anton-hald-hele-min-verden-vaeltede-fuldstaendig-et-kontinuerligt-helvede-i-et-halvt-ar--56000750
-   </link>
-   <description>
-    Anton Hald er åndedrætsterapeut og coacher blandt andet i, hvordan vi kan bruge åndedrættet til at arbejde med vores mentale helbred. Før var Anton DJ og promoter og levede et betydeligt anderledes liv. Men livet ville Anton det anderledes, og her oplever han sit livs første store krise. Han fandt ud af, hvordan træning med åndedrættet hjalp på hans mentale helbred.&lt;br /&gt;&lt;br /&gt;Aleksander Bruun er taget til Ofelia Plads for at mødes med Anton til en snak om det bevidste åndedræt, en alternativ livsstil og om at arbejde med sit mentale helbred. - Og så er der også en lille vejrtrækningsøvelse til sidst. God fornøjelse!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56000750
-   </guid>
-   <pubDate>
-    Wed, 05 Jul 2023 10:08:35 +0000
-   </pubDate>
-   <enclosure length="52149518" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56000750/hvorskalvihen_anton_online_audio_converter_com.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Anton Hald er åndedrætsterapeut og coacher blandt andet i, hvordan vi kan bruge åndedrættet til at arbejde med vores mentale helbred. Før var Anton DJ og promoter og levede et betydeligt anderledes liv. Men livet ville Anton det anderledes, og her...
-   </itunes:subtitle>
-   <itunes:summary>
-    Anton Hald er åndedrætsterapeut og coacher blandt andet i, hvordan vi kan bruge åndedrættet til at arbejde med vores mentale helbred. Før var Anton DJ og promoter og levede et betydeligt anderledes liv. Men livet ville Anton det anderledes, og her oplever han sit livs første store krise. Han fandt ud af, hvordan træning med åndedrættet hjalp på hans mentale helbred.&lt;br /&gt;&lt;br /&gt;Aleksander Bruun er taget til Ofelia Plads for at mødes med Anton til en snak om det bevidste åndedræt, en alternativ livsstil og om at arbejde med sit mentale helbred. - Og så er der også en lille vejrtrækningsøvelse til sidst. God fornøjelse!
-   </itunes:summary>
-   <itunes:duration>
-    3260
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    August Høyen: "Jeg har totalt følehornene ude hele tiden"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/august-hoyen-jeg-har-totalt-folehornene-ude-hele-tiden--54652918
-   </link>
-   <description>
-    August Høyen er en af de varmeste upcoming artister, vi har i Danmark lige nu. Han har lige landet  Store Vega, han har spillet på Roskilde Festival og hans debut-EP 'Det hele handler om dig' bliver rost til skyerne. Men hvordan har han det egentlig?&lt;br /&gt;&lt;br /&gt;Aleksander Bruun er taget til Nordvest, hvor August er født og opvokset, for at tale om at være super sensitiv, en karriere i fuld fart og om at bevare begge fødder på jorden. Plus så er der også lige en drøm om at blive bedste venner med Christopher.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54652918
-   </guid>
-   <pubDate>
-    Wed, 21 Jun 2023 22:02:06 +0000
-   </pubDate>
-   <enclosure length="59282538" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54652918/augustpodcast.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    August Høyen er en af de varmeste upcoming artister, vi har i Danmark lige nu. Han har lige landet  Store Vega, han har spillet på Roskilde Festival og hans debut-EP 'Det hele handler om dig' bliver rost til skyerne. Men hvordan har han det egentlig?...
-   </itunes:subtitle>
-   <itunes:summary>
-    August Høyen er en af de varmeste upcoming artister, vi har i Danmark lige nu. Han har lige landet  Store Vega, han har spillet på Roskilde Festival og hans debut-EP 'Det hele handler om dig' bliver rost til skyerne. Men hvordan har han det egentlig?&lt;br /&gt;&lt;br /&gt;Aleksander Bruun er taget til Nordvest, hvor August er født og opvokset, for at tale om at være super sensitiv, en karriere i fuld fart og om at bevare begge fødder på jorden. Plus så er der også lige en drøm om at blive bedste venner med Christopher.
-   </itunes:summary>
-   <itunes:duration>
-    3706
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Den danske hiphop-scene
-   </title>
-   <link>
-    https://www.spreaker.com/episode/den-danske-hiphop-scene--54652082
-   </link>
-   <description>
-    Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Tais Holm: Musikanmelder på De Sorte Plader&lt;br /&gt;Anton Nørbæk: Musikanmelder, alias Badboitonton&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun&lt;br /&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54652082
-   </guid>
-   <pubDate>
-    Wed, 21 Jun 2023 19:44:29 +0000
-   </pubDate>
-   <enclosure length="103349647" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54652082/danskrap.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Hvor Skal Vi Hen?</title>
+      <link>https://www.spreaker.com/podcast/hvor-skal-vi-hen--5795665</link>
+      <description>Hver uge tager Aleksander Bruun ud for møde nye mennesker et sted der betyder noget ekstra for dem. Det er en samtale om drømme for fremtiden, men også et tilbageblik på det vi kom fra – for livet skal åbenbart forstås baglæns, men leves forlæns. Hvor mon vi skal hen?</description>
+      <atom:link href="https://www.spreaker.com/show/5795665/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Personal Journals</category>
+      <copyright>Copyright 24syv</copyright>
+      <image>
+         <url>https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/c93e0cc5eb845446bdb462fc7b71b4eb.jpg</url>
+         <title>Hvor Skal Vi Hen?</title>
+         <link>https://www.spreaker.com/podcast/hvor-skal-vi-hen--5795665</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>24syv</itunes:author>
+      <itunes:owner>
+         <itunes:name>24syv</itunes:name>
+         <itunes:email>podcast@24syv.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+      <itunes:subtitle>Hver uge tager Aleksander Bruun ud for møde nye mennesker et sted der betyder noget ekstra for dem. Det er en samtale om drømme for fremtiden, men også et tilbageblik på det vi kom fra – for livet skal åbenbart forstås baglæns, men leves forlæns. Hvor...</itunes:subtitle>
+      <itunes:summary>Hver uge tager Aleksander Bruun ud for møde nye mennesker et sted der betyder noget ekstra for dem. Det er en samtale om drømme for fremtiden, men også et tilbageblik på det vi kom fra – for livet skal åbenbart forstås baglæns, men leves forlæns. Hvor mon vi skal hen?</itunes:summary>
+      <itunes:category text="Society &amp; Culture">
+         <itunes:category text="Personal Journals" />
+      </itunes:category>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Tais Holm</title>
+         <link>https://www.spreaker.com/episode/tais-holm--56923465</link>
+         <description>Tais Holm er et vaskeægte musikleksikon. Han deler ud af sin musikviden på kanalen 'De Sorte Plader' på YouTube, hvor han går i dybden på nye Hiphop udgivelse. Men ved siden af at være en kæmpe musiknørd, så læser han Jura på Københavns Universitet fordi han render rundt med en kæmpe refærdighedssans.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56923465</guid>
+         <pubDate>Wed, 27 Sep 2023 11:35:02 +0000</pubDate>
+         <enclosure length="52067727" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.09.27%20-%20Tais%20Holm.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Tais Holm er et vaskeægte musikleksikon. Han deler ud af sin musikviden på kanalen 'De Sorte Plader' på YouTube, hvor han går i dybden på nye Hiphop udgivelse. Men ved siden af at være en kæmpe musiknørd, så læser han Jura på Københavns Universitet...</itunes:subtitle>
+         <itunes:summary>Tais Holm er et vaskeægte musikleksikon. Han deler ud af sin musikviden på kanalen 'De Sorte Plader' på YouTube, hvor han går i dybden på nye Hiphop udgivelse. Men ved siden af at være en kæmpe musiknørd, så læser han Jura på Københavns Universitet fordi han render rundt med en kæmpe refærdighedssans.</itunes:summary>
+         <itunes:duration>3255</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Ju Kaia // Julie Moberg</title>
+         <link>https://www.spreaker.com/episode/ju-kaia-julie-moberg--56923384</link>
+         <description>Julie Moberg er hendes borgelige navn, men du kender hende helt sikkert som Ju Kaia. 'Hvor skal vi hen?', er taget til Månefiskeren på Christiania for at lære musikeren bedre at kende og snakke om hendes nye EP 'All of me but not even close.'</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56923384</guid>
+         <pubDate>Wed, 27 Sep 2023 05:25:01 +0000</pubDate>
+         <enclosure length="52154244" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.09.27%20-%20Ju%20Kaia%20.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Julie Moberg er hendes borgelige navn, men du kender hende helt sikkert som Ju Kaia. 'Hvor skal vi hen?', er taget til Månefiskeren på Christiania for at lære musikeren bedre at kende og snakke om hendes nye EP 'All of me but not even close.'</itunes:subtitle>
+         <itunes:summary>Julie Moberg er hendes borgelige navn, men du kender hende helt sikkert som Ju Kaia. 'Hvor skal vi hen?', er taget til Månefiskeren på Christiania for at lære musikeren bedre at kende og snakke om hendes nye EP 'All of me but not even close.'</itunes:summary>
+         <itunes:duration>3260</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Marcus Alvarado Eklund</title>
+         <link>https://www.spreaker.com/episode/marcus-alvarado-eklund--56923225</link>
+         <description>Hvem er Marcus Eklund? Det er der ikke mange der ved. Men for mig er han kollega, ven og charmør. Marcus startede som talent inde hos 24Syv og har derefter kæmpet sig op i branchen, som han selv vil sige det. Nu står han med 2 programmer og et tredje på vej. Når jo, så overvejer vi også at spise nogle svampe på vejen.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56923225</guid>
+         <pubDate>Tue, 26 Sep 2023 05:10:02 +0000</pubDate>
+         <enclosure length="51684876" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.09.26%20-%20Marcus%20Alvarado%20Eklund.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Hvem er Marcus Eklund? Det er der ikke mange der ved. Men for mig er han kollega, ven og charmør. Marcus startede som talent inde hos 24Syv og har derefter kæmpet sig op i branchen, som han selv vil sige det. Nu står han med 2 programmer og et tredje...</itunes:subtitle>
+         <itunes:summary>Hvem er Marcus Eklund? Det er der ikke mange der ved. Men for mig er han kollega, ven og charmør. Marcus startede som talent inde hos 24Syv og har derefter kæmpet sig op i branchen, som han selv vil sige det. Nu står han med 2 programmer og et tredje på vej. Når jo, så overvejer vi også at spise nogle svampe på vejen.</itunes:summary>
+         <itunes:duration>3231</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Jonas Johansson</title>
+         <link>https://www.spreaker.com/episode/jonas-johansson--56923204</link>
+         <description>I denne episode er vi taget til toppen af Nordvest, for at mødes med musikeren Jonas Johannson. Efter en periode i bandet 'To Absent Friends', står han nu på egne ben og skal finde sig selv som solist. Så bliver der også lige tid til et stykke smørrebrød.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56923204</guid>
+         <pubDate>Mon, 25 Sep 2023 11:05:01 +0000</pubDate>
+         <enclosure length="51679443" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.09.25%20-%20Petar%20Djukic.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I denne episode er vi taget til toppen af Nordvest, for at mødes med musikeren Jonas Johannson. Efter en periode i bandet 'To Absent Friends', står han nu på egne ben og skal finde sig selv som solist. Så bliver der også lige tid til et stykke smørrebrød.</itunes:subtitle>
+         <itunes:summary>I denne episode er vi taget til toppen af Nordvest, for at mødes med musikeren Jonas Johannson. Efter en periode i bandet 'To Absent Friends', står han nu på egne ben og skal finde sig selv som solist. Så bliver der også lige tid til et stykke smørrebrød.</itunes:summary>
+         <itunes:duration>3230</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Petar Djukic</title>
+         <link>https://www.spreaker.com/episode/petar-djukic--56923262</link>
+         <description>I denne episode af 'Hvor skal vi hen?' er vi gået i ly under træerne med Petar Djukic og "en udemærket iskaffe". Petar er studerende på DMJX, YouTuber, iværksætte, podcaster og mester i at springe ud i nye ting.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56923262</guid>
+         <pubDate>Mon, 25 Sep 2023 10:16:56 +0000</pubDate>
+         <enclosure length="51914754" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.09.25%20-%20Jonas%20Johansson.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I denne episode af 'Hvor skal vi hen?' er vi gået i ly under træerne med Petar Djukic og "en udemærket iskaffe". Petar er studerende på DMJX, YouTuber, iværksætte, podcaster og mester i at springe ud i nye ting.</itunes:subtitle>
+         <itunes:summary>I denne episode af 'Hvor skal vi hen?' er vi gået i ly under træerne med Petar Djukic og "en udemærket iskaffe". Petar er studerende på DMJX, YouTuber, iværksætte, podcaster og mester i at springe ud i nye ting.</itunes:summary>
+         <itunes:duration>3245</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Anton Hald: "Hele min verden væltede fuldstændig. Et kontinuerligt helvede i et halvt år"</title>
+         <link>https://www.spreaker.com/episode/anton-hald-hele-min-verden-vaeltede-fuldstaendig-et-kontinuerligt-helvede-i-et-halvt-ar--56000750</link>
+         <description>Anton Hald er åndedrætsterapeut og coacher blandt andet i, hvordan vi kan bruge åndedrættet til at arbejde med vores mentale helbred. Før var Anton DJ og promoter og levede et betydeligt anderledes liv. Men livet ville Anton det anderledes, og her oplever han sit livs første store krise. Han fandt ud af, hvordan træning med åndedrættet hjalp på hans mentale helbred.&lt;br /&gt;&lt;br /&gt;Aleksander Bruun er taget til Ofelia Plads for at mødes med Anton til en snak om det bevidste åndedræt, en alternativ livsstil og om at arbejde med sit mentale helbred. - Og så er der også en lille vejrtrækningsøvelse til sidst. God fornøjelse!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56000750</guid>
+         <pubDate>Wed, 05 Jul 2023 10:08:35 +0000</pubDate>
+         <enclosure length="52149518" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.07.05%20-%20Anton%20Hald.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Anton Hald er åndedrætsterapeut og coacher blandt andet i, hvordan vi kan bruge åndedrættet til at arbejde med vores mentale helbred. Før var Anton DJ og promoter og levede et betydeligt anderledes liv. Men livet ville Anton det anderledes, og her...</itunes:subtitle>
+         <itunes:summary>Anton Hald er åndedrætsterapeut og coacher blandt andet i, hvordan vi kan bruge åndedrættet til at arbejde med vores mentale helbred. Før var Anton DJ og promoter og levede et betydeligt anderledes liv. Men livet ville Anton det anderledes, og her oplever han sit livs første store krise. Han fandt ud af, hvordan træning med åndedrættet hjalp på hans mentale helbred.&lt;br /&gt;&lt;br /&gt;Aleksander Bruun er taget til Ofelia Plads for at mødes med Anton til en snak om det bevidste åndedræt, en alternativ livsstil og om at arbejde med sit mentale helbred. - Og så er der også en lille vejrtrækningsøvelse til sidst. God fornøjelse!</itunes:summary>
+         <itunes:duration>3260</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>August Høyen: "Jeg har totalt følehornene ude hele tiden"</title>
+         <link>https://www.spreaker.com/episode/august-hoyen-jeg-har-totalt-folehornene-ude-hele-tiden--54652918</link>
+         <description>August Høyen er en af de varmeste upcoming artister, vi har i Danmark lige nu. Han har lige landet  Store Vega, han har spillet på Roskilde Festival og hans debut-EP 'Det hele handler om dig' bliver rost til skyerne. Men hvordan har han det egentlig?&lt;br /&gt;&lt;br /&gt;Aleksander Bruun er taget til Nordvest, hvor August er født og opvokset, for at tale om at være super sensitiv, en karriere i fuld fart og om at bevare begge fødder på jorden. Plus så er der også lige en drøm om at blive bedste venner med Christopher.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54652918</guid>
+         <pubDate>Wed, 21 Jun 2023 22:02:06 +0000</pubDate>
+         <enclosure length="59282538" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.06.21%20-%20Den%20danske%20hiphop-scene.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>August Høyen er en af de varmeste upcoming artister, vi har i Danmark lige nu. Han har lige landet  Store Vega, han har spillet på Roskilde Festival og hans debut-EP 'Det hele handler om dig' bliver rost til skyerne. Men hvordan har han det egentlig?...</itunes:subtitle>
+         <itunes:summary>August Høyen er en af de varmeste upcoming artister, vi har i Danmark lige nu. Han har lige landet  Store Vega, han har spillet på Roskilde Festival og hans debut-EP 'Det hele handler om dig' bliver rost til skyerne. Men hvordan har han det egentlig?&lt;br /&gt;&lt;br /&gt;Aleksander Bruun er taget til Nordvest, hvor August er født og opvokset, for at tale om at være super sensitiv, en karriere i fuld fart og om at bevare begge fødder på jorden. Plus så er der også lige en drøm om at blive bedste venner med Christopher.</itunes:summary>
+         <itunes:duration>3706</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Den danske hiphop-scene</title>
+         <link>https://www.spreaker.com/episode/den-danske-hiphop-scene--54652082</link>
+         <description>Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Tais Holm: Musikanmelder på De Sorte Plader&lt;br /&gt;Anton Nørbæk: Musikanmelder, alias Badboitonton&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun&lt;br /&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54652082</guid>
+         <pubDate>Wed, 21 Jun 2023 19:44:29 +0000</pubDate>
+         <enclosure length="103349647" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.06.21%20-%20August%20H%C3%B8yen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.
 
 Gæster:
 Tais Holm: Musikanmelder på De Sorte Plader
 Anton Nørbæk: Musikanmelder, alias Badboitonton
 
-Vært: Aleksander Bruun
-   </itunes:subtitle>
-   <itunes:summary>
-    Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Tais Holm: Musikanmelder på De Sorte Plader&lt;br /&gt;Anton Nørbæk: Musikanmelder, alias Badboitonton&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun&lt;br /&gt;
-   </itunes:summary>
-   <itunes:duration>
-    6460
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Roskilde Festival, hvad skal vi høre?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/roskilde-festival-hvad-skal-vi-hore--54522656
-   </link>
-   <description>
-    Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;- Björk Brandt Aabling: Anmelder på Bands of Tomorrow og skribent på Sein Magasin&lt;br /&gt;- Nicoline Ulrichs Olsen: Radiovært The Voice, uddannet i Musikvidenskab med speciale i Christine and the queens og frivillig ved HUN SOLO&lt;br /&gt;- Teis Zacho: Radiovært på programmet Ørehænger, producer og sangsskriver&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun&lt;br /&gt;&lt;br /&gt;**Dette er en liveudsendelse fra søndag d. 18 juni, 11-14**
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54522656
-   </guid>
-   <pubDate>
-    Mon, 19 Jun 2023 14:46:43 +0000
-   </pubDate>
-   <enclosure length="144953127" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54522656/roskilde_special.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.
+Vært: Aleksander Bruun</itunes:subtitle>
+         <itunes:summary>Denne episode er dedikeret til nørderi om den danske hiphop-scene. Det er om den etablerede del, men også alt det vi har i vente.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Tais Holm: Musikanmelder på De Sorte Plader&lt;br /&gt;Anton Nørbæk: Musikanmelder, alias Badboitonton&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun&lt;br /&gt;</itunes:summary>
+         <itunes:duration>6460</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Roskilde Festival, hvad skal vi høre?</title>
+         <link>https://www.spreaker.com/episode/roskilde-festival-hvad-skal-vi-hore--54522656</link>
+         <description>Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;- Björk Brandt Aabling: Anmelder på Bands of Tomorrow og skribent på Sein Magasin&lt;br /&gt;- Nicoline Ulrichs Olsen: Radiovært The Voice, uddannet i Musikvidenskab med speciale i Christine and the queens og frivillig ved HUN SOLO&lt;br /&gt;- Teis Zacho: Radiovært på programmet Ørehænger, producer og sangsskriver&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun&lt;br /&gt;&lt;br /&gt;**Dette er en liveudsendelse fra søndag d. 18 juni, 11-14**</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54522656</guid>
+         <pubDate>Mon, 19 Jun 2023 14:46:43 +0000</pubDate>
+         <enclosure length="144953127" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.06.19%20-%20Roskilde%20Festival%2C%20hvad%20skal%20vi%20h%C3%B8re.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.
 
-Gæster:...
-   </itunes:subtitle>
-   <itunes:summary>
-    Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;- Björk Brandt Aabling: Anmelder på Bands of Tomorrow og skribent på Sein Magasin&lt;br /&gt;- Nicoline Ulrichs Olsen: Radiovært The Voice, uddannet i Musikvidenskab med speciale i Christine and the queens og frivillig ved HUN SOLO&lt;br /&gt;- Teis Zacho: Radiovært på programmet Ørehænger, producer og sangsskriver&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun&lt;br /&gt;&lt;br /&gt;**Dette er en liveudsendelse fra søndag d. 18 juni, 11-14**
-   </itunes:summary>
-   <itunes:duration>
-    9060
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Sofie Lippert: "De syntes åbenbart, jeg var for ung til at mene noget"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/sofie-lippert-de-syntes-abenbart-jeg-var-for-ung-til-at-mene-noget--54390797
-   </link>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54390797
-   </guid>
-   <pubDate>
-    Thu, 15 Jun 2023 06:15:01 +0000
-   </pubDate>
-   <enclosure length="52155080" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54390797/sofielippert_online_audio_converter_com.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:duration>
-    3260
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Fænomenet Harry Styles (Liveudsendelse d. 27 maj)
-   </title>
-   <link>
-    https://www.spreaker.com/episode/faenomenet-harry-styles-liveudsendelse-d-27-maj--54300521
-   </link>
-   <description>
-    I denne episode hylder og nørder vi fænomenet Harry Styles. For hvordan blomstrede Harry Styles fra One Direction til at være det ikon han er i dag?&lt;br /&gt;&lt;br /&gt;Lyt med, når vi folder hans karriere ud fra begyndelsen og nørder hvordan Harry Styles er blevet alt det han er i dag. Vi gennemgår de tre soloplader, men også alt det udenom musikken. Harry Styles havde lige været i Danmark med sin Love On Tour og armene var stadig ikke kommet helt ned endnu - så ja, dette endte med at blive en vaskeægte fan-episode.&lt;br /&gt;&lt;br /&gt;Velkommen til en dag i Harry Styles' tegn.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Radiovært Karoline Haubek &lt;br /&gt;Radiovært Anne Lund&lt;br /&gt;&lt;br /&gt;**Dette er en liveudsendelse fra lørdag d. 27 maj**
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/54300521
-   </guid>
-   <pubDate>
-    Mon, 12 Jun 2023 15:43:46 +0000
-   </pubDate>
-   <enclosure length="102853529" type="audio/mpeg" url="https://api.spreaker.com/download/episode/54300521/harry_styles_i_fokus.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I denne episode hylder og nørder vi fænomenet Harry Styles. For hvordan blomstrede Harry Styles fra One Direction til at være det ikon han er i dag?
+Gæster:...</itunes:subtitle>
+         <itunes:summary>Har du ikke helt styr på programmet på årets Roskilde Festival endnu og har du ikke fundet alle de kunstnere du bare SKAL høre - så bare rolig, vi har fundet overstregningstuschen frem og markerer alt det vi mener du bare ikke må gå glip af.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;- Björk Brandt Aabling: Anmelder på Bands of Tomorrow og skribent på Sein Magasin&lt;br /&gt;- Nicoline Ulrichs Olsen: Radiovært The Voice, uddannet i Musikvidenskab med speciale i Christine and the queens og frivillig ved HUN SOLO&lt;br /&gt;- Teis Zacho: Radiovært på programmet Ørehænger, producer og sangsskriver&lt;br /&gt;&lt;br /&gt;Vært: Aleksander Bruun&lt;br /&gt;&lt;br /&gt;**Dette er en liveudsendelse fra søndag d. 18 juni, 11-14**</itunes:summary>
+         <itunes:duration>9060</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Sofie Lippert: "De syntes åbenbart, jeg var for ung til at mene noget"</title>
+         <link>https://www.spreaker.com/episode/sofie-lippert-de-syntes-abenbart-jeg-var-for-ung-til-at-mene-noget--54390797</link>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54390797</guid>
+         <pubDate>Thu, 15 Jun 2023 06:15:01 +0000</pubDate>
+         <enclosure length="52155080" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.06.15%20-%20Sofie%20Lippert.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:duration>3260</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Fænomenet Harry Styles (Liveudsendelse d. 27 maj)</title>
+         <link>https://www.spreaker.com/episode/faenomenet-harry-styles-liveudsendelse-d-27-maj--54300521</link>
+         <description>I denne episode hylder og nørder vi fænomenet Harry Styles. For hvordan blomstrede Harry Styles fra One Direction til at være det ikon han er i dag?&lt;br /&gt;&lt;br /&gt;Lyt med, når vi folder hans karriere ud fra begyndelsen og nørder hvordan Harry Styles er blevet alt det han er i dag. Vi gennemgår de tre soloplader, men også alt det udenom musikken. Harry Styles havde lige været i Danmark med sin Love On Tour og armene var stadig ikke kommet helt ned endnu - så ja, dette endte med at blive en vaskeægte fan-episode.&lt;br /&gt;&lt;br /&gt;Velkommen til en dag i Harry Styles' tegn.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Radiovært Karoline Haubek &lt;br /&gt;Radiovært Anne Lund&lt;br /&gt;&lt;br /&gt;**Dette er en liveudsendelse fra lørdag d. 27 maj**</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/54300521</guid>
+         <pubDate>Mon, 12 Jun 2023 15:43:46 +0000</pubDate>
+         <enclosure length="102853529" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.06.12%20-%20F%C3%A6nomenet%20Harry%20Styles%20%28Liveudsendelse%20d.%2027%20maj%29.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I denne episode hylder og nørder vi fænomenet Harry Styles. For hvordan blomstrede Harry Styles fra One Direction til at være det ikon han er i dag?
 
-Lyt med, når vi folder hans karriere ud fra begyndelsen og nørder hvordan Harry Styles er blevet alt...
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne episode hylder og nørder vi fænomenet Harry Styles. For hvordan blomstrede Harry Styles fra One Direction til at være det ikon han er i dag?&lt;br /&gt;&lt;br /&gt;Lyt med, når vi folder hans karriere ud fra begyndelsen og nørder hvordan Harry Styles er blevet alt det han er i dag. Vi gennemgår de tre soloplader, men også alt det udenom musikken. Harry Styles havde lige været i Danmark med sin Love On Tour og armene var stadig ikke kommet helt ned endnu - så ja, dette endte med at blive en vaskeægte fan-episode.&lt;br /&gt;&lt;br /&gt;Velkommen til en dag i Harry Styles' tegn.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Radiovært Karoline Haubek &lt;br /&gt;Radiovært Anne Lund&lt;br /&gt;&lt;br /&gt;**Dette er en liveudsendelse fra lørdag d. 27 maj**
-   </itunes:summary>
-   <itunes:duration>
-    6429
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Ukendt Kunstner er tilbage (Liveudsendelse d. 13. maj)
-   </title>
-   <link>
-    https://www.spreaker.com/episode/ukendt-kunstner-er-tilbage-liveudsendelse-d-13-maj--53996942
-   </link>
-   <description>
-    Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.&lt;br /&gt;&lt;br /&gt;Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i dybden på bandet der har lagt hele Danmark ned 2 gange.&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;i&gt;**Dette er en liveudsendelse fra lørdag d. 13 maj**&lt;/i&gt;&lt;br /&gt;Du kan hver lørdag lytte med på 24syv, hvor Aleksander Bruun har et band/kunstner i fokus fra 11-13.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;God fornøjelse
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/53996942
-   </guid>
-   <pubDate>
-    Thu, 25 May 2023 15:06:55 +0000
-   </pubDate>
-   <enclosure length="98872886" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53996942/ukendt_kunstner.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.
+Lyt med, når vi folder hans karriere ud fra begyndelsen og nørder hvordan Harry Styles er blevet alt...</itunes:subtitle>
+         <itunes:summary>I denne episode hylder og nørder vi fænomenet Harry Styles. For hvordan blomstrede Harry Styles fra One Direction til at være det ikon han er i dag?&lt;br /&gt;&lt;br /&gt;Lyt med, når vi folder hans karriere ud fra begyndelsen og nørder hvordan Harry Styles er blevet alt det han er i dag. Vi gennemgår de tre soloplader, men også alt det udenom musikken. Harry Styles havde lige været i Danmark med sin Love On Tour og armene var stadig ikke kommet helt ned endnu - så ja, dette endte med at blive en vaskeægte fan-episode.&lt;br /&gt;&lt;br /&gt;Velkommen til en dag i Harry Styles' tegn.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Radiovært Karoline Haubek &lt;br /&gt;Radiovært Anne Lund&lt;br /&gt;&lt;br /&gt;**Dette er en liveudsendelse fra lørdag d. 27 maj**</itunes:summary>
+         <itunes:duration>6429</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Ukendt Kunstner er tilbage (Liveudsendelse d. 13. maj)</title>
+         <link>https://www.spreaker.com/episode/ukendt-kunstner-er-tilbage-liveudsendelse-d-13-maj--53996942</link>
+         <description>Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.&lt;br /&gt;&lt;br /&gt;Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i dybden på bandet der har lagt hele Danmark ned 2 gange.&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;i&gt;**Dette er en liveudsendelse fra lørdag d. 13 maj**&lt;/i&gt;&lt;br /&gt;Du kan hver lørdag lytte med på 24syv, hvor Aleksander Bruun har et band/kunstner i fokus fra 11-13.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;God fornøjelse</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/53996942</guid>
+         <pubDate>Thu, 25 May 2023 15:06:55 +0000</pubDate>
+         <enclosure length="98872886" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.05.25%20-%20Ukendt%20Kunstner%20er%20tilbage%20%28Liveudsendelse%20d.%2013.%20maj%29.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.
 
-Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.&lt;br /&gt;&lt;br /&gt;Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i dybden på bandet der har lagt hele Danmark ned 2 gange.&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;i&gt;**Dette er en liveudsendelse fra lørdag d. 13 maj**&lt;/i&gt;&lt;br /&gt;Du kan hver lørdag lytte med på 24syv, hvor Aleksander Bruun har et band/kunstner i fokus fra 11-13.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;God fornøjelse
-   </itunes:summary>
-   <itunes:duration>
-    6180
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Jonas Bøgedal: "Hvad skulle livet ellers være udover at gå efter at blive succesfuld" ft. Anton Nørbæk
-   </title>
-   <link>
-    https://www.spreaker.com/episode/jonas-bogedal-hvad-skulle-livet-ellers-vaere-udover-at-ga-efter-at-blive-succesfuld-ft-anton-norbaek--53888857
-   </link>
-   <description>
-    Dette er en lidt anderledes udgave af 'Hvor skal vi hen?' - For Aleksander har i dag taget Anton Nørbæk med som gæstevært, og Anton har taget en overraskelse med. &lt;br /&gt;&lt;br /&gt;Overraskelsen er Jonas Bøgedal, som er en vaskeægte iværksætter og content creator. Han har 15 års erfaring i videoproduktionenbranchen - og det er ikke så lidt når man er 25 år gammel. Han har bl.a. lavet YouTube-sentationen OddMoles, arbejdet for nogen af de største youtubere i Danmark og skabt sit eget produktionsselskab Ejour.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/53888857
-   </guid>
-   <pubDate>
-    Wed, 17 May 2023 05:05:01 +0000
-   </pubDate>
-   <enclosure length="51607136" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53888857/jonas_og_anton_uploud_online_audio_converter_com.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dette er en lidt anderledes udgave af 'Hvor skal vi hen?' - For Aleksander har i dag taget Anton Nørbæk med som gæstevært, og Anton har taget en overraskelse med. 
+Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i...</itunes:subtitle>
+         <itunes:summary>Ukendt Kunstner har lavet et vaskeægte comeback. Med Dansktop albummet, Roskilde Festival og 2 arenakoncerter er Jens Ole Mccoy og Hans Phillp tilbage sammen.&lt;br /&gt;&lt;br /&gt;Din vært Aleksander Bruun går sammen med de to musikanmeldere Tais Holm og Anton Nørbæk i dybden på bandet der har lagt hele Danmark ned 2 gange.&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;i&gt;**Dette er en liveudsendelse fra lørdag d. 13 maj**&lt;/i&gt;&lt;br /&gt;Du kan hver lørdag lytte med på 24syv, hvor Aleksander Bruun har et band/kunstner i fokus fra 11-13.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;God fornøjelse</itunes:summary>
+         <itunes:duration>6180</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Jonas Bøgedal: "Hvad skulle livet ellers være udover at gå efter at blive succesfuld" ft. Anton Nørbæk</title>
+         <link>https://www.spreaker.com/episode/jonas-bogedal-hvad-skulle-livet-ellers-vaere-udover-at-ga-efter-at-blive-succesfuld-ft-anton-norbaek--53888857</link>
+         <description>Dette er en lidt anderledes udgave af 'Hvor skal vi hen?' - For Aleksander har i dag taget Anton Nørbæk med som gæstevært, og Anton har taget en overraskelse med. &lt;br /&gt;&lt;br /&gt;Overraskelsen er Jonas Bøgedal, som er en vaskeægte iværksætter og content creator. Han har 15 års erfaring i videoproduktionenbranchen - og det er ikke så lidt når man er 25 år gammel. Han har bl.a. lavet YouTube-sentationen OddMoles, arbejdet for nogen af de største youtubere i Danmark og skabt sit eget produktionsselskab Ejour.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/53888857</guid>
+         <pubDate>Wed, 17 May 2023 05:05:01 +0000</pubDate>
+         <enclosure length="51607136" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.05.17%20-%20Jonas%20B%C3%B8gedal.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dette er en lidt anderledes udgave af 'Hvor skal vi hen?' - For Aleksander har i dag taget Anton Nørbæk med som gæstevært, og Anton har taget en overraskelse med. 
 
-Overraskelsen er Jonas Bøgedal, som er en vaskeægte iværksætter og content creator....
-   </itunes:subtitle>
-   <itunes:summary>
-    Dette er en lidt anderledes udgave af 'Hvor skal vi hen?' - For Aleksander har i dag taget Anton Nørbæk med som gæstevært, og Anton har taget en overraskelse med. &lt;br /&gt;&lt;br /&gt;Overraskelsen er Jonas Bøgedal, som er en vaskeægte iværksætter og content creator. Han har 15 års erfaring i videoproduktionenbranchen - og det er ikke så lidt når man er 25 år gammel. Han har bl.a. lavet YouTube-sentationen OddMoles, arbejdet for nogen af de største youtubere i Danmark og skabt sit eget produktionsselskab Ejour.
-   </itunes:summary>
-   <itunes:duration>
-    3226
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Daniel Schulz: "Albummet er grunden til, at jeg har fået kontakt til min mor igen"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/daniel-schulz-albummet-er-grunden-til-at-jeg-har-faet-kontakt-til-min-mor-igen--53684947
-   </link>
-   <description>
-    På overfladen var alt godt. Med kometfart, var Daniel Schulz braget ind på den danske musikscene som den mest streamede debutant på Spotify nogensinde. Daniel levede livet og drømmen om en&lt;br /&gt;musikkarriere, mens det liv han kendte allerbedst, i barndomshjemmet i Kolding, smuldrede. Daniel har skabt et musikalsk fotoalbum til én der ikke længere er en del af hans liv. ’Someone Send This To My Mom’ er en håndsrækning fra Daniel til sin mor, som han ikke har set i mere end seks år&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Warner Music på Frederiksberg for at mødes med musikeren Daniel Schulz til en samtale hans nye debutalbum, en kometkarriere og drømme for fremtiden.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/53684947
-   </guid>
-   <pubDate>
-    Sat, 29 Apr 2023 08:25:25 +0000
-   </pubDate>
-   <enclosure length="52112031" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53684947/daniel_uploud_online_audio_converter_com.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    På overfladen var alt godt. Med kometfart, var Daniel Schulz braget ind på den danske musikscene som den mest streamede debutant på Spotify nogensinde. Daniel levede livet og drømmen om en
-musikkarriere, mens det liv han kendte allerbedst, i...
-   </itunes:subtitle>
-   <itunes:summary>
-    På overfladen var alt godt. Med kometfart, var Daniel Schulz braget ind på den danske musikscene som den mest streamede debutant på Spotify nogensinde. Daniel levede livet og drømmen om en&lt;br /&gt;musikkarriere, mens det liv han kendte allerbedst, i barndomshjemmet i Kolding, smuldrede. Daniel har skabt et musikalsk fotoalbum til én der ikke længere er en del af hans liv. ’Someone Send This To My Mom’ er en håndsrækning fra Daniel til sin mor, som han ikke har set i mere end seks år&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Warner Music på Frederiksberg for at mødes med musikeren Daniel Schulz til en samtale hans nye debutalbum, en kometkarriere og drømme for fremtiden.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-   </itunes:summary>
-   <itunes:duration>
-    3257
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nicolas Kaiser: "Jeg har aldrig lavet en dansevideo på TikTok"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nicolas-kaiser-jeg-har-aldrig-lavet-en-dansevideo-pa-tiktok--53651399
-   </link>
-   <description>
-    I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Sank Annæ Plads for at mødes med radiovært Nicolas Kaiser til en samtale om at stamme som barn, om at være den sjove mand og hvordan det er at være "TikToker." &lt;br /&gt;&lt;br /&gt;Nicolas Kaiser er radiovært, TikToker og "sjovmand". Han er den ene halvdel af morgenshowet på radiokanalen The Voice, hvor han deler sjove anekdoter og historier hver eneste morgen. Udover at lave radio ufattelig tidligt hver eneste hverdag, så har han også over 70.000 følgere på TikTok. Et projekt der startede som en joke sammen med hans mor.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/53651399
-   </guid>
-   <pubDate>
-    Wed, 26 Apr 2023 12:22:59 +0000
-   </pubDate>
-   <enclosure length="51850388" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53651399/nicolas_kaiser.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Sank Annæ Plads for at mødes med radiovært Nicolas Kaiser til en samtale om at stamme som barn, om at være den sjove mand og hvordan det er at være "TikToker." 
+Overraskelsen er Jonas Bøgedal, som er en vaskeægte iværksætter og content creator....</itunes:subtitle>
+         <itunes:summary>Dette er en lidt anderledes udgave af 'Hvor skal vi hen?' - For Aleksander har i dag taget Anton Nørbæk med som gæstevært, og Anton har taget en overraskelse med. &lt;br /&gt;&lt;br /&gt;Overraskelsen er Jonas Bøgedal, som er en vaskeægte iværksætter og content creator. Han har 15 års erfaring i videoproduktionenbranchen - og det er ikke så lidt når man er 25 år gammel. Han har bl.a. lavet YouTube-sentationen OddMoles, arbejdet for nogen af de største youtubere i Danmark og skabt sit eget produktionsselskab Ejour.</itunes:summary>
+         <itunes:duration>3226</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Daniel Schulz: "Albummet er grunden til, at jeg har fået kontakt til min mor igen"</title>
+         <link>https://www.spreaker.com/episode/daniel-schulz-albummet-er-grunden-til-at-jeg-har-faet-kontakt-til-min-mor-igen--53684947</link>
+         <description>På overfladen var alt godt. Med kometfart, var Daniel Schulz braget ind på den danske musikscene som den mest streamede debutant på Spotify nogensinde. Daniel levede livet og drømmen om en&lt;br /&gt;musikkarriere, mens det liv han kendte allerbedst, i barndomshjemmet i Kolding, smuldrede. Daniel har skabt et musikalsk fotoalbum til én der ikke længere er en del af hans liv. ’Someone Send This To My Mom’ er en håndsrækning fra Daniel til sin mor, som han ikke har set i mere end seks år&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Warner Music på Frederiksberg for at mødes med musikeren Daniel Schulz til en samtale hans nye debutalbum, en kometkarriere og drømme for fremtiden.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/53684947</guid>
+         <pubDate>Sat, 29 Apr 2023 08:25:25 +0000</pubDate>
+         <enclosure length="52112031" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.04.29%20-%20Daniel%20Schulz.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>På overfladen var alt godt. Med kometfart, var Daniel Schulz braget ind på den danske musikscene som den mest streamede debutant på Spotify nogensinde. Daniel levede livet og drømmen om en
+musikkarriere, mens det liv han kendte allerbedst, i...</itunes:subtitle>
+         <itunes:summary>På overfladen var alt godt. Med kometfart, var Daniel Schulz braget ind på den danske musikscene som den mest streamede debutant på Spotify nogensinde. Daniel levede livet og drømmen om en&lt;br /&gt;musikkarriere, mens det liv han kendte allerbedst, i barndomshjemmet i Kolding, smuldrede. Daniel har skabt et musikalsk fotoalbum til én der ikke længere er en del af hans liv. ’Someone Send This To My Mom’ er en håndsrækning fra Daniel til sin mor, som han ikke har set i mere end seks år&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Warner Music på Frederiksberg for at mødes med musikeren Daniel Schulz til en samtale hans nye debutalbum, en kometkarriere og drømme for fremtiden.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</itunes:summary>
+         <itunes:duration>3257</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nicolas Kaiser: "Jeg har aldrig lavet en dansevideo på TikTok"</title>
+         <link>https://www.spreaker.com/episode/nicolas-kaiser-jeg-har-aldrig-lavet-en-dansevideo-pa-tiktok--53651399</link>
+         <description>I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Sank Annæ Plads for at mødes med radiovært Nicolas Kaiser til en samtale om at stamme som barn, om at være den sjove mand og hvordan det er at være "TikToker." &lt;br /&gt;&lt;br /&gt;Nicolas Kaiser er radiovært, TikToker og "sjovmand". Han er den ene halvdel af morgenshowet på radiokanalen The Voice, hvor han deler sjove anekdoter og historier hver eneste morgen. Udover at lave radio ufattelig tidligt hver eneste hverdag, så har han også over 70.000 følgere på TikTok. Et projekt der startede som en joke sammen med hans mor.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/53651399</guid>
+         <pubDate>Wed, 26 Apr 2023 12:22:59 +0000</pubDate>
+         <enclosure length="51850388" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.04.26%20-%20Nicolas%20Kaiser.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Sank Annæ Plads for at mødes med radiovært Nicolas Kaiser til en samtale om at stamme som barn, om at være den sjove mand og hvordan det er at være "TikToker." 
 
-Nicolas Kaiser er...
-   </itunes:subtitle>
-   <itunes:summary>
-    I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Sank Annæ Plads for at mødes med radiovært Nicolas Kaiser til en samtale om at stamme som barn, om at være den sjove mand og hvordan det er at være "TikToker." &lt;br /&gt;&lt;br /&gt;Nicolas Kaiser er radiovært, TikToker og "sjovmand". Han er den ene halvdel af morgenshowet på radiokanalen The Voice, hvor han deler sjove anekdoter og historier hver eneste morgen. Udover at lave radio ufattelig tidligt hver eneste hverdag, så har han også over 70.000 følgere på TikTok. Et projekt der startede som en joke sammen med hans mor.
-   </itunes:summary>
-   <itunes:duration>
-    3241
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Tine Maria: "Youtube blev et frirum for mig"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/tine-maria-youtube-blev-et-frirum-for-mig--53562772
-   </link>
-   <description>
-    Tine Maria startede med at lave Youtube-videoer da hun var 12 år. Hun blev mobbet i folkeskolen, og på Youtube fandt hun det frirum hvor hun kunne få lov til at vise hvem hun virkelig var. I dag har hun over 100.000 abonnenter på Youtube og er blevet TV-vært på DR Ultra.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget hjem til Tine Maria i Aarhus til en samtale om starten på Youtube-eventyret, bøger og om at være 100 procent sig selv.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/53562772
-   </guid>
-   <pubDate>
-    Tue, 18 Apr 2023 04:20:01 +0000
-   </pubDate>
-   <enclosure length="53219496" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53562772/tinemaria_pod.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Tine Maria startede med at lave Youtube-videoer da hun var 12 år. Hun blev mobbet i folkeskolen, og på Youtube fandt hun det frirum hvor hun kunne få lov til at vise hvem hun virkelig var. I dag har hun over 100.000 abonnenter på Youtube og er blevet...
-   </itunes:subtitle>
-   <itunes:summary>
-    Tine Maria startede med at lave Youtube-videoer da hun var 12 år. Hun blev mobbet i folkeskolen, og på Youtube fandt hun det frirum hvor hun kunne få lov til at vise hvem hun virkelig var. I dag har hun over 100.000 abonnenter på Youtube og er blevet TV-vært på DR Ultra.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget hjem til Tine Maria i Aarhus til en samtale om starten på Youtube-eventyret, bøger og om at være 100 procent sig selv.
-   </itunes:summary>
-   <itunes:duration>
-    3327
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Boye &amp; Sigvardt: "Danmark har aldrig været vores 'end goal'"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/boye-sigvardt-danmark-har-aldrig-vaeret-vores-end-goal--53351201
-   </link>
-   <description>
-    Boye &amp;amp; Sigvardt mødte hinanden en aften hvor de begge skulle være DJ's på en klub tilbage i 2017. Ugen efter lavede de nummeret 'Give Me' sammen, som i dag har over 20 millioner streams - der var åbnet en verden af muligheder for dem. &lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget ud til Boye &amp;amp; Sigvardts studie i København for at mødes med de to prodcuerer/DJs til en samtale om det store gennembrud, hårdt abejde og om at være åben omkring sine ambitioner.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/53351201
-   </guid>
-   <pubDate>
-    Tue, 28 Mar 2023 04:05:01 +0000
-   </pubDate>
-   <enclosure length="53477203" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53351201/boye_og_sigvardt_podcast.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Boye &amp;amp; Sigvardt mødte hinanden en aften hvor de begge skulle være DJ's på en klub tilbage i 2017. Ugen efter lavede de nummeret 'Give Me' sammen, som i dag har over 20 millioner streams - der var åbnet en verden af muligheder for dem. 
+Nicolas Kaiser er...</itunes:subtitle>
+         <itunes:summary>I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Sank Annæ Plads for at mødes med radiovært Nicolas Kaiser til en samtale om at stamme som barn, om at være den sjove mand og hvordan det er at være "TikToker." &lt;br /&gt;&lt;br /&gt;Nicolas Kaiser er radiovært, TikToker og "sjovmand". Han er den ene halvdel af morgenshowet på radiokanalen The Voice, hvor han deler sjove anekdoter og historier hver eneste morgen. Udover at lave radio ufattelig tidligt hver eneste hverdag, så har han også over 70.000 følgere på TikTok. Et projekt der startede som en joke sammen med hans mor.</itunes:summary>
+         <itunes:duration>3241</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Tine Maria: "Youtube blev et frirum for mig"</title>
+         <link>https://www.spreaker.com/episode/tine-maria-youtube-blev-et-frirum-for-mig--53562772</link>
+         <description>Tine Maria startede med at lave Youtube-videoer da hun var 12 år. Hun blev mobbet i folkeskolen, og på Youtube fandt hun det frirum hvor hun kunne få lov til at vise hvem hun virkelig var. I dag har hun over 100.000 abonnenter på Youtube og er blevet TV-vært på DR Ultra.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget hjem til Tine Maria i Aarhus til en samtale om starten på Youtube-eventyret, bøger og om at være 100 procent sig selv.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/53562772</guid>
+         <pubDate>Tue, 18 Apr 2023 04:20:01 +0000</pubDate>
+         <enclosure length="53219496" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.04.18%20-%20Tine%20Maria.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Tine Maria startede med at lave Youtube-videoer da hun var 12 år. Hun blev mobbet i folkeskolen, og på Youtube fandt hun det frirum hvor hun kunne få lov til at vise hvem hun virkelig var. I dag har hun over 100.000 abonnenter på Youtube og er blevet...</itunes:subtitle>
+         <itunes:summary>Tine Maria startede med at lave Youtube-videoer da hun var 12 år. Hun blev mobbet i folkeskolen, og på Youtube fandt hun det frirum hvor hun kunne få lov til at vise hvem hun virkelig var. I dag har hun over 100.000 abonnenter på Youtube og er blevet TV-vært på DR Ultra.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget hjem til Tine Maria i Aarhus til en samtale om starten på Youtube-eventyret, bøger og om at være 100 procent sig selv.</itunes:summary>
+         <itunes:duration>3327</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Boye &amp; Sigvardt: "Danmark har aldrig været vores 'end goal'"</title>
+         <link>https://www.spreaker.com/episode/boye-sigvardt-danmark-har-aldrig-vaeret-vores-end-goal--53351201</link>
+         <description>Boye &amp;amp; Sigvardt mødte hinanden en aften hvor de begge skulle være DJ's på en klub tilbage i 2017. Ugen efter lavede de nummeret 'Give Me' sammen, som i dag har over 20 millioner streams - der var åbnet en verden af muligheder for dem. &lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget ud til Boye &amp;amp; Sigvardts studie i København for at mødes med de to prodcuerer/DJs til en samtale om det store gennembrud, hårdt abejde og om at være åben omkring sine ambitioner.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/53351201</guid>
+         <pubDate>Tue, 28 Mar 2023 04:05:01 +0000</pubDate>
+         <enclosure length="53477203" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.03.28%20-%20Boye%20%26%20Sigvardt.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Boye &amp;amp; Sigvardt mødte hinanden en aften hvor de begge skulle være DJ's på en klub tilbage i 2017. Ugen efter lavede de nummeret 'Give Me' sammen, som i dag har over 20 millioner streams - der var åbnet en verden af muligheder for dem. 
 
-I dette...
-   </itunes:subtitle>
-   <itunes:summary>
-    Boye &amp;amp; Sigvardt mødte hinanden en aften hvor de begge skulle være DJ's på en klub tilbage i 2017. Ugen efter lavede de nummeret 'Give Me' sammen, som i dag har over 20 millioner streams - der var åbnet en verden af muligheder for dem. &lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget ud til Boye &amp;amp; Sigvardts studie i København for at mødes med de to prodcuerer/DJs til en samtale om det store gennembrud, hårdt abejde og om at være åben omkring sine ambitioner.
-   </itunes:summary>
-   <itunes:duration>
-    3343
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:season>
-    1
-   </itunes:season>
-   <itunes:episode>
-    4
-   </itunes:episode>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Neda Amirzade: "Det iranske folk er så fucking 'badass"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/neda-amirzade-det-iranske-folk-er-sa-fucking-badass--53270585
-   </link>
-   <description>
-    Podcastvært Neda Amirzade har altid følt Danmark som sit hjemland, men frihedskampen i Iran har givet hende en helt ny følelse af stolthed omkring hendes iranske rødder.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Flere Fulge i København for at mødes med podcastvært og debatør Neda til en samtale om frihedskampen i Iran, sammenhold og om at være 'fucking' stolt af folket i hendes andet hjemland.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/53270585
-   </guid>
-   <pubDate>
-    Tue, 21 Mar 2023 05:35:01 +0000
-   </pubDate>
-   <enclosure length="48047602" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53270585/neda_podcast.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Podcastvært Neda Amirzade har altid følt Danmark som sit hjemland, men frihedskampen i Iran har givet hende en helt ny følelse af stolthed omkring hendes iranske rødder.
+I dette...</itunes:subtitle>
+         <itunes:summary>Boye &amp;amp; Sigvardt mødte hinanden en aften hvor de begge skulle være DJ's på en klub tilbage i 2017. Ugen efter lavede de nummeret 'Give Me' sammen, som i dag har over 20 millioner streams - der var åbnet en verden af muligheder for dem. &lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget ud til Boye &amp;amp; Sigvardts studie i København for at mødes med de to prodcuerer/DJs til en samtale om det store gennembrud, hårdt abejde og om at være åben omkring sine ambitioner.</itunes:summary>
+         <itunes:duration>3343</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:season>1</itunes:season>
+         <itunes:episode>4</itunes:episode>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Neda Amirzade: "Det iranske folk er så fucking 'badass"</title>
+         <link>https://www.spreaker.com/episode/neda-amirzade-det-iranske-folk-er-sa-fucking-badass--53270585</link>
+         <description>Podcastvært Neda Amirzade har altid følt Danmark som sit hjemland, men frihedskampen i Iran har givet hende en helt ny følelse af stolthed omkring hendes iranske rødder.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Flere Fulge i København for at mødes med podcastvært og debatør Neda til en samtale om frihedskampen i Iran, sammenhold og om at være 'fucking' stolt af folket i hendes andet hjemland.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/53270585</guid>
+         <pubDate>Tue, 21 Mar 2023 05:35:01 +0000</pubDate>
+         <enclosure length="48047602" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.03.21%20-%20Neda%20Amirzade.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Podcastvært Neda Amirzade har altid følt Danmark som sit hjemland, men frihedskampen i Iran har givet hende en helt ny følelse af stolthed omkring hendes iranske rødder.
 
-I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Flere Fulge...
-   </itunes:subtitle>
-   <itunes:summary>
-    Podcastvært Neda Amirzade har altid følt Danmark som sit hjemland, men frihedskampen i Iran har givet hende en helt ny følelse af stolthed omkring hendes iranske rødder.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Flere Fulge i København for at mødes med podcastvært og debatør Neda til en samtale om frihedskampen i Iran, sammenhold og om at være 'fucking' stolt af folket i hendes andet hjemland.
-   </itunes:summary>
-   <itunes:duration>
-    3003
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:season>
-    1
-   </itunes:season>
-   <itunes:episode>
-    3
-   </itunes:episode>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Silvia: "Jeg har altid haft et kæmpe 'Pleaser-gen'"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/silvia-jeg-har-altid-haft-et-kaempe-pleaser-gen--53147136
-   </link>
-   <description>
-    Musikeren Silvia har altid haft haft et 'Pleaser-gen', men ingen skal have lov til at bestemme over hendes musik.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Sønder Boulevard for at mødes med musikeren Silvia til en samtale om hendes nye EP, sceneskræk og at kæmpe mod sit eget 'pleaser-gen'.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/53147136
-   </guid>
-   <pubDate>
-    Fri, 10 Mar 2023 05:30:02 +0000
-   </pubDate>
-   <enclosure length="47808126" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53147136/silvia_interview_podcast.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Musikeren Silvia har altid haft haft et 'Pleaser-gen', men ingen skal have lov til at bestemme over hendes musik.
+I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Flere Fulge...</itunes:subtitle>
+         <itunes:summary>Podcastvært Neda Amirzade har altid følt Danmark som sit hjemland, men frihedskampen i Iran har givet hende en helt ny følelse af stolthed omkring hendes iranske rødder.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Flere Fulge i København for at mødes med podcastvært og debatør Neda til en samtale om frihedskampen i Iran, sammenhold og om at være 'fucking' stolt af folket i hendes andet hjemland.</itunes:summary>
+         <itunes:duration>3003</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:season>1</itunes:season>
+         <itunes:episode>3</itunes:episode>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Silvia: "Jeg har altid haft et kæmpe 'Pleaser-gen'"</title>
+         <link>https://www.spreaker.com/episode/silvia-jeg-har-altid-haft-et-kaempe-pleaser-gen--53147136</link>
+         <description>Musikeren Silvia har altid haft haft et 'Pleaser-gen', men ingen skal have lov til at bestemme over hendes musik.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Sønder Boulevard for at mødes med musikeren Silvia til en samtale om hendes nye EP, sceneskræk og at kæmpe mod sit eget 'pleaser-gen'.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/53147136</guid>
+         <pubDate>Fri, 10 Mar 2023 05:30:02 +0000</pubDate>
+         <enclosure length="47808126" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.03.10%20-%20Silvia.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Musikeren Silvia har altid haft haft et 'Pleaser-gen', men ingen skal have lov til at bestemme over hendes musik.
 
-I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Sønder Boulevard for at mødes med musikeren Silvia til en samtale om...
-   </itunes:subtitle>
-   <itunes:summary>
-    Musikeren Silvia har altid haft haft et 'Pleaser-gen', men ingen skal have lov til at bestemme over hendes musik.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Sønder Boulevard for at mødes med musikeren Silvia til en samtale om hendes nye EP, sceneskræk og at kæmpe mod sit eget 'pleaser-gen'.
-   </itunes:summary>
-   <itunes:duration>
-    2988
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:season>
-    1
-   </itunes:season>
-   <itunes:episode>
-    2
-   </itunes:episode>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Sebastian Bull: "Jeg stod midt i min største drøm med en flad fornemmelse"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/sebastian-bull-jeg-stod-midt-i-min-storste-drom-med-en-flad-fornemmelse--53076042
-   </link>
-   <description>
-    Skuespilleren Sebastian Bull spiller altid den hårde mand, men inderst inde er han en sensitiv fyr.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Le Trois Cochons på Værnedamsvej for at mødes med den 27-årige skuespiller Sebastian til en samtale om at blive typecastet, lære at gå all in og finde ud af hvilke ting der er vigtige i livet.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/53076042
-   </guid>
-   <pubDate>
-    Thu, 02 Mar 2023 23:00:00 +0000
-   </pubDate>
-   <enclosure length="51784768" type="audio/mpeg" url="https://api.spreaker.com/download/episode/53076042/sebastian_bull_interview_uploud_online_audio_converter_com.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Skuespilleren Sebastian Bull spiller altid den hårde mand, men inderst inde er han en sensitiv fyr.
+I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Sønder Boulevard for at mødes med musikeren Silvia til en samtale om...</itunes:subtitle>
+         <itunes:summary>Musikeren Silvia har altid haft haft et 'Pleaser-gen', men ingen skal have lov til at bestemme over hendes musik.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Sønder Boulevard for at mødes med musikeren Silvia til en samtale om hendes nye EP, sceneskræk og at kæmpe mod sit eget 'pleaser-gen'.</itunes:summary>
+         <itunes:duration>2988</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:season>1</itunes:season>
+         <itunes:episode>2</itunes:episode>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Sebastian Bull: "Jeg stod midt i min største drøm med en flad fornemmelse"</title>
+         <link>https://www.spreaker.com/episode/sebastian-bull-jeg-stod-midt-i-min-storste-drom-med-en-flad-fornemmelse--53076042</link>
+         <description>Skuespilleren Sebastian Bull spiller altid den hårde mand, men inderst inde er han en sensitiv fyr.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Le Trois Cochons på Værnedamsvej for at mødes med den 27-årige skuespiller Sebastian til en samtale om at blive typecastet, lære at gå all in og finde ud af hvilke ting der er vigtige i livet.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/53076042</guid>
+         <pubDate>Thu, 02 Mar 2023 23:00:00 +0000</pubDate>
+         <enclosure length="51784768" type="audio/mpeg" url="https://archive.org/download/hvor_skal_vi_hen_/Hvor%20Skal%20Vi%20Hen_/2023.03.02%20-%20Sebastian%20Bull.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Skuespilleren Sebastian Bull spiller altid den hårde mand, men inderst inde er han en sensitiv fyr.
 
-I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Le Trois Cochons på Værnedamsvej for at mødes med den 27-årige skuespiller...
-   </itunes:subtitle>
-   <itunes:summary>
-    Skuespilleren Sebastian Bull spiller altid den hårde mand, men inderst inde er han en sensitiv fyr.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Le Trois Cochons på Værnedamsvej for at mødes med den 27-årige skuespiller Sebastian til en samtale om at blive typecastet, lære at gå all in og finde ud af hvilke ting der er vigtige i livet.
-   </itunes:summary>
-   <itunes:duration>
-    3237
-   </itunes:duration>
-   <itunes:keywords>
-    drømme,følelser,kultur,repotage
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg"/>
-   <itunes:season>
-    1
-   </itunes:season>
-   <itunes:episode>
-    1
-   </itunes:episode>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Le Trois Cochons på Værnedamsvej for at mødes med den 27-årige skuespiller...</itunes:subtitle>
+         <itunes:summary>Skuespilleren Sebastian Bull spiller altid den hårde mand, men inderst inde er han en sensitiv fyr.&lt;br /&gt;&lt;br /&gt;I dette afsnit af 'Hvor skal vi hen?' er Aleksander Bruun taget til Le Trois Cochons på Værnedamsvej for at mødes med den 27-årige skuespiller Sebastian til en samtale om at blive typecastet, lære at gå all in og finde ud af hvilke ting der er vigtige i livet.</itunes:summary>
+         <itunes:duration>3237</itunes:duration>
+         <itunes:keywords>drømme,følelser,kultur,repotage</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c93e0cc5eb845446bdb462fc7b71b4eb.jpg" />
+         <itunes:season>1</itunes:season>
+         <itunes:episode>1</itunes:episode>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

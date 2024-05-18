@@ -1,46 +1,46 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Den allerførste gang</title>
-		<link>https://web.24syv.dk/channels/4019</link>
-		<description>En sommerserie, hvori kendte kulturpersoner fortæller om deres allerførste værk.  Mød musikeren, der stadig forsøger at lære at lyde som sig selv, hør om instruktøren, der begyndte sin karriere med en stribe dyre-roller og lad komikeren forklare, hvordan jokes kan sættes på formel.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/416/Den_allerf_rste_gang.png"/>
-		<item>
-			<title>Den allerførste gang uge 30, 2014</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106039/10092313-audio.mp3</link>
-			<description>Hvilken tekst skrev Erling Jepsen som sin første - og hvad for et teaterstykke skulle Betty Nansen Teatret aldrig have sat op? Kulturredaktør Sarah-Iben Almbjerg kører landet rundt og spørger forfattere, musikere og skuespillere om deres allerførste værk – og om det de helst ville glemme. Sarah-Iben Almbjerg</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106039/10092313-audio.mp3</guid>
-			<pubDate>Sun, 27 Jul 2014 18:05:49 +0000</pubDate>
-			<itunes:duration>00:55:05</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106039/10092313-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Den allerførste gang uge 29, 2014</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106040/10058586-audio.mp3</link>
-			<description>Sendt 20-07-2014. Erik Clausen er en af landets mest produktive filminstruktører. Men inden han kastede sig over film, var der en tid med både politisk gøgl og markante meninger. Clausen ser tilbage - og indrømmer at man ikke kan få det hele.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106040/10058586-audio.mp3</guid>
-			<pubDate>Fri, 18 Jul 2014 05:36:08 +0000</pubDate>
-			<itunes:duration>00:54:35</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106040/10058586-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Den allerførste gang uge 28, 2014</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106041/10050774-audio.mp3</link>
-			<description>Komiker Christian Fuhlendorff fortæller om den første joke, der lærte ham at nyde pauserne, mens filminstruktør Anne-Grethe Bjarup Riis husker hendes første teaterroller som henholdsvis træ og abe Sarah-Iben Almbjerg</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106041/10050774-audio.mp3</guid>
-			<pubDate>Sun, 13 Jul 2014 18:03:23 +0000</pubDate>
-			<itunes:duration>00:55:16</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106041/10050774-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Den allerførste gang uge 27, 2014</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106042/10031493-audio.mp3</link>
-			<description>Forfatteren Svend Åge Madsen fortæller om den første tekst, han skrev, og som stadig hjemsøger ham - mens jazz-sangerinden Cæcilie Nordby husker tilbage på sin debut som eksperimenterende og usikker forsanger. Sarah-Iben Almbjerg</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106042/10031493-audio.mp3</guid>
-			<pubDate>Sun, 06 Jul 2014 18:04:52 +0000</pubDate>
-			<itunes:duration>00:55:08</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106042/10031493-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+   <channel>
+      <title>Den allerførste gang</title>
+      <link>https://web.24syv.dk/channels/4019</link>
+      <description>En sommerserie, hvori kendte kulturpersoner fortæller om deres allerførste værk.  Mød musikeren, der stadig forsøger at lære at lyde som sig selv, hør om instruktøren, der begyndte sin karriere med en stribe dyre-roller og lad komikeren forklare, hvordan jokes kan sættes på formel.</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/den_allerforste_gang/Den%20allerf%C3%B8rste%20gang/Den_allerf_rste_gang.png" />
+      <item>
+         <title>Den allerførste gang uge 30, 2014</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106039/10092313-audio.mp3</link>
+         <description>Hvilken tekst skrev Erling Jepsen som sin første - og hvad for et teaterstykke skulle Betty Nansen Teatret aldrig have sat op? Kulturredaktør Sarah-Iben Almbjerg kører landet rundt og spørger forfattere, musikere og skuespillere om deres allerførste værk – og om det de helst ville glemme. Sarah-Iben Almbjerg</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106039/10092313-audio.mp3</guid>
+         <pubDate>Sun, 27 Jul 2014 18:05:49 +0000</pubDate>
+         <itunes:duration>00:55:05</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/den_allerforste_gang/Den%20allerf%C3%B8rste%20gang/2014.07.27%20-%20Den%20allerf%C3%B8rste%20gang%20uge%2030%2C%202014.mp3" />
+      </item>
+      <item>
+         <title>Den allerførste gang uge 29, 2014</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106040/10058586-audio.mp3</link>
+         <description>Sendt 20-07-2014. Erik Clausen er en af landets mest produktive filminstruktører. Men inden han kastede sig over film, var der en tid med både politisk gøgl og markante meninger. Clausen ser tilbage - og indrømmer at man ikke kan få det hele.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106040/10058586-audio.mp3</guid>
+         <pubDate>Fri, 18 Jul 2014 05:36:08 +0000</pubDate>
+         <itunes:duration>00:54:35</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/den_allerforste_gang/Den%20allerf%C3%B8rste%20gang/2014.07.18%20-%20Den%20allerf%C3%B8rste%20gang%20uge%2029%2C%202014.mp3" />
+      </item>
+      <item>
+         <title>Den allerførste gang uge 28, 2014</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106041/10050774-audio.mp3</link>
+         <description>Komiker Christian Fuhlendorff fortæller om den første joke, der lærte ham at nyde pauserne, mens filminstruktør Anne-Grethe Bjarup Riis husker hendes første teaterroller som henholdsvis træ og abe Sarah-Iben Almbjerg</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106041/10050774-audio.mp3</guid>
+         <pubDate>Sun, 13 Jul 2014 18:03:23 +0000</pubDate>
+         <itunes:duration>00:55:16</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/den_allerforste_gang/Den%20allerf%C3%B8rste%20gang/2014.07.13%20-%20Den%20allerf%C3%B8rste%20gang%20uge%2028%2C%202014.mp3" />
+      </item>
+      <item>
+         <title>Den allerførste gang uge 27, 2014</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106042/10031493-audio.mp3</link>
+         <description>Forfatteren Svend Åge Madsen fortæller om den første tekst, han skrev, og som stadig hjemsøger ham - mens jazz-sangerinden Cæcilie Nordby husker tilbage på sin debut som eksperimenterende og usikker forsanger. Sarah-Iben Almbjerg</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106042/10031493-audio.mp3</guid>
+         <pubDate>Sun, 06 Jul 2014 18:04:52 +0000</pubDate>
+         <itunes:duration>00:55:08</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/den_allerforste_gang/Den%20allerf%C3%B8rste%20gang/2014.07.06%20-%20Den%20allerf%C3%B8rste%20gang%20uge%2027%2C%202014.mp3" />
+      </item>
+   </channel>
 </rss>

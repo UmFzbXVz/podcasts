@@ -1,392 +1,166 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Hvis vi går ud fra, det hele ender godt
-  </title>
-  <link>
-   https://loud.land/podcast/hvis-vi-går-ud-fra,-det-hele-ender-godt
-  </link>
-  <description>
-   Den første nedlukning af Danmark ramte i marts 2020. Dengang troede vi, at pandemien var en alvorlig, men kortvarig tilstand. Og at vores afsavn til den almindelig hverdag var et offer vi kunne bringe for at få smitten under kontrol.&lt;br /&gt;&lt;br /&gt;Men i begyndelsen af 2021 står det klart, at det, der var et sprint, er blevet til et maraton. Vi affinder os med visheden om, at corona og dermed restriktionerne er her længe endnu. Hvad gør det ved initiativet, euforien, frygten og sammenholdet, vi oplevede i begyndelsen af perioden?&lt;br /&gt; &lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4785447/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   521943
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg
-   </url>
-   <title>
-    Hvis vi går ud fra, det hele ender godt
-   </title>
-   <link>
-    https://loud.land/podcast/hvis-vi-går-ud-fra,-det-hele-ender-godt
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg"/>
-  <itunes:subtitle>
-   Den første nedlukning af Danmark ramte i marts 2020. Dengang troede vi, at pandemien var en alvorlig, men kortvarig tilstand. Og at vores afsavn til den almindelig hverdag var et offer vi kunne bringe for at få smitten under kontrol.
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Hvis vi går ud fra, det hele ender godt</title>
+      <link>https://loud.land/podcast/hvis-vi-går-ud-fra,-det-hele-ender-godt</link>
+      <description>Den første nedlukning af Danmark ramte i marts 2020. Dengang troede vi, at pandemien var en alvorlig, men kortvarig tilstand. Og at vores afsavn til den almindelig hverdag var et offer vi kunne bringe for at få smitten under kontrol.&lt;br /&gt;&lt;br /&gt;Men i begyndelsen af 2021 står det klart, at det, der var et sprint, er blevet til et maraton. Vi affinder os med visheden om, at corona og dermed restriktionerne er her længe endnu. Hvad gør det ved initiativet, euforien, frygten og sammenholdet, vi oplevede i begyndelsen af perioden?&lt;br /&gt; &lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</description>
+      <atom:link href="https://www.spreaker.com/show/4785447/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>521943</copyright>
+      <image>
+         <url>https://archive.org/download/hvis_vi_gar_ud_fra_det_hele_ender_godt/Hvis%20vi%20g%C3%A5r%20ud%20fra%2C%20det%20hele%20ender%20godt/25cb27879e6be870a8947615e35be4cd.jpg</url>
+         <title>Hvis vi går ud fra, det hele ender godt</title>
+         <link>https://loud.land/podcast/hvis-vi-går-ud-fra,-det-hele-ender-godt</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg" />
+      <itunes:subtitle>Den første nedlukning af Danmark ramte i marts 2020. Dengang troede vi, at pandemien var en alvorlig, men kortvarig tilstand. Og at vores afsavn til den almindelig hverdag var et offer vi kunne bringe for at få smitten under kontrol.
 
-Men i...
-  </itunes:subtitle>
-  <itunes:summary>
-   Den første nedlukning af Danmark ramte i marts 2020. Dengang troede vi, at pandemien var en alvorlig, men kortvarig tilstand. Og at vores afsavn til den almindelig hverdag var et offer vi kunne bringe for at få smitten under kontrol.&lt;br /&gt;&lt;br /&gt;Men i begyndelsen af 2021 står det klart, at det, der var et sprint, er blevet til et maraton. Vi affinder os med visheden om, at corona og dermed restriktionerne er her længe endnu. Hvad gør det ved initiativet, euforien, frygten og sammenholdet, vi oplevede i begyndelsen af perioden?&lt;br /&gt; &lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    7:7 Et vildmarksbad og en dobbelt 20års
-   </title>
-   <link>
-    https://www.spreaker.com/episode/7-7-et-vildmarksbad-og-en-dobbelt-20ars--43648083
-   </link>
-   <description>
-    Muteret coronavirus i mink i efteråret 2020 ramte Nordjylland med ekstra hårde restriktioner. Alligevel er Simon optimistisk, så længe han kan hænge ud med sin kæreste. Oven i det, drømmer han om fremtiden.  Til sommer vil han flytte hjemmefra, hvis man kan det, når han går ud af 3.g.   &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Regeringen.dk&lt;br /&gt;TV Midtvest &lt;br /&gt;TV 2 lorry &lt;br /&gt;Dr.dk  &lt;br /&gt;Sundhedsstyrelsen.dk &lt;br /&gt;&lt;br /&gt;.....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43648083
-   </guid>
-   <pubDate>
-    Mon, 01 Mar 2021 07:30:17 +0000
-   </pubDate>
-   <enclosure length="24676145" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43648083/07_et_vildmarksbad_og_en_dobbelt_20_a_rs.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Muteret coronavirus i mink i efteråret 2020 ramte Nordjylland med ekstra hårde restriktioner. Alligevel er Simon optimistisk, så længe han kan hænge ud med sin kæreste. Oven i det, drømmer han om fremtiden.  Til sommer vil han flytte hjemmefra, hvis...
-   </itunes:subtitle>
-   <itunes:summary>
-    Muteret coronavirus i mink i efteråret 2020 ramte Nordjylland med ekstra hårde restriktioner. Alligevel er Simon optimistisk, så længe han kan hænge ud med sin kæreste. Oven i det, drømmer han om fremtiden.  Til sommer vil han flytte hjemmefra, hvis man kan det, når han går ud af 3.g.   &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Regeringen.dk&lt;br /&gt;TV Midtvest &lt;br /&gt;TV 2 lorry &lt;br /&gt;Dr.dk  &lt;br /&gt;Sundhedsstyrelsen.dk &lt;br /&gt;&lt;br /&gt;.....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-   </itunes:summary>
-   <itunes:duration>
-    1026
-   </itunes:duration>
-   <itunes:keywords>
-    corona,danmark,enigma,lockdown,loud,mink,nedlukning,nordjylland,restriktioner
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    6:7 En uendelig og kedelig rutine
-   </title>
-   <link>
-    https://www.spreaker.com/episode/6-7-en-uendelig-og-kedelig-rutine--43605478
-   </link>
-   <description>
-    Rawan vil gerne skrive en digtsamling, men selvom han nu har mere tid end nogensinde før, mangler han inspiration og mennesker omkring sig for at kunne skrive. Rawan sætter ord på den snigende følelse af corona-træthed, der spreder sig efterhånden som det bliver sværere at sætte slutdato på pandemien. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra:&lt;br /&gt;Regeringen.dk &lt;br /&gt;Sundhedsstyrelsen.dk  &lt;br /&gt;&lt;br /&gt;....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43605478
-   </guid>
-   <pubDate>
-    Fri, 26 Feb 2021 07:30:10 +0000
-   </pubDate>
-   <enclosure length="23986513" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43605478/06_en_uendelig_og_kedelig_rutine.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Rawan vil gerne skrive en digtsamling, men selvom han nu har mere tid end nogensinde før, mangler han inspiration og mennesker omkring sig for at kunne skrive. Rawan sætter ord på den snigende følelse af corona-træthed, der spreder sig efterhånden som...
-   </itunes:subtitle>
-   <itunes:summary>
-    Rawan vil gerne skrive en digtsamling, men selvom han nu har mere tid end nogensinde før, mangler han inspiration og mennesker omkring sig for at kunne skrive. Rawan sætter ord på den snigende følelse af corona-træthed, der spreder sig efterhånden som det bliver sværere at sætte slutdato på pandemien. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra:&lt;br /&gt;Regeringen.dk &lt;br /&gt;Sundhedsstyrelsen.dk  &lt;br /&gt;&lt;br /&gt;....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-   </itunes:summary>
-   <itunes:duration>
-    997
-   </itunes:duration>
-   <itunes:keywords>
-    corona,danmark,enigma,lockdown,loud,nedlukning,restriktioner,restriktoiner,rutine
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    5:7 Fællesskab er en superkraft
-   </title>
-   <link>
-    https://www.spreaker.com/episode/5-7-faellesskab-er-en-superkraft--43605466
-   </link>
-   <description>
-    I ugerne efter den første nedlukning i foråret 2020 oplevede Maria et nationalt fællesskab, hvor folk stod sammen mod sygdommen. Og hun mærkede, hvordan Danmark hænger sammen med resten af verden. Men i januar 2021 kan det føles som om samfundssindet er tyndslidt. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Mit Nørrebros youtube &lt;br /&gt;TV-Østjyllands facebook &lt;br /&gt;Ekstrabladet.dk &lt;br /&gt;Regeringen.dk &lt;br /&gt;DRDOX.tv &lt;br /&gt;Danmarkc.tv&lt;br /&gt;Loud Touché &lt;br /&gt;&lt;br /&gt;.....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43605466
-   </guid>
-   <pubDate>
-    Wed, 24 Feb 2021 07:30:13 +0000
-   </pubDate>
-   <enclosure length="22995949" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43605466/05_f_llesskab_er_en_superkraft.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I ugerne efter den første nedlukning i foråret 2020 oplevede Maria et nationalt fællesskab, hvor folk stod sammen mod sygdommen. Og hun mærkede, hvordan Danmark hænger sammen med resten af verden. Men i januar 2021 kan det føles som om samfundssindet...
-   </itunes:subtitle>
-   <itunes:summary>
-    I ugerne efter den første nedlukning i foråret 2020 oplevede Maria et nationalt fællesskab, hvor folk stod sammen mod sygdommen. Og hun mærkede, hvordan Danmark hænger sammen med resten af verden. Men i januar 2021 kan det føles som om samfundssindet er tyndslidt. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Mit Nørrebros youtube &lt;br /&gt;TV-Østjyllands facebook &lt;br /&gt;Ekstrabladet.dk &lt;br /&gt;Regeringen.dk &lt;br /&gt;DRDOX.tv &lt;br /&gt;Danmarkc.tv&lt;br /&gt;Loud Touché &lt;br /&gt;&lt;br /&gt;.....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-   </itunes:summary>
-   <itunes:duration>
-    956
-   </itunes:duration>
-   <itunes:keywords>
-    corona,enigma,lockdown,loud,nedlukning,restriktioner
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    4:7 Min familie er en svingdørsfamilie
-   </title>
-   <link>
-    https://www.spreaker.com/episode/4-7-min-familie-er-en-svingdorsfamilie--43542875
-   </link>
-   <description>
-    Da nedlukningen kom, blev Alberte afskåret fra gymnasiet, veninderne, festerne og fritidsaktiviteterne. Men i fraværet i hendes normale fællesskaber fik hun tid til at genfinde forholdet til de mennesker, der bor lige på den anden side af gangen.&lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Sundhedsstyrelsen.dk &lt;br /&gt;&lt;br /&gt;...&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43542875
-   </guid>
-   <pubDate>
-    Mon, 22 Feb 2021 07:30:07 +0000
-   </pubDate>
-   <enclosure length="24295593" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43542875/04_min_familie_er_en_svingd_rsfamilie.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Da nedlukningen kom, blev Alberte afskåret fra gymnasiet, veninderne, festerne og fritidsaktiviteterne. Men i fraværet i hendes normale fællesskaber fik hun tid til at genfinde forholdet til de mennesker, der bor lige på den anden side af gangen.
+Men i...</itunes:subtitle>
+      <itunes:summary>Den første nedlukning af Danmark ramte i marts 2020. Dengang troede vi, at pandemien var en alvorlig, men kortvarig tilstand. Og at vores afsavn til den almindelig hverdag var et offer vi kunne bringe for at få smitten under kontrol.&lt;br /&gt;&lt;br /&gt;Men i begyndelsen af 2021 står det klart, at det, der var et sprint, er blevet til et maraton. Vi affinder os med visheden om, at corona og dermed restriktionerne er her længe endnu. Hvad gør det ved initiativet, euforien, frygten og sammenholdet, vi oplevede i begyndelsen af perioden?&lt;br /&gt; &lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>7:7 Et vildmarksbad og en dobbelt 20års</title>
+         <link>https://www.spreaker.com/episode/7-7-et-vildmarksbad-og-en-dobbelt-20ars--43648083</link>
+         <description>Muteret coronavirus i mink i efteråret 2020 ramte Nordjylland med ekstra hårde restriktioner. Alligevel er Simon optimistisk, så længe han kan hænge ud med sin kæreste. Oven i det, drømmer han om fremtiden.  Til sommer vil han flytte hjemmefra, hvis man kan det, når han går ud af 3.g.   &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Regeringen.dk&lt;br /&gt;TV Midtvest &lt;br /&gt;TV 2 lorry &lt;br /&gt;Dr.dk  &lt;br /&gt;Sundhedsstyrelsen.dk &lt;br /&gt;&lt;br /&gt;.....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43648083</guid>
+         <pubDate>Mon, 01 Mar 2021 07:30:17 +0000</pubDate>
+         <enclosure length="24676145" type="audio/mpeg" url="https://archive.org/download/hvis_vi_gar_ud_fra_det_hele_ender_godt/Hvis%20vi%20g%C3%A5r%20ud%20fra%2C%20det%20hele%20ender%20godt/2021.03.01%20-%207.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Muteret coronavirus i mink i efteråret 2020 ramte Nordjylland med ekstra hårde restriktioner. Alligevel er Simon optimistisk, så længe han kan hænge ud med sin kæreste. Oven i det, drømmer han om fremtiden.  Til sommer vil han flytte hjemmefra, hvis...</itunes:subtitle>
+         <itunes:summary>Muteret coronavirus i mink i efteråret 2020 ramte Nordjylland med ekstra hårde restriktioner. Alligevel er Simon optimistisk, så længe han kan hænge ud med sin kæreste. Oven i det, drømmer han om fremtiden.  Til sommer vil han flytte hjemmefra, hvis man kan det, når han går ud af 3.g.   &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Regeringen.dk&lt;br /&gt;TV Midtvest &lt;br /&gt;TV 2 lorry &lt;br /&gt;Dr.dk  &lt;br /&gt;Sundhedsstyrelsen.dk &lt;br /&gt;&lt;br /&gt;.....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</itunes:summary>
+         <itunes:duration>1026</itunes:duration>
+         <itunes:keywords>corona,danmark,enigma,lockdown,loud,mink,nedlukning,nordjylland,restriktioner</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>6:7 En uendelig og kedelig rutine</title>
+         <link>https://www.spreaker.com/episode/6-7-en-uendelig-og-kedelig-rutine--43605478</link>
+         <description>Rawan vil gerne skrive en digtsamling, men selvom han nu har mere tid end nogensinde før, mangler han inspiration og mennesker omkring sig for at kunne skrive. Rawan sætter ord på den snigende følelse af corona-træthed, der spreder sig efterhånden som det bliver sværere at sætte slutdato på pandemien. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra:&lt;br /&gt;Regeringen.dk &lt;br /&gt;Sundhedsstyrelsen.dk  &lt;br /&gt;&lt;br /&gt;....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43605478</guid>
+         <pubDate>Fri, 26 Feb 2021 07:30:10 +0000</pubDate>
+         <enclosure length="23986513" type="audio/mpeg" url="https://archive.org/download/hvis_vi_gar_ud_fra_det_hele_ender_godt/Hvis%20vi%20g%C3%A5r%20ud%20fra%2C%20det%20hele%20ender%20godt/2021.02.26%20-%206.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Rawan vil gerne skrive en digtsamling, men selvom han nu har mere tid end nogensinde før, mangler han inspiration og mennesker omkring sig for at kunne skrive. Rawan sætter ord på den snigende følelse af corona-træthed, der spreder sig efterhånden som...</itunes:subtitle>
+         <itunes:summary>Rawan vil gerne skrive en digtsamling, men selvom han nu har mere tid end nogensinde før, mangler han inspiration og mennesker omkring sig for at kunne skrive. Rawan sætter ord på den snigende følelse af corona-træthed, der spreder sig efterhånden som det bliver sværere at sætte slutdato på pandemien. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra:&lt;br /&gt;Regeringen.dk &lt;br /&gt;Sundhedsstyrelsen.dk  &lt;br /&gt;&lt;br /&gt;....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</itunes:summary>
+         <itunes:duration>997</itunes:duration>
+         <itunes:keywords>corona,danmark,enigma,lockdown,loud,nedlukning,restriktioner,restriktoiner,rutine</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>5:7 Fællesskab er en superkraft</title>
+         <link>https://www.spreaker.com/episode/5-7-faellesskab-er-en-superkraft--43605466</link>
+         <description>I ugerne efter den første nedlukning i foråret 2020 oplevede Maria et nationalt fællesskab, hvor folk stod sammen mod sygdommen. Og hun mærkede, hvordan Danmark hænger sammen med resten af verden. Men i januar 2021 kan det føles som om samfundssindet er tyndslidt. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Mit Nørrebros youtube &lt;br /&gt;TV-Østjyllands facebook &lt;br /&gt;Ekstrabladet.dk &lt;br /&gt;Regeringen.dk &lt;br /&gt;DRDOX.tv &lt;br /&gt;Danmarkc.tv&lt;br /&gt;Loud Touché &lt;br /&gt;&lt;br /&gt;.....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43605466</guid>
+         <pubDate>Wed, 24 Feb 2021 07:30:13 +0000</pubDate>
+         <enclosure length="22995949" type="audio/mpeg" url="https://archive.org/download/hvis_vi_gar_ud_fra_det_hele_ender_godt/Hvis%20vi%20g%C3%A5r%20ud%20fra%2C%20det%20hele%20ender%20godt/2021.02.24%20-%205.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I ugerne efter den første nedlukning i foråret 2020 oplevede Maria et nationalt fællesskab, hvor folk stod sammen mod sygdommen. Og hun mærkede, hvordan Danmark hænger sammen med resten af verden. Men i januar 2021 kan det føles som om samfundssindet...</itunes:subtitle>
+         <itunes:summary>I ugerne efter den første nedlukning i foråret 2020 oplevede Maria et nationalt fællesskab, hvor folk stod sammen mod sygdommen. Og hun mærkede, hvordan Danmark hænger sammen med resten af verden. Men i januar 2021 kan det føles som om samfundssindet er tyndslidt. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Mit Nørrebros youtube &lt;br /&gt;TV-Østjyllands facebook &lt;br /&gt;Ekstrabladet.dk &lt;br /&gt;Regeringen.dk &lt;br /&gt;DRDOX.tv &lt;br /&gt;Danmarkc.tv&lt;br /&gt;Loud Touché &lt;br /&gt;&lt;br /&gt;.....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</itunes:summary>
+         <itunes:duration>956</itunes:duration>
+         <itunes:keywords>corona,enigma,lockdown,loud,nedlukning,restriktioner</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>4:7 Min familie er en svingdørsfamilie</title>
+         <link>https://www.spreaker.com/episode/4-7-min-familie-er-en-svingdorsfamilie--43542875</link>
+         <description>Da nedlukningen kom, blev Alberte afskåret fra gymnasiet, veninderne, festerne og fritidsaktiviteterne. Men i fraværet i hendes normale fællesskaber fik hun tid til at genfinde forholdet til de mennesker, der bor lige på den anden side af gangen.&lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Sundhedsstyrelsen.dk &lt;br /&gt;&lt;br /&gt;...&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43542875</guid>
+         <pubDate>Mon, 22 Feb 2021 07:30:07 +0000</pubDate>
+         <enclosure length="24295593" type="audio/mpeg" url="https://archive.org/download/hvis_vi_gar_ud_fra_det_hele_ender_godt/Hvis%20vi%20g%C3%A5r%20ud%20fra%2C%20det%20hele%20ender%20godt/2021.02.22%20-%204.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Da nedlukningen kom, blev Alberte afskåret fra gymnasiet, veninderne, festerne og fritidsaktiviteterne. Men i fraværet i hendes normale fællesskaber fik hun tid til at genfinde forholdet til de mennesker, der bor lige på den anden side af gangen.
 
-Der...
-   </itunes:subtitle>
-   <itunes:summary>
-    Da nedlukningen kom, blev Alberte afskåret fra gymnasiet, veninderne, festerne og fritidsaktiviteterne. Men i fraværet i hendes normale fællesskaber fik hun tid til at genfinde forholdet til de mennesker, der bor lige på den anden side af gangen.&lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Sundhedsstyrelsen.dk &lt;br /&gt;&lt;br /&gt;...&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud.
-   </itunes:summary>
-   <itunes:duration>
-    1010
-   </itunes:duration>
-   <itunes:keywords>
-    corona,efterskole,gymnasium,lockdown,loud,nedlukning,restriktioner,ungdom
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    3:7 Helst bedst alene
-   </title>
-   <link>
-    https://www.spreaker.com/episode/3-7-helst-bedst-alene--43525114
-   </link>
-   <description>
-    Cathrine fortæller om lettelsen ved at slippe for de ufrivillige sociale fællesskaber i gymnasiet, hun som introvert normalt er presset ind i. For Cathrine har den digitale undervisning betydet, at hun deltager mere i det sociale i klassen end nogensinde før. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra:  &lt;br /&gt;Regeringen.dk &lt;br /&gt;Kongehuset.dk &lt;br /&gt;DR.dk &lt;br /&gt;&lt;br /&gt;....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43525114
-   </guid>
-   <pubDate>
-    Fri, 19 Feb 2021 07:30:08 +0000
-   </pubDate>
-   <enclosure length="25101837" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43525114/03_helst_bedst_alene.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Cathrine fortæller om lettelsen ved at slippe for de ufrivillige sociale fællesskaber i gymnasiet, hun som introvert normalt er presset ind i. For Cathrine har den digitale undervisning betydet, at hun deltager mere i det sociale i klassen end...
-   </itunes:subtitle>
-   <itunes:summary>
-    Cathrine fortæller om lettelsen ved at slippe for de ufrivillige sociale fællesskaber i gymnasiet, hun som introvert normalt er presset ind i. For Cathrine har den digitale undervisning betydet, at hun deltager mere i det sociale i klassen end nogensinde før. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra:  &lt;br /&gt;Regeringen.dk &lt;br /&gt;Kongehuset.dk &lt;br /&gt;DR.dk &lt;br /&gt;&lt;br /&gt;....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud.
-   </itunes:summary>
-   <itunes:duration>
-    1044
-   </itunes:duration>
-   <itunes:keywords>
-    corona,enigma,gymnasiet,introvert,lockdown,loud,nedlukning,restriktioner,samtaler
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    2:7 Det føles som at tage en maske over hovedet
-   </title>
-   <link>
-    https://www.spreaker.com/episode/2-7-det-foles-som-at-tage-en-maske-over-hovedet--43494442
-   </link>
-   <description>
-    Med forlængelse på forlængelse af restriktionerne i foråret 2020 blev flere og flere fællesskaber flyttet online. Også Matildes højskole flyttede både undervisning og det sociale ud på internettet. Men Matilde valgte ikke at gå på virtuel højskole , men i stedet bruge nedlukningen til at tænke over, hvad hun egentlig gerne vil i livet.  &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Regeringen.dk &lt;br /&gt;&lt;br /&gt;....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43494442
-   </guid>
-   <pubDate>
-    Wed, 17 Feb 2021 06:00:03 +0000
-   </pubDate>
-   <enclosure length="23962062" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43494442/02_det_f_les_som_at_tage_en_maske_over_hovedet.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Med forlængelse på forlængelse af restriktionerne i foråret 2020 blev flere og flere fællesskaber flyttet online. Også Matildes højskole flyttede både undervisning og det sociale ud på internettet. Men Matilde valgte ikke at gå på virtuel højskole ,...
-   </itunes:subtitle>
-   <itunes:summary>
-    Med forlængelse på forlængelse af restriktionerne i foråret 2020 blev flere og flere fællesskaber flyttet online. Også Matildes højskole flyttede både undervisning og det sociale ud på internettet. Men Matilde valgte ikke at gå på virtuel højskole , men i stedet bruge nedlukningen til at tænke over, hvad hun egentlig gerne vil i livet.  &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Regeringen.dk &lt;br /&gt;&lt;br /&gt;....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-   </itunes:summary>
-   <itunes:duration>
-    996
-   </itunes:duration>
-   <itunes:keywords>
-    corona,danmark,enigma,lockdown,loud,nedlukning
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    1:7 En ferie er aldrig rigtig uvelkommen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/1-7-en-ferie-er-aldrig-rigtig-uvelkommen--43494420
-   </link>
-   <description>
-    Da Peter i marts 20202 hørte, at Danmark lukkede ned, stod han i et kemilokale på Sorø Akademi. Han troede, at hjemsendelse fra gymnasiet betød to ugers forlænget weekend, men hurtigt blev ferie til isolation. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Regeringen.dk  &lt;br /&gt;Kongehuset.dk &lt;br /&gt;DR.dk&lt;br /&gt;&lt;br /&gt;...&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43494420
-   </guid>
-   <pubDate>
-    Wed, 17 Feb 2021 05:55:15 +0000
-   </pubDate>
-   <enclosure length="23940746" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43494420/01_en_ferie_er_aldrig_rigtig_uvelkommen.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Da Peter i marts 20202 hørte, at Danmark lukkede ned, stod han i et kemilokale på Sorø Akademi. Han troede, at hjemsendelse fra gymnasiet betød to ugers forlænget weekend, men hurtigt blev ferie til isolation. 
+Der...</itunes:subtitle>
+         <itunes:summary>Da nedlukningen kom, blev Alberte afskåret fra gymnasiet, veninderne, festerne og fritidsaktiviteterne. Men i fraværet i hendes normale fællesskaber fik hun tid til at genfinde forholdet til de mennesker, der bor lige på den anden side af gangen.&lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Sundhedsstyrelsen.dk &lt;br /&gt;&lt;br /&gt;...&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud.</itunes:summary>
+         <itunes:duration>1010</itunes:duration>
+         <itunes:keywords>corona,efterskole,gymnasium,lockdown,loud,nedlukning,restriktioner,ungdom</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>3:7 Helst bedst alene</title>
+         <link>https://www.spreaker.com/episode/3-7-helst-bedst-alene--43525114</link>
+         <description>Cathrine fortæller om lettelsen ved at slippe for de ufrivillige sociale fællesskaber i gymnasiet, hun som introvert normalt er presset ind i. For Cathrine har den digitale undervisning betydet, at hun deltager mere i det sociale i klassen end nogensinde før. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra:  &lt;br /&gt;Regeringen.dk &lt;br /&gt;Kongehuset.dk &lt;br /&gt;DR.dk &lt;br /&gt;&lt;br /&gt;....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43525114</guid>
+         <pubDate>Fri, 19 Feb 2021 07:30:08 +0000</pubDate>
+         <enclosure length="25101837" type="audio/mpeg" url="https://archive.org/download/hvis_vi_gar_ud_fra_det_hele_ender_godt/Hvis%20vi%20g%C3%A5r%20ud%20fra%2C%20det%20hele%20ender%20godt/2021.02.19%20-%203.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Cathrine fortæller om lettelsen ved at slippe for de ufrivillige sociale fællesskaber i gymnasiet, hun som introvert normalt er presset ind i. For Cathrine har den digitale undervisning betydet, at hun deltager mere i det sociale i klassen end...</itunes:subtitle>
+         <itunes:summary>Cathrine fortæller om lettelsen ved at slippe for de ufrivillige sociale fællesskaber i gymnasiet, hun som introvert normalt er presset ind i. For Cathrine har den digitale undervisning betydet, at hun deltager mere i det sociale i klassen end nogensinde før. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra:  &lt;br /&gt;Regeringen.dk &lt;br /&gt;Kongehuset.dk &lt;br /&gt;DR.dk &lt;br /&gt;&lt;br /&gt;....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud.</itunes:summary>
+         <itunes:duration>1044</itunes:duration>
+         <itunes:keywords>corona,enigma,gymnasiet,introvert,lockdown,loud,nedlukning,restriktioner,samtaler</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>2:7 Det føles som at tage en maske over hovedet</title>
+         <link>https://www.spreaker.com/episode/2-7-det-foles-som-at-tage-en-maske-over-hovedet--43494442</link>
+         <description>Med forlængelse på forlængelse af restriktionerne i foråret 2020 blev flere og flere fællesskaber flyttet online. Også Matildes højskole flyttede både undervisning og det sociale ud på internettet. Men Matilde valgte ikke at gå på virtuel højskole , men i stedet bruge nedlukningen til at tænke over, hvad hun egentlig gerne vil i livet.  &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Regeringen.dk &lt;br /&gt;&lt;br /&gt;....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43494442</guid>
+         <pubDate>Wed, 17 Feb 2021 06:00:03 +0000</pubDate>
+         <enclosure length="23962062" type="audio/mpeg" url="https://archive.org/download/hvis_vi_gar_ud_fra_det_hele_ender_godt/Hvis%20vi%20g%C3%A5r%20ud%20fra%2C%20det%20hele%20ender%20godt/2021.02.17%20-%202.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Med forlængelse på forlængelse af restriktionerne i foråret 2020 blev flere og flere fællesskaber flyttet online. Også Matildes højskole flyttede både undervisning og det sociale ud på internettet. Men Matilde valgte ikke at gå på virtuel højskole ,...</itunes:subtitle>
+         <itunes:summary>Med forlængelse på forlængelse af restriktionerne i foråret 2020 blev flere og flere fællesskaber flyttet online. Også Matildes højskole flyttede både undervisning og det sociale ud på internettet. Men Matilde valgte ikke at gå på virtuel højskole , men i stedet bruge nedlukningen til at tænke over, hvad hun egentlig gerne vil i livet.  &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Regeringen.dk &lt;br /&gt;&lt;br /&gt;....&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</itunes:summary>
+         <itunes:duration>996</itunes:duration>
+         <itunes:keywords>corona,danmark,enigma,lockdown,loud,nedlukning</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>1:7 En ferie er aldrig rigtig uvelkommen</title>
+         <link>https://www.spreaker.com/episode/1-7-en-ferie-er-aldrig-rigtig-uvelkommen--43494420</link>
+         <description>Da Peter i marts 20202 hørte, at Danmark lukkede ned, stod han i et kemilokale på Sorø Akademi. Han troede, at hjemsendelse fra gymnasiet betød to ugers forlænget weekend, men hurtigt blev ferie til isolation. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Regeringen.dk  &lt;br /&gt;Kongehuset.dk &lt;br /&gt;DR.dk&lt;br /&gt;&lt;br /&gt;...&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43494420</guid>
+         <pubDate>Wed, 17 Feb 2021 05:55:15 +0000</pubDate>
+         <enclosure length="23940746" type="audio/mpeg" url="https://archive.org/download/hvis_vi_gar_ud_fra_det_hele_ender_godt/Hvis%20vi%20g%C3%A5r%20ud%20fra%2C%20det%20hele%20ender%20godt/2021.02.17%20-%201.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Da Peter i marts 20202 hørte, at Danmark lukkede ned, stod han i et kemilokale på Sorø Akademi. Han troede, at hjemsendelse fra gymnasiet betød to ugers forlænget weekend, men hurtigt blev ferie til isolation. 
 
 Der er brugt lyd fra: 
-Regeringen.dk...
-   </itunes:subtitle>
-   <itunes:summary>
-    Da Peter i marts 20202 hørte, at Danmark lukkede ned, stod han i et kemilokale på Sorø Akademi. Han troede, at hjemsendelse fra gymnasiet betød to ugers forlænget weekend, men hurtigt blev ferie til isolation. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Regeringen.dk  &lt;br /&gt;Kongehuset.dk &lt;br /&gt;DR.dk&lt;br /&gt;&lt;br /&gt;...&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-   </itunes:summary>
-   <itunes:duration>
-    995
-   </itunes:duration>
-   <itunes:keywords>
-    akademi,corona,danmark,enigma,loud,pandemi,sorø
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    TEASER: Hvis vi går ud fra at det hele ender godt
-   </title>
-   <link>
-    https://www.spreaker.com/episode/teaser-hvis-vi-gar-ud-fra-at-det-hele-ender-godt--43416456
-   </link>
-   <description>
-    Den første nedlukning af Danmark ramte i marts 2020. Dengang troede vi, at pandemien var en alvorlig, men kortvarig tilstand. Og at vores afsavn til den almindelig hverdag var et offer vi kunne bringe for at få smitten under kontrol.&lt;br /&gt;&lt;br /&gt;Men i begyndelsen af 2021 står det klart, at det, der var et sprint, er blevet til et maraton. Vi affinder os med visheden om, at corona og dermed restriktionerne er her længe endnu. Hvad gør det ved initiativet, euforien, frygten og sammenholdet, vi oplevede i begyndelsen af perioden?&lt;br /&gt; &lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43416456
-   </guid>
-   <pubDate>
-    Fri, 12 Feb 2021 10:11:41 +0000
-   </pubDate>
-   <enclosure length="2040939" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43416456/teaser_v1.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Den første nedlukning af Danmark ramte i marts 2020. Dengang troede vi, at pandemien var en alvorlig, men kortvarig tilstand. Og at vores afsavn til den almindelig hverdag var et offer vi kunne bringe for at få smitten under kontrol.
+Regeringen.dk...</itunes:subtitle>
+         <itunes:summary>Da Peter i marts 20202 hørte, at Danmark lukkede ned, stod han i et kemilokale på Sorø Akademi. Han troede, at hjemsendelse fra gymnasiet betød to ugers forlænget weekend, men hurtigt blev ferie til isolation. &lt;br /&gt;&lt;br /&gt;Der er brugt lyd fra: &lt;br /&gt;Regeringen.dk  &lt;br /&gt;Kongehuset.dk &lt;br /&gt;DR.dk&lt;br /&gt;&lt;br /&gt;...&lt;br /&gt;&lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</itunes:summary>
+         <itunes:duration>995</itunes:duration>
+         <itunes:keywords>akademi,corona,danmark,enigma,loud,pandemi,sorø</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>TEASER: Hvis vi går ud fra at det hele ender godt</title>
+         <link>https://www.spreaker.com/episode/teaser-hvis-vi-gar-ud-fra-at-det-hele-ender-godt--43416456</link>
+         <description>Den første nedlukning af Danmark ramte i marts 2020. Dengang troede vi, at pandemien var en alvorlig, men kortvarig tilstand. Og at vores afsavn til den almindelig hverdag var et offer vi kunne bringe for at få smitten under kontrol.&lt;br /&gt;&lt;br /&gt;Men i begyndelsen af 2021 står det klart, at det, der var et sprint, er blevet til et maraton. Vi affinder os med visheden om, at corona og dermed restriktionerne er her længe endnu. Hvad gør det ved initiativet, euforien, frygten og sammenholdet, vi oplevede i begyndelsen af perioden?&lt;br /&gt; &lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43416456</guid>
+         <pubDate>Fri, 12 Feb 2021 10:11:41 +0000</pubDate>
+         <enclosure length="2040939" type="audio/mpeg" url="https://archive.org/download/hvis_vi_gar_ud_fra_det_hele_ender_godt/Hvis%20vi%20g%C3%A5r%20ud%20fra%2C%20det%20hele%20ender%20godt/2021.02.12%20-%20TEASER.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Den første nedlukning af Danmark ramte i marts 2020. Dengang troede vi, at pandemien var en alvorlig, men kortvarig tilstand. Og at vores afsavn til den almindelig hverdag var et offer vi kunne bringe for at få smitten under kontrol.
 
-Men i...
-   </itunes:subtitle>
-   <itunes:summary>
-    Den første nedlukning af Danmark ramte i marts 2020. Dengang troede vi, at pandemien var en alvorlig, men kortvarig tilstand. Og at vores afsavn til den almindelig hverdag var et offer vi kunne bringe for at få smitten under kontrol.&lt;br /&gt;&lt;br /&gt;Men i begyndelsen af 2021 står det klart, at det, der var et sprint, er blevet til et maraton. Vi affinder os med visheden om, at corona og dermed restriktionerne er her længe endnu. Hvad gør det ved initiativet, euforien, frygten og sammenholdet, vi oplevede i begyndelsen af perioden?&lt;br /&gt; &lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.
-   </itunes:summary>
-   <itunes:duration>
-    124
-   </itunes:duration>
-   <itunes:keywords>
-    corona,danmar,danmark,enigma,lockdown,ungdom
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+Men i...</itunes:subtitle>
+         <itunes:summary>Den første nedlukning af Danmark ramte i marts 2020. Dengang troede vi, at pandemien var en alvorlig, men kortvarig tilstand. Og at vores afsavn til den almindelig hverdag var et offer vi kunne bringe for at få smitten under kontrol.&lt;br /&gt;&lt;br /&gt;Men i begyndelsen af 2021 står det klart, at det, der var et sprint, er blevet til et maraton. Vi affinder os med visheden om, at corona og dermed restriktionerne er her længe endnu. Hvad gør det ved initiativet, euforien, frygten og sammenholdet, vi oplevede i begyndelsen af perioden?&lt;br /&gt; &lt;br /&gt;I podcastserien ‘Hvis vi går ud fra at det hele ender godt’ fortæller unge om deres oplevelser med et ungdomsliv, der er ramt af corona-restriktioner. Podcasten dykker både ned i følelserne i begyndelsen af pandemien, hvor alt var nyt og ned i stemningen i dag, hvor vi gennemlever nogle af de samme omstændigheder, vi levede under i foråret 2020.   &lt;br /&gt;&lt;br /&gt;Denne podcast bygger på ca. 140 unges beretninger om vigtigheden af fællesskaber, skrevet i foråret 2020, hvor Danmark gik igennem den første nedlukning af samfundet pga. truende coronasmitte.&lt;br /&gt;&lt;br /&gt;Bag indsamlingen af beretningerne stod ungdomsorganisationen DemokraTour, Room of Solutions, Kulturrummet og ENIGMA – Museum for post, tele og kommunikation. Tuborgfondet støttede indsamlingsprojektet økonomisk.&lt;br /&gt;&lt;br /&gt;Podcastserien er produceret af og på ENIGMA for Radio Loud. I redaktionen sad Martin Johansen, Eva Wistoft Andersen og Nanna Schmidt Nordestgaard.</itunes:summary>
+         <itunes:duration>124</itunes:duration>
+         <itunes:keywords>corona,danmar,danmark,enigma,lockdown,ungdom</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25cb27879e6be870a8947615e35be4cd.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

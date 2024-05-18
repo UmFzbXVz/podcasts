@@ -1,405 +1,173 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Menneskemuseet
-  </title>
-  <link>
-   https://loud.land/podcast/menneskemuseet
-  </link>
-  <description>
-   I Menneskemuseet skaber vi sammen et galleri over menneskets intense og tabubelagte følelser - uden fordømmelse og skam. Med jeres historier og et blik på vores popkultur, kaster vi lys over hvad der sker når den store følelse overtager os.&lt;br /&gt;&lt;br /&gt;Menneskemuseet er en del af LOUD TALENT
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4839115/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   Copyright LOUD
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4b70c0e9cf275d65a3833c06945c61c4.jpg
-   </url>
-   <title>
-    Menneskemuseet
-   </title>
-   <link>
-    https://loud.land/podcast/menneskemuseet
-   </link>
-  </image>
-  <lastBuildDate>
-   Wed, 28 Feb 2024 09:21:13 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4b70c0e9cf275d65a3833c06945c61c4.jpg"/>
-  <itunes:subtitle>
-   I Menneskemuseet skaber vi sammen et galleri over menneskets intense og tabubelagte følelser - uden fordømmelse og skam. Med jeres historier og et blik på vores popkultur, kaster vi lys over hvad der sker når den store følelse overtager os....
-  </itunes:subtitle>
-  <itunes:summary>
-   I Menneskemuseet skaber vi sammen et galleri over menneskets intense og tabubelagte følelser - uden fordømmelse og skam. Med jeres historier og et blik på vores popkultur, kaster vi lys over hvad der sker når den store følelse overtager os.&lt;br /&gt;&lt;br /&gt;Menneskemuseet er en del af LOUD TALENT
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:category text="Health &amp; Fitness">
-   <itunes:category text="Mental Health"/>
-  </itunes:category>
-  <itunes:category text="Society &amp; Culture">
-   <itunes:category text="Relationships"/>
-  </itunes:category>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    TOMHED: det sorte hul
-   </title>
-   <link>
-    https://www.spreaker.com/episode/tomhed-det-sorte-hul--44658238
-   </link>
-   <description>
-    At føle er at være menneske. Derfor er samtaleemnet i dag, tomhed, ekstra specielt, da følelsen blokerer vores glæde, vrede og sorg. I denne episode diskuterer vi hvordan følelsen kan mærkes, hvordan den er blevet vist og hvad vi gør, når vi kan mærke tomheden komme krybende - eller når vi savner det sorte hul.&lt;br /&gt;&lt;br /&gt;Redaktør/producer: Julie Emilie Bisgaard&lt;br /&gt;Vært: Emma Lykke Ladegaard, Laura S. Linnemann, Marie Becker Mingolla, Julie Emilie Bisgaard&lt;br /&gt;Redaktion: Emma Lykke Ladegaard&lt;br /&gt;Produktionsleder: Marie Becker Mingolla
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44658238
-   </guid>
-   <pubDate>
-    Sun, 09 May 2021 04:00:05 +0000
-   </pubDate>
-   <enclosure length="25837105" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44658238/tomhed.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    At føle er at være menneske. Derfor er samtaleemnet i dag, tomhed, ekstra specielt, da følelsen blokerer vores glæde, vrede og sorg. I denne episode diskuterer vi hvordan følelsen kan mærkes, hvordan den er blevet vist og hvad vi gør, når vi kan mærke...
-   </itunes:subtitle>
-   <itunes:summary>
-    At føle er at være menneske. Derfor er samtaleemnet i dag, tomhed, ekstra specielt, da følelsen blokerer vores glæde, vrede og sorg. I denne episode diskuterer vi hvordan følelsen kan mærkes, hvordan den er blevet vist og hvad vi gør, når vi kan mærke tomheden komme krybende - eller når vi savner det sorte hul.&lt;br /&gt;&lt;br /&gt;Redaktør/producer: Julie Emilie Bisgaard&lt;br /&gt;Vært: Emma Lykke Ladegaard, Laura S. Linnemann, Marie Becker Mingolla, Julie Emilie Bisgaard&lt;br /&gt;Redaktion: Emma Lykke Ladegaard&lt;br /&gt;Produktionsleder: Marie Becker Mingolla
-   </itunes:summary>
-   <itunes:duration>
-    1618
-   </itunes:duration>
-   <itunes:keywords>
-    depression,tom,tomhed,ung
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/149363533bb61c16d669a8e583f443e4.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    LYST: til det forbudte
-   </title>
-   <link>
-    https://www.spreaker.com/episode/lyst-til-det-forbudte--44553218
-   </link>
-   <description>
-    “Jeg tænkte på om det er moralsk korrekt” siger vores anonyme gæst, når hun fortæller om en gang hvor lyst tog over hende. I denne episode diskuterer vi en af de mest tabubelagte følelser, hvad det kan betyde for de forskellige køn og hvordan det kan føre mennesket mod en mere selvisk retning.&lt;br /&gt;&lt;br /&gt;Værter: Julie Emilie Bisgaard, Emma Lykke Ladegaard, Laura Linnemann, Marie Becker Mingolla
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44553218
-   </guid>
-   <pubDate>
-    Sun, 02 May 2021 04:00:03 +0000
-   </pubDate>
-   <enclosure length="25906136" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44553218/lyst.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    “Jeg tænkte på om det er moralsk korrekt” siger vores anonyme gæst, når hun fortæller om en gang hvor lyst tog over hende. I denne episode diskuterer vi en af de mest tabubelagte følelser, hvad det kan betyde for de forskellige køn og hvordan det kan...
-   </itunes:subtitle>
-   <itunes:summary>
-    “Jeg tænkte på om det er moralsk korrekt” siger vores anonyme gæst, når hun fortæller om en gang hvor lyst tog over hende. I denne episode diskuterer vi en af de mest tabubelagte følelser, hvad det kan betyde for de forskellige køn og hvordan det kan føre mennesket mod en mere selvisk retning.&lt;br /&gt;&lt;br /&gt;Værter: Julie Emilie Bisgaard, Emma Lykke Ladegaard, Laura Linnemann, Marie Becker Mingolla
-   </itunes:summary>
-   <itunes:duration>
-    1620
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/38b17779b103ce96148445a2bf01f7ce.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    JALOUSI: de usikre relationer
-   </title>
-   <link>
-    https://www.spreaker.com/episode/jalousi-de-usikre-relationer--44419770
-   </link>
-   <description>
-    “Jeg har bare brug for at tjekke hans beskeder,” lyder det fra vores anonyme gæst, som fortæller, om hvordan tvivlen desværre formår at finde vejen frem - selv i de trygge relationer. &lt;br /&gt;&lt;br /&gt;I dette afsnit af Menneskemuseet kigger vi nærmere på følelsen jalousi og dens søskende: misundelse og disundelse.&lt;br /&gt;&lt;br /&gt;Medvirkende: Lene Becker&lt;br /&gt;Redaktør/producer: Laura Linnemann &lt;br /&gt;Værter: Emma Lykke Ladegaard, Marie Becker Mingolla og Laura Linnemann&lt;br /&gt;Redaktion: Emma Lykke Ladegaard, Julie Emilie Bisgaard &lt;br /&gt;Produktionsleder: Julie Emilie Bisgaard
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44419770
-   </guid>
-   <pubDate>
-    Sun, 25 Apr 2021 04:00:13 +0000
-   </pubDate>
-   <enclosure length="25877728" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44419770/afsnit_mp3.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    “Jeg har bare brug for at tjekke hans beskeder,” lyder det fra vores anonyme gæst, som fortæller, om hvordan tvivlen desværre formår at finde vejen frem - selv i de trygge relationer. 
-
-I dette afsnit af Menneskemuseet kigger vi nærmere på følelsen...
-   </itunes:subtitle>
-   <itunes:summary>
-    “Jeg har bare brug for at tjekke hans beskeder,” lyder det fra vores anonyme gæst, som fortæller, om hvordan tvivlen desværre formår at finde vejen frem - selv i de trygge relationer. &lt;br /&gt;&lt;br /&gt;I dette afsnit af Menneskemuseet kigger vi nærmere på følelsen jalousi og dens søskende: misundelse og disundelse.&lt;br /&gt;&lt;br /&gt;Medvirkende: Lene Becker&lt;br /&gt;Redaktør/producer: Laura Linnemann &lt;br /&gt;Værter: Emma Lykke Ladegaard, Marie Becker Mingolla og Laura Linnemann&lt;br /&gt;Redaktion: Emma Lykke Ladegaard, Julie Emilie Bisgaard &lt;br /&gt;Produktionsleder: Julie Emilie Bisgaard
-   </itunes:summary>
-   <itunes:duration>
-    1618
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/256afc8098942736e2ec7ae55e635256.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    HAD: det destruktive jeg
-   </title>
-   <link>
-    https://www.spreaker.com/episode/had-det-destruktive-jeg--44358844
-   </link>
-   <description>
-    "Fra krummer i sengen til racister", det blev resultatet af spørgerunden om hvad vores lyttere går rundt og hader. Sikke et spektrum. I dette afsnit af Menneskemusset kigger vi nærmere på følelsen had, og hvordan den kan destruere folk omkring os og ikke mindst os selv"&lt;br /&gt;&lt;br /&gt;Vært: Laura Sofia Linnemann, Emma Lykke Ladegaard, Julie Emilie Bisgaard&lt;br /&gt;Medvirkende: Tonni Søgaard, Uffe Ladegaard, Vito Mingolla
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44358844
-   </guid>
-   <pubDate>
-    Mon, 19 Apr 2021 04:00:18 +0000
-   </pubDate>
-   <enclosure length="25887554" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44358844/had.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    "Fra krummer i sengen til racister", det blev resultatet af spørgerunden om hvad vores lyttere går rundt og hader. Sikke et spektrum. I dette afsnit af Menneskemusset kigger vi nærmere på følelsen had, og hvordan den kan destruere folk omkring os og...
-   </itunes:subtitle>
-   <itunes:summary>
-    "Fra krummer i sengen til racister", det blev resultatet af spørgerunden om hvad vores lyttere går rundt og hader. Sikke et spektrum. I dette afsnit af Menneskemusset kigger vi nærmere på følelsen had, og hvordan den kan destruere folk omkring os og ikke mindst os selv"&lt;br /&gt;&lt;br /&gt;Vært: Laura Sofia Linnemann, Emma Lykke Ladegaard, Julie Emilie Bisgaard&lt;br /&gt;Medvirkende: Tonni Søgaard, Uffe Ladegaard, Vito Mingolla
-   </itunes:summary>
-   <itunes:duration>
-    1618
-   </itunes:duration>
-   <itunes:keywords>
-    had
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/917753ef63b2e2f4df52610e9063cbfd.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    STOLTHED: gi'r ik' en fuck for janteloven
-   </title>
-   <link>
-    https://www.spreaker.com/episode/stolthed-gi-r-ik-en-fuck-for-janteloven--44269341
-   </link>
-   <description>
-    ”Jeg hænger kun med bitches, der ik' gi'r en fuck for janteloven!” sådan synger Tessa i sin sang ”Glo på mig”, som er startskuddet på dette afsnit af Menneskemuseet, der omhandler stolthed. I dette afsnit kigger vi nærmere på janteloven, og så får vi besøg af Zara, som fortæller om sin rejse til at være stolt over sig selv - og ikke mindst, at være stolt af sin krop.&lt;br /&gt;&lt;br /&gt;Gæst: Zara Eken Taskin &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Redaktør/Producer: Marie Becker Mingolla&lt;br /&gt;- Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann &lt;br /&gt;- Redaktion: Julie Emilie Bisgaard  &lt;br /&gt;- Journalist/Reporter: Laura Sofia Linnemann&lt;br /&gt;- Produktionsleder: Emma Lykke Ladegaard
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44269341
-   </guid>
-   <pubDate>
-    Mon, 12 Apr 2021 04:00:22 +0000
-   </pubDate>
-   <enclosure length="26102167" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44269341/stolthed.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    ”Jeg hænger kun med bitches, der ik' gi'r en fuck for janteloven!” sådan synger Tessa i sin sang ”Glo på mig”, som er startskuddet på dette afsnit af Menneskemuseet, der omhandler stolthed. I dette afsnit kigger vi nærmere på janteloven, og så får vi...
-   </itunes:subtitle>
-   <itunes:summary>
-    ”Jeg hænger kun med bitches, der ik' gi'r en fuck for janteloven!” sådan synger Tessa i sin sang ”Glo på mig”, som er startskuddet på dette afsnit af Menneskemuseet, der omhandler stolthed. I dette afsnit kigger vi nærmere på janteloven, og så får vi besøg af Zara, som fortæller om sin rejse til at være stolt over sig selv - og ikke mindst, at være stolt af sin krop.&lt;br /&gt;&lt;br /&gt;Gæst: Zara Eken Taskin &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Redaktør/Producer: Marie Becker Mingolla&lt;br /&gt;- Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann &lt;br /&gt;- Redaktion: Julie Emilie Bisgaard  &lt;br /&gt;- Journalist/Reporter: Laura Sofia Linnemann&lt;br /&gt;- Produktionsleder: Emma Lykke Ladegaard
-   </itunes:summary>
-   <itunes:duration>
-    1632
-   </itunes:duration>
-   <itunes:keywords>
-    janteloven,kropsidealer,stolthed
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/55da05950366935d12ec04fc5df2a5f0.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    KÆRLIGHED: uperfekt perfekt
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kaerlighed-uperfekt-perfekt--44127379
-   </link>
-   <description>
-    ”Det er ikke altid, som man ser på film,” fortæller Mie om sit kærlighedsliv, som alligevel er magisk-kaotisk. I dette afsnit af Menneskemuseet kigger vi på kærlighed, og hvordan vi er vokset op med et bestemt syn på følelsen – men ændrer synet sig mon i takt med, at vi bliver ældre?&lt;br /&gt;&lt;br /&gt;Gæst: Mie Wallin &lt;br /&gt;&lt;br /&gt;Medvirkende:&lt;br /&gt;Sylvester Poulsen&lt;br /&gt;Christian Skylv&lt;br /&gt;Elisa Violante&lt;br /&gt;Luanna Mathiasen&lt;br /&gt;Sanne Fransson&lt;br /&gt;Asta Holm&lt;br /&gt;Silja Dangvard Bjørn&lt;br /&gt;Julie Rasmussen&lt;br /&gt;&lt;br /&gt;Redaktør/Producer: Julie Emilie Bisgaard  &lt;br /&gt;Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann, Julie Emilie Bisgaard&lt;br /&gt;Redaktion: Emma Lykke Ladegaard, Laura Sofia Linnemann&lt;br /&gt;Produktionsleder: Marie Becker Mingolla&lt;br /&gt;&lt;br /&gt;Klip fra filmene Little Women (Greta Gerwig, 2019), The Notebook (Nick Cassavetes, 2004) og When Harry Met Sally (Rob Reiner, 1989)
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44127379
-   </guid>
-   <pubDate>
-    Sun, 04 Apr 2021 21:20:16 +0000
-   </pubDate>
-   <enclosure length="26106774" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44127379/k_rlighed_ep3.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    ”Det er ikke altid, som man ser på film,” fortæller Mie om sit kærlighedsliv, som alligevel er magisk-kaotisk. I dette afsnit af Menneskemuseet kigger vi på kærlighed, og hvordan vi er vokset op med et bestemt syn på følelsen – men ændrer synet sig...
-   </itunes:subtitle>
-   <itunes:summary>
-    ”Det er ikke altid, som man ser på film,” fortæller Mie om sit kærlighedsliv, som alligevel er magisk-kaotisk. I dette afsnit af Menneskemuseet kigger vi på kærlighed, og hvordan vi er vokset op med et bestemt syn på følelsen – men ændrer synet sig mon i takt med, at vi bliver ældre?&lt;br /&gt;&lt;br /&gt;Gæst: Mie Wallin &lt;br /&gt;&lt;br /&gt;Medvirkende:&lt;br /&gt;Sylvester Poulsen&lt;br /&gt;Christian Skylv&lt;br /&gt;Elisa Violante&lt;br /&gt;Luanna Mathiasen&lt;br /&gt;Sanne Fransson&lt;br /&gt;Asta Holm&lt;br /&gt;Silja Dangvard Bjørn&lt;br /&gt;Julie Rasmussen&lt;br /&gt;&lt;br /&gt;Redaktør/Producer: Julie Emilie Bisgaard  &lt;br /&gt;Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann, Julie Emilie Bisgaard&lt;br /&gt;Redaktion: Emma Lykke Ladegaard, Laura Sofia Linnemann&lt;br /&gt;Produktionsleder: Marie Becker Mingolla&lt;br /&gt;&lt;br /&gt;Klip fra filmene Little Women (Greta Gerwig, 2019), The Notebook (Nick Cassavetes, 2004) og When Harry Met Sally (Rob Reiner, 1989)
-   </itunes:summary>
-   <itunes:duration>
-    1632
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18cdfcaca13b77734a60c7ec6d5d5d28.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    SKYLD: kultur, lov og de uskrevne regler
-   </title>
-   <link>
-    https://www.spreaker.com/episode/skyld-kultur-lov-og-de-uskrevne-regler--44032474
-   </link>
-   <description>
-    “Skyld kan virkelig nedbryde en,” fortæller Christoffer i forbindelse med, at han fortæller os sin historie om et usundt forhold, han brød ud af.&lt;br /&gt;I dette afsnit af Menneskemuseet kaster vi lys over følelsen skyld og den form for magt, som følelsen kan indebære - og hvordan vi forholder os til den.&lt;br /&gt;&lt;br /&gt;Medvirkende: Christoffer Filtenborg&lt;br /&gt;Nis Christensen &lt;br /&gt;Sanne Fransson&lt;br /&gt;Emily Waldorf Collins &lt;br /&gt;Frida binderup køhn &lt;br /&gt;Kasper Bagger &lt;br /&gt;Elisa Violante &lt;br /&gt;&lt;br /&gt;Intro: Sylvester Poulsen &lt;br /&gt;&lt;br /&gt;Redaktør/Producer: Laura Sofia Linnemann&lt;br /&gt;Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann, Julie Emilie &lt;br /&gt;Redaktion: Emma Lykke Ladegaard,  Marie Becker Mingolla&lt;br /&gt;Produktionsleder: Julie Emilie Bisgaard
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44032474
-   </guid>
-   <pubDate>
-    Sun, 28 Mar 2021 21:20:02 +0000
-   </pubDate>
-   <enclosure length="27069736" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44032474/skyld_ep2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    “Skyld kan virkelig nedbryde en,” fortæller Christoffer i forbindelse med, at han fortæller os sin historie om et usundt forhold, han brød ud af.
-I dette afsnit af Menneskemuseet kaster vi lys over følelsen skyld og den form for magt, som følelsen...
-   </itunes:subtitle>
-   <itunes:summary>
-    “Skyld kan virkelig nedbryde en,” fortæller Christoffer i forbindelse med, at han fortæller os sin historie om et usundt forhold, han brød ud af.&lt;br /&gt;I dette afsnit af Menneskemuseet kaster vi lys over følelsen skyld og den form for magt, som følelsen kan indebære - og hvordan vi forholder os til den.&lt;br /&gt;&lt;br /&gt;Medvirkende: Christoffer Filtenborg&lt;br /&gt;Nis Christensen &lt;br /&gt;Sanne Fransson&lt;br /&gt;Emily Waldorf Collins &lt;br /&gt;Frida binderup køhn &lt;br /&gt;Kasper Bagger &lt;br /&gt;Elisa Violante &lt;br /&gt;&lt;br /&gt;Intro: Sylvester Poulsen &lt;br /&gt;&lt;br /&gt;Redaktør/Producer: Laura Sofia Linnemann&lt;br /&gt;Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann, Julie Emilie &lt;br /&gt;Redaktion: Emma Lykke Ladegaard,  Marie Becker Mingolla&lt;br /&gt;Produktionsleder: Julie Emilie Bisgaard
-   </itunes:summary>
-   <itunes:duration>
-    1692
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f95579faaa5958f26ff60071b4b82afb.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    ANGST: at besvime blev befriende
-   </title>
-   <link>
-    https://www.spreaker.com/episode/angst-at-besvime-blev-befriende--43946836
-   </link>
-   <description>
-    ”at besvime blev befriende”. Det blev vendepunktet for Asta på 18 år, som fortæller om sit angstanfald, der eskalerede på en togtur på vej hjem fra en fest. I dette afsnit berører vi temaet angst, og vi får bl.a. besøg af musiker Jacob Aksglæde, som fortæller om sin sang ”bølger”, der tager fat i sårbarhed som styrke. &lt;br /&gt;&lt;br /&gt;Redaktør/Producer: Laura Sofia Linnemann&lt;br /&gt;Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann, Julie Emilie &lt;br /&gt;Redaktion: Emma Lykke Ladegaard,  Marie Becker Mingolla&lt;br /&gt;Produktionsleder: Julie Emilie Bisgaard &lt;br /&gt;&lt;br /&gt;Medvirkende: Jacob Aksglæde og Asta Holm
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43946836
-   </guid>
-   <pubDate>
-    Sun, 21 Mar 2021 22:20:09 +0000
-   </pubDate>
-   <enclosure length="25876013" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43946836/angst_ep1.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    ”at besvime blev befriende”. Det blev vendepunktet for Asta på 18 år, som fortæller om sit angstanfald, der eskalerede på en togtur på vej hjem fra en fest. I dette afsnit berører vi temaet angst, og vi får bl.a. besøg af musiker Jacob Aksglæde, som...
-   </itunes:subtitle>
-   <itunes:summary>
-    ”at besvime blev befriende”. Det blev vendepunktet for Asta på 18 år, som fortæller om sit angstanfald, der eskalerede på en togtur på vej hjem fra en fest. I dette afsnit berører vi temaet angst, og vi får bl.a. besøg af musiker Jacob Aksglæde, som fortæller om sin sang ”bølger”, der tager fat i sårbarhed som styrke. &lt;br /&gt;&lt;br /&gt;Redaktør/Producer: Laura Sofia Linnemann&lt;br /&gt;Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann, Julie Emilie &lt;br /&gt;Redaktion: Emma Lykke Ladegaard,  Marie Becker Mingolla&lt;br /&gt;Produktionsleder: Julie Emilie Bisgaard &lt;br /&gt;&lt;br /&gt;Medvirkende: Jacob Aksglæde og Asta Holm
-   </itunes:summary>
-   <itunes:duration>
-    1618
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3fca7fa30997bcf9204d2b83379eea1a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Menneskemuseet
-   </title>
-   <link>
-    https://www.spreaker.com/episode/menneskemuseet--43946837
-   </link>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43946837
-   </guid>
-   <pubDate>
-    Thu, 18 Mar 2021 12:20:06 +0000
-   </pubDate>
-   <enclosure length="84201" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43946837/menneskemuseet_blip.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:duration>
-    6
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4b70c0e9cf275d65a3833c06945c61c4.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Menneskemuseet</title>
+      <link>https://loud.land/podcast/menneskemuseet</link>
+      <description>I Menneskemuseet skaber vi sammen et galleri over menneskets intense og tabubelagte følelser - uden fordømmelse og skam. Med jeres historier og et blik på vores popkultur, kaster vi lys over hvad der sker når den store følelse overtager os.&lt;br /&gt;&lt;br /&gt;Menneskemuseet er en del af LOUD TALENT</description>
+      <atom:link href="https://www.spreaker.com/show/4839115/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>Copyright LOUD</copyright>
+      <image>
+         <url>https://archive.org/download/menneskemuseet/Menneskemuseet/4b70c0e9cf275d65a3833c06945c61c4.jpg</url>
+         <title>Menneskemuseet</title>
+         <link>https://loud.land/podcast/menneskemuseet</link>
+      </image>
+      <lastBuildDate>Wed, 28 Feb 2024 09:21:13 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4b70c0e9cf275d65a3833c06945c61c4.jpg" />
+      <itunes:subtitle>I Menneskemuseet skaber vi sammen et galleri over menneskets intense og tabubelagte følelser - uden fordømmelse og skam. Med jeres historier og et blik på vores popkultur, kaster vi lys over hvad der sker når den store følelse overtager os....</itunes:subtitle>
+      <itunes:summary>I Menneskemuseet skaber vi sammen et galleri over menneskets intense og tabubelagte følelser - uden fordømmelse og skam. Med jeres historier og et blik på vores popkultur, kaster vi lys over hvad der sker når den store følelse overtager os.&lt;br /&gt;&lt;br /&gt;Menneskemuseet er en del af LOUD TALENT</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:category text="Health &amp; Fitness">
+         <itunes:category text="Mental Health" />
+      </itunes:category>
+      <itunes:category text="Society &amp; Culture">
+         <itunes:category text="Relationships" />
+      </itunes:category>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>TOMHED: det sorte hul</title>
+         <link>https://www.spreaker.com/episode/tomhed-det-sorte-hul--44658238</link>
+         <description>At føle er at være menneske. Derfor er samtaleemnet i dag, tomhed, ekstra specielt, da følelsen blokerer vores glæde, vrede og sorg. I denne episode diskuterer vi hvordan følelsen kan mærkes, hvordan den er blevet vist og hvad vi gør, når vi kan mærke tomheden komme krybende - eller når vi savner det sorte hul.&lt;br /&gt;&lt;br /&gt;Redaktør/producer: Julie Emilie Bisgaard&lt;br /&gt;Vært: Emma Lykke Ladegaard, Laura S. Linnemann, Marie Becker Mingolla, Julie Emilie Bisgaard&lt;br /&gt;Redaktion: Emma Lykke Ladegaard&lt;br /&gt;Produktionsleder: Marie Becker Mingolla</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44658238</guid>
+         <pubDate>Sun, 09 May 2021 04:00:05 +0000</pubDate>
+         <enclosure length="25837105" type="audio/mpeg" url="https://archive.org/download/menneskemuseet/Menneskemuseet/2021.05.09%20-%20TOMHED.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>At føle er at være menneske. Derfor er samtaleemnet i dag, tomhed, ekstra specielt, da følelsen blokerer vores glæde, vrede og sorg. I denne episode diskuterer vi hvordan følelsen kan mærkes, hvordan den er blevet vist og hvad vi gør, når vi kan mærke...</itunes:subtitle>
+         <itunes:summary>At føle er at være menneske. Derfor er samtaleemnet i dag, tomhed, ekstra specielt, da følelsen blokerer vores glæde, vrede og sorg. I denne episode diskuterer vi hvordan følelsen kan mærkes, hvordan den er blevet vist og hvad vi gør, når vi kan mærke tomheden komme krybende - eller når vi savner det sorte hul.&lt;br /&gt;&lt;br /&gt;Redaktør/producer: Julie Emilie Bisgaard&lt;br /&gt;Vært: Emma Lykke Ladegaard, Laura S. Linnemann, Marie Becker Mingolla, Julie Emilie Bisgaard&lt;br /&gt;Redaktion: Emma Lykke Ladegaard&lt;br /&gt;Produktionsleder: Marie Becker Mingolla</itunes:summary>
+         <itunes:duration>1618</itunes:duration>
+         <itunes:keywords>depression,tom,tomhed,ung</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/149363533bb61c16d669a8e583f443e4.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>LYST: til det forbudte</title>
+         <link>https://www.spreaker.com/episode/lyst-til-det-forbudte--44553218</link>
+         <description>“Jeg tænkte på om det er moralsk korrekt” siger vores anonyme gæst, når hun fortæller om en gang hvor lyst tog over hende. I denne episode diskuterer vi en af de mest tabubelagte følelser, hvad det kan betyde for de forskellige køn og hvordan det kan føre mennesket mod en mere selvisk retning.&lt;br /&gt;&lt;br /&gt;Værter: Julie Emilie Bisgaard, Emma Lykke Ladegaard, Laura Linnemann, Marie Becker Mingolla</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44553218</guid>
+         <pubDate>Sun, 02 May 2021 04:00:03 +0000</pubDate>
+         <enclosure length="25906136" type="audio/mpeg" url="https://archive.org/download/menneskemuseet/Menneskemuseet/2021.05.02%20-%20LYST.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>“Jeg tænkte på om det er moralsk korrekt” siger vores anonyme gæst, når hun fortæller om en gang hvor lyst tog over hende. I denne episode diskuterer vi en af de mest tabubelagte følelser, hvad det kan betyde for de forskellige køn og hvordan det kan...</itunes:subtitle>
+         <itunes:summary>“Jeg tænkte på om det er moralsk korrekt” siger vores anonyme gæst, når hun fortæller om en gang hvor lyst tog over hende. I denne episode diskuterer vi en af de mest tabubelagte følelser, hvad det kan betyde for de forskellige køn og hvordan det kan føre mennesket mod en mere selvisk retning.&lt;br /&gt;&lt;br /&gt;Værter: Julie Emilie Bisgaard, Emma Lykke Ladegaard, Laura Linnemann, Marie Becker Mingolla</itunes:summary>
+         <itunes:duration>1620</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/38b17779b103ce96148445a2bf01f7ce.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>JALOUSI: de usikre relationer</title>
+         <link>https://www.spreaker.com/episode/jalousi-de-usikre-relationer--44419770</link>
+         <description>“Jeg har bare brug for at tjekke hans beskeder,” lyder det fra vores anonyme gæst, som fortæller, om hvordan tvivlen desværre formår at finde vejen frem - selv i de trygge relationer. &lt;br /&gt;&lt;br /&gt;I dette afsnit af Menneskemuseet kigger vi nærmere på følelsen jalousi og dens søskende: misundelse og disundelse.&lt;br /&gt;&lt;br /&gt;Medvirkende: Lene Becker&lt;br /&gt;Redaktør/producer: Laura Linnemann &lt;br /&gt;Værter: Emma Lykke Ladegaard, Marie Becker Mingolla og Laura Linnemann&lt;br /&gt;Redaktion: Emma Lykke Ladegaard, Julie Emilie Bisgaard &lt;br /&gt;Produktionsleder: Julie Emilie Bisgaard</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44419770</guid>
+         <pubDate>Sun, 25 Apr 2021 04:00:13 +0000</pubDate>
+         <enclosure length="25877728" type="audio/mpeg" url="https://archive.org/download/menneskemuseet/Menneskemuseet/2021.04.25%20-%20JALOUSI.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>“Jeg har bare brug for at tjekke hans beskeder,” lyder det fra vores anonyme gæst, som fortæller, om hvordan tvivlen desværre formår at finde vejen frem - selv i de trygge relationer. 
+
+I dette afsnit af Menneskemuseet kigger vi nærmere på følelsen...</itunes:subtitle>
+         <itunes:summary>“Jeg har bare brug for at tjekke hans beskeder,” lyder det fra vores anonyme gæst, som fortæller, om hvordan tvivlen desværre formår at finde vejen frem - selv i de trygge relationer. &lt;br /&gt;&lt;br /&gt;I dette afsnit af Menneskemuseet kigger vi nærmere på følelsen jalousi og dens søskende: misundelse og disundelse.&lt;br /&gt;&lt;br /&gt;Medvirkende: Lene Becker&lt;br /&gt;Redaktør/producer: Laura Linnemann &lt;br /&gt;Værter: Emma Lykke Ladegaard, Marie Becker Mingolla og Laura Linnemann&lt;br /&gt;Redaktion: Emma Lykke Ladegaard, Julie Emilie Bisgaard &lt;br /&gt;Produktionsleder: Julie Emilie Bisgaard</itunes:summary>
+         <itunes:duration>1618</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/256afc8098942736e2ec7ae55e635256.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>HAD: det destruktive jeg</title>
+         <link>https://www.spreaker.com/episode/had-det-destruktive-jeg--44358844</link>
+         <description>"Fra krummer i sengen til racister", det blev resultatet af spørgerunden om hvad vores lyttere går rundt og hader. Sikke et spektrum. I dette afsnit af Menneskemusset kigger vi nærmere på følelsen had, og hvordan den kan destruere folk omkring os og ikke mindst os selv"&lt;br /&gt;&lt;br /&gt;Vært: Laura Sofia Linnemann, Emma Lykke Ladegaard, Julie Emilie Bisgaard&lt;br /&gt;Medvirkende: Tonni Søgaard, Uffe Ladegaard, Vito Mingolla</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44358844</guid>
+         <pubDate>Mon, 19 Apr 2021 04:00:18 +0000</pubDate>
+         <enclosure length="25887554" type="audio/mpeg" url="https://archive.org/download/menneskemuseet/Menneskemuseet/2021.04.19%20-%20HAD.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>"Fra krummer i sengen til racister", det blev resultatet af spørgerunden om hvad vores lyttere går rundt og hader. Sikke et spektrum. I dette afsnit af Menneskemusset kigger vi nærmere på følelsen had, og hvordan den kan destruere folk omkring os og...</itunes:subtitle>
+         <itunes:summary>"Fra krummer i sengen til racister", det blev resultatet af spørgerunden om hvad vores lyttere går rundt og hader. Sikke et spektrum. I dette afsnit af Menneskemusset kigger vi nærmere på følelsen had, og hvordan den kan destruere folk omkring os og ikke mindst os selv"&lt;br /&gt;&lt;br /&gt;Vært: Laura Sofia Linnemann, Emma Lykke Ladegaard, Julie Emilie Bisgaard&lt;br /&gt;Medvirkende: Tonni Søgaard, Uffe Ladegaard, Vito Mingolla</itunes:summary>
+         <itunes:duration>1618</itunes:duration>
+         <itunes:keywords>had</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/917753ef63b2e2f4df52610e9063cbfd.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>STOLTHED: gi'r ik' en fuck for janteloven</title>
+         <link>https://www.spreaker.com/episode/stolthed-gi-r-ik-en-fuck-for-janteloven--44269341</link>
+         <description>”Jeg hænger kun med bitches, der ik' gi'r en fuck for janteloven!” sådan synger Tessa i sin sang ”Glo på mig”, som er startskuddet på dette afsnit af Menneskemuseet, der omhandler stolthed. I dette afsnit kigger vi nærmere på janteloven, og så får vi besøg af Zara, som fortæller om sin rejse til at være stolt over sig selv - og ikke mindst, at være stolt af sin krop.&lt;br /&gt;&lt;br /&gt;Gæst: Zara Eken Taskin &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Redaktør/Producer: Marie Becker Mingolla&lt;br /&gt;- Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann &lt;br /&gt;- Redaktion: Julie Emilie Bisgaard  &lt;br /&gt;- Journalist/Reporter: Laura Sofia Linnemann&lt;br /&gt;- Produktionsleder: Emma Lykke Ladegaard</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44269341</guid>
+         <pubDate>Mon, 12 Apr 2021 04:00:22 +0000</pubDate>
+         <enclosure length="26102167" type="audio/mpeg" url="https://archive.org/download/menneskemuseet/Menneskemuseet/2021.04.12%20-%20STOLTHED.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>”Jeg hænger kun med bitches, der ik' gi'r en fuck for janteloven!” sådan synger Tessa i sin sang ”Glo på mig”, som er startskuddet på dette afsnit af Menneskemuseet, der omhandler stolthed. I dette afsnit kigger vi nærmere på janteloven, og så får vi...</itunes:subtitle>
+         <itunes:summary>”Jeg hænger kun med bitches, der ik' gi'r en fuck for janteloven!” sådan synger Tessa i sin sang ”Glo på mig”, som er startskuddet på dette afsnit af Menneskemuseet, der omhandler stolthed. I dette afsnit kigger vi nærmere på janteloven, og så får vi besøg af Zara, som fortæller om sin rejse til at være stolt over sig selv - og ikke mindst, at være stolt af sin krop.&lt;br /&gt;&lt;br /&gt;Gæst: Zara Eken Taskin &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Redaktør/Producer: Marie Becker Mingolla&lt;br /&gt;- Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann &lt;br /&gt;- Redaktion: Julie Emilie Bisgaard  &lt;br /&gt;- Journalist/Reporter: Laura Sofia Linnemann&lt;br /&gt;- Produktionsleder: Emma Lykke Ladegaard</itunes:summary>
+         <itunes:duration>1632</itunes:duration>
+         <itunes:keywords>janteloven,kropsidealer,stolthed</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/55da05950366935d12ec04fc5df2a5f0.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>KÆRLIGHED: uperfekt perfekt</title>
+         <link>https://www.spreaker.com/episode/kaerlighed-uperfekt-perfekt--44127379</link>
+         <description>”Det er ikke altid, som man ser på film,” fortæller Mie om sit kærlighedsliv, som alligevel er magisk-kaotisk. I dette afsnit af Menneskemuseet kigger vi på kærlighed, og hvordan vi er vokset op med et bestemt syn på følelsen – men ændrer synet sig mon i takt med, at vi bliver ældre?&lt;br /&gt;&lt;br /&gt;Gæst: Mie Wallin &lt;br /&gt;&lt;br /&gt;Medvirkende:&lt;br /&gt;Sylvester Poulsen&lt;br /&gt;Christian Skylv&lt;br /&gt;Elisa Violante&lt;br /&gt;Luanna Mathiasen&lt;br /&gt;Sanne Fransson&lt;br /&gt;Asta Holm&lt;br /&gt;Silja Dangvard Bjørn&lt;br /&gt;Julie Rasmussen&lt;br /&gt;&lt;br /&gt;Redaktør/Producer: Julie Emilie Bisgaard  &lt;br /&gt;Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann, Julie Emilie Bisgaard&lt;br /&gt;Redaktion: Emma Lykke Ladegaard, Laura Sofia Linnemann&lt;br /&gt;Produktionsleder: Marie Becker Mingolla&lt;br /&gt;&lt;br /&gt;Klip fra filmene Little Women (Greta Gerwig, 2019), The Notebook (Nick Cassavetes, 2004) og When Harry Met Sally (Rob Reiner, 1989)</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44127379</guid>
+         <pubDate>Sun, 04 Apr 2021 21:20:16 +0000</pubDate>
+         <enclosure length="26106774" type="audio/mpeg" url="https://archive.org/download/menneskemuseet/Menneskemuseet/2021.04.04%20-%20K%C3%86RLIGHED.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>”Det er ikke altid, som man ser på film,” fortæller Mie om sit kærlighedsliv, som alligevel er magisk-kaotisk. I dette afsnit af Menneskemuseet kigger vi på kærlighed, og hvordan vi er vokset op med et bestemt syn på følelsen – men ændrer synet sig...</itunes:subtitle>
+         <itunes:summary>”Det er ikke altid, som man ser på film,” fortæller Mie om sit kærlighedsliv, som alligevel er magisk-kaotisk. I dette afsnit af Menneskemuseet kigger vi på kærlighed, og hvordan vi er vokset op med et bestemt syn på følelsen – men ændrer synet sig mon i takt med, at vi bliver ældre?&lt;br /&gt;&lt;br /&gt;Gæst: Mie Wallin &lt;br /&gt;&lt;br /&gt;Medvirkende:&lt;br /&gt;Sylvester Poulsen&lt;br /&gt;Christian Skylv&lt;br /&gt;Elisa Violante&lt;br /&gt;Luanna Mathiasen&lt;br /&gt;Sanne Fransson&lt;br /&gt;Asta Holm&lt;br /&gt;Silja Dangvard Bjørn&lt;br /&gt;Julie Rasmussen&lt;br /&gt;&lt;br /&gt;Redaktør/Producer: Julie Emilie Bisgaard  &lt;br /&gt;Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann, Julie Emilie Bisgaard&lt;br /&gt;Redaktion: Emma Lykke Ladegaard, Laura Sofia Linnemann&lt;br /&gt;Produktionsleder: Marie Becker Mingolla&lt;br /&gt;&lt;br /&gt;Klip fra filmene Little Women (Greta Gerwig, 2019), The Notebook (Nick Cassavetes, 2004) og When Harry Met Sally (Rob Reiner, 1989)</itunes:summary>
+         <itunes:duration>1632</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18cdfcaca13b77734a60c7ec6d5d5d28.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>SKYLD: kultur, lov og de uskrevne regler</title>
+         <link>https://www.spreaker.com/episode/skyld-kultur-lov-og-de-uskrevne-regler--44032474</link>
+         <description>“Skyld kan virkelig nedbryde en,” fortæller Christoffer i forbindelse med, at han fortæller os sin historie om et usundt forhold, han brød ud af.&lt;br /&gt;I dette afsnit af Menneskemuseet kaster vi lys over følelsen skyld og den form for magt, som følelsen kan indebære - og hvordan vi forholder os til den.&lt;br /&gt;&lt;br /&gt;Medvirkende: Christoffer Filtenborg&lt;br /&gt;Nis Christensen &lt;br /&gt;Sanne Fransson&lt;br /&gt;Emily Waldorf Collins &lt;br /&gt;Frida binderup køhn &lt;br /&gt;Kasper Bagger &lt;br /&gt;Elisa Violante &lt;br /&gt;&lt;br /&gt;Intro: Sylvester Poulsen &lt;br /&gt;&lt;br /&gt;Redaktør/Producer: Laura Sofia Linnemann&lt;br /&gt;Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann, Julie Emilie &lt;br /&gt;Redaktion: Emma Lykke Ladegaard,  Marie Becker Mingolla&lt;br /&gt;Produktionsleder: Julie Emilie Bisgaard</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44032474</guid>
+         <pubDate>Sun, 28 Mar 2021 21:20:02 +0000</pubDate>
+         <enclosure length="27069736" type="audio/mpeg" url="https://archive.org/download/menneskemuseet/Menneskemuseet/2021.03.28%20-%20SKYLD.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>“Skyld kan virkelig nedbryde en,” fortæller Christoffer i forbindelse med, at han fortæller os sin historie om et usundt forhold, han brød ud af.
+I dette afsnit af Menneskemuseet kaster vi lys over følelsen skyld og den form for magt, som følelsen...</itunes:subtitle>
+         <itunes:summary>“Skyld kan virkelig nedbryde en,” fortæller Christoffer i forbindelse med, at han fortæller os sin historie om et usundt forhold, han brød ud af.&lt;br /&gt;I dette afsnit af Menneskemuseet kaster vi lys over følelsen skyld og den form for magt, som følelsen kan indebære - og hvordan vi forholder os til den.&lt;br /&gt;&lt;br /&gt;Medvirkende: Christoffer Filtenborg&lt;br /&gt;Nis Christensen &lt;br /&gt;Sanne Fransson&lt;br /&gt;Emily Waldorf Collins &lt;br /&gt;Frida binderup køhn &lt;br /&gt;Kasper Bagger &lt;br /&gt;Elisa Violante &lt;br /&gt;&lt;br /&gt;Intro: Sylvester Poulsen &lt;br /&gt;&lt;br /&gt;Redaktør/Producer: Laura Sofia Linnemann&lt;br /&gt;Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann, Julie Emilie &lt;br /&gt;Redaktion: Emma Lykke Ladegaard,  Marie Becker Mingolla&lt;br /&gt;Produktionsleder: Julie Emilie Bisgaard</itunes:summary>
+         <itunes:duration>1692</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f95579faaa5958f26ff60071b4b82afb.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>ANGST: at besvime blev befriende</title>
+         <link>https://www.spreaker.com/episode/angst-at-besvime-blev-befriende--43946836</link>
+         <description>”at besvime blev befriende”. Det blev vendepunktet for Asta på 18 år, som fortæller om sit angstanfald, der eskalerede på en togtur på vej hjem fra en fest. I dette afsnit berører vi temaet angst, og vi får bl.a. besøg af musiker Jacob Aksglæde, som fortæller om sin sang ”bølger”, der tager fat i sårbarhed som styrke. &lt;br /&gt;&lt;br /&gt;Redaktør/Producer: Laura Sofia Linnemann&lt;br /&gt;Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann, Julie Emilie &lt;br /&gt;Redaktion: Emma Lykke Ladegaard,  Marie Becker Mingolla&lt;br /&gt;Produktionsleder: Julie Emilie Bisgaard &lt;br /&gt;&lt;br /&gt;Medvirkende: Jacob Aksglæde og Asta Holm</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43946836</guid>
+         <pubDate>Sun, 21 Mar 2021 22:20:09 +0000</pubDate>
+         <enclosure length="25876013" type="audio/mpeg" url="https://archive.org/download/menneskemuseet/Menneskemuseet/2021.03.21%20-%20ANGST.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>”at besvime blev befriende”. Det blev vendepunktet for Asta på 18 år, som fortæller om sit angstanfald, der eskalerede på en togtur på vej hjem fra en fest. I dette afsnit berører vi temaet angst, og vi får bl.a. besøg af musiker Jacob Aksglæde, som...</itunes:subtitle>
+         <itunes:summary>”at besvime blev befriende”. Det blev vendepunktet for Asta på 18 år, som fortæller om sit angstanfald, der eskalerede på en togtur på vej hjem fra en fest. I dette afsnit berører vi temaet angst, og vi får bl.a. besøg af musiker Jacob Aksglæde, som fortæller om sin sang ”bølger”, der tager fat i sårbarhed som styrke. &lt;br /&gt;&lt;br /&gt;Redaktør/Producer: Laura Sofia Linnemann&lt;br /&gt;Vært: Emma Lykke Ladegaard, Marie Becker Mingolla, Laura Sofia Linnemann, Julie Emilie &lt;br /&gt;Redaktion: Emma Lykke Ladegaard,  Marie Becker Mingolla&lt;br /&gt;Produktionsleder: Julie Emilie Bisgaard &lt;br /&gt;&lt;br /&gt;Medvirkende: Jacob Aksglæde og Asta Holm</itunes:summary>
+         <itunes:duration>1618</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3fca7fa30997bcf9204d2b83379eea1a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Menneskemuseet</title>
+         <link>https://www.spreaker.com/episode/menneskemuseet--43946837</link>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43946837</guid>
+         <pubDate>Thu, 18 Mar 2021 12:20:06 +0000</pubDate>
+         <enclosure length="84201" type="audio/mpeg" url="https://archive.org/download/menneskemuseet/Menneskemuseet/2021.03.18%20-%20Menneskemuseet.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:duration>6</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4b70c0e9cf275d65a3833c06945c61c4.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

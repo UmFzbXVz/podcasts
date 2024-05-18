@@ -1,828 +1,352 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Ghetto Factor
-  </title>
-  <link>
-   http://24syv.dk/podcast/ghetto-factor
-  </link>
-  <description>
-   I Ghetto Factor podcasten er gode vibes nr 1. Vi er 4 shababs, som kommer fra gaden og ind i podcaststudiet. Ghetto Factor består af Ibis Jr, Zacknack, Jasseminho og Kampapito. Der kommer til at være fuld rav. Ghetto Factor handler om dig! Derfor får du mulighed for at sende os emner, læsebreve, dilemmaer, gåder og meget mere. Ghetto Factor er af ungdommen og til ungdommen.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5326675/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   Copyright 24syv
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg
-   </url>
-   <title>
-    Ghetto Factor
-   </title>
-   <link>
-    http://24syv.dk/podcast/ghetto-factor
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   24syv
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    24syv
-   </itunes:name>
-   <itunes:email>
-    podcast@24syv.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-  <itunes:subtitle>
-   I Ghetto Factor podcasten er gode vibes nr 1. Vi er 4 shababs, som kommer fra gaden og ind i podcaststudiet.
-  </itunes:subtitle>
-  <itunes:summary>
-   I Ghetto Factor podcasten er gode vibes nr 1. Vi er 4 shababs, som kommer fra gaden og ind i podcaststudiet. Ghetto Factor består af Ibis Jr, Zacknack, Jasseminho og Kampapito. Der kommer til at være fuld rav. Ghetto Factor handler om dig! Derfor får du mulighed for at sende os emner, læsebreve, dilemmaer, gåder og meget mere. Ghetto Factor er af ungdommen og til ungdommen.
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:category text="Society &amp; Culture">
-   <itunes:category text="Personal Journals"/>
-  </itunes:category>
-  <itunes:category text="Society &amp; Culture">
-   <itunes:category text="Documentary"/>
-  </itunes:category>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Sæsonafslutning
-   </title>
-   <link>
-    https://www.spreaker.com/episode/saesonafslutning--50258147
-   </link>
-   <description>
-    Vi er nået til vejs ende! Vi kommer ind på hvordan processen har været og hvad vores yndlingsmomenter har været og hvordan rejsen har set ud indtil nu. Tusind tak fordi i har lyttet med og tusind tak for den kærlighed i har givet os indtil nu. Skriv til os på vores Instagram og lad os høre hvad i kunne tænke jer at se fra vores side!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/50258147
-   </guid>
-   <pubDate>
-    Sun, 19 Jun 2022 10:20:00 +0000
-   </pubDate>
-   <enclosure length="54969199" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50258147/ghettos_ndag.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Vi er nået til vejs ende! Vi kommer ind på hvordan processen har været og hvad vores yndlingsmomenter har været og hvordan rejsen har set ud indtil nu. Tusind tak fordi i har lyttet med og tusind tak for den kærlighed i har givet os indtil nu. Skriv...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi er nået til vejs ende! Vi kommer ind på hvordan processen har været og hvad vores yndlingsmomenter har været og hvordan rejsen har set ud indtil nu. Tusind tak fordi i har lyttet med og tusind tak for den kærlighed i har givet os indtil nu. Skriv til os på vores Instagram og lad os høre hvad i kunne tænke jer at se fra vores side!
-   </itunes:summary>
-   <itunes:duration>
-    3436
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Distortion, øgenavne, gossip i barbershoppen og stjernetegn
-   </title>
-   <link>
-    https://www.spreaker.com/episode/distortion-ogenavne-gossip-i-barbershoppen-og-stjernetegn--50174956
-   </link>
-   <description>
-    Alle kan relatere til øgenavne, nogle har fede øgenavne og andre har top shlejdet øgenavne. Vi kommer ind på vores Distortion-oplevelser, snakkene der går hos en frisør og er stjernetegn red-flag hos shababs?
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/50174956
-   </guid>
-   <pubDate>
-    Sun, 12 Jun 2022 11:14:00 +0000
-   </pubDate>
-   <enclosure length="47368704" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50174956/s_ndag1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Alle kan relatere til øgenavne, nogle har fede øgenavne og andre har top shlejdet øgenavne. Vi kommer ind på vores Distortion-oplevelser, snakkene der går hos en frisør og er stjernetegn red-flag hos shababs?
-   </itunes:subtitle>
-   <itunes:summary>
-    Alle kan relatere til øgenavne, nogle har fede øgenavne og andre har top shlejdet øgenavne. Vi kommer ind på vores Distortion-oplevelser, snakkene der går hos en frisør og er stjernetegn red-flag hos shababs?
-   </itunes:summary>
-   <itunes:duration>
-    2957
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Store guldkorn dag
-   </title>
-   <link>
-    https://www.spreaker.com/episode/store-guldkorn-dag--50068008
-   </link>
-   <description>
-    I dag er emnerne valgt ud fra jeres input på Instagram! Vi snakker om forskellige ting og snakker om hvad der har gjort, at vi har nået vores mål og stadig jagter vores mål. Vi kommer ind på kultur i forhold til opdragelse og de forskellige kulturer vi har oplevet. Det er blandet slik i dag. Lyt med og få en masse guldkorn med!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/50068008
-   </guid>
-   <pubDate>
-    Sun, 05 Jun 2022 15:02:10 +0000
-   </pubDate>
-   <enclosure length="57685632" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/50068008/s_ndag.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I dag er emnerne valgt ud fra jeres input på Instagram! Vi snakker om forskellige ting og snakker om hvad der har gjort, at vi har nået vores mål og stadig jagter vores mål. Vi kommer ind på kultur i forhold til opdragelse og de forskellige kulturer...
-   </itunes:subtitle>
-   <itunes:summary>
-    I dag er emnerne valgt ud fra jeres input på Instagram! Vi snakker om forskellige ting og snakker om hvad der har gjort, at vi har nået vores mål og stadig jagter vores mål. Vi kommer ind på kultur i forhold til opdragelse og de forskellige kulturer vi har oplevet. Det er blandet slik i dag. Lyt med og få en masse guldkorn med!
-   </itunes:summary>
-   <itunes:duration>
-    3602
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kærlighed part II
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kaerlighed-part-ii--49983648
-   </link>
-   <description>
-    Dagens emne står på kærlighed. Det noget drengene har snakket om før, men er det sket forandringer i drengenes kærlighedsliv siden sidst? Der er i hvert fald nogen der dropper nogle voldelige ting. Derudover snakker drengene om hvordan de ville fri til deres dame, og hvordan man håndterer en babush snak med ens kommende svigerfar. Alt i alt viser drengene deres ærlige og lidt følsomme side i dagens episode. Lyt med!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49983648
-   </guid>
-   <pubDate>
-    Sun, 29 May 2022 09:55:19 +0000
-   </pubDate>
-   <enclosure length="55579776" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49983648/s_ndag.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens emne står på kærlighed. Det noget drengene har snakket om før, men er det sket forandringer i drengenes kærlighedsliv siden sidst? Der er i hvert fald nogen der dropper nogle voldelige ting. Derudover snakker drengene om hvordan de ville fri...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens emne står på kærlighed. Det noget drengene har snakket om før, men er det sket forandringer i drengenes kærlighedsliv siden sidst? Der er i hvert fald nogen der dropper nogle voldelige ting. Derudover snakker drengene om hvordan de ville fri til deres dame, og hvordan man håndterer en babush snak med ens kommende svigerfar. Alt i alt viser drengene deres ærlige og lidt følsomme side i dagens episode. Lyt med!
-   </itunes:summary>
-   <itunes:duration>
-    3470
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Dubai, influencere, &amp; sommer med Fardin Messi
-   </title>
-   <link>
-    https://www.spreaker.com/episode/dubai-influencere-sommer-med-fardin-messi--49893150
-   </link>
-   <description>
-    Idag byder Ibis og Zack jer velkommen til dagens episode. De har masser af sjov og ballade på menuen, men også en masse gode rejse råd. De kommer ind på oliesheiks der har syge fetishs, om de ville bruge en sommer i Danmark, eller tage en rejse til udlandet. Derudover hiver de pranskter shababen Fardin Messi ind og hører ham omkring hans meninger og oplevelser også. &lt;br /&gt;&lt;br /&gt;Lyt med i dagens episode!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49893150
-   </guid>
-   <pubDate>
-    Sun, 22 May 2022 10:04:32 +0000
-   </pubDate>
-   <enclosure length="51258624" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49893150/s_ndagghetto.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Idag byder Ibis og Zack jer velkommen til dagens episode. De har masser af sjov og ballade på menuen, men også en masse gode rejse råd. De kommer ind på oliesheiks der har syge fetishs, om de ville bruge en sommer i Danmark, eller tage en rejse til...
-   </itunes:subtitle>
-   <itunes:summary>
-    Idag byder Ibis og Zack jer velkommen til dagens episode. De har masser af sjov og ballade på menuen, men også en masse gode rejse råd. De kommer ind på oliesheiks der har syge fetishs, om de ville bruge en sommer i Danmark, eller tage en rejse til udlandet. Derudover hiver de pranskter shababen Fardin Messi ind og hører ham omkring hans meninger og oplevelser også. &lt;br /&gt;&lt;br /&gt;Lyt med i dagens episode!
-   </itunes:summary>
-   <itunes:duration>
-    3200
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Cafèer, vanvidsbilisten i Ghetto Factor og afvisninger
-   </title>
-   <link>
-    https://www.spreaker.com/episode/cafeer-vanvidsbilisten-i-ghetto-factor-og-afvisninger--49828006
-   </link>
-   <description>
-    Et Ghetto Factor medlem har en forkærlighed for High School Musical! Idag kommer vi ind på bilkørsel, caféer og forskellige afvisninger. Vi har en der har kørt 119 på en 60’er vej. Vi kan konstatere at folk har trukket deres kørekort i Borgerservice. Lyt med og hør hvem vanvidsbilisten er og hvor i skal tage på café henne og hvordan man kan tage imod en afvisning.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49828006
-   </guid>
-   <pubDate>
-    Tue, 17 May 2022 09:04:07 +0000
-   </pubDate>
-   <enclosure length="50980992" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49828006/ghettomandag.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Et Ghetto Factor medlem har en forkærlighed for High School Musical! Idag kommer vi ind på bilkørsel, caféer og forskellige afvisninger. Vi har en der har kørt 119 på en 60’er vej. Vi kan konstatere at folk har trukket deres kørekort i Borgerservice....
-   </itunes:subtitle>
-   <itunes:summary>
-    Et Ghetto Factor medlem har en forkærlighed for High School Musical! Idag kommer vi ind på bilkørsel, caféer og forskellige afvisninger. Vi har en der har kørt 119 på en 60’er vej. Vi kan konstatere at folk har trukket deres kørekort i Borgerservice. Lyt med og hør hvem vanvidsbilisten er og hvor i skal tage på café henne og hvordan man kan tage imod en afvisning.
-   </itunes:summary>
-   <itunes:duration>
-    3183
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Eid mubarak, film og fodbold!
-   </title>
-   <link>
-    https://www.spreaker.com/episode/eid-mubarak-film-og-fodbold--49709104
-   </link>
-   <description>
-    Endelig er alle drengene igen samlet rundt om bordet. I dette afsnit kommer de ind på hvad de lavede til Eid sammenlignet med da de var yngre. Der bliver kastet Champions League snak udover disken, hvor de snakker om hvordan arabiske kommentatorer går helt amok og råber og skriger når Messi har bolden.&lt;br /&gt;&lt;br /&gt;Derudover kommer drengene ind på den nye haram film, som er fuld populær på Netflix lige nu. Har de set den, eller spiller de bare? Til slut bliver shababsne afbrudt af en eller anden dano, og de ender med at må slutte hurtigere end forventet. Lyt med i dagens rav!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49709104
-   </guid>
-   <pubDate>
-    Sun, 08 May 2022 10:00:02 +0000
-   </pubDate>
-   <enclosure length="31710720" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49709104/s_ndag.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Endelig er alle drengene igen samlet rundt om bordet. I dette afsnit kommer de ind på hvad de lavede til Eid sammenlignet med da de var yngre. Der bliver kastet Champions League snak udover disken, hvor de snakker om hvordan arabiske kommentatorer går...
-   </itunes:subtitle>
-   <itunes:summary>
-    Endelig er alle drengene igen samlet rundt om bordet. I dette afsnit kommer de ind på hvad de lavede til Eid sammenlignet med da de var yngre. Der bliver kastet Champions League snak udover disken, hvor de snakker om hvordan arabiske kommentatorer går helt amok og råber og skriger når Messi har bolden.&lt;br /&gt;&lt;br /&gt;Derudover kommer drengene ind på den nye haram film, som er fuld populær på Netflix lige nu. Har de set den, eller spiller de bare? Til slut bliver shababsne afbrudt af en eller anden dano, og de ender med at må slutte hurtigere end forventet. Lyt med i dagens rav!
-   </itunes:summary>
-   <itunes:duration>
-    1978
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Shopping, voksenlivet og sommer
-   </title>
-   <link>
-    https://www.spreaker.com/episode/shopping-voksenlivet-og-sommer--49603488
-   </link>
-   <description>
-    Shababsne er idag samlet igen, men desværre ikke fuldtallige. Zack havde nemlig et meget &lt;br /&gt;vigtigt møde.&lt;br /&gt;&lt;br /&gt;Ibis, Jasseminho, og Kam kommer idag ind på hvor de ligger en god shoppingtur. Udover det, snakker drengene om hvordan voksen livet er, og hvornår de følte sig voksne, for hvornår er man egentligt voksen? Til sidst dropper Kam og Ibis et lille hint på et kommende sommer projekt, som folk har ventet på i lang tid. Lyt med i dagens episode, hvor Ali smider trøjen og snakker i bar mave!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49603488
-   </guid>
-   <pubDate>
-    Sun, 01 May 2022 10:05:02 +0000
-   </pubDate>
-   <enclosure length="51156480" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49603488/s_ndag.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Shababsne er idag samlet igen, men desværre ikke fuldtallige. Zack havde nemlig et meget 
-vigtigt møde.
-
-Ibis, Jasseminho, og Kam kommer idag ind på hvor de ligger en god shoppingtur. Udover det, snakker drengene om hvordan voksen livet er, og...
-   </itunes:subtitle>
-   <itunes:summary>
-    Shababsne er idag samlet igen, men desværre ikke fuldtallige. Zack havde nemlig et meget &lt;br /&gt;vigtigt møde.&lt;br /&gt;&lt;br /&gt;Ibis, Jasseminho, og Kam kommer idag ind på hvor de ligger en god shoppingtur. Udover det, snakker drengene om hvordan voksen livet er, og hvornår de følte sig voksne, for hvornår er man egentligt voksen? Til sidst dropper Kam og Ibis et lille hint på et kommende sommer projekt, som folk har ventet på i lang tid. Lyt med i dagens episode, hvor Ali smider trøjen og snakker i bar mave!
-   </itunes:summary>
-   <itunes:duration>
-    3194
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Lifestyle
-   </title>
-   <link>
-    https://www.spreaker.com/episode/lifestyle--49520427
-   </link>
-   <description>
-    Hvilket outfit tager man på, til forskellige begivenheder? Hvor spiser de egentligt henne? &lt;br /&gt;Ibis, Kam, og Zack er idag i studiet, hvor de kommer ind på hvor de spiser, hvilket outfit passer til forskellige begivenheder og hvor seriøse de er med at tage i fitness. &lt;br /&gt;Ibis slynger desuden en påstand ud som ryster hele studiet! &lt;br /&gt;&lt;br /&gt;Lyt med i dagens afsnit!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49520427
-   </guid>
-   <pubDate>
-    Sun, 24 Apr 2022 10:00:03 +0000
-   </pubDate>
-   <enclosure length="51109248" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49520427/s_ndag.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Hvilket outfit tager man på, til forskellige begivenheder? Hvor spiser de egentligt henne? 
-Ibis, Kam, og Zack er idag i studiet, hvor de kommer ind på hvor de spiser, hvilket outfit passer til forskellige begivenheder og hvor seriøse de er med at...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvilket outfit tager man på, til forskellige begivenheder? Hvor spiser de egentligt henne? &lt;br /&gt;Ibis, Kam, og Zack er idag i studiet, hvor de kommer ind på hvor de spiser, hvilket outfit passer til forskellige begivenheder og hvor seriøse de er med at tage i fitness. &lt;br /&gt;Ibis slynger desuden en påstand ud som ryster hele studiet! &lt;br /&gt;&lt;br /&gt;Lyt med i dagens afsnit!
-   </itunes:summary>
-   <itunes:duration>
-    3191
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Instagram captions, designer tøj og fordomme
-   </title>
-   <link>
-    https://www.spreaker.com/episode/instagram-captions-designer-toj-og-fordomme--49451348
-   </link>
-   <description>
-    Drengene kommer ind på forskellige emner idag. Hør deres syn på en god caption til et varmt Instagrambillede. En diskussion bryder ud omkring om fake designer tøj, og fordommene omkring fake designer tøj generelt. Kan du relatere til drengenes syn? Lyt med i dagens episode!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49451348
-   </guid>
-   <pubDate>
-    Sun, 17 Apr 2022 10:00:02 +0000
-   </pubDate>
-   <enclosure length="51075072" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49451348/ghetto_s_ndag.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Drengene kommer ind på forskellige emner idag. Hør deres syn på en god caption til et varmt Instagrambillede. En diskussion bryder ud omkring om fake designer tøj, og fordommene omkring fake designer tøj generelt. Kan du relatere til drengenes syn?...
-   </itunes:subtitle>
-   <itunes:summary>
-    Drengene kommer ind på forskellige emner idag. Hør deres syn på en god caption til et varmt Instagrambillede. En diskussion bryder ud omkring om fake designer tøj, og fordommene omkring fake designer tøj generelt. Kan du relatere til drengenes syn? Lyt med i dagens episode!
-   </itunes:summary>
-   <itunes:duration>
-    3189
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    En smuk måned med dårlige ånder
-   </title>
-   <link>
-    https://www.spreaker.com/episode/en-smuk-maned-med-darlige-ander--49378688
-   </link>
-   <description>
-    Ramadanen handler om meget mere end bare at afholde sig fra mad og drikke (og nej… vi må heller ikke drikke vand). Ibis har en oplevelse hvor hans ånde var virkelig dårlig og der bliver spurgt om man ville bryde sin fasten for en million kr. Lyt med og hyg dig med os.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49378688
-   </guid>
-   <pubDate>
-    Sun, 10 Apr 2022 10:05:02 +0000
-   </pubDate>
-   <enclosure length="51428736" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49378688/ghetto_s_ndag.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ramadanen handler om meget mere end bare at afholde sig fra mad og drikke (og nej… vi må heller ikke drikke vand). Ibis har en oplevelse hvor hans ånde var virkelig dårlig og der bliver spurgt om man ville bryde sin fasten for en million kr. Lyt med...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ramadanen handler om meget mere end bare at afholde sig fra mad og drikke (og nej… vi må heller ikke drikke vand). Ibis har en oplevelse hvor hans ånde var virkelig dårlig og der bliver spurgt om man ville bryde sin fasten for en million kr. Lyt med og hyg dig med os.
-   </itunes:summary>
-   <itunes:duration>
-    3211
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Will Smith uddeler flade! Hvad havde vi gjort?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/will-smith-uddeler-flade-hvad-havde-vi-gjort--49281580
-   </link>
-   <description>
-    Der var en lille wur til dette års Oscar, hvor Will Smith gav Chris Rock en kæmpe flad for at joke indirekte om hans kones sygdom. Her kommer vores ghetto-vinkel og en snak om vores ansvar som velkendte ansigter på gaden.&lt;br /&gt;&lt;br /&gt;Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49281580
-   </guid>
-   <pubDate>
-    Sun, 03 Apr 2022 10:00:02 +0000
-   </pubDate>
-   <enclosure length="51141888" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49281580/willsmith.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Der var en lille wur til dette års Oscar, hvor Will Smith gav Chris Rock en kæmpe flad for at joke indirekte om hans kones sygdom. Her kommer vores ghetto-vinkel og en snak om vores ansvar som velkendte ansigter på gaden.
-
-Værter Ibis Junior...
-   </itunes:subtitle>
-   <itunes:summary>
-    Der var en lille wur til dette års Oscar, hvor Will Smith gav Chris Rock en kæmpe flad for at joke indirekte om hans kones sygdom. Her kommer vores ghetto-vinkel og en snak om vores ansvar som velkendte ansigter på gaden.&lt;br /&gt;&lt;br /&gt;Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)
-   </itunes:summary>
-   <itunes:duration>
-    3193
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Dilemmaer. Hvad ville du gøre?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/dilemmaer-hvad-ville-du-gore--49207524
-   </link>
-   <description>
-    Forstil dig du ser din vens kommende kone er utro og sammen med en af dine anden gode venner et par timer før det store bryllup, som 300-400 mennesker er på vej til. Hvad gør man?! &lt;br /&gt;&lt;br /&gt;Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49207524
-   </guid>
-   <pubDate>
-    Sun, 27 Mar 2022 10:00:02 +0000
-   </pubDate>
-   <enclosure length="51409152" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49207524/doneafsnit1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Forstil dig du ser din vens kommende kone er utro og sammen med en af dine anden gode venner et par timer før det store bryllup, som 300-400 mennesker er på vej til. Hvad gør man?! 
-
-Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil...
-   </itunes:subtitle>
-   <itunes:summary>
-    Forstil dig du ser din vens kommende kone er utro og sammen med en af dine anden gode venner et par timer før det store bryllup, som 300-400 mennesker er på vej til. Hvad gør man?! &lt;br /&gt;&lt;br /&gt;Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)
-   </itunes:summary>
-   <itunes:duration>
-    3209
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Adnan Mohammad: Gambling og odds har ødelagt min fodboldkarriere
-   </title>
-   <link>
-    https://www.spreaker.com/episode/adnan-mohammad-gambling-og-odds-har-odelagt-min-fodboldkarriere--49110913
-   </link>
-   <description>
-    Vi har besøg af tidligere Superligaspiller og stortalent Adnan Mohammad. Vi snakker om hans fodbold rejse og hvordan hans store gambling problemer har været med til at ødelægge drengedrømmen og en masse gode relationer. &lt;br /&gt;&lt;br /&gt;Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49110913
-   </guid>
-   <pubDate>
-    Sun, 20 Mar 2022 11:00:02 +0000
-   </pubDate>
-   <enclosure length="51865344" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49110913/adnan3.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Vi har besøg af tidligere Superligaspiller og stortalent Adnan Mohammad. Vi snakker om hans fodbold rejse og hvordan hans store gambling problemer har været med til at ødelægge drengedrømmen og en masse gode relationer. 
-
-Værter Ibis Junior (Ibisjr)...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi har besøg af tidligere Superligaspiller og stortalent Adnan Mohammad. Vi snakker om hans fodbold rejse og hvordan hans store gambling problemer har været med til at ødelægge drengedrømmen og en masse gode relationer. &lt;br /&gt;&lt;br /&gt;Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)
-   </itunes:summary>
-   <itunes:duration>
-    3238
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Penge: "Den der benzinpris har fået mig til at cykle"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/penge-den-der-benzinpris-har-faet-mig-til-at-cykle--49037026
-   </link>
-   <description>
-    Vi hygger os som altid. Her kommer vi ind på økonomi, løn, første arbejde, Mobilepay, nærige ardams og meget mere. Hop ind og lyt med. &lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49037026
-   </guid>
-   <pubDate>
-    Sun, 13 Mar 2022 11:00:02 +0000
-   </pubDate>
-   <enclosure length="52162186" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49037026/benzinpris_har_fa_et_mig_til_at_cykle.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Vi hygger os som altid. Her kommer vi ind på økonomi, løn, første arbejde, Mobilepay, nærige ardams og meget mere. Hop ind og lyt med. 
-
-Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi hygger os som altid. Her kommer vi ind på økonomi, løn, første arbejde, Mobilepay, nærige ardams og meget mere. Hop ind og lyt med. &lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C
-   </itunes:summary>
-   <itunes:duration>
-    3261
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hvordan var vi egentlig på skolebænken?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hvordan-var-vi-egentlig-pa-skolebaenken--48963276
-   </link>
-   <description>
-    Vi har alle sjove oplevelser i skolen. Vi kommer ind på hinandens skolegang og hvad skolen egentlig også har lært os. Lyt med! &lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48963276
-   </guid>
-   <pubDate>
-    Sun, 06 Mar 2022 11:00:02 +0000
-   </pubDate>
-   <enclosure length="52352640" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48963276/skoletiden1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Vi har alle sjove oplevelser i skolen. Vi kommer ind på hinandens skolegang og hvad skolen egentlig også har lært os. Lyt med! 
-
-Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi har alle sjove oplevelser i skolen. Vi kommer ind på hinandens skolegang og hvad skolen egentlig også har lært os. Lyt med! &lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C
-   </itunes:summary>
-   <itunes:duration>
-    3268
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kaos oplevelser
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kaos-oplevelser--48883648
-   </link>
-   <description>
-    I dette afsnit græder vi af grin! Vi lægger ud med Rusland og Ukraine situationen, hvor Kamil har fået trip af udenrigsminister Kofod. Vi snakker om vores forskellige fuck ups! Vi har bedt jer om at dele jeres mest rav oplevelser. Lyt med og få en god griner!&lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48883648
-   </guid>
-   <pubDate>
-    Sun, 27 Feb 2022 11:05:02 +0000
-   </pubDate>
-   <enclosure length="53498401" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48883648/dobbelt_rav.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I dette afsnit græder vi af grin! Vi lægger ud med Rusland og Ukraine situationen, hvor Kamil har fået trip af udenrigsminister Kofod. Vi snakker om vores forskellige fuck ups! Vi har bedt jer om at dele jeres mest rav oplevelser. Lyt med og få en god...
-   </itunes:subtitle>
-   <itunes:summary>
-    I dette afsnit græder vi af grin! Vi lægger ud med Rusland og Ukraine situationen, hvor Kamil har fået trip af udenrigsminister Kofod. Vi snakker om vores forskellige fuck ups! Vi har bedt jer om at dele jeres mest rav oplevelser. Lyt med og få en god griner!&lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C
-   </itunes:summary>
-   <itunes:duration>
-    3344
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Venskaber - hvad er en shabab?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/venskaber-hvad-er-en-shabab--48766636
-   </link>
-   <description>
-    I dag handler det om venskaber! Vi modtog et læserbrev, som omhandler jalousi i venskabet og hvad man kan gøre for at ændre på det. Lyt med når Ghetto Factor dykker ned i, hvad en sand ven og shabab er. Good vibes only! &lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48766636
-   </guid>
-   <pubDate>
-    Sun, 20 Feb 2022 12:08:24 +0000
-   </pubDate>
-   <enclosure length="50411136" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48766636/shabas.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I dag handler det om venskaber! Vi modtog et læserbrev, som omhandler jalousi i venskabet og hvad man kan gøre for at ændre på det. Lyt med når Ghetto Factor dykker ned i, hvad en sand ven og shabab er. Good vibes only! 
-
-Værter: Ibis Junior...
-   </itunes:subtitle>
-   <itunes:summary>
-    I dag handler det om venskaber! Vi modtog et læserbrev, som omhandler jalousi i venskabet og hvad man kan gøre for at ændre på det. Lyt med når Ghetto Factor dykker ned i, hvad en sand ven og shabab er. Good vibes only! &lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C
-   </itunes:summary>
-   <itunes:duration>
-    3147
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kærlighed - Når Amor plaffer
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kaerlighed-nar-amor-plaffer--48714069
-   </link>
-   <description>
-    I dag snakker Ghetto Factor om KÆRLIGHED. Et emne vi alle kan relatere til. Alt fra knuste hjerter til gode oplevelser. Vi har alle sammen lært utrolig meget af vores erfaringer og det håber vi også du har. Elsk dig selv før du elsker andre mennesker - kend dit værd og vid hvad du går ind til.&lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48714069
-   </guid>
-   <pubDate>
-    Sun, 13 Feb 2022 16:00:07 +0000
-   </pubDate>
-   <enclosure length="55782548" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48714069/k_rlig2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I dag snakker Ghetto Factor om KÆRLIGHED. Et emne vi alle kan relatere til. Alt fra knuste hjerter til gode oplevelser. Vi har alle sammen lært utrolig meget af vores erfaringer og det håber vi også du har. Elsk dig selv før du elsker andre mennesker...
-   </itunes:subtitle>
-   <itunes:summary>
-    I dag snakker Ghetto Factor om KÆRLIGHED. Et emne vi alle kan relatere til. Alt fra knuste hjerter til gode oplevelser. Vi har alle sammen lært utrolig meget af vores erfaringer og det håber vi også du har. Elsk dig selv før du elsker andre mennesker - kend dit værd og vid hvad du går ind til.&lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C
-   </itunes:summary>
-   <itunes:duration>
-    3487
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    FULD RAV I DEN
-   </title>
-   <link>
-    https://www.spreaker.com/episode/fuld-rav-i-den--48611703
-   </link>
-   <description>
-    Det blev vores tur til at sidde i studiet. Denne gange bliver det sendt live og må Gud og vores mødre tilgive os, hvis vi siger noget forkert. Her får i en intro om hvad Ghetto Factor er og hvad det hele går ud på. Her er vores historie, lyt med. Mbb!&lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48611703
-   </guid>
-   <pubDate>
-    Sun, 06 Feb 2022 13:35:36 +0000
-   </pubDate>
-   <enclosure length="51356360" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48611703/debut.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Det blev vores tur til at sidde i studiet. Denne gange bliver det sendt live og må Gud og vores mødre tilgive os, hvis vi siger noget forkert. Her får i en intro om hvad Ghetto Factor er og hvad det hele går ud på. Her er vores historie, lyt med. Mbb!...
-   </itunes:subtitle>
-   <itunes:summary>
-    Det blev vores tur til at sidde i studiet. Denne gange bliver det sendt live og må Gud og vores mødre tilgive os, hvis vi siger noget forkert. Her får i en intro om hvad Ghetto Factor er og hvad det hele går ud på. Her er vores historie, lyt med. Mbb!&lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C
-   </itunes:summary>
-   <itunes:duration>
-    3210
-   </itunes:duration>
-   <itunes:keywords>
-    ærlig,ghetto,ghettofactor,læserbreve,shababs,snak,street,ungdom,urban,venskab
-   </itunes:keywords>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Ghetto Factor</title>
+      <link>http://24syv.dk/podcast/ghetto-factor</link>
+      <description>I Ghetto Factor podcasten er gode vibes nr 1. Vi er 4 shababs, som kommer fra gaden og ind i podcaststudiet. Ghetto Factor består af Ibis Jr, Zacknack, Jasseminho og Kampapito. Der kommer til at være fuld rav. Ghetto Factor handler om dig! Derfor får du mulighed for at sende os emner, læsebreve, dilemmaer, gåder og meget mere. Ghetto Factor er af ungdommen og til ungdommen.</description>
+      <atom:link href="https://www.spreaker.com/show/5326675/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>Copyright 24syv</copyright>
+      <image>
+         <url>https://archive.org/download/ghetto_factor/Ghetto%20Factor/bdecb3b4267088a3254bcb2449f82569.jpg</url>
+         <title>Ghetto Factor</title>
+         <link>http://24syv.dk/podcast/ghetto-factor</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>24syv</itunes:author>
+      <itunes:owner>
+         <itunes:name>24syv</itunes:name>
+         <itunes:email>podcast@24syv.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+      <itunes:subtitle>I Ghetto Factor podcasten er gode vibes nr 1. Vi er 4 shababs, som kommer fra gaden og ind i podcaststudiet.</itunes:subtitle>
+      <itunes:summary>I Ghetto Factor podcasten er gode vibes nr 1. Vi er 4 shababs, som kommer fra gaden og ind i podcaststudiet. Ghetto Factor består af Ibis Jr, Zacknack, Jasseminho og Kampapito. Der kommer til at være fuld rav. Ghetto Factor handler om dig! Derfor får du mulighed for at sende os emner, læsebreve, dilemmaer, gåder og meget mere. Ghetto Factor er af ungdommen og til ungdommen.</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:category text="Society &amp; Culture">
+         <itunes:category text="Personal Journals" />
+      </itunes:category>
+      <itunes:category text="Society &amp; Culture">
+         <itunes:category text="Documentary" />
+      </itunes:category>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Sæsonafslutning</title>
+         <link>https://www.spreaker.com/episode/saesonafslutning--50258147</link>
+         <description>Vi er nået til vejs ende! Vi kommer ind på hvordan processen har været og hvad vores yndlingsmomenter har været og hvordan rejsen har set ud indtil nu. Tusind tak fordi i har lyttet med og tusind tak for den kærlighed i har givet os indtil nu. Skriv til os på vores Instagram og lad os høre hvad i kunne tænke jer at se fra vores side!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/50258147</guid>
+         <pubDate>Sun, 19 Jun 2022 10:20:00 +0000</pubDate>
+         <enclosure length="54969199" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.06.19%20-%20S%C3%A6sonafslutning.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Vi er nået til vejs ende! Vi kommer ind på hvordan processen har været og hvad vores yndlingsmomenter har været og hvordan rejsen har set ud indtil nu. Tusind tak fordi i har lyttet med og tusind tak for den kærlighed i har givet os indtil nu. Skriv...</itunes:subtitle>
+         <itunes:summary>Vi er nået til vejs ende! Vi kommer ind på hvordan processen har været og hvad vores yndlingsmomenter har været og hvordan rejsen har set ud indtil nu. Tusind tak fordi i har lyttet med og tusind tak for den kærlighed i har givet os indtil nu. Skriv til os på vores Instagram og lad os høre hvad i kunne tænke jer at se fra vores side!</itunes:summary>
+         <itunes:duration>3436</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Distortion, øgenavne, gossip i barbershoppen og stjernetegn</title>
+         <link>https://www.spreaker.com/episode/distortion-ogenavne-gossip-i-barbershoppen-og-stjernetegn--50174956</link>
+         <description>Alle kan relatere til øgenavne, nogle har fede øgenavne og andre har top shlejdet øgenavne. Vi kommer ind på vores Distortion-oplevelser, snakkene der går hos en frisør og er stjernetegn red-flag hos shababs?</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/50174956</guid>
+         <pubDate>Sun, 12 Jun 2022 11:14:00 +0000</pubDate>
+         <enclosure length="47368704" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.06.12%20-%20Distortion%2C%20%C3%B8genavne%2C%20gossip%20i%20barbershoppen%20og%20stjernetegn.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Alle kan relatere til øgenavne, nogle har fede øgenavne og andre har top shlejdet øgenavne. Vi kommer ind på vores Distortion-oplevelser, snakkene der går hos en frisør og er stjernetegn red-flag hos shababs?</itunes:subtitle>
+         <itunes:summary>Alle kan relatere til øgenavne, nogle har fede øgenavne og andre har top shlejdet øgenavne. Vi kommer ind på vores Distortion-oplevelser, snakkene der går hos en frisør og er stjernetegn red-flag hos shababs?</itunes:summary>
+         <itunes:duration>2957</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Store guldkorn dag</title>
+         <link>https://www.spreaker.com/episode/store-guldkorn-dag--50068008</link>
+         <description>I dag er emnerne valgt ud fra jeres input på Instagram! Vi snakker om forskellige ting og snakker om hvad der har gjort, at vi har nået vores mål og stadig jagter vores mål. Vi kommer ind på kultur i forhold til opdragelse og de forskellige kulturer vi har oplevet. Det er blandet slik i dag. Lyt med og få en masse guldkorn med!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/50068008</guid>
+         <pubDate>Sun, 05 Jun 2022 15:02:10 +0000</pubDate>
+         <enclosure length="57685632" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.06.05%20-%20Store%20guldkorn%20dag.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I dag er emnerne valgt ud fra jeres input på Instagram! Vi snakker om forskellige ting og snakker om hvad der har gjort, at vi har nået vores mål og stadig jagter vores mål. Vi kommer ind på kultur i forhold til opdragelse og de forskellige kulturer...</itunes:subtitle>
+         <itunes:summary>I dag er emnerne valgt ud fra jeres input på Instagram! Vi snakker om forskellige ting og snakker om hvad der har gjort, at vi har nået vores mål og stadig jagter vores mål. Vi kommer ind på kultur i forhold til opdragelse og de forskellige kulturer vi har oplevet. Det er blandet slik i dag. Lyt med og få en masse guldkorn med!</itunes:summary>
+         <itunes:duration>3602</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kærlighed part II</title>
+         <link>https://www.spreaker.com/episode/kaerlighed-part-ii--49983648</link>
+         <description>Dagens emne står på kærlighed. Det noget drengene har snakket om før, men er det sket forandringer i drengenes kærlighedsliv siden sidst? Der er i hvert fald nogen der dropper nogle voldelige ting. Derudover snakker drengene om hvordan de ville fri til deres dame, og hvordan man håndterer en babush snak med ens kommende svigerfar. Alt i alt viser drengene deres ærlige og lidt følsomme side i dagens episode. Lyt med!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49983648</guid>
+         <pubDate>Sun, 29 May 2022 09:55:19 +0000</pubDate>
+         <enclosure length="55579776" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.05.29%20-%20K%C3%A6rlighed%20part%20II.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dagens emne står på kærlighed. Det noget drengene har snakket om før, men er det sket forandringer i drengenes kærlighedsliv siden sidst? Der er i hvert fald nogen der dropper nogle voldelige ting. Derudover snakker drengene om hvordan de ville fri...</itunes:subtitle>
+         <itunes:summary>Dagens emne står på kærlighed. Det noget drengene har snakket om før, men er det sket forandringer i drengenes kærlighedsliv siden sidst? Der er i hvert fald nogen der dropper nogle voldelige ting. Derudover snakker drengene om hvordan de ville fri til deres dame, og hvordan man håndterer en babush snak med ens kommende svigerfar. Alt i alt viser drengene deres ærlige og lidt følsomme side i dagens episode. Lyt med!</itunes:summary>
+         <itunes:duration>3470</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Dubai, influencere, &amp; sommer med Fardin Messi</title>
+         <link>https://www.spreaker.com/episode/dubai-influencere-sommer-med-fardin-messi--49893150</link>
+         <description>Idag byder Ibis og Zack jer velkommen til dagens episode. De har masser af sjov og ballade på menuen, men også en masse gode rejse råd. De kommer ind på oliesheiks der har syge fetishs, om de ville bruge en sommer i Danmark, eller tage en rejse til udlandet. Derudover hiver de pranskter shababen Fardin Messi ind og hører ham omkring hans meninger og oplevelser også. &lt;br /&gt;&lt;br /&gt;Lyt med i dagens episode!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49893150</guid>
+         <pubDate>Sun, 22 May 2022 10:04:32 +0000</pubDate>
+         <enclosure length="51258624" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.05.22%20-%20Dubai%2C%20influencere%2C%20%26%20sommer%20med%20Fardin%20Messi.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Idag byder Ibis og Zack jer velkommen til dagens episode. De har masser af sjov og ballade på menuen, men også en masse gode rejse råd. De kommer ind på oliesheiks der har syge fetishs, om de ville bruge en sommer i Danmark, eller tage en rejse til...</itunes:subtitle>
+         <itunes:summary>Idag byder Ibis og Zack jer velkommen til dagens episode. De har masser af sjov og ballade på menuen, men også en masse gode rejse råd. De kommer ind på oliesheiks der har syge fetishs, om de ville bruge en sommer i Danmark, eller tage en rejse til udlandet. Derudover hiver de pranskter shababen Fardin Messi ind og hører ham omkring hans meninger og oplevelser også. &lt;br /&gt;&lt;br /&gt;Lyt med i dagens episode!</itunes:summary>
+         <itunes:duration>3200</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Cafèer, vanvidsbilisten i Ghetto Factor og afvisninger</title>
+         <link>https://www.spreaker.com/episode/cafeer-vanvidsbilisten-i-ghetto-factor-og-afvisninger--49828006</link>
+         <description>Et Ghetto Factor medlem har en forkærlighed for High School Musical! Idag kommer vi ind på bilkørsel, caféer og forskellige afvisninger. Vi har en der har kørt 119 på en 60’er vej. Vi kan konstatere at folk har trukket deres kørekort i Borgerservice. Lyt med og hør hvem vanvidsbilisten er og hvor i skal tage på café henne og hvordan man kan tage imod en afvisning.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49828006</guid>
+         <pubDate>Tue, 17 May 2022 09:04:07 +0000</pubDate>
+         <enclosure length="50980992" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.05.17%20-%20Caf%C3%A8er%2C%20vanvidsbilisten%20i%20Ghetto%20Factor%20og%20afvisninger.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Et Ghetto Factor medlem har en forkærlighed for High School Musical! Idag kommer vi ind på bilkørsel, caféer og forskellige afvisninger. Vi har en der har kørt 119 på en 60’er vej. Vi kan konstatere at folk har trukket deres kørekort i Borgerservice....</itunes:subtitle>
+         <itunes:summary>Et Ghetto Factor medlem har en forkærlighed for High School Musical! Idag kommer vi ind på bilkørsel, caféer og forskellige afvisninger. Vi har en der har kørt 119 på en 60’er vej. Vi kan konstatere at folk har trukket deres kørekort i Borgerservice. Lyt med og hør hvem vanvidsbilisten er og hvor i skal tage på café henne og hvordan man kan tage imod en afvisning.</itunes:summary>
+         <itunes:duration>3183</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Eid mubarak, film og fodbold!</title>
+         <link>https://www.spreaker.com/episode/eid-mubarak-film-og-fodbold--49709104</link>
+         <description>Endelig er alle drengene igen samlet rundt om bordet. I dette afsnit kommer de ind på hvad de lavede til Eid sammenlignet med da de var yngre. Der bliver kastet Champions League snak udover disken, hvor de snakker om hvordan arabiske kommentatorer går helt amok og råber og skriger når Messi har bolden.&lt;br /&gt;&lt;br /&gt;Derudover kommer drengene ind på den nye haram film, som er fuld populær på Netflix lige nu. Har de set den, eller spiller de bare? Til slut bliver shababsne afbrudt af en eller anden dano, og de ender med at må slutte hurtigere end forventet. Lyt med i dagens rav!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49709104</guid>
+         <pubDate>Sun, 08 May 2022 10:00:02 +0000</pubDate>
+         <enclosure length="31710720" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.05.08%20-%20Eid%20mubarak%2C%20film%20og%20fodbold%21.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Endelig er alle drengene igen samlet rundt om bordet. I dette afsnit kommer de ind på hvad de lavede til Eid sammenlignet med da de var yngre. Der bliver kastet Champions League snak udover disken, hvor de snakker om hvordan arabiske kommentatorer går...</itunes:subtitle>
+         <itunes:summary>Endelig er alle drengene igen samlet rundt om bordet. I dette afsnit kommer de ind på hvad de lavede til Eid sammenlignet med da de var yngre. Der bliver kastet Champions League snak udover disken, hvor de snakker om hvordan arabiske kommentatorer går helt amok og råber og skriger når Messi har bolden.&lt;br /&gt;&lt;br /&gt;Derudover kommer drengene ind på den nye haram film, som er fuld populær på Netflix lige nu. Har de set den, eller spiller de bare? Til slut bliver shababsne afbrudt af en eller anden dano, og de ender med at må slutte hurtigere end forventet. Lyt med i dagens rav!</itunes:summary>
+         <itunes:duration>1978</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Shopping, voksenlivet og sommer</title>
+         <link>https://www.spreaker.com/episode/shopping-voksenlivet-og-sommer--49603488</link>
+         <description>Shababsne er idag samlet igen, men desværre ikke fuldtallige. Zack havde nemlig et meget &lt;br /&gt;vigtigt møde.&lt;br /&gt;&lt;br /&gt;Ibis, Jasseminho, og Kam kommer idag ind på hvor de ligger en god shoppingtur. Udover det, snakker drengene om hvordan voksen livet er, og hvornår de følte sig voksne, for hvornår er man egentligt voksen? Til sidst dropper Kam og Ibis et lille hint på et kommende sommer projekt, som folk har ventet på i lang tid. Lyt med i dagens episode, hvor Ali smider trøjen og snakker i bar mave!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49603488</guid>
+         <pubDate>Sun, 01 May 2022 10:05:02 +0000</pubDate>
+         <enclosure length="51156480" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.05.01%20-%20Shopping%2C%20voksenlivet%20og%20sommer.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Shababsne er idag samlet igen, men desværre ikke fuldtallige. Zack havde nemlig et meget 
+vigtigt møde.
+
+Ibis, Jasseminho, og Kam kommer idag ind på hvor de ligger en god shoppingtur. Udover det, snakker drengene om hvordan voksen livet er, og...</itunes:subtitle>
+         <itunes:summary>Shababsne er idag samlet igen, men desværre ikke fuldtallige. Zack havde nemlig et meget &lt;br /&gt;vigtigt møde.&lt;br /&gt;&lt;br /&gt;Ibis, Jasseminho, og Kam kommer idag ind på hvor de ligger en god shoppingtur. Udover det, snakker drengene om hvordan voksen livet er, og hvornår de følte sig voksne, for hvornår er man egentligt voksen? Til sidst dropper Kam og Ibis et lille hint på et kommende sommer projekt, som folk har ventet på i lang tid. Lyt med i dagens episode, hvor Ali smider trøjen og snakker i bar mave!</itunes:summary>
+         <itunes:duration>3194</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Lifestyle</title>
+         <link>https://www.spreaker.com/episode/lifestyle--49520427</link>
+         <description>Hvilket outfit tager man på, til forskellige begivenheder? Hvor spiser de egentligt henne? &lt;br /&gt;Ibis, Kam, og Zack er idag i studiet, hvor de kommer ind på hvor de spiser, hvilket outfit passer til forskellige begivenheder og hvor seriøse de er med at tage i fitness. &lt;br /&gt;Ibis slynger desuden en påstand ud som ryster hele studiet! &lt;br /&gt;&lt;br /&gt;Lyt med i dagens afsnit!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49520427</guid>
+         <pubDate>Sun, 24 Apr 2022 10:00:03 +0000</pubDate>
+         <enclosure length="51109248" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.04.24%20-%20Lifestyle.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Hvilket outfit tager man på, til forskellige begivenheder? Hvor spiser de egentligt henne? 
+Ibis, Kam, og Zack er idag i studiet, hvor de kommer ind på hvor de spiser, hvilket outfit passer til forskellige begivenheder og hvor seriøse de er med at...</itunes:subtitle>
+         <itunes:summary>Hvilket outfit tager man på, til forskellige begivenheder? Hvor spiser de egentligt henne? &lt;br /&gt;Ibis, Kam, og Zack er idag i studiet, hvor de kommer ind på hvor de spiser, hvilket outfit passer til forskellige begivenheder og hvor seriøse de er med at tage i fitness. &lt;br /&gt;Ibis slynger desuden en påstand ud som ryster hele studiet! &lt;br /&gt;&lt;br /&gt;Lyt med i dagens afsnit!</itunes:summary>
+         <itunes:duration>3191</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Instagram captions, designer tøj og fordomme</title>
+         <link>https://www.spreaker.com/episode/instagram-captions-designer-toj-og-fordomme--49451348</link>
+         <description>Drengene kommer ind på forskellige emner idag. Hør deres syn på en god caption til et varmt Instagrambillede. En diskussion bryder ud omkring om fake designer tøj, og fordommene omkring fake designer tøj generelt. Kan du relatere til drengenes syn? Lyt med i dagens episode!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49451348</guid>
+         <pubDate>Sun, 17 Apr 2022 10:00:02 +0000</pubDate>
+         <enclosure length="51075072" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.04.17%20-%20Instagram%20captions%2C%20designer%20t%C3%B8j%20og%20fordomme.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Drengene kommer ind på forskellige emner idag. Hør deres syn på en god caption til et varmt Instagrambillede. En diskussion bryder ud omkring om fake designer tøj, og fordommene omkring fake designer tøj generelt. Kan du relatere til drengenes syn?...</itunes:subtitle>
+         <itunes:summary>Drengene kommer ind på forskellige emner idag. Hør deres syn på en god caption til et varmt Instagrambillede. En diskussion bryder ud omkring om fake designer tøj, og fordommene omkring fake designer tøj generelt. Kan du relatere til drengenes syn? Lyt med i dagens episode!</itunes:summary>
+         <itunes:duration>3189</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>En smuk måned med dårlige ånder</title>
+         <link>https://www.spreaker.com/episode/en-smuk-maned-med-darlige-ander--49378688</link>
+         <description>Ramadanen handler om meget mere end bare at afholde sig fra mad og drikke (og nej… vi må heller ikke drikke vand). Ibis har en oplevelse hvor hans ånde var virkelig dårlig og der bliver spurgt om man ville bryde sin fasten for en million kr. Lyt med og hyg dig med os.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49378688</guid>
+         <pubDate>Sun, 10 Apr 2022 10:05:02 +0000</pubDate>
+         <enclosure length="51428736" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.04.10%20-%20En%20smuk%20m%C3%A5ned%20med%20d%C3%A5rlige%20%C3%A5nder.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ramadanen handler om meget mere end bare at afholde sig fra mad og drikke (og nej… vi må heller ikke drikke vand). Ibis har en oplevelse hvor hans ånde var virkelig dårlig og der bliver spurgt om man ville bryde sin fasten for en million kr. Lyt med...</itunes:subtitle>
+         <itunes:summary>Ramadanen handler om meget mere end bare at afholde sig fra mad og drikke (og nej… vi må heller ikke drikke vand). Ibis har en oplevelse hvor hans ånde var virkelig dårlig og der bliver spurgt om man ville bryde sin fasten for en million kr. Lyt med og hyg dig med os.</itunes:summary>
+         <itunes:duration>3211</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Will Smith uddeler flade! Hvad havde vi gjort?</title>
+         <link>https://www.spreaker.com/episode/will-smith-uddeler-flade-hvad-havde-vi-gjort--49281580</link>
+         <description>Der var en lille wur til dette års Oscar, hvor Will Smith gav Chris Rock en kæmpe flad for at joke indirekte om hans kones sygdom. Her kommer vores ghetto-vinkel og en snak om vores ansvar som velkendte ansigter på gaden.&lt;br /&gt;&lt;br /&gt;Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49281580</guid>
+         <pubDate>Sun, 03 Apr 2022 10:00:02 +0000</pubDate>
+         <enclosure length="51141888" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.04.03%20-%20Will%20Smith%20uddeler%20flade%21%20Hvad%20havde%20vi%20gjort.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Der var en lille wur til dette års Oscar, hvor Will Smith gav Chris Rock en kæmpe flad for at joke indirekte om hans kones sygdom. Her kommer vores ghetto-vinkel og en snak om vores ansvar som velkendte ansigter på gaden.
+
+Værter Ibis Junior...</itunes:subtitle>
+         <itunes:summary>Der var en lille wur til dette års Oscar, hvor Will Smith gav Chris Rock en kæmpe flad for at joke indirekte om hans kones sygdom. Her kommer vores ghetto-vinkel og en snak om vores ansvar som velkendte ansigter på gaden.&lt;br /&gt;&lt;br /&gt;Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)</itunes:summary>
+         <itunes:duration>3193</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Dilemmaer. Hvad ville du gøre?</title>
+         <link>https://www.spreaker.com/episode/dilemmaer-hvad-ville-du-gore--49207524</link>
+         <description>Forstil dig du ser din vens kommende kone er utro og sammen med en af dine anden gode venner et par timer før det store bryllup, som 300-400 mennesker er på vej til. Hvad gør man?! &lt;br /&gt;&lt;br /&gt;Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49207524</guid>
+         <pubDate>Sun, 27 Mar 2022 10:00:02 +0000</pubDate>
+         <enclosure length="51409152" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.03.27%20-%20Dilemmaer.%20Hvad%20ville%20du%20g%C3%B8re.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Forstil dig du ser din vens kommende kone er utro og sammen med en af dine anden gode venner et par timer før det store bryllup, som 300-400 mennesker er på vej til. Hvad gør man?! 
+
+Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil...</itunes:subtitle>
+         <itunes:summary>Forstil dig du ser din vens kommende kone er utro og sammen med en af dine anden gode venner et par timer før det store bryllup, som 300-400 mennesker er på vej til. Hvad gør man?! &lt;br /&gt;&lt;br /&gt;Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)</itunes:summary>
+         <itunes:duration>3209</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Adnan Mohammad: Gambling og odds har ødelagt min fodboldkarriere</title>
+         <link>https://www.spreaker.com/episode/adnan-mohammad-gambling-og-odds-har-odelagt-min-fodboldkarriere--49110913</link>
+         <description>Vi har besøg af tidligere Superligaspiller og stortalent Adnan Mohammad. Vi snakker om hans fodbold rejse og hvordan hans store gambling problemer har været med til at ødelægge drengedrømmen og en masse gode relationer. &lt;br /&gt;&lt;br /&gt;Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49110913</guid>
+         <pubDate>Sun, 20 Mar 2022 11:00:02 +0000</pubDate>
+         <enclosure length="51865344" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.03.20%20-%20Adnan%20Mohammad.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Vi har besøg af tidligere Superligaspiller og stortalent Adnan Mohammad. Vi snakker om hans fodbold rejse og hvordan hans store gambling problemer har været med til at ødelægge drengedrømmen og en masse gode relationer. 
+
+Værter Ibis Junior (Ibisjr)...</itunes:subtitle>
+         <itunes:summary>Vi har besøg af tidligere Superligaspiller og stortalent Adnan Mohammad. Vi snakker om hans fodbold rejse og hvordan hans store gambling problemer har været med til at ødelægge drengedrømmen og en masse gode relationer. &lt;br /&gt;&lt;br /&gt;Værter Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)</itunes:summary>
+         <itunes:duration>3238</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Penge: "Den der benzinpris har fået mig til at cykle"</title>
+         <link>https://www.spreaker.com/episode/penge-den-der-benzinpris-har-faet-mig-til-at-cykle--49037026</link>
+         <description>Vi hygger os som altid. Her kommer vi ind på økonomi, løn, første arbejde, Mobilepay, nærige ardams og meget mere. Hop ind og lyt med. &lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49037026</guid>
+         <pubDate>Sun, 13 Mar 2022 11:00:02 +0000</pubDate>
+         <enclosure length="52162186" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.03.13%20-%20Penge.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Vi hygger os som altid. Her kommer vi ind på økonomi, løn, første arbejde, Mobilepay, nærige ardams og meget mere. Hop ind og lyt med. 
+
+Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)...</itunes:subtitle>
+         <itunes:summary>Vi hygger os som altid. Her kommer vi ind på økonomi, løn, første arbejde, Mobilepay, nærige ardams og meget mere. Hop ind og lyt med. &lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C</itunes:summary>
+         <itunes:duration>3261</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hvordan var vi egentlig på skolebænken?</title>
+         <link>https://www.spreaker.com/episode/hvordan-var-vi-egentlig-pa-skolebaenken--48963276</link>
+         <description>Vi har alle sjove oplevelser i skolen. Vi kommer ind på hinandens skolegang og hvad skolen egentlig også har lært os. Lyt med! &lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48963276</guid>
+         <pubDate>Sun, 06 Mar 2022 11:00:02 +0000</pubDate>
+         <enclosure length="52352640" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.03.06%20-%20Hvordan%20var%20vi%20egentlig%20p%C3%A5%20skoleb%C3%A6nken.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Vi har alle sjove oplevelser i skolen. Vi kommer ind på hinandens skolegang og hvad skolen egentlig også har lært os. Lyt med! 
+
+Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack)...</itunes:subtitle>
+         <itunes:summary>Vi har alle sjove oplevelser i skolen. Vi kommer ind på hinandens skolegang og hvad skolen egentlig også har lært os. Lyt med! &lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C</itunes:summary>
+         <itunes:duration>3268</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kaos oplevelser</title>
+         <link>https://www.spreaker.com/episode/kaos-oplevelser--48883648</link>
+         <description>I dette afsnit græder vi af grin! Vi lægger ud med Rusland og Ukraine situationen, hvor Kamil har fået trip af udenrigsminister Kofod. Vi snakker om vores forskellige fuck ups! Vi har bedt jer om at dele jeres mest rav oplevelser. Lyt med og få en god griner!&lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48883648</guid>
+         <pubDate>Sun, 27 Feb 2022 11:05:02 +0000</pubDate>
+         <enclosure length="53498401" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.02.27%20-%20Kaos%20oplevelser.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I dette afsnit græder vi af grin! Vi lægger ud med Rusland og Ukraine situationen, hvor Kamil har fået trip af udenrigsminister Kofod. Vi snakker om vores forskellige fuck ups! Vi har bedt jer om at dele jeres mest rav oplevelser. Lyt med og få en god...</itunes:subtitle>
+         <itunes:summary>I dette afsnit græder vi af grin! Vi lægger ud med Rusland og Ukraine situationen, hvor Kamil har fået trip af udenrigsminister Kofod. Vi snakker om vores forskellige fuck ups! Vi har bedt jer om at dele jeres mest rav oplevelser. Lyt med og få en god griner!&lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C</itunes:summary>
+         <itunes:duration>3344</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Venskaber - hvad er en shabab?</title>
+         <link>https://www.spreaker.com/episode/venskaber-hvad-er-en-shabab--48766636</link>
+         <description>I dag handler det om venskaber! Vi modtog et læserbrev, som omhandler jalousi i venskabet og hvad man kan gøre for at ændre på det. Lyt med når Ghetto Factor dykker ned i, hvad en sand ven og shabab er. Good vibes only! &lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48766636</guid>
+         <pubDate>Sun, 20 Feb 2022 12:08:24 +0000</pubDate>
+         <enclosure length="50411136" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.02.20%20-%20Venskaber%20-%20hvad%20er%20en%20shabab.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I dag handler det om venskaber! Vi modtog et læserbrev, som omhandler jalousi i venskabet og hvad man kan gøre for at ændre på det. Lyt med når Ghetto Factor dykker ned i, hvad en sand ven og shabab er. Good vibes only! 
+
+Værter: Ibis Junior...</itunes:subtitle>
+         <itunes:summary>I dag handler det om venskaber! Vi modtog et læserbrev, som omhandler jalousi i venskabet og hvad man kan gøre for at ændre på det. Lyt med når Ghetto Factor dykker ned i, hvad en sand ven og shabab er. Good vibes only! &lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C</itunes:summary>
+         <itunes:duration>3147</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kærlighed - Når Amor plaffer</title>
+         <link>https://www.spreaker.com/episode/kaerlighed-nar-amor-plaffer--48714069</link>
+         <description>I dag snakker Ghetto Factor om KÆRLIGHED. Et emne vi alle kan relatere til. Alt fra knuste hjerter til gode oplevelser. Vi har alle sammen lært utrolig meget af vores erfaringer og det håber vi også du har. Elsk dig selv før du elsker andre mennesker - kend dit værd og vid hvad du går ind til.&lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48714069</guid>
+         <pubDate>Sun, 13 Feb 2022 16:00:07 +0000</pubDate>
+         <enclosure length="55782548" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.02.13%20-%20K%C3%A6rlighed%20-%20N%C3%A5r%20Amor%20plaffer.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I dag snakker Ghetto Factor om KÆRLIGHED. Et emne vi alle kan relatere til. Alt fra knuste hjerter til gode oplevelser. Vi har alle sammen lært utrolig meget af vores erfaringer og det håber vi også du har. Elsk dig selv før du elsker andre mennesker...</itunes:subtitle>
+         <itunes:summary>I dag snakker Ghetto Factor om KÆRLIGHED. Et emne vi alle kan relatere til. Alt fra knuste hjerter til gode oplevelser. Vi har alle sammen lært utrolig meget af vores erfaringer og det håber vi også du har. Elsk dig selv før du elsker andre mennesker - kend dit værd og vid hvad du går ind til.&lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C</itunes:summary>
+         <itunes:duration>3487</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>FULD RAV I DEN</title>
+         <link>https://www.spreaker.com/episode/fuld-rav-i-den--48611703</link>
+         <description>Det blev vores tur til at sidde i studiet. Denne gange bliver det sendt live og må Gud og vores mødre tilgive os, hvis vi siger noget forkert. Her får i en intro om hvad Ghetto Factor er og hvad det hele går ud på. Her er vores historie, lyt med. Mbb!&lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48611703</guid>
+         <pubDate>Sun, 06 Feb 2022 13:35:36 +0000</pubDate>
+         <enclosure length="51356360" type="audio/mpeg" url="https://archive.org/download/ghetto_factor/Ghetto%20Factor/2022.02.06%20-%20FULD%20RAV%20I%20DEN.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Det blev vores tur til at sidde i studiet. Denne gange bliver det sendt live og må Gud og vores mødre tilgive os, hvis vi siger noget forkert. Her får i en intro om hvad Ghetto Factor er og hvad det hele går ud på. Her er vores historie, lyt med. Mbb!...</itunes:subtitle>
+         <itunes:summary>Det blev vores tur til at sidde i studiet. Denne gange bliver det sendt live og må Gud og vores mødre tilgive os, hvis vi siger noget forkert. Her får i en intro om hvad Ghetto Factor er og hvad det hele går ud på. Her er vores historie, lyt med. Mbb!&lt;br /&gt;&lt;br /&gt;Værter: Ibis Junior (Ibisjr) - Ali Jassem (Jasseminho) - Kamil Charif (Kampapito) og Zakeria Hassan (Zacknack) &lt;br /&gt;&lt;br /&gt;Mastermind: Seringe fra Bus 5C</itunes:summary>
+         <itunes:duration>3210</itunes:duration>
+         <itunes:keywords>ærlig,ghetto,ghettofactor,læserbreve,shababs,snak,street,ungdom,urban,venskab</itunes:keywords>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bdecb3b4267088a3254bcb2449f82569.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

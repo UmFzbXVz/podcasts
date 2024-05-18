@@ -1,323 +1,137 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Musikken kalder
-  </title>
-  <link>
-   https://www.spreaker.com/podcast/musikken-kalder--5478900
-  </link>
-  <description>
-   Hver uge får Rasmus Damsholt besøg af en ny koncertforskrækket gæst, som Rasmus forsøger at overbevise om glæden ved livemusik.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5478900/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Music
-  </category>
-  <copyright>
-   Copyright 24syv
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg
-   </url>
-   <title>
-    Musikken kalder
-   </title>
-   <link>
-    https://www.spreaker.com/podcast/musikken-kalder--5478900
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   24syv
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    24syv
-   </itunes:name>
-   <itunes:email>
-    feeds@spreaker.com
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg"/>
-  <itunes:subtitle>
-   Hver uge får Rasmus Damsholt besøg af en ny koncertforskrækket gæst, som Rasmus forsøger at overbevise om glæden ved livemusik.
-  </itunes:subtitle>
-  <itunes:summary>
-   Hver uge får Rasmus Damsholt besøg af en ny koncertforskrækket gæst, som Rasmus forsøger at overbevise om glæden ved livemusik.
-  </itunes:summary>
-  <itunes:category text="Music"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Renés kald
-   </title>
-   <link>
-    https://www.spreaker.com/episode/renes-kald--52259964
-   </link>
-   <description>
-    René Slott er inviteret ind for at træne sin koncertmuskel og han får gode musikalske anbefalinger fra Mikkel fra Studenterhuset i København og Troels fra 1000Fryd i Aalborg.&lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/52259964
-   </guid>
-   <pubDate>
-    Fri, 23 Dec 2022 22:00:02 +0000
-   </pubDate>
-   <enclosure length="68664886" type="audio/mpeg" url="https://api.spreaker.com/download/episode/52259964/musikken_kalder_231222.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    René Slott er inviteret ind for at træne sin koncertmuskel og han får gode musikalske anbefalinger fra Mikkel fra Studenterhuset i København og Troels fra 1000Fryd i Aalborg.
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Musikken kalder</title>
+      <link>https://www.spreaker.com/podcast/musikken-kalder--5478900</link>
+      <description>Hver uge får Rasmus Damsholt besøg af en ny koncertforskrækket gæst, som Rasmus forsøger at overbevise om glæden ved livemusik.</description>
+      <atom:link href="https://www.spreaker.com/show/5478900/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Music</category>
+      <copyright>Copyright 24syv</copyright>
+      <image>
+         <url>https://archive.org/download/musikken_kalder/Musikken%20kalder/6e0453ab18ca0d3e555f8bd494116652.jpg</url>
+         <title>Musikken kalder</title>
+         <link>https://www.spreaker.com/podcast/musikken-kalder--5478900</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>24syv</itunes:author>
+      <itunes:owner>
+         <itunes:name>24syv</itunes:name>
+         <itunes:email>feeds@spreaker.com</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg" />
+      <itunes:subtitle>Hver uge får Rasmus Damsholt besøg af en ny koncertforskrækket gæst, som Rasmus forsøger at overbevise om glæden ved livemusik.</itunes:subtitle>
+      <itunes:summary>Hver uge får Rasmus Damsholt besøg af en ny koncertforskrækket gæst, som Rasmus forsøger at overbevise om glæden ved livemusik.</itunes:summary>
+      <itunes:category text="Music" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Renés kald</title>
+         <link>https://www.spreaker.com/episode/renes-kald--52259964</link>
+         <description>René Slott er inviteret ind for at træne sin koncertmuskel og han får gode musikalske anbefalinger fra Mikkel fra Studenterhuset i København og Troels fra 1000Fryd i Aalborg.&lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/52259964</guid>
+         <pubDate>Fri, 23 Dec 2022 22:00:02 +0000</pubDate>
+         <enclosure length="68664886" type="audio/mpeg" url="https://archive.org/download/musikken_kalder/Musikken%20kalder/2022.12.23%20-%20Ren%C3%A9s%20kald.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>René Slott er inviteret ind for at træne sin koncertmuskel og han får gode musikalske anbefalinger fra Mikkel fra Studenterhuset i København og Troels fra 1000Fryd i Aalborg.
 
-Vært: Rasmus Damsholt
-   </itunes:subtitle>
-   <itunes:summary>
-    René Slott er inviteret ind for at træne sin koncertmuskel og han får gode musikalske anbefalinger fra Mikkel fra Studenterhuset i København og Troels fra 1000Fryd i Aalborg.&lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt
-   </itunes:summary>
-   <itunes:duration>
-    4288
-   </itunes:duration>
-   <itunes:keywords>
-    koncert,musik
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg"/>
-   <itunes:season>
-    1
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Victorias kald (Spot Special)
-   </title>
-   <link>
-    https://www.spreaker.com/episode/victorias-kald-spot-special--49761875
-   </link>
-   <description>
-    Victoria har aldrig været på Spot Festival, så Rasmus har givet hende en billet, men hvad skal man se på den Århusianske upcoming festival? &lt;br /&gt;Jesper Thisgaard, der er musikchef på Spot Festival forsøger at guide.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49761875
-   </guid>
-   <pubDate>
-    Fri, 13 May 2022 22:00:02 +0000
-   </pubDate>
-   <enclosure length="37901419" type="audio/mpeg" url="https://api.spreaker.com/download/episode/49761875/musikken_kalder_spot_special_victorias_kald_podcast.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Victoria har aldrig været på Spot Festival, så Rasmus har givet hende en billet, men hvad skal man se på den Århusianske upcoming festival? 
-Jesper Thisgaard, der er musikchef på Spot Festival forsøger at guide.
-   </itunes:subtitle>
-   <itunes:summary>
-    Victoria har aldrig været på Spot Festival, så Rasmus har givet hende en billet, men hvad skal man se på den Århusianske upcoming festival? &lt;br /&gt;Jesper Thisgaard, der er musikchef på Spot Festival forsøger at guide.
-   </itunes:summary>
-   <itunes:duration>
-    2365
-   </itunes:duration>
-   <itunes:keywords>
-    musik,spot
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg"/>
-   <itunes:season>
-    1
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Mads kald
-   </title>
-   <link>
-    https://www.spreaker.com/episode/mads-kald--49387708
-   </link>
-   <description>
-    Mads har stadig ikke været til nogen koncerter siden han sidst var gæst i programmet for en måned siden, så Rasmus må stramme sig an for at finde nogle koncerter, som forhåbentlig kan sparke Mads ud af kælderen med magic kort. &lt;br /&gt;Rasmus får hjælp fra Lars, der er musikchef på Rust og Mads, som er musikbooker på spillestedet Harders i Svendborg. De anbefaler god musik og arrangementer til Mads.&lt;br /&gt;Lyt med og hør om det lykkes Rasmus, at få sendt Mads afsted.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49387708
-   </guid>
-   <pubDate>
-    Sun, 10 Apr 2022 20:55:54 +0000
-   </pubDate>
-   <enclosure length="46815234" type="audio/mpeg" url="https://api.spreaker.com/download/episode/49387708/080322musikkenkalder.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Mads har stadig ikke været til nogen koncerter siden han sidst var gæst i programmet for en måned siden, så Rasmus må stramme sig an for at finde nogle koncerter, som forhåbentlig kan sparke Mads ud af kælderen med magic kort. 
-Rasmus får hjælp fra...
-   </itunes:subtitle>
-   <itunes:summary>
-    Mads har stadig ikke været til nogen koncerter siden han sidst var gæst i programmet for en måned siden, så Rasmus må stramme sig an for at finde nogle koncerter, som forhåbentlig kan sparke Mads ud af kælderen med magic kort. &lt;br /&gt;Rasmus får hjælp fra Lars, der er musikchef på Rust og Mads, som er musikbooker på spillestedet Harders i Svendborg. De anbefaler god musik og arrangementer til Mads.&lt;br /&gt;Lyt med og hør om det lykkes Rasmus, at få sendt Mads afsted.
-   </itunes:summary>
-   <itunes:duration>
-    2922
-   </itunes:duration>
-   <itunes:keywords>
-    harders,koncert,musik,rust
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg"/>
-   <itunes:season>
-    1
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Neel's kald
-   </title>
-   <link>
-    https://www.spreaker.com/episode/neel-s-kald--49301311
-   </link>
-   <description>
-    Neel kan bedre lide at blive hjemme eller gå i biografen frem for at gå til koncerter.&lt;br /&gt;Men det vil Rasmus gerne ændre på, så han har allieret sig med Nicki fra Posten i Odense og Peder fra Klaverfabrikken i Hillerød. De prøver at overbevise Neel om at de altså har nogle fede ting på programmet.&lt;br /&gt;&lt;br /&gt;Lyt med og find ud af om det lykkedes Rasmus at få sendt Neel til koncert. &lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49301311
-   </guid>
-   <pubDate>
-    Sun, 03 Apr 2022 13:09:46 +0000
-   </pubDate>
-   <enclosure length="81917118" type="audio/mpeg" url="https://api.spreaker.com/download/episode/49301311/musikken_kalder_p_neel.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Neel kan bedre lide at blive hjemme eller gå i biografen frem for at gå til koncerter.
-Men det vil Rasmus gerne ændre på, så han har allieret sig med Nicki fra Posten i Odense og Peder fra Klaverfabrikken i Hillerød. De prøver at overbevise Neel om...
-   </itunes:subtitle>
-   <itunes:summary>
-    Neel kan bedre lide at blive hjemme eller gå i biografen frem for at gå til koncerter.&lt;br /&gt;Men det vil Rasmus gerne ændre på, så han har allieret sig med Nicki fra Posten i Odense og Peder fra Klaverfabrikken i Hillerød. De prøver at overbevise Neel om at de altså har nogle fede ting på programmet.&lt;br /&gt;&lt;br /&gt;Lyt med og find ud af om det lykkedes Rasmus at få sendt Neel til koncert. &lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt
-   </itunes:summary>
-   <itunes:duration>
-    5116
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg"/>
-   <itunes:season>
-    1
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Ali's kald
-   </title>
-   <link>
-    https://www.spreaker.com/episode/ali-s-kald--49176876
-   </link>
-   <description>
-    Ali kan bedst lide at sidde hjemme i weekenden, men Rasmus forsøger, at sparke ham ud af døren ved at ringe til Mads fra Spillestedet Harders i Svendborg.&lt;br /&gt;Mads har massere af gode koncertanbefalinger og undervejs får de tre også snakket om hvorfor Ali måske slet ikke kan huske sidste gang han har været til koncert og hvad der kunne få ham afsted.&lt;br /&gt;&lt;br /&gt;Lyt med og find ud af om det lykkedes Rasmus at få sendt Ali til koncert. &lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49176876
-   </guid>
-   <pubDate>
-    Fri, 25 Mar 2022 23:35:02 +0000
-   </pubDate>
-   <enclosure length="48053647" type="audio/mpeg" url="https://api.spreaker.com/download/episode/49176876/musikken_kalder_25_marts.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ali kan bedst lide at sidde hjemme i weekenden, men Rasmus forsøger, at sparke ham ud af døren ved at ringe til Mads fra Spillestedet Harders i Svendborg.
-Mads har massere af gode koncertanbefalinger og undervejs får de tre også snakket om hvorfor...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ali kan bedst lide at sidde hjemme i weekenden, men Rasmus forsøger, at sparke ham ud af døren ved at ringe til Mads fra Spillestedet Harders i Svendborg.&lt;br /&gt;Mads har massere af gode koncertanbefalinger og undervejs får de tre også snakket om hvorfor Ali måske slet ikke kan huske sidste gang han har været til koncert og hvad der kunne få ham afsted.&lt;br /&gt;&lt;br /&gt;Lyt med og find ud af om det lykkedes Rasmus at få sendt Ali til koncert. &lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt
-   </itunes:summary>
-   <itunes:duration>
-    3000
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg"/>
-   <itunes:season>
-    1
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Mads og Peter's kald
-   </title>
-   <link>
-    https://www.spreaker.com/episode/mads-og-peter-s-kald--49104410
-   </link>
-   <description>
-    Mads og Peter kan bedst lide at sidde hjemme i weekenden og spille magic kort.&lt;br /&gt;Men Rasmus forsøger, at sparke dem ud af døren ved at ringe til Studenterhuset i Aalborg, Godset i Kolding og Pumpehuset i København. &lt;br /&gt;Spillestederne har massere af gode koncertanbefalinger til de to kortspilsentusiaster. &lt;br /&gt;&lt;br /&gt;Hør om det lykkedes Rasmus at få sendt gutterne til koncert. Undervejs bliver der præsenteret en masse ny god musik ude fra de danske spillesteder.&lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49104410
-   </guid>
-   <pubDate>
-    Fri, 18 Mar 2022 22:00:02 +0000
-   </pubDate>
-   <enclosure length="80073082" type="audio/mpeg" url="https://api.spreaker.com/download/episode/49104410/musikken_kalder_18_marts_podcast.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Mads og Peter kan bedst lide at sidde hjemme i weekenden og spille magic kort.
-Men Rasmus forsøger, at sparke dem ud af døren ved at ringe til Studenterhuset i Aalborg, Godset i Kolding og Pumpehuset i København. 
-Spillestederne har massere af gode...
-   </itunes:subtitle>
-   <itunes:summary>
-    Mads og Peter kan bedst lide at sidde hjemme i weekenden og spille magic kort.&lt;br /&gt;Men Rasmus forsøger, at sparke dem ud af døren ved at ringe til Studenterhuset i Aalborg, Godset i Kolding og Pumpehuset i København. &lt;br /&gt;Spillestederne har massere af gode koncertanbefalinger til de to kortspilsentusiaster. &lt;br /&gt;&lt;br /&gt;Hør om det lykkedes Rasmus at få sendt gutterne til koncert. Undervejs bliver der præsenteret en masse ny god musik ude fra de danske spillesteder.&lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt
-   </itunes:summary>
-   <itunes:duration>
-    5001
-   </itunes:duration>
-   <itunes:keywords>
-    godset,koncerter,musik,pumpehuset,spillesteder,studenterhuset
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg"/>
-   <itunes:season>
-    1
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+Vært: Rasmus Damsholt</itunes:subtitle>
+         <itunes:summary>René Slott er inviteret ind for at træne sin koncertmuskel og han får gode musikalske anbefalinger fra Mikkel fra Studenterhuset i København og Troels fra 1000Fryd i Aalborg.&lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt</itunes:summary>
+         <itunes:duration>4288</itunes:duration>
+         <itunes:keywords>koncert,musik</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg" />
+         <itunes:season>1</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Victorias kald (Spot Special)</title>
+         <link>https://www.spreaker.com/episode/victorias-kald-spot-special--49761875</link>
+         <description>Victoria har aldrig været på Spot Festival, så Rasmus har givet hende en billet, men hvad skal man se på den Århusianske upcoming festival? &lt;br /&gt;Jesper Thisgaard, der er musikchef på Spot Festival forsøger at guide.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49761875</guid>
+         <pubDate>Fri, 13 May 2022 22:00:02 +0000</pubDate>
+         <enclosure length="37901419" type="audio/mpeg" url="https://archive.org/download/musikken_kalder/Musikken%20kalder/2022.05.13%20-%20Victorias%20kald%20%28Spot%20Special%29.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Victoria har aldrig været på Spot Festival, så Rasmus har givet hende en billet, men hvad skal man se på den Århusianske upcoming festival? 
+Jesper Thisgaard, der er musikchef på Spot Festival forsøger at guide.</itunes:subtitle>
+         <itunes:summary>Victoria har aldrig været på Spot Festival, så Rasmus har givet hende en billet, men hvad skal man se på den Århusianske upcoming festival? &lt;br /&gt;Jesper Thisgaard, der er musikchef på Spot Festival forsøger at guide.</itunes:summary>
+         <itunes:duration>2365</itunes:duration>
+         <itunes:keywords>musik,spot</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg" />
+         <itunes:season>1</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Mads kald</title>
+         <link>https://www.spreaker.com/episode/mads-kald--49387708</link>
+         <description>Mads har stadig ikke været til nogen koncerter siden han sidst var gæst i programmet for en måned siden, så Rasmus må stramme sig an for at finde nogle koncerter, som forhåbentlig kan sparke Mads ud af kælderen med magic kort. &lt;br /&gt;Rasmus får hjælp fra Lars, der er musikchef på Rust og Mads, som er musikbooker på spillestedet Harders i Svendborg. De anbefaler god musik og arrangementer til Mads.&lt;br /&gt;Lyt med og hør om det lykkes Rasmus, at få sendt Mads afsted.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49387708</guid>
+         <pubDate>Sun, 10 Apr 2022 20:55:54 +0000</pubDate>
+         <enclosure length="46815234" type="audio/mpeg" url="https://archive.org/download/musikken_kalder/Musikken%20kalder/2022.04.10%20-%20Mads%20kald.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Mads har stadig ikke været til nogen koncerter siden han sidst var gæst i programmet for en måned siden, så Rasmus må stramme sig an for at finde nogle koncerter, som forhåbentlig kan sparke Mads ud af kælderen med magic kort. 
+Rasmus får hjælp fra...</itunes:subtitle>
+         <itunes:summary>Mads har stadig ikke været til nogen koncerter siden han sidst var gæst i programmet for en måned siden, så Rasmus må stramme sig an for at finde nogle koncerter, som forhåbentlig kan sparke Mads ud af kælderen med magic kort. &lt;br /&gt;Rasmus får hjælp fra Lars, der er musikchef på Rust og Mads, som er musikbooker på spillestedet Harders i Svendborg. De anbefaler god musik og arrangementer til Mads.&lt;br /&gt;Lyt med og hør om det lykkes Rasmus, at få sendt Mads afsted.</itunes:summary>
+         <itunes:duration>2922</itunes:duration>
+         <itunes:keywords>harders,koncert,musik,rust</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg" />
+         <itunes:season>1</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Neel's kald</title>
+         <link>https://www.spreaker.com/episode/neel-s-kald--49301311</link>
+         <description>Neel kan bedre lide at blive hjemme eller gå i biografen frem for at gå til koncerter.&lt;br /&gt;Men det vil Rasmus gerne ændre på, så han har allieret sig med Nicki fra Posten i Odense og Peder fra Klaverfabrikken i Hillerød. De prøver at overbevise Neel om at de altså har nogle fede ting på programmet.&lt;br /&gt;&lt;br /&gt;Lyt med og find ud af om det lykkedes Rasmus at få sendt Neel til koncert. &lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49301311</guid>
+         <pubDate>Sun, 03 Apr 2022 13:09:46 +0000</pubDate>
+         <enclosure length="81917118" type="audio/mpeg" url="https://archive.org/download/musikken_kalder/Musikken%20kalder/2022.04.03%20-%20Neel%27s%20kald.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Neel kan bedre lide at blive hjemme eller gå i biografen frem for at gå til koncerter.
+Men det vil Rasmus gerne ændre på, så han har allieret sig med Nicki fra Posten i Odense og Peder fra Klaverfabrikken i Hillerød. De prøver at overbevise Neel om...</itunes:subtitle>
+         <itunes:summary>Neel kan bedre lide at blive hjemme eller gå i biografen frem for at gå til koncerter.&lt;br /&gt;Men det vil Rasmus gerne ændre på, så han har allieret sig med Nicki fra Posten i Odense og Peder fra Klaverfabrikken i Hillerød. De prøver at overbevise Neel om at de altså har nogle fede ting på programmet.&lt;br /&gt;&lt;br /&gt;Lyt med og find ud af om det lykkedes Rasmus at få sendt Neel til koncert. &lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt</itunes:summary>
+         <itunes:duration>5116</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg" />
+         <itunes:season>1</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Ali's kald</title>
+         <link>https://www.spreaker.com/episode/ali-s-kald--49176876</link>
+         <description>Ali kan bedst lide at sidde hjemme i weekenden, men Rasmus forsøger, at sparke ham ud af døren ved at ringe til Mads fra Spillestedet Harders i Svendborg.&lt;br /&gt;Mads har massere af gode koncertanbefalinger og undervejs får de tre også snakket om hvorfor Ali måske slet ikke kan huske sidste gang han har været til koncert og hvad der kunne få ham afsted.&lt;br /&gt;&lt;br /&gt;Lyt med og find ud af om det lykkedes Rasmus at få sendt Ali til koncert. &lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49176876</guid>
+         <pubDate>Fri, 25 Mar 2022 23:35:02 +0000</pubDate>
+         <enclosure length="48053647" type="audio/mpeg" url="https://archive.org/download/musikken_kalder/Musikken%20kalder/2022.03.25%20-%20Ali%27s%20kald.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ali kan bedst lide at sidde hjemme i weekenden, men Rasmus forsøger, at sparke ham ud af døren ved at ringe til Mads fra Spillestedet Harders i Svendborg.
+Mads har massere af gode koncertanbefalinger og undervejs får de tre også snakket om hvorfor...</itunes:subtitle>
+         <itunes:summary>Ali kan bedst lide at sidde hjemme i weekenden, men Rasmus forsøger, at sparke ham ud af døren ved at ringe til Mads fra Spillestedet Harders i Svendborg.&lt;br /&gt;Mads har massere af gode koncertanbefalinger og undervejs får de tre også snakket om hvorfor Ali måske slet ikke kan huske sidste gang han har været til koncert og hvad der kunne få ham afsted.&lt;br /&gt;&lt;br /&gt;Lyt med og find ud af om det lykkedes Rasmus at få sendt Ali til koncert. &lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt</itunes:summary>
+         <itunes:duration>3000</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg" />
+         <itunes:season>1</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Mads og Peter's kald</title>
+         <link>https://www.spreaker.com/episode/mads-og-peter-s-kald--49104410</link>
+         <description>Mads og Peter kan bedst lide at sidde hjemme i weekenden og spille magic kort.&lt;br /&gt;Men Rasmus forsøger, at sparke dem ud af døren ved at ringe til Studenterhuset i Aalborg, Godset i Kolding og Pumpehuset i København. &lt;br /&gt;Spillestederne har massere af gode koncertanbefalinger til de to kortspilsentusiaster. &lt;br /&gt;&lt;br /&gt;Hør om det lykkedes Rasmus at få sendt gutterne til koncert. Undervejs bliver der præsenteret en masse ny god musik ude fra de danske spillesteder.&lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49104410</guid>
+         <pubDate>Fri, 18 Mar 2022 22:00:02 +0000</pubDate>
+         <enclosure length="80073082" type="audio/mpeg" url="https://archive.org/download/musikken_kalder/Musikken%20kalder/2022.03.18%20-%20Mads%20og%20Peter%27s%20kald.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Mads og Peter kan bedst lide at sidde hjemme i weekenden og spille magic kort.
+Men Rasmus forsøger, at sparke dem ud af døren ved at ringe til Studenterhuset i Aalborg, Godset i Kolding og Pumpehuset i København. 
+Spillestederne har massere af gode...</itunes:subtitle>
+         <itunes:summary>Mads og Peter kan bedst lide at sidde hjemme i weekenden og spille magic kort.&lt;br /&gt;Men Rasmus forsøger, at sparke dem ud af døren ved at ringe til Studenterhuset i Aalborg, Godset i Kolding og Pumpehuset i København. &lt;br /&gt;Spillestederne har massere af gode koncertanbefalinger til de to kortspilsentusiaster. &lt;br /&gt;&lt;br /&gt;Hør om det lykkedes Rasmus at få sendt gutterne til koncert. Undervejs bliver der præsenteret en masse ny god musik ude fra de danske spillesteder.&lt;br /&gt;&lt;br /&gt;Vært: Rasmus Damsholt</itunes:summary>
+         <itunes:duration>5001</itunes:duration>
+         <itunes:keywords>godset,koncerter,musik,pumpehuset,spillesteder,studenterhuset</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6e0453ab18ca0d3e555f8bd494116652.jpg" />
+         <itunes:season>1</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

@@ -1,291 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Beatles er større end Jesus
-  </title>
-  <link>
-   https://www.spreaker.com/show/beatles-er-stoerre-end-jesus
-  </link>
-  <description>
-   For at fejre 60-året for The Beatles første indspilning i Abbey Road studierne holder Teis Zacho og Jonas Foldager et 6-timers pinsemarathon, hvor de dykker ned i ‘the fab four’. I selskab med eksperter, superfans og musikere kigger de på gruppen igennem tiden, stofferne, fankulturen, spiritualiteten, sangskrivningen og ikke mindst det massive aftryk gruppen efterlod sig på omverden.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5587259/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Music History
-  </category>
-  <copyright>
-   Copyright 24syv
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg
-   </url>
-   <title>
-    Beatles er større end Jesus
-   </title>
-   <link>
-    https://www.spreaker.com/show/beatles-er-stoerre-end-jesus
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   24syv
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    24syv
-   </itunes:name>
-   <itunes:email>
-    podcast@24syv.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg"/>
-  <itunes:subtitle>
-   For at fejre 60-året for The Beatles første indspilning i Abbey Road studierne holder Teis Zacho og Jonas Foldager et 6-timers pinsemarathon, hvor de dykker ned i ‘the fab four’. I selskab med eksperter, superfans og musikere kigger de på gruppen...
-  </itunes:subtitle>
-  <itunes:summary>
-   For at fejre 60-året for The Beatles første indspilning i Abbey Road studierne holder Teis Zacho og Jonas Foldager et 6-timers pinsemarathon, hvor de dykker ned i ‘the fab four’. I selskab med eksperter, superfans og musikere kigger de på gruppen igennem tiden, stofferne, fankulturen, spiritualiteten, sangskrivningen og ikke mindst det massive aftryk gruppen efterlod sig på omverden.
-  </itunes:summary>
-  <itunes:category text="Music">
-   <itunes:category text="Music History"/>
-  </itunes:category>
-  <itunes:category text="Music">
-   <itunes:category text="Music Commentary"/>
-  </itunes:category>
-  <itunes:category text="Music"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    6. Efter bruddet - Det nye testamente
-   </title>
-   <link>
-    https://www.spreaker.com/episode/6-efter-bruddet-det-nye-testamente--50091686
-   </link>
-   <description>
-    I denne sjette og sidste time runder vi marathonet af med en snak om gruppens opløsning og solokarrierer. Vi får besøg af musikskribent Martin Gronemann til en snak om gruppens uenigheder, bruddet, og hvilken slags musik de hver især udgav efterfølgende.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/50091686
-   </guid>
-   <pubDate>
-    Mon, 06 Jun 2022 18:30:40 +0000
-   </pubDate>
-   <enclosure length="64405336" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50091686/6.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I denne sjette og sidste time runder vi marathonet af med en snak om gruppens opløsning og solokarrierer. Vi får besøg af musikskribent Martin Gronemann til en snak om gruppens uenigheder, bruddet, og hvilken slags musik de hver især udgav efterfølgende.
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne sjette og sidste time runder vi marathonet af med en snak om gruppens opløsning og solokarrierer. Vi får besøg af musikskribent Martin Gronemann til en snak om gruppens uenigheder, bruddet, og hvilken slags musik de hver især udgav efterfølgende.
-   </itunes:summary>
-   <itunes:duration>
-    3221
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    5. Inspiration eller plagiat? - Beatles-biblens fortolkninger
-   </title>
-   <link>
-    https://www.spreaker.com/episode/5-inspiration-eller-plagiat-beatles-biblens-fortolkninger--50091566
-   </link>
-   <description>
-    Vi er fem timer inde i Beatles-marathonet og skal i denne time snakke om gruppens aftryk på omverden. Vi får besøg af trommeslager og et af de oprindelige medlemmer af Shu-Bi-Dua Bosse Hall Christensen, der fortæller om de første år i hans band, og hvordan The Beatles var en stor inspiration. Derefter hører vi sange fra nutidens artister, der stadig trækker tydelig inspiration fra de 4 drenge fra Liverpool.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/50091566
-   </guid>
-   <pubDate>
-    Mon, 06 Jun 2022 18:24:17 +0000
-   </pubDate>
-   <enclosure length="64470642" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50091566/5.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Vi er fem timer inde i Beatles-marathonet og skal i denne time snakke om gruppens aftryk på omverden. Vi får besøg af trommeslager og et af de oprindelige medlemmer af Shu-Bi-Dua Bosse Hall Christensen, der fortæller om de første år i hans band, og...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi er fem timer inde i Beatles-marathonet og skal i denne time snakke om gruppens aftryk på omverden. Vi får besøg af trommeslager og et af de oprindelige medlemmer af Shu-Bi-Dua Bosse Hall Christensen, der fortæller om de første år i hans band, og hvordan The Beatles var en stor inspiration. Derefter hører vi sange fra nutidens artister, der stadig trækker tydelig inspiration fra de 4 drenge fra Liverpool.
-   </itunes:summary>
-   <itunes:duration>
-    3224
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    4. Stoffer og spiritualitet - Ritualerne
-   </title>
-   <link>
-    https://www.spreaker.com/episode/4-stoffer-og-spiritualitet-ritualerne--50091487
-   </link>
-   <description>
-    I denne time kigger vi på gruppen fascination af stoffer og spiritualitet. Vi lytter og snakker om sangene der er den soniske ekvivalent til et syretrip og får besøg af forstander på højskolen for bevidsthedsudvikling Ole Blenkov, der fortæller om og guider os igennem transcendentalmeditation.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/50091487
-   </guid>
-   <pubDate>
-    Mon, 06 Jun 2022 18:18:03 +0000
-   </pubDate>
-   <enclosure length="64605434" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50091487/4.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I denne time kigger vi på gruppen fascination af stoffer og spiritualitet. Vi lytter og snakker om sangene der er den soniske ekvivalent til et syretrip og får besøg af forstander på højskolen for bevidsthedsudvikling Ole Blenkov, der fortæller om og...
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne time kigger vi på gruppen fascination af stoffer og spiritualitet. Vi lytter og snakker om sangene der er den soniske ekvivalent til et syretrip og får besøg af forstander på højskolen for bevidsthedsudvikling Ole Blenkov, der fortæller om og guider os igennem transcendentalmeditation.
-   </itunes:summary>
-   <itunes:duration>
-    3231
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    3. Lennon vs. McCartney - To Jesus'er i et band?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/3-lennon-vs-mccartney-to-jesus-er-i-et-band--50091250
-   </link>
-   <description>
-    I denne time dykker vi ned i sangskriverparret Lennon/McCartney og deres magiske samarbejde. Sanger, producer og inkarneret Beatlesfan Chief1 er med på en telefon, for at fortælle om den dynamiske duos arbejde - både sammen og hver for sig.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/50091250
-   </guid>
-   <pubDate>
-    Mon, 06 Jun 2022 18:13:40 +0000
-   </pubDate>
-   <enclosure length="64511393" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50091250/3.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I denne time dykker vi ned i sangskriverparret Lennon/McCartney og deres magiske samarbejde. Sanger, producer og inkarneret Beatlesfan Chief1 er med på en telefon, for at fortælle om den dynamiske duos arbejde - både sammen og hver for sig.
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne time dykker vi ned i sangskriverparret Lennon/McCartney og deres magiske samarbejde. Sanger, producer og inkarneret Beatlesfan Chief1 er med på en telefon, for at fortælle om den dynamiske duos arbejde - både sammen og hver for sig.
-   </itunes:summary>
-   <itunes:duration>
-    3226
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    2. Fankultur og teenageidoler - De mange disciple
-   </title>
-   <link>
-    https://www.spreaker.com/episode/2-fankultur-og-teenageidoler-de-mange-disciple--50091183
-   </link>
-   <description>
-    I denne time skal vi snakke fankultur. Man har måske set klip med horderne af piger og hørt om de skrigende folkemængder - men hvordan var det at være en del af? Sanger Ib Grønbech er med på en telefon, for at fortælle om hvordan The Beatles ændrede hans liv, og hvilken indflydelse det at være fan af gruppen, har haft på ham.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/50091183
-   </guid>
-   <pubDate>
-    Mon, 06 Jun 2022 18:05:01 +0000
-   </pubDate>
-   <enclosure length="64487883" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50091183/2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I denne time skal vi snakke fankultur. Man har måske set klip med horderne af piger og hørt om de skrigende folkemængder - men hvordan var det at være en del af? Sanger Ib Grønbech er med på en telefon, for at fortælle om hvordan The Beatles ændrede...
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne time skal vi snakke fankultur. Man har måske set klip med horderne af piger og hørt om de skrigende folkemængder - men hvordan var det at være en del af? Sanger Ib Grønbech er med på en telefon, for at fortælle om hvordan The Beatles ændrede hans liv, og hvilken indflydelse det at være fan af gruppen, har haft på ham.
-   </itunes:summary>
-   <itunes:duration>
-    3225
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    1. Skabelsesberetningen - Det gamle testamente
-   </title>
-   <link>
-    https://www.spreaker.com/episode/1-skabelsesberetningen-det-gamle-testamente--50091127
-   </link>
-   <description>
-    I første time af marathonet dykkes der ned i tiden før The Beatles, samt gruppens medlemmer. Musikskribent og all-around musikelsker Kjartan F. Stolberg gæster studiet og snakker med om The Quarrymen, gruppens tid i Hamborg før gennembruddet, samt den første plade.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/50091127
-   </guid>
-   <pubDate>
-    Mon, 06 Jun 2022 18:02:31 +0000
-   </pubDate>
-   <enclosure length="64605434" type="audio/mpeg" url="https://api.spreaker.com/download/episode/50091127/1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I første time af marathonet dykkes der ned i tiden før The Beatles, samt gruppens medlemmer. Musikskribent og all-around musikelsker Kjartan F. Stolberg gæster studiet og snakker med om The Quarrymen, gruppens tid i Hamborg før gennembruddet, samt den...
-   </itunes:subtitle>
-   <itunes:summary>
-    I første time af marathonet dykkes der ned i tiden før The Beatles, samt gruppens medlemmer. Musikskribent og all-around musikelsker Kjartan F. Stolberg gæster studiet og snakker med om The Quarrymen, gruppens tid i Hamborg før gennembruddet, samt den første plade.
-   </itunes:summary>
-   <itunes:duration>
-    3231
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Beatles er større end Jesus</title>
+      <link>https://www.spreaker.com/show/beatles-er-stoerre-end-jesus</link>
+      <description>For at fejre 60-året for The Beatles første indspilning i Abbey Road studierne holder Teis Zacho og Jonas Foldager et 6-timers pinsemarathon, hvor de dykker ned i ‘the fab four’. I selskab med eksperter, superfans og musikere kigger de på gruppen igennem tiden, stofferne, fankulturen, spiritualiteten, sangskrivningen og ikke mindst det massive aftryk gruppen efterlod sig på omverden.</description>
+      <atom:link href="https://www.spreaker.com/show/5587259/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Music History</category>
+      <copyright>Copyright 24syv</copyright>
+      <image>
+         <url>https://archive.org/download/beatles_er_storre_end_jesus/Beatles_24syv_ikon3_-ny.png</url>
+         <title>Beatles er større end Jesus</title>
+         <link>https://www.spreaker.com/show/beatles-er-stoerre-end-jesus</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>24syv</itunes:author>
+      <itunes:owner>
+         <itunes:name>24syv</itunes:name>
+         <itunes:email>podcast@24syv.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg" />
+      <itunes:subtitle>For at fejre 60-året for The Beatles første indspilning i Abbey Road studierne holder Teis Zacho og Jonas Foldager et 6-timers pinsemarathon, hvor de dykker ned i ‘the fab four’. I selskab med eksperter, superfans og musikere kigger de på gruppen...</itunes:subtitle>
+      <itunes:summary>For at fejre 60-året for The Beatles første indspilning i Abbey Road studierne holder Teis Zacho og Jonas Foldager et 6-timers pinsemarathon, hvor de dykker ned i ‘the fab four’. I selskab med eksperter, superfans og musikere kigger de på gruppen igennem tiden, stofferne, fankulturen, spiritualiteten, sangskrivningen og ikke mindst det massive aftryk gruppen efterlod sig på omverden.</itunes:summary>
+      <itunes:category text="Music">
+         <itunes:category text="Music History" />
+      </itunes:category>
+      <itunes:category text="Music">
+         <itunes:category text="Music Commentary" />
+      </itunes:category>
+      <itunes:category text="Music" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>6. Efter bruddet - Det nye testamente</title>
+         <link>https://www.spreaker.com/episode/6-efter-bruddet-det-nye-testamente--50091686</link>
+         <description>I denne sjette og sidste time runder vi marathonet af med en snak om gruppens opløsning og solokarrierer. Vi får besøg af musikskribent Martin Gronemann til en snak om gruppens uenigheder, bruddet, og hvilken slags musik de hver især udgav efterfølgende.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/50091686</guid>
+         <pubDate>Mon, 06 Jun 2022 18:30:40 +0000</pubDate>
+         <enclosure length="64405336" type="audio/mpeg" url="https://archive.org/download/beatles_er_storre_end_jesus/Beatles%20er%20st%C3%B8rre%20end%20Jesus/2022.06.06%20-%206.%20Efter%20bruddet%20-%20Det%20nye%20testamente.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I denne sjette og sidste time runder vi marathonet af med en snak om gruppens opløsning og solokarrierer. Vi får besøg af musikskribent Martin Gronemann til en snak om gruppens uenigheder, bruddet, og hvilken slags musik de hver især udgav efterfølgende.</itunes:subtitle>
+         <itunes:summary>I denne sjette og sidste time runder vi marathonet af med en snak om gruppens opløsning og solokarrierer. Vi får besøg af musikskribent Martin Gronemann til en snak om gruppens uenigheder, bruddet, og hvilken slags musik de hver især udgav efterfølgende.</itunes:summary>
+         <itunes:duration>3221</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>5. Inspiration eller plagiat? - Beatles-biblens fortolkninger</title>
+         <link>https://www.spreaker.com/episode/5-inspiration-eller-plagiat-beatles-biblens-fortolkninger--50091566</link>
+         <description>Vi er fem timer inde i Beatles-marathonet og skal i denne time snakke om gruppens aftryk på omverden. Vi får besøg af trommeslager og et af de oprindelige medlemmer af Shu-Bi-Dua Bosse Hall Christensen, der fortæller om de første år i hans band, og hvordan The Beatles var en stor inspiration. Derefter hører vi sange fra nutidens artister, der stadig trækker tydelig inspiration fra de 4 drenge fra Liverpool.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/50091566</guid>
+         <pubDate>Mon, 06 Jun 2022 18:24:17 +0000</pubDate>
+         <enclosure length="64470642" type="audio/mpeg" url="https://archive.org/download/beatles_er_storre_end_jesus/Beatles%20er%20st%C3%B8rre%20end%20Jesus/2022.06.06%20-%205.%20Inspiration%20eller%20plagiat.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Vi er fem timer inde i Beatles-marathonet og skal i denne time snakke om gruppens aftryk på omverden. Vi får besøg af trommeslager og et af de oprindelige medlemmer af Shu-Bi-Dua Bosse Hall Christensen, der fortæller om de første år i hans band, og...</itunes:subtitle>
+         <itunes:summary>Vi er fem timer inde i Beatles-marathonet og skal i denne time snakke om gruppens aftryk på omverden. Vi får besøg af trommeslager og et af de oprindelige medlemmer af Shu-Bi-Dua Bosse Hall Christensen, der fortæller om de første år i hans band, og hvordan The Beatles var en stor inspiration. Derefter hører vi sange fra nutidens artister, der stadig trækker tydelig inspiration fra de 4 drenge fra Liverpool.</itunes:summary>
+         <itunes:duration>3224</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>4. Stoffer og spiritualitet - Ritualerne</title>
+         <link>https://www.spreaker.com/episode/4-stoffer-og-spiritualitet-ritualerne--50091487</link>
+         <description>I denne time kigger vi på gruppen fascination af stoffer og spiritualitet. Vi lytter og snakker om sangene der er den soniske ekvivalent til et syretrip og får besøg af forstander på højskolen for bevidsthedsudvikling Ole Blenkov, der fortæller om og guider os igennem transcendentalmeditation.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/50091487</guid>
+         <pubDate>Mon, 06 Jun 2022 18:18:03 +0000</pubDate>
+         <enclosure length="64605434" type="audio/mpeg" url="https://archive.org/download/beatles_er_storre_end_jesus/Beatles%20er%20st%C3%B8rre%20end%20Jesus/2022.06.06%20-%204.%20Stoffer%20og%20spiritualitet%20-%20Ritualerne.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I denne time kigger vi på gruppen fascination af stoffer og spiritualitet. Vi lytter og snakker om sangene der er den soniske ekvivalent til et syretrip og får besøg af forstander på højskolen for bevidsthedsudvikling Ole Blenkov, der fortæller om og...</itunes:subtitle>
+         <itunes:summary>I denne time kigger vi på gruppen fascination af stoffer og spiritualitet. Vi lytter og snakker om sangene der er den soniske ekvivalent til et syretrip og får besøg af forstander på højskolen for bevidsthedsudvikling Ole Blenkov, der fortæller om og guider os igennem transcendentalmeditation.</itunes:summary>
+         <itunes:duration>3231</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>3. Lennon vs. McCartney - To Jesus'er i et band?</title>
+         <link>https://www.spreaker.com/episode/3-lennon-vs-mccartney-to-jesus-er-i-et-band--50091250</link>
+         <description>I denne time dykker vi ned i sangskriverparret Lennon/McCartney og deres magiske samarbejde. Sanger, producer og inkarneret Beatlesfan Chief1 er med på en telefon, for at fortælle om den dynamiske duos arbejde - både sammen og hver for sig.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/50091250</guid>
+         <pubDate>Mon, 06 Jun 2022 18:13:40 +0000</pubDate>
+         <enclosure length="64511393" type="audio/mpeg" url="https://archive.org/download/beatles_er_storre_end_jesus/Beatles%20er%20st%C3%B8rre%20end%20Jesus/2022.06.06%20-%203.%20Lennon%20vs.%20McCartney%20-%20To%20Jesus%27er%20i%20et%20band.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I denne time dykker vi ned i sangskriverparret Lennon/McCartney og deres magiske samarbejde. Sanger, producer og inkarneret Beatlesfan Chief1 er med på en telefon, for at fortælle om den dynamiske duos arbejde - både sammen og hver for sig.</itunes:subtitle>
+         <itunes:summary>I denne time dykker vi ned i sangskriverparret Lennon/McCartney og deres magiske samarbejde. Sanger, producer og inkarneret Beatlesfan Chief1 er med på en telefon, for at fortælle om den dynamiske duos arbejde - både sammen og hver for sig.</itunes:summary>
+         <itunes:duration>3226</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>2. Fankultur og teenageidoler - De mange disciple</title>
+         <link>https://www.spreaker.com/episode/2-fankultur-og-teenageidoler-de-mange-disciple--50091183</link>
+         <description>I denne time skal vi snakke fankultur. Man har måske set klip med horderne af piger og hørt om de skrigende folkemængder - men hvordan var det at være en del af? Sanger Ib Grønbech er med på en telefon, for at fortælle om hvordan The Beatles ændrede hans liv, og hvilken indflydelse det at være fan af gruppen, har haft på ham.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/50091183</guid>
+         <pubDate>Mon, 06 Jun 2022 18:05:01 +0000</pubDate>
+         <enclosure length="64487883" type="audio/mpeg" url="https://archive.org/download/beatles_er_storre_end_jesus/Beatles%20er%20st%C3%B8rre%20end%20Jesus/2022.06.06%20-%202.%20Fankultur%20og%20teenageidoler%20-%20De%20mange%20disciple.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I denne time skal vi snakke fankultur. Man har måske set klip med horderne af piger og hørt om de skrigende folkemængder - men hvordan var det at være en del af? Sanger Ib Grønbech er med på en telefon, for at fortælle om hvordan The Beatles ændrede...</itunes:subtitle>
+         <itunes:summary>I denne time skal vi snakke fankultur. Man har måske set klip med horderne af piger og hørt om de skrigende folkemængder - men hvordan var det at være en del af? Sanger Ib Grønbech er med på en telefon, for at fortælle om hvordan The Beatles ændrede hans liv, og hvilken indflydelse det at være fan af gruppen, har haft på ham.</itunes:summary>
+         <itunes:duration>3225</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>1. Skabelsesberetningen - Det gamle testamente</title>
+         <link>https://www.spreaker.com/episode/1-skabelsesberetningen-det-gamle-testamente--50091127</link>
+         <description>I første time af marathonet dykkes der ned i tiden før The Beatles, samt gruppens medlemmer. Musikskribent og all-around musikelsker Kjartan F. Stolberg gæster studiet og snakker med om The Quarrymen, gruppens tid i Hamborg før gennembruddet, samt den første plade.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/50091127</guid>
+         <pubDate>Mon, 06 Jun 2022 18:02:31 +0000</pubDate>
+         <enclosure length="64605434" type="audio/mpeg" url="https://archive.org/download/beatles_er_storre_end_jesus/Beatles%20er%20st%C3%B8rre%20end%20Jesus/2022.06.06%20-%201.%20Skabelsesberetningen%20-%20Det%20gamle%20testamente.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I første time af marathonet dykkes der ned i tiden før The Beatles, samt gruppens medlemmer. Musikskribent og all-around musikelsker Kjartan F. Stolberg gæster studiet og snakker med om The Quarrymen, gruppens tid i Hamborg før gennembruddet, samt den...</itunes:subtitle>
+         <itunes:summary>I første time af marathonet dykkes der ned i tiden før The Beatles, samt gruppens medlemmer. Musikskribent og all-around musikelsker Kjartan F. Stolberg gæster studiet og snakker med om The Quarrymen, gruppens tid i Hamborg før gennembruddet, samt den første plade.</itunes:summary>
+         <itunes:duration>3231</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d9740fccded3c6c1e7c4d546fa8070d8.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

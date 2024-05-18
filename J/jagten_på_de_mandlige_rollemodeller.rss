@@ -1,94 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Jagten på de mandlige rollemodeller
-  </title>
-  <link>
-   https://loud.land/podcast/jagten-på-de-mandlige-rollemodeller
-  </link>
-  <description>
-   Tre gange så mange mænd som kvinder er i behandling for et stofmisbrug, mænd begår fem gange så meget kriminalitet som kvinder og så mener man oveni, at over 30.000 mænd går rundt med en skjult depression. Sebastian Peebles har selv været en del af statistikken efter at han I mange år har kæmpet med hash- og stofmisbrug samt en svær depression. Alt sammen udløst af, at hans far forlod ham i en ung alder. Sebastian sætter jagten ind på de mandlige rollemodeller, som kan give deres bidrag til, at drenge og mænd får et bedre liv, taler sammen og taler op.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4653758/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Relationships
-  </category>
-  <copyright>
-   521943
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg
-   </url>
-   <title>
-    Jagten på de mandlige rollemodeller
-   </title>
-   <link>
-    https://loud.land/podcast/jagten-på-de-mandlige-rollemodeller
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg"/>
-  <itunes:subtitle>
-   Sebastian sætter jagten ind på de mandlige rollemodeller, som kan give deres bidrag til, at drenge og mænd får et bedre liv, taler sammen og taler op.
-  </itunes:subtitle>
-  <itunes:summary>
-   Tre gange så mange mænd som kvinder er i behandling for et stofmisbrug, mænd begår fem gange så meget kriminalitet som kvinder og så mener man oveni, at over 30.000 mænd går rundt med en skjult depression. Sebastian Peebles har selv været en del af statistikken efter at han I mange år har kæmpet med hash- og stofmisbrug samt en svær depression. Alt sammen udløst af, at hans far forlod ham i en ung alder. Sebastian sætter jagten ind på de mandlige rollemodeller, som kan give deres bidrag til, at drenge og mænd får et bedre liv, taler sammen og taler op.
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture">
-   <itunes:category text="Relationships"/>
-  </itunes:category>
-  <itunes:category text="Health &amp; Fitness">
-   <itunes:category text="Mental Health"/>
-  </itunes:category>
-  <itunes:category text="Society &amp; Culture">
-   <itunes:category text="Personal Journals"/>
-  </itunes:category>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Afsnit 8 - "Jessie"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/afsnit-8-jessie--44047407
-   </link>
-   <description>
-    Anders Haahr er journalist, forfatter og tenniskommentator - &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;I starten af året proklamerede han i en artikel i Information, at han havde fundet sin mandlige rollemodel. &lt;br /&gt;&lt;br /&gt;Det fik selvfølgelig mig op af stolen. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Anders fandt sit forbillede i one hit wonderet Joshua Kadison der i 1993 hittede med sangen Jessie. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Jeg må personligt indrømme, at Joshua Kaddison ikke umiddelbart slog mig som værende en mandlige rollemodel - jeg spørger Anders Haahr, hvorfor lige manden bag den sukkersøde fløde sang blev hans idol?
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44047407
-   </guid>
-   <pubDate>
-    Thu, 25 Mar 2021 13:18:41 +0000
-   </pubDate>
-   <enclosure length="46976256" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44047407/afsnit_8_anders_haahr.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Anders Haahr er journalist, forfatter og tenniskommentator - 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Jagten på de mandlige rollemodeller</title>
+      <link>https://loud.land/podcast/jagten-på-de-mandlige-rollemodeller</link>
+      <description>Tre gange så mange mænd som kvinder er i behandling for et stofmisbrug, mænd begår fem gange så meget kriminalitet som kvinder og så mener man oveni, at over 30.000 mænd går rundt med en skjult depression. Sebastian Peebles har selv været en del af statistikken efter at han I mange år har kæmpet med hash- og stofmisbrug samt en svær depression. Alt sammen udløst af, at hans far forlod ham i en ung alder. Sebastian sætter jagten ind på de mandlige rollemodeller, som kan give deres bidrag til, at drenge og mænd får et bedre liv, taler sammen og taler op.</description>
+      <atom:link href="https://www.spreaker.com/show/4653758/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Relationships</category>
+      <copyright>521943</copyright>
+      <image>
+         <url>https://archive.org/download/jagten_pa_de_mandlige_rollemodeller/Jagten%20p%C3%A5%20de%20mandlige%20rollemodeller/56880c85fbd8db8e09b074d7ca955d1f.jpg</url>
+         <title>Jagten på de mandlige rollemodeller</title>
+         <link>https://loud.land/podcast/jagten-på-de-mandlige-rollemodeller</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg" />
+      <itunes:subtitle>Sebastian sætter jagten ind på de mandlige rollemodeller, som kan give deres bidrag til, at drenge og mænd får et bedre liv, taler sammen og taler op.</itunes:subtitle>
+      <itunes:summary>Tre gange så mange mænd som kvinder er i behandling for et stofmisbrug, mænd begår fem gange så meget kriminalitet som kvinder og så mener man oveni, at over 30.000 mænd går rundt med en skjult depression. Sebastian Peebles har selv været en del af statistikken efter at han I mange år har kæmpet med hash- og stofmisbrug samt en svær depression. Alt sammen udløst af, at hans far forlod ham i en ung alder. Sebastian sætter jagten ind på de mandlige rollemodeller, som kan give deres bidrag til, at drenge og mænd får et bedre liv, taler sammen og taler op.</itunes:summary>
+      <itunes:category text="Society &amp; Culture">
+         <itunes:category text="Relationships" />
+      </itunes:category>
+      <itunes:category text="Health &amp; Fitness">
+         <itunes:category text="Mental Health" />
+      </itunes:category>
+      <itunes:category text="Society &amp; Culture">
+         <itunes:category text="Personal Journals" />
+      </itunes:category>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Afsnit 8 - "Jessie"</title>
+         <link>https://www.spreaker.com/episode/afsnit-8-jessie--44047407</link>
+         <description>Anders Haahr er journalist, forfatter og tenniskommentator - &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;I starten af året proklamerede han i en artikel i Information, at han havde fundet sin mandlige rollemodel. &lt;br /&gt;&lt;br /&gt;Det fik selvfølgelig mig op af stolen. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Anders fandt sit forbillede i one hit wonderet Joshua Kadison der i 1993 hittede med sangen Jessie. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Jeg må personligt indrømme, at Joshua Kaddison ikke umiddelbart slog mig som værende en mandlige rollemodel - jeg spørger Anders Haahr, hvorfor lige manden bag den sukkersøde fløde sang blev hans idol?</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44047407</guid>
+         <pubDate>Thu, 25 Mar 2021 13:18:41 +0000</pubDate>
+         <enclosure length="46976256" type="audio/mpeg" url="https://archive.org/download/jagten_pa_de_mandlige_rollemodeller/Jagten%20p%C3%A5%20de%20mandlige%20rollemodeller/2021.03.25%20-%20Afsnit%208%20-%20.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Anders Haahr er journalist, forfatter og tenniskommentator - 
 
  
 
@@ -98,344 +51,147 @@ Det fik selvfølgelig mig op af stolen.
 
  
 
-Anders fandt sit forbillede i...
-   </itunes:subtitle>
-   <itunes:summary>
-    Anders Haahr er journalist, forfatter og tenniskommentator - &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;I starten af året proklamerede han i en artikel i Information, at han havde fundet sin mandlige rollemodel. &lt;br /&gt;&lt;br /&gt;Det fik selvfølgelig mig op af stolen. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Anders fandt sit forbillede i one hit wonderet Joshua Kadison der i 1993 hittede med sangen Jessie. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Jeg må personligt indrømme, at Joshua Kaddison ikke umiddelbart slog mig som værende en mandlige rollemodel - jeg spørger Anders Haahr, hvorfor lige manden bag den sukkersøde fløde sang blev hans idol?
-   </itunes:summary>
-   <itunes:duration>
-    1955
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Afsnit 7 - Køkkenchefen der bare vil være sjov
-   </title>
-   <link>
-    https://www.spreaker.com/episode/afsnit-7-kokkenchefen-der-bare-vil-vaere-sjov--43735570
-   </link>
-   <description>
-    I dette afsnit har jeg inviteret en mand ind i studiet der hader sit job. &lt;br /&gt;Et job han udelukkende valgte for at komme tættere på sin far. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;Jeg har i dette afsnit besøg af Chano Jørgensen, der er køkkenchef på Guldkroen.  &lt;br /&gt;Chano laver også podcasten ‘De bløde boyz’ og så drømmer han om, at blive Danmarks sjoveste influencer. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Vi snakker om at søge sin fars anerkendelse for enhver pris, vi snakker om usikkerhed, om at være følsom og om hvor meget likes på instagram betyder.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43735570
-   </guid>
-   <pubDate>
-    Fri, 05 Mar 2021 05:00:15 +0000
-   </pubDate>
-   <enclosure length="39354624" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43735570/afsnit_7_chano_jagten_p_de_mandlige_rollemodeller.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I dette afsnit har jeg inviteret en mand ind i studiet der hader sit job. 
+Anders fandt sit forbillede i...</itunes:subtitle>
+         <itunes:summary>Anders Haahr er journalist, forfatter og tenniskommentator - &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;I starten af året proklamerede han i en artikel i Information, at han havde fundet sin mandlige rollemodel. &lt;br /&gt;&lt;br /&gt;Det fik selvfølgelig mig op af stolen. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Anders fandt sit forbillede i one hit wonderet Joshua Kadison der i 1993 hittede med sangen Jessie. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Jeg må personligt indrømme, at Joshua Kaddison ikke umiddelbart slog mig som værende en mandlige rollemodel - jeg spørger Anders Haahr, hvorfor lige manden bag den sukkersøde fløde sang blev hans idol?</itunes:summary>
+         <itunes:duration>1955</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Afsnit 7 - Køkkenchefen der bare vil være sjov</title>
+         <link>https://www.spreaker.com/episode/afsnit-7-kokkenchefen-der-bare-vil-vaere-sjov--43735570</link>
+         <description>I dette afsnit har jeg inviteret en mand ind i studiet der hader sit job. &lt;br /&gt;Et job han udelukkende valgte for at komme tættere på sin far. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;Jeg har i dette afsnit besøg af Chano Jørgensen, der er køkkenchef på Guldkroen.  &lt;br /&gt;Chano laver også podcasten ‘De bløde boyz’ og så drømmer han om, at blive Danmarks sjoveste influencer. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Vi snakker om at søge sin fars anerkendelse for enhver pris, vi snakker om usikkerhed, om at være følsom og om hvor meget likes på instagram betyder.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43735570</guid>
+         <pubDate>Fri, 05 Mar 2021 05:00:15 +0000</pubDate>
+         <enclosure length="39354624" type="audio/mpeg" url="https://archive.org/download/jagten_pa_de_mandlige_rollemodeller/Jagten%20p%C3%A5%20de%20mandlige%20rollemodeller/2021.03.05%20-%20Afsnit%207%20-%20K%C3%B8kkenchefen%20der%20bare%20vil%20v%C3%A6re%20sjov.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I dette afsnit har jeg inviteret en mand ind i studiet der hader sit job. 
 Et job han udelukkende valgte for at komme tættere på sin far. 
 
  
 Jeg har i dette afsnit besøg af Chano Jørgensen, der er køkkenchef på Guldkroen.  
-Chano laver også podcasten...
-   </itunes:subtitle>
-   <itunes:summary>
-    I dette afsnit har jeg inviteret en mand ind i studiet der hader sit job. &lt;br /&gt;Et job han udelukkende valgte for at komme tættere på sin far. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;Jeg har i dette afsnit besøg af Chano Jørgensen, der er køkkenchef på Guldkroen.  &lt;br /&gt;Chano laver også podcasten ‘De bløde boyz’ og så drømmer han om, at blive Danmarks sjoveste influencer. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Vi snakker om at søge sin fars anerkendelse for enhver pris, vi snakker om usikkerhed, om at være følsom og om hvor meget likes på instagram betyder.
-   </itunes:summary>
-   <itunes:duration>
-    1638
-   </itunes:duration>
-   <itunes:keywords>
-    chano,fædre,far,kriminalitet,mænd,mand,mental,misbrug,peebles,rollemodeller,sunhed,svigt
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Afsnit 6 - Fodboldspilleren der rejste sig på et ben
-   </title>
-   <link>
-    https://www.spreaker.com/episode/afsnit-6-fodboldspilleren-der-rejste-sig-pa-et-ben--42916761
-   </link>
-   <description>
-    Jonathan ‘Jonas’ Richter levede min og mange andres drøm, da han i 2005 blev professionel fodboldspiller for FC Nordsjælland. &lt;br /&gt;&lt;br /&gt;Det blev til 70 kampe i Superligaen. Men i 2009 under en træningskamp blev Jonas ramt af lynet. Ulykken resulterede i, at han blev fodboldinvalid, da hans venstre ben skulle amputeres. &lt;br /&gt;&lt;br /&gt;Jeg taler med Jonas om at opnå den ultimative drøm for mange, og om at få revet den fra sig igen. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Jeg har også undret mig meget over, hvorfor der ikke er flere fodboldspillere som udnytter deres platforme til at hjælpe andre mennesker. &lt;br /&gt;&lt;br /&gt;Jonathan giver sit bud på, hvorfor fodboldspillere er bange for at tale højt og være rollemodeller. &lt;br /&gt;&lt;br /&gt;Jeg har også talt med fodboldekspert, journalist og forfatter Asker Hedegaard Boye, der forklarer fascinationen af fodboldspillere samt giver sit bud på, hvorfor der er så mange fodboldspillere der ikke tør sige noget.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Jonathan 'Jonas' Richter &lt;br /&gt;Asker Hedegaard Boye &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Rasmus Mark Pedersen
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42916761
-   </guid>
-   <pubDate>
-    Wed, 13 Jan 2021 14:48:21 +0000
-   </pubDate>
-   <enclosure length="55842624" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42916761/afsnit_6_fodboldspilleren_der_rejste_sig_p_et_ben_1.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Jonathan ‘Jonas’ Richter levede min og mange andres drøm, da han i 2005 blev professionel fodboldspiller for FC Nordsjælland. 
+Chano laver også podcasten...</itunes:subtitle>
+         <itunes:summary>I dette afsnit har jeg inviteret en mand ind i studiet der hader sit job. &lt;br /&gt;Et job han udelukkende valgte for at komme tættere på sin far. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;Jeg har i dette afsnit besøg af Chano Jørgensen, der er køkkenchef på Guldkroen.  &lt;br /&gt;Chano laver også podcasten ‘De bløde boyz’ og så drømmer han om, at blive Danmarks sjoveste influencer. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Vi snakker om at søge sin fars anerkendelse for enhver pris, vi snakker om usikkerhed, om at være følsom og om hvor meget likes på instagram betyder.</itunes:summary>
+         <itunes:duration>1638</itunes:duration>
+         <itunes:keywords>chano,fædre,far,kriminalitet,mænd,mand,mental,misbrug,peebles,rollemodeller,sunhed,svigt</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Afsnit 6 - Fodboldspilleren der rejste sig på et ben</title>
+         <link>https://www.spreaker.com/episode/afsnit-6-fodboldspilleren-der-rejste-sig-pa-et-ben--42916761</link>
+         <description>Jonathan ‘Jonas’ Richter levede min og mange andres drøm, da han i 2005 blev professionel fodboldspiller for FC Nordsjælland. &lt;br /&gt;&lt;br /&gt;Det blev til 70 kampe i Superligaen. Men i 2009 under en træningskamp blev Jonas ramt af lynet. Ulykken resulterede i, at han blev fodboldinvalid, da hans venstre ben skulle amputeres. &lt;br /&gt;&lt;br /&gt;Jeg taler med Jonas om at opnå den ultimative drøm for mange, og om at få revet den fra sig igen. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Jeg har også undret mig meget over, hvorfor der ikke er flere fodboldspillere som udnytter deres platforme til at hjælpe andre mennesker. &lt;br /&gt;&lt;br /&gt;Jonathan giver sit bud på, hvorfor fodboldspillere er bange for at tale højt og være rollemodeller. &lt;br /&gt;&lt;br /&gt;Jeg har også talt med fodboldekspert, journalist og forfatter Asker Hedegaard Boye, der forklarer fascinationen af fodboldspillere samt giver sit bud på, hvorfor der er så mange fodboldspillere der ikke tør sige noget.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Jonathan 'Jonas' Richter &lt;br /&gt;Asker Hedegaard Boye &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Rasmus Mark Pedersen</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42916761</guid>
+         <pubDate>Wed, 13 Jan 2021 14:48:21 +0000</pubDate>
+         <enclosure length="55842624" type="audio/mpeg" url="https://archive.org/download/jagten_pa_de_mandlige_rollemodeller/Jagten%20p%C3%A5%20de%20mandlige%20rollemodeller/2021.01.13%20-%20Afsnit%206%20-%20Fodboldspilleren%20der%20rejste%20sig%20p%C3%A5%20et%20ben.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Jonathan ‘Jonas’ Richter levede min og mange andres drøm, da han i 2005 blev professionel fodboldspiller for FC Nordsjælland. 
 
-Det blev til 70 kampe i Superligaen. Men i 2009 under en træningskamp blev Jonas ramt af lynet. Ulykken resulterede i, at...
-   </itunes:subtitle>
-   <itunes:summary>
-    Jonathan ‘Jonas’ Richter levede min og mange andres drøm, da han i 2005 blev professionel fodboldspiller for FC Nordsjælland. &lt;br /&gt;&lt;br /&gt;Det blev til 70 kampe i Superligaen. Men i 2009 under en træningskamp blev Jonas ramt af lynet. Ulykken resulterede i, at han blev fodboldinvalid, da hans venstre ben skulle amputeres. &lt;br /&gt;&lt;br /&gt;Jeg taler med Jonas om at opnå den ultimative drøm for mange, og om at få revet den fra sig igen. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Jeg har også undret mig meget over, hvorfor der ikke er flere fodboldspillere som udnytter deres platforme til at hjælpe andre mennesker. &lt;br /&gt;&lt;br /&gt;Jonathan giver sit bud på, hvorfor fodboldspillere er bange for at tale højt og være rollemodeller. &lt;br /&gt;&lt;br /&gt;Jeg har også talt med fodboldekspert, journalist og forfatter Asker Hedegaard Boye, der forklarer fascinationen af fodboldspillere samt giver sit bud på, hvorfor der er så mange fodboldspillere der ikke tør sige noget.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Jonathan 'Jonas' Richter &lt;br /&gt;Asker Hedegaard Boye &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Rasmus Mark Pedersen
-   </itunes:summary>
-   <itunes:duration>
-    2325
-   </itunes:duration>
-   <itunes:keywords>
-    af,fcn,fodbold,jonathan,lynet,nordsjælland,ramt,richter,superliga,ulykke
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Afsnit 5 - Det sorte fårs forvandling
-   </title>
-   <link>
-    https://www.spreaker.com/episode/afsnit-5-det-sorte-fars-forvandling--42784095
-   </link>
-   <description>
-    Ali Najei er tidligere kriminel og banderelateret - han voksede op i et hjem, hvor både mor og far var ramt af PTSD og krigstraumer. Det resulterede i at Ali og hans fire brødre var overladt meget til dem selv. Det betød for Ali og hans brødre, da i forvejen havde svært ved at passe ind i det danske samfund, at vejen ind i kriminalitet var banet for dem. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;80% af alt kriminalitet i Danmark bliver begået af mænd - jeg snakker med Ali om, hvorfor han endte med at blive kriminel. Vi taler om, hvilke rollemodeller der er - eller måske ikke er - i den kriminelle  verden. &lt;br /&gt;Men vi snakker også om at være 2. generationsindvandrer og være en del af en flok af sorte får. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;I dag har Ali lagt det kriminelle liv på hylden og startet Kapitel1, hvor han kort fortalt driver en online platform med forskellige rollemodeller for udsatte unge. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Ali Najei, skuespiller og stifter af Kapitel1&lt;br /&gt;&lt;br /&gt;Jeppe Fuglsang Larsen, ph.d.-stipendiat på Institut for Sociologi og Socialt Arbejde, Aalborg Universitet&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Sebastian Peebles &lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Rasmus Mark Pedersen
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42784095
-   </guid>
-   <pubDate>
-    Mon, 04 Jan 2021 14:58:34 +0000
-   </pubDate>
-   <enclosure length="46027799" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42784095/ali_najei_mp3.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Ali Najei er tidligere kriminel og banderelateret - han voksede op i et hjem, hvor både mor og far var ramt af PTSD og krigstraumer. Det resulterede i at Ali og hans fire brødre var overladt meget til dem selv. Det betød for Ali og hans brødre, da i...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ali Najei er tidligere kriminel og banderelateret - han voksede op i et hjem, hvor både mor og far var ramt af PTSD og krigstraumer. Det resulterede i at Ali og hans fire brødre var overladt meget til dem selv. Det betød for Ali og hans brødre, da i forvejen havde svært ved at passe ind i det danske samfund, at vejen ind i kriminalitet var banet for dem. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;80% af alt kriminalitet i Danmark bliver begået af mænd - jeg snakker med Ali om, hvorfor han endte med at blive kriminel. Vi taler om, hvilke rollemodeller der er - eller måske ikke er - i den kriminelle  verden. &lt;br /&gt;Men vi snakker også om at være 2. generationsindvandrer og være en del af en flok af sorte får. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;I dag har Ali lagt det kriminelle liv på hylden og startet Kapitel1, hvor han kort fortalt driver en online platform med forskellige rollemodeller for udsatte unge. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Ali Najei, skuespiller og stifter af Kapitel1&lt;br /&gt;&lt;br /&gt;Jeppe Fuglsang Larsen, ph.d.-stipendiat på Institut for Sociologi og Socialt Arbejde, Aalborg Universitet&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Sebastian Peebles &lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Rasmus Mark Pedersen
-   </itunes:summary>
-   <itunes:duration>
-    1916
-   </itunes:duration>
-   <itunes:keywords>
-    ali,bande,bandekriminalitet,crime,integration,kriminalitet,najei,rollemodeller,vold
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Afsnit 4 - Fucking far og Vardes bedste venner
-   </title>
-   <link>
-    https://www.spreaker.com/episode/afsnit-4-fucking-far-og-vardes-bedste-venner--42431507
-   </link>
-   <description>
-    Mattias Hundebøll er gået fra at have smadret backstagelokaler på stribe rundt om i Europa til at plante brombærbuske i et kollektiv i Gentofte. Da Mattias blev far skiftede han sex, drugs og rock n’ roll ud med bleer, babygylp og byggeprojekter.&lt;br /&gt; Han har en mission om at være verdens bedste far og rollemodel for sine børn. &lt;br /&gt;Jeg snakker med Mattias om, hvordan man bliver verdens bedste far, hvordan hans forhold var til sin egen far og hvem hans egne rollemodeller er. &lt;br /&gt;Men Mattias Hundebøll er ikke helt en del af min målgruppe, hvor end han gerne ville være det, derfor har jeg inviteret to drenge på 23 år i studiet. &lt;br /&gt;Lasse Knudsen og Kalle Kehlet er bedste venner og har været det i 17 år - lige siden de startede i 0. klasse sammen i Varde.  I dag bor de sammen i København. Vi snakker om sårbarhed i drengegrupper og det at græde - og så giver de et par fifs til, hvordan man kan lære sine venner bedre at kende.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen&lt;br /&gt;&lt;br /&gt;Gæster: Mattias Hundebøll, Lasse Knudsen, Kalle Kehlet&lt;br /&gt;&lt;br /&gt;Musik: Rock Hard Power Spray &lt;br /&gt;Randy Newman - You got a friend in me&lt;br /&gt;&lt;br /&gt;Klip: Natholdet, realityportalen, Mattias Hundebølls egne youtube kanal
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42431507
-   </guid>
-   <pubDate>
-    Fri, 11 Dec 2020 10:54:07 +0000
-   </pubDate>
-   <enclosure length="43350336" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42431507/afsnit_4_fucking_far_og_vardes_bedste_venner.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Mattias Hundebøll er gået fra at have smadret backstagelokaler på stribe rundt om i Europa til at plante brombærbuske i et kollektiv i Gentofte. Da Mattias blev far skiftede han sex, drugs og rock n’ roll ud med bleer, babygylp og byggeprojekter.
- Han...
-   </itunes:subtitle>
-   <itunes:summary>
-    Mattias Hundebøll er gået fra at have smadret backstagelokaler på stribe rundt om i Europa til at plante brombærbuske i et kollektiv i Gentofte. Da Mattias blev far skiftede han sex, drugs og rock n’ roll ud med bleer, babygylp og byggeprojekter.&lt;br /&gt; Han har en mission om at være verdens bedste far og rollemodel for sine børn. &lt;br /&gt;Jeg snakker med Mattias om, hvordan man bliver verdens bedste far, hvordan hans forhold var til sin egen far og hvem hans egne rollemodeller er. &lt;br /&gt;Men Mattias Hundebøll er ikke helt en del af min målgruppe, hvor end han gerne ville være det, derfor har jeg inviteret to drenge på 23 år i studiet. &lt;br /&gt;Lasse Knudsen og Kalle Kehlet er bedste venner og har været det i 17 år - lige siden de startede i 0. klasse sammen i Varde.  I dag bor de sammen i København. Vi snakker om sårbarhed i drengegrupper og det at græde - og så giver de et par fifs til, hvordan man kan lære sine venner bedre at kende.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen&lt;br /&gt;&lt;br /&gt;Gæster: Mattias Hundebøll, Lasse Knudsen, Kalle Kehlet&lt;br /&gt;&lt;br /&gt;Musik: Rock Hard Power Spray &lt;br /&gt;Randy Newman - You got a friend in me&lt;br /&gt;&lt;br /&gt;Klip: Natholdet, realityportalen, Mattias Hundebølls egne youtube kanal
-   </itunes:summary>
-   <itunes:duration>
-    1804
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Afsnit 3 - Historien om bankrøveren og misbrugeren del 2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/afsnit-3-historien-om-bankroveren-og-misbrugeren-del-2--42431351
-   </link>
-   <description>
-    Det kan være lidt svært at lave en podcast, der prædiker værdier som ansvar, ærlighed og sårbarhed, hvis man ikke også selv kan stå på mål for det. Derfor vil jeg gerne give et indblik i min historie. Jeg har inviteret journaliststuderende og min ekskæreste Sara Sille Englund til at interviewe mig om min far og mit misbrug. &lt;br /&gt;&lt;br /&gt;Efter et mildest talt skuffende møde med min far er jeg blevet fanget i Polen. Jeg skal nu til begravelse hos en dame, jeg aldrig har mødt før. &lt;br /&gt;I dette afsnit fortsætter min historie om min far - derudover konfronterer Sara mig med hendes oplevelser af tiden efter Polen, som ikke stemmer helt overens med min egen opfattelse. Og så får historien om bankrøveren en pludselig slutning. &lt;br /&gt;&lt;br /&gt;Her kan du høre, hvordan historien om min far, bankrøveren, og mig, misbrugeren, ender. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen&lt;br /&gt;&lt;br /&gt;Gæst: Sara Sille Englund&lt;br /&gt;&lt;br /&gt;Musik: The Clash - Bankrobber
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42431351
-   </guid>
-   <pubDate>
-    Fri, 11 Dec 2020 10:44:20 +0000
-   </pubDate>
-   <enclosure length="39754368" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42431351/afsnit_3_histroien_om_bankr_veren_og_misbrugeren_del_2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Det kan være lidt svært at lave en podcast, der prædiker værdier som ansvar, ærlighed og sårbarhed, hvis man ikke også selv kan stå på mål for det. Derfor vil jeg gerne give et indblik i min historie. Jeg har inviteret journaliststuderende og min...
-   </itunes:subtitle>
-   <itunes:summary>
-    Det kan være lidt svært at lave en podcast, der prædiker værdier som ansvar, ærlighed og sårbarhed, hvis man ikke også selv kan stå på mål for det. Derfor vil jeg gerne give et indblik i min historie. Jeg har inviteret journaliststuderende og min ekskæreste Sara Sille Englund til at interviewe mig om min far og mit misbrug. &lt;br /&gt;&lt;br /&gt;Efter et mildest talt skuffende møde med min far er jeg blevet fanget i Polen. Jeg skal nu til begravelse hos en dame, jeg aldrig har mødt før. &lt;br /&gt;I dette afsnit fortsætter min historie om min far - derudover konfronterer Sara mig med hendes oplevelser af tiden efter Polen, som ikke stemmer helt overens med min egen opfattelse. Og så får historien om bankrøveren en pludselig slutning. &lt;br /&gt;&lt;br /&gt;Her kan du høre, hvordan historien om min far, bankrøveren, og mig, misbrugeren, ender. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen&lt;br /&gt;&lt;br /&gt;Gæst: Sara Sille Englund&lt;br /&gt;&lt;br /&gt;Musik: The Clash - Bankrobber
-   </itunes:summary>
-   <itunes:duration>
-    1654
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Afsnit 2 - Historien om bankrøveren og misbrugeren del 1
-   </title>
-   <link>
-    https://www.spreaker.com/episode/afsnit-2-historien-om-bankroveren-og-misbrugeren-del-1--42310684
-   </link>
-   <description>
-    Det kan være lidt svært at lave en podcast der prædiker værdier som ansvar, ærlighed og sårbarhed, hvis man ikke også selv kan stå på mål for det. Derfor vil jeg gerne give et indblik i min historie. Jeg har inviteret journaliststuderende og min ekskæreste Sara Sille Englund til at interviewe mig om min far og mit misbrug. &lt;br /&gt;&lt;br /&gt;Mine forældre blev skilt da jeg var 10 år gammel, og det ledte til en masse voldsomme oplevelser med min far der led af ludomani. Han skiftede bopæl og kærester ofte, og hele hans tilværelse var meget turbulent efter min forældres skilsmisse. &lt;br /&gt;En dag træffer min far en beslutning som burde have ændret alt, men det gjorde den ikke, der skulle gå mange år før noget ændrede sig.  &lt;br /&gt;Da jeg var 15 år gammel, mistede jeg kontakten til min far i 8 år. I årene efter udviklede jeg et mildest talt voldsomt misbrug. I en alder af 23 lige inden nytår fik jeg et telefonopkald og besluttede mig for at tage til en begravelse i Polen for at møde med min far igen.  &lt;br /&gt;&lt;br /&gt;Den historie kan du høre første del af her. &lt;br /&gt;&lt;br /&gt;Vært &amp; tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen &lt;br /&gt;&lt;br /&gt;Musik: The Clash "Bankrobber" &lt;br /&gt;           Fosta "Rapstarz" &lt;br /&gt;           Eric Clapton "Cocaine" &lt;br /&gt;           Paul Kalkbranner "Aaron" &lt;br /&gt;&lt;br /&gt;Klip: Station 2 Efterlyst
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42310684
-   </guid>
-   <pubDate>
-    Fri, 04 Dec 2020 09:42:12 +0000
-   </pubDate>
-   <enclosure length="40269312" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42310684/afsnit_2_historien_om_bankr_veren_og_misbrugeren_del_1_v3.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Det kan være lidt svært at lave en podcast der prædiker værdier som ansvar, ærlighed og sårbarhed, hvis man ikke også selv kan stå på mål for det. Derfor vil jeg gerne give et indblik i min historie. Jeg har inviteret journaliststuderende og min...
-   </itunes:subtitle>
-   <itunes:summary>
-    Det kan være lidt svært at lave en podcast der prædiker værdier som ansvar, ærlighed og sårbarhed, hvis man ikke også selv kan stå på mål for det. Derfor vil jeg gerne give et indblik i min historie. Jeg har inviteret journaliststuderende og min ekskæreste Sara Sille Englund til at interviewe mig om min far og mit misbrug. &lt;br /&gt;&lt;br /&gt;Mine forældre blev skilt da jeg var 10 år gammel, og det ledte til en masse voldsomme oplevelser med min far der led af ludomani. Han skiftede bopæl og kærester ofte, og hele hans tilværelse var meget turbulent efter min forældres skilsmisse. &lt;br /&gt;En dag træffer min far en beslutning som burde have ændret alt, men det gjorde den ikke, der skulle gå mange år før noget ændrede sig.  &lt;br /&gt;Da jeg var 15 år gammel, mistede jeg kontakten til min far i 8 år. I årene efter udviklede jeg et mildest talt voldsomt misbrug. I en alder af 23 lige inden nytår fik jeg et telefonopkald og besluttede mig for at tage til en begravelse i Polen for at møde med min far igen.  &lt;br /&gt;&lt;br /&gt;Den historie kan du høre første del af her. &lt;br /&gt;&lt;br /&gt;Vært &amp; tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen &lt;br /&gt;&lt;br /&gt;Musik: The Clash "Bankrobber" &lt;br /&gt;           Fosta "Rapstarz" &lt;br /&gt;           Eric Clapton "Cocaine" &lt;br /&gt;           Paul Kalkbranner "Aaron" &lt;br /&gt;&lt;br /&gt;Klip: Station 2 Efterlyst
-   </itunes:summary>
-   <itunes:duration>
-    1676
-   </itunes:duration>
-   <itunes:keywords>
-    bankrøver,braginsky,depression,faderkomplekser,far,hundebøll,indentiet,mænd,mand,mental,misbrug,najei,peebles,psykisk,rollemodel,rollemodeller,sorg,stoffer,sundhed,sygdom
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Afsnit 1 - Hvad så mand?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/afsnit-1-hvad-sa-mand--42310623
-   </link>
-   <description>
-    Vi mænd er mere kriminelle, vi bliver i større grad misbrugere og vi dør langt tid før kvinderne - det er ikke nemt at være mand - men hvorfor er det så skide svært at være indehaver at XY kromosom? &lt;br /&gt;Jeg har allieret mig med to mænd, der ligesom mig gerne vil vide, hvorfor vi er så langt bag kvinderne, når det kommer til, hvordan vi går rundt og har det indeni. &lt;br /&gt;&lt;br /&gt;Mikkel Braginsky laver podcasten “Hankøn”, hvor han forsøger at genfinde mandens identitet. Jeg snakker med ham om, hvilke idealer han mener, vi mænd skal besidde. &lt;br /&gt;&lt;br /&gt;Derudover har jeg talt med the grand old man inden for mandeforskning: Svend Aage Madsen. Han giver sit bud på, hvorfor det står så skidt til.  &lt;br /&gt;&lt;br /&gt;Vært &amp; tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen&lt;br /&gt;&lt;br /&gt;Gæster: Mikkel Braginsky&lt;br /&gt;             Svend Aage Madsen &lt;br /&gt;&lt;br /&gt;Musik: Stig Rossen "Rigtige mænd"&lt;br /&gt;           The Cure "Boys dont cry" &lt;br /&gt;&lt;br /&gt;Klip fra: Hankøn podcast &lt;br /&gt;             Tv2
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42310623
-   </guid>
-   <pubDate>
-    Fri, 04 Dec 2020 09:35:58 +0000
-   </pubDate>
-   <enclosure length="39830976" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42310623/afsnit_1_hvad_s_mand_v_2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi mænd er mere kriminelle, vi bliver i større grad misbrugere og vi dør langt tid før kvinderne - det er ikke nemt at være mand - men hvorfor er det så skide svært at være indehaver at XY kromosom? 
-Jeg har allieret mig med to mænd, der ligesom mig...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi mænd er mere kriminelle, vi bliver i større grad misbrugere og vi dør langt tid før kvinderne - det er ikke nemt at være mand - men hvorfor er det så skide svært at være indehaver at XY kromosom? &lt;br /&gt;Jeg har allieret mig med to mænd, der ligesom mig gerne vil vide, hvorfor vi er så langt bag kvinderne, når det kommer til, hvordan vi går rundt og har det indeni. &lt;br /&gt;&lt;br /&gt;Mikkel Braginsky laver podcasten “Hankøn”, hvor han forsøger at genfinde mandens identitet. Jeg snakker med ham om, hvilke idealer han mener, vi mænd skal besidde. &lt;br /&gt;&lt;br /&gt;Derudover har jeg talt med the grand old man inden for mandeforskning: Svend Aage Madsen. Han giver sit bud på, hvorfor det står så skidt til.  &lt;br /&gt;&lt;br /&gt;Vært &amp; tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen&lt;br /&gt;&lt;br /&gt;Gæster: Mikkel Braginsky&lt;br /&gt;             Svend Aage Madsen &lt;br /&gt;&lt;br /&gt;Musik: Stig Rossen "Rigtige mænd"&lt;br /&gt;           The Cure "Boys dont cry" &lt;br /&gt;&lt;br /&gt;Klip fra: Hankøn podcast &lt;br /&gt;             Tv2
-   </itunes:summary>
-   <itunes:duration>
-    1657
-   </itunes:duration>
-   <itunes:keywords>
-    aage,ali,braginsky,depression,hundebøll,identiet,kærlighed,kriminalitet,madsen,mænd,mand,mental,mikkel,misbrug,najei,psykisk,rollemodeller,sårbarhed,sundhed,svend
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Trailer: Jagten på de mandlige rollemodeller
-   </title>
-   <link>
-    https://www.spreaker.com/episode/trailer-jagten-pa-de-mandlige-rollemodeller--41809552
-   </link>
-   <description>
-    Tre gange så mange mænd som kvinder er i behandling for et stofmisbrug, mænd begår fem gange så meget kriminalitet som kvinder og så mener man oveni, at over 30.000 mænd går rundt med en skjult depression. Sebastian Peebles har selv været en del af statistikken efter at han I mange år har kæmpet med hash- og stofmisbrug samt en svær depression. Alt sammen udløst af, at hans far forlod ham i en ung alder. Sebastian sætter jagten ind på de mandlige rollemodeller, som kan give deres bidrag til at drenge og mænd får et bedre liv, taler sammen og taler op.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/41809552
-   </guid>
-   <pubDate>
-    Thu, 05 Nov 2020 14:55:09 +0000
-   </pubDate>
-   <enclosure length="1448064" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41809552/jagten_p_de_mandlige_rollemodeller_trailer.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Tre gange så mange mænd som kvinder er i behandling for et stofmisbrug, mænd begår fem gange så meget kriminalitet som kvinder og så mener man oveni, at over 30.000 mænd går rundt med en skjult depression. Sebastian Peebles har selv været en del af...
-   </itunes:subtitle>
-   <itunes:summary>
-    Tre gange så mange mænd som kvinder er i behandling for et stofmisbrug, mænd begår fem gange så meget kriminalitet som kvinder og så mener man oveni, at over 30.000 mænd går rundt med en skjult depression. Sebastian Peebles har selv været en del af statistikken efter at han I mange år har kæmpet med hash- og stofmisbrug samt en svær depression. Alt sammen udløst af, at hans far forlod ham i en ung alder. Sebastian sætter jagten ind på de mandlige rollemodeller, som kan give deres bidrag til at drenge og mænd får et bedre liv, taler sammen og taler op.
-   </itunes:summary>
-   <itunes:duration>
-    58
-   </itunes:duration>
-   <itunes:keywords>
-    depression,køn,kønsstereotyper,mænd,mand,rollemodeller,stereotyper
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg"/>
-   <itunes:episodeType>
-    trailer
-   </itunes:episodeType>
-  </item>
- </channel>
+Det blev til 70 kampe i Superligaen. Men i 2009 under en træningskamp blev Jonas ramt af lynet. Ulykken resulterede i, at...</itunes:subtitle>
+         <itunes:summary>Jonathan ‘Jonas’ Richter levede min og mange andres drøm, da han i 2005 blev professionel fodboldspiller for FC Nordsjælland. &lt;br /&gt;&lt;br /&gt;Det blev til 70 kampe i Superligaen. Men i 2009 under en træningskamp blev Jonas ramt af lynet. Ulykken resulterede i, at han blev fodboldinvalid, da hans venstre ben skulle amputeres. &lt;br /&gt;&lt;br /&gt;Jeg taler med Jonas om at opnå den ultimative drøm for mange, og om at få revet den fra sig igen. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Jeg har også undret mig meget over, hvorfor der ikke er flere fodboldspillere som udnytter deres platforme til at hjælpe andre mennesker. &lt;br /&gt;&lt;br /&gt;Jonathan giver sit bud på, hvorfor fodboldspillere er bange for at tale højt og være rollemodeller. &lt;br /&gt;&lt;br /&gt;Jeg har også talt med fodboldekspert, journalist og forfatter Asker Hedegaard Boye, der forklarer fascinationen af fodboldspillere samt giver sit bud på, hvorfor der er så mange fodboldspillere der ikke tør sige noget.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Jonathan 'Jonas' Richter &lt;br /&gt;Asker Hedegaard Boye &lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Rasmus Mark Pedersen</itunes:summary>
+         <itunes:duration>2325</itunes:duration>
+         <itunes:keywords>af,fcn,fodbold,jonathan,lynet,nordsjælland,ramt,richter,superliga,ulykke</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Afsnit 5 - Det sorte fårs forvandling</title>
+         <link>https://www.spreaker.com/episode/afsnit-5-det-sorte-fars-forvandling--42784095</link>
+         <description>Ali Najei er tidligere kriminel og banderelateret - han voksede op i et hjem, hvor både mor og far var ramt af PTSD og krigstraumer. Det resulterede i at Ali og hans fire brødre var overladt meget til dem selv. Det betød for Ali og hans brødre, da i forvejen havde svært ved at passe ind i det danske samfund, at vejen ind i kriminalitet var banet for dem. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;80% af alt kriminalitet i Danmark bliver begået af mænd - jeg snakker med Ali om, hvorfor han endte med at blive kriminel. Vi taler om, hvilke rollemodeller der er - eller måske ikke er - i den kriminelle  verden. &lt;br /&gt;Men vi snakker også om at være 2. generationsindvandrer og være en del af en flok af sorte får. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;I dag har Ali lagt det kriminelle liv på hylden og startet Kapitel1, hvor han kort fortalt driver en online platform med forskellige rollemodeller for udsatte unge. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Ali Najei, skuespiller og stifter af Kapitel1&lt;br /&gt;&lt;br /&gt;Jeppe Fuglsang Larsen, ph.d.-stipendiat på Institut for Sociologi og Socialt Arbejde, Aalborg Universitet&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Sebastian Peebles &lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Rasmus Mark Pedersen</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42784095</guid>
+         <pubDate>Mon, 04 Jan 2021 14:58:34 +0000</pubDate>
+         <enclosure length="46027799" type="audio/mpeg" url="https://archive.org/download/jagten_pa_de_mandlige_rollemodeller/Jagten%20p%C3%A5%20de%20mandlige%20rollemodeller/2021.01.04%20-%20Afsnit%205%20-%20Det%20sorte%20f%C3%A5rs%20forvandling.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Ali Najei er tidligere kriminel og banderelateret - han voksede op i et hjem, hvor både mor og far var ramt af PTSD og krigstraumer. Det resulterede i at Ali og hans fire brødre var overladt meget til dem selv. Det betød for Ali og hans brødre, da i...</itunes:subtitle>
+         <itunes:summary>Ali Najei er tidligere kriminel og banderelateret - han voksede op i et hjem, hvor både mor og far var ramt af PTSD og krigstraumer. Det resulterede i at Ali og hans fire brødre var overladt meget til dem selv. Det betød for Ali og hans brødre, da i forvejen havde svært ved at passe ind i det danske samfund, at vejen ind i kriminalitet var banet for dem. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;80% af alt kriminalitet i Danmark bliver begået af mænd - jeg snakker med Ali om, hvorfor han endte med at blive kriminel. Vi taler om, hvilke rollemodeller der er - eller måske ikke er - i den kriminelle  verden. &lt;br /&gt;Men vi snakker også om at være 2. generationsindvandrer og være en del af en flok af sorte får. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;I dag har Ali lagt det kriminelle liv på hylden og startet Kapitel1, hvor han kort fortalt driver en online platform med forskellige rollemodeller for udsatte unge. &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Gæster: &lt;br /&gt;Ali Najei, skuespiller og stifter af Kapitel1&lt;br /&gt;&lt;br /&gt;Jeppe Fuglsang Larsen, ph.d.-stipendiat på Institut for Sociologi og Socialt Arbejde, Aalborg Universitet&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Sebastian Peebles &lt;br /&gt;&lt;br /&gt;Redaktør: &lt;br /&gt;Rasmus Mark Pedersen</itunes:summary>
+         <itunes:duration>1916</itunes:duration>
+         <itunes:keywords>ali,bande,bandekriminalitet,crime,integration,kriminalitet,najei,rollemodeller,vold</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Afsnit 4 - Fucking far og Vardes bedste venner</title>
+         <link>https://www.spreaker.com/episode/afsnit-4-fucking-far-og-vardes-bedste-venner--42431507</link>
+         <description>Mattias Hundebøll er gået fra at have smadret backstagelokaler på stribe rundt om i Europa til at plante brombærbuske i et kollektiv i Gentofte. Da Mattias blev far skiftede han sex, drugs og rock n’ roll ud med bleer, babygylp og byggeprojekter.&lt;br /&gt; Han har en mission om at være verdens bedste far og rollemodel for sine børn. &lt;br /&gt;Jeg snakker med Mattias om, hvordan man bliver verdens bedste far, hvordan hans forhold var til sin egen far og hvem hans egne rollemodeller er. &lt;br /&gt;Men Mattias Hundebøll er ikke helt en del af min målgruppe, hvor end han gerne ville være det, derfor har jeg inviteret to drenge på 23 år i studiet. &lt;br /&gt;Lasse Knudsen og Kalle Kehlet er bedste venner og har været det i 17 år - lige siden de startede i 0. klasse sammen i Varde.  I dag bor de sammen i København. Vi snakker om sårbarhed i drengegrupper og det at græde - og så giver de et par fifs til, hvordan man kan lære sine venner bedre at kende.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen&lt;br /&gt;&lt;br /&gt;Gæster: Mattias Hundebøll, Lasse Knudsen, Kalle Kehlet&lt;br /&gt;&lt;br /&gt;Musik: Rock Hard Power Spray &lt;br /&gt;Randy Newman - You got a friend in me&lt;br /&gt;&lt;br /&gt;Klip: Natholdet, realityportalen, Mattias Hundebølls egne youtube kanal</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42431507</guid>
+         <pubDate>Fri, 11 Dec 2020 10:54:07 +0000</pubDate>
+         <enclosure length="43350336" type="audio/mpeg" url="https://archive.org/download/jagten_pa_de_mandlige_rollemodeller/Jagten%20p%C3%A5%20de%20mandlige%20rollemodeller/2020.12.11%20-%20Afsnit%204%20-%20Fucking%20far%20og%20Vardes%20bedste%20venner.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Mattias Hundebøll er gået fra at have smadret backstagelokaler på stribe rundt om i Europa til at plante brombærbuske i et kollektiv i Gentofte. Da Mattias blev far skiftede han sex, drugs og rock n’ roll ud med bleer, babygylp og byggeprojekter.
+ Han...</itunes:subtitle>
+         <itunes:summary>Mattias Hundebøll er gået fra at have smadret backstagelokaler på stribe rundt om i Europa til at plante brombærbuske i et kollektiv i Gentofte. Da Mattias blev far skiftede han sex, drugs og rock n’ roll ud med bleer, babygylp og byggeprojekter.&lt;br /&gt; Han har en mission om at være verdens bedste far og rollemodel for sine børn. &lt;br /&gt;Jeg snakker med Mattias om, hvordan man bliver verdens bedste far, hvordan hans forhold var til sin egen far og hvem hans egne rollemodeller er. &lt;br /&gt;Men Mattias Hundebøll er ikke helt en del af min målgruppe, hvor end han gerne ville være det, derfor har jeg inviteret to drenge på 23 år i studiet. &lt;br /&gt;Lasse Knudsen og Kalle Kehlet er bedste venner og har været det i 17 år - lige siden de startede i 0. klasse sammen i Varde.  I dag bor de sammen i København. Vi snakker om sårbarhed i drengegrupper og det at græde - og så giver de et par fifs til, hvordan man kan lære sine venner bedre at kende.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen&lt;br /&gt;&lt;br /&gt;Gæster: Mattias Hundebøll, Lasse Knudsen, Kalle Kehlet&lt;br /&gt;&lt;br /&gt;Musik: Rock Hard Power Spray &lt;br /&gt;Randy Newman - You got a friend in me&lt;br /&gt;&lt;br /&gt;Klip: Natholdet, realityportalen, Mattias Hundebølls egne youtube kanal</itunes:summary>
+         <itunes:duration>1804</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Afsnit 3 - Historien om bankrøveren og misbrugeren del 2</title>
+         <link>https://www.spreaker.com/episode/afsnit-3-historien-om-bankroveren-og-misbrugeren-del-2--42431351</link>
+         <description>Det kan være lidt svært at lave en podcast, der prædiker værdier som ansvar, ærlighed og sårbarhed, hvis man ikke også selv kan stå på mål for det. Derfor vil jeg gerne give et indblik i min historie. Jeg har inviteret journaliststuderende og min ekskæreste Sara Sille Englund til at interviewe mig om min far og mit misbrug. &lt;br /&gt;&lt;br /&gt;Efter et mildest talt skuffende møde med min far er jeg blevet fanget i Polen. Jeg skal nu til begravelse hos en dame, jeg aldrig har mødt før. &lt;br /&gt;I dette afsnit fortsætter min historie om min far - derudover konfronterer Sara mig med hendes oplevelser af tiden efter Polen, som ikke stemmer helt overens med min egen opfattelse. Og så får historien om bankrøveren en pludselig slutning. &lt;br /&gt;&lt;br /&gt;Her kan du høre, hvordan historien om min far, bankrøveren, og mig, misbrugeren, ender. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen&lt;br /&gt;&lt;br /&gt;Gæst: Sara Sille Englund&lt;br /&gt;&lt;br /&gt;Musik: The Clash - Bankrobber</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42431351</guid>
+         <pubDate>Fri, 11 Dec 2020 10:44:20 +0000</pubDate>
+         <enclosure length="39754368" type="audio/mpeg" url="https://archive.org/download/jagten_pa_de_mandlige_rollemodeller/Jagten%20p%C3%A5%20de%20mandlige%20rollemodeller/2020.12.11%20-%20Afsnit%203%20-%20Historien%20om%20bankr%C3%B8veren%20og%20misbrugeren%20del%202.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Det kan være lidt svært at lave en podcast, der prædiker værdier som ansvar, ærlighed og sårbarhed, hvis man ikke også selv kan stå på mål for det. Derfor vil jeg gerne give et indblik i min historie. Jeg har inviteret journaliststuderende og min...</itunes:subtitle>
+         <itunes:summary>Det kan være lidt svært at lave en podcast, der prædiker værdier som ansvar, ærlighed og sårbarhed, hvis man ikke også selv kan stå på mål for det. Derfor vil jeg gerne give et indblik i min historie. Jeg har inviteret journaliststuderende og min ekskæreste Sara Sille Englund til at interviewe mig om min far og mit misbrug. &lt;br /&gt;&lt;br /&gt;Efter et mildest talt skuffende møde med min far er jeg blevet fanget i Polen. Jeg skal nu til begravelse hos en dame, jeg aldrig har mødt før. &lt;br /&gt;I dette afsnit fortsætter min historie om min far - derudover konfronterer Sara mig med hendes oplevelser af tiden efter Polen, som ikke stemmer helt overens med min egen opfattelse. Og så får historien om bankrøveren en pludselig slutning. &lt;br /&gt;&lt;br /&gt;Her kan du høre, hvordan historien om min far, bankrøveren, og mig, misbrugeren, ender. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen&lt;br /&gt;&lt;br /&gt;Gæst: Sara Sille Englund&lt;br /&gt;&lt;br /&gt;Musik: The Clash - Bankrobber</itunes:summary>
+         <itunes:duration>1654</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Afsnit 2 - Historien om bankrøveren og misbrugeren del 1</title>
+         <link>https://www.spreaker.com/episode/afsnit-2-historien-om-bankroveren-og-misbrugeren-del-1--42310684</link>
+         <description>Det kan være lidt svært at lave en podcast der prædiker værdier som ansvar, ærlighed og sårbarhed, hvis man ikke også selv kan stå på mål for det. Derfor vil jeg gerne give et indblik i min historie. Jeg har inviteret journaliststuderende og min ekskæreste Sara Sille Englund til at interviewe mig om min far og mit misbrug. &lt;br /&gt;&lt;br /&gt;Mine forældre blev skilt da jeg var 10 år gammel, og det ledte til en masse voldsomme oplevelser med min far der led af ludomani. Han skiftede bopæl og kærester ofte, og hele hans tilværelse var meget turbulent efter min forældres skilsmisse. &lt;br /&gt;En dag træffer min far en beslutning som burde have ændret alt, men det gjorde den ikke, der skulle gå mange år før noget ændrede sig.  &lt;br /&gt;Da jeg var 15 år gammel, mistede jeg kontakten til min far i 8 år. I årene efter udviklede jeg et mildest talt voldsomt misbrug. I en alder af 23 lige inden nytår fik jeg et telefonopkald og besluttede mig for at tage til en begravelse i Polen for at møde med min far igen.  &lt;br /&gt;&lt;br /&gt;Den historie kan du høre første del af her. &lt;br /&gt;&lt;br /&gt;Vært &amp; tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen &lt;br /&gt;&lt;br /&gt;Musik: The Clash "Bankrobber" &lt;br /&gt;           Fosta "Rapstarz" &lt;br /&gt;           Eric Clapton "Cocaine" &lt;br /&gt;           Paul Kalkbranner "Aaron" &lt;br /&gt;&lt;br /&gt;Klip: Station 2 Efterlyst</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42310684</guid>
+         <pubDate>Fri, 04 Dec 2020 09:42:12 +0000</pubDate>
+         <enclosure length="40269312" type="audio/mpeg" url="https://archive.org/download/jagten_pa_de_mandlige_rollemodeller/Jagten%20p%C3%A5%20de%20mandlige%20rollemodeller/2020.12.04%20-%20Afsnit%202%20-%20Historien%20om%20bankr%C3%B8veren%20og%20misbrugeren%20del%201.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Det kan være lidt svært at lave en podcast der prædiker værdier som ansvar, ærlighed og sårbarhed, hvis man ikke også selv kan stå på mål for det. Derfor vil jeg gerne give et indblik i min historie. Jeg har inviteret journaliststuderende og min...</itunes:subtitle>
+         <itunes:summary>Det kan være lidt svært at lave en podcast der prædiker værdier som ansvar, ærlighed og sårbarhed, hvis man ikke også selv kan stå på mål for det. Derfor vil jeg gerne give et indblik i min historie. Jeg har inviteret journaliststuderende og min ekskæreste Sara Sille Englund til at interviewe mig om min far og mit misbrug. &lt;br /&gt;&lt;br /&gt;Mine forældre blev skilt da jeg var 10 år gammel, og det ledte til en masse voldsomme oplevelser med min far der led af ludomani. Han skiftede bopæl og kærester ofte, og hele hans tilværelse var meget turbulent efter min forældres skilsmisse. &lt;br /&gt;En dag træffer min far en beslutning som burde have ændret alt, men det gjorde den ikke, der skulle gå mange år før noget ændrede sig.  &lt;br /&gt;Da jeg var 15 år gammel, mistede jeg kontakten til min far i 8 år. I årene efter udviklede jeg et mildest talt voldsomt misbrug. I en alder af 23 lige inden nytår fik jeg et telefonopkald og besluttede mig for at tage til en begravelse i Polen for at møde med min far igen.  &lt;br /&gt;&lt;br /&gt;Den historie kan du høre første del af her. &lt;br /&gt;&lt;br /&gt;Vært &amp; tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen &lt;br /&gt;&lt;br /&gt;Musik: The Clash "Bankrobber" &lt;br /&gt;           Fosta "Rapstarz" &lt;br /&gt;           Eric Clapton "Cocaine" &lt;br /&gt;           Paul Kalkbranner "Aaron" &lt;br /&gt;&lt;br /&gt;Klip: Station 2 Efterlyst</itunes:summary>
+         <itunes:duration>1676</itunes:duration>
+         <itunes:keywords>bankrøver,braginsky,depression,faderkomplekser,far,hundebøll,indentiet,mænd,mand,mental,misbrug,najei,peebles,psykisk,rollemodel,rollemodeller,sorg,stoffer,sundhed,sygdom</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Afsnit 1 - Hvad så mand?</title>
+         <link>https://www.spreaker.com/episode/afsnit-1-hvad-sa-mand--42310623</link>
+         <description>Vi mænd er mere kriminelle, vi bliver i større grad misbrugere og vi dør langt tid før kvinderne - det er ikke nemt at være mand - men hvorfor er det så skide svært at være indehaver at XY kromosom? &lt;br /&gt;Jeg har allieret mig med to mænd, der ligesom mig gerne vil vide, hvorfor vi er så langt bag kvinderne, når det kommer til, hvordan vi går rundt og har det indeni. &lt;br /&gt;&lt;br /&gt;Mikkel Braginsky laver podcasten “Hankøn”, hvor han forsøger at genfinde mandens identitet. Jeg snakker med ham om, hvilke idealer han mener, vi mænd skal besidde. &lt;br /&gt;&lt;br /&gt;Derudover har jeg talt med the grand old man inden for mandeforskning: Svend Aage Madsen. Han giver sit bud på, hvorfor det står så skidt til.  &lt;br /&gt;&lt;br /&gt;Vært &amp; tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen&lt;br /&gt;&lt;br /&gt;Gæster: Mikkel Braginsky&lt;br /&gt;             Svend Aage Madsen &lt;br /&gt;&lt;br /&gt;Musik: Stig Rossen "Rigtige mænd"&lt;br /&gt;           The Cure "Boys dont cry" &lt;br /&gt;&lt;br /&gt;Klip fra: Hankøn podcast &lt;br /&gt;             Tv2</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42310623</guid>
+         <pubDate>Fri, 04 Dec 2020 09:35:58 +0000</pubDate>
+         <enclosure length="39830976" type="audio/mpeg" url="https://archive.org/download/jagten_pa_de_mandlige_rollemodeller/Jagten%20p%C3%A5%20de%20mandlige%20rollemodeller/2020.12.04%20-%20Afsnit%201%20-%20Hvad%20s%C3%A5%20mand.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi mænd er mere kriminelle, vi bliver i større grad misbrugere og vi dør langt tid før kvinderne - det er ikke nemt at være mand - men hvorfor er det så skide svært at være indehaver at XY kromosom? 
+Jeg har allieret mig med to mænd, der ligesom mig...</itunes:subtitle>
+         <itunes:summary>Vi mænd er mere kriminelle, vi bliver i større grad misbrugere og vi dør langt tid før kvinderne - det er ikke nemt at være mand - men hvorfor er det så skide svært at være indehaver at XY kromosom? &lt;br /&gt;Jeg har allieret mig med to mænd, der ligesom mig gerne vil vide, hvorfor vi er så langt bag kvinderne, når det kommer til, hvordan vi går rundt og har det indeni. &lt;br /&gt;&lt;br /&gt;Mikkel Braginsky laver podcasten “Hankøn”, hvor han forsøger at genfinde mandens identitet. Jeg snakker med ham om, hvilke idealer han mener, vi mænd skal besidde. &lt;br /&gt;&lt;br /&gt;Derudover har jeg talt med the grand old man inden for mandeforskning: Svend Aage Madsen. Han giver sit bud på, hvorfor det står så skidt til.  &lt;br /&gt;&lt;br /&gt;Vært &amp; tilrettelægger: Sebastian Peebles&lt;br /&gt;&lt;br /&gt;Redaktør: Rasmus Mark Pedersen&lt;br /&gt;&lt;br /&gt;Gæster: Mikkel Braginsky&lt;br /&gt;             Svend Aage Madsen &lt;br /&gt;&lt;br /&gt;Musik: Stig Rossen "Rigtige mænd"&lt;br /&gt;           The Cure "Boys dont cry" &lt;br /&gt;&lt;br /&gt;Klip fra: Hankøn podcast &lt;br /&gt;             Tv2</itunes:summary>
+         <itunes:duration>1657</itunes:duration>
+         <itunes:keywords>aage,ali,braginsky,depression,hundebøll,identiet,kærlighed,kriminalitet,madsen,mænd,mand,mental,mikkel,misbrug,najei,psykisk,rollemodeller,sårbarhed,sundhed,svend</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Trailer: Jagten på de mandlige rollemodeller</title>
+         <link>https://www.spreaker.com/episode/trailer-jagten-pa-de-mandlige-rollemodeller--41809552</link>
+         <description>Tre gange så mange mænd som kvinder er i behandling for et stofmisbrug, mænd begår fem gange så meget kriminalitet som kvinder og så mener man oveni, at over 30.000 mænd går rundt med en skjult depression. Sebastian Peebles har selv været en del af statistikken efter at han I mange år har kæmpet med hash- og stofmisbrug samt en svær depression. Alt sammen udløst af, at hans far forlod ham i en ung alder. Sebastian sætter jagten ind på de mandlige rollemodeller, som kan give deres bidrag til at drenge og mænd får et bedre liv, taler sammen og taler op.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/41809552</guid>
+         <pubDate>Thu, 05 Nov 2020 14:55:09 +0000</pubDate>
+         <enclosure length="1448064" type="audio/mpeg" url="https://archive.org/download/jagten_pa_de_mandlige_rollemodeller/Jagten%20p%C3%A5%20de%20mandlige%20rollemodeller/2020.11.05%20-%20Trailer.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Tre gange så mange mænd som kvinder er i behandling for et stofmisbrug, mænd begår fem gange så meget kriminalitet som kvinder og så mener man oveni, at over 30.000 mænd går rundt med en skjult depression. Sebastian Peebles har selv været en del af...</itunes:subtitle>
+         <itunes:summary>Tre gange så mange mænd som kvinder er i behandling for et stofmisbrug, mænd begår fem gange så meget kriminalitet som kvinder og så mener man oveni, at over 30.000 mænd går rundt med en skjult depression. Sebastian Peebles har selv været en del af statistikken efter at han I mange år har kæmpet med hash- og stofmisbrug samt en svær depression. Alt sammen udløst af, at hans far forlod ham i en ung alder. Sebastian sætter jagten ind på de mandlige rollemodeller, som kan give deres bidrag til at drenge og mænd får et bedre liv, taler sammen og taler op.</itunes:summary>
+         <itunes:duration>58</itunes:duration>
+         <itunes:keywords>depression,køn,kønsstereotyper,mænd,mand,rollemodeller,stereotyper</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/56880c85fbd8db8e09b074d7ca955d1f.jpg" />
+         <itunes:episodeType>trailer</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

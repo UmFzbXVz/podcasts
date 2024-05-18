@@ -1,29 +1,28 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Folketingsvalg 2019</title>
-		<link>https://web.24syv.dk/channels/4128</link>
-		<description>Følg Folketingsvalget med Radio24syv.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/455/Folketingsvalg_2019.jpg"/>
-		<item>
-			<title>Dagen derpå</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106680/52817245-audio.mp3</link>
-			<description>Folketingsvalget 2019 er overstået. Vi følger op og gør status: Hvem er gået frem og tilbage? Hvem er nyvalgte, og hvem røg ud? Hvem bliver statsminister, og hvilke partiformænd er måske på vej til at være fortid i dansk politik? Og hvilken kurs for Danmark i de næste fire år bliver resultatet af vælgernes krydser? Værter: Josefine Kofoed og Kaare Svejstrup.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106680/52817245-audio.mp3</guid>
-			<pubDate>Thu, 06 Jun 2019 13:05:00 +0000</pubDate>
-			<itunes:duration>02:45:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106680/52817245-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Valgdagen</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106681/52770163-audio.mp3</link>
-			<description>I dag er der valg til Folketinget, og vi giver dig alle de vigtigste og sjoveste historier og nyheder på valgdagen. Samtidig tilbyder vi politisk parterapi til dig, der stadig ikke har besluttet dig for, hvor krydset skal sættes - eller om du overhovedet gider bevæge dig ud af sofaen.  Værter: Josefine Kofoed og Kaare Svejstrup</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106681/52770163-audio.mp3</guid>
-			<pubDate>Wed, 05 Jun 2019 12:05:00 +0000</pubDate>
-			<itunes:duration>03:39:13</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106681/52770163-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+   <channel>
+      <title>Folketingsvalg 2019</title>
+      <link>https://web.24syv.dk/channels/4128</link>
+      <description>Følg Folketingsvalget med Radio24syv.</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/folketingsvalg_2019/Folketingsvalg%202019/Folketingsvalg_2019.jpg" />
+      <item>
+         <title>Dagen derpå</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106680/52817245-audio.mp3</link>
+         <description>Folketingsvalget 2019 er overstået. Vi følger op og gør status: Hvem er gået frem og tilbage? Hvem er nyvalgte, og hvem røg ud? Hvem bliver statsminister, og hvilke partiformænd er måske på vej til at være fortid i dansk politik? Og hvilken kurs for Danmark i de næste fire år bliver resultatet af vælgernes krydser? Værter: Josefine Kofoed og Kaare Svejstrup.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106680/52817245-audio.mp3</guid>
+         <pubDate>Thu, 06 Jun 2019 13:05:00 +0000</pubDate>
+         <itunes:duration>02:45:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/folketingsvalg_2019/Folketingsvalg%202019/2019.06.06%20-%20Dagen%20derp%C3%A5.mp3" />
+      </item>
+      <item>
+         <title>Valgdagen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106681/52770163-audio.mp3</link>
+         <description>I dag er der valg til Folketinget, og vi giver dig alle de vigtigste og sjoveste historier og nyheder på valgdagen. Samtidig tilbyder vi politisk parterapi til dig, der stadig ikke har besluttet dig for, hvor krydset skal sættes - eller om du overhovedet gider bevæge dig ud af sofaen.  Værter: Josefine Kofoed og Kaare Svejstrup</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106681/52770163-audio.mp3</guid>
+         <pubDate>Wed, 05 Jun 2019 12:05:00 +0000</pubDate>
+         <itunes:duration>03:39:13</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/folketingsvalg_2019/Folketingsvalg%202019/2019.06.05%20-%20Valgdagen.mp3" />
+      </item>
+   </channel>
 </rss>

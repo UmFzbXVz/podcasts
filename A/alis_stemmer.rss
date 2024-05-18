@@ -1,851 +1,375 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Alis Stemmer
-  </title>
-  <link>
-   https://www.spreaker.com/show/alis-stemmer
-  </link>
-  <description>
-   Corona-restriktioner, nedlukningen af skoler, manglen af samvær med venner og bekendte har fremtvunget identitetskriser, angst, sorg og ængstelighed som aldrig før. Emner er der nok at tage fat om. Og det er endda bare dem, der er opstået i corona-tiden. Dertil kommer alle hverdagsproblemerne; kærestersorger, ensomhed, angst, tankemylder eller bare lysten til at snakke ud. Dem vi alle kender til. Ali Aminali er LOUDs stemme i natten, som lytter, taler og invitere natteravnene ind i studiet.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4826515/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   Copyright LOUD
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg
-   </url>
-   <title>
-    Alis Stemmer
-   </title>
-   <link>
-    https://www.spreaker.com/show/alis-stemmer
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-  <itunes:subtitle>
-   Ali Aminali er stemmen i natten, der rækker ud til, dig der mangler den.
-  </itunes:subtitle>
-  <itunes:summary>
-   Corona-restriktioner, nedlukningen af skoler, manglen af samvær med venner og bekendte har fremtvunget identitetskriser, angst, sorg og ængstelighed som aldrig før. Emner er der nok at tage fat om. Og det er endda bare dem, der er opstået i corona-tiden. Dertil kommer alle hverdagsproblemerne; kærestersorger, ensomhed, angst, tankemylder eller bare lysten til at snakke ud. Dem vi alle kender til. Ali Aminali er LOUDs stemme i natten, som lytter, taler og invitere natteravnene ind i studiet.
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:category text="Society &amp; Culture">
-   <itunes:category text="Personal Journals"/>
-  </itunes:category>
-  <itunes:category text="News">
-   <itunes:category text="News Commentary"/>
-  </itunes:category>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Ryd sendefladen, nørderne tager over
-   </title>
-   <link>
-    https://www.spreaker.com/episode/ryd-sendefladen-norderne-tager-over--44557354
-   </link>
-   <description>
-    ALERT, ALERT! NERD TAKEOVER&lt;br /&gt;&lt;br /&gt;I dette afsnit går Alis Stemmer i NERD MODE! Vi skal nemlig tale om, hvor awesome det er at dyrke noget så meget, at andre definerer én som nørd. Jeg har to max lvl-kvinder i studiet og vi vil bruge natten til at tale om Super Mario, Star Wars, Indiana Jones memes, cosplay, Comic Con, Pokémon og jeg kan blive ved. &lt;br /&gt;&lt;br /&gt;I studiet er Fariba Shokari og AnsoCosplay
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44557354
-   </guid>
-   <pubDate>
-    Thu, 29 Apr 2021 10:12:00 +0000
-   </pubDate>
-   <enclosure length="110413948" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44557354/alis_stemmer29.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    ALERT, ALERT! NERD TAKEOVER
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Alis Stemmer</title>
+      <link>https://www.spreaker.com/show/alis-stemmer</link>
+      <description>Corona-restriktioner, nedlukningen af skoler, manglen af samvær med venner og bekendte har fremtvunget identitetskriser, angst, sorg og ængstelighed som aldrig før. Emner er der nok at tage fat om. Og det er endda bare dem, der er opstået i corona-tiden. Dertil kommer alle hverdagsproblemerne; kærestersorger, ensomhed, angst, tankemylder eller bare lysten til at snakke ud. Dem vi alle kender til. Ali Aminali er LOUDs stemme i natten, som lytter, taler og invitere natteravnene ind i studiet.</description>
+      <atom:link href="https://www.spreaker.com/show/4826515/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>Copyright LOUD</copyright>
+      <image>
+         <url>https://archive.org/download/alis_stemmer/e094f66e9d1d08b1016d9d87365a332e.jpg</url>
+         <title>Alis Stemmer</title>
+         <link>https://www.spreaker.com/show/alis-stemmer</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+      <itunes:subtitle>Ali Aminali er stemmen i natten, der rækker ud til, dig der mangler den.</itunes:subtitle>
+      <itunes:summary>Corona-restriktioner, nedlukningen af skoler, manglen af samvær med venner og bekendte har fremtvunget identitetskriser, angst, sorg og ængstelighed som aldrig før. Emner er der nok at tage fat om. Og det er endda bare dem, der er opstået i corona-tiden. Dertil kommer alle hverdagsproblemerne; kærestersorger, ensomhed, angst, tankemylder eller bare lysten til at snakke ud. Dem vi alle kender til. Ali Aminali er LOUDs stemme i natten, som lytter, taler og invitere natteravnene ind i studiet.</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:category text="Society &amp; Culture">
+         <itunes:category text="Personal Journals" />
+      </itunes:category>
+      <itunes:category text="News">
+         <itunes:category text="News Commentary" />
+      </itunes:category>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Ryd sendefladen, nørderne tager over</title>
+         <link>https://www.spreaker.com/episode/ryd-sendefladen-norderne-tager-over--44557354</link>
+         <description>ALERT, ALERT! NERD TAKEOVER&lt;br /&gt;&lt;br /&gt;I dette afsnit går Alis Stemmer i NERD MODE! Vi skal nemlig tale om, hvor awesome det er at dyrke noget så meget, at andre definerer én som nørd. Jeg har to max lvl-kvinder i studiet og vi vil bruge natten til at tale om Super Mario, Star Wars, Indiana Jones memes, cosplay, Comic Con, Pokémon og jeg kan blive ved. &lt;br /&gt;&lt;br /&gt;I studiet er Fariba Shokari og AnsoCosplay</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44557354</guid>
+         <pubDate>Thu, 29 Apr 2021 10:12:00 +0000</pubDate>
+         <enclosure length="110413948" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.04.29%20-%20Ryd%20sendefladen%2C%20n%C3%B8rderne%20tager%20over.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>ALERT, ALERT! NERD TAKEOVER
 
-I dette afsnit går Alis Stemmer i NERD MODE! Vi skal nemlig tale om, hvor awesome det er at dyrke noget så meget, at andre definerer én som nørd. Jeg har to max lvl-kvinder i studiet og vi vil bruge natten til at tale om...
-   </itunes:subtitle>
-   <itunes:summary>
-    ALERT, ALERT! NERD TAKEOVER&lt;br /&gt;&lt;br /&gt;I dette afsnit går Alis Stemmer i NERD MODE! Vi skal nemlig tale om, hvor awesome det er at dyrke noget så meget, at andre definerer én som nørd. Jeg har to max lvl-kvinder i studiet og vi vil bruge natten til at tale om Super Mario, Star Wars, Indiana Jones memes, cosplay, Comic Con, Pokémon og jeg kan blive ved. &lt;br /&gt;&lt;br /&gt;I studiet er Fariba Shokari og AnsoCosplay
-   </itunes:summary>
-   <itunes:duration>
-    6901
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hvad er en god rollemodel?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hvad-er-en-god-rollemodel--44557237
-   </link>
-   <description>
-    HVAD ER EN GOD ROLLEMODEL? &lt;br /&gt;&lt;br /&gt;I dette afsnit taler jeg og min gæstemedvært Adam El-Matari om rollemodeller. &lt;br /&gt;De findes i alle størrelser, farver og køn. Vi finder dem på skoler, til fritidsaktiviteter, i udsatte boligområder eller noget fjerde. I denne udsendelse tager vi en snak om hvad det egentlig indebære. &lt;br /&gt;&lt;br /&gt;I studiet er radio debutanten Emil Træholt og Adam El-Matari. Jeg ringer også en lytter op, som har haft en særlig betydning for en af gæsterne.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44557237
-   </guid>
-   <pubDate>
-    Wed, 28 Apr 2021 10:03:00 +0000
-   </pubDate>
-   <enclosure length="110413948" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44557237/alis_stemmer28.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    HVAD ER EN GOD ROLLEMODEL? 
+I dette afsnit går Alis Stemmer i NERD MODE! Vi skal nemlig tale om, hvor awesome det er at dyrke noget så meget, at andre definerer én som nørd. Jeg har to max lvl-kvinder i studiet og vi vil bruge natten til at tale om...</itunes:subtitle>
+         <itunes:summary>ALERT, ALERT! NERD TAKEOVER&lt;br /&gt;&lt;br /&gt;I dette afsnit går Alis Stemmer i NERD MODE! Vi skal nemlig tale om, hvor awesome det er at dyrke noget så meget, at andre definerer én som nørd. Jeg har to max lvl-kvinder i studiet og vi vil bruge natten til at tale om Super Mario, Star Wars, Indiana Jones memes, cosplay, Comic Con, Pokémon og jeg kan blive ved. &lt;br /&gt;&lt;br /&gt;I studiet er Fariba Shokari og AnsoCosplay</itunes:summary>
+         <itunes:duration>6901</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hvad er en god rollemodel?</title>
+         <link>https://www.spreaker.com/episode/hvad-er-en-god-rollemodel--44557237</link>
+         <description>HVAD ER EN GOD ROLLEMODEL? &lt;br /&gt;&lt;br /&gt;I dette afsnit taler jeg og min gæstemedvært Adam El-Matari om rollemodeller. &lt;br /&gt;De findes i alle størrelser, farver og køn. Vi finder dem på skoler, til fritidsaktiviteter, i udsatte boligområder eller noget fjerde. I denne udsendelse tager vi en snak om hvad det egentlig indebære. &lt;br /&gt;&lt;br /&gt;I studiet er radio debutanten Emil Træholt og Adam El-Matari. Jeg ringer også en lytter op, som har haft en særlig betydning for en af gæsterne.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44557237</guid>
+         <pubDate>Wed, 28 Apr 2021 10:03:00 +0000</pubDate>
+         <enclosure length="110413948" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.04.28%20-%20Hvad%20er%20en%20god%20rollemodel.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>HVAD ER EN GOD ROLLEMODEL? 
 
 I dette afsnit taler jeg og min gæstemedvært Adam El-Matari om rollemodeller. 
-De findes i alle størrelser, farver og køn. Vi finder dem på skoler, til fritidsaktiviteter, i udsatte boligområder eller noget fjerde. I...
-   </itunes:subtitle>
-   <itunes:summary>
-    HVAD ER EN GOD ROLLEMODEL? &lt;br /&gt;&lt;br /&gt;I dette afsnit taler jeg og min gæstemedvært Adam El-Matari om rollemodeller. &lt;br /&gt;De findes i alle størrelser, farver og køn. Vi finder dem på skoler, til fritidsaktiviteter, i udsatte boligområder eller noget fjerde. I denne udsendelse tager vi en snak om hvad det egentlig indebære. &lt;br /&gt;&lt;br /&gt;I studiet er radio debutanten Emil Træholt og Adam El-Matari. Jeg ringer også en lytter op, som har haft en særlig betydning for en af gæsterne.
-   </itunes:summary>
-   <itunes:duration>
-    6901
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Dates for dummies
-   </title>
-   <link>
-    https://www.spreaker.com/episode/dates-for-dummies--44456363
-   </link>
-   <description>
-    HVAD ER EN GOD DATE - OG HVAD GØR MAN, HVIS DATEN GÅR GALT? &lt;br /&gt;&lt;br /&gt;I dette afsnit  skal det handle om dates, der er endt godt eller skidt. Og hvad gør man egentlig, hvis man vil ud af en dårlig date? &lt;br /&gt;&lt;br /&gt;Det spørger jeg to kvinder om, og sammen finder vi frem til de rette ingredienser til en god date.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44456363
-   </guid>
-   <pubDate>
-    Thu, 22 Apr 2021 10:21:00 +0000
-   </pubDate>
-   <enclosure length="110487927" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44456363/alis_stemmer22.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    HVAD ER EN GOD DATE - OG HVAD GØR MAN, HVIS DATEN GÅR GALT? 
+De findes i alle størrelser, farver og køn. Vi finder dem på skoler, til fritidsaktiviteter, i udsatte boligområder eller noget fjerde. I...</itunes:subtitle>
+         <itunes:summary>HVAD ER EN GOD ROLLEMODEL? &lt;br /&gt;&lt;br /&gt;I dette afsnit taler jeg og min gæstemedvært Adam El-Matari om rollemodeller. &lt;br /&gt;De findes i alle størrelser, farver og køn. Vi finder dem på skoler, til fritidsaktiviteter, i udsatte boligområder eller noget fjerde. I denne udsendelse tager vi en snak om hvad det egentlig indebære. &lt;br /&gt;&lt;br /&gt;I studiet er radio debutanten Emil Træholt og Adam El-Matari. Jeg ringer også en lytter op, som har haft en særlig betydning for en af gæsterne.</itunes:summary>
+         <itunes:duration>6901</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Dates for dummies</title>
+         <link>https://www.spreaker.com/episode/dates-for-dummies--44456363</link>
+         <description>HVAD ER EN GOD DATE - OG HVAD GØR MAN, HVIS DATEN GÅR GALT? &lt;br /&gt;&lt;br /&gt;I dette afsnit  skal det handle om dates, der er endt godt eller skidt. Og hvad gør man egentlig, hvis man vil ud af en dårlig date? &lt;br /&gt;&lt;br /&gt;Det spørger jeg to kvinder om, og sammen finder vi frem til de rette ingredienser til en god date.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44456363</guid>
+         <pubDate>Thu, 22 Apr 2021 10:21:00 +0000</pubDate>
+         <enclosure length="110487927" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.04.22%20-%20Dates%20for%20dummies.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>HVAD ER EN GOD DATE - OG HVAD GØR MAN, HVIS DATEN GÅR GALT? 
 
 I dette afsnit  skal det handle om dates, der er endt godt eller skidt. Og hvad gør man egentlig, hvis man vil ud af en dårlig date? 
 
-Det spørger jeg to kvinder om, og sammen finder vi...
-   </itunes:subtitle>
-   <itunes:summary>
-    HVAD ER EN GOD DATE - OG HVAD GØR MAN, HVIS DATEN GÅR GALT? &lt;br /&gt;&lt;br /&gt;I dette afsnit  skal det handle om dates, der er endt godt eller skidt. Og hvad gør man egentlig, hvis man vil ud af en dårlig date? &lt;br /&gt;&lt;br /&gt;Det spørger jeg to kvinder om, og sammen finder vi frem til de rette ingredienser til en god date.
-   </itunes:summary>
-   <itunes:duration>
-    6906
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Et studie, to  onlyfans accountants og en masse spørgsmål
-   </title>
-   <link>
-    https://www.spreaker.com/episode/et-studie-to-onlyfans-accountants-og-en-masse-sporgsmal--44433940
-   </link>
-   <description>
-    HVAD ER ONLYFANS EGENTLIG? &lt;br /&gt;&lt;br /&gt;Vi hører mere og mere om platformen 'Onlyfans'. Men hvad er det for en størrelse? Og hvordan kan det være, at den er så populær? Jeg har inviteret The Talltease og Lou - to onlyfans "Accountants" - i studiet for at hjælpe mig med at forstå platformen. &lt;br /&gt;&lt;br /&gt;I programmet deltager også en bruger af Onlyfans. Hans refleksioner satte en masse tanker i gang hos mine gæster.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44433940
-   </guid>
-   <pubDate>
-    Wed, 21 Apr 2021 10:34:00 +0000
-   </pubDate>
-   <enclosure length="110402663" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44433940/alis_stemmer21.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    HVAD ER ONLYFANS EGENTLIG? 
+Det spørger jeg to kvinder om, og sammen finder vi...</itunes:subtitle>
+         <itunes:summary>HVAD ER EN GOD DATE - OG HVAD GØR MAN, HVIS DATEN GÅR GALT? &lt;br /&gt;&lt;br /&gt;I dette afsnit  skal det handle om dates, der er endt godt eller skidt. Og hvad gør man egentlig, hvis man vil ud af en dårlig date? &lt;br /&gt;&lt;br /&gt;Det spørger jeg to kvinder om, og sammen finder vi frem til de rette ingredienser til en god date.</itunes:summary>
+         <itunes:duration>6906</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Et studie, to  onlyfans accountants og en masse spørgsmål</title>
+         <link>https://www.spreaker.com/episode/et-studie-to-onlyfans-accountants-og-en-masse-sporgsmal--44433940</link>
+         <description>HVAD ER ONLYFANS EGENTLIG? &lt;br /&gt;&lt;br /&gt;Vi hører mere og mere om platformen 'Onlyfans'. Men hvad er det for en størrelse? Og hvordan kan det være, at den er så populær? Jeg har inviteret The Talltease og Lou - to onlyfans "Accountants" - i studiet for at hjælpe mig med at forstå platformen. &lt;br /&gt;&lt;br /&gt;I programmet deltager også en bruger af Onlyfans. Hans refleksioner satte en masse tanker i gang hos mine gæster.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44433940</guid>
+         <pubDate>Wed, 21 Apr 2021 10:34:00 +0000</pubDate>
+         <enclosure length="110402663" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.04.21%20-%20Et%20studie%2C%20to%20%20onlyfans%20accountants%20og%20en%20masse%20sp%C3%B8rgsm%C3%A5l.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>HVAD ER ONLYFANS EGENTLIG? 
 
-Vi hører mere og mere om platformen 'Onlyfans'. Men hvad er det for en størrelse? Og hvordan kan det være, at den er så populær? Jeg har inviteret The Talltease og Lou - to onlyfans "Accountants" - i studiet for at hjælpe...
-   </itunes:subtitle>
-   <itunes:summary>
-    HVAD ER ONLYFANS EGENTLIG? &lt;br /&gt;&lt;br /&gt;Vi hører mere og mere om platformen 'Onlyfans'. Men hvad er det for en størrelse? Og hvordan kan det være, at den er så populær? Jeg har inviteret The Talltease og Lou - to onlyfans "Accountants" - i studiet for at hjælpe mig med at forstå platformen. &lt;br /&gt;&lt;br /&gt;I programmet deltager også en bruger af Onlyfans. Hans refleksioner satte en masse tanker i gang hos mine gæster.
-   </itunes:summary>
-   <itunes:duration>
-    6901
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Tolv storklubber og brændte fodboldtrøjer
-   </title>
-   <link>
-    https://www.spreaker.com/episode/tolv-storklubber-og-braendte-fodboldtrojer--44409901
-   </link>
-   <description>
-    EUROPEAN SUPER LEAGUE - GOD ELLER DÅRLIG IDE? OG SKAL VI VIRKELIG BRÆNDE VORES TRØJER? &lt;br /&gt;&lt;br /&gt;Vi skal tale om 12 storklubber, og deres ambitioner om, at skabe en Super League som tager et opgør med Champions League. Vi skal tale om de følelser der er på spil. Og om folk virkelig mener det, når de siger, at de vil brænde deres klubtrøjer. &lt;br /&gt;&lt;br /&gt;Alt  det og meget mere i nat.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44409901
-   </guid>
-   <pubDate>
-    Tue, 20 Apr 2021 10:52:00 +0000
-   </pubDate>
-   <enclosure length="110399737" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44409901/natten_med_ali20.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    EUROPEAN SUPER LEAGUE - GOD ELLER DÅRLIG IDE? OG SKAL VI VIRKELIG BRÆNDE VORES TRØJER? 
+Vi hører mere og mere om platformen 'Onlyfans'. Men hvad er det for en størrelse? Og hvordan kan det være, at den er så populær? Jeg har inviteret The Talltease og Lou - to onlyfans "Accountants" - i studiet for at hjælpe...</itunes:subtitle>
+         <itunes:summary>HVAD ER ONLYFANS EGENTLIG? &lt;br /&gt;&lt;br /&gt;Vi hører mere og mere om platformen 'Onlyfans'. Men hvad er det for en størrelse? Og hvordan kan det være, at den er så populær? Jeg har inviteret The Talltease og Lou - to onlyfans "Accountants" - i studiet for at hjælpe mig med at forstå platformen. &lt;br /&gt;&lt;br /&gt;I programmet deltager også en bruger af Onlyfans. Hans refleksioner satte en masse tanker i gang hos mine gæster.</itunes:summary>
+         <itunes:duration>6901</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Tolv storklubber og brændte fodboldtrøjer</title>
+         <link>https://www.spreaker.com/episode/tolv-storklubber-og-braendte-fodboldtrojer--44409901</link>
+         <description>EUROPEAN SUPER LEAGUE - GOD ELLER DÅRLIG IDE? OG SKAL VI VIRKELIG BRÆNDE VORES TRØJER? &lt;br /&gt;&lt;br /&gt;Vi skal tale om 12 storklubber, og deres ambitioner om, at skabe en Super League som tager et opgør med Champions League. Vi skal tale om de følelser der er på spil. Og om folk virkelig mener det, når de siger, at de vil brænde deres klubtrøjer. &lt;br /&gt;&lt;br /&gt;Alt  det og meget mere i nat.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44409901</guid>
+         <pubDate>Tue, 20 Apr 2021 10:52:00 +0000</pubDate>
+         <enclosure length="110399737" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.04.20%20-%20Tolv%20storklubber%20og%20br%C3%A6ndte%20fodboldtr%C3%B8jer.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>EUROPEAN SUPER LEAGUE - GOD ELLER DÅRLIG IDE? OG SKAL VI VIRKELIG BRÆNDE VORES TRØJER? 
 
-Vi skal tale om 12 storklubber, og deres ambitioner om, at skabe en Super League som tager et opgør med Champions League. Vi skal tale om de følelser der er på...
-   </itunes:subtitle>
-   <itunes:summary>
-    EUROPEAN SUPER LEAGUE - GOD ELLER DÅRLIG IDE? OG SKAL VI VIRKELIG BRÆNDE VORES TRØJER? &lt;br /&gt;&lt;br /&gt;Vi skal tale om 12 storklubber, og deres ambitioner om, at skabe en Super League som tager et opgør med Champions League. Vi skal tale om de følelser der er på spil. Og om folk virkelig mener det, når de siger, at de vil brænde deres klubtrøjer. &lt;br /&gt;&lt;br /&gt;Alt  det og meget mere i nat.
-   </itunes:summary>
-   <itunes:duration>
-    6900
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Shababs kultur og privilegieblindhed blandt minoritetsetniske debattører
-   </title>
-   <link>
-    https://www.spreaker.com/episode/shababs-kultur-og-privilegieblindhed-blandt-minoritetsetniske-debattorer--44342958
-   </link>
-   <description>
-    I nat har jeg inviteret Lubega Junior, student og medlem af Mino Ungdom KBH og besluttet mig for at give ham mikrofonen. Han har valgt, at vi skal have en snak om sammenhold blandt minoritetsetniske unge. Hvordan kommer “shabab” og “habibi” mentaliteten, hvor man støtter hinanden i alt, til udtryk?&lt;br /&gt;&lt;br /&gt;Vi tager også en snak om privilegier blandt minoritetsetniske borgere. Har nogle ressorcestærke minoritetsborgere privilegieblindhed? Eller er alt bare som det skal være. &lt;br /&gt;&lt;br /&gt;Adam El Matari, student er med hele natten og Khaterah Parwani, direktør i LØFT giver et indspark eller to.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44342958
-   </guid>
-   <pubDate>
-    Thu, 15 Apr 2021 09:49:41 +0000
-   </pubDate>
-   <enclosure length="110415202" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44342958/alis_stemme15.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I nat har jeg inviteret Lubega Junior, student og medlem af Mino Ungdom KBH og besluttet mig for at give ham mikrofonen. Han har valgt, at vi skal have en snak om sammenhold blandt minoritetsetniske unge. Hvordan kommer “shabab” og “habibi”...
-   </itunes:subtitle>
-   <itunes:summary>
-    I nat har jeg inviteret Lubega Junior, student og medlem af Mino Ungdom KBH og besluttet mig for at give ham mikrofonen. Han har valgt, at vi skal have en snak om sammenhold blandt minoritetsetniske unge. Hvordan kommer “shabab” og “habibi” mentaliteten, hvor man støtter hinanden i alt, til udtryk?&lt;br /&gt;&lt;br /&gt;Vi tager også en snak om privilegier blandt minoritetsetniske borgere. Har nogle ressorcestærke minoritetsborgere privilegieblindhed? Eller er alt bare som det skal være. &lt;br /&gt;&lt;br /&gt;Adam El Matari, student er med hele natten og Khaterah Parwani, direktør i LØFT giver et indspark eller to.
-   </itunes:summary>
-   <itunes:duration>
-    6901
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Identitetspolitikkens historie, flyversjusser og et krav om anderkendelse
-   </title>
-   <link>
-    https://www.spreaker.com/episode/identitetspolitikkens-historie-flyversjusser-og-et-krav-om-anderkendelse--44342771
-   </link>
-   <description>
-    IDENTITETSPOLITIK PÅ UDDANNELSESINSTITUTIONER! STÅR DET VIRKELIG SÅ GALT TIL?&lt;br /&gt; &lt;br /&gt;I aften skal vi tale om identitetspolitik, cancel-culture og aktivisme-lysten på uddannelsesinstitutioner. &lt;br /&gt;&lt;br /&gt;Og for at gøre det har jeg sociolog og FT medlem for Liberal Alliance Henrik Dahl, formand for Konservative Studerende på Københavns Universitet Cille Hald Engholm og instagrammer Marcus Dib Jensen i studiet.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44342771
-   </guid>
-   <pubDate>
-    Wed, 14 Apr 2021 09:29:00 +0000
-   </pubDate>
-   <enclosure length="110420635" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44342771/alis_stemme14.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    IDENTITETSPOLITIK PÅ UDDANNELSESINSTITUTIONER! STÅR DET VIRKELIG SÅ GALT TIL?
+Vi skal tale om 12 storklubber, og deres ambitioner om, at skabe en Super League som tager et opgør med Champions League. Vi skal tale om de følelser der er på...</itunes:subtitle>
+         <itunes:summary>EUROPEAN SUPER LEAGUE - GOD ELLER DÅRLIG IDE? OG SKAL VI VIRKELIG BRÆNDE VORES TRØJER? &lt;br /&gt;&lt;br /&gt;Vi skal tale om 12 storklubber, og deres ambitioner om, at skabe en Super League som tager et opgør med Champions League. Vi skal tale om de følelser der er på spil. Og om folk virkelig mener det, når de siger, at de vil brænde deres klubtrøjer. &lt;br /&gt;&lt;br /&gt;Alt  det og meget mere i nat.</itunes:summary>
+         <itunes:duration>6900</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Shababs kultur og privilegieblindhed blandt minoritetsetniske debattører</title>
+         <link>https://www.spreaker.com/episode/shababs-kultur-og-privilegieblindhed-blandt-minoritetsetniske-debattorer--44342958</link>
+         <description>I nat har jeg inviteret Lubega Junior, student og medlem af Mino Ungdom KBH og besluttet mig for at give ham mikrofonen. Han har valgt, at vi skal have en snak om sammenhold blandt minoritetsetniske unge. Hvordan kommer “shabab” og “habibi” mentaliteten, hvor man støtter hinanden i alt, til udtryk?&lt;br /&gt;&lt;br /&gt;Vi tager også en snak om privilegier blandt minoritetsetniske borgere. Har nogle ressorcestærke minoritetsborgere privilegieblindhed? Eller er alt bare som det skal være. &lt;br /&gt;&lt;br /&gt;Adam El Matari, student er med hele natten og Khaterah Parwani, direktør i LØFT giver et indspark eller to.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44342958</guid>
+         <pubDate>Thu, 15 Apr 2021 09:49:41 +0000</pubDate>
+         <enclosure length="110415202" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.04.15%20-%20Shababs%20kultur%20og%20privilegieblindhed%20blandt%20minoritetsetniske%20debatt%C3%B8rer.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I nat har jeg inviteret Lubega Junior, student og medlem af Mino Ungdom KBH og besluttet mig for at give ham mikrofonen. Han har valgt, at vi skal have en snak om sammenhold blandt minoritetsetniske unge. Hvordan kommer “shabab” og “habibi”...</itunes:subtitle>
+         <itunes:summary>I nat har jeg inviteret Lubega Junior, student og medlem af Mino Ungdom KBH og besluttet mig for at give ham mikrofonen. Han har valgt, at vi skal have en snak om sammenhold blandt minoritetsetniske unge. Hvordan kommer “shabab” og “habibi” mentaliteten, hvor man støtter hinanden i alt, til udtryk?&lt;br /&gt;&lt;br /&gt;Vi tager også en snak om privilegier blandt minoritetsetniske borgere. Har nogle ressorcestærke minoritetsborgere privilegieblindhed? Eller er alt bare som det skal være. &lt;br /&gt;&lt;br /&gt;Adam El Matari, student er med hele natten og Khaterah Parwani, direktør i LØFT giver et indspark eller to.</itunes:summary>
+         <itunes:duration>6901</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Identitetspolitikkens historie, flyversjusser og et krav om anderkendelse</title>
+         <link>https://www.spreaker.com/episode/identitetspolitikkens-historie-flyversjusser-og-et-krav-om-anderkendelse--44342771</link>
+         <description>IDENTITETSPOLITIK PÅ UDDANNELSESINSTITUTIONER! STÅR DET VIRKELIG SÅ GALT TIL?&lt;br /&gt; &lt;br /&gt;I aften skal vi tale om identitetspolitik, cancel-culture og aktivisme-lysten på uddannelsesinstitutioner. &lt;br /&gt;&lt;br /&gt;Og for at gøre det har jeg sociolog og FT medlem for Liberal Alliance Henrik Dahl, formand for Konservative Studerende på Københavns Universitet Cille Hald Engholm og instagrammer Marcus Dib Jensen i studiet.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44342771</guid>
+         <pubDate>Wed, 14 Apr 2021 09:29:00 +0000</pubDate>
+         <enclosure length="110420635" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.04.14%20-%20Identitetspolitikkens%20historie%2C%20flyversjusser%20og%20et%20krav%20om%20anderkendelse.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>IDENTITETSPOLITIK PÅ UDDANNELSESINSTITUTIONER! STÅR DET VIRKELIG SÅ GALT TIL?
  
 I aften skal vi tale om identitetspolitik, cancel-culture og aktivisme-lysten på uddannelsesinstitutioner. 
 
-Og for at gøre det har jeg sociolog og FT medlem for Liberal...
-   </itunes:subtitle>
-   <itunes:summary>
-    IDENTITETSPOLITIK PÅ UDDANNELSESINSTITUTIONER! STÅR DET VIRKELIG SÅ GALT TIL?&lt;br /&gt; &lt;br /&gt;I aften skal vi tale om identitetspolitik, cancel-culture og aktivisme-lysten på uddannelsesinstitutioner. &lt;br /&gt;&lt;br /&gt;Og for at gøre det har jeg sociolog og FT medlem for Liberal Alliance Henrik Dahl, formand for Konservative Studerende på Københavns Universitet Cille Hald Engholm og instagrammer Marcus Dib Jensen i studiet.
-   </itunes:summary>
-   <itunes:duration>
-    6902
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Den politisk bevidste ungdomsgeneration
-   </title>
-   <link>
-    https://www.spreaker.com/episode/den-politisk-bevidste-ungdomsgeneration--44328785
-   </link>
-   <description>
-    ER UNGDOMMEN POLITISK BEVIDST? &lt;br /&gt;&lt;br /&gt;Hvordan står det til med ungdomspolitik, aktivisme og bare det at være politisk bevidst som ung!  Jeg udforsker emnet sammen med tidligere Konservativ Ungdom formand Anders Storgaard, medlem af Radikal Venstre ungdom Mads Rundstrøm, regionsrådskandidat for SF Tilde M. Jensen og Laura Josefia Falk.&lt;br /&gt;&lt;br /&gt;Vi har også indspark fra 3 andre lyttere, som gerne vil dele deres erfaringer med os.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44328785
-   </guid>
-   <pubDate>
-    Tue, 13 Apr 2021 09:14:00 +0000
-   </pubDate>
-   <enclosure length="109113259" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44328785/alis_stemme13.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    ER UNGDOMMEN POLITISK BEVIDST? 
+Og for at gøre det har jeg sociolog og FT medlem for Liberal...</itunes:subtitle>
+         <itunes:summary>IDENTITETSPOLITIK PÅ UDDANNELSESINSTITUTIONER! STÅR DET VIRKELIG SÅ GALT TIL?&lt;br /&gt; &lt;br /&gt;I aften skal vi tale om identitetspolitik, cancel-culture og aktivisme-lysten på uddannelsesinstitutioner. &lt;br /&gt;&lt;br /&gt;Og for at gøre det har jeg sociolog og FT medlem for Liberal Alliance Henrik Dahl, formand for Konservative Studerende på Københavns Universitet Cille Hald Engholm og instagrammer Marcus Dib Jensen i studiet.</itunes:summary>
+         <itunes:duration>6902</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Den politisk bevidste ungdomsgeneration</title>
+         <link>https://www.spreaker.com/episode/den-politisk-bevidste-ungdomsgeneration--44328785</link>
+         <description>ER UNGDOMMEN POLITISK BEVIDST? &lt;br /&gt;&lt;br /&gt;Hvordan står det til med ungdomspolitik, aktivisme og bare det at være politisk bevidst som ung!  Jeg udforsker emnet sammen med tidligere Konservativ Ungdom formand Anders Storgaard, medlem af Radikal Venstre ungdom Mads Rundstrøm, regionsrådskandidat for SF Tilde M. Jensen og Laura Josefia Falk.&lt;br /&gt;&lt;br /&gt;Vi har også indspark fra 3 andre lyttere, som gerne vil dele deres erfaringer med os.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44328785</guid>
+         <pubDate>Tue, 13 Apr 2021 09:14:00 +0000</pubDate>
+         <enclosure length="109113259" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.04.13%20-%20Den%20politisk%20bevidste%20ungdomsgeneration.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>ER UNGDOMMEN POLITISK BEVIDST? 
 
-Hvordan står det til med ungdomspolitik, aktivisme og bare det at være politisk bevidst som ung!  Jeg udforsker emnet sammen med tidligere Konservativ Ungdom formand Anders Storgaard, medlem af Radikal Venstre ungdom...
-   </itunes:subtitle>
-   <itunes:summary>
-    ER UNGDOMMEN POLITISK BEVIDST? &lt;br /&gt;&lt;br /&gt;Hvordan står det til med ungdomspolitik, aktivisme og bare det at være politisk bevidst som ung!  Jeg udforsker emnet sammen med tidligere Konservativ Ungdom formand Anders Storgaard, medlem af Radikal Venstre ungdom Mads Rundstrøm, regionsrådskandidat for SF Tilde M. Jensen og Laura Josefia Falk.&lt;br /&gt;&lt;br /&gt;Vi har også indspark fra 3 andre lyttere, som gerne vil dele deres erfaringer med os.
-   </itunes:summary>
-   <itunes:duration>
-    6820
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    At tro på noget større
-   </title>
-   <link>
-    https://www.spreaker.com/episode/at-tro-pa-noget-storre--44289940
-   </link>
-   <description>
-    Vi har netop afholdt påske. En højtidelig begivenhed. Men hvordan står det til egentlig med åndeligheden? Et dét at være religiøs, spirituelt eller åndelig bevidst stadigvæk en ting? &lt;br /&gt;Eller er det hele bare forsvundet i en stresset verden fyldt med andre fristelser?  Det undersøger jeg sammen med Marie og Kasper som har henvendt sig, da de hørte om afsnittet. &lt;br /&gt;&lt;br /&gt;Historiker Christian Egander Skov og den politisk unge engageret Christina Vigilius  deltager også  og forsøger, at hjælpe mig med finde op og ned på i det hele.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44289940
-   </guid>
-   <pubDate>
-    Thu, 08 Apr 2021 10:01:00 +0000
-   </pubDate>
-   <enclosure length="165694464" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44289940/alis_stemme_8_april.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi har netop afholdt påske. En højtidelig begivenhed. Men hvordan står det til egentlig med åndeligheden? Et dét at være religiøs, spirituelt eller åndelig bevidst stadigvæk en ting? 
-Eller er det hele bare forsvundet i en stresset verden fyldt med...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi har netop afholdt påske. En højtidelig begivenhed. Men hvordan står det til egentlig med åndeligheden? Et dét at være religiøs, spirituelt eller åndelig bevidst stadigvæk en ting? &lt;br /&gt;Eller er det hele bare forsvundet i en stresset verden fyldt med andre fristelser?  Det undersøger jeg sammen med Marie og Kasper som har henvendt sig, da de hørte om afsnittet. &lt;br /&gt;&lt;br /&gt;Historiker Christian Egander Skov og den politisk unge engageret Christina Vigilius  deltager også  og forsøger, at hjælpe mig med finde op og ned på i det hele.
-   </itunes:summary>
-   <itunes:duration>
-    6902
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Dirtytalk, cowboydans og feminisme på TikTok
-   </title>
-   <link>
-    https://www.spreaker.com/episode/dirtytalk-cowboydans-og-feminisme-pa-tiktok--44240280
-   </link>
-   <description>
-    Hvad er TikTok for en størrelse? Hvordan får man succes på platformen og hvad skal man finde sig i? Det besluttede jeg mig for at undersøge. Og fire skønne kvinder besluttet sig for at hjælpe mig. &lt;br /&gt;&lt;br /&gt;I studiet var Talia Bro, Hanna Sophia, Johanne Sloth og Julie Skovgaard
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44240280
-   </guid>
-   <pubDate>
-    Wed, 07 Apr 2021 13:34:25 +0000
-   </pubDate>
-   <enclosure length="110146036" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44240280/alis_stemme7.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hvad er TikTok for en størrelse? Hvordan får man succes på platformen og hvad skal man finde sig i? Det besluttede jeg mig for at undersøge. Og fire skønne kvinder besluttet sig for at hjælpe mig. 
+Hvordan står det til med ungdomspolitik, aktivisme og bare det at være politisk bevidst som ung!  Jeg udforsker emnet sammen med tidligere Konservativ Ungdom formand Anders Storgaard, medlem af Radikal Venstre ungdom...</itunes:subtitle>
+         <itunes:summary>ER UNGDOMMEN POLITISK BEVIDST? &lt;br /&gt;&lt;br /&gt;Hvordan står det til med ungdomspolitik, aktivisme og bare det at være politisk bevidst som ung!  Jeg udforsker emnet sammen med tidligere Konservativ Ungdom formand Anders Storgaard, medlem af Radikal Venstre ungdom Mads Rundstrøm, regionsrådskandidat for SF Tilde M. Jensen og Laura Josefia Falk.&lt;br /&gt;&lt;br /&gt;Vi har også indspark fra 3 andre lyttere, som gerne vil dele deres erfaringer med os.</itunes:summary>
+         <itunes:duration>6820</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>At tro på noget større</title>
+         <link>https://www.spreaker.com/episode/at-tro-pa-noget-storre--44289940</link>
+         <description>Vi har netop afholdt påske. En højtidelig begivenhed. Men hvordan står det til egentlig med åndeligheden? Et dét at være religiøs, spirituelt eller åndelig bevidst stadigvæk en ting? &lt;br /&gt;Eller er det hele bare forsvundet i en stresset verden fyldt med andre fristelser?  Det undersøger jeg sammen med Marie og Kasper som har henvendt sig, da de hørte om afsnittet. &lt;br /&gt;&lt;br /&gt;Historiker Christian Egander Skov og den politisk unge engageret Christina Vigilius  deltager også  og forsøger, at hjælpe mig med finde op og ned på i det hele.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44289940</guid>
+         <pubDate>Thu, 08 Apr 2021 10:01:00 +0000</pubDate>
+         <enclosure length="165694464" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.04.08%20-%20At%20tro%20p%C3%A5%20noget%20st%C3%B8rre.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi har netop afholdt påske. En højtidelig begivenhed. Men hvordan står det til egentlig med åndeligheden? Et dét at være religiøs, spirituelt eller åndelig bevidst stadigvæk en ting? 
+Eller er det hele bare forsvundet i en stresset verden fyldt med...</itunes:subtitle>
+         <itunes:summary>Vi har netop afholdt påske. En højtidelig begivenhed. Men hvordan står det til egentlig med åndeligheden? Et dét at være religiøs, spirituelt eller åndelig bevidst stadigvæk en ting? &lt;br /&gt;Eller er det hele bare forsvundet i en stresset verden fyldt med andre fristelser?  Det undersøger jeg sammen med Marie og Kasper som har henvendt sig, da de hørte om afsnittet. &lt;br /&gt;&lt;br /&gt;Historiker Christian Egander Skov og den politisk unge engageret Christina Vigilius  deltager også  og forsøger, at hjælpe mig med finde op og ned på i det hele.</itunes:summary>
+         <itunes:duration>6902</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Dirtytalk, cowboydans og feminisme på TikTok</title>
+         <link>https://www.spreaker.com/episode/dirtytalk-cowboydans-og-feminisme-pa-tiktok--44240280</link>
+         <description>Hvad er TikTok for en størrelse? Hvordan får man succes på platformen og hvad skal man finde sig i? Det besluttede jeg mig for at undersøge. Og fire skønne kvinder besluttet sig for at hjælpe mig. &lt;br /&gt;&lt;br /&gt;I studiet var Talia Bro, Hanna Sophia, Johanne Sloth og Julie Skovgaard</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44240280</guid>
+         <pubDate>Wed, 07 Apr 2021 13:34:25 +0000</pubDate>
+         <enclosure length="110146036" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.04.07%20-%20Dirtytalk%2C%20cowboydans%20og%20feminisme%20p%C3%A5%20TikTok.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hvad er TikTok for en størrelse? Hvordan får man succes på platformen og hvad skal man finde sig i? Det besluttede jeg mig for at undersøge. Og fire skønne kvinder besluttet sig for at hjælpe mig. 
 
-I studiet var Talia Bro, Hanna Sophia, Johanne Sloth...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvad er TikTok for en størrelse? Hvordan får man succes på platformen og hvad skal man finde sig i? Det besluttede jeg mig for at undersøge. Og fire skønne kvinder besluttet sig for at hjælpe mig. &lt;br /&gt;&lt;br /&gt;I studiet var Talia Bro, Hanna Sophia, Johanne Sloth og Julie Skovgaard
-   </itunes:summary>
-   <itunes:duration>
-    6885
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Autisme i hverdagen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/autisme-i-hverdagen--44226670
-   </link>
-   <description>
-    For få dage siden var det WorldAutismeawernessday. I den forbindelse havde vi en snak om autisme, hvad er det for en størrelse, og hvordan er det at være autist samt pårørende. Er der plads til at være anderledes i nutidens samfund? &lt;br /&gt;&lt;br /&gt;I studiet var instagrammer Pernille Hebsgaard og medstifter/talsperson for Autisme Ungdom Silke Ena Svare
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44226670
-   </guid>
-   <pubDate>
-    Tue, 06 Apr 2021 10:21:00 +0000
-   </pubDate>
-   <enclosure length="110825220" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44226670/alis_stemme6.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    For få dage siden var det WorldAutismeawernessday. I den forbindelse havde vi en snak om autisme, hvad er det for en størrelse, og hvordan er det at være autist samt pårørende. Er der plads til at være anderledes i nutidens samfund? 
+I studiet var Talia Bro, Hanna Sophia, Johanne Sloth...</itunes:subtitle>
+         <itunes:summary>Hvad er TikTok for en størrelse? Hvordan får man succes på platformen og hvad skal man finde sig i? Det besluttede jeg mig for at undersøge. Og fire skønne kvinder besluttet sig for at hjælpe mig. &lt;br /&gt;&lt;br /&gt;I studiet var Talia Bro, Hanna Sophia, Johanne Sloth og Julie Skovgaard</itunes:summary>
+         <itunes:duration>6885</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Autisme i hverdagen</title>
+         <link>https://www.spreaker.com/episode/autisme-i-hverdagen--44226670</link>
+         <description>For få dage siden var det WorldAutismeawernessday. I den forbindelse havde vi en snak om autisme, hvad er det for en størrelse, og hvordan er det at være autist samt pårørende. Er der plads til at være anderledes i nutidens samfund? &lt;br /&gt;&lt;br /&gt;I studiet var instagrammer Pernille Hebsgaard og medstifter/talsperson for Autisme Ungdom Silke Ena Svare</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44226670</guid>
+         <pubDate>Tue, 06 Apr 2021 10:21:00 +0000</pubDate>
+         <enclosure length="110825220" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.04.06%20-%20Autisme%20i%20hverdagen.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>For få dage siden var det WorldAutismeawernessday. I den forbindelse havde vi en snak om autisme, hvad er det for en størrelse, og hvordan er det at være autist samt pårørende. Er der plads til at være anderledes i nutidens samfund? 
 
-I studiet var...
-   </itunes:subtitle>
-   <itunes:summary>
-    For få dage siden var det WorldAutismeawernessday. I den forbindelse havde vi en snak om autisme, hvad er det for en størrelse, og hvordan er det at være autist samt pårørende. Er der plads til at være anderledes i nutidens samfund? &lt;br /&gt;&lt;br /&gt;I studiet var instagrammer Pernille Hebsgaard og medstifter/talsperson for Autisme Ungdom Silke Ena Svare
-   </itunes:summary>
-   <itunes:duration>
-    6927
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hvilke udfordringer står de unge minoritetsetniske mænd overfor
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hvilke-udfordringer-star-de-unge-minoritetsetniske-maend-overfor--44128322
-   </link>
-   <description>
-    Hvilke udfordringer står de unge minoritetsetniske mænd overfor i 2021? Hvordan står det til med ligestilling, sex, macho-rollen og kan vi gøre det bedre? &lt;br /&gt;&lt;br /&gt;Det er både tricky og dilemmafyldte spørgsmål. Og for at kunne svare på det, har jeg inviteret Firas Mahmoud, Ahmad Mahmoud, Yones Chaouch i studiet. Vi får også et indspark fra Zahraa Al Kaabi.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44128322
-   </guid>
-   <pubDate>
-    Wed, 31 Mar 2021 10:19:18 +0000
-   </pubDate>
-   <enclosure length="108852452" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44128322/alis_stemme31.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hvilke udfordringer står de unge minoritetsetniske mænd overfor i 2021? Hvordan står det til med ligestilling, sex, macho-rollen og kan vi gøre det bedre? 
+I studiet var...</itunes:subtitle>
+         <itunes:summary>For få dage siden var det WorldAutismeawernessday. I den forbindelse havde vi en snak om autisme, hvad er det for en størrelse, og hvordan er det at være autist samt pårørende. Er der plads til at være anderledes i nutidens samfund? &lt;br /&gt;&lt;br /&gt;I studiet var instagrammer Pernille Hebsgaard og medstifter/talsperson for Autisme Ungdom Silke Ena Svare</itunes:summary>
+         <itunes:duration>6927</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hvilke udfordringer står de unge minoritetsetniske mænd overfor</title>
+         <link>https://www.spreaker.com/episode/hvilke-udfordringer-star-de-unge-minoritetsetniske-maend-overfor--44128322</link>
+         <description>Hvilke udfordringer står de unge minoritetsetniske mænd overfor i 2021? Hvordan står det til med ligestilling, sex, macho-rollen og kan vi gøre det bedre? &lt;br /&gt;&lt;br /&gt;Det er både tricky og dilemmafyldte spørgsmål. Og for at kunne svare på det, har jeg inviteret Firas Mahmoud, Ahmad Mahmoud, Yones Chaouch i studiet. Vi får også et indspark fra Zahraa Al Kaabi.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44128322</guid>
+         <pubDate>Wed, 31 Mar 2021 10:19:18 +0000</pubDate>
+         <enclosure length="108852452" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.03.31%20-%20Hvilke%20udfordringer%20st%C3%A5r%20de%20unge%20minoritetsetniske%20m%C3%A6nd%20overfor.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hvilke udfordringer står de unge minoritetsetniske mænd overfor i 2021? Hvordan står det til med ligestilling, sex, macho-rollen og kan vi gøre det bedre? 
 
-Det er både tricky og dilemmafyldte spørgsmål. Og for at kunne svare på det, har jeg inviteret...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvilke udfordringer står de unge minoritetsetniske mænd overfor i 2021? Hvordan står det til med ligestilling, sex, macho-rollen og kan vi gøre det bedre? &lt;br /&gt;&lt;br /&gt;Det er både tricky og dilemmafyldte spørgsmål. Og for at kunne svare på det, har jeg inviteret Firas Mahmoud, Ahmad Mahmoud, Yones Chaouch i studiet. Vi får også et indspark fra Zahraa Al Kaabi.
-   </itunes:summary>
-   <itunes:duration>
-    6804
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hvad skal du når samfundet åbner op igen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hvad-skal-du-nar-samfundet-abner-op-igen--44128102
-   </link>
-   <description>
-    NÅR SAMFUNDET ÅBNER OP IGEN - hvad skal du? &lt;br /&gt;I dette afsnit vil jeg gerne tale om de oplevelser vi savner allermest. &lt;br /&gt;Vi står tæt på en åbning af samfundet. Men hvad gør du, når det hele er muligt igen? Altså hvilken oplevelse/begivenhed glæder du dig til? Personligt savner jeg at nyde en kold en på stadionen, kom til træning og drømmer om at komme på Folkemødet 2021.  I dette afsnit spurgte jeg højt og fik massere af svar. I studiet var Mads Rundstrøm og Hediye Tamiz for, at hjælpe mig med fordøje og læse dem op.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44128102
-   </guid>
-   <pubDate>
-    Mon, 29 Mar 2021 11:59:00 +0000
-   </pubDate>
-   <enclosure length="110257631" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44128102/alis_stemme29.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    NÅR SAMFUNDET ÅBNER OP IGEN - hvad skal du? 
+Det er både tricky og dilemmafyldte spørgsmål. Og for at kunne svare på det, har jeg inviteret...</itunes:subtitle>
+         <itunes:summary>Hvilke udfordringer står de unge minoritetsetniske mænd overfor i 2021? Hvordan står det til med ligestilling, sex, macho-rollen og kan vi gøre det bedre? &lt;br /&gt;&lt;br /&gt;Det er både tricky og dilemmafyldte spørgsmål. Og for at kunne svare på det, har jeg inviteret Firas Mahmoud, Ahmad Mahmoud, Yones Chaouch i studiet. Vi får også et indspark fra Zahraa Al Kaabi.</itunes:summary>
+         <itunes:duration>6804</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hvad skal du når samfundet åbner op igen</title>
+         <link>https://www.spreaker.com/episode/hvad-skal-du-nar-samfundet-abner-op-igen--44128102</link>
+         <description>NÅR SAMFUNDET ÅBNER OP IGEN - hvad skal du? &lt;br /&gt;I dette afsnit vil jeg gerne tale om de oplevelser vi savner allermest. &lt;br /&gt;Vi står tæt på en åbning af samfundet. Men hvad gør du, når det hele er muligt igen? Altså hvilken oplevelse/begivenhed glæder du dig til? Personligt savner jeg at nyde en kold en på stadionen, kom til træning og drømmer om at komme på Folkemødet 2021.  I dette afsnit spurgte jeg højt og fik massere af svar. I studiet var Mads Rundstrøm og Hediye Tamiz for, at hjælpe mig med fordøje og læse dem op.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44128102</guid>
+         <pubDate>Mon, 29 Mar 2021 11:59:00 +0000</pubDate>
+         <enclosure length="110257631" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.03.29%20-%20Hvad%20skal%20du%20n%C3%A5r%20samfundet%20%C3%A5bner%20op%20igen.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>NÅR SAMFUNDET ÅBNER OP IGEN - hvad skal du? 
 I dette afsnit vil jeg gerne tale om de oplevelser vi savner allermest. 
-Vi står tæt på en åbning af samfundet. Men hvad gør du, når det hele er muligt igen? Altså hvilken oplevelse/begivenhed glæder du dig...
-   </itunes:subtitle>
-   <itunes:summary>
-    NÅR SAMFUNDET ÅBNER OP IGEN - hvad skal du? &lt;br /&gt;I dette afsnit vil jeg gerne tale om de oplevelser vi savner allermest. &lt;br /&gt;Vi står tæt på en åbning af samfundet. Men hvad gør du, når det hele er muligt igen? Altså hvilken oplevelse/begivenhed glæder du dig til? Personligt savner jeg at nyde en kold en på stadionen, kom til træning og drømmer om at komme på Folkemødet 2021.  I dette afsnit spurgte jeg højt og fik massere af svar. I studiet var Mads Rundstrøm og Hediye Tamiz for, at hjælpe mig med fordøje og læse dem op.
-   </itunes:summary>
-   <itunes:duration>
-    6892
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Prævention og tinder under corona
-   </title>
-   <link>
-    https://www.spreaker.com/episode/praevention-og-tinder-under-corona--44035504
-   </link>
-   <description>
-    I nat rykker  “Alis stemmer” helt ind i soveværelset!  PRÆVENTION - Hvem har kondomet med? Hvis ansvar er det egentligt? De fleste af os kender det. Vi står og skal have det sjovt, men hvem skal hive det ud af lommen? Den snak tager vi i nat - både de principielle snakke, men også de sjove historier.&lt;br /&gt;&lt;br /&gt;I anden del snakker vi om dating under corona. Hvordan står det egentligt til med dating? Kan det lade sig gøre? Er datingen død under corona, eller har vi fundet nye måder at mødes på?  Den samtale tager jeg med bl.a Nana Harring og Kristoffer Gadeberg.  Og for at gør det mere interessant, så ringer vi en kvinde op midt i en date.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44035504
-   </guid>
-   <pubDate>
-    Wed, 24 Mar 2021 17:02:53 +0000
-   </pubDate>
-   <enclosure length="110402245" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44035504/alis_stemme24.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I nat rykker  “Alis stemmer” helt ind i soveværelset!  PRÆVENTION - Hvem har kondomet med? Hvis ansvar er det egentligt? De fleste af os kender det. Vi står og skal have det sjovt, men hvem skal hive det ud af lommen? Den snak tager vi i nat - både...
-   </itunes:subtitle>
-   <itunes:summary>
-    I nat rykker  “Alis stemmer” helt ind i soveværelset!  PRÆVENTION - Hvem har kondomet med? Hvis ansvar er det egentligt? De fleste af os kender det. Vi står og skal have det sjovt, men hvem skal hive det ud af lommen? Den snak tager vi i nat - både de principielle snakke, men også de sjove historier.&lt;br /&gt;&lt;br /&gt;I anden del snakker vi om dating under corona. Hvordan står det egentligt til med dating? Kan det lade sig gøre? Er datingen død under corona, eller har vi fundet nye måder at mødes på?  Den samtale tager jeg med bl.a Nana Harring og Kristoffer Gadeberg.  Og for at gør det mere interessant, så ringer vi en kvinde op midt i en date.
-   </itunes:summary>
-   <itunes:duration>
-    6901
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    At være mand i 2021
-   </title>
-   <link>
-    https://www.spreaker.com/episode/at-vaere-mand-i-2021--44035033
-   </link>
-   <description>
-    Vi tager en rigtig mandesnak - Om det at være mand i 2021.  Hvad betyder det? Hvordan er det at være mand i dagens samfund? Hvilken udfordringer står vi med og er det stadigvæk fedt, at være en mand?  &lt;br /&gt;&lt;br /&gt;I studiet er Alex Andersen, Lars Luplau, Kasper Søstrøm og Kim Erik Jensen.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44035033
-   </guid>
-   <pubDate>
-    Tue, 23 Mar 2021 16:21:00 +0000
-   </pubDate>
-   <enclosure length="110157739" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44035033/alis_stemme23.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi tager en rigtig mandesnak - Om det at være mand i 2021.  Hvad betyder det? Hvordan er det at være mand i dagens samfund? Hvilken udfordringer står vi med og er det stadigvæk fedt, at være en mand?  
+Vi står tæt på en åbning af samfundet. Men hvad gør du, når det hele er muligt igen? Altså hvilken oplevelse/begivenhed glæder du dig...</itunes:subtitle>
+         <itunes:summary>NÅR SAMFUNDET ÅBNER OP IGEN - hvad skal du? &lt;br /&gt;I dette afsnit vil jeg gerne tale om de oplevelser vi savner allermest. &lt;br /&gt;Vi står tæt på en åbning af samfundet. Men hvad gør du, når det hele er muligt igen? Altså hvilken oplevelse/begivenhed glæder du dig til? Personligt savner jeg at nyde en kold en på stadionen, kom til træning og drømmer om at komme på Folkemødet 2021.  I dette afsnit spurgte jeg højt og fik massere af svar. I studiet var Mads Rundstrøm og Hediye Tamiz for, at hjælpe mig med fordøje og læse dem op.</itunes:summary>
+         <itunes:duration>6892</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Prævention og tinder under corona</title>
+         <link>https://www.spreaker.com/episode/praevention-og-tinder-under-corona--44035504</link>
+         <description>I nat rykker  “Alis stemmer” helt ind i soveværelset!  PRÆVENTION - Hvem har kondomet med? Hvis ansvar er det egentligt? De fleste af os kender det. Vi står og skal have det sjovt, men hvem skal hive det ud af lommen? Den snak tager vi i nat - både de principielle snakke, men også de sjove historier.&lt;br /&gt;&lt;br /&gt;I anden del snakker vi om dating under corona. Hvordan står det egentligt til med dating? Kan det lade sig gøre? Er datingen død under corona, eller har vi fundet nye måder at mødes på?  Den samtale tager jeg med bl.a Nana Harring og Kristoffer Gadeberg.  Og for at gør det mere interessant, så ringer vi en kvinde op midt i en date.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44035504</guid>
+         <pubDate>Wed, 24 Mar 2021 17:02:53 +0000</pubDate>
+         <enclosure length="110402245" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.03.24%20-%20Pr%C3%A6vention%20og%20tinder%20under%20corona.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I nat rykker  “Alis stemmer” helt ind i soveværelset!  PRÆVENTION - Hvem har kondomet med? Hvis ansvar er det egentligt? De fleste af os kender det. Vi står og skal have det sjovt, men hvem skal hive det ud af lommen? Den snak tager vi i nat - både...</itunes:subtitle>
+         <itunes:summary>I nat rykker  “Alis stemmer” helt ind i soveværelset!  PRÆVENTION - Hvem har kondomet med? Hvis ansvar er det egentligt? De fleste af os kender det. Vi står og skal have det sjovt, men hvem skal hive det ud af lommen? Den snak tager vi i nat - både de principielle snakke, men også de sjove historier.&lt;br /&gt;&lt;br /&gt;I anden del snakker vi om dating under corona. Hvordan står det egentligt til med dating? Kan det lade sig gøre? Er datingen død under corona, eller har vi fundet nye måder at mødes på?  Den samtale tager jeg med bl.a Nana Harring og Kristoffer Gadeberg.  Og for at gør det mere interessant, så ringer vi en kvinde op midt i en date.</itunes:summary>
+         <itunes:duration>6901</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>At være mand i 2021</title>
+         <link>https://www.spreaker.com/episode/at-vaere-mand-i-2021--44035033</link>
+         <description>Vi tager en rigtig mandesnak - Om det at være mand i 2021.  Hvad betyder det? Hvordan er det at være mand i dagens samfund? Hvilken udfordringer står vi med og er det stadigvæk fedt, at være en mand?  &lt;br /&gt;&lt;br /&gt;I studiet er Alex Andersen, Lars Luplau, Kasper Søstrøm og Kim Erik Jensen.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44035033</guid>
+         <pubDate>Tue, 23 Mar 2021 16:21:00 +0000</pubDate>
+         <enclosure length="110157739" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.03.23%20-%20At%20v%C3%A6re%20mand%20i%202021.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi tager en rigtig mandesnak - Om det at være mand i 2021.  Hvad betyder det? Hvordan er det at være mand i dagens samfund? Hvilken udfordringer står vi med og er det stadigvæk fedt, at være en mand?  
 
-I studiet er Alex Andersen, Lars Luplau, Kasper...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi tager en rigtig mandesnak - Om det at være mand i 2021.  Hvad betyder det? Hvordan er det at være mand i dagens samfund? Hvilken udfordringer står vi med og er det stadigvæk fedt, at være en mand?  &lt;br /&gt;&lt;br /&gt;I studiet er Alex Andersen, Lars Luplau, Kasper Søstrøm og Kim Erik Jensen.
-   </itunes:summary>
-   <itunes:duration>
-    6885
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Når sorgen rammer eller ensomheden fylder
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nar-sorgen-rammer-eller-ensomheden-fylder--43998482
-   </link>
-   <description>
-    I dette afsnit taler vi om sorg, at miste en, der står én nær, og hvordan ensomhed kan ramme én uden at man har set det komme. Er der i nutidens samfund tid og plads til at lade sorgen fylde? &lt;br /&gt;&lt;br /&gt;Det taler jeg om med mine gæstemedværter, Cecilie Winther Kristensen og Sofie Mouritsen Kraft. Sammen kommer vi igennem en masse historier, beretninger og tanker, der får os til at reflektere over, hvad sorg og ensomhed er. Udover vores egne historier, ringer jeg et par lyttere op, som også gerne vil dele deres tanker.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43998482
-   </guid>
-   <pubDate>
-    Mon, 22 Mar 2021 11:13:39 +0000
-   </pubDate>
-   <enclosure length="106832456" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43998482/alis_stemme22.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I dette afsnit taler vi om sorg, at miste en, der står én nær, og hvordan ensomhed kan ramme én uden at man har set det komme. Er der i nutidens samfund tid og plads til at lade sorgen fylde? 
+I studiet er Alex Andersen, Lars Luplau, Kasper...</itunes:subtitle>
+         <itunes:summary>Vi tager en rigtig mandesnak - Om det at være mand i 2021.  Hvad betyder det? Hvordan er det at være mand i dagens samfund? Hvilken udfordringer står vi med og er det stadigvæk fedt, at være en mand?  &lt;br /&gt;&lt;br /&gt;I studiet er Alex Andersen, Lars Luplau, Kasper Søstrøm og Kim Erik Jensen.</itunes:summary>
+         <itunes:duration>6885</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Når sorgen rammer eller ensomheden fylder</title>
+         <link>https://www.spreaker.com/episode/nar-sorgen-rammer-eller-ensomheden-fylder--43998482</link>
+         <description>I dette afsnit taler vi om sorg, at miste en, der står én nær, og hvordan ensomhed kan ramme én uden at man har set det komme. Er der i nutidens samfund tid og plads til at lade sorgen fylde? &lt;br /&gt;&lt;br /&gt;Det taler jeg om med mine gæstemedværter, Cecilie Winther Kristensen og Sofie Mouritsen Kraft. Sammen kommer vi igennem en masse historier, beretninger og tanker, der får os til at reflektere over, hvad sorg og ensomhed er. Udover vores egne historier, ringer jeg et par lyttere op, som også gerne vil dele deres tanker.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43998482</guid>
+         <pubDate>Mon, 22 Mar 2021 11:13:39 +0000</pubDate>
+         <enclosure length="106832456" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.03.22%20-%20N%C3%A5r%20sorgen%20rammer%20eller%20ensomheden%20fylder.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I dette afsnit taler vi om sorg, at miste en, der står én nær, og hvordan ensomhed kan ramme én uden at man har set det komme. Er der i nutidens samfund tid og plads til at lade sorgen fylde? 
 
-Det taler jeg om med mine gæstemedværter, Cecilie Winther...
-   </itunes:subtitle>
-   <itunes:summary>
-    I dette afsnit taler vi om sorg, at miste en, der står én nær, og hvordan ensomhed kan ramme én uden at man har set det komme. Er der i nutidens samfund tid og plads til at lade sorgen fylde? &lt;br /&gt;&lt;br /&gt;Det taler jeg om med mine gæstemedværter, Cecilie Winther Kristensen og Sofie Mouritsen Kraft. Sammen kommer vi igennem en masse historier, beretninger og tanker, der får os til at reflektere over, hvad sorg og ensomhed er. Udover vores egne historier, ringer jeg et par lyttere op, som også gerne vil dele deres tanker.
-   </itunes:summary>
-   <itunes:duration>
-    6678
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Bodyshaming i det minoritetsetniske miljø og digital hate
-   </title>
-   <link>
-    https://www.spreaker.com/episode/bodyshaming-i-det-minoritetsetniske-miljo-og-digital-hate--43931817
-   </link>
-   <description>
-    Body shaming og konsekvenser ved at deltage i den offentlige debat.&lt;br /&gt;Hvad er body shaming og hvordan kan unge bryde med tabuet? Er det samme problemstilling i alle miljøer? Det vil Sarah Abbas, frivillig i Mino Ung Aarhus fortælle mere om.&lt;br /&gt;&lt;br /&gt;I anden time skal vi snakke om hate-beskeder. Et udbredt problem, hvis man deltager i den offentlige debat. Historiestuderende og klummeskribent hos Netavisen Pio Adam El-Matari, vil fortælle om sine erfaringer. Vi ringer også op til et par andre, som har valgt at dele deres historier.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43931817
-   </guid>
-   <pubDate>
-    Wed, 17 Mar 2021 11:34:16 +0000
-   </pubDate>
-   <enclosure length="110187414" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43931817/alis_stemme3.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Body shaming og konsekvenser ved at deltage i den offentlige debat.
+Det taler jeg om med mine gæstemedværter, Cecilie Winther...</itunes:subtitle>
+         <itunes:summary>I dette afsnit taler vi om sorg, at miste en, der står én nær, og hvordan ensomhed kan ramme én uden at man har set det komme. Er der i nutidens samfund tid og plads til at lade sorgen fylde? &lt;br /&gt;&lt;br /&gt;Det taler jeg om med mine gæstemedværter, Cecilie Winther Kristensen og Sofie Mouritsen Kraft. Sammen kommer vi igennem en masse historier, beretninger og tanker, der får os til at reflektere over, hvad sorg og ensomhed er. Udover vores egne historier, ringer jeg et par lyttere op, som også gerne vil dele deres tanker.</itunes:summary>
+         <itunes:duration>6678</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Bodyshaming i det minoritetsetniske miljø og digital hate</title>
+         <link>https://www.spreaker.com/episode/bodyshaming-i-det-minoritetsetniske-miljo-og-digital-hate--43931817</link>
+         <description>Body shaming og konsekvenser ved at deltage i den offentlige debat.&lt;br /&gt;Hvad er body shaming og hvordan kan unge bryde med tabuet? Er det samme problemstilling i alle miljøer? Det vil Sarah Abbas, frivillig i Mino Ung Aarhus fortælle mere om.&lt;br /&gt;&lt;br /&gt;I anden time skal vi snakke om hate-beskeder. Et udbredt problem, hvis man deltager i den offentlige debat. Historiestuderende og klummeskribent hos Netavisen Pio Adam El-Matari, vil fortælle om sine erfaringer. Vi ringer også op til et par andre, som har valgt at dele deres historier.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43931817</guid>
+         <pubDate>Wed, 17 Mar 2021 11:34:16 +0000</pubDate>
+         <enclosure length="110187414" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.03.17%20-%20Bodyshaming%20i%20det%20minoritetsetniske%20milj%C3%B8%20og%20digital%20hate.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Body shaming og konsekvenser ved at deltage i den offentlige debat.
 Hvad er body shaming og hvordan kan unge bryde med tabuet? Er det samme problemstilling i alle miljøer? Det vil Sarah Abbas, frivillig i Mino Ung Aarhus fortælle mere om.
 
-I anden...
-   </itunes:subtitle>
-   <itunes:summary>
-    Body shaming og konsekvenser ved at deltage i den offentlige debat.&lt;br /&gt;Hvad er body shaming og hvordan kan unge bryde med tabuet? Er det samme problemstilling i alle miljøer? Det vil Sarah Abbas, frivillig i Mino Ung Aarhus fortælle mere om.&lt;br /&gt;&lt;br /&gt;I anden time skal vi snakke om hate-beskeder. Et udbredt problem, hvis man deltager i den offentlige debat. Historiestuderende og klummeskribent hos Netavisen Pio Adam El-Matari, vil fortælle om sine erfaringer. Vi ringer også op til et par andre, som har valgt at dele deres historier.
-   </itunes:summary>
-   <itunes:duration>
-    6887
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kroniske smerter, bristede drømme og utrygheden 2.0
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kroniske-smerter-bristede-dromme-og-utrygheden-2-0--43914451
-   </link>
-   <description>
-    Rigtig mange danskere lider af kroniske smerter, som de ikke "bare" kan få en diagnose for. Mange af dem kæmper en kamp, for at få anerkendt deres smerter - og dermed komme tættere på, hvad det næste skridt skal være. Det er noget mine to gæster Lotte Kofoed og Hediye Temiz kender til. De vil fortælle deres historie. &lt;br /&gt;&lt;br /&gt;Og så genbesøger vi utrygheden blandt kvinder. Selvom vi tog emnet op i går, så har jeg modtaget så mange historier og tanker, at det vil være forkert ikke at dele dem. Derfor tager vi en time mere ift. emnet og denne gang er der mænd, som bidrager til samtalen.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43914451
-   </guid>
-   <pubDate>
-    Tue, 16 Mar 2021 09:49:41 +0000
-   </pubDate>
-   <enclosure length="110295666" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43914451/alis_stemme2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Rigtig mange danskere lider af kroniske smerter, som de ikke "bare" kan få en diagnose for. Mange af dem kæmper en kamp, for at få anerkendt deres smerter - og dermed komme tættere på, hvad det næste skridt skal være. Det er noget mine to gæster...
-   </itunes:subtitle>
-   <itunes:summary>
-    Rigtig mange danskere lider af kroniske smerter, som de ikke "bare" kan få en diagnose for. Mange af dem kæmper en kamp, for at få anerkendt deres smerter - og dermed komme tættere på, hvad det næste skridt skal være. Det er noget mine to gæster Lotte Kofoed og Hediye Temiz kender til. De vil fortælle deres historie. &lt;br /&gt;&lt;br /&gt;Og så genbesøger vi utrygheden blandt kvinder. Selvom vi tog emnet op i går, så har jeg modtaget så mange historier og tanker, at det vil være forkert ikke at dele dem. Derfor tager vi en time mere ift. emnet og denne gang er der mænd, som bidrager til samtalen.
-   </itunes:summary>
-   <itunes:duration>
-    6894
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Utryghed blandt kvinder i natten og sugardating kultur
-   </title>
-   <link>
-    https://www.spreaker.com/episode/utryghed-blandt-kvinder-i-natten-og-sugardating-kultur--43897944
-   </link>
-   <description>
-    Utryghed blandt kvinder: Føler du dig som kvinde utryg om natten? Tager du dine forbehold, eller undgår du helt at gå alene, når turen går hjem fra byen eller veninder. I så fald hvilke forbehold? Vi taler om denne utryghed. &lt;br /&gt;&lt;br /&gt;I anden time står den på sugardating blandt unge. For med al respekt - er det ikke lidt langt ude at kalde det for “sugerdating”, når det handler om børn helt ned til 12-års alderen?&lt;br /&gt;&lt;br /&gt;Aftens deltager: Camilla Søe, Katarina Udengaard og Nat Fogel. &lt;br /&gt;&lt;br /&gt;Vært: Ali Aminali
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43897944
-   </guid>
-   <pubDate>
-    Mon, 15 Mar 2021 15:04:37 +0000
-   </pubDate>
-   <enclosure length="110296083" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43897944/ali_stemme1.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Utryghed blandt kvinder: Føler du dig som kvinde utryg om natten? Tager du dine forbehold, eller undgår du helt at gå alene, når turen går hjem fra byen eller veninder. I så fald hvilke forbehold? Vi taler om denne utryghed. 
+I anden...</itunes:subtitle>
+         <itunes:summary>Body shaming og konsekvenser ved at deltage i den offentlige debat.&lt;br /&gt;Hvad er body shaming og hvordan kan unge bryde med tabuet? Er det samme problemstilling i alle miljøer? Det vil Sarah Abbas, frivillig i Mino Ung Aarhus fortælle mere om.&lt;br /&gt;&lt;br /&gt;I anden time skal vi snakke om hate-beskeder. Et udbredt problem, hvis man deltager i den offentlige debat. Historiestuderende og klummeskribent hos Netavisen Pio Adam El-Matari, vil fortælle om sine erfaringer. Vi ringer også op til et par andre, som har valgt at dele deres historier.</itunes:summary>
+         <itunes:duration>6887</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kroniske smerter, bristede drømme og utrygheden 2.0</title>
+         <link>https://www.spreaker.com/episode/kroniske-smerter-bristede-dromme-og-utrygheden-2-0--43914451</link>
+         <description>Rigtig mange danskere lider af kroniske smerter, som de ikke "bare" kan få en diagnose for. Mange af dem kæmper en kamp, for at få anerkendt deres smerter - og dermed komme tættere på, hvad det næste skridt skal være. Det er noget mine to gæster Lotte Kofoed og Hediye Temiz kender til. De vil fortælle deres historie. &lt;br /&gt;&lt;br /&gt;Og så genbesøger vi utrygheden blandt kvinder. Selvom vi tog emnet op i går, så har jeg modtaget så mange historier og tanker, at det vil være forkert ikke at dele dem. Derfor tager vi en time mere ift. emnet og denne gang er der mænd, som bidrager til samtalen.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43914451</guid>
+         <pubDate>Tue, 16 Mar 2021 09:49:41 +0000</pubDate>
+         <enclosure length="110295666" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.03.16%20-%20Kroniske%20smerter%2C%20bristede%20dr%C3%B8mme%20og%20utrygheden%202.0.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Rigtig mange danskere lider af kroniske smerter, som de ikke "bare" kan få en diagnose for. Mange af dem kæmper en kamp, for at få anerkendt deres smerter - og dermed komme tættere på, hvad det næste skridt skal være. Det er noget mine to gæster...</itunes:subtitle>
+         <itunes:summary>Rigtig mange danskere lider af kroniske smerter, som de ikke "bare" kan få en diagnose for. Mange af dem kæmper en kamp, for at få anerkendt deres smerter - og dermed komme tættere på, hvad det næste skridt skal være. Det er noget mine to gæster Lotte Kofoed og Hediye Temiz kender til. De vil fortælle deres historie. &lt;br /&gt;&lt;br /&gt;Og så genbesøger vi utrygheden blandt kvinder. Selvom vi tog emnet op i går, så har jeg modtaget så mange historier og tanker, at det vil være forkert ikke at dele dem. Derfor tager vi en time mere ift. emnet og denne gang er der mænd, som bidrager til samtalen.</itunes:summary>
+         <itunes:duration>6894</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Utryghed blandt kvinder i natten og sugardating kultur</title>
+         <link>https://www.spreaker.com/episode/utryghed-blandt-kvinder-i-natten-og-sugardating-kultur--43897944</link>
+         <description>Utryghed blandt kvinder: Føler du dig som kvinde utryg om natten? Tager du dine forbehold, eller undgår du helt at gå alene, når turen går hjem fra byen eller veninder. I så fald hvilke forbehold? Vi taler om denne utryghed. &lt;br /&gt;&lt;br /&gt;I anden time står den på sugardating blandt unge. For med al respekt - er det ikke lidt langt ude at kalde det for “sugerdating”, når det handler om børn helt ned til 12-års alderen?&lt;br /&gt;&lt;br /&gt;Aftens deltager: Camilla Søe, Katarina Udengaard og Nat Fogel. &lt;br /&gt;&lt;br /&gt;Vært: Ali Aminali</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43897944</guid>
+         <pubDate>Mon, 15 Mar 2021 15:04:37 +0000</pubDate>
+         <enclosure length="110296083" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.03.15%20-%20Utryghed%20blandt%20kvinder%20i%20natten%20og%20sugardating%20kultur.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Utryghed blandt kvinder: Føler du dig som kvinde utryg om natten? Tager du dine forbehold, eller undgår du helt at gå alene, når turen går hjem fra byen eller veninder. I så fald hvilke forbehold? Vi taler om denne utryghed. 
 
-I anden time står den på...
-   </itunes:subtitle>
-   <itunes:summary>
-    Utryghed blandt kvinder: Føler du dig som kvinde utryg om natten? Tager du dine forbehold, eller undgår du helt at gå alene, når turen går hjem fra byen eller veninder. I så fald hvilke forbehold? Vi taler om denne utryghed. &lt;br /&gt;&lt;br /&gt;I anden time står den på sugardating blandt unge. For med al respekt - er det ikke lidt langt ude at kalde det for “sugerdating”, når det handler om børn helt ned til 12-års alderen?&lt;br /&gt;&lt;br /&gt;Aftens deltager: Camilla Søe, Katarina Udengaard og Nat Fogel. &lt;br /&gt;&lt;br /&gt;Vært: Ali Aminali
-   </itunes:summary>
-   <itunes:duration>
-    6894
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Trailer Alis Stemmer
-   </title>
-   <link>
-    https://www.spreaker.com/episode/trailer-alis-stemmer--43825536
-   </link>
-   <description>
-    Corona-restriktioner, nedlukningen af skoler, manglen af samvær med venner og bekendte har fremtvunget&lt;br /&gt;identitetskriser, angst, sorg og ængstelighed som aldrig før. Emner er der nok at tage fat om. Og det er endda bare&lt;br /&gt;dem, der er opstået i corona-tiden. Dertil kommer alle hverdagsproblemerne; kærestersorger, ensomhed, angst, tankemylder eller bare &lt;br /&gt;lysten til at snakke ud. Dem vi alle kender til. Ali Aminali er LOUDs stemme i natten, som lytter, taler og invitere natteravnene ind i studiet.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43825536
-   </guid>
-   <pubDate>
-    Wed, 10 Mar 2021 13:35:19 +0000
-   </pubDate>
-   <enclosure length="685444" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43825536/zoom0009_tr13.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Corona-restriktioner, nedlukningen af skoler, manglen af samvær med venner og bekendte har fremtvunget
+I anden time står den på...</itunes:subtitle>
+         <itunes:summary>Utryghed blandt kvinder: Føler du dig som kvinde utryg om natten? Tager du dine forbehold, eller undgår du helt at gå alene, når turen går hjem fra byen eller veninder. I så fald hvilke forbehold? Vi taler om denne utryghed. &lt;br /&gt;&lt;br /&gt;I anden time står den på sugardating blandt unge. For med al respekt - er det ikke lidt langt ude at kalde det for “sugerdating”, når det handler om børn helt ned til 12-års alderen?&lt;br /&gt;&lt;br /&gt;Aftens deltager: Camilla Søe, Katarina Udengaard og Nat Fogel. &lt;br /&gt;&lt;br /&gt;Vært: Ali Aminali</itunes:summary>
+         <itunes:duration>6894</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Trailer Alis Stemmer</title>
+         <link>https://www.spreaker.com/episode/trailer-alis-stemmer--43825536</link>
+         <description>Corona-restriktioner, nedlukningen af skoler, manglen af samvær med venner og bekendte har fremtvunget&lt;br /&gt;identitetskriser, angst, sorg og ængstelighed som aldrig før. Emner er der nok at tage fat om. Og det er endda bare&lt;br /&gt;dem, der er opstået i corona-tiden. Dertil kommer alle hverdagsproblemerne; kærestersorger, ensomhed, angst, tankemylder eller bare &lt;br /&gt;lysten til at snakke ud. Dem vi alle kender til. Ali Aminali er LOUDs stemme i natten, som lytter, taler og invitere natteravnene ind i studiet.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43825536</guid>
+         <pubDate>Wed, 10 Mar 2021 13:35:19 +0000</pubDate>
+         <enclosure length="685444" type="audio/mpeg" url="https://archive.org/download/alis_stemmer/Alis%20Stemmer/2021.03.10%20-%20Trailer%20Alis%20Stemmer.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Corona-restriktioner, nedlukningen af skoler, manglen af samvær med venner og bekendte har fremtvunget
 identitetskriser, angst, sorg og ængstelighed som aldrig før. Emner er der nok at tage fat om. Og det er endda bare
-dem, der er opstået i...
-   </itunes:subtitle>
-   <itunes:summary>
-    Corona-restriktioner, nedlukningen af skoler, manglen af samvær med venner og bekendte har fremtvunget&lt;br /&gt;identitetskriser, angst, sorg og ængstelighed som aldrig før. Emner er der nok at tage fat om. Og det er endda bare&lt;br /&gt;dem, der er opstået i corona-tiden. Dertil kommer alle hverdagsproblemerne; kærestersorger, ensomhed, angst, tankemylder eller bare &lt;br /&gt;lysten til at snakke ud. Dem vi alle kender til. Ali Aminali er LOUDs stemme i natten, som lytter, taler og invitere natteravnene ind i studiet.
-   </itunes:summary>
-   <itunes:duration>
-    43
-   </itunes:duration>
-   <itunes:keywords>
-    aktualitet,natteliv,samfund,søvnløshed
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg"/>
-   <itunes:episodeType>
-    trailer
-   </itunes:episodeType>
-  </item>
- </channel>
+dem, der er opstået i...</itunes:subtitle>
+         <itunes:summary>Corona-restriktioner, nedlukningen af skoler, manglen af samvær med venner og bekendte har fremtvunget&lt;br /&gt;identitetskriser, angst, sorg og ængstelighed som aldrig før. Emner er der nok at tage fat om. Og det er endda bare&lt;br /&gt;dem, der er opstået i corona-tiden. Dertil kommer alle hverdagsproblemerne; kærestersorger, ensomhed, angst, tankemylder eller bare &lt;br /&gt;lysten til at snakke ud. Dem vi alle kender til. Ali Aminali er LOUDs stemme i natten, som lytter, taler og invitere natteravnene ind i studiet.</itunes:summary>
+         <itunes:duration>43</itunes:duration>
+         <itunes:keywords>aktualitet,natteliv,samfund,søvnløshed</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e094f66e9d1d08b1016d9d87365a332e.jpg" />
+         <itunes:episodeType>trailer</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

@@ -1,473 +1,195 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Den dybe tallerken
-  </title>
-  <link>
-   https://loud.land/podcast/den-dybe-tallerken
-  </link>
-  <description>
-   I Den dybe tallerken går vi tæt på menneskets evne til at tænke nyt, få gode ideer og skabe opfindelser, der grundlæggende har ændret menneskehedens udvikling og liv. Vi bliver klogere på de opfindelserne og hører om, hvordan de blev til, hvordan de forandrede deres samtid, hvordan de ændrede menneskehedens udvikling, og hvad de betyder i dag. &lt;br /&gt;&lt;br /&gt;Produceret af Kiss Content for Vores Tid og LOUD.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4955445/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   Vores Tid &amp; LOUD
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg
-   </url>
-   <title>
-    Den dybe tallerken
-   </title>
-   <link>
-    https://loud.land/podcast/den-dybe-tallerken
-   </link>
-  </image>
-  <lastBuildDate>
-   Fri, 16 Feb 2024 20:21:25 +0000
-  </lastBuildDate>
-  <itunes:author>
-   Vores Tid &amp; LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg"/>
-  <itunes:subtitle>
-   Vi går tæt på menneskets evne til at tænke nyt, få gode ideer og skabe opfindelser, der grundlæggende har ændret menneskehedens udvikling og liv.
-  </itunes:subtitle>
-  <itunes:summary>
-   I Den dybe tallerken går vi tæt på menneskets evne til at tænke nyt, få gode ideer og skabe opfindelser, der grundlæggende har ændret menneskehedens udvikling og liv. Vi bliver klogere på de opfindelserne og hører om, hvordan de blev til, hvordan de forandrede deres samtid, hvordan de ændrede menneskehedens udvikling, og hvad de betyder i dag. &lt;br /&gt;&lt;br /&gt;Produceret af Kiss Content for Vores Tid og LOUD.
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    10. Penge
-   </title>
-   <link>
-    https://www.spreaker.com/episode/10-penge--46546118
-   </link>
-   <description>
-    Først skabte Gud mennesket, dagen efter opfandt mennesket selv penge. Sådan var det vist ikke helt, men evnen til at betale og handle har næsten altid været der. Men hvor og hvorfor blev penge opfundet, og hvilken betydning har det haft? Få opfindelser har så kontinuerligt præget vores liv fra oldtiden til i dag. Gæster er Michael Märcher, vurderingssagkyndig v. Bruun Rasmussen (Tidl. Nationalbanken og Nationalmuseet) og Jakob Skaaning, cryptotraider.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/46546118
-   </guid>
-   <pubDate>
-    Wed, 29 Sep 2021 04:00:13 +0000
-   </pubDate>
-   <enclosure length="26701366" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46546118/10_penge.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Først skabte Gud mennesket, dagen efter opfandt mennesket selv penge. Sådan var det vist ikke helt, men evnen til at betale og handle har næsten altid været der. Men hvor og hvorfor blev penge opfundet, og hvilken betydning har det haft? Få...
-   </itunes:subtitle>
-   <itunes:summary>
-    Først skabte Gud mennesket, dagen efter opfandt mennesket selv penge. Sådan var det vist ikke helt, men evnen til at betale og handle har næsten altid været der. Men hvor og hvorfor blev penge opfundet, og hvilken betydning har det haft? Få opfindelser har så kontinuerligt præget vores liv fra oldtiden til i dag. Gæster er Michael Märcher, vurderingssagkyndig v. Bruun Rasmussen (Tidl. Nationalbanken og Nationalmuseet) og Jakob Skaaning, cryptotraider.
-   </itunes:summary>
-   <itunes:duration>
-    1669
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    9. Gensplejsning og podning
-   </title>
-   <link>
-    https://www.spreaker.com/episode/9-gensplejsning-og-podning--46546117
-   </link>
-   <description>
-    Evnen til at splejse gener er måske den, der vil forandre vores historie mest de næste 100 år - men hvorfor? Og hvad er historien og forhistorien om en opfindelse, der først nu grundlæggende er ved at forandre vores liv? Genteknologien er allerede nu ved at løse overbefolkningen, den kan helbredde sygdomme og måske skal vi ikke være så bange for den. Gæster er Søren Johannes Sørensen, professor i mikrobiologi v. Københavns Universitet og naturvejleder Karsten Hansen.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/46546117
-   </guid>
-   <pubDate>
-    Wed, 22 Sep 2021 04:00:02 +0000
-   </pubDate>
-   <enclosure length="26475250" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46546117/9_podning.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Evnen til at splejse gener er måske den, der vil forandre vores historie mest de næste 100 år - men hvorfor? Og hvad er historien og forhistorien om en opfindelse, der først nu grundlæggende er ved at forandre vores liv? Genteknologien er allerede nu...
-   </itunes:subtitle>
-   <itunes:summary>
-    Evnen til at splejse gener er måske den, der vil forandre vores historie mest de næste 100 år - men hvorfor? Og hvad er historien og forhistorien om en opfindelse, der først nu grundlæggende er ved at forandre vores liv? Genteknologien er allerede nu ved at løse overbefolkningen, den kan helbredde sygdomme og måske skal vi ikke være så bange for den. Gæster er Søren Johannes Sørensen, professor i mikrobiologi v. Københavns Universitet og naturvejleder Karsten Hansen.
-   </itunes:summary>
-   <itunes:duration>
-    1655
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    8. Batteriet
-   </title>
-   <link>
-    https://www.spreaker.com/episode/8-batteriet--46496064
-   </link>
-   <description>
-    Klimakrisen vil definere vores fremtid. Hvis den skal løses, er vi afhængige af batteriet. Men hvad er historien om det, der fik radioen til at spille og bilerne til at starte og forhåbentlig skal gøre verden grøn og ren? Vi går på jagt i fortiden og kigger ind i fremtiden, når vi fortæller historien om batteriet. Gæster er professor ved DTU Tejs Vegge og post doc og forsker ved DTU, Rune Kristensen Brostrup.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/46496064
-   </guid>
-   <pubDate>
-    Wed, 15 Sep 2021 04:00:15 +0000
-   </pubDate>
-   <enclosure length="26399599" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46496064/8_batteriet.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Klimakrisen vil definere vores fremtid. Hvis den skal løses, er vi afhængige af batteriet. Men hvad er historien om det, der fik radioen til at spille og bilerne til at starte og forhåbentlig skal gøre verden grøn og ren? Vi går på jagt i fortiden og...
-   </itunes:subtitle>
-   <itunes:summary>
-    Klimakrisen vil definere vores fremtid. Hvis den skal løses, er vi afhængige af batteriet. Men hvad er historien om det, der fik radioen til at spille og bilerne til at starte og forhåbentlig skal gøre verden grøn og ren? Vi går på jagt i fortiden og kigger ind i fremtiden, når vi fortæller historien om batteriet. Gæster er professor ved DTU Tejs Vegge og post doc og forsker ved DTU, Rune Kristensen Brostrup.
-   </itunes:summary>
-   <itunes:duration>
-    1650
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    7. Papir
-   </title>
-   <link>
-    https://www.spreaker.com/episode/7-papir--46411339
-   </link>
-   <description>
-    I dag er alt stort set digitaliseret. Mange læser e-bøger og netaviser. Men man skal ikke undervurdere papirets betydning. Evnen til at trykke og på den måde sprede information var en kæmpe katalysator for vores samfunds historiske udvikling. Og så er de altså bare noget specielt ved at sidde noget, der er trykt mellem hænderne. I dette program dykker vi ned i papirets historie. &lt;br /&gt;&lt;br /&gt;Gæsterne: Ingelise Nielsen, lektor ved Kunstakademiets Konservatorskole og Line Jensen, kunstner og forfatter.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/46411339
-   </guid>
-   <pubDate>
-    Wed, 08 Sep 2021 04:00:08 +0000
-   </pubDate>
-   <enclosure length="26546721" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46411339/7_papir.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I dag er alt stort set digitaliseret. Mange læser e-bøger og netaviser. Men man skal ikke undervurdere papirets betydning. Evnen til at trykke og på den måde sprede information var en kæmpe katalysator for vores samfunds historiske udvikling. Og så er...
-   </itunes:subtitle>
-   <itunes:summary>
-    I dag er alt stort set digitaliseret. Mange læser e-bøger og netaviser. Men man skal ikke undervurdere papirets betydning. Evnen til at trykke og på den måde sprede information var en kæmpe katalysator for vores samfunds historiske udvikling. Og så er de altså bare noget specielt ved at sidde noget, der er trykt mellem hænderne. I dette program dykker vi ned i papirets historie. &lt;br /&gt;&lt;br /&gt;Gæsterne: Ingelise Nielsen, lektor ved Kunstakademiets Konservatorskole og Line Jensen, kunstner og forfatter.
-   </itunes:summary>
-   <itunes:duration>
-    1660
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    6. Smartphone
-   </title>
-   <link>
-    https://www.spreaker.com/episode/6-smartphone--46311957
-   </link>
-   <description>
-    I 2007 præsenterede Steve Jobs den første iPhone. Dermed startede en revolution, som i dag har gjort smartphonen til en integreret del af vores liv. Det er for mange blevet den vi siger godmorgen og godnat til. Vi bruger den til alt, og den har for alvor gjort mennesket mobilt. Få opfindelser har på så kort tid forandret verden. Men hvordan blev den til, og hvorfor er det egentlig, at den fuldstændig har forandret menneskets liv? Medvirkende er Martin Gerster Johansen, udstillingschef ved Enigma - Museum for post, tele og kommunikation) og Astrid Thorsen, direktør i eget medierådgivningsbureau.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/46311957
-   </guid>
-   <pubDate>
-    Wed, 01 Sep 2021 04:00:07 +0000
-   </pubDate>
-   <enclosure length="27163211" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46311957/6_smartphone.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I 2007 præsenterede Steve Jobs den første iPhone. Dermed startede en revolution, som i dag har gjort smartphonen til en integreret del af vores liv. Det er for mange blevet den vi siger godmorgen og godnat til. Vi bruger den til alt, og den har for...
-   </itunes:subtitle>
-   <itunes:summary>
-    I 2007 præsenterede Steve Jobs den første iPhone. Dermed startede en revolution, som i dag har gjort smartphonen til en integreret del af vores liv. Det er for mange blevet den vi siger godmorgen og godnat til. Vi bruger den til alt, og den har for alvor gjort mennesket mobilt. Få opfindelser har på så kort tid forandret verden. Men hvordan blev den til, og hvorfor er det egentlig, at den fuldstændig har forandret menneskets liv? Medvirkende er Martin Gerster Johansen, udstillingschef ved Enigma - Museum for post, tele og kommunikation) og Astrid Thorsen, direktør i eget medierådgivningsbureau.
-   </itunes:summary>
-   <itunes:duration>
-    1698
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    5. Tandbørsten
-   </title>
-   <link>
-    https://www.spreaker.com/episode/5-tandborsten--46215834
-   </link>
-   <description>
-    Tandbørstning kan siges at være morgen- og aften ritualet over dem alle. Men at kunne beholde sine tænder hele livet igennem er fra naturens hånd ikke givet. Her bliver du klogere på, hvordan vi før i tiden forsøgte at passe tænderne, fra smedens tang til grødomslag. Frem for alt fortælles historien om opfindelsen af tandbørsten og hvordan den grundlæggende har forandret vores liv. Gæster er Palle Holmstrup, professor v. Tandlægeskolen og Specialtandlæge i kæbekirurgi, og Liselotte Olsen, indehaver af Tandkunsten Østerbro.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/46215834
-   </guid>
-   <pubDate>
-    Wed, 25 Aug 2021 04:00:17 +0000
-   </pubDate>
-   <enclosure length="26598966" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46215834/5_tandb_rsten.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Tandbørstning kan siges at være morgen- og aften ritualet over dem alle. Men at kunne beholde sine tænder hele livet igennem er fra naturens hånd ikke givet. Her bliver du klogere på, hvordan vi før i tiden forsøgte at passe tænderne, fra smedens tang...
-   </itunes:subtitle>
-   <itunes:summary>
-    Tandbørstning kan siges at være morgen- og aften ritualet over dem alle. Men at kunne beholde sine tænder hele livet igennem er fra naturens hånd ikke givet. Her bliver du klogere på, hvordan vi før i tiden forsøgte at passe tænderne, fra smedens tang til grødomslag. Frem for alt fortælles historien om opfindelsen af tandbørsten og hvordan den grundlæggende har forandret vores liv. Gæster er Palle Holmstrup, professor v. Tandlægeskolen og Specialtandlæge i kæbekirurgi, og Liselotte Olsen, indehaver af Tandkunsten Østerbro.
-   </itunes:summary>
-   <itunes:duration>
-    1663
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    4. Plastik
-   </title>
-   <link>
-    https://www.spreaker.com/episode/4-plastik--46125247
-   </link>
-   <description>
-    Plastik er et omdiskuteret emne, men ikke desto mindre er materialet enormt vigtig for måden vi lever på i dag. Plastik har revolutioneret mange ting, og vi udvikler stadig nye måder at bruge det på. Men at plastik kan være revolutionerende er ikke noget nyt. I dette afsnit bliver du klogere på, hvordan billardkugler og elefant-udryddelse, 2. Verdenskrig og ulykker i laboratoriet danner basis for Tupperware, sygehusudstyr og 3D-printede cykelhjelme. Gæsterne i dette afsnit er Yvonne Shashoua, forsker i plastiknedbrydning v. Nationalmuseet og Jesper og Susanne Damvig, Damvig 3D.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/46125247
-   </guid>
-   <pubDate>
-    Wed, 18 Aug 2021 04:00:06 +0000
-   </pubDate>
-   <enclosure length="26501999" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46125247/4_plastic.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Plastik er et omdiskuteret emne, men ikke desto mindre er materialet enormt vigtig for måden vi lever på i dag. Plastik har revolutioneret mange ting, og vi udvikler stadig nye måder at bruge det på. Men at plastik kan være revolutionerende er ikke...
-   </itunes:subtitle>
-   <itunes:summary>
-    Plastik er et omdiskuteret emne, men ikke desto mindre er materialet enormt vigtig for måden vi lever på i dag. Plastik har revolutioneret mange ting, og vi udvikler stadig nye måder at bruge det på. Men at plastik kan være revolutionerende er ikke noget nyt. I dette afsnit bliver du klogere på, hvordan billardkugler og elefant-udryddelse, 2. Verdenskrig og ulykker i laboratoriet danner basis for Tupperware, sygehusudstyr og 3D-printede cykelhjelme. Gæsterne i dette afsnit er Yvonne Shashoua, forsker i plastiknedbrydning v. Nationalmuseet og Jesper og Susanne Damvig, Damvig 3D.
-   </itunes:summary>
-   <itunes:duration>
-    1657
-   </itunes:duration>
-   <itunes:keywords>
-    opfindelse,opfindelser,plasticforurening,plastikforureing,videnskab
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    3. Sanitet
-   </title>
-   <link>
-    https://www.spreaker.com/episode/3-sanitet--46024293
-   </link>
-   <description>
-    Hver gang du skyller ud i toilettet, benytter du dig faktisk af den vigtigste medicinske opfindelse i verdenshistorien - nemlig kloakering. Men vi skal ikke mere end 200 år tilbage, før stank og afføring i gaderne er en del af hverdagen. Den dårlige sanitet gør os dødssyge, og det bliver bogstavelig talt både pest og kolera, der får os til at gå i krig mod lort. Det dykker vi ned i i dette afsnit om sanitet.&lt;br /&gt;&lt;br /&gt;Gæsterne: Morten Skydsgaard, fagleder for medicinhistorie på Steno Museet AU og Christian Gad, Head of Emergencies v. Dansk Flygtningehjælp.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/46024293
-   </guid>
-   <pubDate>
-    Wed, 11 Aug 2021 04:00:03 +0000
-   </pubDate>
-   <enclosure length="26486535" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/46024293/3_sanitet.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hver gang du skyller ud i toilettet, benytter du dig faktisk af den vigtigste medicinske opfindelse i verdenshistorien - nemlig kloakering. Men vi skal ikke mere end 200 år tilbage, før stank og afføring i gaderne er en del af hverdagen. Den dårlige...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hver gang du skyller ud i toilettet, benytter du dig faktisk af den vigtigste medicinske opfindelse i verdenshistorien - nemlig kloakering. Men vi skal ikke mere end 200 år tilbage, før stank og afføring i gaderne er en del af hverdagen. Den dårlige sanitet gør os dødssyge, og det bliver bogstavelig talt både pest og kolera, der får os til at gå i krig mod lort. Det dykker vi ned i i dette afsnit om sanitet.&lt;br /&gt;&lt;br /&gt;Gæsterne: Morten Skydsgaard, fagleder for medicinhistorie på Steno Museet AU og Christian Gad, Head of Emergencies v. Dansk Flygtningehjælp.
-   </itunes:summary>
-   <itunes:duration>
-    1656
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    2. Prævention
-   </title>
-   <link>
-    https://www.spreaker.com/episode/2-praevention--45935341
-   </link>
-   <description>
-    I dag kan vi dyrke sex for sjov uden at bekymre os om at få 10 børn eller en kønssygdom. Prævention er let tilgængelig, men den luksus har vi ikke altid haft. Vi fortæller præventionens historie, fra bønner til de højere magter, dyretarme, tykt gummi til p-pillen. Vi taler om konsekvenserne for dem, der ikke kunne gardere sig, og frem for alt den store betydning det fik, da moderne prævention endelig bliver opfundet. Gæsterne i dette program er Mette Byriel-Thygesen, museumsinspektør på Nationalmuseet, og Anne Sofie Steen Sverdrup og Kate Lis fra Bedside Production.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45935341
-   </guid>
-   <pubDate>
-    Wed, 04 Aug 2021 04:00:13 +0000
-   </pubDate>
-   <enclosure length="25895123" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45935341/2_pr_vention.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I dag kan vi dyrke sex for sjov uden at bekymre os om at få 10 børn eller en kønssygdom. Prævention er let tilgængelig, men den luksus har vi ikke altid haft. Vi fortæller præventionens historie, fra bønner til de højere magter, dyretarme, tykt gummi...
-   </itunes:subtitle>
-   <itunes:summary>
-    I dag kan vi dyrke sex for sjov uden at bekymre os om at få 10 børn eller en kønssygdom. Prævention er let tilgængelig, men den luksus har vi ikke altid haft. Vi fortæller præventionens historie, fra bønner til de højere magter, dyretarme, tykt gummi til p-pillen. Vi taler om konsekvenserne for dem, der ikke kunne gardere sig, og frem for alt den store betydning det fik, da moderne prævention endelig bliver opfundet. Gæsterne i dette program er Mette Byriel-Thygesen, museumsinspektør på Nationalmuseet, og Anne Sofie Steen Sverdrup og Kate Lis fra Bedside Production.
-   </itunes:summary>
-   <itunes:duration>
-    1619
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    1. Kamera
-   </title>
-   <link>
-    https://www.spreaker.com/episode/1-kamera--45935322
-   </link>
-   <description>
-    Kameraet har forandret menneskets liv og givet os en helt ny måde at opleve verden og vores virkelighed på. Når vi fotograferer vores morgenmad, familieferien eller tager en selfie i dag, taler det i virkeligheden til et ældgammelt behov i os. For behovet for at dokumentere og forevige er lige så gammelt som menneskeheden selv. Vi stiller skarpt på kameraet og hvordan det har forandret vores liv på godt og ondt, fra det blev opfundet i 1800-tallets Paris til i dag. Gæsterne i dette program er Mette Sandbye, professor i fotografistudier samt kunst- og kulturvidenskab, og Jonas Risvig, filminstruktør og fotograf.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45935322
-   </guid>
-   <pubDate>
-    Wed, 04 Aug 2021 04:00:12 +0000
-   </pubDate>
-   <enclosure length="26666257" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45935322/1_kamera.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Kameraet har forandret menneskets liv og givet os en helt ny måde at opleve verden og vores virkelighed på. Når vi fotograferer vores morgenmad, familieferien eller tager en selfie i dag, taler det i virkeligheden til et ældgammelt behov i os. For...
-   </itunes:subtitle>
-   <itunes:summary>
-    Kameraet har forandret menneskets liv og givet os en helt ny måde at opleve verden og vores virkelighed på. Når vi fotograferer vores morgenmad, familieferien eller tager en selfie i dag, taler det i virkeligheden til et ældgammelt behov i os. For behovet for at dokumentere og forevige er lige så gammelt som menneskeheden selv. Vi stiller skarpt på kameraet og hvordan det har forandret vores liv på godt og ondt, fra det blev opfundet i 1800-tallets Paris til i dag. Gæsterne i dette program er Mette Sandbye, professor i fotografistudier samt kunst- og kulturvidenskab, og Jonas Risvig, filminstruktør og fotograf.
-   </itunes:summary>
-   <itunes:duration>
-    1667
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Trailer: Den dybe tallerken
-   </title>
-   <link>
-    https://www.spreaker.com/episode/trailer-den-dybe-tallerken--45148699
-   </link>
-   <description>
-    Lyt med fra den 4. august.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45148699
-   </guid>
-   <pubDate>
-    Thu, 03 Jun 2021 10:55:23 +0000
-   </pubDate>
-   <enclosure length="1447561" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45148699/teaser_dendybetallerken.mp3"/>
-   <itunes:author>
-    Vores Tid &amp; LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Lyt med fra den 4. august.
-   </itunes:subtitle>
-   <itunes:summary>
-    Lyt med fra den 4. august.
-   </itunes:summary>
-   <itunes:duration>
-    90
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg"/>
-   <itunes:episodeType>
-    trailer
-   </itunes:episodeType>
-  </item>
- </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Den dybe tallerken</title>
+      <link>https://loud.land/podcast/den-dybe-tallerken</link>
+      <description>I Den dybe tallerken går vi tæt på menneskets evne til at tænke nyt, få gode ideer og skabe opfindelser, der grundlæggende har ændret menneskehedens udvikling og liv. Vi bliver klogere på de opfindelserne og hører om, hvordan de blev til, hvordan de forandrede deres samtid, hvordan de ændrede menneskehedens udvikling, og hvad de betyder i dag. &lt;br /&gt;&lt;br /&gt;Produceret af Kiss Content for Vores Tid og LOUD.</description>
+      <atom:link href="https://www.spreaker.com/show/4955445/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>Vores Tid &amp; LOUD</copyright>
+      <image>
+         <url>https://archive.org/download/den_dybe_tallerken/Den%20dybe%20tallerken/b02dc24c838eb9eec812bd1444656860.jpg</url>
+         <title>Den dybe tallerken</title>
+         <link>https://loud.land/podcast/den-dybe-tallerken</link>
+      </image>
+      <lastBuildDate>Fri, 16 Feb 2024 20:21:25 +0000</lastBuildDate>
+      <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg" />
+      <itunes:subtitle>Vi går tæt på menneskets evne til at tænke nyt, få gode ideer og skabe opfindelser, der grundlæggende har ændret menneskehedens udvikling og liv.</itunes:subtitle>
+      <itunes:summary>I Den dybe tallerken går vi tæt på menneskets evne til at tænke nyt, få gode ideer og skabe opfindelser, der grundlæggende har ændret menneskehedens udvikling og liv. Vi bliver klogere på de opfindelserne og hører om, hvordan de blev til, hvordan de forandrede deres samtid, hvordan de ændrede menneskehedens udvikling, og hvad de betyder i dag. &lt;br /&gt;&lt;br /&gt;Produceret af Kiss Content for Vores Tid og LOUD.</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>10. Penge</title>
+         <link>https://www.spreaker.com/episode/10-penge--46546118</link>
+         <description>Først skabte Gud mennesket, dagen efter opfandt mennesket selv penge. Sådan var det vist ikke helt, men evnen til at betale og handle har næsten altid været der. Men hvor og hvorfor blev penge opfundet, og hvilken betydning har det haft? Få opfindelser har så kontinuerligt præget vores liv fra oldtiden til i dag. Gæster er Michael Märcher, vurderingssagkyndig v. Bruun Rasmussen (Tidl. Nationalbanken og Nationalmuseet) og Jakob Skaaning, cryptotraider.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/46546118</guid>
+         <pubDate>Wed, 29 Sep 2021 04:00:13 +0000</pubDate>
+         <enclosure length="26701366" type="audio/mpeg" url="https://archive.org/download/den_dybe_tallerken/Den%20dybe%20tallerken/2021.09.29%20-%2010.%20Penge.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>Først skabte Gud mennesket, dagen efter opfandt mennesket selv penge. Sådan var det vist ikke helt, men evnen til at betale og handle har næsten altid været der. Men hvor og hvorfor blev penge opfundet, og hvilken betydning har det haft? Få...</itunes:subtitle>
+         <itunes:summary>Først skabte Gud mennesket, dagen efter opfandt mennesket selv penge. Sådan var det vist ikke helt, men evnen til at betale og handle har næsten altid været der. Men hvor og hvorfor blev penge opfundet, og hvilken betydning har det haft? Få opfindelser har så kontinuerligt præget vores liv fra oldtiden til i dag. Gæster er Michael Märcher, vurderingssagkyndig v. Bruun Rasmussen (Tidl. Nationalbanken og Nationalmuseet) og Jakob Skaaning, cryptotraider.</itunes:summary>
+         <itunes:duration>1669</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>9. Gensplejsning og podning</title>
+         <link>https://www.spreaker.com/episode/9-gensplejsning-og-podning--46546117</link>
+         <description>Evnen til at splejse gener er måske den, der vil forandre vores historie mest de næste 100 år - men hvorfor? Og hvad er historien og forhistorien om en opfindelse, der først nu grundlæggende er ved at forandre vores liv? Genteknologien er allerede nu ved at løse overbefolkningen, den kan helbredde sygdomme og måske skal vi ikke være så bange for den. Gæster er Søren Johannes Sørensen, professor i mikrobiologi v. Københavns Universitet og naturvejleder Karsten Hansen.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/46546117</guid>
+         <pubDate>Wed, 22 Sep 2021 04:00:02 +0000</pubDate>
+         <enclosure length="26475250" type="audio/mpeg" url="https://archive.org/download/den_dybe_tallerken/Den%20dybe%20tallerken/2021.09.22%20-%209.%20Gensplejsning%20og%20podning.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>Evnen til at splejse gener er måske den, der vil forandre vores historie mest de næste 100 år - men hvorfor? Og hvad er historien og forhistorien om en opfindelse, der først nu grundlæggende er ved at forandre vores liv? Genteknologien er allerede nu...</itunes:subtitle>
+         <itunes:summary>Evnen til at splejse gener er måske den, der vil forandre vores historie mest de næste 100 år - men hvorfor? Og hvad er historien og forhistorien om en opfindelse, der først nu grundlæggende er ved at forandre vores liv? Genteknologien er allerede nu ved at løse overbefolkningen, den kan helbredde sygdomme og måske skal vi ikke være så bange for den. Gæster er Søren Johannes Sørensen, professor i mikrobiologi v. Københavns Universitet og naturvejleder Karsten Hansen.</itunes:summary>
+         <itunes:duration>1655</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>8. Batteriet</title>
+         <link>https://www.spreaker.com/episode/8-batteriet--46496064</link>
+         <description>Klimakrisen vil definere vores fremtid. Hvis den skal løses, er vi afhængige af batteriet. Men hvad er historien om det, der fik radioen til at spille og bilerne til at starte og forhåbentlig skal gøre verden grøn og ren? Vi går på jagt i fortiden og kigger ind i fremtiden, når vi fortæller historien om batteriet. Gæster er professor ved DTU Tejs Vegge og post doc og forsker ved DTU, Rune Kristensen Brostrup.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/46496064</guid>
+         <pubDate>Wed, 15 Sep 2021 04:00:15 +0000</pubDate>
+         <enclosure length="26399599" type="audio/mpeg" url="https://archive.org/download/den_dybe_tallerken/Den%20dybe%20tallerken/2021.09.15%20-%208.%20Batteriet.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>Klimakrisen vil definere vores fremtid. Hvis den skal løses, er vi afhængige af batteriet. Men hvad er historien om det, der fik radioen til at spille og bilerne til at starte og forhåbentlig skal gøre verden grøn og ren? Vi går på jagt i fortiden og...</itunes:subtitle>
+         <itunes:summary>Klimakrisen vil definere vores fremtid. Hvis den skal løses, er vi afhængige af batteriet. Men hvad er historien om det, der fik radioen til at spille og bilerne til at starte og forhåbentlig skal gøre verden grøn og ren? Vi går på jagt i fortiden og kigger ind i fremtiden, når vi fortæller historien om batteriet. Gæster er professor ved DTU Tejs Vegge og post doc og forsker ved DTU, Rune Kristensen Brostrup.</itunes:summary>
+         <itunes:duration>1650</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>7. Papir</title>
+         <link>https://www.spreaker.com/episode/7-papir--46411339</link>
+         <description>I dag er alt stort set digitaliseret. Mange læser e-bøger og netaviser. Men man skal ikke undervurdere papirets betydning. Evnen til at trykke og på den måde sprede information var en kæmpe katalysator for vores samfunds historiske udvikling. Og så er de altså bare noget specielt ved at sidde noget, der er trykt mellem hænderne. I dette program dykker vi ned i papirets historie. &lt;br /&gt;&lt;br /&gt;Gæsterne: Ingelise Nielsen, lektor ved Kunstakademiets Konservatorskole og Line Jensen, kunstner og forfatter.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/46411339</guid>
+         <pubDate>Wed, 08 Sep 2021 04:00:08 +0000</pubDate>
+         <enclosure length="26546721" type="audio/mpeg" url="https://archive.org/download/den_dybe_tallerken/Den%20dybe%20tallerken/2021.09.08%20-%207.%20Papir.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>I dag er alt stort set digitaliseret. Mange læser e-bøger og netaviser. Men man skal ikke undervurdere papirets betydning. Evnen til at trykke og på den måde sprede information var en kæmpe katalysator for vores samfunds historiske udvikling. Og så er...</itunes:subtitle>
+         <itunes:summary>I dag er alt stort set digitaliseret. Mange læser e-bøger og netaviser. Men man skal ikke undervurdere papirets betydning. Evnen til at trykke og på den måde sprede information var en kæmpe katalysator for vores samfunds historiske udvikling. Og så er de altså bare noget specielt ved at sidde noget, der er trykt mellem hænderne. I dette program dykker vi ned i papirets historie. &lt;br /&gt;&lt;br /&gt;Gæsterne: Ingelise Nielsen, lektor ved Kunstakademiets Konservatorskole og Line Jensen, kunstner og forfatter.</itunes:summary>
+         <itunes:duration>1660</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>6. Smartphone</title>
+         <link>https://www.spreaker.com/episode/6-smartphone--46311957</link>
+         <description>I 2007 præsenterede Steve Jobs den første iPhone. Dermed startede en revolution, som i dag har gjort smartphonen til en integreret del af vores liv. Det er for mange blevet den vi siger godmorgen og godnat til. Vi bruger den til alt, og den har for alvor gjort mennesket mobilt. Få opfindelser har på så kort tid forandret verden. Men hvordan blev den til, og hvorfor er det egentlig, at den fuldstændig har forandret menneskets liv? Medvirkende er Martin Gerster Johansen, udstillingschef ved Enigma - Museum for post, tele og kommunikation) og Astrid Thorsen, direktør i eget medierådgivningsbureau.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/46311957</guid>
+         <pubDate>Wed, 01 Sep 2021 04:00:07 +0000</pubDate>
+         <enclosure length="27163211" type="audio/mpeg" url="https://archive.org/download/den_dybe_tallerken/Den%20dybe%20tallerken/2021.09.01%20-%206.%20Smartphone.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>I 2007 præsenterede Steve Jobs den første iPhone. Dermed startede en revolution, som i dag har gjort smartphonen til en integreret del af vores liv. Det er for mange blevet den vi siger godmorgen og godnat til. Vi bruger den til alt, og den har for...</itunes:subtitle>
+         <itunes:summary>I 2007 præsenterede Steve Jobs den første iPhone. Dermed startede en revolution, som i dag har gjort smartphonen til en integreret del af vores liv. Det er for mange blevet den vi siger godmorgen og godnat til. Vi bruger den til alt, og den har for alvor gjort mennesket mobilt. Få opfindelser har på så kort tid forandret verden. Men hvordan blev den til, og hvorfor er det egentlig, at den fuldstændig har forandret menneskets liv? Medvirkende er Martin Gerster Johansen, udstillingschef ved Enigma - Museum for post, tele og kommunikation) og Astrid Thorsen, direktør i eget medierådgivningsbureau.</itunes:summary>
+         <itunes:duration>1698</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>5. Tandbørsten</title>
+         <link>https://www.spreaker.com/episode/5-tandborsten--46215834</link>
+         <description>Tandbørstning kan siges at være morgen- og aften ritualet over dem alle. Men at kunne beholde sine tænder hele livet igennem er fra naturens hånd ikke givet. Her bliver du klogere på, hvordan vi før i tiden forsøgte at passe tænderne, fra smedens tang til grødomslag. Frem for alt fortælles historien om opfindelsen af tandbørsten og hvordan den grundlæggende har forandret vores liv. Gæster er Palle Holmstrup, professor v. Tandlægeskolen og Specialtandlæge i kæbekirurgi, og Liselotte Olsen, indehaver af Tandkunsten Østerbro.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/46215834</guid>
+         <pubDate>Wed, 25 Aug 2021 04:00:17 +0000</pubDate>
+         <enclosure length="26598966" type="audio/mpeg" url="https://archive.org/download/den_dybe_tallerken/Den%20dybe%20tallerken/2021.08.25%20-%205.%20Tandb%C3%B8rsten.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>Tandbørstning kan siges at være morgen- og aften ritualet over dem alle. Men at kunne beholde sine tænder hele livet igennem er fra naturens hånd ikke givet. Her bliver du klogere på, hvordan vi før i tiden forsøgte at passe tænderne, fra smedens tang...</itunes:subtitle>
+         <itunes:summary>Tandbørstning kan siges at være morgen- og aften ritualet over dem alle. Men at kunne beholde sine tænder hele livet igennem er fra naturens hånd ikke givet. Her bliver du klogere på, hvordan vi før i tiden forsøgte at passe tænderne, fra smedens tang til grødomslag. Frem for alt fortælles historien om opfindelsen af tandbørsten og hvordan den grundlæggende har forandret vores liv. Gæster er Palle Holmstrup, professor v. Tandlægeskolen og Specialtandlæge i kæbekirurgi, og Liselotte Olsen, indehaver af Tandkunsten Østerbro.</itunes:summary>
+         <itunes:duration>1663</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>4. Plastik</title>
+         <link>https://www.spreaker.com/episode/4-plastik--46125247</link>
+         <description>Plastik er et omdiskuteret emne, men ikke desto mindre er materialet enormt vigtig for måden vi lever på i dag. Plastik har revolutioneret mange ting, og vi udvikler stadig nye måder at bruge det på. Men at plastik kan være revolutionerende er ikke noget nyt. I dette afsnit bliver du klogere på, hvordan billardkugler og elefant-udryddelse, 2. Verdenskrig og ulykker i laboratoriet danner basis for Tupperware, sygehusudstyr og 3D-printede cykelhjelme. Gæsterne i dette afsnit er Yvonne Shashoua, forsker i plastiknedbrydning v. Nationalmuseet og Jesper og Susanne Damvig, Damvig 3D.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/46125247</guid>
+         <pubDate>Wed, 18 Aug 2021 04:00:06 +0000</pubDate>
+         <enclosure length="26501999" type="audio/mpeg" url="https://archive.org/download/den_dybe_tallerken/Den%20dybe%20tallerken/2021.08.18%20-%204.%20Plastik.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>Plastik er et omdiskuteret emne, men ikke desto mindre er materialet enormt vigtig for måden vi lever på i dag. Plastik har revolutioneret mange ting, og vi udvikler stadig nye måder at bruge det på. Men at plastik kan være revolutionerende er ikke...</itunes:subtitle>
+         <itunes:summary>Plastik er et omdiskuteret emne, men ikke desto mindre er materialet enormt vigtig for måden vi lever på i dag. Plastik har revolutioneret mange ting, og vi udvikler stadig nye måder at bruge det på. Men at plastik kan være revolutionerende er ikke noget nyt. I dette afsnit bliver du klogere på, hvordan billardkugler og elefant-udryddelse, 2. Verdenskrig og ulykker i laboratoriet danner basis for Tupperware, sygehusudstyr og 3D-printede cykelhjelme. Gæsterne i dette afsnit er Yvonne Shashoua, forsker i plastiknedbrydning v. Nationalmuseet og Jesper og Susanne Damvig, Damvig 3D.</itunes:summary>
+         <itunes:duration>1657</itunes:duration>
+         <itunes:keywords>opfindelse,opfindelser,plasticforurening,plastikforureing,videnskab</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>3. Sanitet</title>
+         <link>https://www.spreaker.com/episode/3-sanitet--46024293</link>
+         <description>Hver gang du skyller ud i toilettet, benytter du dig faktisk af den vigtigste medicinske opfindelse i verdenshistorien - nemlig kloakering. Men vi skal ikke mere end 200 år tilbage, før stank og afføring i gaderne er en del af hverdagen. Den dårlige sanitet gør os dødssyge, og det bliver bogstavelig talt både pest og kolera, der får os til at gå i krig mod lort. Det dykker vi ned i i dette afsnit om sanitet.&lt;br /&gt;&lt;br /&gt;Gæsterne: Morten Skydsgaard, fagleder for medicinhistorie på Steno Museet AU og Christian Gad, Head of Emergencies v. Dansk Flygtningehjælp.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/46024293</guid>
+         <pubDate>Wed, 11 Aug 2021 04:00:03 +0000</pubDate>
+         <enclosure length="26486535" type="audio/mpeg" url="https://archive.org/download/den_dybe_tallerken/Den%20dybe%20tallerken/2021.08.11%20-%203.%20Sanitet.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>Hver gang du skyller ud i toilettet, benytter du dig faktisk af den vigtigste medicinske opfindelse i verdenshistorien - nemlig kloakering. Men vi skal ikke mere end 200 år tilbage, før stank og afføring i gaderne er en del af hverdagen. Den dårlige...</itunes:subtitle>
+         <itunes:summary>Hver gang du skyller ud i toilettet, benytter du dig faktisk af den vigtigste medicinske opfindelse i verdenshistorien - nemlig kloakering. Men vi skal ikke mere end 200 år tilbage, før stank og afføring i gaderne er en del af hverdagen. Den dårlige sanitet gør os dødssyge, og det bliver bogstavelig talt både pest og kolera, der får os til at gå i krig mod lort. Det dykker vi ned i i dette afsnit om sanitet.&lt;br /&gt;&lt;br /&gt;Gæsterne: Morten Skydsgaard, fagleder for medicinhistorie på Steno Museet AU og Christian Gad, Head of Emergencies v. Dansk Flygtningehjælp.</itunes:summary>
+         <itunes:duration>1656</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>2. Prævention</title>
+         <link>https://www.spreaker.com/episode/2-praevention--45935341</link>
+         <description>I dag kan vi dyrke sex for sjov uden at bekymre os om at få 10 børn eller en kønssygdom. Prævention er let tilgængelig, men den luksus har vi ikke altid haft. Vi fortæller præventionens historie, fra bønner til de højere magter, dyretarme, tykt gummi til p-pillen. Vi taler om konsekvenserne for dem, der ikke kunne gardere sig, og frem for alt den store betydning det fik, da moderne prævention endelig bliver opfundet. Gæsterne i dette program er Mette Byriel-Thygesen, museumsinspektør på Nationalmuseet, og Anne Sofie Steen Sverdrup og Kate Lis fra Bedside Production.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45935341</guid>
+         <pubDate>Wed, 04 Aug 2021 04:00:13 +0000</pubDate>
+         <enclosure length="25895123" type="audio/mpeg" url="https://archive.org/download/den_dybe_tallerken/Den%20dybe%20tallerken/2021.08.04%20-%202.%20Pr%C3%A6vention.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>I dag kan vi dyrke sex for sjov uden at bekymre os om at få 10 børn eller en kønssygdom. Prævention er let tilgængelig, men den luksus har vi ikke altid haft. Vi fortæller præventionens historie, fra bønner til de højere magter, dyretarme, tykt gummi...</itunes:subtitle>
+         <itunes:summary>I dag kan vi dyrke sex for sjov uden at bekymre os om at få 10 børn eller en kønssygdom. Prævention er let tilgængelig, men den luksus har vi ikke altid haft. Vi fortæller præventionens historie, fra bønner til de højere magter, dyretarme, tykt gummi til p-pillen. Vi taler om konsekvenserne for dem, der ikke kunne gardere sig, og frem for alt den store betydning det fik, da moderne prævention endelig bliver opfundet. Gæsterne i dette program er Mette Byriel-Thygesen, museumsinspektør på Nationalmuseet, og Anne Sofie Steen Sverdrup og Kate Lis fra Bedside Production.</itunes:summary>
+         <itunes:duration>1619</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>1. Kamera</title>
+         <link>https://www.spreaker.com/episode/1-kamera--45935322</link>
+         <description>Kameraet har forandret menneskets liv og givet os en helt ny måde at opleve verden og vores virkelighed på. Når vi fotograferer vores morgenmad, familieferien eller tager en selfie i dag, taler det i virkeligheden til et ældgammelt behov i os. For behovet for at dokumentere og forevige er lige så gammelt som menneskeheden selv. Vi stiller skarpt på kameraet og hvordan det har forandret vores liv på godt og ondt, fra det blev opfundet i 1800-tallets Paris til i dag. Gæsterne i dette program er Mette Sandbye, professor i fotografistudier samt kunst- og kulturvidenskab, og Jonas Risvig, filminstruktør og fotograf.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45935322</guid>
+         <pubDate>Wed, 04 Aug 2021 04:00:12 +0000</pubDate>
+         <enclosure length="26666257" type="audio/mpeg" url="https://archive.org/download/den_dybe_tallerken/Den%20dybe%20tallerken/2021.08.04%20-%201.%20Kamera.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>Kameraet har forandret menneskets liv og givet os en helt ny måde at opleve verden og vores virkelighed på. Når vi fotograferer vores morgenmad, familieferien eller tager en selfie i dag, taler det i virkeligheden til et ældgammelt behov i os. For...</itunes:subtitle>
+         <itunes:summary>Kameraet har forandret menneskets liv og givet os en helt ny måde at opleve verden og vores virkelighed på. Når vi fotograferer vores morgenmad, familieferien eller tager en selfie i dag, taler det i virkeligheden til et ældgammelt behov i os. For behovet for at dokumentere og forevige er lige så gammelt som menneskeheden selv. Vi stiller skarpt på kameraet og hvordan det har forandret vores liv på godt og ondt, fra det blev opfundet i 1800-tallets Paris til i dag. Gæsterne i dette program er Mette Sandbye, professor i fotografistudier samt kunst- og kulturvidenskab, og Jonas Risvig, filminstruktør og fotograf.</itunes:summary>
+         <itunes:duration>1667</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Trailer: Den dybe tallerken</title>
+         <link>https://www.spreaker.com/episode/trailer-den-dybe-tallerken--45148699</link>
+         <description>Lyt med fra den 4. august.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45148699</guid>
+         <pubDate>Thu, 03 Jun 2021 10:55:23 +0000</pubDate>
+         <enclosure length="1447561" type="audio/mpeg" url="https://archive.org/download/den_dybe_tallerken/Den%20dybe%20tallerken/2021.06.03%20-%20Trailer.mp3" />
+         <itunes:author>Vores Tid &amp; LOUD</itunes:author>
+         <itunes:subtitle>Lyt med fra den 4. august.</itunes:subtitle>
+         <itunes:summary>Lyt med fra den 4. august.</itunes:summary>
+         <itunes:duration>90</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b02dc24c838eb9eec812bd1444656860.jpg" />
+         <itunes:episodeType>trailer</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

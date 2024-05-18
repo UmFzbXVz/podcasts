@@ -1,1254 +1,528 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Fråseriet
-  </title>
-  <link>
-   https://www.spreaker.com/podcast/fraseriet--5927113
-  </link>
-  <description>
-   Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5927113/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Comedy Interviews
-  </category>
-  <copyright>
-   Copyright 24syv
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg
-   </url>
-   <title>
-    Fråseriet
-   </title>
-   <link>
-    https://www.spreaker.com/podcast/fraseriet--5927113
-   </link>
-  </image>
-  <lastBuildDate>
-   Fri, 22 Mar 2024 05:02:50 +0000
-  </lastBuildDate>
-  <itunes:author>
-   24syv
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    24syv
-   </itunes:name>
-   <itunes:email>
-    podcast@24syv.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-  <itunes:subtitle>
-   Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Fråseriet</title>
+      <link>https://www.spreaker.com/podcast/fraseriet--5927113</link>
+      <description>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt</description>
+      <atom:link href="https://www.spreaker.com/show/5927113/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Comedy Interviews</category>
+      <copyright>Copyright 24syv</copyright>
+      <image>
+         <url>https://archive.org/download/fraseriet/Fr%C3%A5seriet/1766c258f26233feec10a981afb44983.jpg</url>
+         <title>Fråseriet</title>
+         <link>https://www.spreaker.com/podcast/fraseriet--5927113</link>
+      </image>
+      <lastBuildDate>Fri, 22 Mar 2024 05:02:50 +0000</lastBuildDate>
+      <itunes:author>24syv</itunes:author>
+      <itunes:owner>
+         <itunes:name>24syv</itunes:name>
+         <itunes:email>podcast@24syv.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+      <itunes:subtitle>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.
 
 Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.
-Hver uge fråser...
-  </itunes:subtitle>
-  <itunes:summary>
-   Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt
-  </itunes:summary>
-  <itunes:category text="Comedy">
-   <itunes:category text="Comedy Interviews"/>
-  </itunes:category>
-  <itunes:explicit>
-   yes
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Silja Okking 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/silja-okking-2-2--59127443
-   </link>
-   <description>
-    Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en børnevært godt kan bande. Meget. Velbekomme!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/59127443
-   </guid>
-   <pubDate>
-    Fri, 22 Mar 2024 05:05:01 +0000
-   </pubDate>
-   <enclosure length="72321984" type="audio/mpeg" url="https://api.spreaker.com/download/episode/59127443/fr_seriet_silja_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en børnevært godt kan bande. Meget. Velbekomme!
-   </itunes:summary>
-   <itunes:duration>
-    3011
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Silja Okking 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/silja-okking-1-2--59127442
-   </link>
-   <description>
-    Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en børnevært godt kan bande. Meget. Velbekomme!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/59127442
-   </guid>
-   <pubDate>
-    Fri, 22 Mar 2024 05:00:02 +0000
-   </pubDate>
-   <enclosure length="52254144" type="audio/mpeg" url="https://api.spreaker.com/download/episode/59127442/fr_seriet_silja_del_1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en børnevært godt kan bande. Meget. Velbekomme!
-   </itunes:summary>
-   <itunes:duration>
-    2175
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Lars Hjortshøj 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/lars-hjortshoj-2-2--59056975
-   </link>
-   <description>
-    Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation woke? Det og meget mere under indtagelsen af lækre vine og eksklusiv mad - som altid tilberedt af Jesper. Velbekomme!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/59056975
-   </guid>
-   <pubDate>
-    Fri, 15 Mar 2024 13:19:18 +0000
-   </pubDate>
-   <enclosure length="60866496" type="audio/mpeg" url="https://api.spreaker.com/download/episode/59056975/fr_seriet_hjortsh_j_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation...
-   </itunes:subtitle>
-   <itunes:summary>
-    Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation woke? Det og meget mere under indtagelsen af lækre vine og eksklusiv mad - som altid tilberedt af Jesper. Velbekomme!
-   </itunes:summary>
-   <itunes:duration>
-    2534
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Lars Hjortshøj 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/lars-hjortshoj-1-2--59045130
-   </link>
-   <description>
-    Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation woke? Det og meget mere under indtagelsen af lækre vine og eksklusiv mad - som altid tilberedt af Jesper. Velbekomme!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/59045130
-   </guid>
-   <pubDate>
-    Fri, 15 Mar 2024 05:00:02 +0000
-   </pubDate>
-   <enclosure length="61257024" type="audio/mpeg" url="https://api.spreaker.com/download/episode/59045130/fr_seriet_hjortsh_j_del_1_ny.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation...
-   </itunes:subtitle>
-   <itunes:summary>
-    Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation woke? Det og meget mere under indtagelsen af lækre vine og eksklusiv mad - som altid tilberedt af Jesper. Velbekomme!
-   </itunes:summary>
-   <itunes:duration>
-    2550
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Jackie Navarro 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/jackie-navarro-2-2--58945597
-   </link>
-   <description>
-    Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab. Humøret er højt og vinen er god. Velbekomme,
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/58945597
-   </guid>
-   <pubDate>
-    Fri, 08 Mar 2024 05:05:01 +0000
-   </pubDate>
-   <enclosure length="53624448" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58945597/fr_seriet_jackie_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab....
-   </itunes:subtitle>
-   <itunes:summary>
-    Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab. Humøret er højt og vinen er god. Velbekomme,
-   </itunes:summary>
-   <itunes:duration>
-    2232
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Jackie Navarro 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/jackie-navarro-1-2--58945595
-   </link>
-   <description>
-    Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab. Humøret er højt og vinen er god. Velbekomme,
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/58945595
-   </guid>
-   <pubDate>
-    Fri, 08 Mar 2024 05:00:02 +0000
-   </pubDate>
-   <enclosure length="42537024" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58945595/fr_seriet_jackie_del_1_ny.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab....
-   </itunes:subtitle>
-   <itunes:summary>
-    Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab. Humøret er højt og vinen er god. Velbekomme,
-   </itunes:summary>
-   <itunes:duration>
-    1770
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nicky Russell 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nicky-russell-2-2--57939195
-   </link>
-   <description>
-    Sanger og musiker Nicky Russell fra det danske popband L.I.G.A hygger maks igennem med Jonas Schmidt i ugens afsnit.&lt;br /&gt;Endnu en uge med alkoholfri menu, men masser af farverige samtaler om dødssynderne.&lt;br /&gt;En spiller under bruseren kan give klarsyn, det kan være tæt på umuligt at falde i søvn efter et vellykket show, og så var Nickys vrede lige ved at få ham i håndgemæng under optagelserne til Stjerner i Trøjen.&lt;br /&gt;Og så er han ægte misundelig på Christoffers overlegne succes. Men Jonas er IKKE misundelig på Dar Salim.&lt;br /&gt;Velbekomme!&lt;br /&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57939195
-   </guid>
-   <pubDate>
-    Fri, 08 Dec 2023 05:05:02 +0000
-   </pubDate>
-   <enclosure length="46541376" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57939195/fr_seriet_nicky_russell_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Sanger og musiker Nicky Russell fra det danske popband L.I.G.A hygger maks igennem med Jonas Schmidt i ugens afsnit.
+Hver uge fråser...</itunes:subtitle>
+      <itunes:summary>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt</itunes:summary>
+      <itunes:category text="Comedy">
+         <itunes:category text="Comedy Interviews" />
+      </itunes:category>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Silja Okking 2:2</title>
+         <link>https://www.spreaker.com/episode/silja-okking-2-2--59127443</link>
+         <description>Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en børnevært godt kan bande. Meget. Velbekomme!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/59127443</guid>
+         <pubDate>Fri, 22 Mar 2024 05:05:01 +0000</pubDate>
+         <enclosure length="72321984" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2024.03.22%20-%20Silja%20Okking%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en...</itunes:subtitle>
+         <itunes:summary>Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en børnevært godt kan bande. Meget. Velbekomme!</itunes:summary>
+         <itunes:duration>3011</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Silja Okking 1:2</title>
+         <link>https://www.spreaker.com/episode/silja-okking-1-2--59127442</link>
+         <description>Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en børnevært godt kan bande. Meget. Velbekomme!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/59127442</guid>
+         <pubDate>Fri, 22 Mar 2024 05:00:02 +0000</pubDate>
+         <enclosure length="52254144" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2024.03.22%20-%20Silja%20Okking%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en...</itunes:subtitle>
+         <itunes:summary>Ramasjangvært, forfatter og skuespiller Silja Okking er helt oven på i samtalen med Jonas Schmidt. Hun ELSKER alt der skal fråses, og så fortæller hun ærligt om et åbent parforhold, hvordan man smadrer en buket blomster ægte og beviser, at en børnevært godt kan bande. Meget. Velbekomme!</itunes:summary>
+         <itunes:duration>2175</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Lars Hjortshøj 2:2</title>
+         <link>https://www.spreaker.com/episode/lars-hjortshoj-2-2--59056975</link>
+         <description>Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation woke? Det og meget mere under indtagelsen af lækre vine og eksklusiv mad - som altid tilberedt af Jesper. Velbekomme!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/59056975</guid>
+         <pubDate>Fri, 15 Mar 2024 13:19:18 +0000</pubDate>
+         <enclosure length="60866496" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2024.03.15%20-%20Lars%20Hjortsh%C3%B8j%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation...</itunes:subtitle>
+         <itunes:summary>Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation woke? Det og meget mere under indtagelsen af lækre vine og eksklusiv mad - som altid tilberedt af Jesper. Velbekomme!</itunes:summary>
+         <itunes:duration>2534</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Lars Hjortshøj 1:2</title>
+         <link>https://www.spreaker.com/episode/lars-hjortshoj-1-2--59045130</link>
+         <description>Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation woke? Det og meget mere under indtagelsen af lækre vine og eksklusiv mad - som altid tilberedt af Jesper. Velbekomme!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/59045130</guid>
+         <pubDate>Fri, 15 Mar 2024 05:00:02 +0000</pubDate>
+         <enclosure length="61257024" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2024.03.15%20-%20Lars%20Hjortsh%C3%B8j%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation...</itunes:subtitle>
+         <itunes:summary>Komiker og skuespiller kommer forbi til italiesnk inspireret fråsemiddag, og snakken går lystigt for sig i samtalen med Jonas. Er det egenligt arrogant at rejse i stillekupe på 1. klasse? Og hvordan har Hjortshøj det egentlig med mødet med generation woke? Det og meget mere under indtagelsen af lækre vine og eksklusiv mad - som altid tilberedt af Jesper. Velbekomme!</itunes:summary>
+         <itunes:duration>2550</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Jackie Navarro 2:2</title>
+         <link>https://www.spreaker.com/episode/jackie-navarro-2-2--58945597</link>
+         <description>Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab. Humøret er højt og vinen er god. Velbekomme,</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/58945597</guid>
+         <pubDate>Fri, 08 Mar 2024 05:05:01 +0000</pubDate>
+         <enclosure length="53624448" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2024.03.08%20-%20Jackie%20Navarro%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab....</itunes:subtitle>
+         <itunes:summary>Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab. Humøret er højt og vinen er god. Velbekomme,</itunes:summary>
+         <itunes:duration>2232</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Jackie Navarro 1:2</title>
+         <link>https://www.spreaker.com/episode/jackie-navarro-1-2--58945595</link>
+         <description>Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab. Humøret er højt og vinen er god. Velbekomme,</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/58945595</guid>
+         <pubDate>Fri, 08 Mar 2024 05:00:02 +0000</pubDate>
+         <enclosure length="42537024" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2024.03.08%20-%20Jackie%20Navarro%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab....</itunes:subtitle>
+         <itunes:summary>Jackie Navarro kigger forbi og fråser maks igennem med Jonas, mens snakken både kommer forbi irriterende børn, kampen om det største hotelværelse og at blive låst ude af sin lejlighed af ekskæresten Oliver Bjerrehus, hvilket resulterede i utroskab. Humøret er højt og vinen er god. Velbekomme,</itunes:summary>
+         <itunes:duration>1770</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nicky Russell 2:2</title>
+         <link>https://www.spreaker.com/episode/nicky-russell-2-2--57939195</link>
+         <description>Sanger og musiker Nicky Russell fra det danske popband L.I.G.A hygger maks igennem med Jonas Schmidt i ugens afsnit.&lt;br /&gt;Endnu en uge med alkoholfri menu, men masser af farverige samtaler om dødssynderne.&lt;br /&gt;En spiller under bruseren kan give klarsyn, det kan være tæt på umuligt at falde i søvn efter et vellykket show, og så var Nickys vrede lige ved at få ham i håndgemæng under optagelserne til Stjerner i Trøjen.&lt;br /&gt;Og så er han ægte misundelig på Christoffers overlegne succes. Men Jonas er IKKE misundelig på Dar Salim.&lt;br /&gt;Velbekomme!&lt;br /&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57939195</guid>
+         <pubDate>Fri, 08 Dec 2023 05:05:02 +0000</pubDate>
+         <enclosure length="46541376" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.12.08%20-%20Nicky%20Russell%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Sanger og musiker Nicky Russell fra det danske popband L.I.G.A hygger maks igennem med Jonas Schmidt i ugens afsnit.
 Endnu en uge med alkoholfri menu, men masser af farverige samtaler om dødssynderne.
-En spiller under bruseren kan give klarsyn, det...
-   </itunes:subtitle>
-   <itunes:summary>
-    Sanger og musiker Nicky Russell fra det danske popband L.I.G.A hygger maks igennem med Jonas Schmidt i ugens afsnit.&lt;br /&gt;Endnu en uge med alkoholfri menu, men masser af farverige samtaler om dødssynderne.&lt;br /&gt;En spiller under bruseren kan give klarsyn, det kan være tæt på umuligt at falde i søvn efter et vellykket show, og så var Nickys vrede lige ved at få ham i håndgemæng under optagelserne til Stjerner i Trøjen.&lt;br /&gt;Og så er han ægte misundelig på Christoffers overlegne succes. Men Jonas er IKKE misundelig på Dar Salim.&lt;br /&gt;Velbekomme!&lt;br /&gt;
-   </itunes:summary>
-   <itunes:duration>
-    1937
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nicky Russell 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nicky-russell-1-2--57939193
-   </link>
-   <description>
-    Sanger og musiker Nicky Russell fra det danske popband L.I.G.A hygger maks igennem med Jonas Schmidt i ugens afsnit.&lt;br /&gt;Endnu en uge med alkoholfri menu, men masser af farverige samtaler om dødssynderne.&lt;br /&gt;En spiller under bruseren kan give klarsyn, det kan være tæt på umuligt at falde i søvn efter et vellykket show, og så var Nickys vrede lige ved at få ham i håndgemæng under optagelserne til Stjerner i Trøjen.&lt;br /&gt;Og så er han ægte misundelig på Christoffers overlegne succes. Men Jonas er IKKE misundelig på Dar Salim.&lt;br /&gt;Velbekomme!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57939193
-   </guid>
-   <pubDate>
-    Fri, 08 Dec 2023 05:00:02 +0000
-   </pubDate>
-   <enclosure length="53459136" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57939193/fr_seriet_nicky_russell_del_1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Sanger og musiker Nicky Russell fra det danske popband L.I.G.A hygger maks igennem med Jonas Schmidt i ugens afsnit.
+En spiller under bruseren kan give klarsyn, det...</itunes:subtitle>
+         <itunes:summary>Sanger og musiker Nicky Russell fra det danske popband L.I.G.A hygger maks igennem med Jonas Schmidt i ugens afsnit.&lt;br /&gt;Endnu en uge med alkoholfri menu, men masser af farverige samtaler om dødssynderne.&lt;br /&gt;En spiller under bruseren kan give klarsyn, det kan være tæt på umuligt at falde i søvn efter et vellykket show, og så var Nickys vrede lige ved at få ham i håndgemæng under optagelserne til Stjerner i Trøjen.&lt;br /&gt;Og så er han ægte misundelig på Christoffers overlegne succes. Men Jonas er IKKE misundelig på Dar Salim.&lt;br /&gt;Velbekomme!&lt;br /&gt;</itunes:summary>
+         <itunes:duration>1937</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nicky Russell 1:2</title>
+         <link>https://www.spreaker.com/episode/nicky-russell-1-2--57939193</link>
+         <description>Sanger og musiker Nicky Russell fra det danske popband L.I.G.A hygger maks igennem med Jonas Schmidt i ugens afsnit.&lt;br /&gt;Endnu en uge med alkoholfri menu, men masser af farverige samtaler om dødssynderne.&lt;br /&gt;En spiller under bruseren kan give klarsyn, det kan være tæt på umuligt at falde i søvn efter et vellykket show, og så var Nickys vrede lige ved at få ham i håndgemæng under optagelserne til Stjerner i Trøjen.&lt;br /&gt;Og så er han ægte misundelig på Christoffers overlegne succes. Men Jonas er IKKE misundelig på Dar Salim.&lt;br /&gt;Velbekomme!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57939193</guid>
+         <pubDate>Fri, 08 Dec 2023 05:00:02 +0000</pubDate>
+         <enclosure length="53459136" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.12.08%20-%20Nicky%20Russell%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Sanger og musiker Nicky Russell fra det danske popband L.I.G.A hygger maks igennem med Jonas Schmidt i ugens afsnit.
 Endnu en uge med alkoholfri menu, men masser af farverige samtaler om dødssynderne.
-En spiller under bruseren kan give klarsyn, det...
-   </itunes:subtitle>
-   <itunes:summary>
-    Sanger og musiker Nicky Russell fra det danske popband L.I.G.A hygger maks igennem med Jonas Schmidt i ugens afsnit.&lt;br /&gt;Endnu en uge med alkoholfri menu, men masser af farverige samtaler om dødssynderne.&lt;br /&gt;En spiller under bruseren kan give klarsyn, det kan være tæt på umuligt at falde i søvn efter et vellykket show, og så var Nickys vrede lige ved at få ham i håndgemæng under optagelserne til Stjerner i Trøjen.&lt;br /&gt;Og så er han ægte misundelig på Christoffers overlegne succes. Men Jonas er IKKE misundelig på Dar Salim.&lt;br /&gt;Velbekomme!
-   </itunes:summary>
-   <itunes:duration>
-    2225
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Jan Linnebjerg 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/jan-linnebjerg-2-2--57873490
-   </link>
-   <description>
-    Jan "Pyrus" Linnebjerg gæster Jonas "Dolph" Schmidt i Fråseriet, hvor snakken blandt handler om det, at være nødt til at tjene penge på en karakter, som blev skabt for årtier siden. Og at turde at stå ved det. Med stolthed.&lt;br /&gt;Jans manglende selvværd gjorde, at han tidligere lod sig udnytte og det medfølgende drikkeri vækkede hans indre vrede, som først blev slukket, da han endelig fik lagt alkoholen til side.&lt;br /&gt;&lt;br /&gt;I dag griner han sig derfor igennem alkoholfri drikke og lækker mad, der som altid er serveret af Jesper Schmidt. Og så fortæller Jan IKKE historien om dengang han mødte nogle skønne damer, som senere viste sig at være lidt mindre damer, end Jan og hans studievenner regnede med. &lt;br /&gt;&lt;br /&gt;Velbekomme!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57873490
-   </guid>
-   <pubDate>
-    Fri, 01 Dec 2023 07:35:36 +0000
-   </pubDate>
-   <enclosure length="49311360" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57873490/fra_dseriet_jan_linnebjerg_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Jan "Pyrus" Linnebjerg gæster Jonas "Dolph" Schmidt i Fråseriet, hvor snakken blandt handler om det, at være nødt til at tjene penge på en karakter, som blev skabt for årtier siden. Og at turde at stå ved det. Med stolthed.
-Jans manglende selvværd...
-   </itunes:subtitle>
-   <itunes:summary>
-    Jan "Pyrus" Linnebjerg gæster Jonas "Dolph" Schmidt i Fråseriet, hvor snakken blandt handler om det, at være nødt til at tjene penge på en karakter, som blev skabt for årtier siden. Og at turde at stå ved det. Med stolthed.&lt;br /&gt;Jans manglende selvværd gjorde, at han tidligere lod sig udnytte og det medfølgende drikkeri vækkede hans indre vrede, som først blev slukket, da han endelig fik lagt alkoholen til side.&lt;br /&gt;&lt;br /&gt;I dag griner han sig derfor igennem alkoholfri drikke og lækker mad, der som altid er serveret af Jesper Schmidt. Og så fortæller Jan IKKE historien om dengang han mødte nogle skønne damer, som senere viste sig at være lidt mindre damer, end Jan og hans studievenner regnede med. &lt;br /&gt;&lt;br /&gt;Velbekomme!
-   </itunes:summary>
-   <itunes:duration>
-    2052
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Jan Linnebjerg 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/jan-linnebjerg-1-2--57873487
-   </link>
-   <description>
-    Jan "Pyrus" Linnebjerg gæster Jonas "Dolph" Schmidt i Fråseriet, hvor snakken blandt handler om det, at være nødt til at tjene penge på en karakter, som blev skabt for årtier siden. Og at turde at stå ved det. Med stolthed.&lt;br /&gt;Jans manglende selvværd gjorde, at han tidligere lod sig udnytte og det medfølgende drikkeri vækkede hans indre vrede, som først blev slukket, da han endelig fik lagt alkoholen til side.&lt;br /&gt;&lt;br /&gt;I dag griner han sig derfor igennem alkoholfri drikke og lækker mad, der som altid er serveret af Jesper Schmidt. Og så fortæller Jan IKKE historien om dengang han mødte nogle skønne damer, som senere viste sig at være lidt mindre damer, end Jan og hans studievenner regnede med. &lt;br /&gt;&lt;br /&gt;Velbekomme!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57873487
-   </guid>
-   <pubDate>
-    Fri, 01 Dec 2023 07:34:25 +0000
-   </pubDate>
-   <enclosure length="44950464" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57873487/linnebjerg_1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Jan "Pyrus" Linnebjerg gæster Jonas "Dolph" Schmidt i Fråseriet, hvor snakken blandt handler om det, at være nødt til at tjene penge på en karakter, som blev skabt for årtier siden. Og at turde at stå ved det. Med stolthed.
-Jans manglende selvværd...
-   </itunes:subtitle>
-   <itunes:summary>
-    Jan "Pyrus" Linnebjerg gæster Jonas "Dolph" Schmidt i Fråseriet, hvor snakken blandt handler om det, at være nødt til at tjene penge på en karakter, som blev skabt for årtier siden. Og at turde at stå ved det. Med stolthed.&lt;br /&gt;Jans manglende selvværd gjorde, at han tidligere lod sig udnytte og det medfølgende drikkeri vækkede hans indre vrede, som først blev slukket, da han endelig fik lagt alkoholen til side.&lt;br /&gt;&lt;br /&gt;I dag griner han sig derfor igennem alkoholfri drikke og lækker mad, der som altid er serveret af Jesper Schmidt. Og så fortæller Jan IKKE historien om dengang han mødte nogle skønne damer, som senere viste sig at være lidt mindre damer, end Jan og hans studievenner regnede med. &lt;br /&gt;&lt;br /&gt;Velbekomme!
-   </itunes:summary>
-   <itunes:duration>
-    1871
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Tomas Villum Jensen 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/tomas-villum-jensen-2-2--57788681
-   </link>
-   <description>
-    Tomas og Jonas er ganske gode venner. Og rigtig gode kolleger. Og alt der imellem.&lt;br /&gt;I denne uges Fråseri snakker de om deres fælles hang til raseri, der har ramt begge på deres optagelser, og hvordan liderligheden også melder sig på banen, når de er på tur sammen. Begge elsker at fråse og at spise det ekstravagante, som gør livet lidt sødere. Dovenskab savnes, men tilstræbes. Og så elsker Tomas Whisky Sour. Sådan helt inderligt. Velkomme.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57788681
-   </guid>
-   <pubDate>
-    Fri, 24 Nov 2023 05:00:03 +0000
-   </pubDate>
-   <enclosure length="49300416" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57788681/fr_seriet_thomas_villum_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Tomas og Jonas er ganske gode venner. Og rigtig gode kolleger. Og alt der imellem.
-I denne uges Fråseri snakker de om deres fælles hang til raseri, der har ramt begge på deres optagelser, og hvordan liderligheden også melder sig på banen, når de er på...
-   </itunes:subtitle>
-   <itunes:summary>
-    Tomas og Jonas er ganske gode venner. Og rigtig gode kolleger. Og alt der imellem.&lt;br /&gt;I denne uges Fråseri snakker de om deres fælles hang til raseri, der har ramt begge på deres optagelser, og hvordan liderligheden også melder sig på banen, når de er på tur sammen. Begge elsker at fråse og at spise det ekstravagante, som gør livet lidt sødere. Dovenskab savnes, men tilstræbes. Og så elsker Tomas Whisky Sour. Sådan helt inderligt. Velkomme.
-   </itunes:summary>
-   <itunes:duration>
-    2052
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Tomas Villum Jensen 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/tomas-villum-jensen-1-2--57788661
-   </link>
-   <description>
-    Tomas og Jonas er ganske gode venner. Og rigtig gode kolleger. Og alt der imellem.&lt;br /&gt;I denne uges Fråseri snakker de om deres fælles hang til raseri, der har ramt begge på deres optagelser, og hvordan liderligheden også melder sig på banen, når de er på tur sammen. Begge elsker at fråse og at spise det ekstravagante, som gør livet lidt sødere. Dovenskab savnes, men tilstræbes. Og så elsker Tomas Whisky Sour. Sådan helt inderligt. Velkomme.&lt;br /&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57788661
-   </guid>
-   <pubDate>
-    Fri, 24 Nov 2023 04:55:02 +0000
-   </pubDate>
-   <enclosure length="40064832" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57788661/fr_seriet_thomas_villum_del_1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Tomas og Jonas er ganske gode venner. Og rigtig gode kolleger. Og alt der imellem.
-I denne uges Fråseri snakker de om deres fælles hang til raseri, der har ramt begge på deres optagelser, og hvordan liderligheden også melder sig på banen, når de er på...
-   </itunes:subtitle>
-   <itunes:summary>
-    Tomas og Jonas er ganske gode venner. Og rigtig gode kolleger. Og alt der imellem.&lt;br /&gt;I denne uges Fråseri snakker de om deres fælles hang til raseri, der har ramt begge på deres optagelser, og hvordan liderligheden også melder sig på banen, når de er på tur sammen. Begge elsker at fråse og at spise det ekstravagante, som gør livet lidt sødere. Dovenskab savnes, men tilstræbes. Og så elsker Tomas Whisky Sour. Sådan helt inderligt. Velkomme.&lt;br /&gt;
-   </itunes:summary>
-   <itunes:duration>
-    1667
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Esben Pretzmann 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/esben-pretzmann-2-2--57664104
-   </link>
-   <description>
-    Komiker, skuespiller og kunstner Esben Pretzmann har sukkersyge og lever et selvvalgt liv i ketose. Det betyder nul sukker og kulhydrater. Men det afholder ham heldigvis ikke fra at fråse igennem med Jonas Schmidt, når de sammen snakker om blandt andet afholdenhed fra porno,mens de nyder russisk kaviar, foie gras og rigelige mængder ost og rødvin. Velbekomme.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57664104
-   </guid>
-   <pubDate>
-    Fri, 17 Nov 2023 05:05:02 +0000
-   </pubDate>
-   <enclosure length="49855680" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57664104/fr_seriet_esben_pretzmann_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Komiker, skuespiller og kunstner Esben Pretzmann har sukkersyge og lever et selvvalgt liv i ketose. Det betyder nul sukker og kulhydrater. Men det afholder ham heldigvis ikke fra at fråse igennem med Jonas Schmidt, når de sammen snakker om blandt...
-   </itunes:subtitle>
-   <itunes:summary>
-    Komiker, skuespiller og kunstner Esben Pretzmann har sukkersyge og lever et selvvalgt liv i ketose. Det betyder nul sukker og kulhydrater. Men det afholder ham heldigvis ikke fra at fråse igennem med Jonas Schmidt, når de sammen snakker om blandt andet afholdenhed fra porno,mens de nyder russisk kaviar, foie gras og rigelige mængder ost og rødvin. Velbekomme.
-   </itunes:summary>
-   <itunes:duration>
-    2075
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Esben Pretzmann 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/esben-pretzmann-1-2--57664100
-   </link>
-   <description>
-    Komiker, skuespiller og kunstner Esben Pretzmann har sukkersyge og lever et selvvalgt liv i ketose. Det betyder nul sukker og kulhydrater. Men det afholder ham heldigvis ikke fra at fråse igennem med Jonas Schmidt, når de sammen snakker om blandt andet afholdenhed fra porno,mens de nyder russisk kaviar, foie gras og rigelige mængder ost og rødvin. Velbekomme.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57664100
-   </guid>
-   <pubDate>
-    Fri, 17 Nov 2023 05:00:03 +0000
-   </pubDate>
-   <enclosure length="36331200" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57664100/fr_seriet_esben_pretzman_del_1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Komiker, skuespiller og kunstner Esben Pretzmann har sukkersyge og lever et selvvalgt liv i ketose. Det betyder nul sukker og kulhydrater. Men det afholder ham heldigvis ikke fra at fråse igennem med Jonas Schmidt, når de sammen snakker om blandt...
-   </itunes:subtitle>
-   <itunes:summary>
-    Komiker, skuespiller og kunstner Esben Pretzmann har sukkersyge og lever et selvvalgt liv i ketose. Det betyder nul sukker og kulhydrater. Men det afholder ham heldigvis ikke fra at fråse igennem med Jonas Schmidt, når de sammen snakker om blandt andet afholdenhed fra porno,mens de nyder russisk kaviar, foie gras og rigelige mængder ost og rødvin. Velbekomme.
-   </itunes:summary>
-   <itunes:duration>
-    1512
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Brian Mørk 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/brian-mork-2-2--57577878
-   </link>
-   <description>
-    mikeren Brian Mørk har aldrig været motiveret til noget som helst. Måske derfor er alle andre komikere mere succesfulde end ham selv, siger han. Han gider ikke at dyrke sex, da det kan medføre en kæreste, og så elsker han at skovle mad ind. Nå ja, så har han flere gange siddet ved siden af onanerende kvinder, der kørte bilen med ham som passager. Der er garanti for grin og godt selskab i ugens afsnit af Fråseriet, hvor Jonas Schmidt og Brian Mørk får rigeligt til ganen.&lt;br /&gt;&lt;br /&gt;Velbekomme.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57577878
-   </guid>
-   <pubDate>
-    Fri, 10 Nov 2023 05:05:02 +0000
-   </pubDate>
-   <enclosure length="40547328" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57577878/fr_seriet_brian_m_rk_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    mikeren Brian Mørk har aldrig været motiveret til noget som helst. Måske derfor er alle andre komikere mere succesfulde end ham selv, siger han. Han gider ikke at dyrke sex, da det kan medføre en kæreste, og så elsker han at skovle mad ind. Nå ja, så...
-   </itunes:subtitle>
-   <itunes:summary>
-    mikeren Brian Mørk har aldrig været motiveret til noget som helst. Måske derfor er alle andre komikere mere succesfulde end ham selv, siger han. Han gider ikke at dyrke sex, da det kan medføre en kæreste, og så elsker han at skovle mad ind. Nå ja, så har han flere gange siddet ved siden af onanerende kvinder, der kørte bilen med ham som passager. Der er garanti for grin og godt selskab i ugens afsnit af Fråseriet, hvor Jonas Schmidt og Brian Mørk får rigeligt til ganen.&lt;br /&gt;&lt;br /&gt;Velbekomme.
-   </itunes:summary>
-   <itunes:duration>
-    2531
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Brian Mørk 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/brian-mork-1-2--57577876
-   </link>
-   <description>
-    Komikeren Brian Mørk har aldrig været motiveret til noget som helst. Måske derfor er alle andre komikere mere succesfulde end ham selv, siger han. Han gider ikke at dyrke sex, da det kan medføre en kæreste, og så elsker han at skovle mad ind. Nå ja, så har han flere gange siddet ved siden af onanerende kvinder, der kørte bilen med ham som passager. Der er garanti for grin og godt selskab i ugens afsnit af Fråseriet, hvor Jonas Schmidt og Brian Mørk får rigeligt til ganen.&lt;br /&gt;&lt;br /&gt;Velbekomme.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57577876
-   </guid>
-   <pubDate>
-    Fri, 10 Nov 2023 05:00:03 +0000
-   </pubDate>
-   <enclosure length="52154496" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57577876/fr_seriet_brian_m_rk_1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Komikeren Brian Mørk har aldrig været motiveret til noget som helst. Måske derfor er alle andre komikere mere succesfulde end ham selv, siger han. Han gider ikke at dyrke sex, da det kan medføre en kæreste, og så elsker han at skovle mad ind. Nå ja,...
-   </itunes:subtitle>
-   <itunes:summary>
-    Komikeren Brian Mørk har aldrig været motiveret til noget som helst. Måske derfor er alle andre komikere mere succesfulde end ham selv, siger han. Han gider ikke at dyrke sex, da det kan medføre en kæreste, og så elsker han at skovle mad ind. Nå ja, så har han flere gange siddet ved siden af onanerende kvinder, der kørte bilen med ham som passager. Der er garanti for grin og godt selskab i ugens afsnit af Fråseriet, hvor Jonas Schmidt og Brian Mørk får rigeligt til ganen.&lt;br /&gt;&lt;br /&gt;Velbekomme.
-   </itunes:summary>
-   <itunes:duration>
-    2171
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Mark Le Fêvre 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/mark-le-fevre-2-2--57481567
-   </link>
-   <description>
-    På stripklub med Microsoft. Ægte raseri over folk, der kaster affald. Og en hang til at dovne maks. Det - og meget andet - snakker Jonas Schmidt med komikeren Mark Le Fêvre om, men de fråser sig gennem meksikansk inspireret mad, øl med tabasco og kaffedrink med parmasan. Og så har Mark en helt klar holdning til at få ost som dessert. Velbekomme!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57481567
-   </guid>
-   <pubDate>
-    Fri, 03 Nov 2023 05:00:03 +0000
-   </pubDate>
-   <enclosure length="56215296" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57481567/mark_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    På stripklub med Microsoft. Ægte raseri over folk, der kaster affald. Og en hang til at dovne maks. Det - og meget andet - snakker Jonas Schmidt med komikeren Mark Le Fêvre om, men de fråser sig gennem meksikansk inspireret mad, øl med tabasco og...
-   </itunes:subtitle>
-   <itunes:summary>
-    På stripklub med Microsoft. Ægte raseri over folk, der kaster affald. Og en hang til at dovne maks. Det - og meget andet - snakker Jonas Schmidt med komikeren Mark Le Fêvre om, men de fråser sig gennem meksikansk inspireret mad, øl med tabasco og kaffedrink med parmasan. Og så har Mark en helt klar holdning til at få ost som dessert. Velbekomme!
-   </itunes:summary>
-   <itunes:duration>
-    2340
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Mark Le Fêvre 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/mark-le-fevre-1-2--57481566
-   </link>
-   <description>
-    På stripklub med Microsoft. Ægte raseri over folk, der kaster affald. Og en hang til at dovne maks. Det - og meget andet - snakker Jonas Schmidt med komikeren Mark Le Fêvre om, men de fråser sig gennem meksikansk inspireret mad, øl med tabasco og kaffedrink med parmasan. Og så har Mark en helt klar holdning til at få ost som dessert. Velbekomme!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57481566
-   </guid>
-   <pubDate>
-    Fri, 03 Nov 2023 04:55:02 +0000
-   </pubDate>
-   <enclosure length="58108032" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57481566/fr_seriet_mark_le_f_vre_del_1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    På stripklub med Microsoft. Ægte raseri over folk, der kaster affald. Og en hang til at dovne maks. Det - og meget andet - snakker Jonas Schmidt med komikeren Mark Le Fêvre om, men de fråser sig gennem meksikansk inspireret mad, øl med tabasco og...
-   </itunes:subtitle>
-   <itunes:summary>
-    På stripklub med Microsoft. Ægte raseri over folk, der kaster affald. Og en hang til at dovne maks. Det - og meget andet - snakker Jonas Schmidt med komikeren Mark Le Fêvre om, men de fråser sig gennem meksikansk inspireret mad, øl med tabasco og kaffedrink med parmasan. Og så har Mark en helt klar holdning til at få ost som dessert. Velbekomme!
-   </itunes:summary>
-   <itunes:duration>
-    2419
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Pelle Emil Rex Hebsgaard  2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/pelle-emil-rex-hebsgaard-2-2--57398937
-   </link>
-   <description>
-    Skuespilleren Pelle Emil Hebsgaard nyder i den grad at fråse igennem med Jonas og Jesper i ugens afsnit. Han hader når folk ikke er nærværende i en samtale, men elsker at fråse ure og legetøj. Og så er liderlighed skønt og perfekt. Undtagen når man lige bliver taget midt i den seksuelle akt - af sin mor - og svigerfar.&lt;br /&gt;Velbekomme
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57398937
-   </guid>
-   <pubDate>
-    Fri, 27 Oct 2023 03:55:01 +0000
-   </pubDate>
-   <enclosure length="55189440" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57398937/fr_seriet_pelle_emil_hebsgaard_rex_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Skuespilleren Pelle Emil Hebsgaard nyder i den grad at fråse igennem med Jonas og Jesper i ugens afsnit. Han hader når folk ikke er nærværende i en samtale, men elsker at fråse ure og legetøj. Og så er liderlighed skønt og perfekt. Undtagen når man...
-   </itunes:subtitle>
-   <itunes:summary>
-    Skuespilleren Pelle Emil Hebsgaard nyder i den grad at fråse igennem med Jonas og Jesper i ugens afsnit. Han hader når folk ikke er nærværende i en samtale, men elsker at fråse ure og legetøj. Og så er liderlighed skønt og perfekt. Undtagen når man lige bliver taget midt i den seksuelle akt - af sin mor - og svigerfar.&lt;br /&gt;Velbekomme
-   </itunes:summary>
-   <itunes:duration>
-    2297
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Pelle Emil Rex Hebsgaard 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/pelle-emil-rex-hebsgaard-1-2--57398936
-   </link>
-   <description>
-    Skuespilleren Pelle Emil Hebsgaard nyder i den grad at fråse igennem med Jonas og Jesper i ugens afsnit. Han hader når folk ikke er nærværende i en samtale, men elsker at fråse ure og legetøj. Og så er liderlighed skønt og perfekt. Undtagen når man lige bliver taget midt i den seksuelle akt - af sin mor - og svigerfar.&lt;br /&gt;Velbekomme
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57398936
-   </guid>
-   <pubDate>
-    Fri, 27 Oct 2023 03:50:02 +0000
-   </pubDate>
-   <enclosure length="45862272" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57398936/fr_seriet_pelle_emil_hebsgaard_rex_del_1_ny.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Skuespilleren Pelle Emil Hebsgaard nyder i den grad at fråse igennem med Jonas og Jesper i ugens afsnit. Han hader når folk ikke er nærværende i en samtale, men elsker at fråse ure og legetøj. Og så er liderlighed skønt og perfekt. Undtagen når man...
-   </itunes:subtitle>
-   <itunes:summary>
-    Skuespilleren Pelle Emil Hebsgaard nyder i den grad at fråse igennem med Jonas og Jesper i ugens afsnit. Han hader når folk ikke er nærværende i en samtale, men elsker at fråse ure og legetøj. Og så er liderlighed skønt og perfekt. Undtagen når man lige bliver taget midt i den seksuelle akt - af sin mor - og svigerfar.&lt;br /&gt;Velbekomme
-   </itunes:summary>
-   <itunes:duration>
-    1909
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Victor Lander 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/victor-lander-2-2--56612065
-   </link>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56612065
-   </guid>
-   <pubDate>
-    Fri, 20 Oct 2023 04:05:02 +0000
-   </pubDate>
-   <enclosure length="57330432" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56612065/fr_seriet_viktor_lander_del_2_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:duration>
-    2387
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Victor Lander 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/victor-lander-1-2--56438980
-   </link>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56438980
-   </guid>
-   <pubDate>
-    Fri, 20 Oct 2023 04:00:03 +0000
-   </pubDate>
-   <enclosure length="52592832" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56438980/fr_seriet_viktor_lander_del_1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:duration>
-    2189
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Stine Bosse 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/stine-bosse-2-2--57215388
-   </link>
-   <description>
-    Erhvervskvinde, debattør og nu politiker, Stine Bosse, er denne uges gæst i Fråseriet. Jonas Schmidt og Stine kommer hele vejen omkring, når det handler om alt fra kvinders liderlighed, til Stines enorme kærlighed til hunde og hendes temperament. &lt;br /&gt;Bossen er på, og der hygges igennem i en ærlig og indlevende samtale.&lt;br /&gt;&lt;br /&gt;Velbekomme!&lt;br /&gt;&lt;br /&gt;Programmet blev optaget få dage inden Stine Bosse sprang ud som Moderaternes kandidat til en plads i EU - derfor er det ikke en del af den ellers underholdende samtale.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57215388
-   </guid>
-   <pubDate>
-    Fri, 13 Oct 2023 03:45:02 +0000
-   </pubDate>
-   <enclosure length="52639488" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57215388/fr_seriet_stine_bosse_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Erhvervskvinde, debattør og nu politiker, Stine Bosse, er denne uges gæst i Fråseriet. Jonas Schmidt og Stine kommer hele vejen omkring, når det handler om alt fra kvinders liderlighed, til Stines enorme kærlighed til hunde og hendes temperament....
-   </itunes:subtitle>
-   <itunes:summary>
-    Erhvervskvinde, debattør og nu politiker, Stine Bosse, er denne uges gæst i Fråseriet. Jonas Schmidt og Stine kommer hele vejen omkring, når det handler om alt fra kvinders liderlighed, til Stines enorme kærlighed til hunde og hendes temperament. &lt;br /&gt;Bossen er på, og der hygges igennem i en ærlig og indlevende samtale.&lt;br /&gt;&lt;br /&gt;Velbekomme!&lt;br /&gt;&lt;br /&gt;Programmet blev optaget få dage inden Stine Bosse sprang ud som Moderaternes kandidat til en plads i EU - derfor er det ikke en del af den ellers underholdende samtale.
-   </itunes:summary>
-   <itunes:duration>
-    2191
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Stine Bosse 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/stine-bosse-1-2--57215358
-   </link>
-   <description>
-    Erhvervskvinde, debattør og nu politiker, Stine Bosse, er denne uges gæst i Fråseriet. Jonas Schmidt og Stine kommer hele vejen omkring, når det handler om alt fra kvinders liderlighed, til Stines enorme kærlighed til hunde og hendes temperament overfor nederdrægtige mænd. &lt;br /&gt;Bossen er på, og der hygges igennem i en ærlig og indlevende samtale.&lt;br /&gt;&lt;br /&gt;Velbekomme!&lt;br /&gt;&lt;br /&gt;Programmet blev optaget få dage inden Stine Bosse sprang ud som Moderaternes kandidat til en plads i EU - derfor er det ikke en del af den ellers underholdende samtale.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/57215358
-   </guid>
-   <pubDate>
-    Fri, 13 Oct 2023 03:30:02 +0000
-   </pubDate>
-   <enclosure length="56687040" type="audio/mpeg" url="https://api.spreaker.com/download/episode/57215358/fr_seriet_stine_bosse_del_1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Erhvervskvinde, debattør og nu politiker, Stine Bosse, er denne uges gæst i Fråseriet. Jonas Schmidt og Stine kommer hele vejen omkring, når det handler om alt fra kvinders liderlighed, til Stines enorme kærlighed til hunde og hendes temperament...
-   </itunes:subtitle>
-   <itunes:summary>
-    Erhvervskvinde, debattør og nu politiker, Stine Bosse, er denne uges gæst i Fråseriet. Jonas Schmidt og Stine kommer hele vejen omkring, når det handler om alt fra kvinders liderlighed, til Stines enorme kærlighed til hunde og hendes temperament overfor nederdrægtige mænd. &lt;br /&gt;Bossen er på, og der hygges igennem i en ærlig og indlevende samtale.&lt;br /&gt;&lt;br /&gt;Velbekomme!&lt;br /&gt;&lt;br /&gt;Programmet blev optaget få dage inden Stine Bosse sprang ud som Moderaternes kandidat til en plads i EU - derfor er det ikke en del af den ellers underholdende samtale.
-   </itunes:summary>
-   <itunes:duration>
-    2360
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Knud Romer 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/knud-romer-2-2--56403808
-   </link>
-   <description>
-    Den ekstremt kræsne Knud Romer gæster Jonas Schmidt til en snak om alt næsten fra at være for doven til at hente De Gyldne Laurbær til fortællingen om, hvordan man gatecrasher den største pornofest i Cannes, og hvordan det er at leve med at være misundelig på alt og alle. Velbekomme!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56403808
-   </guid>
-   <pubDate>
-    Fri, 06 Oct 2023 03:45:02 +0000
-   </pubDate>
-   <enclosure length="70326720" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56403808/fr_seriet_knud_romer_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Den ekstremt kræsne Knud Romer gæster Jonas Schmidt til en snak om alt næsten fra at være for doven til at hente De Gyldne Laurbær til fortællingen om, hvordan man gatecrasher den største pornofest i Cannes, og hvordan det er at leve med at være...
-   </itunes:subtitle>
-   <itunes:summary>
-    Den ekstremt kræsne Knud Romer gæster Jonas Schmidt til en snak om alt næsten fra at være for doven til at hente De Gyldne Laurbær til fortællingen om, hvordan man gatecrasher den største pornofest i Cannes, og hvordan det er at leve med at være misundelig på alt og alle. Velbekomme!
-   </itunes:summary>
-   <itunes:duration>
-    2928
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Knud Romer 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/knud-romer-1-2--56403807
-   </link>
-   <description>
-    Den ekstremt kræsne Knud Romer gæster Jonas Schmidt til en snak om alt næsten fra at være for doven til at hente De Gyldne Laurbær til fortællingen om, hvordan man gatecrasher den største pornofest i Cannes, og hvordan det er at leve med at være misundelig på alt og alle. Velbekomme!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56403807
-   </guid>
-   <pubDate>
-    Fri, 06 Oct 2023 03:30:02 +0000
-   </pubDate>
-   <enclosure length="48450240" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56403807/fr_seriet_knud_romer_del_1_ny.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Den ekstremt kræsne Knud Romer gæster Jonas Schmidt til en snak om alt næsten fra at være for doven til at hente De Gyldne Laurbær til fortællingen om, hvordan man gatecrasher den største pornofest i Cannes, og hvordan det er at leve med at være...
-   </itunes:subtitle>
-   <itunes:summary>
-    Den ekstremt kræsne Knud Romer gæster Jonas Schmidt til en snak om alt næsten fra at være for doven til at hente De Gyldne Laurbær til fortællingen om, hvordan man gatecrasher den største pornofest i Cannes, og hvordan det er at leve med at være misundelig på alt og alle. Velbekomme!
-   </itunes:summary>
-   <itunes:duration>
-    2017
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Jacob Risgaard 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/jacob-risgaard-2-2--56979777
-   </link>
-   <description>
-    I denne uges udgave af Fråseriet kan du blandt andet høre, hvordan Jacob Risgaard for nyligt har gennemgået en eksistentiel krise, da han nåede sit økonomiske mål, hvordan han blev undfanget i et onenight stand op af en kirkemur i Italien, hvordan man får succes med at sælge pornofilm til liderlige svenskere, hvordan ADHD er en superstyrke og meget, meget mere. Velbekomme.&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;Gæst:&lt;br /&gt;Jacob Risgaard&lt;br /&gt;&lt;br /&gt;Kok:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;Producent og redigering:&lt;br /&gt;Kim Pihl-Vester
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56979777
-   </guid>
-   <pubDate>
-    Fri, 29 Sep 2023 04:00:04 +0000
-   </pubDate>
-   <enclosure length="51179328" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56979777/fr_seriet_jacob_risgaard_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I denne uges udgave af Fråseriet kan du blandt andet høre, hvordan Jacob Risgaard for nyligt har gennemgået en eksistentiel krise, da han nåede sit økonomiske mål, hvordan han blev undfanget i et onenight stand op af en kirkemur i Italien, hvordan man...
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne uges udgave af Fråseriet kan du blandt andet høre, hvordan Jacob Risgaard for nyligt har gennemgået en eksistentiel krise, da han nåede sit økonomiske mål, hvordan han blev undfanget i et onenight stand op af en kirkemur i Italien, hvordan man får succes med at sælge pornofilm til liderlige svenskere, hvordan ADHD er en superstyrke og meget, meget mere. Velbekomme.&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;Gæst:&lt;br /&gt;Jacob Risgaard&lt;br /&gt;&lt;br /&gt;Kok:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;Producent og redigering:&lt;br /&gt;Kim Pihl-Vester
-   </itunes:summary>
-   <itunes:duration>
-    2130
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Jacob Risgaard 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/jacob-risgaard-1-2--56975637
-   </link>
-   <description>
-    I denne uges udgave af Fråseriet kan du blandt andet høre, hvordan Jacob Risgaard for nyligt har gennemgået en eksistentiel krise, da han nåede sit økonomiske mål, hvordan han blev undfanget i et onenight stand op af en kirkemur i Italien, hvordan man får succes med at sælge pornofilm til liderlige svenskere, hvordan ADHD er en superstyrke og meget, meget mere. Velbekomme.&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;Gæst:&lt;br /&gt;Jacob Risgaard&lt;br /&gt;&lt;br /&gt;Kok:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;Producent og redigering:&lt;br /&gt;Kim Pihl-Vester
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56975637
-   </guid>
-   <pubDate>
-    Fri, 29 Sep 2023 03:45:02 +0000
-   </pubDate>
-   <enclosure length="44054208" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56975637/fr_seriet_jakob_risgaard_del_1_ny.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I denne uges udgave af Fråseriet kan du blandt andet høre, hvordan Jacob Risgaard for nyligt har gennemgået en eksistentiel krise, da han nåede sit økonomiske mål, hvordan han blev undfanget i et onenight stand op af en kirkemur i Italien, hvordan man...
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne uges udgave af Fråseriet kan du blandt andet høre, hvordan Jacob Risgaard for nyligt har gennemgået en eksistentiel krise, da han nåede sit økonomiske mål, hvordan han blev undfanget i et onenight stand op af en kirkemur i Italien, hvordan man får succes med at sælge pornofilm til liderlige svenskere, hvordan ADHD er en superstyrke og meget, meget mere. Velbekomme.&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;Gæst:&lt;br /&gt;Jacob Risgaard&lt;br /&gt;&lt;br /&gt;Kok:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;Producent og redigering:&lt;br /&gt;Kim Pihl-Vester
-   </itunes:summary>
-   <itunes:duration>
-    1833
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Camilla Dalsgaard 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/camilla-dalsgaard-2-2--56883525
-   </link>
-   <description>
-    Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Camilla Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56883525
-   </guid>
-   <pubDate>
-    Fri, 22 Sep 2023 03:30:02 +0000
-   </pubDate>
-   <enclosure length="54429696" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56883525/fr_seriet_camilla_dalsgaard_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.
+En spiller under bruseren kan give klarsyn, det...</itunes:subtitle>
+         <itunes:summary>Sanger og musiker Nicky Russell fra det danske popband L.I.G.A hygger maks igennem med Jonas Schmidt i ugens afsnit.&lt;br /&gt;Endnu en uge med alkoholfri menu, men masser af farverige samtaler om dødssynderne.&lt;br /&gt;En spiller under bruseren kan give klarsyn, det kan være tæt på umuligt at falde i søvn efter et vellykket show, og så var Nickys vrede lige ved at få ham i håndgemæng under optagelserne til Stjerner i Trøjen.&lt;br /&gt;Og så er han ægte misundelig på Christoffers overlegne succes. Men Jonas er IKKE misundelig på Dar Salim.&lt;br /&gt;Velbekomme!</itunes:summary>
+         <itunes:duration>2225</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Jan Linnebjerg 2:2</title>
+         <link>https://www.spreaker.com/episode/jan-linnebjerg-2-2--57873490</link>
+         <description>Jan "Pyrus" Linnebjerg gæster Jonas "Dolph" Schmidt i Fråseriet, hvor snakken blandt handler om det, at være nødt til at tjene penge på en karakter, som blev skabt for årtier siden. Og at turde at stå ved det. Med stolthed.&lt;br /&gt;Jans manglende selvværd gjorde, at han tidligere lod sig udnytte og det medfølgende drikkeri vækkede hans indre vrede, som først blev slukket, da han endelig fik lagt alkoholen til side.&lt;br /&gt;&lt;br /&gt;I dag griner han sig derfor igennem alkoholfri drikke og lækker mad, der som altid er serveret af Jesper Schmidt. Og så fortæller Jan IKKE historien om dengang han mødte nogle skønne damer, som senere viste sig at være lidt mindre damer, end Jan og hans studievenner regnede med. &lt;br /&gt;&lt;br /&gt;Velbekomme!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57873490</guid>
+         <pubDate>Fri, 01 Dec 2023 07:35:36 +0000</pubDate>
+         <enclosure length="49311360" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.12.01%20-%20Jan%20Linnebjerg%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Jan "Pyrus" Linnebjerg gæster Jonas "Dolph" Schmidt i Fråseriet, hvor snakken blandt handler om det, at være nødt til at tjene penge på en karakter, som blev skabt for årtier siden. Og at turde at stå ved det. Med stolthed.
+Jans manglende selvværd...</itunes:subtitle>
+         <itunes:summary>Jan "Pyrus" Linnebjerg gæster Jonas "Dolph" Schmidt i Fråseriet, hvor snakken blandt handler om det, at være nødt til at tjene penge på en karakter, som blev skabt for årtier siden. Og at turde at stå ved det. Med stolthed.&lt;br /&gt;Jans manglende selvværd gjorde, at han tidligere lod sig udnytte og det medfølgende drikkeri vækkede hans indre vrede, som først blev slukket, da han endelig fik lagt alkoholen til side.&lt;br /&gt;&lt;br /&gt;I dag griner han sig derfor igennem alkoholfri drikke og lækker mad, der som altid er serveret af Jesper Schmidt. Og så fortæller Jan IKKE historien om dengang han mødte nogle skønne damer, som senere viste sig at være lidt mindre damer, end Jan og hans studievenner regnede med. &lt;br /&gt;&lt;br /&gt;Velbekomme!</itunes:summary>
+         <itunes:duration>2052</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Jan Linnebjerg 1:2</title>
+         <link>https://www.spreaker.com/episode/jan-linnebjerg-1-2--57873487</link>
+         <description>Jan "Pyrus" Linnebjerg gæster Jonas "Dolph" Schmidt i Fråseriet, hvor snakken blandt handler om det, at være nødt til at tjene penge på en karakter, som blev skabt for årtier siden. Og at turde at stå ved det. Med stolthed.&lt;br /&gt;Jans manglende selvværd gjorde, at han tidligere lod sig udnytte og det medfølgende drikkeri vækkede hans indre vrede, som først blev slukket, da han endelig fik lagt alkoholen til side.&lt;br /&gt;&lt;br /&gt;I dag griner han sig derfor igennem alkoholfri drikke og lækker mad, der som altid er serveret af Jesper Schmidt. Og så fortæller Jan IKKE historien om dengang han mødte nogle skønne damer, som senere viste sig at være lidt mindre damer, end Jan og hans studievenner regnede med. &lt;br /&gt;&lt;br /&gt;Velbekomme!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57873487</guid>
+         <pubDate>Fri, 01 Dec 2023 07:34:25 +0000</pubDate>
+         <enclosure length="44950464" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.12.01%20-%20Jan%20Linnebjerg%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Jan "Pyrus" Linnebjerg gæster Jonas "Dolph" Schmidt i Fråseriet, hvor snakken blandt handler om det, at være nødt til at tjene penge på en karakter, som blev skabt for årtier siden. Og at turde at stå ved det. Med stolthed.
+Jans manglende selvværd...</itunes:subtitle>
+         <itunes:summary>Jan "Pyrus" Linnebjerg gæster Jonas "Dolph" Schmidt i Fråseriet, hvor snakken blandt handler om det, at være nødt til at tjene penge på en karakter, som blev skabt for årtier siden. Og at turde at stå ved det. Med stolthed.&lt;br /&gt;Jans manglende selvværd gjorde, at han tidligere lod sig udnytte og det medfølgende drikkeri vækkede hans indre vrede, som først blev slukket, da han endelig fik lagt alkoholen til side.&lt;br /&gt;&lt;br /&gt;I dag griner han sig derfor igennem alkoholfri drikke og lækker mad, der som altid er serveret af Jesper Schmidt. Og så fortæller Jan IKKE historien om dengang han mødte nogle skønne damer, som senere viste sig at være lidt mindre damer, end Jan og hans studievenner regnede med. &lt;br /&gt;&lt;br /&gt;Velbekomme!</itunes:summary>
+         <itunes:duration>1871</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Tomas Villum Jensen 2:2</title>
+         <link>https://www.spreaker.com/episode/tomas-villum-jensen-2-2--57788681</link>
+         <description>Tomas og Jonas er ganske gode venner. Og rigtig gode kolleger. Og alt der imellem.&lt;br /&gt;I denne uges Fråseri snakker de om deres fælles hang til raseri, der har ramt begge på deres optagelser, og hvordan liderligheden også melder sig på banen, når de er på tur sammen. Begge elsker at fråse og at spise det ekstravagante, som gør livet lidt sødere. Dovenskab savnes, men tilstræbes. Og så elsker Tomas Whisky Sour. Sådan helt inderligt. Velkomme.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57788681</guid>
+         <pubDate>Fri, 24 Nov 2023 05:00:03 +0000</pubDate>
+         <enclosure length="49300416" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.11.24%20-%20Tomas%20Villum%20Jensen%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Tomas og Jonas er ganske gode venner. Og rigtig gode kolleger. Og alt der imellem.
+I denne uges Fråseri snakker de om deres fælles hang til raseri, der har ramt begge på deres optagelser, og hvordan liderligheden også melder sig på banen, når de er på...</itunes:subtitle>
+         <itunes:summary>Tomas og Jonas er ganske gode venner. Og rigtig gode kolleger. Og alt der imellem.&lt;br /&gt;I denne uges Fråseri snakker de om deres fælles hang til raseri, der har ramt begge på deres optagelser, og hvordan liderligheden også melder sig på banen, når de er på tur sammen. Begge elsker at fråse og at spise det ekstravagante, som gør livet lidt sødere. Dovenskab savnes, men tilstræbes. Og så elsker Tomas Whisky Sour. Sådan helt inderligt. Velkomme.</itunes:summary>
+         <itunes:duration>2052</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Tomas Villum Jensen 1:2</title>
+         <link>https://www.spreaker.com/episode/tomas-villum-jensen-1-2--57788661</link>
+         <description>Tomas og Jonas er ganske gode venner. Og rigtig gode kolleger. Og alt der imellem.&lt;br /&gt;I denne uges Fråseri snakker de om deres fælles hang til raseri, der har ramt begge på deres optagelser, og hvordan liderligheden også melder sig på banen, når de er på tur sammen. Begge elsker at fråse og at spise det ekstravagante, som gør livet lidt sødere. Dovenskab savnes, men tilstræbes. Og så elsker Tomas Whisky Sour. Sådan helt inderligt. Velkomme.&lt;br /&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57788661</guid>
+         <pubDate>Fri, 24 Nov 2023 04:55:02 +0000</pubDate>
+         <enclosure length="40064832" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.11.24%20-%20Tomas%20Villum%20Jensen%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Tomas og Jonas er ganske gode venner. Og rigtig gode kolleger. Og alt der imellem.
+I denne uges Fråseri snakker de om deres fælles hang til raseri, der har ramt begge på deres optagelser, og hvordan liderligheden også melder sig på banen, når de er på...</itunes:subtitle>
+         <itunes:summary>Tomas og Jonas er ganske gode venner. Og rigtig gode kolleger. Og alt der imellem.&lt;br /&gt;I denne uges Fråseri snakker de om deres fælles hang til raseri, der har ramt begge på deres optagelser, og hvordan liderligheden også melder sig på banen, når de er på tur sammen. Begge elsker at fråse og at spise det ekstravagante, som gør livet lidt sødere. Dovenskab savnes, men tilstræbes. Og så elsker Tomas Whisky Sour. Sådan helt inderligt. Velkomme.&lt;br /&gt;</itunes:summary>
+         <itunes:duration>1667</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Esben Pretzmann 2:2</title>
+         <link>https://www.spreaker.com/episode/esben-pretzmann-2-2--57664104</link>
+         <description>Komiker, skuespiller og kunstner Esben Pretzmann har sukkersyge og lever et selvvalgt liv i ketose. Det betyder nul sukker og kulhydrater. Men det afholder ham heldigvis ikke fra at fråse igennem med Jonas Schmidt, når de sammen snakker om blandt andet afholdenhed fra porno,mens de nyder russisk kaviar, foie gras og rigelige mængder ost og rødvin. Velbekomme.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57664104</guid>
+         <pubDate>Fri, 17 Nov 2023 05:05:02 +0000</pubDate>
+         <enclosure length="49855680" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.11.17%20-%20Esben%20Pretzmann%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Komiker, skuespiller og kunstner Esben Pretzmann har sukkersyge og lever et selvvalgt liv i ketose. Det betyder nul sukker og kulhydrater. Men det afholder ham heldigvis ikke fra at fråse igennem med Jonas Schmidt, når de sammen snakker om blandt...</itunes:subtitle>
+         <itunes:summary>Komiker, skuespiller og kunstner Esben Pretzmann har sukkersyge og lever et selvvalgt liv i ketose. Det betyder nul sukker og kulhydrater. Men det afholder ham heldigvis ikke fra at fråse igennem med Jonas Schmidt, når de sammen snakker om blandt andet afholdenhed fra porno,mens de nyder russisk kaviar, foie gras og rigelige mængder ost og rødvin. Velbekomme.</itunes:summary>
+         <itunes:duration>2075</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Esben Pretzmann 1:2</title>
+         <link>https://www.spreaker.com/episode/esben-pretzmann-1-2--57664100</link>
+         <description>Komiker, skuespiller og kunstner Esben Pretzmann har sukkersyge og lever et selvvalgt liv i ketose. Det betyder nul sukker og kulhydrater. Men det afholder ham heldigvis ikke fra at fråse igennem med Jonas Schmidt, når de sammen snakker om blandt andet afholdenhed fra porno,mens de nyder russisk kaviar, foie gras og rigelige mængder ost og rødvin. Velbekomme.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57664100</guid>
+         <pubDate>Fri, 17 Nov 2023 05:00:03 +0000</pubDate>
+         <enclosure length="36331200" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.11.17%20-%20Esben%20Pretzmann%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Komiker, skuespiller og kunstner Esben Pretzmann har sukkersyge og lever et selvvalgt liv i ketose. Det betyder nul sukker og kulhydrater. Men det afholder ham heldigvis ikke fra at fråse igennem med Jonas Schmidt, når de sammen snakker om blandt...</itunes:subtitle>
+         <itunes:summary>Komiker, skuespiller og kunstner Esben Pretzmann har sukkersyge og lever et selvvalgt liv i ketose. Det betyder nul sukker og kulhydrater. Men det afholder ham heldigvis ikke fra at fråse igennem med Jonas Schmidt, når de sammen snakker om blandt andet afholdenhed fra porno,mens de nyder russisk kaviar, foie gras og rigelige mængder ost og rødvin. Velbekomme.</itunes:summary>
+         <itunes:duration>1512</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Brian Mørk 2:2</title>
+         <link>https://www.spreaker.com/episode/brian-mork-2-2--57577878</link>
+         <description>mikeren Brian Mørk har aldrig været motiveret til noget som helst. Måske derfor er alle andre komikere mere succesfulde end ham selv, siger han. Han gider ikke at dyrke sex, da det kan medføre en kæreste, og så elsker han at skovle mad ind. Nå ja, så har han flere gange siddet ved siden af onanerende kvinder, der kørte bilen med ham som passager. Der er garanti for grin og godt selskab i ugens afsnit af Fråseriet, hvor Jonas Schmidt og Brian Mørk får rigeligt til ganen.&lt;br /&gt;&lt;br /&gt;Velbekomme.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57577878</guid>
+         <pubDate>Fri, 10 Nov 2023 05:05:02 +0000</pubDate>
+         <enclosure length="40547328" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.11.10%20-%20Brian%20M%C3%B8rk%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>mikeren Brian Mørk har aldrig været motiveret til noget som helst. Måske derfor er alle andre komikere mere succesfulde end ham selv, siger han. Han gider ikke at dyrke sex, da det kan medføre en kæreste, og så elsker han at skovle mad ind. Nå ja, så...</itunes:subtitle>
+         <itunes:summary>mikeren Brian Mørk har aldrig været motiveret til noget som helst. Måske derfor er alle andre komikere mere succesfulde end ham selv, siger han. Han gider ikke at dyrke sex, da det kan medføre en kæreste, og så elsker han at skovle mad ind. Nå ja, så har han flere gange siddet ved siden af onanerende kvinder, der kørte bilen med ham som passager. Der er garanti for grin og godt selskab i ugens afsnit af Fråseriet, hvor Jonas Schmidt og Brian Mørk får rigeligt til ganen.&lt;br /&gt;&lt;br /&gt;Velbekomme.</itunes:summary>
+         <itunes:duration>2531</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Brian Mørk 1:2</title>
+         <link>https://www.spreaker.com/episode/brian-mork-1-2--57577876</link>
+         <description>Komikeren Brian Mørk har aldrig været motiveret til noget som helst. Måske derfor er alle andre komikere mere succesfulde end ham selv, siger han. Han gider ikke at dyrke sex, da det kan medføre en kæreste, og så elsker han at skovle mad ind. Nå ja, så har han flere gange siddet ved siden af onanerende kvinder, der kørte bilen med ham som passager. Der er garanti for grin og godt selskab i ugens afsnit af Fråseriet, hvor Jonas Schmidt og Brian Mørk får rigeligt til ganen.&lt;br /&gt;&lt;br /&gt;Velbekomme.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57577876</guid>
+         <pubDate>Fri, 10 Nov 2023 05:00:03 +0000</pubDate>
+         <enclosure length="52154496" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.11.10%20-%20Brian%20M%C3%B8rk%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Komikeren Brian Mørk har aldrig været motiveret til noget som helst. Måske derfor er alle andre komikere mere succesfulde end ham selv, siger han. Han gider ikke at dyrke sex, da det kan medføre en kæreste, og så elsker han at skovle mad ind. Nå ja,...</itunes:subtitle>
+         <itunes:summary>Komikeren Brian Mørk har aldrig været motiveret til noget som helst. Måske derfor er alle andre komikere mere succesfulde end ham selv, siger han. Han gider ikke at dyrke sex, da det kan medføre en kæreste, og så elsker han at skovle mad ind. Nå ja, så har han flere gange siddet ved siden af onanerende kvinder, der kørte bilen med ham som passager. Der er garanti for grin og godt selskab i ugens afsnit af Fråseriet, hvor Jonas Schmidt og Brian Mørk får rigeligt til ganen.&lt;br /&gt;&lt;br /&gt;Velbekomme.</itunes:summary>
+         <itunes:duration>2171</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Mark Le Fêvre 2:2</title>
+         <link>https://www.spreaker.com/episode/mark-le-fevre-2-2--57481567</link>
+         <description>På stripklub med Microsoft. Ægte raseri over folk, der kaster affald. Og en hang til at dovne maks. Det - og meget andet - snakker Jonas Schmidt med komikeren Mark Le Fêvre om, men de fråser sig gennem meksikansk inspireret mad, øl med tabasco og kaffedrink med parmasan. Og så har Mark en helt klar holdning til at få ost som dessert. Velbekomme!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57481567</guid>
+         <pubDate>Fri, 03 Nov 2023 05:00:03 +0000</pubDate>
+         <enclosure length="56215296" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.11.03%20-%20Mark%20Le%20F%C3%AAvre%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>På stripklub med Microsoft. Ægte raseri over folk, der kaster affald. Og en hang til at dovne maks. Det - og meget andet - snakker Jonas Schmidt med komikeren Mark Le Fêvre om, men de fråser sig gennem meksikansk inspireret mad, øl med tabasco og...</itunes:subtitle>
+         <itunes:summary>På stripklub med Microsoft. Ægte raseri over folk, der kaster affald. Og en hang til at dovne maks. Det - og meget andet - snakker Jonas Schmidt med komikeren Mark Le Fêvre om, men de fråser sig gennem meksikansk inspireret mad, øl med tabasco og kaffedrink med parmasan. Og så har Mark en helt klar holdning til at få ost som dessert. Velbekomme!</itunes:summary>
+         <itunes:duration>2340</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Mark Le Fêvre 1:2</title>
+         <link>https://www.spreaker.com/episode/mark-le-fevre-1-2--57481566</link>
+         <description>På stripklub med Microsoft. Ægte raseri over folk, der kaster affald. Og en hang til at dovne maks. Det - og meget andet - snakker Jonas Schmidt med komikeren Mark Le Fêvre om, men de fråser sig gennem meksikansk inspireret mad, øl med tabasco og kaffedrink med parmasan. Og så har Mark en helt klar holdning til at få ost som dessert. Velbekomme!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57481566</guid>
+         <pubDate>Fri, 03 Nov 2023 04:55:02 +0000</pubDate>
+         <enclosure length="58108032" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.11.03%20-%20Mark%20Le%20F%C3%AAvre%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>På stripklub med Microsoft. Ægte raseri over folk, der kaster affald. Og en hang til at dovne maks. Det - og meget andet - snakker Jonas Schmidt med komikeren Mark Le Fêvre om, men de fråser sig gennem meksikansk inspireret mad, øl med tabasco og...</itunes:subtitle>
+         <itunes:summary>På stripklub med Microsoft. Ægte raseri over folk, der kaster affald. Og en hang til at dovne maks. Det - og meget andet - snakker Jonas Schmidt med komikeren Mark Le Fêvre om, men de fråser sig gennem meksikansk inspireret mad, øl med tabasco og kaffedrink med parmasan. Og så har Mark en helt klar holdning til at få ost som dessert. Velbekomme!</itunes:summary>
+         <itunes:duration>2419</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Pelle Emil Rex Hebsgaard  2:2</title>
+         <link>https://www.spreaker.com/episode/pelle-emil-rex-hebsgaard-2-2--57398937</link>
+         <description>Skuespilleren Pelle Emil Hebsgaard nyder i den grad at fråse igennem med Jonas og Jesper i ugens afsnit. Han hader når folk ikke er nærværende i en samtale, men elsker at fråse ure og legetøj. Og så er liderlighed skønt og perfekt. Undtagen når man lige bliver taget midt i den seksuelle akt - af sin mor - og svigerfar.&lt;br /&gt;Velbekomme</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57398937</guid>
+         <pubDate>Fri, 27 Oct 2023 03:55:01 +0000</pubDate>
+         <enclosure length="55189440" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.10.27%20-%20Pelle%20Emil%20Rex%20Hebsgaard%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Skuespilleren Pelle Emil Hebsgaard nyder i den grad at fråse igennem med Jonas og Jesper i ugens afsnit. Han hader når folk ikke er nærværende i en samtale, men elsker at fråse ure og legetøj. Og så er liderlighed skønt og perfekt. Undtagen når man...</itunes:subtitle>
+         <itunes:summary>Skuespilleren Pelle Emil Hebsgaard nyder i den grad at fråse igennem med Jonas og Jesper i ugens afsnit. Han hader når folk ikke er nærværende i en samtale, men elsker at fråse ure og legetøj. Og så er liderlighed skønt og perfekt. Undtagen når man lige bliver taget midt i den seksuelle akt - af sin mor - og svigerfar.&lt;br /&gt;Velbekomme</itunes:summary>
+         <itunes:duration>2297</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Pelle Emil Rex Hebsgaard 1:2</title>
+         <link>https://www.spreaker.com/episode/pelle-emil-rex-hebsgaard-1-2--57398936</link>
+         <description>Skuespilleren Pelle Emil Hebsgaard nyder i den grad at fråse igennem med Jonas og Jesper i ugens afsnit. Han hader når folk ikke er nærværende i en samtale, men elsker at fråse ure og legetøj. Og så er liderlighed skønt og perfekt. Undtagen når man lige bliver taget midt i den seksuelle akt - af sin mor - og svigerfar.&lt;br /&gt;Velbekomme</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57398936</guid>
+         <pubDate>Fri, 27 Oct 2023 03:50:02 +0000</pubDate>
+         <enclosure length="45862272" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.10.27%20-%20Pelle%20Emil%20Rex%20Hebsgaard%20%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Skuespilleren Pelle Emil Hebsgaard nyder i den grad at fråse igennem med Jonas og Jesper i ugens afsnit. Han hader når folk ikke er nærværende i en samtale, men elsker at fråse ure og legetøj. Og så er liderlighed skønt og perfekt. Undtagen når man...</itunes:subtitle>
+         <itunes:summary>Skuespilleren Pelle Emil Hebsgaard nyder i den grad at fråse igennem med Jonas og Jesper i ugens afsnit. Han hader når folk ikke er nærværende i en samtale, men elsker at fråse ure og legetøj. Og så er liderlighed skønt og perfekt. Undtagen når man lige bliver taget midt i den seksuelle akt - af sin mor - og svigerfar.&lt;br /&gt;Velbekomme</itunes:summary>
+         <itunes:duration>1909</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Victor Lander 2:2</title>
+         <link>https://www.spreaker.com/episode/victor-lander-2-2--56612065</link>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56612065</guid>
+         <pubDate>Fri, 20 Oct 2023 04:05:02 +0000</pubDate>
+         <enclosure length="57330432" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.10.20%20-%20Victor%20Lander%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:duration>2387</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Victor Lander 1:2</title>
+         <link>https://www.spreaker.com/episode/victor-lander-1-2--56438980</link>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56438980</guid>
+         <pubDate>Fri, 20 Oct 2023 04:00:03 +0000</pubDate>
+         <enclosure length="52592832" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.10.20%20-%20Victor%20Lander%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:duration>2189</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Stine Bosse 2:2</title>
+         <link>https://www.spreaker.com/episode/stine-bosse-2-2--57215388</link>
+         <description>Erhvervskvinde, debattør og nu politiker, Stine Bosse, er denne uges gæst i Fråseriet. Jonas Schmidt og Stine kommer hele vejen omkring, når det handler om alt fra kvinders liderlighed, til Stines enorme kærlighed til hunde og hendes temperament. &lt;br /&gt;Bossen er på, og der hygges igennem i en ærlig og indlevende samtale.&lt;br /&gt;&lt;br /&gt;Velbekomme!&lt;br /&gt;&lt;br /&gt;Programmet blev optaget få dage inden Stine Bosse sprang ud som Moderaternes kandidat til en plads i EU - derfor er det ikke en del af den ellers underholdende samtale.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57215388</guid>
+         <pubDate>Fri, 13 Oct 2023 03:45:02 +0000</pubDate>
+         <enclosure length="52639488" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.10.13%20-%20Stine%20Bosse%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Erhvervskvinde, debattør og nu politiker, Stine Bosse, er denne uges gæst i Fråseriet. Jonas Schmidt og Stine kommer hele vejen omkring, når det handler om alt fra kvinders liderlighed, til Stines enorme kærlighed til hunde og hendes temperament....</itunes:subtitle>
+         <itunes:summary>Erhvervskvinde, debattør og nu politiker, Stine Bosse, er denne uges gæst i Fråseriet. Jonas Schmidt og Stine kommer hele vejen omkring, når det handler om alt fra kvinders liderlighed, til Stines enorme kærlighed til hunde og hendes temperament. &lt;br /&gt;Bossen er på, og der hygges igennem i en ærlig og indlevende samtale.&lt;br /&gt;&lt;br /&gt;Velbekomme!&lt;br /&gt;&lt;br /&gt;Programmet blev optaget få dage inden Stine Bosse sprang ud som Moderaternes kandidat til en plads i EU - derfor er det ikke en del af den ellers underholdende samtale.</itunes:summary>
+         <itunes:duration>2191</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Stine Bosse 1:2</title>
+         <link>https://www.spreaker.com/episode/stine-bosse-1-2--57215358</link>
+         <description>Erhvervskvinde, debattør og nu politiker, Stine Bosse, er denne uges gæst i Fråseriet. Jonas Schmidt og Stine kommer hele vejen omkring, når det handler om alt fra kvinders liderlighed, til Stines enorme kærlighed til hunde og hendes temperament overfor nederdrægtige mænd. &lt;br /&gt;Bossen er på, og der hygges igennem i en ærlig og indlevende samtale.&lt;br /&gt;&lt;br /&gt;Velbekomme!&lt;br /&gt;&lt;br /&gt;Programmet blev optaget få dage inden Stine Bosse sprang ud som Moderaternes kandidat til en plads i EU - derfor er det ikke en del af den ellers underholdende samtale.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/57215358</guid>
+         <pubDate>Fri, 13 Oct 2023 03:30:02 +0000</pubDate>
+         <enclosure length="56687040" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.10.13%20-%20Stine%20Bosse%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Erhvervskvinde, debattør og nu politiker, Stine Bosse, er denne uges gæst i Fråseriet. Jonas Schmidt og Stine kommer hele vejen omkring, når det handler om alt fra kvinders liderlighed, til Stines enorme kærlighed til hunde og hendes temperament...</itunes:subtitle>
+         <itunes:summary>Erhvervskvinde, debattør og nu politiker, Stine Bosse, er denne uges gæst i Fråseriet. Jonas Schmidt og Stine kommer hele vejen omkring, når det handler om alt fra kvinders liderlighed, til Stines enorme kærlighed til hunde og hendes temperament overfor nederdrægtige mænd. &lt;br /&gt;Bossen er på, og der hygges igennem i en ærlig og indlevende samtale.&lt;br /&gt;&lt;br /&gt;Velbekomme!&lt;br /&gt;&lt;br /&gt;Programmet blev optaget få dage inden Stine Bosse sprang ud som Moderaternes kandidat til en plads i EU - derfor er det ikke en del af den ellers underholdende samtale.</itunes:summary>
+         <itunes:duration>2360</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Knud Romer 2:2</title>
+         <link>https://www.spreaker.com/episode/knud-romer-2-2--56403808</link>
+         <description>Den ekstremt kræsne Knud Romer gæster Jonas Schmidt til en snak om alt næsten fra at være for doven til at hente De Gyldne Laurbær til fortællingen om, hvordan man gatecrasher den største pornofest i Cannes, og hvordan det er at leve med at være misundelig på alt og alle. Velbekomme!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56403808</guid>
+         <pubDate>Fri, 06 Oct 2023 03:45:02 +0000</pubDate>
+         <enclosure length="70326720" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.10.06%20-%20Knud%20Romer%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Den ekstremt kræsne Knud Romer gæster Jonas Schmidt til en snak om alt næsten fra at være for doven til at hente De Gyldne Laurbær til fortællingen om, hvordan man gatecrasher den største pornofest i Cannes, og hvordan det er at leve med at være...</itunes:subtitle>
+         <itunes:summary>Den ekstremt kræsne Knud Romer gæster Jonas Schmidt til en snak om alt næsten fra at være for doven til at hente De Gyldne Laurbær til fortællingen om, hvordan man gatecrasher den største pornofest i Cannes, og hvordan det er at leve med at være misundelig på alt og alle. Velbekomme!</itunes:summary>
+         <itunes:duration>2928</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Knud Romer 1:2</title>
+         <link>https://www.spreaker.com/episode/knud-romer-1-2--56403807</link>
+         <description>Den ekstremt kræsne Knud Romer gæster Jonas Schmidt til en snak om alt næsten fra at være for doven til at hente De Gyldne Laurbær til fortællingen om, hvordan man gatecrasher den største pornofest i Cannes, og hvordan det er at leve med at være misundelig på alt og alle. Velbekomme!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56403807</guid>
+         <pubDate>Fri, 06 Oct 2023 03:30:02 +0000</pubDate>
+         <enclosure length="48450240" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.10.06%20-%20Knud%20Romer%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Den ekstremt kræsne Knud Romer gæster Jonas Schmidt til en snak om alt næsten fra at være for doven til at hente De Gyldne Laurbær til fortællingen om, hvordan man gatecrasher den største pornofest i Cannes, og hvordan det er at leve med at være...</itunes:subtitle>
+         <itunes:summary>Den ekstremt kræsne Knud Romer gæster Jonas Schmidt til en snak om alt næsten fra at være for doven til at hente De Gyldne Laurbær til fortællingen om, hvordan man gatecrasher den største pornofest i Cannes, og hvordan det er at leve med at være misundelig på alt og alle. Velbekomme!</itunes:summary>
+         <itunes:duration>2017</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Jacob Risgaard 2:2</title>
+         <link>https://www.spreaker.com/episode/jacob-risgaard-2-2--56979777</link>
+         <description>I denne uges udgave af Fråseriet kan du blandt andet høre, hvordan Jacob Risgaard for nyligt har gennemgået en eksistentiel krise, da han nåede sit økonomiske mål, hvordan han blev undfanget i et onenight stand op af en kirkemur i Italien, hvordan man får succes med at sælge pornofilm til liderlige svenskere, hvordan ADHD er en superstyrke og meget, meget mere. Velbekomme.&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;Gæst:&lt;br /&gt;Jacob Risgaard&lt;br /&gt;&lt;br /&gt;Kok:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;Producent og redigering:&lt;br /&gt;Kim Pihl-Vester</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56979777</guid>
+         <pubDate>Fri, 29 Sep 2023 04:00:04 +0000</pubDate>
+         <enclosure length="51179328" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.09.29%20-%20Jacob%20Risgaard%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I denne uges udgave af Fråseriet kan du blandt andet høre, hvordan Jacob Risgaard for nyligt har gennemgået en eksistentiel krise, da han nåede sit økonomiske mål, hvordan han blev undfanget i et onenight stand op af en kirkemur i Italien, hvordan man...</itunes:subtitle>
+         <itunes:summary>I denne uges udgave af Fråseriet kan du blandt andet høre, hvordan Jacob Risgaard for nyligt har gennemgået en eksistentiel krise, da han nåede sit økonomiske mål, hvordan han blev undfanget i et onenight stand op af en kirkemur i Italien, hvordan man får succes med at sælge pornofilm til liderlige svenskere, hvordan ADHD er en superstyrke og meget, meget mere. Velbekomme.&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;Gæst:&lt;br /&gt;Jacob Risgaard&lt;br /&gt;&lt;br /&gt;Kok:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;Producent og redigering:&lt;br /&gt;Kim Pihl-Vester</itunes:summary>
+         <itunes:duration>2130</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Jacob Risgaard 1:2</title>
+         <link>https://www.spreaker.com/episode/jacob-risgaard-1-2--56975637</link>
+         <description>I denne uges udgave af Fråseriet kan du blandt andet høre, hvordan Jacob Risgaard for nyligt har gennemgået en eksistentiel krise, da han nåede sit økonomiske mål, hvordan han blev undfanget i et onenight stand op af en kirkemur i Italien, hvordan man får succes med at sælge pornofilm til liderlige svenskere, hvordan ADHD er en superstyrke og meget, meget mere. Velbekomme.&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;Gæst:&lt;br /&gt;Jacob Risgaard&lt;br /&gt;&lt;br /&gt;Kok:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;Producent og redigering:&lt;br /&gt;Kim Pihl-Vester</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56975637</guid>
+         <pubDate>Fri, 29 Sep 2023 03:45:02 +0000</pubDate>
+         <enclosure length="44054208" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.09.29%20-%20Jacob%20Risgaard%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I denne uges udgave af Fråseriet kan du blandt andet høre, hvordan Jacob Risgaard for nyligt har gennemgået en eksistentiel krise, da han nåede sit økonomiske mål, hvordan han blev undfanget i et onenight stand op af en kirkemur i Italien, hvordan man...</itunes:subtitle>
+         <itunes:summary>I denne uges udgave af Fråseriet kan du blandt andet høre, hvordan Jacob Risgaard for nyligt har gennemgået en eksistentiel krise, da han nåede sit økonomiske mål, hvordan han blev undfanget i et onenight stand op af en kirkemur i Italien, hvordan man får succes med at sælge pornofilm til liderlige svenskere, hvordan ADHD er en superstyrke og meget, meget mere. Velbekomme.&lt;br /&gt;&lt;br /&gt;Vært: &lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;Gæst:&lt;br /&gt;Jacob Risgaard&lt;br /&gt;&lt;br /&gt;Kok:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;Producent og redigering:&lt;br /&gt;Kim Pihl-Vester</itunes:summary>
+         <itunes:duration>1833</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Camilla Dalsgaard 2:2</title>
+         <link>https://www.spreaker.com/episode/camilla-dalsgaard-2-2--56883525</link>
+         <description>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Camilla Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56883525</guid>
+         <pubDate>Fri, 22 Sep 2023 03:30:02 +0000</pubDate>
+         <enclosure length="54429696" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.09.22%20-%20Camilla%20Dalsgaard%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.
 
 Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.
-Hver uge fråser...
-   </itunes:subtitle>
-   <itunes:summary>
-    Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Camilla Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt
-   </itunes:summary>
-   <itunes:duration>
-    2266
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Camilla Dalsgaard 1:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/camilla-dalsgaard-1-2--56403915
-   </link>
-   <description>
-    Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Camilla Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56403915
-   </guid>
-   <pubDate>
-    Fri, 22 Sep 2023 03:30:02 +0000
-   </pubDate>
-   <enclosure length="52933248" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56403915/fr_seriet_camilla_dalsgaard_1_final.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.
+Hver uge fråser...</itunes:subtitle>
+         <itunes:summary>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Camilla Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt</itunes:summary>
+         <itunes:duration>2266</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Camilla Dalsgaard 1:2</title>
+         <link>https://www.spreaker.com/episode/camilla-dalsgaard-1-2--56403915</link>
+         <description>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Camilla Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56403915</guid>
+         <pubDate>Fri, 22 Sep 2023 03:30:02 +0000</pubDate>
+         <enclosure length="52933248" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.09.22%20-%20Camilla%20Dalsgaard%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.
 
 Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.
-Hver uge fråser...
-   </itunes:subtitle>
-   <itunes:summary>
-    Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Camilla Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt
-   </itunes:summary>
-   <itunes:duration>
-    2203
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Esben Dalgaard 1:1
-   </title>
-   <link>
-    https://www.spreaker.com/episode/esben-dalgaard-1-1--56403856
-   </link>
-   <description>
-    Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Esben Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56403856
-   </guid>
-   <pubDate>
-    Fri, 22 Sep 2023 03:30:02 +0000
-   </pubDate>
-   <enclosure length="53915904" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56403856/fr_seriet_esben_dalgaard_del_1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.
+Hver uge fråser...</itunes:subtitle>
+         <itunes:summary>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Camilla Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt</itunes:summary>
+         <itunes:duration>2203</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Esben Dalgaard 1:1</title>
+         <link>https://www.spreaker.com/episode/esben-dalgaard-1-1--56403856</link>
+         <description>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Esben Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56403856</guid>
+         <pubDate>Fri, 22 Sep 2023 03:30:02 +0000</pubDate>
+         <enclosure length="53915904" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.09.22%20-%20Esben%20Dalgaard%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.
 
 Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.
-Hver uge fråser...
-   </itunes:subtitle>
-   <itunes:summary>
-    Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Esben Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt
-   </itunes:summary>
-   <itunes:duration>
-    2244
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Esben Dalgaard 2:2
-   </title>
-   <link>
-    https://www.spreaker.com/episode/esben-dalgaard-2-2--56403855
-   </link>
-   <description>
-    Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Esben Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56403855
-   </guid>
-   <pubDate>
-    Fri, 22 Sep 2023 03:30:02 +0000
-   </pubDate>
-   <enclosure length="66684672" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56403855/fr_seriet_esben_dalgaard_del_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.
+Hver uge fråser...</itunes:subtitle>
+         <itunes:summary>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Esben Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt</itunes:summary>
+         <itunes:duration>2244</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Esben Dalgaard 2:2</title>
+         <link>https://www.spreaker.com/episode/esben-dalgaard-2-2--56403855</link>
+         <description>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Esben Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56403855</guid>
+         <pubDate>Fri, 22 Sep 2023 03:30:02 +0000</pubDate>
+         <enclosure length="66684672" type="audio/mpeg" url="https://archive.org/download/fraseriet/Fr%C3%A5seriet/2023.09.22%20-%20Esben%20Dalgaard%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.
 
 Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.
-Hver uge fråser...
-   </itunes:subtitle>
-   <itunes:summary>
-    Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Esben Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt
-   </itunes:summary>
-   <itunes:duration>
-    2776
-   </itunes:duration>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+Hver uge fråser...</itunes:subtitle>
+         <itunes:summary>Fråseriet er programmet, der hylder og omfavner de 7 bibelske dødsynder.&lt;br /&gt;&lt;br /&gt;Vi kulegraver og dykker ned i det søde liv, det dekadente, livet i overhalingsbanen og prisen, hvis der er en, man betaler for at leve det ekstravagante liv.&lt;br /&gt;Hver uge fråser Jonas Schmidt sig gennem 7 ekstravagante, eksotiske og dekadente retter eller drinks - med en kendt gæst. Tilberedt og serveret af kok og drink ekvilibrist Jesper Schmidt.&lt;br /&gt;&lt;br /&gt;Der er højt humør og altid skønt selskab.&lt;br /&gt;&lt;br /&gt;Velbekomme&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Vært&lt;/b&gt;:&lt;br /&gt;Jonas Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Kok&lt;/b&gt;:&lt;br /&gt;Jesper Schmidt&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæst:&lt;/b&gt;&lt;br /&gt;Esben Dalgaard&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Ide og koncept&lt;/b&gt;:&lt;br /&gt;Kim Pihl-Vester og Jonas Schmidt</itunes:summary>
+         <itunes:duration>2776</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1766c258f26233feec10a981afb44983.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

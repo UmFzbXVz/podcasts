@@ -1,1239 +1,513 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Nyhedskollektionen
-  </title>
-  <link>
-   https://loud.land/podcast/nyheds-kollektionen
-  </link>
-  <description>
-   En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4439348/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   News
-  </category>
-  <copyright>
-   521943
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg
-   </url>
-   <title>
-    Nyhedskollektionen
-   </title>
-   <link>
-    https://loud.land/podcast/nyheds-kollektionen
-   </link>
-  </image>
-  <lastBuildDate>
-   Thu, 11 Jan 2024 10:36:33 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-  <itunes:subtitle>
-   Ugens nyheder pakket til dig
-  </itunes:subtitle>
-  <itunes:summary>
-   En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-  </itunes:summary>
-  <itunes:category text="News"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Nyhedskollektionen 6. februar
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-6-februar--43405854
-   </link>
-   <description>
-    Hver femte unge har ikke nogen at gå til med spørgsmål om livsforsikringer, mobilabonnement og skattesmæk. Det kan rode dem ud i store problemer - især, når de flytter hjemmefra. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen giver dig nogle tips, der kan hjælpe dig med at styre dig uden om isbjerget, hvis din økonomi sejler. &lt;br /&gt;&lt;br /&gt;Produceret og fortalt af Flora Juul Holst
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43405854
-   </guid>
-   <pubDate>
-    Thu, 11 Feb 2021 18:44:49 +0000
-   </pubDate>
-   <enclosure length="11511012" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43405854/nyhedskollektionen0602.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hver femte unge har ikke nogen at gå til med spørgsmål om livsforsikringer, mobilabonnement og skattesmæk. Det kan rode dem ud i store problemer - især, når de flytter hjemmefra. 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Nyhedskollektionen</title>
+      <link>https://loud.land/podcast/nyheds-kollektionen</link>
+      <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</description>
+      <atom:link href="https://www.spreaker.com/show/4439348/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>News</category>
+      <copyright>521943</copyright>
+      <image>
+         <url>https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/8c7859d8dd39f6058fa77b9b1d4fc664.jpg</url>
+         <title>Nyhedskollektionen</title>
+         <link>https://loud.land/podcast/nyheds-kollektionen</link>
+      </image>
+      <lastBuildDate>Thu, 11 Jan 2024 10:36:33 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+      <itunes:subtitle>Ugens nyheder pakket til dig</itunes:subtitle>
+      <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:summary>
+      <itunes:category text="News" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Nyhedskollektionen 6. februar</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-6-februar--43405854</link>
+         <description>Hver femte unge har ikke nogen at gå til med spørgsmål om livsforsikringer, mobilabonnement og skattesmæk. Det kan rode dem ud i store problemer - især, når de flytter hjemmefra. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen giver dig nogle tips, der kan hjælpe dig med at styre dig uden om isbjerget, hvis din økonomi sejler. &lt;br /&gt;&lt;br /&gt;Produceret og fortalt af Flora Juul Holst</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43405854</guid>
+         <pubDate>Thu, 11 Feb 2021 18:44:49 +0000</pubDate>
+         <enclosure length="11511012" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2021.02.11%20-%20Nyhedskollektionen%206.%20februar.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hver femte unge har ikke nogen at gå til med spørgsmål om livsforsikringer, mobilabonnement og skattesmæk. Det kan rode dem ud i store problemer - især, når de flytter hjemmefra. 
 
-Nyhedskollektionen giver dig nogle tips, der kan hjælpe dig med at...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hver femte unge har ikke nogen at gå til med spørgsmål om livsforsikringer, mobilabonnement og skattesmæk. Det kan rode dem ud i store problemer - især, når de flytter hjemmefra. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen giver dig nogle tips, der kan hjælpe dig med at styre dig uden om isbjerget, hvis din økonomi sejler. &lt;br /&gt;&lt;br /&gt;Produceret og fortalt af Flora Juul Holst
-   </itunes:summary>
-   <itunes:duration>
-    720
-   </itunes:duration>
-   <itunes:keywords>
-    gæld,moneymom,økonomi,opsparing,tips,unge
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 30. januar
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-30-januar--43202616
-   </link>
-   <description>
-    Coronamodstanden fylder mere og mere i mediernes overskrifter. &lt;br /&gt;Vi hører om kendte, der tager til Dubai, om unge, der smutter på skiture til Østrig for at feste, og om organisationen Men In Black, der kæmper imod regeringens restriktioner. &lt;br /&gt;&lt;br /&gt;Er det et tegn på en voksende samfundsudvikling? &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen dykker ned i, hvordan danskernes holdning til corona og regeringens krisehåndtering har uviklet sig de seneste uger. &lt;br /&gt;&lt;br /&gt;Af Flora Juul Holst
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43202616
-   </guid>
-   <pubDate>
-    Sat, 30 Jan 2021 19:38:24 +0000
-   </pubDate>
-   <enclosure length="11038719" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43202616/nyhedskollektionen3001.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Coronamodstanden fylder mere og mere i mediernes overskrifter. 
+Nyhedskollektionen giver dig nogle tips, der kan hjælpe dig med at...</itunes:subtitle>
+         <itunes:summary>Hver femte unge har ikke nogen at gå til med spørgsmål om livsforsikringer, mobilabonnement og skattesmæk. Det kan rode dem ud i store problemer - især, når de flytter hjemmefra. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen giver dig nogle tips, der kan hjælpe dig med at styre dig uden om isbjerget, hvis din økonomi sejler. &lt;br /&gt;&lt;br /&gt;Produceret og fortalt af Flora Juul Holst</itunes:summary>
+         <itunes:duration>720</itunes:duration>
+         <itunes:keywords>gæld,moneymom,økonomi,opsparing,tips,unge</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 30. januar</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-30-januar--43202616</link>
+         <description>Coronamodstanden fylder mere og mere i mediernes overskrifter. &lt;br /&gt;Vi hører om kendte, der tager til Dubai, om unge, der smutter på skiture til Østrig for at feste, og om organisationen Men In Black, der kæmper imod regeringens restriktioner. &lt;br /&gt;&lt;br /&gt;Er det et tegn på en voksende samfundsudvikling? &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen dykker ned i, hvordan danskernes holdning til corona og regeringens krisehåndtering har uviklet sig de seneste uger. &lt;br /&gt;&lt;br /&gt;Af Flora Juul Holst</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43202616</guid>
+         <pubDate>Sat, 30 Jan 2021 19:38:24 +0000</pubDate>
+         <enclosure length="11038719" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2021.01.30%20-%20Nyhedskollektionen%2030.%20januar.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Coronamodstanden fylder mere og mere i mediernes overskrifter. 
 Vi hører om kendte, der tager til Dubai, om unge, der smutter på skiture til Østrig for at feste, og om organisationen Men In Black, der kæmper imod regeringens restriktioner. 
 
-Er det et...
-   </itunes:subtitle>
-   <itunes:summary>
-    Coronamodstanden fylder mere og mere i mediernes overskrifter. &lt;br /&gt;Vi hører om kendte, der tager til Dubai, om unge, der smutter på skiture til Østrig for at feste, og om organisationen Men In Black, der kæmper imod regeringens restriktioner. &lt;br /&gt;&lt;br /&gt;Er det et tegn på en voksende samfundsudvikling? &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen dykker ned i, hvordan danskernes holdning til corona og regeringens krisehåndtering har uviklet sig de seneste uger. &lt;br /&gt;&lt;br /&gt;Af Flora Juul Holst
-   </itunes:summary>
-   <itunes:duration>
-    690
-   </itunes:duration>
-   <itunes:keywords>
-    alisufi,corona,demonstration,dubai,fest,hope,meninblack,mettef,østrig,pressemøde,regeringen
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 23. januar
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-23-januar--43108698
-   </link>
-   <description>
-    Regeringen stikker højskolerne lidt lommepenge, så de kan klare sig gennem den elevløse vinter. &lt;br /&gt;&lt;br /&gt;I mellemtiden sidder højskoleeleverne derhjemme og venter på fællesskabet. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionerne tjekker op på, hvordan det går med højskoledanmark.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43108698
-   </guid>
-   <pubDate>
-    Mon, 25 Jan 2021 15:54:21 +0000
-   </pubDate>
-   <enclosure length="10533406" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43108698/h_jskolerne_for_tiden.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Regeringen stikker højskolerne lidt lommepenge, så de kan klare sig gennem den elevløse vinter. 
+Er det et...</itunes:subtitle>
+         <itunes:summary>Coronamodstanden fylder mere og mere i mediernes overskrifter. &lt;br /&gt;Vi hører om kendte, der tager til Dubai, om unge, der smutter på skiture til Østrig for at feste, og om organisationen Men In Black, der kæmper imod regeringens restriktioner. &lt;br /&gt;&lt;br /&gt;Er det et tegn på en voksende samfundsudvikling? &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen dykker ned i, hvordan danskernes holdning til corona og regeringens krisehåndtering har uviklet sig de seneste uger. &lt;br /&gt;&lt;br /&gt;Af Flora Juul Holst</itunes:summary>
+         <itunes:duration>690</itunes:duration>
+         <itunes:keywords>alisufi,corona,demonstration,dubai,fest,hope,meninblack,mettef,østrig,pressemøde,regeringen</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 23. januar</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-23-januar--43108698</link>
+         <description>Regeringen stikker højskolerne lidt lommepenge, så de kan klare sig gennem den elevløse vinter. &lt;br /&gt;&lt;br /&gt;I mellemtiden sidder højskoleeleverne derhjemme og venter på fællesskabet. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionerne tjekker op på, hvordan det går med højskoledanmark.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43108698</guid>
+         <pubDate>Mon, 25 Jan 2021 15:54:21 +0000</pubDate>
+         <enclosure length="10533406" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2021.01.25%20-%20Nyhedskollektionen%2023.%20januar.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Regeringen stikker højskolerne lidt lommepenge, så de kan klare sig gennem den elevløse vinter. 
 
 I mellemtiden sidder højskoleeleverne derhjemme og venter på fællesskabet. 
 
-Nyhedskollektionerne tjekker op på, hvordan det går med højskoledanmark.
-   </itunes:subtitle>
-   <itunes:summary>
-    Regeringen stikker højskolerne lidt lommepenge, så de kan klare sig gennem den elevløse vinter. &lt;br /&gt;&lt;br /&gt;I mellemtiden sidder højskoleeleverne derhjemme og venter på fællesskabet. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionerne tjekker op på, hvordan det går med højskoledanmark.
-   </itunes:summary>
-   <itunes:duration>
-    659
-   </itunes:duration>
-   <itunes:keywords>
-    ffd,højskole,kulturministeriet,ollerup,tinyhouse,vestjylland
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 16. januar
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-16-januar--43004685
-   </link>
-   <description>
-    En kæmpe folkemængde stormede den amerikanske kongres, og nu skal Donald Trump for en rigsret. &lt;br /&gt;Nyhedskollektionen fører dig gennem den dag, hvor USA's demokrati fik sig lidt af en hudafskrabning.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43004685
-   </guid>
-   <pubDate>
-    Tue, 19 Jan 2021 07:42:36 +0000
-   </pubDate>
-   <enclosure length="9227283" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43004685/nyhedskollektionen1601.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En kæmpe folkemængde stormede den amerikanske kongres, og nu skal Donald Trump for en rigsret. 
-Nyhedskollektionen fører dig gennem den dag, hvor USA's demokrati fik sig lidt af en hudafskrabning.
-   </itunes:subtitle>
-   <itunes:summary>
-    En kæmpe folkemængde stormede den amerikanske kongres, og nu skal Donald Trump for en rigsret. &lt;br /&gt;Nyhedskollektionen fører dig gennem den dag, hvor USA's demokrati fik sig lidt af en hudafskrabning.
-   </itunes:summary>
-   <itunes:duration>
-    577
-   </itunes:duration>
-   <itunes:keywords>
-    biden,demokrater,demokrati,kofod,pelosi,republikanere,rigsretssag,trump,usa
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 9. januar
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-9-januar--42860950
-   </link>
-   <description>
-    2021 skulle gerne begynde med, at coronakrisen blev fejet sammen og smidt ud sammen med de afskudte bordbomber fra nytårsfesten. Men sådan blev det altså ikke. &lt;br /&gt;&lt;br /&gt;Den 6. januar indførte regeringen nye restriktioner, og Danmark blev lukket endnu mere ned. &lt;br /&gt;&lt;br /&gt;Håbshistorikeren Bertel Nygaard giver dig her et svar på, hvorfor du trods den lange række af coronaskuffelser ikke må opgive håbet.&lt;br /&gt;&lt;br /&gt;Produceret af Flora Juul Holst
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42860950
-   </guid>
-   <pubDate>
-    Sat, 09 Jan 2021 19:57:59 +0000
-   </pubDate>
-   <enclosure length="11597530" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42860950/nyhedskollektionen0801.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    2021 skulle gerne begynde med, at coronakrisen blev fejet sammen og smidt ud sammen med de afskudte bordbomber fra nytårsfesten. Men sådan blev det altså ikke. 
+Nyhedskollektionerne tjekker op på, hvordan det går med højskoledanmark.</itunes:subtitle>
+         <itunes:summary>Regeringen stikker højskolerne lidt lommepenge, så de kan klare sig gennem den elevløse vinter. &lt;br /&gt;&lt;br /&gt;I mellemtiden sidder højskoleeleverne derhjemme og venter på fællesskabet. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionerne tjekker op på, hvordan det går med højskoledanmark.</itunes:summary>
+         <itunes:duration>659</itunes:duration>
+         <itunes:keywords>ffd,højskole,kulturministeriet,ollerup,tinyhouse,vestjylland</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 16. januar</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-16-januar--43004685</link>
+         <description>En kæmpe folkemængde stormede den amerikanske kongres, og nu skal Donald Trump for en rigsret. &lt;br /&gt;Nyhedskollektionen fører dig gennem den dag, hvor USA's demokrati fik sig lidt af en hudafskrabning.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43004685</guid>
+         <pubDate>Tue, 19 Jan 2021 07:42:36 +0000</pubDate>
+         <enclosure length="9227283" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2021.01.19%20-%20Nyhedskollektionen%2016.%20januar.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En kæmpe folkemængde stormede den amerikanske kongres, og nu skal Donald Trump for en rigsret. 
+Nyhedskollektionen fører dig gennem den dag, hvor USA's demokrati fik sig lidt af en hudafskrabning.</itunes:subtitle>
+         <itunes:summary>En kæmpe folkemængde stormede den amerikanske kongres, og nu skal Donald Trump for en rigsret. &lt;br /&gt;Nyhedskollektionen fører dig gennem den dag, hvor USA's demokrati fik sig lidt af en hudafskrabning.</itunes:summary>
+         <itunes:duration>577</itunes:duration>
+         <itunes:keywords>biden,demokrater,demokrati,kofod,pelosi,republikanere,rigsretssag,trump,usa</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 9. januar</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-9-januar--42860950</link>
+         <description>2021 skulle gerne begynde med, at coronakrisen blev fejet sammen og smidt ud sammen med de afskudte bordbomber fra nytårsfesten. Men sådan blev det altså ikke. &lt;br /&gt;&lt;br /&gt;Den 6. januar indførte regeringen nye restriktioner, og Danmark blev lukket endnu mere ned. &lt;br /&gt;&lt;br /&gt;Håbshistorikeren Bertel Nygaard giver dig her et svar på, hvorfor du trods den lange række af coronaskuffelser ikke må opgive håbet.&lt;br /&gt;&lt;br /&gt;Produceret af Flora Juul Holst</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42860950</guid>
+         <pubDate>Sat, 09 Jan 2021 19:57:59 +0000</pubDate>
+         <enclosure length="11597530" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2021.01.09%20-%20Nyhedskollektionen%209.%20januar.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>2021 skulle gerne begynde med, at coronakrisen blev fejet sammen og smidt ud sammen med de afskudte bordbomber fra nytårsfesten. Men sådan blev det altså ikke. 
 
-Den 6. januar indførte regeringen nye restriktioner, og Danmark blev lukket endnu mere...
-   </itunes:subtitle>
-   <itunes:summary>
-    2021 skulle gerne begynde med, at coronakrisen blev fejet sammen og smidt ud sammen med de afskudte bordbomber fra nytårsfesten. Men sådan blev det altså ikke. &lt;br /&gt;&lt;br /&gt;Den 6. januar indførte regeringen nye restriktioner, og Danmark blev lukket endnu mere ned. &lt;br /&gt;&lt;br /&gt;Håbshistorikeren Bertel Nygaard giver dig her et svar på, hvorfor du trods den lange række af coronaskuffelser ikke må opgive håbet.&lt;br /&gt;&lt;br /&gt;Produceret af Flora Juul Holst
-   </itunes:summary>
-   <itunes:duration>
-    725
-   </itunes:duration>
-   <itunes:keywords>
-    corona,håb,krise,mettef,nytår,regeringen,restriktioner,vaccine
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 5. december
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-5-december--42358779
-   </link>
-   <description>
-    Juleaften nærmer sig, mens coronavirussen breder sig i de varme julestuer. &lt;br /&gt;&lt;br /&gt;Derfor har regeringen nu lavet nye restriktioner for unge mennesker mellem 15 og 25 år i sytten kommuner. Og noget tyder på, at det ikke bliver sidste stramning før den 24. december.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42358779
-   </guid>
-   <pubDate>
-    Mon, 07 Dec 2020 12:36:05 +0000
-   </pubDate>
-   <enclosure length="11335470" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42358779/0512nyhedskollektionen.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Juleaften nærmer sig, mens coronavirussen breder sig i de varme julestuer. 
+Den 6. januar indførte regeringen nye restriktioner, og Danmark blev lukket endnu mere...</itunes:subtitle>
+         <itunes:summary>2021 skulle gerne begynde med, at coronakrisen blev fejet sammen og smidt ud sammen med de afskudte bordbomber fra nytårsfesten. Men sådan blev det altså ikke. &lt;br /&gt;&lt;br /&gt;Den 6. januar indførte regeringen nye restriktioner, og Danmark blev lukket endnu mere ned. &lt;br /&gt;&lt;br /&gt;Håbshistorikeren Bertel Nygaard giver dig her et svar på, hvorfor du trods den lange række af coronaskuffelser ikke må opgive håbet.&lt;br /&gt;&lt;br /&gt;Produceret af Flora Juul Holst</itunes:summary>
+         <itunes:duration>725</itunes:duration>
+         <itunes:keywords>corona,håb,krise,mettef,nytår,regeringen,restriktioner,vaccine</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 5. december</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-5-december--42358779</link>
+         <description>Juleaften nærmer sig, mens coronavirussen breder sig i de varme julestuer. &lt;br /&gt;&lt;br /&gt;Derfor har regeringen nu lavet nye restriktioner for unge mennesker mellem 15 og 25 år i sytten kommuner. Og noget tyder på, at det ikke bliver sidste stramning før den 24. december.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42358779</guid>
+         <pubDate>Mon, 07 Dec 2020 12:36:05 +0000</pubDate>
+         <enclosure length="11335470" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.12.07%20-%20Nyhedskollektionen%205.%20december.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Juleaften nærmer sig, mens coronavirussen breder sig i de varme julestuer. 
 
-Derfor har regeringen nu lavet nye restriktioner for unge mennesker mellem 15 og 25 år i sytten kommuner. Og noget tyder på, at det ikke bliver sidste stramning før den 24....
-   </itunes:subtitle>
-   <itunes:summary>
-    Juleaften nærmer sig, mens coronavirussen breder sig i de varme julestuer. &lt;br /&gt;&lt;br /&gt;Derfor har regeringen nu lavet nye restriktioner for unge mennesker mellem 15 og 25 år i sytten kommuner. Og noget tyder på, at det ikke bliver sidste stramning før den 24. december.
-   </itunes:summary>
-   <itunes:duration>
-    709
-   </itunes:duration>
-   <itunes:keywords>
-    corona,jul,juletræ,regeringen,restriktioner,test,testcenter,unge,virus
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 28. november
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-28-november--42245415
-   </link>
-   <description>
-    Indtil nu måtte studievejlederne på gymnasierne ikke vejlede deres elever i at tage en erhvervsuddannelse - men det forbud har Folketinget valgt at fjerne.&lt;br /&gt;&lt;br /&gt;Beslutningen møder FED opbakning hos uddannelsessteder og blandt de studerende. Mød for eksempel Martin, der forvildede sig ind på universitetet, selvom det slet ikke passede til ham at skrive akademiske tekster, og Nana, som fandt lykken som struktør.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42245415
-   </guid>
-   <pubDate>
-    Mon, 30 Nov 2020 20:41:15 +0000
-   </pubDate>
-   <enclosure length="9545350" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42245415/2711nyhedskollektionenf_rdig.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Indtil nu måtte studievejlederne på gymnasierne ikke vejlede deres elever i at tage en erhvervsuddannelse - men det forbud har Folketinget valgt at fjerne.
+Derfor har regeringen nu lavet nye restriktioner for unge mennesker mellem 15 og 25 år i sytten kommuner. Og noget tyder på, at det ikke bliver sidste stramning før den 24....</itunes:subtitle>
+         <itunes:summary>Juleaften nærmer sig, mens coronavirussen breder sig i de varme julestuer. &lt;br /&gt;&lt;br /&gt;Derfor har regeringen nu lavet nye restriktioner for unge mennesker mellem 15 og 25 år i sytten kommuner. Og noget tyder på, at det ikke bliver sidste stramning før den 24. december.</itunes:summary>
+         <itunes:duration>709</itunes:duration>
+         <itunes:keywords>corona,jul,juletræ,regeringen,restriktioner,test,testcenter,unge,virus</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 28. november</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-28-november--42245415</link>
+         <description>Indtil nu måtte studievejlederne på gymnasierne ikke vejlede deres elever i at tage en erhvervsuddannelse - men det forbud har Folketinget valgt at fjerne.&lt;br /&gt;&lt;br /&gt;Beslutningen møder FED opbakning hos uddannelsessteder og blandt de studerende. Mød for eksempel Martin, der forvildede sig ind på universitetet, selvom det slet ikke passede til ham at skrive akademiske tekster, og Nana, som fandt lykken som struktør.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42245415</guid>
+         <pubDate>Mon, 30 Nov 2020 20:41:15 +0000</pubDate>
+         <enclosure length="9545350" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.11.30%20-%20Nyhedskollektionen%2028.%20november.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Indtil nu måtte studievejlederne på gymnasierne ikke vejlede deres elever i at tage en erhvervsuddannelse - men det forbud har Folketinget valgt at fjerne.
 
-Beslutningen møder FED opbakning hos uddannelsessteder og blandt de studerende. Mød for...
-   </itunes:subtitle>
-   <itunes:summary>
-    Indtil nu måtte studievejlederne på gymnasierne ikke vejlede deres elever i at tage en erhvervsuddannelse - men det forbud har Folketinget valgt at fjerne.&lt;br /&gt;&lt;br /&gt;Beslutningen møder FED opbakning hos uddannelsessteder og blandt de studerende. Mød for eksempel Martin, der forvildede sig ind på universitetet, selvom det slet ikke passede til ham at skrive akademiske tekster, og Nana, som fandt lykken som struktør.
-   </itunes:summary>
-   <itunes:duration>
-    597
-   </itunes:duration>
-   <itunes:keywords>
-    elev,erhvervsuddannelse,folketinget,gymnasie,skole,struktør,studerende,studievalg,studievejledning
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 21. november
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-21-november--42092098
-   </link>
-   <description>
-    Højskolesangbogens nyeste udgave udkom 12. november, og er allerede solgt i over 75.000 eksemplarer. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen dykker ned i, hvorfor sangbogen er blevet så populær, i diskussionerne om de nye sange, og om hvad meningen med Højskolesangbogen egentlig er.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42092098
-   </guid>
-   <pubDate>
-    Sat, 21 Nov 2020 15:59:45 +0000
-   </pubDate>
-   <enclosure length="13960253" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42092098/2011nyhedskollektionenh_jskolesangbogen.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Højskolesangbogens nyeste udgave udkom 12. november, og er allerede solgt i over 75.000 eksemplarer. 
+Beslutningen møder FED opbakning hos uddannelsessteder og blandt de studerende. Mød for...</itunes:subtitle>
+         <itunes:summary>Indtil nu måtte studievejlederne på gymnasierne ikke vejlede deres elever i at tage en erhvervsuddannelse - men det forbud har Folketinget valgt at fjerne.&lt;br /&gt;&lt;br /&gt;Beslutningen møder FED opbakning hos uddannelsessteder og blandt de studerende. Mød for eksempel Martin, der forvildede sig ind på universitetet, selvom det slet ikke passede til ham at skrive akademiske tekster, og Nana, som fandt lykken som struktør.</itunes:summary>
+         <itunes:duration>597</itunes:duration>
+         <itunes:keywords>elev,erhvervsuddannelse,folketinget,gymnasie,skole,struktør,studerende,studievalg,studievejledning</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 21. november</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-21-november--42092098</link>
+         <description>Højskolesangbogens nyeste udgave udkom 12. november, og er allerede solgt i over 75.000 eksemplarer. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen dykker ned i, hvorfor sangbogen er blevet så populær, i diskussionerne om de nye sange, og om hvad meningen med Højskolesangbogen egentlig er.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42092098</guid>
+         <pubDate>Sat, 21 Nov 2020 15:59:45 +0000</pubDate>
+         <enclosure length="13960253" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.11.21%20-%20Nyhedskollektionen%207.%20november.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Højskolesangbogens nyeste udgave udkom 12. november, og er allerede solgt i over 75.000 eksemplarer. 
 
-Nyhedskollektionen dykker ned i, hvorfor sangbogen er blevet så populær, i diskussionerne om de nye sange, og om hvad meningen med Højskolesangbogen...
-   </itunes:subtitle>
-   <itunes:summary>
-    Højskolesangbogens nyeste udgave udkom 12. november, og er allerede solgt i over 75.000 eksemplarer. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen dykker ned i, hvorfor sangbogen er blevet så populær, i diskussionerne om de nye sange, og om hvad meningen med Højskolesangbogen egentlig er.
-   </itunes:summary>
-   <itunes:duration>
-    873
-   </itunes:duration>
-   <itunes:keywords>
-    df,ffd,grundtvig,højskole,højskolesangbogen,højskolesangbogsudvalget,kultur,musik,ramadan,sang,sangskat,tekster,velfærdsdødedansen
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 7. november
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-7-november--42092013
-   </link>
-   <description>
-    Regeringen foreslog at indføre obligatoriske vegetardage på offentlige arbejdspladser to gange om ugen - men efter en del modstand trak de i land efter virkelig kort tid.  &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen fører dig igennem forløbet og dykker ned i, hvorfor nye madvaner baseret på tvang er et rigtig svært at få folk med på.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42092013
-   </guid>
-   <pubDate>
-    Sat, 21 Nov 2020 15:53:24 +0000
-   </pubDate>
-   <enclosure length="10654196" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42092013/nyhedskollektionen0711.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Regeringen foreslog at indføre obligatoriske vegetardage på offentlige arbejdspladser to gange om ugen - men efter en del modstand trak de i land efter virkelig kort tid.  
+Nyhedskollektionen dykker ned i, hvorfor sangbogen er blevet så populær, i diskussionerne om de nye sange, og om hvad meningen med Højskolesangbogen...</itunes:subtitle>
+         <itunes:summary>Højskolesangbogens nyeste udgave udkom 12. november, og er allerede solgt i over 75.000 eksemplarer. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen dykker ned i, hvorfor sangbogen er blevet så populær, i diskussionerne om de nye sange, og om hvad meningen med Højskolesangbogen egentlig er.</itunes:summary>
+         <itunes:duration>873</itunes:duration>
+         <itunes:keywords>df,ffd,grundtvig,højskole,højskolesangbogen,højskolesangbogsudvalget,kultur,musik,ramadan,sang,sangskat,tekster,velfærdsdødedansen</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 7. november</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-7-november--42092013</link>
+         <description>Regeringen foreslog at indføre obligatoriske vegetardage på offentlige arbejdspladser to gange om ugen - men efter en del modstand trak de i land efter virkelig kort tid.  &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen fører dig igennem forløbet og dykker ned i, hvorfor nye madvaner baseret på tvang er et rigtig svært at få folk med på.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42092013</guid>
+         <pubDate>Sat, 21 Nov 2020 15:53:24 +0000</pubDate>
+         <enclosure length="10654196" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.11.21%20-%20Nyhedskollektionen%2021.%20november.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Regeringen foreslog at indføre obligatoriske vegetardage på offentlige arbejdspladser to gange om ugen - men efter en del modstand trak de i land efter virkelig kort tid.  
 
-Nyhedskollektionen fører dig igennem forløbet og dykker ned i, hvorfor nye...
-   </itunes:subtitle>
-   <itunes:summary>
-    Regeringen foreslog at indføre obligatoriske vegetardage på offentlige arbejdspladser to gange om ugen - men efter en del modstand trak de i land efter virkelig kort tid.  &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen fører dig igennem forløbet og dykker ned i, hvorfor nye madvaner baseret på tvang er et rigtig svært at få folk med på.
-   </itunes:summary>
-   <itunes:duration>
-    666
-   </itunes:duration>
-   <itunes:keywords>
-    mad,madvaner,nicolaiwammen,regeringen,socialdemokratiet,tvang,vegetar
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 31. oktober
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-31-oktober--41746730
-   </link>
-   <description>
-    Magasinet Charlie Hebdo har genoptrykt satiretegninger af profeten Muhammed, og det har rippet op i en følsom sag med vestens krav på ytringsfrihed på den ene side og de troende muslimers krænkede følelser på den anden. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen dykker ned i sagens forløb og undersøger, hvorfor Muhammedtegningerne kan få så stor en betydning.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/41746730
-   </guid>
-   <pubDate>
-    Sun, 01 Nov 2020 19:41:51 +0000
-   </pubDate>
-   <enclosure length="10049409" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41746730/2310nyhedskollektionenmuhammed.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Magasinet Charlie Hebdo har genoptrykt satiretegninger af profeten Muhammed, og det har rippet op i en følsom sag med vestens krav på ytringsfrihed på den ene side og de troende muslimers krænkede følelser på den anden. 
+Nyhedskollektionen fører dig igennem forløbet og dykker ned i, hvorfor nye...</itunes:subtitle>
+         <itunes:summary>Regeringen foreslog at indføre obligatoriske vegetardage på offentlige arbejdspladser to gange om ugen - men efter en del modstand trak de i land efter virkelig kort tid.  &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen fører dig igennem forløbet og dykker ned i, hvorfor nye madvaner baseret på tvang er et rigtig svært at få folk med på.</itunes:summary>
+         <itunes:duration>666</itunes:duration>
+         <itunes:keywords>mad,madvaner,nicolaiwammen,regeringen,socialdemokratiet,tvang,vegetar</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 31. oktober</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-31-oktober--41746730</link>
+         <description>Magasinet Charlie Hebdo har genoptrykt satiretegninger af profeten Muhammed, og det har rippet op i en følsom sag med vestens krav på ytringsfrihed på den ene side og de troende muslimers krænkede følelser på den anden. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen dykker ned i sagens forløb og undersøger, hvorfor Muhammedtegningerne kan få så stor en betydning.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/41746730</guid>
+         <pubDate>Sun, 01 Nov 2020 19:41:51 +0000</pubDate>
+         <enclosure length="10049409" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.11.01%20-%20Nyhedskollektionen%2031.%20oktober.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Magasinet Charlie Hebdo har genoptrykt satiretegninger af profeten Muhammed, og det har rippet op i en følsom sag med vestens krav på ytringsfrihed på den ene side og de troende muslimers krænkede følelser på den anden. 
 
-Nyhedskollektionen dykker ned...
-   </itunes:subtitle>
-   <itunes:summary>
-    Magasinet Charlie Hebdo har genoptrykt satiretegninger af profeten Muhammed, og det har rippet op i en følsom sag med vestens krav på ytringsfrihed på den ene side og de troende muslimers krænkede følelser på den anden. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen dykker ned i sagens forløb og undersøger, hvorfor Muhammedtegningerne kan få så stor en betydning.
-   </itunes:summary>
-   <itunes:duration>
-    629
-   </itunes:duration>
-   <itunes:keywords>
-    charliehebdo,erdogan,islam,macron,muhammed,ytringsfrihed
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 24. oktober
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-24-oktober--41601488
-   </link>
-   <description>
-    Vi bliver ældre og ældre, før vi bliver forældre - og kun under en tiendedel af alle kvinder føder for første gang, inden fylder 25 år. Nyhedskollektionen dykker ned i hvorfor og besøger Liva Kallestrup, der blev mor som 24årig.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/41601488
-   </guid>
-   <pubDate>
-    Fri, 23 Oct 2020 11:09:56 +0000
-   </pubDate>
-   <enclosure length="9739283" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41601488/2310nyhedskollektionendone.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi bliver ældre og ældre, før vi bliver forældre - og kun under en tiendedel af alle kvinder føder for første gang, inden fylder 25 år. Nyhedskollektionen dykker ned i hvorfor og besøger Liva Kallestrup, der blev mor som 24årig.
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi bliver ældre og ældre, før vi bliver forældre - og kun under en tiendedel af alle kvinder føder for første gang, inden fylder 25 år. Nyhedskollektionen dykker ned i hvorfor og besøger Liva Kallestrup, der blev mor som 24årig.
-   </itunes:summary>
-   <itunes:duration>
-    609
-   </itunes:duration>
-   <itunes:keywords>
-    babies,babyer,børn,news,nyheder
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 3. oktober
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-3-oktober--41301668
-   </link>
-   <description>
-    Har du styr på dit madspild? I denne uges Nyhedskollektion dykker vi ned i skraldespanden og kigger på, hvordan det står til med vores vaner derhjemme.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/41301668
-   </guid>
-   <pubDate>
-    Mon, 05 Oct 2020 06:52:30 +0000
-   </pubDate>
-   <enclosure length="10972263" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41301668/0210nyhedskollektionenf_rdig.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Har du styr på dit madspild? I denne uges Nyhedskollektion dykker vi ned i skraldespanden og kigger på, hvordan det står til med vores vaner derhjemme.
-   </itunes:subtitle>
-   <itunes:summary>
-    Har du styr på dit madspild? I denne uges Nyhedskollektion dykker vi ned i skraldespanden og kigger på, hvordan det står til med vores vaner derhjemme.
-   </itunes:summary>
-   <itunes:duration>
-    686
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 19. september
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-19-september--41301592
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. I denne uge kigger vi nærmere på status i EU, som vi er del af.  Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/41301592
-   </guid>
-   <pubDate>
-    Mon, 05 Oct 2020 06:49:11 +0000
-   </pubDate>
-   <enclosure length="11619264" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/41301592/1809nyhedskollektionen_f_rdig_2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. I denne uge kigger vi nærmere på status i EU, som vi er del af.  Du får en hurtig gennemgang, så du er opdateret, hvis ikke du...
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. I denne uge kigger vi nærmere på status i EU, som vi er del af.  Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:summary>
-   <itunes:duration>
-    727
-   </itunes:duration>
-   <itunes:keywords>
-    eu,news,politics
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 11. september
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-11-september--40971186
-   </link>
-   <description>
-    Facebook, Instagram, Snapchat, TikTok -  listen af sociale medier for dig og mig er lang. Men hvordan er det egentlig man skal opføre sig, når man er online. Umbrella-sagen med deling af krænkende materiale er bare ét eksempel på, hvor galt det kan gå. I denne uge kigger Nyhedskollektionen nærmere på do's and don't, når vi færdes online.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/40971186
-   </guid>
-   <pubDate>
-    Fri, 18 Sep 2020 09:04:27 +0000
-   </pubDate>
-   <enclosure length="11666493" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40971186/1109nyhedskollektionensomef_rdig.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Facebook, Instagram, Snapchat, TikTok -  listen af sociale medier for dig og mig er lang. Men hvordan er det egentlig man skal opføre sig, når man er online. Umbrella-sagen med deling af krænkende materiale er bare ét eksempel på, hvor galt det kan...
-   </itunes:subtitle>
-   <itunes:summary>
-    Facebook, Instagram, Snapchat, TikTok -  listen af sociale medier for dig og mig er lang. Men hvordan er det egentlig man skal opføre sig, når man er online. Umbrella-sagen med deling af krænkende materiale er bare ét eksempel på, hvor galt det kan gå. I denne uge kigger Nyhedskollektionen nærmere på do's and don't, når vi færdes online.
-   </itunes:summary>
-   <itunes:duration>
-    730
-   </itunes:duration>
-   <itunes:keywords>
-    facebook,instagram,snapchat,tiktok
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 4. september
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-4-september--40743213
-   </link>
-   <description>
-    Vi har fået en samtykkelov og den har fyldt store dele af nyhedsbilledet på det seneste. Men hvordan virker sådan en lov - og hvordan sikrer vi os at gøre tingene rigtigt, når nu vi skal have samtykke. Det ser Nyhedskollektionen på i denne uge med Flora Juul Holst.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/40743213
-   </guid>
-   <pubDate>
-    Mon, 07 Sep 2020 05:36:54 +0000
-   </pubDate>
-   <enclosure length="11758862" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40743213/000023e0.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi har fået en samtykkelov og den har fyldt store dele af nyhedsbilledet på det seneste. Men hvordan virker sådan en lov - og hvordan sikrer vi os at gøre tingene rigtigt, når nu vi skal have samtykke. Det ser Nyhedskollektionen på i denne uge med...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi har fået en samtykkelov og den har fyldt store dele af nyhedsbilledet på det seneste. Men hvordan virker sådan en lov - og hvordan sikrer vi os at gøre tingene rigtigt, når nu vi skal have samtykke. Det ser Nyhedskollektionen på i denne uge med Flora Juul Holst.
-   </itunes:summary>
-   <itunes:duration>
-    735
-   </itunes:duration>
-   <itunes:keywords>
-    news,politics
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 15. august
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-15-august--40400270
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/40400270
-   </guid>
-   <pubDate>
-    Wed, 19 Aug 2020 06:53:14 +0000
-   </pubDate>
-   <enclosure length="8948087" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40400270/150820_nyhedskollektion_f_rdig.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:summary>
-   <itunes:duration>
-    560
-   </itunes:duration>
-   <itunes:keywords>
-    climatechange,klima,spisgrønt
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 8. august
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-8-august--40381686
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/40381686
-   </guid>
-   <pubDate>
-    Tue, 18 Aug 2020 10:00:12 +0000
-   </pubDate>
-   <enclosure length="9753076" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40381686/0000203c.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:summary>
-   <itunes:duration>
-    610
-   </itunes:duration>
-   <itunes:keywords>
-    beirut,dkpol,libanon,news,politik
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 11. juli
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-11-juli--39342086
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/39342086
-   </guid>
-   <pubDate>
-    Mon, 13 Jul 2020 10:07:59 +0000
-   </pubDate>
-   <enclosure length="9630614" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/39342086/nyhedskollektionen_11_juli.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:summary>
-   <itunes:duration>
-    602
-   </itunes:duration>
-   <itunes:keywords>
-    dkpol,news,politics
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 4. juli
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-4-juli--36281426
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/36281426
-   </guid>
-   <pubDate>
-    Mon, 06 Jul 2020 06:20:42 +0000
-   </pubDate>
-   <enclosure length="9101478" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/36281426/00001dbc.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:summary>
-   <itunes:duration>
-    569
-   </itunes:duration>
-   <itunes:keywords>
-    dkpol,news,politics
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 27. juni
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-27-juni--33614362
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/33614362
-   </guid>
-   <pubDate>
-    Fri, 26 Jun 2020 08:54:37 +0000
-   </pubDate>
-   <enclosure length="9874702" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/33614362/nyhedskollektionen_27_juni.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:summary>
-   <itunes:duration>
-    618
-   </itunes:duration>
-   <itunes:keywords>
-    dkpol,news,nyheder,nyhedskollektionen
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 20. juni
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-20-juni--32074177
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/32074177
-   </guid>
-   <pubDate>
-    Sat, 20 Jun 2020 10:00:14 +0000
-   </pubDate>
-   <enclosure length="11973693" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/32074177/200620_nyhedskollektion_klar.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.
-   </itunes:summary>
-   <itunes:duration>
-    749
-   </itunes:duration>
-   <itunes:keywords>
-    dkpol,news,politics
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 13. juni
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-13-juni--30753146
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/30753146
-   </guid>
-   <pubDate>
-    Mon, 15 Jun 2020 07:06:02 +0000
-   </pubDate>
-   <enclosure length="10570604" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/30753146/00001aed.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:summary>
-   <itunes:duration>
-    661
-   </itunes:duration>
-   <itunes:keywords>
-    dkpol,news,nyheder,politics
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektion 6. juni
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektion-6-juni--30634900
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/30634900
-   </guid>
-   <pubDate>
-    Sun, 14 Jun 2020 06:09:25 +0000
-   </pubDate>
-   <enclosure length="9743881" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/30634900/0606_nyhedskollektionen.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:summary>
-   <itunes:duration>
-    609
-   </itunes:duration>
-   <itunes:keywords>
-    dkpol,news,nyheder,politics,youth
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 23. maj
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-23-maj--29887186
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/29887186
-   </guid>
-   <pubDate>
-    Mon, 08 Jun 2020 07:51:53 +0000
-   </pubDate>
-   <enclosure length="8838999" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/29887186/230520_nyhedskollektionen.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:summary>
-   <itunes:duration>
-    553
-   </itunes:duration>
-   <itunes:keywords>
-    dkpol,news,nyheder,politics
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 16. maj
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-16-maj--29887174
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/29887174
-   </guid>
-   <pubDate>
-    Mon, 08 Jun 2020 07:50:42 +0000
-   </pubDate>
-   <enclosure length="11150314" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/29887174/1605_nyhedshighlight.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:summary>
-   <itunes:duration>
-    697
-   </itunes:duration>
-   <itunes:keywords>
-    dkpol,news,nyheder,poltics
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 9. maj
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-9-maj--29887146
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/29887146
-   </guid>
-   <pubDate>
-    Mon, 08 Jun 2020 07:48:52 +0000
-   </pubDate>
-   <enclosure length="10836426" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/29887146/0905_nyhedshighlight.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:summary>
-   <itunes:duration>
-    678
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 2. maj
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-2-maj--29887128
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/29887128
-   </guid>
-   <pubDate>
-    Mon, 08 Jun 2020 07:47:19 +0000
-   </pubDate>
-   <enclosure length="12086960" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/29887128/0205_nyhedshighlight.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:summary>
-   <itunes:duration>
-    756
-   </itunes:duration>
-   <itunes:keywords>
-    dkpol,news,nyheder,politics
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 25. april
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-25-april--29886512
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/29886512
-   </guid>
-   <pubDate>
-    Mon, 08 Jun 2020 07:46:16 +0000
-   </pubDate>
-   <enclosure length="10689305" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/29886512/250420_nyhedshighlight.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:summary>
-   <itunes:duration>
-    669
-   </itunes:duration>
-   <itunes:keywords>
-    dkpol,news,nyheder,politics
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nyhedskollektionen 18. april
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nyhedskollektionen-18-april--29883709
-   </link>
-   <description>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/29883709
-   </guid>
-   <pubDate>
-    Mon, 08 Jun 2020 07:18:29 +0000
-   </pubDate>
-   <enclosure length="9941994" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/29883709/1804_nyhederne_highlight.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:subtitle>
-   <itunes:summary>
-    En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.
-   </itunes:summary>
-   <itunes:duration>
-    622
-   </itunes:duration>
-   <itunes:keywords>
-    dkpol,nyheder,politics
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+Nyhedskollektionen dykker ned...</itunes:subtitle>
+         <itunes:summary>Magasinet Charlie Hebdo har genoptrykt satiretegninger af profeten Muhammed, og det har rippet op i en følsom sag med vestens krav på ytringsfrihed på den ene side og de troende muslimers krænkede følelser på den anden. &lt;br /&gt;&lt;br /&gt;Nyhedskollektionen dykker ned i sagens forløb og undersøger, hvorfor Muhammedtegningerne kan få så stor en betydning.</itunes:summary>
+         <itunes:duration>629</itunes:duration>
+         <itunes:keywords>charliehebdo,erdogan,islam,macron,muhammed,ytringsfrihed</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 24. oktober</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-24-oktober--41601488</link>
+         <description>Vi bliver ældre og ældre, før vi bliver forældre - og kun under en tiendedel af alle kvinder føder for første gang, inden fylder 25 år. Nyhedskollektionen dykker ned i hvorfor og besøger Liva Kallestrup, der blev mor som 24årig.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/41601488</guid>
+         <pubDate>Fri, 23 Oct 2020 11:09:56 +0000</pubDate>
+         <enclosure length="9739283" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.10.23%20-%20Nyhedskollektionen%2024.%20oktober.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi bliver ældre og ældre, før vi bliver forældre - og kun under en tiendedel af alle kvinder føder for første gang, inden fylder 25 år. Nyhedskollektionen dykker ned i hvorfor og besøger Liva Kallestrup, der blev mor som 24årig.</itunes:subtitle>
+         <itunes:summary>Vi bliver ældre og ældre, før vi bliver forældre - og kun under en tiendedel af alle kvinder føder for første gang, inden fylder 25 år. Nyhedskollektionen dykker ned i hvorfor og besøger Liva Kallestrup, der blev mor som 24årig.</itunes:summary>
+         <itunes:duration>609</itunes:duration>
+         <itunes:keywords>babies,babyer,børn,news,nyheder</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 3. oktober</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-3-oktober--41301668</link>
+         <description>Har du styr på dit madspild? I denne uges Nyhedskollektion dykker vi ned i skraldespanden og kigger på, hvordan det står til med vores vaner derhjemme.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/41301668</guid>
+         <pubDate>Mon, 05 Oct 2020 06:52:30 +0000</pubDate>
+         <enclosure length="10972263" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.10.05%20-%20Nyhedskollektionen%203.%20oktober.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Har du styr på dit madspild? I denne uges Nyhedskollektion dykker vi ned i skraldespanden og kigger på, hvordan det står til med vores vaner derhjemme.</itunes:subtitle>
+         <itunes:summary>Har du styr på dit madspild? I denne uges Nyhedskollektion dykker vi ned i skraldespanden og kigger på, hvordan det står til med vores vaner derhjemme.</itunes:summary>
+         <itunes:duration>686</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 19. september</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-19-september--41301592</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. I denne uge kigger vi nærmere på status i EU, som vi er del af.  Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/41301592</guid>
+         <pubDate>Mon, 05 Oct 2020 06:49:11 +0000</pubDate>
+         <enclosure length="11619264" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.10.05%20-%20Nyhedskollektionen%2019.%20september.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. I denne uge kigger vi nærmere på status i EU, som vi er del af.  Du får en hurtig gennemgang, så du er opdateret, hvis ikke du...</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. I denne uge kigger vi nærmere på status i EU, som vi er del af.  Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:summary>
+         <itunes:duration>727</itunes:duration>
+         <itunes:keywords>eu,news,politics</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 11. september</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-11-september--40971186</link>
+         <description>Facebook, Instagram, Snapchat, TikTok -  listen af sociale medier for dig og mig er lang. Men hvordan er det egentlig man skal opføre sig, når man er online. Umbrella-sagen med deling af krænkende materiale er bare ét eksempel på, hvor galt det kan gå. I denne uge kigger Nyhedskollektionen nærmere på do's and don't, når vi færdes online.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/40971186</guid>
+         <pubDate>Fri, 18 Sep 2020 09:04:27 +0000</pubDate>
+         <enclosure length="11666493" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.09.18%20-%20Nyhedskollektionen%2011.%20september.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Facebook, Instagram, Snapchat, TikTok -  listen af sociale medier for dig og mig er lang. Men hvordan er det egentlig man skal opføre sig, når man er online. Umbrella-sagen med deling af krænkende materiale er bare ét eksempel på, hvor galt det kan...</itunes:subtitle>
+         <itunes:summary>Facebook, Instagram, Snapchat, TikTok -  listen af sociale medier for dig og mig er lang. Men hvordan er det egentlig man skal opføre sig, når man er online. Umbrella-sagen med deling af krænkende materiale er bare ét eksempel på, hvor galt det kan gå. I denne uge kigger Nyhedskollektionen nærmere på do's and don't, når vi færdes online.</itunes:summary>
+         <itunes:duration>730</itunes:duration>
+         <itunes:keywords>facebook,instagram,snapchat,tiktok</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 4. september</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-4-september--40743213</link>
+         <description>Vi har fået en samtykkelov og den har fyldt store dele af nyhedsbilledet på det seneste. Men hvordan virker sådan en lov - og hvordan sikrer vi os at gøre tingene rigtigt, når nu vi skal have samtykke. Det ser Nyhedskollektionen på i denne uge med Flora Juul Holst.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/40743213</guid>
+         <pubDate>Mon, 07 Sep 2020 05:36:54 +0000</pubDate>
+         <enclosure length="11758862" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.09.07%20-%20Nyhedskollektionen%204.%20september.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi har fået en samtykkelov og den har fyldt store dele af nyhedsbilledet på det seneste. Men hvordan virker sådan en lov - og hvordan sikrer vi os at gøre tingene rigtigt, når nu vi skal have samtykke. Det ser Nyhedskollektionen på i denne uge med...</itunes:subtitle>
+         <itunes:summary>Vi har fået en samtykkelov og den har fyldt store dele af nyhedsbilledet på det seneste. Men hvordan virker sådan en lov - og hvordan sikrer vi os at gøre tingene rigtigt, når nu vi skal have samtykke. Det ser Nyhedskollektionen på i denne uge med Flora Juul Holst.</itunes:summary>
+         <itunes:duration>735</itunes:duration>
+         <itunes:keywords>news,politics</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 15. august</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-15-august--40400270</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/40400270</guid>
+         <pubDate>Wed, 19 Aug 2020 06:53:14 +0000</pubDate>
+         <enclosure length="8948087" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.08.19%20-%20Nyhedskollektionen%2015.%20august.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:summary>
+         <itunes:duration>560</itunes:duration>
+         <itunes:keywords>climatechange,klima,spisgrønt</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 8. august</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-8-august--40381686</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/40381686</guid>
+         <pubDate>Tue, 18 Aug 2020 10:00:12 +0000</pubDate>
+         <enclosure length="9753076" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.08.18%20-%20Nyhedskollektionen%208.%20august.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:summary>
+         <itunes:duration>610</itunes:duration>
+         <itunes:keywords>beirut,dkpol,libanon,news,politik</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 11. juli</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-11-juli--39342086</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39342086</guid>
+         <pubDate>Mon, 13 Jul 2020 10:07:59 +0000</pubDate>
+         <enclosure length="9630614" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.07.13%20-%20Nyhedskollektionen%2011.%20juli.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:summary>
+         <itunes:duration>602</itunes:duration>
+         <itunes:keywords>dkpol,news,politics</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 4. juli</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-4-juli--36281426</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/36281426</guid>
+         <pubDate>Mon, 06 Jul 2020 06:20:42 +0000</pubDate>
+         <enclosure length="9101478" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.07.06%20-%20Nyhedskollektionen%204.%20juli.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:summary>
+         <itunes:duration>569</itunes:duration>
+         <itunes:keywords>dkpol,news,politics</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 27. juni</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-27-juni--33614362</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/33614362</guid>
+         <pubDate>Fri, 26 Jun 2020 08:54:37 +0000</pubDate>
+         <enclosure length="9874702" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.06.26%20-%20Nyhedskollektionen%2027.%20juni.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:summary>
+         <itunes:duration>618</itunes:duration>
+         <itunes:keywords>dkpol,news,nyheder,nyhedskollektionen</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 20. juni</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-20-juni--32074177</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/32074177</guid>
+         <pubDate>Sat, 20 Jun 2020 10:00:14 +0000</pubDate>
+         <enclosure length="11973693" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.06.20%20-%20Nyhedskollektionen%2020.%20juni.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest. Du får en hurtig gennemgang, så du er opdateret, hvis ikke du nåede at få det hele med fra mandag til fredag.</itunes:summary>
+         <itunes:duration>749</itunes:duration>
+         <itunes:keywords>dkpol,news,politics</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 13. juni</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-13-juni--30753146</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/30753146</guid>
+         <pubDate>Mon, 15 Jun 2020 07:06:02 +0000</pubDate>
+         <enclosure length="10570604" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.06.15%20-%20Nyhedskollektionen%2013.%20juni.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:summary>
+         <itunes:duration>661</itunes:duration>
+         <itunes:keywords>dkpol,news,nyheder,politics</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektion 6. juni</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektion-6-juni--30634900</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/30634900</guid>
+         <pubDate>Sun, 14 Jun 2020 06:09:25 +0000</pubDate>
+         <enclosure length="9743881" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.06.14%20-%20Nyhedskollektion%206.%20juni.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:summary>
+         <itunes:duration>609</itunes:duration>
+         <itunes:keywords>dkpol,news,nyheder,politics,youth</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 23. maj</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-23-maj--29887186</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/29887186</guid>
+         <pubDate>Mon, 08 Jun 2020 07:51:53 +0000</pubDate>
+         <enclosure length="8838999" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.06.08%20-%20Nyhedskollektionen%209.%20maj.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:summary>
+         <itunes:duration>553</itunes:duration>
+         <itunes:keywords>dkpol,news,nyheder,politics</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 16. maj</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-16-maj--29887174</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/29887174</guid>
+         <pubDate>Mon, 08 Jun 2020 07:50:42 +0000</pubDate>
+         <enclosure length="11150314" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.06.08%20-%20Nyhedskollektionen%2025.%20april.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:summary>
+         <itunes:duration>697</itunes:duration>
+         <itunes:keywords>dkpol,news,nyheder,poltics</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 9. maj</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-9-maj--29887146</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/29887146</guid>
+         <pubDate>Mon, 08 Jun 2020 07:48:52 +0000</pubDate>
+         <enclosure length="10836426" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.06.08%20-%20Nyhedskollektionen%2023.%20maj.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:summary>
+         <itunes:duration>678</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 2. maj</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-2-maj--29887128</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/29887128</guid>
+         <pubDate>Mon, 08 Jun 2020 07:47:19 +0000</pubDate>
+         <enclosure length="12086960" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.06.08%20-%20Nyhedskollektionen%202.%20maj.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:summary>
+         <itunes:duration>756</itunes:duration>
+         <itunes:keywords>dkpol,news,nyheder,politics</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 25. april</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-25-april--29886512</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/29886512</guid>
+         <pubDate>Mon, 08 Jun 2020 07:46:16 +0000</pubDate>
+         <enclosure length="10689305" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.06.08%20-%20Nyhedskollektionen%2018.%20april.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:summary>
+         <itunes:duration>669</itunes:duration>
+         <itunes:keywords>dkpol,news,nyheder,politics</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nyhedskollektionen 18. april</title>
+         <link>https://www.spreaker.com/episode/nyhedskollektionen-18-april--29883709</link>
+         <description>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/29883709</guid>
+         <pubDate>Mon, 08 Jun 2020 07:18:29 +0000</pubDate>
+         <enclosure length="9941994" type="audio/mpeg" url="https://archive.org/download/nyhedskollektionen/Nyhedskollektionen/2020.06.08%20-%20Nyhedskollektionen%2016.%20maj.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:subtitle>
+         <itunes:summary>En uge er gået og nyhederne er fløjet af sted. I Nyhedskollektionen bliver der samlet op på de historier, der fyldte mest.</itunes:summary>
+         <itunes:duration>622</itunes:duration>
+         <itunes:keywords>dkpol,nyheder,politics</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c7859d8dd39f6058fa77b9b1d4fc664.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

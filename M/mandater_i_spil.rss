@@ -1,19 +1,19 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Mandater i spil</title>
-		<link>https://web.24syv.dk/channels/4330</link>
-		<description>Hvad nu hvis Kristian Thulesen Dahl eller Pia Olsen Dyhr havde absolut flertal i fire år. Hvordan ville Danmark så se ud? Hør med når de to partiledere leger med på ideen og indleder det nye år med en rask politisk diskussion. Jesper Termansen styrer ordet.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/528/Mandater_i_spil.png"/>
-		<item>
-			<title>Mandater i spil  01-01-2015</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107651/10770182-audio.mp3</link>
-			<description>Hvad nu hvis Kristian Thulesen Dahl eller Pia Olsen Dyhr havde absolut flertal i fire år. Hvordan ville Danmark så se ud? Hør med når de to partiledere leger med på ideen og indleder det nye år med en rask politisk diskussion. Jesper Termansen styrer ordet. Jesper Høvsgaard Termansen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107651/10770182-audio.mp3</guid>
-			<pubDate>Thu, 01 Jan 2015 14:03:29 +0000</pubDate>
-			<itunes:duration>00:55:22</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107651/10770182-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+   <channel>
+      <title>Mandater i spil</title>
+      <link>https://web.24syv.dk/channels/4330</link>
+      <description>Hvad nu hvis Kristian Thulesen Dahl eller Pia Olsen Dyhr havde absolut flertal i fire år. Hvordan ville Danmark så se ud? Hør med når de to partiledere leger med på ideen og indleder det nye år med en rask politisk diskussion. Jesper Termansen styrer ordet.</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/mandater_i_spil/Mandater%20i%20spil/Mandater_i_spil.png" />
+      <item>
+         <title>Mandater i spil  01-01-2015</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107651/10770182-audio.mp3</link>
+         <description>Hvad nu hvis Kristian Thulesen Dahl eller Pia Olsen Dyhr havde absolut flertal i fire år. Hvordan ville Danmark så se ud? Hør med når de to partiledere leger med på ideen og indleder det nye år med en rask politisk diskussion. Jesper Termansen styrer ordet. Jesper Høvsgaard Termansen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107651/10770182-audio.mp3</guid>
+         <pubDate>Thu, 01 Jan 2015 14:03:29 +0000</pubDate>
+         <itunes:duration>00:55:22</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/mandater_i_spil/Mandater%20i%20spil/2015.01.01%20-%20Mandater%20i%20spil%20%2001-01-2015.mp3" />
+      </item>
+   </channel>
 </rss>

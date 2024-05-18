@@ -1,329 +1,297 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Min Lille Hassan</title>
-		<link>https://web.24syv.dk/channels/4357</link>
-		<description>”Hadet er kærligheden, der er mislykkedes.” Sådan skrev filosoffen Søren Kierkegaard i bogen Kærlighedens Gerninger. I 3. sæson af mandemagasinet Min Lille Hassan, taler skuespiller, forfatter og dramatiker Hassan Preisler kun med kvinder om mænd og følelser. På vanlig idiosynkratisk vis botaniserer han i, hvad det grundliggende had mellem kvinder og mænd er bygget af.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/536/Min_lille_hassan.jpg"/>
-		<item>
-			<title>Hassans Psykolog</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107806/18657397-audio.mp3</link>
-			<description>I denne sæsonens sidste udgave af Min Lille Hassan, møder skuespiller, forfatter og dramatiker Hassan Preisler sin psykolog gennem flere år, Lene Stephensen, der er blevet opfordret til at tage fløjlshandskerne af for åben mikrofon. Undervejs bliver redaktør og producer, Kristian Danholm, trukket med ind i seancen.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107806/18657397-audio.mp3</guid>
-			<pubDate>Sat, 12 Aug 2017 19:08:58 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107806/18657397-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sanne Søndergaard: ”Den der angst for overgivelsen er jo tåbelig.”</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107807/18571074-audio.mp3</link>
-			<description>Standup-komiker, forfatter og foredragsholder Sanne Søndergaard om at arbejde med at vriste sig fri af de overlevelsesstrategier, der står i vejen for at kunne give sig hen og blive et mere helt menneske i parforholdet. Hun foreslår blandt meget andet en ugentlig PUS (Parforholds Udviklings Samtale). 
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107807/18571074-audio.mp3</guid>
-			<pubDate>Sat, 05 Aug 2017 19:09:15 +0000</pubDate>
-			<itunes:duration>00:54:59</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107807/18571074-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Anne Sophia Hermansen: ”Jeg synes, det er udtryk for en enorm flad sjæl, hele...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107808/18465721-audio.mp3</link>
-			<description>
-”Jeg synes, det er udtryk for en enorm flad sjæl, hele tiden
-at skulle gå rundt og spille med musklerne.” Debattør og debatredaktør på Berlingske, Anne Sophia Hermansen,
+   <channel>
+      <title>Min Lille Hassan</title>
+      <link>https://web.24syv.dk/channels/4357</link>
+      <description>”Hadet er kærligheden, der er mislykkedes.” Sådan skrev filosoffen Søren Kierkegaard i bogen Kærlighedens Gerninger. I 3. sæson af mandemagasinet Min Lille Hassan, taler skuespiller, forfatter og dramatiker Hassan Preisler kun med kvinder om mænd og følelser. På vanlig idiosynkratisk vis botaniserer han i, hvad det grundliggende had mellem kvinder og mænd er bygget af.</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/Min_lille_hassan.jpg" />
+      <item>
+         <title>Hassans Psykolog</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107806/18657397-audio.mp3</link>
+         <description>I denne sæsonens sidste udgave af Min Lille Hassan, møder skuespiller, forfatter og dramatiker Hassan Preisler sin psykolog gennem flere år, Lene Stephensen, der er blevet opfordret til at tage fløjlshandskerne af for åben mikrofon. Undervejs bliver redaktør og producer, Kristian Danholm, trukket med ind i seancen.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107806/18657397-audio.mp3</guid>
+         <pubDate>Sat, 12 Aug 2017 19:08:58 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.08.12%20-%20Hassans%20Psykolog.mp3" />
+      </item>
+      <item>
+         <title>Sanne Søndergaard: ”Den der angst for overgivelsen er jo tåbelig.”</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107807/18571074-audio.mp3</link>
+         <description>Standup-komiker, forfatter og foredragsholder Sanne Søndergaard om at arbejde med at vriste sig fri af de overlevelsesstrategier, der står i vejen for at kunne give sig hen og blive et mere helt menneske i parforholdet. Hun foreslår blandt meget andet en ugentlig PUS (Parforholds Udviklings Samtale).</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107807/18571074-audio.mp3</guid>
+         <pubDate>Sat, 05 Aug 2017 19:09:15 +0000</pubDate>
+         <itunes:duration>00:54:59</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.08.05%20-%20Sanne%20S%C3%B8ndergaard.mp3" />
+      </item>
+      <item>
+         <title>Anne Sophia Hermansen: ”Jeg synes, det er udtryk for en enorm flad sjæl, hele...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107808/18465721-audio.mp3</link>
+         <description>”Jeg synes, det er udtryk for en enorm flad sjæl, hele tiden
+at skulle gå rundt og spille med musklerne.” Debattør og debatredaktør på Berlingske, Anne Sophia Hermansen,
 har brugt de seneste år på at anerkende sin egen sårbarhed som en styrke, fordi
 hun synes, det var svaghedstegn.
- 
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107808/18465721-audio.mp3</guid>
-			<pubDate>Sat, 29 Jul 2017 19:09:21 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107808/18465721-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Iben Tranholm: ”De har aflivet den maskuline mand, men nu vil de gerne have...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107809/18328013-audio.mp3</link>
-			<description>Debattør og forfatter Iben Tranholm, der har hørt mange kvinder sukke over, at de ikke kan finde en rigtig mand.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107809/18328013-audio.mp3</guid>
-			<pubDate>Sat, 22 Jul 2017 19:08:47 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107809/18328013-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ditte Giese: ”Man kommer til et meget intimt og kærligt sted, som er rigtig...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107810/18211282-audio.mp3</link>
-			<description>Journalist og feminist Ditte Giese om at rumme sin kæreste vrede i stedet for at blive bange for den.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107810/18211282-audio.mp3</guid>
-			<pubDate>Sat, 15 Jul 2017 19:08:43 +0000</pubDate>
-			<itunes:duration>00:55:01</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107810/18211282-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pia Kjærsgaard: ”Jeg tror egentlig, det gøre mere ondt på forældrene.”</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107811/18127931-audio.mp3</link>
-			<description>Sådan siger formand for Folketinget; Dansk Folkepartis Pia Kjærsgaard, da hun stærkt påvirket omtaler smerten i forbindelse med sin søns skilsmisse. Det er i denne uges udgave af mandemagasinet Min Lille Hassan, hvor der både bliver grinet og grædt.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107811/18127931-audio.mp3</guid>
-			<pubDate>Fri, 07 Jul 2017 13:03:23 +0000</pubDate>
-			<itunes:duration>00:54:45</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107811/18127931-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Khaterah Parwani: Mister lysten til sin kæreste, når han blotter sin sårbarhed.</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107812/18028547-audio.mp3</link>
-			<description>Den afghansk-fødte debattør Khaterah Parwani erkender modvilligt, at hun mister lysten til sin kæreste, når han blotter sin sårbarhed. 
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107812/18028547-audio.mp3</guid>
-			<pubDate>Sat, 01 Jul 2017 19:09:17 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107812/18028547-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Maise Njor: ”Det er nemmere at elske nogen, når man ikke er kærester”</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107813/17904274-audio.mp3</link>
-			<description>Maise Njor: ”Det er nemmere at elske nogen, når man ikke er kærester”. Hassan Preisler: ”Det synes jeg er decideret frygteligt!”. Maise Njord og Hassan Preisler var kærester for 27 år siden, og mødes i studiet under stadig mere intens stemning, da alle de gamle uforløste følelser vælter op igen.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107813/17904274-audio.mp3</guid>
-			<pubDate>Sat, 24 Jun 2017 19:09:23 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107813/17904274-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pernille Vermund</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107814/17744992-audio.mp3</link>
-			<description>”Hver gang noget har tendens til at gøre ondt, skubber jeg kærligheden væk,” siger formand for partiet Nye Borgerlige, Pernille Vermund, i denne første og meget sex-fikserede udsendelse i 3. sæson af mandemagasinet Min Lille Hassan.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107814/17744992-audio.mp3</guid>
-			<pubDate>Fri, 16 Jun 2017 16:43:06 +0000</pubDate>
-			<itunes:duration>00:54:47</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107814/17744992-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Pernille Vermund</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216715/17744992-audio.mp3</link>
-			<description>”Hver gang noget har tendens til at gøre ondt, skubber jeg kærligheden væk,” siger formand for partiet Nye Borgerlige, Pernille Vermund, i denne første og meget sex-fikserede udsendelse i 3. sæson af mandemagasinet Min Lille Hassan.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216715/17744992-audio.mp3</guid>
-			<pubDate>Fri, 16 Jun 2017 16:43:06 +0000</pubDate>
-			<itunes:duration>00:54:47</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/216715/17744992-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hassan Preislers mor; &quot;Nu kommer det meget tæt på jeg føler mig meget ...på...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107815/16414000-audio.mp3</link>
-			<description>Sådan siger den usædvanlige gæst i sæsonens sidste udgave af Min Lille Hassan. Hassan; Det er den person der har mest indflydelse på enhver mands følelsesliv.Ugens gæst er Hassans mor, Lotte, som han for første gang skal møde på tomandshånd, siden han blev skilt for tre år siden.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107815/16414000-audio.mp3</guid>
-			<pubDate>Sat, 25 Mar 2017 19:14:25 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107815/16414000-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jokeren: ”Er der en lille, bange dreng inde i dig?”</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187898/16316912-audio.mp3</link>
-			<description>Jokeren: ”Er der en lille, bange dreng inde i dig?” Rapper-veteran Jesper Dahl – aka Jokeren – og Hassan Preisler, kommer fra to forskellige verdener, ender efter lidt søgen med at give hinanden terapi i denne udgave af Min Lille Hassan
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187898/16316912-audio.mp3</guid>
-			<pubDate>Sat, 18 Mar 2017 19:10:06 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187898/16316912-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>”Der er nogen, der dyrker medlidenheden for ligesom at skilte med: Jeg er et...</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187899/16198044-audio.mp3</link>
-			<description>Den 58-årige skuespiller og teater-pioner Pauli Ryberg, der har uhelbredelig kræft, vil ikke vide, hvor lang tid han har tilbage at leve i, og stopper folk, når han mærker deres medlidenhed – herunder programmets vært - skuespiller, forfatter og dramatiker Hassan Preisler.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187899/16198044-audio.mp3</guid>
-			<pubDate>Sat, 11 Mar 2017 19:11:13 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187899/16198044-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fenar Ahmad (2)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187900/15857753-audio.mp3</link>
-			<description>”Fuck dig din dårlige skuespiller. Jeg mødes med dig på gaden og siger til dit ansigt. Men jeg er simpelthen for stor til dit lille Hassan-program,” skrev filminstruktør Fenar Ahmad, der er aktuel med filmen Underverden, i en sms til Hassan. Det blev til denne særudgave af Min Lille Hassan, der varer i to timer. Vært: Skuespiller, forfatter og dramatiker Hassan Preisler, der oprindeligt også hed Ahmad til efternavn.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187900/15857753-audio.mp3</guid>
-			<pubDate>Sat, 04 Mar 2017 20:11:42 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187900/15857753-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Fenar Ahmad (1)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187901/15857257-audio.mp3</link>
-			<description>”Fuck dig din dårlige skuespiller. Jeg mødes med dig på gaden og siger til dit ansigt. Men jeg er simpelthen for stor til dit lille Hassan-program,” skrev filminstruktør Fenar Ahmad, der er aktuel med filmen Underverden, i en sms til Hassan. Det blev til denne særudgave af Min Lille Hassan, der varer i to timer. Vært: Skuespiller, forfatter og dramatiker Hassan Preisler, der oprindeligt også hed Ahmad til efternavn.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187901/15857257-audio.mp3</guid>
-			<pubDate>Sat, 04 Mar 2017 19:11:41 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187901/15857257-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Forfatter Erling Jepsen: ”Skal vi tale noget mere om fisse?”</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187902/15733358-audio.mp3</link>
-			<description>Hassan vil kun tale om følelser, men Erling Jepsen, der er opvokset i et indre missionsk og incestuøst miljø, vil hellere tale om fisse, og udvandrer i vrede knap 40 minutter inde i udsendelsen. Min Lille Hassan – mandemagasinet hvor mænd taler om følelser, og kun følelser. Vært: Skuespiller, forfatter og dramatiker Hassan Preisler.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187902/15733358-audio.mp3</guid>
-			<pubDate>Fri, 24 Feb 2017 15:40:14 +0000</pubDate>
-			<itunes:duration>00:54:46</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187902/15733358-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kenneth Kristensen Berth</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187903/15645547-audio.mp3</link>
-			<description>”Jeg ville gerne have din dybe røst,” siger Dansk Folkepartis Kenneth Kristensen Berth til Hassan Preisler i dette interview, hvor de blandt andet holder hinanden i hånden i længere tid, end politikeren nogensinde har gjort med en mand.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187903/15645547-audio.mp3</guid>
-			<pubDate>Sat, 18 Feb 2017 19:13:22 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187903/15645547-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Carsten Bjørnlund</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187904/15550962-audio.mp3</link>
-			<description>”Jeg tror, jeg ville gå til grunde, hvis jeg ikke gjorde det,” siger skuespiller Carsten Bjørnlund, der bruger det at gå på scenen igen og igen som en afledningsmanøvre fra at forholde sig til sin utilstrækkelighed som far, kæreste, ven, etc. Vært: Skuespiller, dramatiker og forfatter Hassan Preisler.
- 
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187904/15550962-audio.mp3</guid>
-			<pubDate>Fri, 10 Feb 2017 16:22:33 +0000</pubDate>
-			<itunes:duration>00:54:47</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187904/15550962-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jakob Steen Olsen</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187905/15493808-audio.mp3</link>
-			<description>Stemningen bliver noget anspændt, da Hassan sidder overfor Berlingskes teaterredaktør, Jakob Steen Olsen, og læser op af en barsk anmeldelse, hvor han nærmest begår karaktérmord på på Hassan og sår tvivl om hans motiver. Vært: Skuespiller, dramatiker og forfatter Hassan Preisler.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187905/15493808-audio.mp3</guid>
-			<pubDate>Fri, 03 Feb 2017 11:17:39 +0000</pubDate>
-			<itunes:duration>00:54:46</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187905/15493808-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jacob Holdt</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187906/15456955-audio.mp3</link>
-			<description>
-&quot;Du sidder her overfor mig og styrt-lyver. Det er jo
-en fornærmelse!&quot;. Bølgerne gik usædvanligt højt, da fotograf, forfatter og
-foredragsholder Jacob Holdt ramte Min Lille Hassan. Vært:  Skuespiller,
-forfatter og dramatiker Hassan Preisler.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187906/15456955-audio.mp3</guid>
-			<pubDate>Sat, 28 Jan 2017 19:17:08 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187906/15456955-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Anders Kærgaard</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187907/15394458-audio.mp3</link>
-			<description>”Den der forladthedsfølelse – dén er jeg helt sikker på, stammer fra min barndom”. Tidligere kaptajn ved forsvaret, og manden der mistede alt, efter at have gjort sig til whistleblower om Irak-krigen, er midt i sin anden skilsmisse, og har igen mistet alt. Fortæller knusende ærligt om, hvordan han igen har solgt sin værdighed i jagten på drømmen om den tryghed, han siden en ustabil barndom har troet, han kan få i et fast forhold. Vært: Skuespiller, forfatter og dramatiker Hassan Preisler
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187907/15394458-audio.mp3</guid>
-			<pubDate>Fri, 20 Jan 2017 13:48:57 +0000</pubDate>
-			<itunes:duration>00:54:46</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187907/15394458-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Flemming Rose</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216716/15339974-audio.mp3</link>
-			<description>”Jeg har begået mange fejl,” fortæller ugens gæst; manden, der som Jyllands-Postens daværende kulturredaktør stod fadder til Muhammedtegningerne, Flemming Rose. Vært:  Skuespiller, forfatter og dramatiker Hassan Preisler. </description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216716/15339974-audio.mp3</guid>
-			<pubDate>Fri, 13 Jan 2017 15:24:23 +0000</pubDate>
-			<itunes:duration>00:54:41</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/216716/15339974-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Carl Mar Møller</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187908/15292429-audio.mp3</link>
-			<description>Ugens gæst er Carl Mar Møller. ”Jeg mobbede min kæreste i tre uger,” fortæller ugens gæst,
+ </description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107808/18465721-audio.mp3</guid>
+         <pubDate>Sat, 29 Jul 2017 19:09:21 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.07.29%20-%20Anne%20Sophia%20Hermansen.mp3" />
+      </item>
+      <item>
+         <title>Iben Tranholm: ”De har aflivet den maskuline mand, men nu vil de gerne have...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107809/18328013-audio.mp3</link>
+         <description>Debattør og forfatter Iben Tranholm, der har hørt mange kvinder sukke over, at de ikke kan finde en rigtig mand.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107809/18328013-audio.mp3</guid>
+         <pubDate>Sat, 22 Jul 2017 19:08:47 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.07.22%20-%20Iben%20Tranholm.mp3" />
+      </item>
+      <item>
+         <title>Ditte Giese: ”Man kommer til et meget intimt og kærligt sted, som er rigtig...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107810/18211282-audio.mp3</link>
+         <description>Journalist og feminist Ditte Giese om at rumme sin kæreste vrede i stedet for at blive bange for den.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107810/18211282-audio.mp3</guid>
+         <pubDate>Sat, 15 Jul 2017 19:08:43 +0000</pubDate>
+         <itunes:duration>00:55:01</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.07.15%20-%20Ditte%20Giese.mp3" />
+      </item>
+      <item>
+         <title>Pia Kjærsgaard: ”Jeg tror egentlig, det gøre mere ondt på forældrene.”</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107811/18127931-audio.mp3</link>
+         <description>Sådan siger formand for Folketinget; Dansk Folkepartis Pia Kjærsgaard, da hun stærkt påvirket omtaler smerten i forbindelse med sin søns skilsmisse. Det er i denne uges udgave af mandemagasinet Min Lille Hassan, hvor der både bliver grinet og grædt.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107811/18127931-audio.mp3</guid>
+         <pubDate>Fri, 07 Jul 2017 13:03:23 +0000</pubDate>
+         <itunes:duration>00:54:45</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.07.07%20-%20Pia%20Kj%C3%A6rsgaard.mp3" />
+      </item>
+      <item>
+         <title>Khaterah Parwani: Mister lysten til sin kæreste, når han blotter sin sårbarhed.</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107812/18028547-audio.mp3</link>
+         <description>Den afghansk-fødte debattør Khaterah Parwani erkender modvilligt, at hun mister lysten til sin kæreste, når han blotter sin sårbarhed. </description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107812/18028547-audio.mp3</guid>
+         <pubDate>Sat, 01 Jul 2017 19:09:17 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.07.01%20-%20Khaterah%20Parwani.mp3" />
+      </item>
+      <item>
+         <title>Maise Njor: ”Det er nemmere at elske nogen, når man ikke er kærester”</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107813/17904274-audio.mp3</link>
+         <description>Maise Njor: ”Det er nemmere at elske nogen, når man ikke er kærester”. Hassan Preisler: ”Det synes jeg er decideret frygteligt!”. Maise Njord og Hassan Preisler var kærester for 27 år siden, og mødes i studiet under stadig mere intens stemning, da alle de gamle uforløste følelser vælter op igen.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107813/17904274-audio.mp3</guid>
+         <pubDate>Sat, 24 Jun 2017 19:09:23 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.06.24%20-%20Maise%20Njor.mp3" />
+      </item>
+      <item>
+         <title>Pernille Vermund</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216715/17744992-audio.mp3</link>
+         <description>”Hver gang noget har tendens til at gøre ondt, skubber jeg kærligheden væk,” siger formand for partiet Nye Borgerlige, Pernille Vermund, i denne første og meget sex-fikserede udsendelse i 3. sæson af mandemagasinet Min Lille Hassan.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216715/17744992-audio.mp3</guid>
+         <pubDate>Fri, 16 Jun 2017 16:43:06 +0000</pubDate>
+         <itunes:duration>00:54:47</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://assets.listentonews.com/uploads/audio_clip/rss_file/216715/17744992-audio.mp3" />
+      </item>
+      <item>
+         <title>Hassan Preislers mor; "Nu kommer det meget tæt på jeg føler mig meget ...på...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107815/16414000-audio.mp3</link>
+         <description>Sådan siger den usædvanlige gæst i sæsonens sidste udgave af Min Lille Hassan. Hassan; Det er den person der har mest indflydelse på enhver mands følelsesliv.Ugens gæst er Hassans mor, Lotte, som han for første gang skal møde på tomandshånd, siden han blev skilt for tre år siden.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107815/16414000-audio.mp3</guid>
+         <pubDate>Sat, 25 Mar 2017 19:14:25 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.03.25%20-%20Hassan%20Preislers%20mor%3B%20.mp3" />
+      </item>
+      <item>
+         <title>Jokeren: ”Er der en lille, bange dreng inde i dig?”</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187898/16316912-audio.mp3</link>
+         <description>Jokeren: ”Er der en lille, bange dreng inde i dig?” Rapper-veteran Jesper Dahl – aka Jokeren – og Hassan Preisler, kommer fra to forskellige verdener, ender efter lidt søgen med at give hinanden terapi i denne udgave af Min Lille Hassan</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187898/16316912-audio.mp3</guid>
+         <pubDate>Sat, 18 Mar 2017 19:10:06 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.03.18%20-%20Jokeren.mp3" />
+      </item>
+      <item>
+         <title>”Der er nogen, der dyrker medlidenheden for ligesom at skilte med: Jeg er et...</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187899/16198044-audio.mp3</link>
+         <description>Den 58-årige skuespiller og teater-pioner Pauli Ryberg, der har uhelbredelig kræft, vil ikke vide, hvor lang tid han har tilbage at leve i, og stopper folk, når han mærker deres medlidenhed – herunder programmets vært - skuespiller, forfatter og dramatiker Hassan Preisler.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187899/16198044-audio.mp3</guid>
+         <pubDate>Sat, 11 Mar 2017 19:11:13 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.03.11%20-%20%E2%80%9DDer%20er%20nogen%2C%20der%20dyrker%20medlidenheden%20for%20ligesom%20at%20skilte%20med.mp3" />
+      </item>
+      <item>
+         <title>Fenar Ahmad (2)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187900/15857753-audio.mp3</link>
+         <description>”Fuck dig din dårlige skuespiller. Jeg mødes med dig på gaden og siger til dit ansigt. Men jeg er simpelthen for stor til dit lille Hassan-program,” skrev filminstruktør Fenar Ahmad, der er aktuel med filmen Underverden, i en sms til Hassan. Det blev til denne særudgave af Min Lille Hassan, der varer i to timer. Vært: Skuespiller, forfatter og dramatiker Hassan Preisler, der oprindeligt også hed Ahmad til efternavn.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187900/15857753-audio.mp3</guid>
+         <pubDate>Sat, 04 Mar 2017 20:11:42 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.03.04%20-%20Fenar%20Ahmad%20%282%29.mp3" />
+      </item>
+      <item>
+         <title>Fenar Ahmad (1)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187901/15857257-audio.mp3</link>
+         <description>”Fuck dig din dårlige skuespiller. Jeg mødes med dig på gaden og siger til dit ansigt. Men jeg er simpelthen for stor til dit lille Hassan-program,” skrev filminstruktør Fenar Ahmad, der er aktuel med filmen Underverden, i en sms til Hassan. Det blev til denne særudgave af Min Lille Hassan, der varer i to timer. Vært: Skuespiller, forfatter og dramatiker Hassan Preisler, der oprindeligt også hed Ahmad til efternavn.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187901/15857257-audio.mp3</guid>
+         <pubDate>Sat, 04 Mar 2017 19:11:41 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.03.04%20-%20Fenar%20Ahmad%20%281%29.mp3" />
+      </item>
+      <item>
+         <title>Forfatter Erling Jepsen: ”Skal vi tale noget mere om fisse?”</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187902/15733358-audio.mp3</link>
+         <description>Hassan vil kun tale om følelser, men Erling Jepsen, der er opvokset i et indre missionsk og incestuøst miljø, vil hellere tale om fisse, og udvandrer i vrede knap 40 minutter inde i udsendelsen. Min Lille Hassan – mandemagasinet hvor mænd taler om følelser, og kun følelser. Vært: Skuespiller, forfatter og dramatiker Hassan Preisler.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187902/15733358-audio.mp3</guid>
+         <pubDate>Fri, 24 Feb 2017 15:40:14 +0000</pubDate>
+         <itunes:duration>00:54:46</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.02.24%20-%20Forfatter%20Erling%20Jepsen.mp3" />
+      </item>
+      <item>
+         <title>Kenneth Kristensen Berth</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187903/15645547-audio.mp3</link>
+         <description>”Jeg ville gerne have din dybe røst,” siger Dansk Folkepartis Kenneth Kristensen Berth til Hassan Preisler i dette interview, hvor de blandt andet holder hinanden i hånden i længere tid, end politikeren nogensinde har gjort med en mand.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187903/15645547-audio.mp3</guid>
+         <pubDate>Sat, 18 Feb 2017 19:13:22 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.02.18%20-%20Kenneth%20Kristensen%20Berth.mp3" />
+      </item>
+      <item>
+         <title>Carsten Bjørnlund</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187904/15550962-audio.mp3</link>
+         <description>”Jeg tror, jeg ville gå til grunde, hvis jeg ikke gjorde det,” siger skuespiller Carsten Bjørnlund, der bruger det at gå på scenen igen og igen som en afledningsmanøvre fra at forholde sig til sin utilstrækkelighed som far, kæreste, ven, etc. Vært: Skuespiller, dramatiker og forfatter Hassan Preisler.
+ </description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187904/15550962-audio.mp3</guid>
+         <pubDate>Fri, 10 Feb 2017 16:22:33 +0000</pubDate>
+         <itunes:duration>00:54:47</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.02.10%20-%20Carsten%20Bj%C3%B8rnlund.mp3" />
+      </item>
+      <item>
+         <title>Jakob Steen Olsen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187905/15493808-audio.mp3</link>
+         <description>Stemningen bliver noget anspændt, da Hassan sidder overfor Berlingskes teaterredaktør, Jakob Steen Olsen, og læser op af en barsk anmeldelse, hvor han nærmest begår karaktérmord på på Hassan og sår tvivl om hans motiver. Vært: Skuespiller, dramatiker og forfatter Hassan Preisler.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187905/15493808-audio.mp3</guid>
+         <pubDate>Fri, 03 Feb 2017 11:17:39 +0000</pubDate>
+         <itunes:duration>00:54:46</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.02.03%20-%20Jakob%20Steen%20Olsen.mp3" />
+      </item>
+      <item>
+         <title>Jacob Holdt</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187906/15456955-audio.mp3</link>
+         <description>"Du sidder her overfor mig og styrt-lyver. Det er jo
+en fornærmelse!". Bølgerne gik usædvanligt højt, da fotograf, forfatter og
+foredragsholder Jacob Holdt ramte Min Lille Hassan. Vært:  Skuespiller,
+forfatter og dramatiker Hassan Preisler.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187906/15456955-audio.mp3</guid>
+         <pubDate>Sat, 28 Jan 2017 19:17:08 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.01.28%20-%20Jacob%20Holdt.mp3" />
+      </item>
+      <item>
+         <title>Anders Kærgaard</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187907/15394458-audio.mp3</link>
+         <description>”Den der forladthedsfølelse – dén er jeg helt sikker på, stammer fra min barndom”. Tidligere kaptajn ved forsvaret, og manden der mistede alt, efter at have gjort sig til whistleblower om Irak-krigen, er midt i sin anden skilsmisse, og har igen mistet alt. Fortæller knusende ærligt om, hvordan han igen har solgt sin værdighed i jagten på drømmen om den tryghed, han siden en ustabil barndom har troet, han kan få i et fast forhold. Vært: Skuespiller, forfatter og dramatiker Hassan Preisler</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187907/15394458-audio.mp3</guid>
+         <pubDate>Fri, 20 Jan 2017 13:48:57 +0000</pubDate>
+         <itunes:duration>00:54:46</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.01.20%20-%20Anders%20K%C3%A6rgaard.mp3" />
+      </item>
+      <item>
+         <title>Flemming Rose</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216716/15339974-audio.mp3</link>
+         <description>”Jeg har begået mange fejl,” fortæller ugens gæst; manden, der som Jyllands-Postens daværende kulturredaktør stod fadder til Muhammedtegningerne, Flemming Rose. Vært:  Skuespiller, forfatter og dramatiker Hassan Preisler. </description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216716/15339974-audio.mp3</guid>
+         <pubDate>Fri, 13 Jan 2017 15:24:23 +0000</pubDate>
+         <itunes:duration>00:54:41</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.01.13%20-%20Flemming%20Rose.mp3" />
+      </item>
+      <item>
+         <title>Carl Mar Møller</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187908/15292429-audio.mp3</link>
+         <description>Ugens gæst er Carl Mar Møller. ”Jeg mobbede min kæreste i tre uger,” fortæller ugens gæst,
 psykoterapeut og forretningsmand, Carl Mar Møller i Min Lille Hassan - et
 program, hvor mænd taler om følelser og kun følelser med udgangspunkt i værtens
-personlige idiosynkrasier.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187908/15292429-audio.mp3</guid>
-			<pubDate>Sat, 07 Jan 2017 19:19:28 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187908/15292429-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Far</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187909/14374240-audio.mp3</link>
-			<description>Ugens gæst: Far. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng.
- 
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187909/14374240-audio.mp3</guid>
-			<pubDate>Sat, 27 Aug 2016 19:05:56 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187909/14374240-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Martin Østergaard</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187910/14329477-audio.mp3</link>
-			<description>Ugens gæst: Martin Østergaard. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187910/14329477-audio.mp3</guid>
-			<pubDate>Sat, 20 Aug 2016 19:05:11 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187910/14329477-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Martin Lyngbo</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187911/14283757-audio.mp3</link>
-			<description>Ugens gæst: Martin Lyngbo. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187911/14283757-audio.mp3</guid>
-			<pubDate>Sat, 13 Aug 2016 19:05:25 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187911/14283757-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kaspar Colling Nielsen</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187912/14245156-audio.mp3</link>
-			<description>Ugens gæst: Kaspar Colling Nielsen. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng.
-</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187912/14245156-audio.mp3</guid>
-			<pubDate>Sat, 06 Aug 2016 19:05:28 +0000</pubDate>
-			<itunes:duration>00:55:01</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187912/14245156-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jon Stephensen</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187913/14160374-audio.mp3</link>
-			<description>Ugens gæst: Jon Stephensen. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng. Hassan Preisler</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187913/14160374-audio.mp3</guid>
-			<pubDate>Sun, 31 Jul 2016 08:15:27 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187913/14160374-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Janus Nabil Bakrawi</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187914/14106128-audio.mp3</link>
-			<description>Ugens gæst: Janus Nabil Bakrawi. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng. Hassan Preisler</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187914/14106128-audio.mp3</guid>
-			<pubDate>Sat, 23 Jul 2016 19:05:37 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187914/14106128-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Morten Messerschmidt</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216717/14063386-audio.mp3</link>
-			<description>Ugens gæst: Morten Messerschmidt. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng. Hassan Preisler</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216717/14063386-audio.mp3</guid>
-			<pubDate>Sat, 16 Jul 2016 19:04:52 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/216717/14063386-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Henrik Dahl </title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187915/14009612-audio.mp3</link>
-			<description>Sociolog, forfatter og folketingspolitiker Henrik Dahl er dette og Hiint! Men når Henrik Dahl bruger ord som ”man” i stedet for ”jeg”, så er det fordi han er genert, fortæller han. Det og meget andet kan du høre om i denne uges program, hvor Henrik Dahl vil være sig selv. Velkommen til denne uges Min Lille Hassan. Hassan Preisler</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187915/14009612-audio.mp3</guid>
-			<pubDate>Sat, 09 Jul 2016 19:05:07 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187915/14009612-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Morten Kirkskov</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187916/13682146-audio.mp3</link>
-			<description>Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser.
+personlige idiosynkrasier.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187908/15292429-audio.mp3</guid>
+         <pubDate>Sat, 07 Jan 2017 19:19:28 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2017.01.07%20-%20Carl%20Mar%20M%C3%B8ller.mp3" />
+      </item>
+      <item>
+         <title>Far</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187909/14374240-audio.mp3</link>
+         <description>Ugens gæst: Far. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng.
+ </description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187909/14374240-audio.mp3</guid>
+         <pubDate>Sat, 27 Aug 2016 19:05:56 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.08.27%20-%20Far.mp3" />
+      </item>
+      <item>
+         <title>Martin Østergaard</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187910/14329477-audio.mp3</link>
+         <description>Ugens gæst: Martin Østergaard. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187910/14329477-audio.mp3</guid>
+         <pubDate>Sat, 20 Aug 2016 19:05:11 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.08.20%20-%20Martin%20%C3%98stergaard.mp3" />
+      </item>
+      <item>
+         <title>Martin Lyngbo</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187911/14283757-audio.mp3</link>
+         <description>Ugens gæst: Martin Lyngbo. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187911/14283757-audio.mp3</guid>
+         <pubDate>Sat, 13 Aug 2016 19:05:25 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.08.13%20-%20Martin%20Lyngbo.mp3" />
+      </item>
+      <item>
+         <title>Kaspar Colling Nielsen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187912/14245156-audio.mp3</link>
+         <description>Ugens gæst: Kaspar Colling Nielsen. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187912/14245156-audio.mp3</guid>
+         <pubDate>Sat, 06 Aug 2016 19:05:28 +0000</pubDate>
+         <itunes:duration>00:55:01</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.08.06%20-%20Kaspar%20Colling%20Nielsen.mp3" />
+      </item>
+      <item>
+         <title>Jon Stephensen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187913/14160374-audio.mp3</link>
+         <description>Ugens gæst: Jon Stephensen. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng. Hassan Preisler</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187913/14160374-audio.mp3</guid>
+         <pubDate>Sun, 31 Jul 2016 08:15:27 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.07.31%20-%20Jon%20Stephensen.mp3" />
+      </item>
+      <item>
+         <title>Janus Nabil Bakrawi</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187914/14106128-audio.mp3</link>
+         <description>Ugens gæst: Janus Nabil Bakrawi. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng. Hassan Preisler</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187914/14106128-audio.mp3</guid>
+         <pubDate>Sat, 23 Jul 2016 19:05:37 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.07.23%20-%20Janus%20Nabil%20Bakrawi.mp3" />
+      </item>
+      <item>
+         <title>Morten Messerschmidt</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216717/14063386-audio.mp3</link>
+         <description>Ugens gæst: Morten Messerschmidt. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng. Hassan Preisler</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216717/14063386-audio.mp3</guid>
+         <pubDate>Sat, 16 Jul 2016 19:04:52 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.07.16%20-%20Morten%20Messerschmidt.mp3" />
+      </item>
+      <item>
+         <title>Henrik Dahl</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187915/14009612-audio.mp3</link>
+         <description>Sociolog, forfatter og folketingspolitiker Henrik Dahl er dette og Hiint! Men når Henrik Dahl bruger ord som ”man” i stedet for ”jeg”, så er det fordi han er genert, fortæller han. Det og meget andet kan du høre om i denne uges program, hvor Henrik Dahl vil være sig selv. Velkommen til denne uges Min Lille Hassan. Hassan Preisler</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187915/14009612-audio.mp3</guid>
+         <pubDate>Sat, 09 Jul 2016 19:05:07 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.07.09%20-%20Henrik%20Dahl%20.mp3" />
+      </item>
+      <item>
+         <title>Morten Kirkskov</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187916/13682146-audio.mp3</link>
+         <description>Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser.
 Kan en mand tillade sig at være lille? Det er det store spørgsmål.
 ”Det Store er ikke at være Dette eller Hint; men at være sig selv”.
 Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843.
@@ -332,46 +300,46 @@ Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det an
 Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng.
 Min gæst i dag er skuespilchef ved Det Kongelige Teater, Morten Kirkskov.
 Han er dette og hint, men kan han også være sig selv? Det skal vi finde ud af nu.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187916/13682146-audio.mp3</guid>
-			<pubDate>Sat, 02 Jul 2016 19:08:00 +0000</pubDate>
-			<itunes:duration>00:54:50</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187916/13682146-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Carsten Jensen</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216718/13903473-audio.mp3</link>
-			<description>Forfatteren Carsten Jensen har udgivet hele 21 bøger. Han har gennem årene blandt andet modtaget De Gyldne Laurbær, P2s Romanpris, Danske Banks Litteraturpris og Oluf Palme-prisen. Carsten Jensen er også en aktiv debattør, og så smider han masken i denne uges udgave af Min Lille Hassan: &quot;Jeg tror, at jeg og lystmordere har meget til fælles. Når øksen går rent ind i kraniet, det giver en god følelse,” siger han. Carsten Jensen er dette og Hiint, men kan han også være sig selv. Det skal vi finde ud af i dag. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Hassan Preisler</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216718/13903473-audio.mp3</guid>
-			<pubDate>Sat, 25 Jun 2016 19:05:34 +0000</pubDate>
-			<itunes:duration>00:54:59</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/216718/13903473-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Esben Kjær</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187917/13864658-audio.mp3</link>
-			<description>Ugens gæst: Esben Kjær, radiovært, redaktør og forfatter til bogen 'Min usynlige søn'. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng. Hassan Preisler</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187917/13864658-audio.mp3</guid>
-			<pubDate>Sat, 18 Jun 2016 19:05:55 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187917/13864658-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Manu Sareen</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187918/13822084-audio.mp3</link>
-			<description>Ugens gæst: Manu Sareen. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng. Hassan Preisler</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187918/13822084-audio.mp3</guid>
-			<pubDate>Sat, 11 Jun 2016 19:05:10 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187918/13822084-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Alex Ahrendtsen</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187919/13771093-audio.mp3</link>
-			<description>Min gæst i dette afsnit er  Dansk Folkepartis Alex Ahrendtsen, til hvem jeg bl.a. betror mig om at jeg får for hurtig udløsning, når jeg er sammen med kvinder jeg er meget forelsket i. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187919/13771093-audio.mp3</guid>
-			<pubDate>Fri, 03 Jun 2016 15:10:12 +0000</pubDate>
-			<itunes:duration>00:54:47</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/187919/13771093-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187916/13682146-audio.mp3</guid>
+         <pubDate>Sat, 02 Jul 2016 19:08:00 +0000</pubDate>
+         <itunes:duration>00:54:50</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.07.02%20-%20Morten%20Kirkskov.mp3" />
+      </item>
+      <item>
+         <title>Carsten Jensen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/216718/13903473-audio.mp3</link>
+         <description>Forfatteren Carsten Jensen har udgivet hele 21 bøger. Han har gennem årene blandt andet modtaget De Gyldne Laurbær, P2s Romanpris, Danske Banks Litteraturpris og Oluf Palme-prisen. Carsten Jensen er også en aktiv debattør, og så smider han masken i denne uges udgave af Min Lille Hassan: "Jeg tror, at jeg og lystmordere har meget til fælles. Når øksen går rent ind i kraniet, det giver en god følelse,” siger han. Carsten Jensen er dette og Hiint, men kan han også være sig selv. Det skal vi finde ud af i dag. Velkommen til Min Lille Hassan. Et mandemagasin hvor mænd taler om følelser. Og kun følelser. Hassan Preisler</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/216718/13903473-audio.mp3</guid>
+         <pubDate>Sat, 25 Jun 2016 19:05:34 +0000</pubDate>
+         <itunes:duration>00:54:59</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.06.25%20-%20Carsten%20Jensen.mp3" />
+      </item>
+      <item>
+         <title>Esben Kjær</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187917/13864658-audio.mp3</link>
+         <description>Ugens gæst: Esben Kjær, radiovært, redaktør og forfatter til bogen 'Min usynlige søn'. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng. Hassan Preisler</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187917/13864658-audio.mp3</guid>
+         <pubDate>Sat, 18 Jun 2016 19:05:55 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.06.18%20-%20Esben%20Kj%C3%A6r.mp3" />
+      </item>
+      <item>
+         <title>Manu Sareen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187918/13822084-audio.mp3</link>
+         <description>Ugens gæst: Manu Sareen. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng. Hassan Preisler</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187918/13822084-audio.mp3</guid>
+         <pubDate>Sat, 11 Jun 2016 19:05:10 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.06.11%20-%20Manu%20Sareen.mp3" />
+      </item>
+      <item>
+         <title>Alex Ahrendtsen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/187919/13771093-audio.mp3</link>
+         <description>Min gæst i dette afsnit er  Dansk Folkepartis Alex Ahrendtsen, til hvem jeg bl.a. betror mig om at jeg får for hurtig udløsning, når jeg er sammen med kvinder jeg er meget forelsket i. Det Store er ikke at være Dette eller Hint; men at være sig selv”. Sådan skrev filosof Søren Kierkegaard i essayet ’Enten – Eller’ fra 1843. Og jeg har opdaget noget frygteligt: Min evne til at elske og forbinde mig til andre mennesker er direkte forbundet med mit mod til at gøre mig sårbar. Til at gøre mig lille og være mig selv. Det ene kan ikke eksistere uden det andet. Dette min Lille Hassan: Min sag, der ligge mig på sinde. Og som jeg er tilbøjelig til at fremføre i enhver sammenhæng.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/187919/13771093-audio.mp3</guid>
+         <pubDate>Fri, 03 Jun 2016 15:10:12 +0000</pubDate>
+         <itunes:duration>00:54:47</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/min_lille_hassan/Min%20Lille%20Hassan/2016.06.03%20-%20Alex%20Ahrendtsen.mp3" />
+      </item>
+   </channel>
 </rss>

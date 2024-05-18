@@ -1,1232 +1,1243 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Det Værste Par</title>
-    	<link>https://www.parpodcast.dk</link>
-    	<description>En humoristisk podcast om parforholdet og livet som forældre - Martin Nørgaard og Sofie Flykt er komikere, kærester, kolleger, forældre... og hundeejere. Nu har de også en podcast sammen, hvor de vender og drejer det moderne parforhold og alt hvad der følger med.</description>
-    	<language>da-DK</language>
-    	<managingEditor>kontakt@parpodcast.dk</managingEditor>
-    	<webMaster>kontakt@parpodcast.dk</webMaster>
-    	<copyright>Sofie Flykt &amp; Martin Nørgaard</copyright>
-    	<itunes:author>Sofie Flykt &amp; Martin Nørgaard</itunes:author>
-    	<itunes:keywords>det, værste, par, comedy, komik, podcast, martin, nørgaard, sofie, flykt, standup, stand-up, aktuel, aktuelt, underholdende, hyggelig, hyggeligt, satire, parforhold, kærester, børn, romantik</itunes:keywords>
-    	<itunes:explicit>yes</itunes:explicit>
-    	<itunes:image href="http://www.parpodcast.dk/podcast/parpodcast_logo.png" />
-    	<itunes:owner>
-      	<itunes:name>Sofie Flykt &amp; Martin Nørgaard</itunes:name>
-      	<itunes:email>kontakt@parpodcast.dk</itunes:email>
-    	</itunes:owner>
-    	<itunes:block>no</itunes:block>
-    	<itunes:category text="Comedy" />
-            <item>
-			<title>#01 Pilot</title>
-			<pubDate>Fri, 18 May 2018 14:10:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/01_Pilot.mp3" length="116897459" type="audio/mpeg" />
-			<itunes:duration>01:21:10</itunes:duration>
-            <description>Nu fik vi endelig taget os sammen! Første afsnit af vores podcast er nu en ting der eksisterer! Lyt med! Vi håber du kan lide den. Vi hyggede os med at lave den! Mange kram fra Martin (ikke Sofie - hun kan ikke lide at kramme)</description>
-			<guid>http://www.parpodcast.dk/podcast/01_Pilot.mp3</guid>
-			<link>http://www.parpodcast.dk/episoder/episoder.php?post_id=10</link>
-		  </item>
-            <item>
-			<title>#02 Demokrati for begyndere</title>
-			<pubDate>Fri, 25 May 2018 11:35:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/02_demokratiforbegyndere.mp3" length="92945890" type="audio/mpeg" />
-			<itunes:duration>01:04:33</itunes:duration>
-            <description>I dag forsøger vi at lære vores 1-årige datter om demokrati, vi snakker om dame- og mandeblade, vi vender ugens disputs og svarer på lytterspørgsmål.</description>
-			<guid>http://www.parpodcast.dk/podcast/02_demokratiforbegyndere.mp3</guid>
-			<link>http://www.parpodcast.dk/episoder/episoder.php?post_id=11</link>
-		  </item>
-            <item>
-			<title>#03 Hold din kæft i Føtex</title>
-			<pubDate>Fri, 01 Jun 2018 12:45:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/03_hdkif.mp3" length="84077841" type="audio/mpeg" />
-			<itunes:duration>58:23</itunes:duration>
-            <description>I dag kigger vi nærmere på kommunikations-coaching fra RUTH TV, vi snakker om det store toiletpapirsskænderi, om børneopdagelse i Føtex og så ødelægger vi et parforhold. Selv tak!</description>
-			<guid>http://www.parpodcast.dk/podcast/03_hdkif.mp3</guid>
-			<link>http://www.parpodcast.dk/episoder/episoder.php?post_id=12</link>
-		  </item>
-            <item>
-			<title>#04 Drømmemanden</title>
-			<pubDate>Fri, 08 Jun 2018 14:05:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/04_drommemanden.mp3" length="100157567" type="audio/mpeg" />
-			<itunes:duration>01:09:33</itunes:duration>
-            <description>I dag snakker vi om store graviditetsbryster, Sofie får nogle gode parforholdsråd fra healeren Paprika Noel, og Martin lærer at være en rigtig drømmemand af ingen ringere end Carl Mar.</description>
-			<guid>http://www.parpodcast.dk/podcast/04_drommemanden.mp3</guid>
-			<link>http://www.parpodcast.dk/episoder/episoder.php?post_id=13</link>
-		  </item>
-            <item>
-			<title>#05 Voksenskældud</title>
-			<pubDate>Fri, 15 Jun 2018 11:00:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/05_voksenskaeldud.mp3" length="104285959" type="audio/mpeg" />
-			<itunes:duration>01:12:25</itunes:duration>
-            <description>I dag bliver Sofie udstyret med en verbalvoldtægtsfløjte så der kan blive gjort noget ved at Martin altid afbryder. Vi snakker om alle de valg man har i det moderne samfund, vi tager en test fra woman.dk, vi snakker om voksenskældud og så læser vi post. Tak fordi I lytter med!</description>
-			<guid>http://www.parpodcast.dk/podcast/05_voksenskaeldud.mp3</guid>
-			<link>http://www.parpodcast.dk/episoder/episoder.php?post_id=14</link>
-		  </item>
-            <item>
-			<title>#06 Hanne-tid</title>
-			<pubDate>Fri, 22 Jun 2018 12:45:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/06_hanne-tid.mp3" length="114113851" type="audio/mpeg" />
-			<itunes:duration>01:19:15</itunes:duration>
-            <description>I dag er vi super trætte, for vores datter valgte at lave headspins og saltomotaler i vores seng hele natten. Det snakker vi blandt andet om. Så vender vi en god gang coaching, hvor dagens tip blandt andet er: husk hanne-tid. Og så er der post og disputs, som i dag går på kræsenhed. Enjoy!</description>
-			<guid>http://www.parpodcast.dk/podcast/06_hanne-tid.mp3</guid>
-			<link>http://www.parpodcast.dk/episoder/episoder.php?post_id=15</link>
-		  </item>
-            <item>
-			<title>#07 Nyt fra sygesengen</title>
-			<pubDate>Fri, 29 Jun 2018 12:30:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/07_nytfrasygesengen.mp3" length="108053861" type="audio/mpeg" />
-			<itunes:duration>01:15:02</itunes:duration>
-            <description>Martin har været døden nær igen, og Ellen har også været syg, så Sofie har haft en lidt hektisk uge. Det og meget mere i dagens afsnit.</description>
-			<guid>https://www.parpodcast.dk/podcast/07_nytfrasygesengen.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=16</link>
-		  </item>
-            <item>
-			<title>#08 Mavefornemmelsen</title>
-			<pubDate>Fri, 06 Jul 2018 15:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/08_mavefornemmelsen.mp3" length="103994432" type="audio/mpeg" />
-			<itunes:duration>01:12:13</itunes:duration>
-            <description>Vi får gode råd om at følge vores mavefornemmelse, vi vender endnu en af Martins klamme vaner, og så får vi testet om Martin er en Sex and The Citydiot og om Sofie er en vaskeægte penisekspert.</description>
-			<guid>https://www.parpodcast.dk/podcast/08_mavefornemmelsen.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=17</link>
-		  </item>
-            <item>
-			<title>#09 Sommerspecial: Martins historie</title>
-			<pubDate>Fri, 13 Jul 2018 10:40:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/09_sommerspecial_martins_historie.mp3" length="57338902" type="audio/mpeg" />
-			<itunes:duration>39:49</itunes:duration>
-            <description>Vi holder sommerferie, men derfor skal I ikke snydes for dagens afsnit. Dette og næste afsnit er et par små special-afsnit, hvor vi fortæller lidt om vores kærlighedshistorie hver især. I det første afsnit er det Sofie der interviewer Martin, og i næste uge er rollerne byttet om. Så lyt med og bliv måske lidt klogere på hvem vi er. God sommer!</description>
-			<guid>https://www.parpodcast.dk/podcast/09_sommerspecial_martins_historie.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=18</link>
-		  </item>
-            <item>
-			<title>#10 Sommerspecial: Sofies historie</title>
-			<pubDate>Fri, 20 Jul 2018 13:55:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/10_sommerspecial_sofies_historie.mp3" length="65627660" type="audio/mpeg" />
-			<itunes:duration>45:34</itunes:duration>
-            <description>Vi holder sommerferie, men derfor skal I ikke snydes for dagens afsnit. Vi har lavet et par små special-afsnit, hvor vi fortæller lidt om vores kærlighedshistorie hver især. I sidste uge fik I Martins historie, og i denne uge er turen så kommet til Sofie. Så lyt med og bliv måske lidt klogere på hvem vi er. God sommer!</description>
-			<guid>https://www.parpodcast.dk/podcast/10_sommerspecial_sofies_historie.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=19</link>
-		  </item>
-            <item>
-			<title>#11 Familieferie</title>
-			<pubDate>Fri, 27 Jul 2018 14:30:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/11_Familieferie.mp3" length="81461625" type="audio/mpeg" />
-			<itunes:duration>56:34</itunes:duration>
-            <description>Vi er tilbage fra sommerferie - og sikke en af slagsen. Der er ikke noget som lige at få et par dages ro, efter 14 dages familieferie. Det og meget mere i dagens afsnit.</description>
-			<guid>https://www.parpodcast.dk/podcast/11_Familieferie.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=20</link>
-		  </item>
-            <item>
-			<title>#12 Smålighed</title>
-			<pubDate>Fri, 03 Aug 2018 13:10:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/12_Smaalighed.mp3" length="129569773" type="audio/mpeg" />
-			<itunes:duration>01:29:59</itunes:duration>
-            <description>I dag snakker vi om at aflevere et skrigende barn i institution, vi får gode parforholdsråd af Hella Joof, vi har en disputs om smålighed, og så har vi fået noget rigtig god post!</description>
-			<guid>https://www.parpodcast.dk/podcast/12_Smaalighed.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=21</link>
-		  </item>
-            <item>
-			<title>#13 Teletubbitubbies</title>
-			<pubDate>Fri, 10 Aug 2018 14:25:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/13_teletubbitubbies.mp3" length="117041655" type="audio/mpeg" />
-			<itunes:duration>01:21:17</itunes:duration>
-            <description>I dag kaster vi os frådende over forslaget om at give normalvægtige børn penge, vi taler om tv-tid og tv-politik i hjemmet generelt, og så tager vi som sædvanlig al den dejlige post I sender, og stikker den op i vores røvkanaler. Tak fordi I findes! Vi kan virkelig godt lide jer!</description>
-			<guid>https://www.parpodcast.dk/podcast/13_teletubbitubbies.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=22</link>
-		  </item>
-            <item>
-			<title>#14 Skrigepuden</title>
-			<pubDate>Fri, 17 Aug 2018 14:30:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/14_skrigepuden.mp3" length="113345851" type="audio/mpeg" />
-			<itunes:duration>01:18:43</itunes:duration>
-            <description>I dag kigger vi nærmere på fænomenet "skrigepuden", og så dykker vi ned i de gode spørgsmål I har sendt os, men som vi ikke har nået de andre gange. Bliv endelig ved med at skrive til os, og tak fordi I lytter med!</description>
-			<guid>https://www.parpodcast.dk/podcast/14_skrigepuden.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=23</link>
-		  </item>
-            <item>
-			<title>#15 Tålmodighed</title>
-			<pubDate>Fri, 24 Aug 2018 13:20:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/15_taalmodighed.mp3" length="108113420" type="audio/mpeg" />
-			<itunes:duration>01:15:05</itunes:duration>
-            <description>I dag får vi gode råd om tålmodighed fra det altid leveringsdygtige medie "Woman", vi har en disputs om at have hinandens ryg, og så læser vi post. Tak fordi I lytter med!</description>
-			<guid>https://www.parpodcast.dk/podcast/15_taalmodighed.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=24</link>
-		  </item>
-            <item>
-			<title>#16 Me Too Soon</title>
-			<pubDate>Thu, 30 Aug 2018 14:00:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/16_metoosoon.mp3" length="111821763" type="audio/mpeg" />
-			<itunes:duration>01:17:39</itunes:duration>
-            <description>I denne uge tager vi en lang snak om Louis CK og #metoo bevægelsen, og så leger vi den famøse leg "The Newlywed Game". Lyt med og hør hvordan de to ting folder sig ud!</description>
-			<guid>https://www.parpodcast.dk/podcast/16_metoosoon.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=25</link>
-		  </item>
-            <item>
-			<title>#17 Den fineste oplevelse</title>
-			<pubDate>Thu, 13 Sep 2018 14:15:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/17_denfinesteoplevelse.mp3" length="123077822" type="audio/mpeg" />
-			<itunes:duration>01:25:28</itunes:duration>
-            <description>Vi er tilbage i topform - trætte som altid - med gode snakke om åbne parforhold og hvordan man taler med børn om døden og så har vi en dejlig dating-historie fra en skøn lytter!</description>
-			<guid>https://www.parpodcast.dk/podcast/17_denfinesteoplevelse.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=26</link>
-		  </item>
-            <item>
-			<title>#18 Lebbebasket</title>
-			<pubDate>Fri, 21 Sep 2018 14:10:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/18_lebbebasket.mp3" length="118397724" type="audio/mpeg" />
-			<itunes:duration>01:22:13</itunes:duration>
-            <description>I dag følger vi op på vores alle sammens yndlings-åbne-parforhold fra sidste uge, og så er der nyt fra coaching-verdenen og så er der gode råd til alle jer der går og tænker på at flytte sammen! Lyt med!</description>
-			<guid>https://www.parpodcast.dk/podcast/18_lebbebasket.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=27</link>
-		  </item>
-            <item>
-			<title>#19 Oslobåden</title>
-			<pubDate>Fri, 28 Sep 2018 15:40:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/19_oslobaaden.mp3" length="117101841" type="audio/mpeg" />
-			<itunes:duration>01:21:19</itunes:duration>
-            <description>I dag snakker vi om nogle af alle de dejlige ting der er ved at være forældre, og så har vi en "disputs" som desværre trækker os tilbage til Martins anatomi. Og så får vi post!</description>
-			<guid>https://www.parpodcast.dk/podcast/19_oslobaaden.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=28</link>
-		  </item>
-            <item>
-			<title>#20 Sherlockhomies</title>
-			<pubDate>Mon, 08 Oct 2018 15:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/20_Sherlockhomies.mp3" length="109829351" type="audio/mpeg" />
-			<itunes:duration>01:16:16</itunes:duration>
-            <description>Så kunne vi være der! I dag sludrer vi lidt om escaperooms og DR-programmet "Gift Ved Første Blik". Lyt med!</description>
-			<guid>https://www.parpodcast.dk/podcast/20_Sherlockhomies.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=29</link>
-		  </item>
-            <item>
-			<title>#21 Giv blod</title>
-			<pubDate>Fri, 12 Oct 2018 14:15:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/21_givblod.mp3" length="121433361" type="audio/mpeg" />
-			<itunes:duration>01:24:20</itunes:duration>
-            <description>Hej elskede lyttere! I dag har vi et dejligt afsnit klar til jer, hvor vi snakker om at give blod, og dermed være et rigtig godt menneske, vi snakker om hvordan man holder liv i parforholdet, vi tager en test fra Woman og så får vi et hurtigt, godt råd til fastere afføring. På forhånd undskyld. Tak fordi I lytter med!</description>
-			<guid>https://www.parpodcast.dk/podcast/21_givblod.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=30</link>
-		  </item>
-            <item>
-			<title>#22 Flæskestegssandwich</title>
-			<pubDate>Fri, 19 Oct 2018 13:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/22_flaeskestegssandwich.mp3" length="104630775" type="audio/mpeg" />
-			<itunes:duration>01:12:39</itunes:duration>
-            <description>I denne uge runder vi en dejlig drøm Sofie engang har haft, vi får sagt farvel til "Gift ved første blik" og så vender vi 1-året for #MeToo. Lyt med, din gavflab.</description>
-			<guid>https://www.parpodcast.dk/podcast/22_flaeskestegssandwich.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=31</link>
-		  </item>
-            <item>
-			<title>#23 Tantekys og sexdage</title>
-			<pubDate>Fri, 26 Oct 2018 14:20:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/23_tantekysogsexdage.mp3" length="83916718" type="audio/mpeg" />
-			<itunes:duration>58:16</itunes:duration>
-            <description>I dag får vi kigget lidt i postkassen, og så får vi gode råd fra EB-TV.</description>
-			<guid>https://www.parpodcast.dk/podcast/23_tantekysogsexdage.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=32</link>
-		  </item>
-            <item>
-			<title>#24 Godnat og sov godt</title>
-			<pubDate>Sat, 03 Nov 2018 13:40:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/24_godnatogsovgodt.mp3" length="72197351" type="audio/mpeg" />
-			<itunes:duration>50:08</itunes:duration>
-            <description>Bedre sent end aldrig! Ugens afsnit er optaget under Ellens middagslurs, men vi når alligevel at vende både det ene og det andet. Ja, det var BÅDE det ene OG det andet. Og post! Tak fordi I lytter med!</description>
-			<guid>https://www.parpodcast.dk/podcast/24_godnatogsovgodt.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=33</link>
-		  </item>
-            <item>
-			<title>#25 Disputs-Tahrir</title>
-			<pubDate>Sat, 17 Nov 2018 15:20:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/25_disputstahrir.mp3" length="100592662" type="audio/mpeg" />
-			<itunes:duration>01:09:51</itunes:duration>
-            <description>Så er vi tilbage ovenpå en hektisk periode. Der er nyt om vores fælles tarmflora, og så bliver der disputset igennem på den helt store klinge. Tak fordi du låner os dine ører!</description>
-			<guid>https://www.parpodcast.dk/podcast/25_disputstahrir.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=34</link>
-		  </item>
-            <item>
-			<title>#26 Fnat</title>
-			<pubDate>Sun, 25 Nov 2018 14:40:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/26_fnat.mp3" length="79757606" type="audio/mpeg" />
-			<itunes:duration>55:23</itunes:duration>
-            <description>Sofies arbejdsplads er blevet ramt af fnat, og det kaster os ud i en snak om kønssygdomme. Selv tak. Og så får vi snakket lidt om jul og andet godt.</description>
-			<guid>https://www.parpodcast.dk/podcast/26_fnat.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=35</link>
-		  </item>
-            <item>
-			<title>#27 Pas din egen butik</title>
-			<pubDate>Fri, 07 Dec 2018 12:35:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/27_pasdinegenbutik.mp3" length="75656799" type="audio/mpeg" />
-			<itunes:duration>52:32</itunes:duration>
-            <description>Vi snakker om det verdenskendte begreb, at "skyle" - og så får vi os en snak om børn i institution kontra at gå der hjemme med dem. Og så har vi en kaffe-disput!</description>
-			<guid>https://www.parpodcast.dk/podcast/27_pasdinegenbutik.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=36</link>
-		  </item>
-            <item>
-			<title>#28 Mig hjælpe mig</title>
-			<pubDate>Fri, 14 Dec 2018 12:35:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/28_mighjaelpemig.mp3" length="94928897" type="audio/mpeg" />
-			<itunes:duration>01:05:55</itunes:duration>
-            <description>I dag snakker vi om trodsalderen, vi får lidt coaching af Jakob Olrik og så, på lytteropfordring, får vi os en snak om at være "en rigtig mand".</description>
-			<guid>https://www.parpodcast.dk/podcast/28_mighjaelpemig.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=37</link>
-		  </item>
-            <item>
-			<title>#29 Sofies juletraume</title>
-			<pubDate>Fri, 21 Dec 2018 12:10:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/29_sofiesjuletraume.mp3" length="93821723" type="audio/mpeg" />
-			<itunes:duration>01:05:09</itunes:duration>
-            <description>Det var dagen før dagen, før dagen før dagen. Julen er over os og vi får os nogle gode snakke. Om at være bleg, om at stole for meget på "ny forskning" i medierne og om hvorvidt man skal bilde sine børn ind at der findes nisser eller ej. Og så har vi en disput vedr. opvask! Hvor retro. Glædelig jul.</description>
-			<guid>https://www.parpodcast.dk/podcast/29_sofiesjuletraume.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=38</link>
-		  </item>
-            <item>
-			<title>#30 Ask us anything</title>
-			<pubDate>Sat, 29 Dec 2018 14:30:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/30_askusanything.mp3" length="66443934" type="audio/mpeg" />
-			<itunes:duration>46:08</itunes:duration>
-            <description>Vi holder juleferie, og i den anledning har vi bedt jer om at lave vores indhold, nemlig i form af en "spørg os om alt". Vi når ikke alle spørgsmålene, da Ellen tager sig en kort lur, men så når vi dem næste gang. Godt nytår!</description>
-			<guid>https://www.parpodcast.dk/podcast/30_askusanything.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=39</link>
-		  </item>
-            <item>
-			<title>#31 Ask us anything 2</title>
-			<pubDate>Fri, 04 Jan 2019 12:00:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/31_askusanything2.mp3" length="111797939" type="audio/mpeg" />
-			<itunes:duration>01:17:38</itunes:duration>
-            <description>Vi starter 2019 med at svare på resten af jeres spørgsmål, og mange tak for dem! Godt nytår, vi håber I har alle jeres fingre endnu. Og at I måske har fået et par ekstra. Hvem ved.</description>
-			<guid>https://www.parpodcast.dk/podcast/31_askusanything2.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=40</link>
-		  </item>
-            <item>
-			<title>#32 De 36 spørgsmål</title>
-			<pubDate>Thu, 10 Jan 2019 15:06:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/32_de36sporgsmal.mp3" length="100013371" type="audio/mpeg" />
-			<itunes:duration>01:09:27</itunes:duration>
-            <description>Sofie har fundet en test, der skulle kunne få folk til at forelske sig i hinanden. Så den tager vi. Lyt med og find ud af om den virker!</description>
-			<guid>https://www.parpodcast.dk/podcast/32_de36sporgsmal.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=41</link>
-		  </item>
-            <item>
-			<title>#33 Mænd</title>
-			<pubDate>Fri, 18 Jan 2019 16:30:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/33_maend.mp3" length="114677469" type="audio/mpeg" />
-			<itunes:duration>01:19:38</itunes:duration>
-            <description>I dag får vi os en god, lang snak om mænd. Mænd, mænd, mænd.</description>
-			<guid>https://www.parpodcast.dk/podcast/33_maend.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=42</link>
-		  </item>
-            <item>
-			<title>#34 Kvinder</title>
-			<pubDate>Fri, 25 Jan 2019 15:11:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/34_kvinder.mp3" length="128933430" type="audio/mpeg" />
-			<itunes:duration>01:29:32</itunes:duration>
-            <description>I denne uge tager vi os en lang snak om kvinder. Som hende på billedet f.eks.</description>
-			<guid>https://www.parpodcast.dk/podcast/34_kvinder.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=43</link>
-		  </item>
-            <item>
-			<title>#35 SoMe</title>
-			<pubDate>Fri, 01 Feb 2019 14:30:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/35_SoMe.mp3" length="123161832" type="audio/mpeg" />
-			<itunes:duration>01:25:32</itunes:duration>
-            <description>I dag snakker vi om sociale medier. Hvordan har vi det med dem, hvorfor bruger vi dem, til hvad og alt det der! Husk i øvrigt at følg os på de sociale medier!</description>
-			<guid>https://www.parpodcast.dk/podcast/35_SoMe.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=44</link>
-		  </item>
-            <item>
-			<title>#36 Samtykke</title>
-			<pubDate>Sun, 10 Feb 2019 13:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/36_samtykke.mp3" length="92441831" type="audio/mpeg" />
-			<itunes:duration>01:04:12</itunes:duration>
-            <description>I dag tager vi en snak om et svært og ømtåleligt emne: voldtægt. Og samtykke. Affødt af en twitter-tråd om emnet, forsøger vi at snakke om problematikkerne og komme rundt om hele debatten. Giv det et lyt, og sig endelig til hvis I brænder inde med noget i den sammenhæng.</description>
-			<guid>https://www.parpodcast.dk/podcast/36_samtykke.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=45</link>
-		  </item>
-            <item>
-			<title>#37 Minnie Mouses brystvorter</title>
-			<pubDate>Sat, 09 Mar 2019 14:55:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/37_minniemousesbrystvorter.mp3" length="113047428" type="audio/mpeg" />
-			<itunes:duration>01:18:30</itunes:duration>
-            <description>Så kunne vi være her! Der er gået en måned siden sidst I hørte fra os, og det er simpelthen fordi vi har haft travlt. Men vi bruger afsnittet på at holde jer up to date, på at snakke om hvor vores barn er i livet nu, og så kommer vi spontant rundt om pædofili på YouTube. Så kom ikke og sig at du ikke får noget med hjem.</description>
-			<guid>https://www.parpodcast.dk/podcast/37_minniemousesbrystvorter.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=46</link>
-		  </item>
-            <item>
-			<title>#38 Dickpics</title>
-			<pubDate>Sun, 17 Mar 2019 15:05:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/38_dickpics.mp3" length="87413782" type="audio/mpeg" />
-			<itunes:duration>01:00:42</itunes:duration>
-            <description>I dag snakker vi om det tv-program om dickpics vi fik anbefalet, og vi snakker om at mænd og kvinder i stand-up. Det sidste er dog lidt kort og forhastet, da vores datter stod op fra sin middagslur før forventet. Og så har Sofie en dokumentarist med sig i hælene. Hør mere i podcasten!</description>
-			<guid>https://www.parpodcast.dk/podcast/38_dickpics.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=47</link>
-		  </item>
-            <item>
-			<title>#39 Nu med cykelhjelm</title>
-			<pubDate>Sun, 14 Apr 2019 14:30:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/39_numedcykelhjelm.mp3" length="114653645" type="audio/mpeg" />
-			<itunes:duration>01:19:32</itunes:duration>
-            <description>Så kunne vi være her! Der er sket meget siden sidst. Sofie er nu prisnomineret, vi har været til demo, vi får raset lidt ud over politikere og andre ting vi ikke ved noget om. Og så finder vi ud af hvem fra SKAM Sofie er.</description>
-			<guid>https://www.parpodcast.dk/podcast/39_numedcykelhjelm.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=48</link>
-		  </item>
-            <item>
-			<title>#40 Fodboldtøj</title>
-			<pubDate>Sun, 21 Apr 2019 14:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/40_fodboldtoej.mp3" length="105251444" type="audio/mpeg" />
-			<itunes:duration>01:13:05</itunes:duration>
-            <description>I dag får vi besvaret en stor del af den post alle jer dejlige lyttere har sendt og så har vi to disputer! (Disputser? Nej, disputer?) Den ene handler om Sofies påklædning, den anden om hendes dørtelefonvaner. Så spænd sikkerhedsselen og hold på hat og briller!</description>
-			<guid>https://www.parpodcast.dk/podcast/40_fodboldtoej.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=49</link>
-		  </item>
-            <item>
-			<title>#41 Podcasten tidligere kendt som Et Ægte Par</title>
-			<pubDate>Mon, 06 May 2019 15:20:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/41_ptkseaep.mp3" length="106119128" type="audio/mpeg" />
-			<itunes:duration>01:13:41</itunes:duration>
-            <description>Vi er gået direkte i Downs-fælden, vi ser en video om hvordan man spiser med børn, og så er der ballade med vores vandingsplan for potteplanterne.</description>
-			<guid>https://www.parpodcast.dk/podcast/41_ptkseaep.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=50</link>
-		  </item>
-            <item>
-			<title>#42 Navneleg</title>
-			<pubDate>Fri, 24 May 2019 15:20:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/42_navneleg.mp3" length="100541880" type="audio/mpeg" />
-			<itunes:duration>01:09:49</itunes:duration>
-            <description>Vi har fået så fantastisk mange fantastiske bud på hvad vores podcast kan hedde for fremtiden, og tusind tak for det. Vi bruger en god del af programmet på at gennemgå alle buddene, og så får vi også lige testet Martins manglende viden om EU, og så runder vi GoT-afslutningen.</description>
-			<guid>https://www.parpodcast.dk/podcast/42_navneleg.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=51</link>
-		  </item>
-            <item>
-			<title>#43 Det Værste Par</title>
-			<pubDate>Fri, 31 May 2019 14:40:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/43_detvaerstepar.mp3" length="91499542" type="audio/mpeg" />
-			<itunes:duration>01:03:32</itunes:duration>
-            <description>I dag finder vi endelig frem til det navn vi skal hedde fra nu af og i al fremtid! Vi får os også en god snak om håndværkere, om tolerance, vi svarer på post og vi lukker lort ud. Alt er ved det gamle - undtagen navnet på podcasten!</description>
-			<guid>https://www.parpodcast.dk/podcast/43_detvaerstepar.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=52</link>
-		  </item>
-            <item>
-			<title>#44 Karkaouv</title>
-			<pubDate>Fri, 21 Jun 2019 15:15:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/44_karkaouv.mp3" length="135545753" type="audio/mpeg" />
-			<itunes:duration>01:34:08</itunes:duration>
-            <description>Shazam for planter findes! Sofie navngiver børn ud fra den tankegang mange bruger når de skal navngive deres hund. Vi tager en personlighedstest. Kakao er både psykedelisk og euforisk. Vi ranter om grænserne for satire. Og så er der en god, saftig lytter-dating-historie. Send endelig flere af dem!</description>
-			<guid>https://www.parpodcast.dk/podcast/44_karkaouv.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=53</link>
-		  </item>
-            <item>
-			<title>#45 Swiper ikke nej til klunker</title>
-			<pubDate>Sun, 14 Jul 2019 14:10:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/45_SINTK.mp3" length="101879768" type="audio/mpeg" />
-			<itunes:duration>01:10:45</itunes:duration>
-            <description>Vi er tilbage efter en lille bitte sommerferie. Du bliver opdateret på alt hvad vi har lavet siden du hørte fra os sidst, og så får vi lidt feedback på vores personlighedstest. Og så er der en historie om en lytters første seksuelle oplevelse som du ikke vil gå glip af.</description>
-			<guid>https://www.parpodcast.dk/podcast/45_SINTK.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=54</link>
-		  </item>
-            <item>
-			<title>#46 Me gusta passionado</title>
-			<pubDate>Fri, 02 Aug 2019 12:20:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/46_megustapassionado.mp3" length="110822422" type="audio/mpeg" />
-			<itunes:duration>01:16:51</itunes:duration>
-            <description>Vi sludrer om succes, op- og nedture, Sofie anbefaler ting du kan se og fraråder dig at se nogle andre ting. Så har vi parforholds-coaching frisk fra BT og en dejlig historie fra Tinders forunderlige univers.</description>
-			<guid>https://www.parpodcast.dk/podcast/46_megustapassionado.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=55</link>
-		  </item>
-            <item>
-			<title>#47 Suttekæder</title>
-			<pubDate>Mon, 19 Aug 2019 12:25:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/47_suttekaeder.mp3" length="125957352" type="audio/mpeg" />
-			<itunes:duration>01:27:28</itunes:duration>
-            <description>I dag får vi et spændende indblik i diverse modediller fra Sofies teenageår, vi snakker om juridisk kønsskifte for børn, Sofie har læst en artikel om lykke og så har hun også et godt svar til et svært lytterdillemma. Og så slutter vi med noget så sjældent som en undskyldning til Martin. What a day!</description>
-			<guid>https://www.parpodcast.dk/podcast/47_suttekaeder.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=56</link>
-		  </item>
-            <item>
-			<title>#48 Temperament</title>
-			<pubDate>Mon, 02 Sep 2019 12:10:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/48_temperament.mp3" length="113693802" type="audio/mpeg" />
-			<itunes:duration>01:18:57</itunes:duration>
-            <description>I dag småsnakker vi om løst og fast og svarer på spørgsmål fra lytterne - og bliver facttjekket!</description>
-			<guid>https://www.parpodcast.dk/podcast/48_temperament.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=57</link>
-		  </item>
-            <item>
-			<title>#49 Til døden os kilder</title>
-			<pubDate>Wed, 25 Sep 2019 14:40:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/49_tildoedenoskilder.mp3" length="127385518" type="audio/mpeg" />
-			<itunes:duration>01:28:28</itunes:duration>
-            <description>Vi er tilbage! Der har været forskellige komplikationer der gjorde det umuligt at optage - og dem fortæller vi frejdigt om i dagens afsnit. Så snakker vi også om døden, og så er der som altid dejlig post. Og Sofie anbefaler igen ting og sager. Du kan i øvrigt stadig købe billetter til Martins onemanshow! Vi lyttes ved, og måske ses vi endda også.</description>
-			<guid>https://www.parpodcast.dk/podcast/49_tildoedenoskilder.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=58</link>
-		  </item>
-            <item>
-			<title>#50 Har du husket at binde dit barn i dag?</title>
-			<pubDate>Wed, 16 Oct 2019 14:40:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/50_harduhusket.mp3" length="123345417" type="audio/mpeg" />
-			<itunes:duration>01:42:47</itunes:duration>
-            <description>Vidste du at Sokrates har skrevet en bog der hedder "Globalismus Maximus"? Vidste du Sofie er virkelig god til at lave stemmer? Og hvordan er det egentlig med børneopdragelse, er det en god idé eller skal det afskaffes? Alt det, og meget mere i dagens afsnit. Tak fordi du lytter med!</description>
-			<guid>https://www.parpodcast.dk/podcast/50_harduhusket.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=59</link>
-		  </item>
-            <item>
-			<title>#51 En sludder for en sladder</title>
-			<pubDate>Sun, 10 Nov 2019 14:15:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/51_ensludderforensladder.mp3" length="47965434" type="audio/mpeg" />
-			<itunes:duration>39:58</itunes:duration>
-            <description>Det er søndag, og vi forsøger at klemme en optagelse ind mens vores datter sover middagslur. Det går ikke så godt, og derfor er dagens afsnit også mest bare - ja - en sludder for en sladder. Men vi vender stærkt tilbage!</description>
-			<guid>https://www.parpodcast.dk/podcast/51_ensludderforensladder.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=60</link>
-		  </item>
-            <item>
-			<title>#52 En ordentlig moppedreng</title>
-			<pubDate>Wed, 13 Nov 2019 14:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/52_enordentligmoppedreng.mp3" length="153965629" type="audio/mpeg" />
-			<itunes:duration>02:08:18</itunes:duration>
-            <description>Så er vi allerede tilbage med endnu et afsnit - et langt et af slagsen! Vi tager på ferie lige om lidt, så vi efterlader jer med et marathonafsnit, hvor vi får vendt en masse ting. Sofie kan ikke lide at se sig selv optræde, vi snakker om søvn, om disputer og så tømmer vi indbakken for post! Og så ses vi på den anden side af vores lille familierejse.</description>
-			<guid>https://www.parpodcast.dk/podcast/52_enordentligmoppedreng.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=61</link>
-		  </item>
-            <item>
-			<title>#53 Nytårsforsæt</title>
-			<pubDate>Thu, 02 Jan 2020 13:05:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/53_nytaarsforsaet.mp3" length="120325140" type="audio/mpeg" />
-			<itunes:duration>01:40:16</itunes:duration>
-            <description>Det er 2020 og vi starter året med at snakke om nytår, nytårsforsæt og nytårstaler. Og som sædvanlig en masse andet sludder!</description>
-			<guid>https://www.parpodcast.dk/podcast/53_nytaarsforsaet.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=62</link>
-		  </item>
-            <item>
-			<title>#54 Slikegoisten</title>
-			<pubDate>Fri, 10 Jan 2020 12:55:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/54_slikegoisten.mp3" length="90015262" type="audio/mpeg" />
-			<itunes:duration>01:15:01</itunes:duration>
-            <description>Sofie er blevet 36, og det er en helt ny verden der åbner sig for hende. "Sofie Anbefaler" er tilbage i topform. Så snakker vi om at rejse med et barn, og vi har en disput der for en gangs skyld handler om at Sofie er lidt en skiderik! Og så svarer vi på post! Det og meget mere i dagens afsnit.</description>
-			<guid>https://www.parpodcast.dk/podcast/54_slikegoisten.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=63</link>
-		  </item>
-            <item>
-			<title>#55 Kroppen af poppen</title>
-			<pubDate>Fri, 17 Jan 2020 15:00:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/55_kroppenafpoppen.mp3" length="105185613" type="audio/mpeg" />
-			<itunes:duration>01:27:39</itunes:duration>
-            <description>I dag skal det handle om kroppen! Vores kroppe, vores forhold til vores kroppe, parforholdskroppen eller mangel på samme. Og så får vi en dejlig datinghistorie til sidst!</description>
-			<guid>https://www.parpodcast.dk/podcast/55_kroppenafpoppen.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=64</link>
-		  </item>
-            <item>
-			<title>#56 Snotcast</title>
-			<pubDate>Fri, 31 Jan 2020 15:20:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/56_snotcast.mp3" length="102907213" type="audio/mpeg" />
-			<itunes:duration>01:25:45</itunes:duration>
-            <description>Vi har være nede med den onde snue, men nu er vi tilbage. Vi snakker om podcastfinanserne der ruller ind, vi snakker om alle de gode råd til intimbarbering af indersiden af ballerne vi har fået, og så snakker vi om den svære toer. Og så er der da også plads til en lille disput!</description>
-			<guid>https://www.parpodcast.dk/podcast/56_snotcast.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=65</link>
-		  </item>
-            <item>
-			<title>#57 PMS</title>
-			<pubDate>Fri, 07 Feb 2020 15:10:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/57_PMS.mp3" length="115781401" type="audio/mpeg" />
-			<itunes:duration>01:36:29</itunes:duration>
-            <description>I dag bliver vi på ingen måde klogere på coronavirus, til gengæld får vi os en snak om ømme bryster og generel PMS. Og så er der en dejlig quiz fra det store internet samt en masse dejlig lytterpost.</description>
-			<guid>https://www.parpodcast.dk/podcast/57_PMS.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=66</link>
-		  </item>
-            <item>
-			<title>#58 Nipplewoman</title>
-			<pubDate>Fri, 14 Feb 2020 15:00:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/58_nipplewoman.mp3" length="105375262" type="audio/mpeg" />
-			<itunes:duration>01:27:49</itunes:duration>
-            <description>I dag er det valentinsdag, men det nævner vi ikke med ét ord. Til gengæld snakker vi om Zulu Awards, gør-det-selv-projekter der får én til at tude, om at have en threenager og så læser vi lytterpost om at få barn nummer to.</description>
-			<guid>https://www.parpodcast.dk/podcast/58_nipplewoman.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=67</link>
-		  </item>
-            <item>
-			<title>#59 Mayonnaisepigens Bekendelser</title>
-			<pubDate>Thu, 20 Feb 2020 15:15:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/59_mpb.mp3" length="87445336" type="audio/mpeg" />
-			<itunes:duration>01:12:52</itunes:duration>
-            <description>Sofie har fået taget nye pressebilleder, Martin har ikke tømmermænd mere, vi tager en snak om twitter og om man burde fejre mærkedage noget mere. Og så er der en disput og en dejlig saftig lyttermail.</description>
-			<guid>https://www.parpodcast.dk/podcast/59_mpb.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=68</link>
-		  </item>
-            <item>
-			<title>#60 Fastelavn er mit navn</title>
-			<pubDate>Fri, 28 Feb 2020 15:25:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/60_fastelavn.mp3" length="114495654" type="audio/mpeg" />
-			<itunes:duration>01:35:25</itunes:duration>
-            <description>Vi har holdt børnefødselsdag - og generelt for mange fødselsdage på det seneste. Så har Martin fået nye tænder og Sofie har været tæt på at miste sin telefon. Så får vi også diskuteret børnemusik kontra voksenmusik og til sidst er der post.</description>
-			<guid>https://www.parpodcast.dk/podcast/60_fastelavn.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=69</link>
-		  </item>
-            <item>
-			<title>#61 Hundedragten</title>
-			<pubDate>Fri, 06 Mar 2020 14:20:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/61_hundedragten.mp3" length="108145287" type="audio/mpeg" />
-			<itunes:duration>01:30:07</itunes:duration>
-            <description>Vores hund har fødselsdag, og det fejrer vi ikke på nogen måde nær så meget som vi åbenbart snakker om det. Så er det også i dag at vi taler om den nye voldtægtslovgivning og ting der er relaterede til det emne. Spænd sikkerhedsselen. Til sidst en dejlig datinghistorie!</description>
-			<guid>https://www.parpodcast.dk/podcast/61_hundedragten.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=70</link>
-		  </item>
-            <item>
-			<title>#62 Undtagelsestilstand</title>
-			<pubDate>Fri, 13 Mar 2020 20:55:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/62_undtagelsestilstand.mp3" length="78455556" type="audio/mpeg" />
-			<itunes:duration>01:05:23</itunes:duration>
-            <description>Danmark er i lockdown-mode, det er en historisk og alvorlig situation, og fremtiden er usikker. Hvis du skulle have brug for at høre to uvidende idioter snakke uinformeret og uhøjtideligt om tingenes tilstand, så har du fundet det rette podcastafsnit.</description>
-			<guid>https://www.parpodcast.dk/podcast/62_undtagelsestilstand.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=71</link>
-		  </item>
-            <item>
-			<title>#63 Kalder alle vogne</title>
-			<pubDate>Wed, 18 Mar 2020 20:10:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/63_kalderallevogne.mp3" length="4105320" type="audio/mpeg" />
-			<itunes:duration>03:25</itunes:duration>
-            <description>KALDER ALLE LYTTERE! Vi har en hjemmeopgave til jer. Hvis I kender nogen der fortjener en hyldest her under coronakrisen - det kan være din kone der er læge, din far der er politimand, din nabo der kører mad ud til folk. Det kan være dit barn der har opført sig eksemplarisk. Det kan være en kollega der gør arbejdsdagen til en fest! Hvad ved vi! Det er ligemeget! Bare én du synes fortjener et kæmpe klap på skulderen. Så send os en besked med navn og en lille historie og så sender vi et kæmpe shout-out afsnit på fredag. Vi lyttes ved!</description>
-			<guid>https://www.parpodcast.dk/podcast/63_kalderallevogne.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=72</link>
-		  </item>
-            <item>
-			<title>#64 Shoutouts</title>
-			<pubDate>Fri, 20 Mar 2020 21:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/64_shoutouts.mp3" length="97125271" type="audio/mpeg" />
-			<itunes:duration>01:20:56</itunes:duration>
-            <description>I dag sender vi kæmpe skud ud til alle dem der skal sendes skud ud til! Vi har spurgt jer lyttere om hvem I gerne vil rose, sende en hilsen til eller bare give en langdistance highfive og I har svaret! Tak for det. Og send endelig flere, så tager vi en runde mere i næste uge. Pas på jer selv!</description>
-			<guid>https://www.parpodcast.dk/podcast/64_shoutouts.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=73</link>
-		  </item>
-            <item>
-			<title>#65 Irriterende typer</title>
-			<pubDate>Fri, 27 Mar 2020 22:15:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/65_irriterendetyper.mp3" length="98807556" type="audio/mpeg" />
-			<itunes:duration>01:22:20</itunes:duration>
-            <description>Martin er irriterende og Sofie deler lammere ud til højre og venstre. Og så er der flere shoutouts fra lyttere til mennesker der fortjener et kæmpe skulderklap! Stay safe - vi lyttes ved i næste uge.</description>
-			<guid>https://www.parpodcast.dk/podcast/65_irriterendetyper.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=74</link>
-		  </item>
-            <item>
-			<title>#66 Den hvide plet på kortet</title>
-			<pubDate>Fri, 03 Apr 2020 21:10:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/66_dhppk.mp3" length="91525140" type="audio/mpeg" />
-			<itunes:duration>01:16:16</itunes:duration>
-            <description>Det er 3. uge i den nye verden og humøret er stadig glimrende. Sofie er lidt ramt af cabinfever, men Martin har både fået mærkelige pletter på en særlig legemsdel og så har han spist sin tand. Så på den måde er alt i den skønneste orden. Så får vi en masse dejlige meldinger fra lyttere landet over om hvad de går og bruger deres tid på. Det er hyggeligt! Tak fordi I lytter med!</description>
-			<guid>https://www.parpodcast.dk/podcast/66_dhppk.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=75</link>
-		  </item>
-            <item>
-			<title>#67 Corona crossover feat. Farmænd</title>
-			<pubDate>Thu, 09 Apr 2020 11:40:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/67_coronacrossover.mp3" length="80765056" type="audio/mpeg" />
-			<itunes:duration>01:07:18</itunes:duration>
-            <description>Bonusafsnit! For et par dage siden spurgte Jasper Ritz og David Mandel om vi ville være gæster i deres podcast "Farmænd". Og det ville vi gerne. Samtidig øjnede vi chancen for at lave en skøn crossover. Så nu er vi alle sammen gæster i hinandens podcast! Hvis du ikke kender "Farmænd" så skynd dig ind og giv den et lyt. Stay safe og vi lyttes ved!</description>
-			<guid>https://www.parpodcast.dk/podcast/67_coronacrossover.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=76</link>
-		  </item>
-            <item>
-			<title>#68 Page og næsering</title>
-			<pubDate>Fri, 10 Apr 2020 21:45:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/68_pon.mp3" length="100600079" type="audio/mpeg" />
-			<itunes:duration>01:23:50</itunes:duration>
-            <description>Sofie overvejer at få sin næsering tilbage og måske i samme ombæring få sig en lækker page. Martin lever stadig drømmen. Og ER DJ Alligator død eller hvad?</description>
-			<guid>https://www.parpodcast.dk/podcast/68_pon.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=77</link>
-		  </item>
-            <item>
-			<title>#69 På den lyse side</title>
-			<pubDate>Fri, 17 Apr 2020 15:15:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/69_paadenlyseside.mp3" length="95215197" type="audio/mpeg" />
-			<itunes:duration>01:19:21</itunes:duration>
-            <description>Solen skinner, hverdagen er så småt på vej tilbage i det lille hjem og Sofie har spurgt jer kære lyttere hvad I synes er det positive ved alt det der sker lige nu - og I har svaret! Så i dag står i positivitetens tegn! God weekend.</description>
-			<guid>https://www.parpodcast.dk/podcast/69_paadenlyseside.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=78</link>
-		  </item>
-            <item>
-			<title>#70 Kønsvarde</title>
-			<pubDate>Mon, 27 Apr 2020 21:15:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/70_koensvarde.mp3" length="106182968" type="audio/mpeg" />
-			<itunes:duration>01:28:29</itunes:duration>
-            <description>Det er fredag på en mandag! Vi svigtede jer i fredags fordi vi ikke havde tid til at optage et afsnit, men det har vi i dag. Vi har endnu engang forsøgt at tømme postkassen, og det lader sig heller ikke gøre i denne omgang! Men vi får gjort et godt indhug i bunken af dejlige lyttermails. Tak fordi I lytter med og tak fordi I sender os post!</description>
-			<guid>https://www.parpodcast.dk/podcast/70_koensvarde.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=79</link>
-		  </item>
-            <item>
-			<title>#71 Bremselængde</title>
-			<pubDate>Fri, 01 May 2020 12:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/71_bremselaengde.mp3" length="82695230" type="audio/mpeg" />
-			<itunes:duration>01:08:55</itunes:duration>
-            <description>I dag synger vi en del, og så har Sofie favnen fuld af gode og dårlige anbefalinger. Så er der som sædvanlig skøn lytterpost og en livsbekræftende datinghistorie fra den virkelige verden. God weekend!</description>
-			<guid>https://www.parpodcast.dk/podcast/71_bremselaengde.mp3</guid>
-			<link>https://www.parpodcast.dk/episoder/episoder.php?post_id=80</link>
-		  </item>
-            <item>
-			<title>#72 Negle i vasken</title>
-			<pubDate>Sun, 10 May 2020 12:05:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/72_negleivasken.mp3" length="84775622" type="audio/mpeg" />
-			<itunes:duration>01:10:39</itunes:duration>
-            <description>Martin har begået den største forbrydelse man kan begå i et parforhold - han har glemt at fjerne sine negle fra håndvasken. Og må man overhovedet sige skamlæber? Det og meget mindre i dagens afsnit. PS: Vores hjemmeside er i stykker, så lige pt. kan vi ikke opdatere den med de nyeste afsnit. Men du kan stadig høre podcasten der hvor du plejer, medmindre du plejer at høre den fra hjemmesiden...</description>
-			<guid>https://www.parpodcast.dk/podcast/72_negleivasken.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#73 Der er kommet nye regler</title>
-			<pubDate>Fri, 15 May 2020 13:25:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/73_dererkommetnyeregler.mp3" length="96912111" type="audio/mpeg" />
-			<itunes:duration>01:20:45</itunes:duration>
-            <description>Vi forsøger at komme til bunds i skamlæbe/kønslæbe-mysteriet, vi får rykket ved vores billede af hvad et bryllup skal være, vi får os en snak om at vores datter skal starte i børnehave, og så slutter vi af med endnu en fantastisk datinghistorie</description>
-			<guid>https://www.parpodcast.dk/podcast/73_dererkommetnyeregler.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#74 Kærestesorger</title>
-			<pubDate>Fri, 22 May 2020 18:45:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/74_kaerestesorger.mp3" length="106215360" type="audio/mpeg" />
-			<itunes:duration>01:28:31</itunes:duration>
-            <description>Dagens emne er kærestesorger! Ikke fordi vi har det, vi skal have en skøn kæresteweekend uden barn, men da vi jo er Danmarks public service portal nummer 1, så tager vi selvfølgelig jer lytteres problemer op i podcasten - og i dag står der breakup på menuen. Lyt med og så hav en rigtig dejlig weekend!</description>
-			<guid>https://www.parpodcast.dk/podcast/74_kaerestesorger.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#75 Aflagte børnesko</title>
-			<pubDate>Sat, 30 May 2020 20:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/75_aflagteboernesko.mp3" length="91445205" type="audio/mpeg" />
-			<itunes:duration>01:16:12</itunes:duration>
-            <description>Sofie er blevet lidt sløj, men ikke sløj nok til ikke at afbefale en film hun har set. Så har vi en mindre disput om hvad man bør gøre med børnesko der er blevet for små, men er næsten så gode som nye. Så får vi læst en masse dejlig post OG i den forbindelse har vi modtaget et musikalsk indslag der bør vinde en form for Gaffa-pris. Det og meget mere i dagens afsnit!</description>
-			<guid>https://www.parpodcast.dk/podcast/75_aflagteboernesko.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#76 Hitlers ene testikel</title>
-			<pubDate>Sat, 06 Jun 2020 21:55:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/76_hitlersenetestikel.mp3" length="111405368" type="audio/mpeg" />
-			<itunes:duration>01:32:50</itunes:duration>
-            <description>I dag tager vi en god, lang snak om det der foregår i verden lige nu, på baggrund af et skænderi vi lige er kommet os over. Det bliver stadig fjollet. Tak fordi I lytter med. Møsser.</description>
-			<guid>https://www.parpodcast.dk/podcast/76_hitlersenetestikel.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#77 Krænkelsescultura</title>
-			<pubDate>Fri, 19 Jun 2020 14:10:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/77_kraenkelsescultura.mp3" length="120165270" type="audio/mpeg" />
-			<itunes:duration>01:40:08</itunes:duration>
-            <description>I dag dykker vi ned i en debat om et tv-program der har raset på de sociale medier den seneste uges tid, og så får vi vendt en masse dejlig post fra jer skønne lyttere. God weekend!</description>
-			<guid>https://www.parpodcast.dk/podcast/77_kraenkelsescultura.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#78 Kend din mand</title>
-			<pubDate>Sat, 27 Jun 2020 11:25:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/78_kenddinmand.mp3" length="110525564" type="audio/mpeg" />
-			<itunes:duration>01:32:06</itunes:duration>
-            <description>Sofie er blevet bedt om at skride hjem hvor hun kommer fra, studenter har det vildt, Jakob Olrik har lavet en quiz og så er der post og datinghistorier. Klassisk.</description>
-			<guid>https://www.parpodcast.dk/podcast/78_kenddinmand.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#79 Ha' en god dag</title>
-			<pubDate>Fri, 03 Jul 2020 13:00:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/79_haengoddag.mp3" length="132255262" type="audio/mpeg" />
-			<itunes:duration>01:50:13</itunes:duration>
-            <description>Det er sidste afsnit inden en lille bitte sommerferie, og inden man tager på ferie er det jo godt lige at få tømt postkassen, luftet ud og taget en snak så feriestemningen kan indtræffe. Vi lyttes ved når vi alle sammen er blevet solskoldet og har sovet længe!</description>
-			<guid>https://www.parpodcast.dk/podcast/79_haengoddag.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#80 30 sekunders ros</title>
-			<pubDate>Fri, 07 Aug 2020 13:35:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/80_30sekundersros.mp3" length="116085466" type="audio/mpeg" />
-			<itunes:duration>01:36:44</itunes:duration>
-            <description>Ferien er slut! Og freden er forbi. Vi snakker lidt om den sidste måneds tids oplevelser både i virkeligheden og på nettet. Så har vi en konstruktiv disput og en knap så konstruktiv disput. Vi introducerer et nyt format i podcasten - opfundet af en lytter - og så er der en saftig datinghistorie fra dengang man måtte tage på festival.</description>
-			<guid>https://www.parpodcast.dk/podcast/80_30sekundersros.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#81 Shorts fired</title>
-			<pubDate>Fri, 14 Aug 2020 12:35:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/81_shortsfired.mp3" length="110940389" type="audio/mpeg" />
-			<itunes:duration>01:32:27</itunes:duration>
-            <description>Sofie har fået et nyt navn, Martin har set en ægte voldspsykopat, vi får gode parforholdsråd fra Berlingske, vi snakker om passende påklædning, der er 2x30 sekunders ros, lytterpost og datinghistorier. Hvad mere kan man bede om på en højhellig fredag?</description>
-			<guid>https://www.parpodcast.dk/podcast/81_shortsfired.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#82 Fransk for begyndere</title>
-			<pubDate>Fri, 21 Aug 2020 12:20:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/82_franskforbegyndere.mp3" length="109565303" type="audio/mpeg" />
-			<itunes:duration>01:31:18</itunes:duration>
-            <description>Martin deler ud af sin uendelige viden om fransk kultur, Sofie har været med i Miss Teen Herlev omkring årtusindeskiftet, vi snakker om børneopdragelse, om Louis C.Ks nyeste show og så er der post.</description>
-			<guid>https://www.parpodcast.dk/podcast/82_franskforbegyndere.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#83 Tab og vind med samme sind</title>
-			<pubDate>Fri, 28 Aug 2020 15:25:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/83_tabogvind.mp3" length="121765532" type="audio/mpeg" />
-			<itunes:duration>01:41:28</itunes:duration>
-            <description>Vi taler om comedygallaen og især om det indslag fra gallaen som alle andre også taler om. Det bliver ophedet. Det bliver oprigtigt. Det bliver klassisk os. Og så er der en ny bog på gaden fra Hr. Olrik. Vi får også rost hinanden i 30 sekunder og så er der som altid post og datinghistorier. God weekend!</description>
-			<guid>https://www.parpodcast.dk/podcast/83_tabogvind.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#84 Mediebranchens fluffere</title>
-			<pubDate>Fri, 04 Sep 2020 13:40:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/84_mediebranchensfluffere.mp3" length="126575197" type="audio/mpeg" />
-			<itunes:duration>01:45:29</itunes:duration>
-            <description>Vi får vendt ugens varme kartoffel - debatten om samtykke - på sædvanlig elegant vis, og så segwayer vi direkte over i kønsneutrale prisuddelinger og lytterpost. Og så er der som sædvanlig en fantastisk datinghistorie.</description>
-			<guid>https://www.parpodcast.dk/podcast/84_mediebranchensfluffere.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#85 Skøre tider</title>
-			<pubDate>Fri, 11 Sep 2020 15:25:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/85_skoeretider.mp3" length="116485140" type="audio/mpeg" />
-			<itunes:duration>01:37:04</itunes:duration>
-            <description>Nå, så er det fredag og vi får vendt både lottekuponer, omskæringsdebatten, Saszeline-gate og vores digitale postkasse. Hæng på!</description>
-			<guid>https://www.parpodcast.dk/podcast/85_skoeretider.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#86 Grå hår</title>
-			<pubDate>Fri, 25 Sep 2020 13:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/86_graahaar.mp3" length="146670083" type="audio/mpeg" />
-			<itunes:duration>01:15:44</itunes:duration>
-            <description>Martins liv kører på repeat og Sofie er blevet fyret. Hun er også ved at blive gråhåret. Og er det egentlig fedt at få lavet kosmetiske operationer? Alt dette bliver du på ingen måde klogere på i dagens afsnit.</description>
-			<guid>https://www.parpodcast.dk/podcast/86_graahaar.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#87 Bummer</title>
-			<pubDate>Fri, 02 Oct 2020 12:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/87_bummer.mp3" length="176380537" type="audio/mpeg" />
-			<itunes:duration>01:32:48</itunes:duration>
-            <description>Dagens afsnit er sponsoreret af dårlig stemning - vi kommer i hvert fald rundt om nogle tunge emner og sådan er det jo også nogle gange. Verden er af lave men vi er her endnu! Lyt med og hav en skide fucking god weekend.</description>
-			<guid>https://www.parpodcast.dk/podcast/87_bummer.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#88 Løgnerland</title>
-			<pubDate>Fri, 16 Oct 2020 12:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/88_loegnerland.mp3" length="118991327" type="audio/mpeg" />
-			<itunes:duration>01:39:09</itunes:duration>
-            <description>Vi er tilbage - Sofie har fået nyt job, De Radikale smelter sammen, Martin er blevet pillet i numsen endnu engang, vi læser post, vores datter er lystløgner og meget, meget mere...</description>
-			<guid>https://www.parpodcast.dk/podcast/88_loegnerland.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#89 Rejseaben</title>
-			<pubDate>Sat, 24 Oct 2020 20:45:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/89_rejseaben.mp3" length="92345385" type="audio/mpeg" />
-			<itunes:duration>01:16:57</itunes:duration>
-            <description>Sofie har haft en super stresset uge og Martin har drukket sig fuld på en fredag. Dagens afsnit er totalt laid back, men du får stadig alt det du efterspørger: lange historier, lytterpost, noget om afføring og alt det du kender og elsker fra vores podcast. Selv tak.</description>
-			<guid>https://www.parpodcast.dk/podcast/89_rejseaben.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#90 Sofies kult</title>
-			<pubDate>Fri, 30 Oct 2020 13:10:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/90_sofieskult.mp3" length="92225222" type="audio/mpeg" />
-			<itunes:duration>01:16:51</itunes:duration>
-            <description>Martin føler intet når han ser dans, Lars Ranthe har et fedt mundbind, Sofie Anbefaler er tilbage i topform, vi læser vores årshoroskop og ser om det ramte plet og så er der en lytterhistorie fra den våde, kåde, datingverden.</description>
-			<guid>https://www.parpodcast.dk/podcast/90_sofieskult.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#91 Glyngøre</title>
-			<pubDate>Fri, 06 Nov 2020 12:35:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/91_glyngoere.mp3" length="105905548" type="audio/mpeg" />
-			<itunes:duration>01:28:15</itunes:duration>
-            <description>Verden holder vejret, Sofie har været i Nordjylland før jernslumretæppet lukkede sig, Martin gider ikke snakke om valget men gør det alligevel, lyttere sender post og meget meget mere.</description>
-			<guid>https://www.parpodcast.dk/podcast/91_glyngoere.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#92 Sen Fredag</title>
-			<pubDate>Fri, 13 Nov 2020 23:15:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/92_senfredag.mp3" length="58765499" type="audio/mpeg" />
-			<itunes:duration>48:58</itunes:duration>
-            <description>Den danske ordbog er blevet opdateret, Sofie har styr på juraen omkring bandekriminalitet, vi er blevet coronatestet, Sofie skal være med i Grin til Gavn og så får vi en lytterhistorie i Martins ånd. God weekend.</description>
-			<guid>https://www.parpodcast.dk/podcast/92_senfredag.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#93 TikTok Tommelfinger</title>
-			<pubDate>Fri, 27 Nov 2020 12:45:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/93_tiktoktommelfinger.mp3" length="112652977" type="audio/mpeg" />
-			<itunes:duration>01:33:52</itunes:duration>
-            <description>Martin forklarer hvorfor der ikke var noget afsnit i sidste uge... og det handler som sædvanlig om hans krop. Og så er der sket noget sindssygt... Martin har opdaget at han måske skal sætte sig bedre ind i ting før han har en holdning. Ja, du læste rigtigt. 2020 er i sandhed et vanvittigt år!</description>
-			<guid>https://www.parpodcast.dk/podcast/93_tiktoktommelfinger.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#94 Fucking dumme lort</title>
-			<pubDate>Fri, 04 Dec 2020 12:25:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/94_fuckingdummelort.mp3" length="121705450" type="audio/mpeg" />
-			<itunes:duration>01:41:25</itunes:duration>
-            <description>Martin truer med at spise en hund, Ellen har fået et grimt sprog af fremmede, vi snakker om Jordan Peterson og så er der post og historier.</description>
-			<guid>https://www.parpodcast.dk/podcast/94_fuckingdummelort.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#95 En mand i kjole</title>
-			<pubDate>Fri, 18 Dec 2020 22:55:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/95_enmandikjole.mp3" length="88145418" type="audio/mpeg" />
-			<itunes:duration>01:13:27</itunes:duration>
-            <description>Må man overhovedet holde jul længere, må mænd gå i kjoler og hvem skal man være sur på hvis ens onenightstand har skidt i sengen? Disse spørgsmål og mange flere bliver forsøgt besvaret i dagens afsnit. Glædelig jul.</description>
-			<guid>https://www.parpodcast.dk/podcast/95_enmandikjole.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#96 Julehilsner</title>
-			<pubDate>Tue, 29 Dec 2020 12:55:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/96_julehilsner.mp3" length="133155442" type="audio/mpeg" />
-			<itunes:duration>01:50:58</itunes:duration>
-            <description>Årets sidste afsnit - og sikket et år. Vi får rundet 2020 af på en meget 2020-agtig måde, da der går kuk i teknikken til sidst. Det sidste kvarter af dagens afsnit er…. svært at lytte til. Så nu ved I det. Det vi siger til aller sidst er at vi meget gerne vil høre hvad jeres nytårsforsæt for 2021 er. Så send dem endelig til os. Ellers er der ikke så meget andet at sige end tak for i år, tak fordi I lytter med og vi håber I kommer rigtig godt ind i det nye og forhåbentlig bedre år.</description>
-			<guid>https://www.parpodcast.dk/podcast/96_julehilsner.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#97 Højre-venstre-blind</title>
-			<pubDate>Fri, 15 Jan 2021 13:00:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/97_hoejrevenstreblind.mp3" length="148473123" type="audio/mpeg" />
-			<itunes:duration>02:03:43</itunes:duration>
-            <description>2021 er igang og der er allerede sket meget. Vi får lige vendt verdenssituationen, og så kommer vi delvist til bunds i alt vores lytterpost.</description>
-			<guid>https://www.parpodcast.dk/podcast/97_hoejrevenstreblind.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#98 Er du model?</title>
-			<pubDate>Fri, 29 Jan 2021 15:55:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/98_erdumodel.mp3" length="111950283" type="audio/mpeg" />
-			<itunes:duration>01:33:17</itunes:duration>
-            <description>Sofie har fået lov at udleve en drøm, Martin glæder sig over internetaktivister, der er bred opbakning blandt vores lyttere til Sofies højre-venstre handicap, vi breaker en KÆMPE nyhed og så sludrer vi lidt om Martins hobby.</description>
-			<guid>https://www.parpodcast.dk/podcast/98_erdumodel.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#99 Apartheid</title>
-			<pubDate>Fri, 05 Feb 2021 13:45:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/99_apartheid.mp3" length="120272372" type="audio/mpeg" />
-			<itunes:duration>01:40:13</itunes:duration>
-            <description>Der bliver skudt med skarpt til højre og venstre. Vi har deltaget i et TV-program for nylig, Sofie har opdaget britiske tv-programmer, vi lytter til en opsang til det danske samfund fra Den Mentale Kriger, Martin bliver endnu engang krydsforhørt om World of Warcraft og så er der masser af dejlig post. Velbekomme!</description>
-			<guid>https://www.parpodcast.dk/podcast/99_apartheid.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#100 Jubilæumsafsnit</title>
-			<pubDate>Fri, 11 Jun 2021 12:05:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/100_jubilaeumsafsnit.mp3" length="121835540" type="audio/mpeg" />
-			<itunes:duration>01:41:32</itunes:duration>
-            <description>Vi er tilbage! De store tv-kanoner har endelig fundet tilbage til rødderne. Der er sket meget siden sidst og det taler vi om her i vores store jubilæumsafsnit. Der er æresport og champagne og fest og højt humør!</description>
-			<guid>https://www.parpodcast.dk/podcast/100_jubilaeumsafsnit.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#101 Lugtearm</title>
-			<pubDate>Fri, 18 Jun 2021 11:25:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/101_lugtearm.mp3" length="96765303" type="audio/mpeg" />
-			<itunes:duration>01:20:38</itunes:duration>
-            <description>Sofie har et forslag til dem der driver vacciner.dk og så har hun også én absurd lugtearm. Martin bliver grillet vedr. sit overforbrug af World of Warcraft og så har Sofie set en dokumentar om hjemmegående forældre. Der er også en juicy juicy datinghistorie. God weekend.</description>
-			<guid>https://www.parpodcast.dk/podcast/101_lugtearm.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#102 Nedsmeltninger</title>
-			<pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/102_nedsmeltninger.mp3" length="115285597" type="audio/mpeg" />
-			<itunes:duration>01:36:04</itunes:duration>
-            <description>Sofie har fået endelig afklaring på sine vaccinespørgsmål, vi får input fra både en lytter der er enig med Martin vedr. Aula-appen OG fra en lytter der arbejder hos Netcompany... så deeeeeeeet! Og så er det hårdt at have en 4-årig, Sofie anbefaler ting og vi får en saftig historie om ung kærlighed.</description>
-			<guid>https://www.parpodcast.dk/podcast/102_nedsmeltninger.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#103 Fodsport</title>
-			<pubDate>Fri, 02 Jul 2021 11:20:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/103_fodsport.mp3" length="73285401" type="audio/mpeg" />
-			<itunes:duration>01:01:04</itunes:duration>
-            <description>Der er fodsport i fjerneren og vi kan ikke få armenene ned! Sofie er medlem af verdens dyreste fitnesscenter og Martin bliver uforløst testet i hvor sommerferien burde gå til. Alt det og meget mere i det sidste afsnit inden sommerferien. God sommer til alle!</description>
-			<guid>https://www.parpodcast.dk/podcast/103_fodsport.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#104 Dobbeltfyret</title>
-			<pubDate>Tue, 17 Aug 2021 13:00:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/104_dobbeltfyret.mp3" length="141945646" type="audio/mpeg" />
-			<itunes:duration>01:58:17</itunes:duration>
-            <description>Vi er tilbage fra sommerferie med noget af en moppedreng. Spænd sikkerhedsselen!</description>
-			<guid>https://www.parpodcast.dk/podcast/104_dobbeltfyret.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#105 Sophishing</title>
-			<pubDate>Sun, 29 Aug 2021 16:00:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/105_sophishing.mp3" length="103275540" type="audio/mpeg" />
-			<itunes:duration>01:26:04</itunes:duration>
-            <description>Sofie er kommet galt afsted på internettet, mere end én gang i den forgangne uge. Gift Ved Første Blik får det værste frem i folk. Og Nirvanas ikoniske pladecover er kommet i modvind.</description>
-			<guid>https://www.parpodcast.dk/podcast/105_sophishing.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#106 Panter Tanter</title>
-			<pubDate>Fri, 12 Nov 2021 12:10:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/106_pantertanter.mp3" length="79837229" type="audio/mpeg" />
-			<itunes:duration>01:23:10</itunes:duration>
-            <description>Vi er tilbage! Vi er blevet et familiemedlem rigere, Sofie har gennemført Netflix, Martin tror han ved alt, og så bliver kommunalvalget lige rundet i forbifarten.</description>
-			<guid>https://www.parpodcast.dk/podcast/106_pantertanter.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#107 Michael Maze Cyklen</title>
-			<pubDate>Fri, 03 Dec 2021 11:50:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/107_mmc.mp3" length="74468961" type="audio/mpeg" />
-			<itunes:duration>01:17:34</itunes:duration>
-            <description>Sofie er startet til mor-gymnahopsa, vores søn er liiiiige ved at falde i søvn, og vi tømmer postkassen.</description>
-			<guid>https://www.parpodcast.dk/podcast/107_mmc.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#108 Den var ikke gået i dag</title>
-			<pubDate>Tue, 11 Jan 2022 13:15:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/108_denvarikkegaaetidag.mp3" length="72163498" type="audio/mpeg" />
-			<itunes:duration>01:15:10</itunes:duration>
-            <description>Vi har haft corona, eller "The Rolling 'Rones" som Sofie ville sige, vi har holdt jul, vi snakker om folk der siger at der er ting man ikke må snakke om, vi har lytterpost og datinghistorier. Velkommen til 2022!</description>
-			<guid>https://www.parpodcast.dk/podcast/108_denvarikkegaaetidag.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#109 Træk mig i fingeren</title>
-			<pubDate>Fri, 28 Jan 2022 14:15:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/109_traekmigifingeren.mp3" length="71525274" type="audio/mpeg" />
-			<itunes:duration>01:14:30</itunes:duration>
-            <description>Sofie har været tæt på at dø, Martin er en hyklerisk far der laver for mange far-jokes, Sofie har en genial idé med en tilhørende dårlig forklaring og så løser vi endnu en lytters livsproblemer!</description>
-			<guid>https://www.parpodcast.dk/podcast/109_traekmigifingeren.mp3</guid>
-			<link></link>
-		  </item>
-            <item>
-			<title>#110 Håndvaskede trusser</title>
-			<pubDate>Fri, 25 Mar 2022 13:40:00 +0100</pubDate>
-			<author>kontakt@parpodcast.dk</author>
-			<category>Comedy</category>
-			<enclosure url="http://dts.podtrac.com/redirect.mp3/www.parpodcast.dk/podcast/110_haandvaskede.mp3" length="77221222" type="audio/mpeg" />
-			<itunes:duration>01:20:26</itunes:duration>
-            <description>Sofie har fået fingrene i nogle utraditionelle trusser, vores kristendomsundervisende lyttere er i oprør, vores søn sover ikke til middag, Martin har fået nyt arbejde, der er disput, forældreintra og mere post.</description>
-			<guid>https://www.parpodcast.dk/podcast/110_haandvaskede.mp3</guid>
-			<link></link>
-		  </item>
-	</channel>
+   <channel>
+      <title>Det Værste Par</title>
+      <link>https://www.parpodcast.dk</link>
+      <description>En humoristisk podcast om parforholdet og livet som forældre - Martin Nørgaard og Sofie Flykt er komikere, kærester, kolleger, forældre... og hundeejere. Nu har de også en podcast sammen, hvor de vender og drejer det moderne parforhold og alt hvad der følger med.</description>
+      <language>da-DK</language>
+      <managingEditor>kontakt@parpodcast.dk</managingEditor>
+      <webMaster>kontakt@parpodcast.dk</webMaster>
+      <copyright>Sofie Flykt &amp; Martin Nørgaard</copyright>
+      <itunes:author>Sofie Flykt &amp; Martin Nørgaard</itunes:author>
+      <itunes:keywords>det, værste, par, comedy, komik, podcast, martin, nørgaard, sofie, flykt, standup, stand-up, aktuel, aktuelt, underholdende, hyggelig, hyggeligt, satire, parforhold, kærester, børn, romantik</itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/parpodcast_logo.png" />
+      <itunes:owner>
+         <itunes:name>Sofie Flykt &amp; Martin Nørgaard</itunes:name>
+         <itunes:email>kontakt@parpodcast.dk</itunes:email>
+      </itunes:owner>
+      <itunes:block>no</itunes:block>
+      <itunes:category text="Comedy" />
+      <item>
+         <title>#01 Pilot</title>
+         <pubDate>Fri, 18 May 2018 14:10:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="116897459" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.05.18%20-%20%2301%20Pilot.mp3" />
+         <itunes:duration>01:21:10</itunes:duration>
+         <description>Nu fik vi endelig taget os sammen! Første afsnit af vores podcast er nu en ting der eksisterer! Lyt med! Vi håber du kan lide den. Vi hyggede os med at lave den! Mange kram fra Martin (ikke Sofie - hun kan ikke lide at kramme)</description>
+         <guid>http://www.parpodcast.dk/podcast/01_Pilot.mp3</guid>
+         <link>http://www.parpodcast.dk/episoder/episoder.php?post_id=10</link>
+      </item>
+      <item>
+         <title>#02 Demokrati for begyndere</title>
+         <pubDate>Fri, 25 May 2018 11:35:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="92945890" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.05.25%20-%20%2302%20Demokrati%20for%20begyndere.mp3" />
+         <itunes:duration>01:04:33</itunes:duration>
+         <description>I dag forsøger vi at lære vores 1-årige datter om demokrati, vi snakker om dame- og mandeblade, vi vender ugens disputs og svarer på lytterspørgsmål.</description>
+         <guid>http://www.parpodcast.dk/podcast/02_demokratiforbegyndere.mp3</guid>
+         <link>http://www.parpodcast.dk/episoder/episoder.php?post_id=11</link>
+      </item>
+      <item>
+         <title>#03 Hold din kæft i Føtex</title>
+         <pubDate>Fri, 01 Jun 2018 12:45:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="84077841" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.06.01%20-%20%2303%20Hold%20din%20k%C3%A6ft%20i%20F%C3%B8tex.mp3" />
+         <itunes:duration>58:23</itunes:duration>
+         <description>I dag kigger vi nærmere på kommunikations-coaching fra RUTH TV, vi snakker om det store toiletpapirsskænderi, om børneopdagelse i Føtex og så ødelægger vi et parforhold. Selv tak!</description>
+         <guid>http://www.parpodcast.dk/podcast/03_hdkif.mp3</guid>
+         <link>http://www.parpodcast.dk/episoder/episoder.php?post_id=12</link>
+      </item>
+      <item>
+         <title>#04 Drømmemanden</title>
+         <pubDate>Fri, 08 Jun 2018 14:05:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="100157567" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.06.08%20-%20%2304%20Dr%C3%B8mmemanden.mp3" />
+         <itunes:duration>01:09:33</itunes:duration>
+         <description>I dag snakker vi om store graviditetsbryster, Sofie får nogle gode parforholdsråd fra healeren Paprika Noel, og Martin lærer at være en rigtig drømmemand af ingen ringere end Carl Mar.</description>
+         <guid>http://www.parpodcast.dk/podcast/04_drommemanden.mp3</guid>
+         <link>http://www.parpodcast.dk/episoder/episoder.php?post_id=13</link>
+      </item>
+      <item>
+         <title>#05 Voksenskældud</title>
+         <pubDate>Fri, 15 Jun 2018 11:00:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="104285959" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.06.15%20-%20%2305%20Voksensk%C3%A6ldud.mp3" />
+         <itunes:duration>01:12:25</itunes:duration>
+         <description>I dag bliver Sofie udstyret med en verbalvoldtægtsfløjte så der kan blive gjort noget ved at Martin altid afbryder. Vi snakker om alle de valg man har i det moderne samfund, vi tager en test fra woman.dk, vi snakker om voksenskældud og så læser vi post. Tak fordi I lytter med!</description>
+         <guid>http://www.parpodcast.dk/podcast/05_voksenskaeldud.mp3</guid>
+         <link>http://www.parpodcast.dk/episoder/episoder.php?post_id=14</link>
+      </item>
+      <item>
+         <title>#06 Hanne-tid</title>
+         <pubDate>Fri, 22 Jun 2018 12:45:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="114113851" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.06.22%20-%20%2306%20Hanne-tid.mp3" />
+         <itunes:duration>01:19:15</itunes:duration>
+         <description>I dag er vi super trætte, for vores datter valgte at lave headspins og saltomotaler i vores seng hele natten. Det snakker vi blandt andet om. Så vender vi en god gang coaching, hvor dagens tip blandt andet er: husk hanne-tid. Og så er der post og disputs, som i dag går på kræsenhed. Enjoy!</description>
+         <guid>http://www.parpodcast.dk/podcast/06_hanne-tid.mp3</guid>
+         <link>http://www.parpodcast.dk/episoder/episoder.php?post_id=15</link>
+      </item>
+      <item>
+         <title>#07 Nyt fra sygesengen</title>
+         <pubDate>Fri, 29 Jun 2018 12:30:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="108053861" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.06.29%20-%20%2307%20Nyt%20fra%20sygesengen.mp3" />
+         <itunes:duration>01:15:02</itunes:duration>
+         <description>Martin har været døden nær igen, og Ellen har også været syg, så Sofie har haft en lidt hektisk uge. Det og meget mere i dagens afsnit.</description>
+         <guid>https://www.parpodcast.dk/podcast/07_nytfrasygesengen.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=16</link>
+      </item>
+      <item>
+         <title>#08 Mavefornemmelsen</title>
+         <pubDate>Fri, 06 Jul 2018 15:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="103994432" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.07.06%20-%20%2308%20Mavefornemmelsen.mp3" />
+         <itunes:duration>01:12:13</itunes:duration>
+         <description>Vi får gode råd om at følge vores mavefornemmelse, vi vender endnu en af Martins klamme vaner, og så får vi testet om Martin er en Sex and The Citydiot og om Sofie er en vaskeægte penisekspert.</description>
+         <guid>https://www.parpodcast.dk/podcast/08_mavefornemmelsen.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=17</link>
+      </item>
+      <item>
+         <title>#09 Sommerspecial: Martins historie</title>
+         <pubDate>Fri, 13 Jul 2018 10:40:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="57338902" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.07.13%20-%20%2309%20Sommerspecial.mp3" />
+         <itunes:duration>39:49</itunes:duration>
+         <description>Vi holder sommerferie, men derfor skal I ikke snydes for dagens afsnit. Dette og næste afsnit er et par små special-afsnit, hvor vi fortæller lidt om vores kærlighedshistorie hver især. I det første afsnit er det Sofie der interviewer Martin, og i næste uge er rollerne byttet om. Så lyt med og bliv måske lidt klogere på hvem vi er. God sommer!</description>
+         <guid>https://www.parpodcast.dk/podcast/09_sommerspecial_martins_historie.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=18</link>
+      </item>
+      <item>
+         <title>#10 Sommerspecial: Sofies historie</title>
+         <pubDate>Fri, 20 Jul 2018 13:55:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="65627660" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.07.20%20-%20%2310%20Sommerspecial.mp3" />
+         <itunes:duration>45:34</itunes:duration>
+         <description>Vi holder sommerferie, men derfor skal I ikke snydes for dagens afsnit. Vi har lavet et par små special-afsnit, hvor vi fortæller lidt om vores kærlighedshistorie hver især. I sidste uge fik I Martins historie, og i denne uge er turen så kommet til Sofie. Så lyt med og bliv måske lidt klogere på hvem vi er. God sommer!</description>
+         <guid>https://www.parpodcast.dk/podcast/10_sommerspecial_sofies_historie.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=19</link>
+      </item>
+      <item>
+         <title>#11 Familieferie</title>
+         <pubDate>Fri, 27 Jul 2018 14:30:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="81461625" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.07.27%20-%20%2311%20Familieferie.mp3" />
+         <itunes:duration>56:34</itunes:duration>
+         <description>Vi er tilbage fra sommerferie - og sikke en af slagsen. Der er ikke noget som lige at få et par dages ro, efter 14 dages familieferie. Det og meget mere i dagens afsnit.</description>
+         <guid>https://www.parpodcast.dk/podcast/11_Familieferie.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=20</link>
+      </item>
+      <item>
+         <title>#12 Smålighed</title>
+         <pubDate>Fri, 03 Aug 2018 13:10:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="129569773" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.08.03%20-%20%2312%20Sm%C3%A5lighed.mp3" />
+         <itunes:duration>01:29:59</itunes:duration>
+         <description>I dag snakker vi om at aflevere et skrigende barn i institution, vi får gode parforholdsråd af Hella Joof, vi har en disputs om smålighed, og så har vi fået noget rigtig god post!</description>
+         <guid>https://www.parpodcast.dk/podcast/12_Smaalighed.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=21</link>
+      </item>
+      <item>
+         <title>#13 Teletubbitubbies</title>
+         <pubDate>Fri, 10 Aug 2018 14:25:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="117041655" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.08.10%20-%20%2313%20Teletubbitubbies.mp3" />
+         <itunes:duration>01:21:17</itunes:duration>
+         <description>I dag kaster vi os frådende over forslaget om at give normalvægtige børn penge, vi taler om tv-tid og tv-politik i hjemmet generelt, og så tager vi som sædvanlig al den dejlige post I sender, og stikker den op i vores røvkanaler. Tak fordi I findes! Vi kan virkelig godt lide jer!</description>
+         <guid>https://www.parpodcast.dk/podcast/13_teletubbitubbies.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=22</link>
+      </item>
+      <item>
+         <title>#14 Skrigepuden</title>
+         <pubDate>Fri, 17 Aug 2018 14:30:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="113345851" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.08.17%20-%20%2314%20Skrigepuden.mp3" />
+         <itunes:duration>01:18:43</itunes:duration>
+         <description>I dag kigger vi nærmere på fænomenet "skrigepuden", og så dykker vi ned i de gode spørgsmål I har sendt os, men som vi ikke har nået de andre gange. Bliv endelig ved med at skrive til os, og tak fordi I lytter med!</description>
+         <guid>https://www.parpodcast.dk/podcast/14_skrigepuden.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=23</link>
+      </item>
+      <item>
+         <title>#15 Tålmodighed</title>
+         <pubDate>Fri, 24 Aug 2018 13:20:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="108113420" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.08.24%20-%20%2315%20T%C3%A5lmodighed.mp3" />
+         <itunes:duration>01:15:05</itunes:duration>
+         <description>I dag får vi gode råd om tålmodighed fra det altid leveringsdygtige medie "Woman", vi har en disputs om at have hinandens ryg, og så læser vi post. Tak fordi I lytter med!</description>
+         <guid>https://www.parpodcast.dk/podcast/15_taalmodighed.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=24</link>
+      </item>
+      <item>
+         <title>#16 Me Too Soon</title>
+         <pubDate>Thu, 30 Aug 2018 14:00:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="111821763" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.08.30%20-%20%2316%20Me%20Too%20Soon.mp3" />
+         <itunes:duration>01:17:39</itunes:duration>
+         <description>I denne uge tager vi en lang snak om Louis CK og #metoo bevægelsen, og så leger vi den famøse leg "The Newlywed Game". Lyt med og hør hvordan de to ting folder sig ud!</description>
+         <guid>https://www.parpodcast.dk/podcast/16_metoosoon.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=25</link>
+      </item>
+      <item>
+         <title>#17 Den fineste oplevelse</title>
+         <pubDate>Thu, 13 Sep 2018 14:15:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="123077822" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.09.13%20-%20%2317%20Den%20fineste%20oplevelse.mp3" />
+         <itunes:duration>01:25:28</itunes:duration>
+         <description>Vi er tilbage i topform - trætte som altid - med gode snakke om åbne parforhold og hvordan man taler med børn om døden og så har vi en dejlig dating-historie fra en skøn lytter!</description>
+         <guid>https://www.parpodcast.dk/podcast/17_denfinesteoplevelse.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=26</link>
+      </item>
+      <item>
+         <title>#18 Lebbebasket</title>
+         <pubDate>Fri, 21 Sep 2018 14:10:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="118397724" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.09.21%20-%20%2318%20Lebbebasket.mp3" />
+         <itunes:duration>01:22:13</itunes:duration>
+         <description>I dag følger vi op på vores alle sammens yndlings-åbne-parforhold fra sidste uge, og så er der nyt fra coaching-verdenen og så er der gode råd til alle jer der går og tænker på at flytte sammen! Lyt med!</description>
+         <guid>https://www.parpodcast.dk/podcast/18_lebbebasket.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=27</link>
+      </item>
+      <item>
+         <title>#19 Oslobåden</title>
+         <pubDate>Fri, 28 Sep 2018 15:40:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="117101841" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.09.28%20-%20%2319%20Oslob%C3%A5den.mp3" />
+         <itunes:duration>01:21:19</itunes:duration>
+         <description>I dag snakker vi om nogle af alle de dejlige ting der er ved at være forældre, og så har vi en "disputs" som desværre trækker os tilbage til Martins anatomi. Og så får vi post!</description>
+         <guid>https://www.parpodcast.dk/podcast/19_oslobaaden.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=28</link>
+      </item>
+      <item>
+         <title>#20 Sherlockhomies</title>
+         <pubDate>Mon, 08 Oct 2018 15:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="109829351" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.10.08%20-%20%2320%20Sherlockhomies.mp3" />
+         <itunes:duration>01:16:16</itunes:duration>
+         <description>Så kunne vi være der! I dag sludrer vi lidt om escaperooms og DR-programmet "Gift Ved Første Blik". Lyt med!</description>
+         <guid>https://www.parpodcast.dk/podcast/20_Sherlockhomies.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=29</link>
+      </item>
+      <item>
+         <title>#21 Giv blod</title>
+         <pubDate>Fri, 12 Oct 2018 14:15:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="121433361" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.10.12%20-%20%2321%20Giv%20blod.mp3" />
+         <itunes:duration>01:24:20</itunes:duration>
+         <description>Hej elskede lyttere! I dag har vi et dejligt afsnit klar til jer, hvor vi snakker om at give blod, og dermed være et rigtig godt menneske, vi snakker om hvordan man holder liv i parforholdet, vi tager en test fra Woman og så får vi et hurtigt, godt råd til fastere afføring. På forhånd undskyld. Tak fordi I lytter med!</description>
+         <guid>https://www.parpodcast.dk/podcast/21_givblod.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=30</link>
+      </item>
+      <item>
+         <title>#22 Flæskestegssandwich</title>
+         <pubDate>Fri, 19 Oct 2018 13:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="104630775" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.10.19%20-%20%2322%20Fl%C3%A6skestegssandwich.mp3" />
+         <itunes:duration>01:12:39</itunes:duration>
+         <description>I denne uge runder vi en dejlig drøm Sofie engang har haft, vi får sagt farvel til "Gift ved første blik" og så vender vi 1-året for #MeToo. Lyt med, din gavflab.</description>
+         <guid>https://www.parpodcast.dk/podcast/22_flaeskestegssandwich.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=31</link>
+      </item>
+      <item>
+         <title>#23 Tantekys og sexdage</title>
+         <pubDate>Fri, 26 Oct 2018 14:20:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="83916718" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.10.26%20-%20%2323%20Tantekys%20og%20sexdage.mp3" />
+         <itunes:duration>58:16</itunes:duration>
+         <description>I dag får vi kigget lidt i postkassen, og så får vi gode råd fra EB-TV.</description>
+         <guid>https://www.parpodcast.dk/podcast/23_tantekysogsexdage.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=32</link>
+      </item>
+      <item>
+         <title>#24 Godnat og sov godt</title>
+         <pubDate>Sat, 03 Nov 2018 13:40:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="72197351" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.11.03%20-%20%2324%20Godnat%20og%20sov%20godt.mp3" />
+         <itunes:duration>50:08</itunes:duration>
+         <description>Bedre sent end aldrig! Ugens afsnit er optaget under Ellens middagslurs, men vi når alligevel at vende både det ene og det andet. Ja, det var BÅDE det ene OG det andet. Og post! Tak fordi I lytter med!</description>
+         <guid>https://www.parpodcast.dk/podcast/24_godnatogsovgodt.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=33</link>
+      </item>
+      <item>
+         <title>#25 Disputs-Tahrir</title>
+         <pubDate>Sat, 17 Nov 2018 15:20:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="100592662" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.11.17%20-%20%2325%20Disputs-Tahrir.mp3" />
+         <itunes:duration>01:09:51</itunes:duration>
+         <description>Så er vi tilbage ovenpå en hektisk periode. Der er nyt om vores fælles tarmflora, og så bliver der disputset igennem på den helt store klinge. Tak fordi du låner os dine ører!</description>
+         <guid>https://www.parpodcast.dk/podcast/25_disputstahrir.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=34</link>
+      </item>
+      <item>
+         <title>#26 Fnat</title>
+         <pubDate>Sun, 25 Nov 2018 14:40:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="79757606" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.11.25%20-%20%2326%20Fnat.mp3" />
+         <itunes:duration>55:23</itunes:duration>
+         <description>Sofies arbejdsplads er blevet ramt af fnat, og det kaster os ud i en snak om kønssygdomme. Selv tak. Og så får vi snakket lidt om jul og andet godt.</description>
+         <guid>https://www.parpodcast.dk/podcast/26_fnat.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=35</link>
+      </item>
+      <item>
+         <title>#27 Pas din egen butik</title>
+         <pubDate>Fri, 07 Dec 2018 12:35:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="75656799" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.12.07%20-%20%2327%20Pas%20din%20egen%20butik.mp3" />
+         <itunes:duration>52:32</itunes:duration>
+         <description>Vi snakker om det verdenskendte begreb, at "skyle" - og så får vi os en snak om børn i institution kontra at gå der hjemme med dem. Og så har vi en kaffe-disput!</description>
+         <guid>https://www.parpodcast.dk/podcast/27_pasdinegenbutik.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=36</link>
+      </item>
+      <item>
+         <title>#28 Mig hjælpe mig</title>
+         <pubDate>Fri, 14 Dec 2018 12:35:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="94928897" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.12.14%20-%20%2328%20Mig%20hj%C3%A6lpe%20mig.mp3" />
+         <itunes:duration>01:05:55</itunes:duration>
+         <description>I dag snakker vi om trodsalderen, vi får lidt coaching af Jakob Olrik og så, på lytteropfordring, får vi os en snak om at være "en rigtig mand".</description>
+         <guid>https://www.parpodcast.dk/podcast/28_mighjaelpemig.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=37</link>
+      </item>
+      <item>
+         <title>#29 Sofies juletraume</title>
+         <pubDate>Fri, 21 Dec 2018 12:10:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="93821723" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.12.21%20-%20%2329%20Sofies%20juletraume.mp3" />
+         <itunes:duration>01:05:09</itunes:duration>
+         <description>Det var dagen før dagen, før dagen før dagen. Julen er over os og vi får os nogle gode snakke. Om at være bleg, om at stole for meget på "ny forskning" i medierne og om hvorvidt man skal bilde sine børn ind at der findes nisser eller ej. Og så har vi en disput vedr. opvask! Hvor retro. Glædelig jul.</description>
+         <guid>https://www.parpodcast.dk/podcast/29_sofiesjuletraume.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=38</link>
+      </item>
+      <item>
+         <title>#30 Ask us anything</title>
+         <pubDate>Sat, 29 Dec 2018 14:30:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="66443934" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2018.12.29%20-%20%2330%20Ask%20us%20anything.mp3" />
+         <itunes:duration>46:08</itunes:duration>
+         <description>Vi holder juleferie, og i den anledning har vi bedt jer om at lave vores indhold, nemlig i form af en "spørg os om alt". Vi når ikke alle spørgsmålene, da Ellen tager sig en kort lur, men så når vi dem næste gang. Godt nytår!</description>
+         <guid>https://www.parpodcast.dk/podcast/30_askusanything.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=39</link>
+      </item>
+      <item>
+         <title>#31 Ask us anything 2</title>
+         <pubDate>Fri, 04 Jan 2019 12:00:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="111797939" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.01.04%20-%20%2331%20Ask%20us%20anything%202.mp3" />
+         <itunes:duration>01:17:38</itunes:duration>
+         <description>Vi starter 2019 med at svare på resten af jeres spørgsmål, og mange tak for dem! Godt nytår, vi håber I har alle jeres fingre endnu. Og at I måske har fået et par ekstra. Hvem ved.</description>
+         <guid>https://www.parpodcast.dk/podcast/31_askusanything2.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=40</link>
+      </item>
+      <item>
+         <title>#32 De 36 spørgsmål</title>
+         <pubDate>Thu, 10 Jan 2019 15:06:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="100013371" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.01.10%20-%20%2332%20De%2036%20sp%C3%B8rgsm%C3%A5l.mp3" />
+         <itunes:duration>01:09:27</itunes:duration>
+         <description>Sofie har fundet en test, der skulle kunne få folk til at forelske sig i hinanden. Så den tager vi. Lyt med og find ud af om den virker!</description>
+         <guid>https://www.parpodcast.dk/podcast/32_de36sporgsmal.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=41</link>
+      </item>
+      <item>
+         <title>#33 Mænd</title>
+         <pubDate>Fri, 18 Jan 2019 16:30:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="114677469" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.01.18%20-%20%2333%20M%C3%A6nd.mp3" />
+         <itunes:duration>01:19:38</itunes:duration>
+         <description>I dag får vi os en god, lang snak om mænd. Mænd, mænd, mænd.</description>
+         <guid>https://www.parpodcast.dk/podcast/33_maend.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=42</link>
+      </item>
+      <item>
+         <title>#34 Kvinder</title>
+         <pubDate>Fri, 25 Jan 2019 15:11:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="128933430" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.01.25%20-%20%2334%20Kvinder.mp3" />
+         <itunes:duration>01:29:32</itunes:duration>
+         <description>I denne uge tager vi os en lang snak om kvinder. Som hende på billedet f.eks.</description>
+         <guid>https://www.parpodcast.dk/podcast/34_kvinder.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=43</link>
+      </item>
+      <item>
+         <title>#35 SoMe</title>
+         <pubDate>Fri, 01 Feb 2019 14:30:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="123161832" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.02.01%20-%20%2335%20SoMe.mp3" />
+         <itunes:duration>01:25:32</itunes:duration>
+         <description>I dag snakker vi om sociale medier. Hvordan har vi det med dem, hvorfor bruger vi dem, til hvad og alt det der! Husk i øvrigt at følg os på de sociale medier!</description>
+         <guid>https://www.parpodcast.dk/podcast/35_SoMe.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=44</link>
+      </item>
+      <item>
+         <title>#36 Samtykke</title>
+         <pubDate>Sun, 10 Feb 2019 13:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="92441831" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.02.10%20-%20%2336%20Samtykke.mp3" />
+         <itunes:duration>01:04:12</itunes:duration>
+         <description>I dag tager vi en snak om et svært og ømtåleligt emne: voldtægt. Og samtykke. Affødt af en twitter-tråd om emnet, forsøger vi at snakke om problematikkerne og komme rundt om hele debatten. Giv det et lyt, og sig endelig til hvis I brænder inde med noget i den sammenhæng.</description>
+         <guid>https://www.parpodcast.dk/podcast/36_samtykke.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=45</link>
+      </item>
+      <item>
+         <title>#37 Minnie Mouses brystvorter</title>
+         <pubDate>Sat, 09 Mar 2019 14:55:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="113047428" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.03.09%20-%20%2337%20Minnie%20Mouses%20brystvorter.mp3" />
+         <itunes:duration>01:18:30</itunes:duration>
+         <description>Så kunne vi være her! Der er gået en måned siden sidst I hørte fra os, og det er simpelthen fordi vi har haft travlt. Men vi bruger afsnittet på at holde jer up to date, på at snakke om hvor vores barn er i livet nu, og så kommer vi spontant rundt om pædofili på YouTube. Så kom ikke og sig at du ikke får noget med hjem.</description>
+         <guid>https://www.parpodcast.dk/podcast/37_minniemousesbrystvorter.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=46</link>
+      </item>
+      <item>
+         <title>#38 Dickpics</title>
+         <pubDate>Sun, 17 Mar 2019 15:05:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="87413782" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.03.17%20-%20%2338%20Dickpics.mp3" />
+         <itunes:duration>01:00:42</itunes:duration>
+         <description>I dag snakker vi om det tv-program om dickpics vi fik anbefalet, og vi snakker om at mænd og kvinder i stand-up. Det sidste er dog lidt kort og forhastet, da vores datter stod op fra sin middagslur før forventet. Og så har Sofie en dokumentarist med sig i hælene. Hør mere i podcasten!</description>
+         <guid>https://www.parpodcast.dk/podcast/38_dickpics.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=47</link>
+      </item>
+      <item>
+         <title>#39 Nu med cykelhjelm</title>
+         <pubDate>Sun, 14 Apr 2019 14:30:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="114653645" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.04.14%20-%20%2339%20Nu%20med%20cykelhjelm.mp3" />
+         <itunes:duration>01:19:32</itunes:duration>
+         <description>Så kunne vi være her! Der er sket meget siden sidst. Sofie er nu prisnomineret, vi har været til demo, vi får raset lidt ud over politikere og andre ting vi ikke ved noget om. Og så finder vi ud af hvem fra SKAM Sofie er.</description>
+         <guid>https://www.parpodcast.dk/podcast/39_numedcykelhjelm.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=48</link>
+      </item>
+      <item>
+         <title>#40 Fodboldtøj</title>
+         <pubDate>Sun, 21 Apr 2019 14:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="105251444" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.04.21%20-%20%2340%20Fodboldt%C3%B8j.mp3" />
+         <itunes:duration>01:13:05</itunes:duration>
+         <description>I dag får vi besvaret en stor del af den post alle jer dejlige lyttere har sendt og så har vi to disputer! (Disputser? Nej, disputer?) Den ene handler om Sofies påklædning, den anden om hendes dørtelefonvaner. Så spænd sikkerhedsselen og hold på hat og briller!</description>
+         <guid>https://www.parpodcast.dk/podcast/40_fodboldtoej.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=49</link>
+      </item>
+      <item>
+         <title>#41 Podcasten tidligere kendt som Et Ægte Par</title>
+         <pubDate>Mon, 06 May 2019 15:20:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="106119128" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.05.06%20-%20%2341%20Podcasten%20tidligere%20kendt%20som%20Et%20%C3%86gte%20Par.mp3" />
+         <itunes:duration>01:13:41</itunes:duration>
+         <description>Vi er gået direkte i Downs-fælden, vi ser en video om hvordan man spiser med børn, og så er der ballade med vores vandingsplan for potteplanterne.</description>
+         <guid>https://www.parpodcast.dk/podcast/41_ptkseaep.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=50</link>
+      </item>
+      <item>
+         <title>#42 Navneleg</title>
+         <pubDate>Fri, 24 May 2019 15:20:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="100541880" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.05.24%20-%20%2342%20Navneleg.mp3" />
+         <itunes:duration>01:09:49</itunes:duration>
+         <description>Vi har fået så fantastisk mange fantastiske bud på hvad vores podcast kan hedde for fremtiden, og tusind tak for det. Vi bruger en god del af programmet på at gennemgå alle buddene, og så får vi også lige testet Martins manglende viden om EU, og så runder vi GoT-afslutningen.</description>
+         <guid>https://www.parpodcast.dk/podcast/42_navneleg.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=51</link>
+      </item>
+      <item>
+         <title>#43 Det Værste Par</title>
+         <pubDate>Fri, 31 May 2019 14:40:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="91499542" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.05.31%20-%20%2343%20Det%20V%C3%A6rste%20Par.mp3" />
+         <itunes:duration>01:03:32</itunes:duration>
+         <description>I dag finder vi endelig frem til det navn vi skal hedde fra nu af og i al fremtid! Vi får os også en god snak om håndværkere, om tolerance, vi svarer på post og vi lukker lort ud. Alt er ved det gamle - undtagen navnet på podcasten!</description>
+         <guid>https://www.parpodcast.dk/podcast/43_detvaerstepar.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=52</link>
+      </item>
+      <item>
+         <title>#44 Karkaouv</title>
+         <pubDate>Fri, 21 Jun 2019 15:15:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="135545753" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.06.21%20-%20%2344%20Karkaouv.mp3" />
+         <itunes:duration>01:34:08</itunes:duration>
+         <description>Shazam for planter findes! Sofie navngiver børn ud fra den tankegang mange bruger når de skal navngive deres hund. Vi tager en personlighedstest. Kakao er både psykedelisk og euforisk. Vi ranter om grænserne for satire. Og så er der en god, saftig lytter-dating-historie. Send endelig flere af dem!</description>
+         <guid>https://www.parpodcast.dk/podcast/44_karkaouv.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=53</link>
+      </item>
+      <item>
+         <title>#45 Swiper ikke nej til klunker</title>
+         <pubDate>Sun, 14 Jul 2019 14:10:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="101879768" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.07.14%20-%20%2345%20Swiper%20ikke%20nej%20til%20klunker.mp3" />
+         <itunes:duration>01:10:45</itunes:duration>
+         <description>Vi er tilbage efter en lille bitte sommerferie. Du bliver opdateret på alt hvad vi har lavet siden du hørte fra os sidst, og så får vi lidt feedback på vores personlighedstest. Og så er der en historie om en lytters første seksuelle oplevelse som du ikke vil gå glip af.</description>
+         <guid>https://www.parpodcast.dk/podcast/45_SINTK.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=54</link>
+      </item>
+      <item>
+         <title>#46 Me gusta passionado</title>
+         <pubDate>Fri, 02 Aug 2019 12:20:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="110822422" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.08.02%20-%20%2346%20Me%20gusta%20passionado.mp3" />
+         <itunes:duration>01:16:51</itunes:duration>
+         <description>Vi sludrer om succes, op- og nedture, Sofie anbefaler ting du kan se og fraråder dig at se nogle andre ting. Så har vi parforholds-coaching frisk fra BT og en dejlig historie fra Tinders forunderlige univers.</description>
+         <guid>https://www.parpodcast.dk/podcast/46_megustapassionado.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=55</link>
+      </item>
+      <item>
+         <title>#47 Suttekæder</title>
+         <pubDate>Mon, 19 Aug 2019 12:25:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="125957352" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.08.19%20-%20%2347%20Suttek%C3%A6der.mp3" />
+         <itunes:duration>01:27:28</itunes:duration>
+         <description>I dag får vi et spændende indblik i diverse modediller fra Sofies teenageår, vi snakker om juridisk kønsskifte for børn, Sofie har læst en artikel om lykke og så har hun også et godt svar til et svært lytterdillemma. Og så slutter vi med noget så sjældent som en undskyldning til Martin. What a day!</description>
+         <guid>https://www.parpodcast.dk/podcast/47_suttekaeder.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=56</link>
+      </item>
+      <item>
+         <title>#48 Temperament</title>
+         <pubDate>Mon, 02 Sep 2019 12:10:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="113693802" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.09.02%20-%20%2348%20Temperament.mp3" />
+         <itunes:duration>01:18:57</itunes:duration>
+         <description>I dag småsnakker vi om løst og fast og svarer på spørgsmål fra lytterne - og bliver facttjekket!</description>
+         <guid>https://www.parpodcast.dk/podcast/48_temperament.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=57</link>
+      </item>
+      <item>
+         <title>#49 Til døden os kilder</title>
+         <pubDate>Wed, 25 Sep 2019 14:40:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="127385518" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.09.25%20-%20%2349%20Til%20d%C3%B8den%20os%20kilder.mp3" />
+         <itunes:duration>01:28:28</itunes:duration>
+         <description>Vi er tilbage! Der har været forskellige komplikationer der gjorde det umuligt at optage - og dem fortæller vi frejdigt om i dagens afsnit. Så snakker vi også om døden, og så er der som altid dejlig post. Og Sofie anbefaler igen ting og sager. Du kan i øvrigt stadig købe billetter til Martins onemanshow! Vi lyttes ved, og måske ses vi endda også.</description>
+         <guid>https://www.parpodcast.dk/podcast/49_tildoedenoskilder.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=58</link>
+      </item>
+      <item>
+         <title>#50 Har du husket at binde dit barn i dag?</title>
+         <pubDate>Wed, 16 Oct 2019 14:40:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="123345417" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.10.16%20-%20%2350%20Har%20du%20husket%20at%20binde%20dit%20barn%20i%20dag.mp3" />
+         <itunes:duration>01:42:47</itunes:duration>
+         <description>Vidste du at Sokrates har skrevet en bog der hedder "Globalismus Maximus"? Vidste du Sofie er virkelig god til at lave stemmer? Og hvordan er det egentlig med børneopdragelse, er det en god idé eller skal det afskaffes? Alt det, og meget mere i dagens afsnit. Tak fordi du lytter med!</description>
+         <guid>https://www.parpodcast.dk/podcast/50_harduhusket.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=59</link>
+      </item>
+      <item>
+         <title>#51 En sludder for en sladder</title>
+         <pubDate>Sun, 10 Nov 2019 14:15:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="47965434" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.11.10%20-%20%2351%20En%20sludder%20for%20en%20sladder.mp3" />
+         <itunes:duration>39:58</itunes:duration>
+         <description>Det er søndag, og vi forsøger at klemme en optagelse ind mens vores datter sover middagslur. Det går ikke så godt, og derfor er dagens afsnit også mest bare - ja - en sludder for en sladder. Men vi vender stærkt tilbage!</description>
+         <guid>https://www.parpodcast.dk/podcast/51_ensludderforensladder.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=60</link>
+      </item>
+      <item>
+         <title>#52 En ordentlig moppedreng</title>
+         <pubDate>Wed, 13 Nov 2019 14:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="153965629" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2019.11.13%20-%20%2352%20En%20ordentlig%20moppedreng.mp3" />
+         <itunes:duration>02:08:18</itunes:duration>
+         <description>Så er vi allerede tilbage med endnu et afsnit - et langt et af slagsen! Vi tager på ferie lige om lidt, så vi efterlader jer med et marathonafsnit, hvor vi får vendt en masse ting. Sofie kan ikke lide at se sig selv optræde, vi snakker om søvn, om disputer og så tømmer vi indbakken for post! Og så ses vi på den anden side af vores lille familierejse.</description>
+         <guid>https://www.parpodcast.dk/podcast/52_enordentligmoppedreng.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=61</link>
+      </item>
+      <item>
+         <title>#53 Nytårsforsæt</title>
+         <pubDate>Thu, 02 Jan 2020 13:05:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="120325140" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.01.02%20-%20%2353%20Nyt%C3%A5rsfors%C3%A6t.mp3" />
+         <itunes:duration>01:40:16</itunes:duration>
+         <description>Det er 2020 og vi starter året med at snakke om nytår, nytårsforsæt og nytårstaler. Og som sædvanlig en masse andet sludder!</description>
+         <guid>https://www.parpodcast.dk/podcast/53_nytaarsforsaet.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=62</link>
+      </item>
+      <item>
+         <title>#54 Slikegoisten</title>
+         <pubDate>Fri, 10 Jan 2020 12:55:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="90015262" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.01.10%20-%20%2354%20Slikegoisten.mp3" />
+         <itunes:duration>01:15:01</itunes:duration>
+         <description>Sofie er blevet 36, og det er en helt ny verden der åbner sig for hende. "Sofie Anbefaler" er tilbage i topform. Så snakker vi om at rejse med et barn, og vi har en disput der for en gangs skyld handler om at Sofie er lidt en skiderik! Og så svarer vi på post! Det og meget mere i dagens afsnit.</description>
+         <guid>https://www.parpodcast.dk/podcast/54_slikegoisten.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=63</link>
+      </item>
+      <item>
+         <title>#55 Kroppen af poppen</title>
+         <pubDate>Fri, 17 Jan 2020 15:00:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="105185613" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.01.17%20-%20%2355%20Kroppen%20af%20poppen.mp3" />
+         <itunes:duration>01:27:39</itunes:duration>
+         <description>I dag skal det handle om kroppen! Vores kroppe, vores forhold til vores kroppe, parforholdskroppen eller mangel på samme. Og så får vi en dejlig datinghistorie til sidst!</description>
+         <guid>https://www.parpodcast.dk/podcast/55_kroppenafpoppen.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=64</link>
+      </item>
+      <item>
+         <title>#56 Snotcast</title>
+         <pubDate>Fri, 31 Jan 2020 15:20:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="102907213" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.01.31%20-%20%2356%20Snotcast.mp3" />
+         <itunes:duration>01:25:45</itunes:duration>
+         <description>Vi har være nede med den onde snue, men nu er vi tilbage. Vi snakker om podcastfinanserne der ruller ind, vi snakker om alle de gode råd til intimbarbering af indersiden af ballerne vi har fået, og så snakker vi om den svære toer. Og så er der da også plads til en lille disput!</description>
+         <guid>https://www.parpodcast.dk/podcast/56_snotcast.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=65</link>
+      </item>
+      <item>
+         <title>#57 PMS</title>
+         <pubDate>Fri, 07 Feb 2020 15:10:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="115781401" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.02.07%20-%20%2357%20PMS.mp3" />
+         <itunes:duration>01:36:29</itunes:duration>
+         <description>I dag bliver vi på ingen måde klogere på coronavirus, til gengæld får vi os en snak om ømme bryster og generel PMS. Og så er der en dejlig quiz fra det store internet samt en masse dejlig lytterpost.</description>
+         <guid>https://www.parpodcast.dk/podcast/57_PMS.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=66</link>
+      </item>
+      <item>
+         <title>#58 Nipplewoman</title>
+         <pubDate>Fri, 14 Feb 2020 15:00:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="105375262" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.02.14%20-%20%2358%20Nipplewoman.mp3" />
+         <itunes:duration>01:27:49</itunes:duration>
+         <description>I dag er det valentinsdag, men det nævner vi ikke med ét ord. Til gengæld snakker vi om Zulu Awards, gør-det-selv-projekter der får én til at tude, om at have en threenager og så læser vi lytterpost om at få barn nummer to.</description>
+         <guid>https://www.parpodcast.dk/podcast/58_nipplewoman.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=67</link>
+      </item>
+      <item>
+         <title>#59 Mayonnaisepigens Bekendelser</title>
+         <pubDate>Thu, 20 Feb 2020 15:15:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="87445336" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.02.20%20-%20%2359%20Mayonnaisepigens%20Bekendelser.mp3" />
+         <itunes:duration>01:12:52</itunes:duration>
+         <description>Sofie har fået taget nye pressebilleder, Martin har ikke tømmermænd mere, vi tager en snak om twitter og om man burde fejre mærkedage noget mere. Og så er der en disput og en dejlig saftig lyttermail.</description>
+         <guid>https://www.parpodcast.dk/podcast/59_mpb.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=68</link>
+      </item>
+      <item>
+         <title>#60 Fastelavn er mit navn</title>
+         <pubDate>Fri, 28 Feb 2020 15:25:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="114495654" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.02.28%20-%20%2360%20Fastelavn%20er%20mit%20navn.mp3" />
+         <itunes:duration>01:35:25</itunes:duration>
+         <description>Vi har holdt børnefødselsdag - og generelt for mange fødselsdage på det seneste. Så har Martin fået nye tænder og Sofie har været tæt på at miste sin telefon. Så får vi også diskuteret børnemusik kontra voksenmusik og til sidst er der post.</description>
+         <guid>https://www.parpodcast.dk/podcast/60_fastelavn.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=69</link>
+      </item>
+      <item>
+         <title>#61 Hundedragten</title>
+         <pubDate>Fri, 06 Mar 2020 14:20:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="108145287" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.03.06%20-%20%2361%20Hundedragten.mp3" />
+         <itunes:duration>01:30:07</itunes:duration>
+         <description>Vores hund har fødselsdag, og det fejrer vi ikke på nogen måde nær så meget som vi åbenbart snakker om det. Så er det også i dag at vi taler om den nye voldtægtslovgivning og ting der er relaterede til det emne. Spænd sikkerhedsselen. Til sidst en dejlig datinghistorie!</description>
+         <guid>https://www.parpodcast.dk/podcast/61_hundedragten.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=70</link>
+      </item>
+      <item>
+         <title>#62 Undtagelsestilstand</title>
+         <pubDate>Fri, 13 Mar 2020 20:55:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="78455556" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.03.13%20-%20%2362%20Undtagelsestilstand.mp3" />
+         <itunes:duration>01:05:23</itunes:duration>
+         <description>Danmark er i lockdown-mode, det er en historisk og alvorlig situation, og fremtiden er usikker. Hvis du skulle have brug for at høre to uvidende idioter snakke uinformeret og uhøjtideligt om tingenes tilstand, så har du fundet det rette podcastafsnit.</description>
+         <guid>https://www.parpodcast.dk/podcast/62_undtagelsestilstand.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=71</link>
+      </item>
+      <item>
+         <title>#63 Kalder alle vogne</title>
+         <pubDate>Wed, 18 Mar 2020 20:10:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="4105320" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.03.18%20-%20%2363%20Kalder%20alle%20vogne.mp3" />
+         <itunes:duration>03:25</itunes:duration>
+         <description>KALDER ALLE LYTTERE! Vi har en hjemmeopgave til jer. Hvis I kender nogen der fortjener en hyldest her under coronakrisen - det kan være din kone der er læge, din far der er politimand, din nabo der kører mad ud til folk. Det kan være dit barn der har opført sig eksemplarisk. Det kan være en kollega der gør arbejdsdagen til en fest! Hvad ved vi! Det er ligemeget! Bare én du synes fortjener et kæmpe klap på skulderen. Så send os en besked med navn og en lille historie og så sender vi et kæmpe shout-out afsnit på fredag. Vi lyttes ved!</description>
+         <guid>https://www.parpodcast.dk/podcast/63_kalderallevogne.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=72</link>
+      </item>
+      <item>
+         <title>#64 Shoutouts</title>
+         <pubDate>Fri, 20 Mar 2020 21:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="97125271" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.03.20%20-%20%2364%20Shoutouts.mp3" />
+         <itunes:duration>01:20:56</itunes:duration>
+         <description>I dag sender vi kæmpe skud ud til alle dem der skal sendes skud ud til! Vi har spurgt jer lyttere om hvem I gerne vil rose, sende en hilsen til eller bare give en langdistance highfive og I har svaret! Tak for det. Og send endelig flere, så tager vi en runde mere i næste uge. Pas på jer selv!</description>
+         <guid>https://www.parpodcast.dk/podcast/64_shoutouts.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=73</link>
+      </item>
+      <item>
+         <title>#65 Irriterende typer</title>
+         <pubDate>Fri, 27 Mar 2020 22:15:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="98807556" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.03.27%20-%20%2365%20Irriterende%20typer.mp3" />
+         <itunes:duration>01:22:20</itunes:duration>
+         <description>Martin er irriterende og Sofie deler lammere ud til højre og venstre. Og så er der flere shoutouts fra lyttere til mennesker der fortjener et kæmpe skulderklap! Stay safe - vi lyttes ved i næste uge.</description>
+         <guid>https://www.parpodcast.dk/podcast/65_irriterendetyper.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=74</link>
+      </item>
+      <item>
+         <title>#66 Den hvide plet på kortet</title>
+         <pubDate>Fri, 03 Apr 2020 21:10:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="91525140" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.04.03%20-%20%2366%20Den%20hvide%20plet%20p%C3%A5%20kortet.mp3" />
+         <itunes:duration>01:16:16</itunes:duration>
+         <description>Det er 3. uge i den nye verden og humøret er stadig glimrende. Sofie er lidt ramt af cabinfever, men Martin har både fået mærkelige pletter på en særlig legemsdel og så har han spist sin tand. Så på den måde er alt i den skønneste orden. Så får vi en masse dejlige meldinger fra lyttere landet over om hvad de går og bruger deres tid på. Det er hyggeligt! Tak fordi I lytter med!</description>
+         <guid>https://www.parpodcast.dk/podcast/66_dhppk.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=75</link>
+      </item>
+      <item>
+         <title>#67 Corona crossover feat. Farmænd</title>
+         <pubDate>Thu, 09 Apr 2020 11:40:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="80765056" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.04.09%20-%20%2367%20Corona%20crossover%20feat.%20Farm%C3%A6nd.mp3" />
+         <itunes:duration>01:07:18</itunes:duration>
+         <description>Bonusafsnit! For et par dage siden spurgte Jasper Ritz og David Mandel om vi ville være gæster i deres podcast "Farmænd". Og det ville vi gerne. Samtidig øjnede vi chancen for at lave en skøn crossover. Så nu er vi alle sammen gæster i hinandens podcast! Hvis du ikke kender "Farmænd" så skynd dig ind og giv den et lyt. Stay safe og vi lyttes ved!</description>
+         <guid>https://www.parpodcast.dk/podcast/67_coronacrossover.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=76</link>
+      </item>
+      <item>
+         <title>#68 Page og næsering</title>
+         <pubDate>Fri, 10 Apr 2020 21:45:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="100600079" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.04.10%20-%20%2368%20Page%20og%20n%C3%A6sering.mp3" />
+         <itunes:duration>01:23:50</itunes:duration>
+         <description>Sofie overvejer at få sin næsering tilbage og måske i samme ombæring få sig en lækker page. Martin lever stadig drømmen. Og ER DJ Alligator død eller hvad?</description>
+         <guid>https://www.parpodcast.dk/podcast/68_pon.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=77</link>
+      </item>
+      <item>
+         <title>#69 På den lyse side</title>
+         <pubDate>Fri, 17 Apr 2020 15:15:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="95215197" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.04.17%20-%20%2369%20P%C3%A5%20den%20lyse%20side.mp3" />
+         <itunes:duration>01:19:21</itunes:duration>
+         <description>Solen skinner, hverdagen er så småt på vej tilbage i det lille hjem og Sofie har spurgt jer kære lyttere hvad I synes er det positive ved alt det der sker lige nu - og I har svaret! Så i dag står i positivitetens tegn! God weekend.</description>
+         <guid>https://www.parpodcast.dk/podcast/69_paadenlyseside.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=78</link>
+      </item>
+      <item>
+         <title>#70 Kønsvarde</title>
+         <pubDate>Mon, 27 Apr 2020 21:15:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="106182968" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.04.27%20-%20%2370%20K%C3%B8nsvarde.mp3" />
+         <itunes:duration>01:28:29</itunes:duration>
+         <description>Det er fredag på en mandag! Vi svigtede jer i fredags fordi vi ikke havde tid til at optage et afsnit, men det har vi i dag. Vi har endnu engang forsøgt at tømme postkassen, og det lader sig heller ikke gøre i denne omgang! Men vi får gjort et godt indhug i bunken af dejlige lyttermails. Tak fordi I lytter med og tak fordi I sender os post!</description>
+         <guid>https://www.parpodcast.dk/podcast/70_koensvarde.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=79</link>
+      </item>
+      <item>
+         <title>#71 Bremselængde</title>
+         <pubDate>Fri, 01 May 2020 12:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="82695230" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.05.01%20-%20%2371%20Bremsel%C3%A6ngde.mp3" />
+         <itunes:duration>01:08:55</itunes:duration>
+         <description>I dag synger vi en del, og så har Sofie favnen fuld af gode og dårlige anbefalinger. Så er der som sædvanlig skøn lytterpost og en livsbekræftende datinghistorie fra den virkelige verden. God weekend!</description>
+         <guid>https://www.parpodcast.dk/podcast/71_bremselaengde.mp3</guid>
+         <link>https://www.parpodcast.dk/episoder/episoder.php?post_id=80</link>
+      </item>
+      <item>
+         <title>#72 Negle i vasken</title>
+         <pubDate>Sun, 10 May 2020 12:05:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="84775622" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.05.10%20-%20%2372%20Negle%20i%20vasken.mp3" />
+         <itunes:duration>01:10:39</itunes:duration>
+         <description>Martin har begået den største forbrydelse man kan begå i et parforhold - han har glemt at fjerne sine negle fra håndvasken. Og må man overhovedet sige skamlæber? Det og meget mindre i dagens afsnit. PS: Vores hjemmeside er i stykker, så lige pt. kan vi ikke opdatere den med de nyeste afsnit. Men du kan stadig høre podcasten der hvor du plejer, medmindre du plejer at høre den fra hjemmesiden...</description>
+         <guid>https://www.parpodcast.dk/podcast/72_negleivasken.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#73 Der er kommet nye regler</title>
+         <pubDate>Fri, 15 May 2020 13:25:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="96912111" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.05.15%20-%20%2373%20Der%20er%20kommet%20nye%20regler.mp3" />
+         <itunes:duration>01:20:45</itunes:duration>
+         <description>Vi forsøger at komme til bunds i skamlæbe/kønslæbe-mysteriet, vi får rykket ved vores billede af hvad et bryllup skal være, vi får os en snak om at vores datter skal starte i børnehave, og så slutter vi af med endnu en fantastisk datinghistorie</description>
+         <guid>https://www.parpodcast.dk/podcast/73_dererkommetnyeregler.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#74 Kærestesorger</title>
+         <pubDate>Fri, 22 May 2020 18:45:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="106215360" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.05.22%20-%20%2374%20K%C3%A6restesorger.mp3" />
+         <itunes:duration>01:28:31</itunes:duration>
+         <description>Dagens emne er kærestesorger! Ikke fordi vi har det, vi skal have en skøn kæresteweekend uden barn, men da vi jo er Danmarks public service portal nummer 1, så tager vi selvfølgelig jer lytteres problemer op i podcasten - og i dag står der breakup på menuen. Lyt med og så hav en rigtig dejlig weekend!</description>
+         <guid>https://www.parpodcast.dk/podcast/74_kaerestesorger.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#75 Aflagte børnesko</title>
+         <pubDate>Sat, 30 May 2020 20:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="91445205" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.05.30%20-%20%2375%20Aflagte%20b%C3%B8rnesko.mp3" />
+         <itunes:duration>01:16:12</itunes:duration>
+         <description>Sofie er blevet lidt sløj, men ikke sløj nok til ikke at afbefale en film hun har set. Så har vi en mindre disput om hvad man bør gøre med børnesko der er blevet for små, men er næsten så gode som nye. Så får vi læst en masse dejlig post OG i den forbindelse har vi modtaget et musikalsk indslag der bør vinde en form for Gaffa-pris. Det og meget mere i dagens afsnit!</description>
+         <guid>https://www.parpodcast.dk/podcast/75_aflagteboernesko.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#76 Hitlers ene testikel</title>
+         <pubDate>Sat, 06 Jun 2020 21:55:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="111405368" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.06.06%20-%20%2376%20Hitlers%20ene%20testikel.mp3" />
+         <itunes:duration>01:32:50</itunes:duration>
+         <description>I dag tager vi en god, lang snak om det der foregår i verden lige nu, på baggrund af et skænderi vi lige er kommet os over. Det bliver stadig fjollet. Tak fordi I lytter med. Møsser.</description>
+         <guid>https://www.parpodcast.dk/podcast/76_hitlersenetestikel.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#77 Krænkelsescultura</title>
+         <pubDate>Fri, 19 Jun 2020 14:10:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="120165270" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.06.19%20-%20%2377%20Kr%C3%A6nkelsescultura.mp3" />
+         <itunes:duration>01:40:08</itunes:duration>
+         <description>I dag dykker vi ned i en debat om et tv-program der har raset på de sociale medier den seneste uges tid, og så får vi vendt en masse dejlig post fra jer skønne lyttere. God weekend!</description>
+         <guid>https://www.parpodcast.dk/podcast/77_kraenkelsescultura.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#78 Kend din mand</title>
+         <pubDate>Sat, 27 Jun 2020 11:25:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="110525564" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.06.27%20-%20%2378%20Kend%20din%20mand.mp3" />
+         <itunes:duration>01:32:06</itunes:duration>
+         <description>Sofie er blevet bedt om at skride hjem hvor hun kommer fra, studenter har det vildt, Jakob Olrik har lavet en quiz og så er der post og datinghistorier. Klassisk.</description>
+         <guid>https://www.parpodcast.dk/podcast/78_kenddinmand.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#79 Ha' en god dag</title>
+         <pubDate>Fri, 03 Jul 2020 13:00:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="132255262" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.07.03%20-%20%2379%20Ha%27%20en%20god%20dag.mp3" />
+         <itunes:duration>01:50:13</itunes:duration>
+         <description>Det er sidste afsnit inden en lille bitte sommerferie, og inden man tager på ferie er det jo godt lige at få tømt postkassen, luftet ud og taget en snak så feriestemningen kan indtræffe. Vi lyttes ved når vi alle sammen er blevet solskoldet og har sovet længe!</description>
+         <guid>https://www.parpodcast.dk/podcast/79_haengoddag.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#80 30 sekunders ros</title>
+         <pubDate>Fri, 07 Aug 2020 13:35:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="116085466" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.08.07%20-%20%2380%2030%20sekunders%20ros.mp3" />
+         <itunes:duration>01:36:44</itunes:duration>
+         <description>Ferien er slut! Og freden er forbi. Vi snakker lidt om den sidste måneds tids oplevelser både i virkeligheden og på nettet. Så har vi en konstruktiv disput og en knap så konstruktiv disput. Vi introducerer et nyt format i podcasten - opfundet af en lytter - og så er der en saftig datinghistorie fra dengang man måtte tage på festival.</description>
+         <guid>https://www.parpodcast.dk/podcast/80_30sekundersros.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#81 Shorts fired</title>
+         <pubDate>Fri, 14 Aug 2020 12:35:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="110940389" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.08.14%20-%20%2381%20Shorts%20fired.mp3" />
+         <itunes:duration>01:32:27</itunes:duration>
+         <description>Sofie har fået et nyt navn, Martin har set en ægte voldspsykopat, vi får gode parforholdsråd fra Berlingske, vi snakker om passende påklædning, der er 2x30 sekunders ros, lytterpost og datinghistorier. Hvad mere kan man bede om på en højhellig fredag?</description>
+         <guid>https://www.parpodcast.dk/podcast/81_shortsfired.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#82 Fransk for begyndere</title>
+         <pubDate>Fri, 21 Aug 2020 12:20:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="109565303" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.08.21%20-%20%2382%20Fransk%20for%20begyndere.mp3" />
+         <itunes:duration>01:31:18</itunes:duration>
+         <description>Martin deler ud af sin uendelige viden om fransk kultur, Sofie har været med i Miss Teen Herlev omkring årtusindeskiftet, vi snakker om børneopdragelse, om Louis C.Ks nyeste show og så er der post.</description>
+         <guid>https://www.parpodcast.dk/podcast/82_franskforbegyndere.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#83 Tab og vind med samme sind</title>
+         <pubDate>Fri, 28 Aug 2020 15:25:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="121765532" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.08.28%20-%20%2383%20Tab%20og%20vind%20med%20samme%20sind.mp3" />
+         <itunes:duration>01:41:28</itunes:duration>
+         <description>Vi taler om comedygallaen og især om det indslag fra gallaen som alle andre også taler om. Det bliver ophedet. Det bliver oprigtigt. Det bliver klassisk os. Og så er der en ny bog på gaden fra Hr. Olrik. Vi får også rost hinanden i 30 sekunder og så er der som altid post og datinghistorier. God weekend!</description>
+         <guid>https://www.parpodcast.dk/podcast/83_tabogvind.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#84 Mediebranchens fluffere</title>
+         <pubDate>Fri, 04 Sep 2020 13:40:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="126575197" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.09.04%20-%20%2384%20Mediebranchens%20fluffere.mp3" />
+         <itunes:duration>01:45:29</itunes:duration>
+         <description>Vi får vendt ugens varme kartoffel - debatten om samtykke - på sædvanlig elegant vis, og så segwayer vi direkte over i kønsneutrale prisuddelinger og lytterpost. Og så er der som sædvanlig en fantastisk datinghistorie.</description>
+         <guid>https://www.parpodcast.dk/podcast/84_mediebranchensfluffere.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#85 Skøre tider</title>
+         <pubDate>Fri, 11 Sep 2020 15:25:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="116485140" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.09.11%20-%20%2385%20Sk%C3%B8re%20tider.mp3" />
+         <itunes:duration>01:37:04</itunes:duration>
+         <description>Nå, så er det fredag og vi får vendt både lottekuponer, omskæringsdebatten, Saszeline-gate og vores digitale postkasse. Hæng på!</description>
+         <guid>https://www.parpodcast.dk/podcast/85_skoeretider.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#86 Grå hår</title>
+         <pubDate>Fri, 25 Sep 2020 13:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="146670083" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.09.25%20-%20%2386%20Gr%C3%A5%20h%C3%A5r.mp3" />
+         <itunes:duration>01:15:44</itunes:duration>
+         <description>Martins liv kører på repeat og Sofie er blevet fyret. Hun er også ved at blive gråhåret. Og er det egentlig fedt at få lavet kosmetiske operationer? Alt dette bliver du på ingen måde klogere på i dagens afsnit.</description>
+         <guid>https://www.parpodcast.dk/podcast/86_graahaar.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#87 Bummer</title>
+         <pubDate>Fri, 02 Oct 2020 12:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="176380537" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.10.02%20-%20%2387%20Bummer.mp3" />
+         <itunes:duration>01:32:48</itunes:duration>
+         <description>Dagens afsnit er sponsoreret af dårlig stemning - vi kommer i hvert fald rundt om nogle tunge emner og sådan er det jo også nogle gange. Verden er af lave men vi er her endnu! Lyt med og hav en skide fucking god weekend.</description>
+         <guid>https://www.parpodcast.dk/podcast/87_bummer.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#88 Løgnerland</title>
+         <pubDate>Fri, 16 Oct 2020 12:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="118991327" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.10.16%20-%20%2388%20L%C3%B8gnerland.mp3" />
+         <itunes:duration>01:39:09</itunes:duration>
+         <description>Vi er tilbage - Sofie har fået nyt job, De Radikale smelter sammen, Martin er blevet pillet i numsen endnu engang, vi læser post, vores datter er lystløgner og meget, meget mere...</description>
+         <guid>https://www.parpodcast.dk/podcast/88_loegnerland.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#89 Rejseaben</title>
+         <pubDate>Sat, 24 Oct 2020 20:45:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="92345385" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.10.24%20-%20%2389%20Rejseaben.mp3" />
+         <itunes:duration>01:16:57</itunes:duration>
+         <description>Sofie har haft en super stresset uge og Martin har drukket sig fuld på en fredag. Dagens afsnit er totalt laid back, men du får stadig alt det du efterspørger: lange historier, lytterpost, noget om afføring og alt det du kender og elsker fra vores podcast. Selv tak.</description>
+         <guid>https://www.parpodcast.dk/podcast/89_rejseaben.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#90 Sofies kult</title>
+         <pubDate>Fri, 30 Oct 2020 13:10:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="92225222" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.10.30%20-%20%2390%20Sofies%20kult.mp3" />
+         <itunes:duration>01:16:51</itunes:duration>
+         <description>Martin føler intet når han ser dans, Lars Ranthe har et fedt mundbind, Sofie Anbefaler er tilbage i topform, vi læser vores årshoroskop og ser om det ramte plet og så er der en lytterhistorie fra den våde, kåde, datingverden.</description>
+         <guid>https://www.parpodcast.dk/podcast/90_sofieskult.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#91 Glyngøre</title>
+         <pubDate>Fri, 06 Nov 2020 12:35:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="105905548" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.11.06%20-%20%2391%20Glyng%C3%B8re.mp3" />
+         <itunes:duration>01:28:15</itunes:duration>
+         <description>Verden holder vejret, Sofie har været i Nordjylland før jernslumretæppet lukkede sig, Martin gider ikke snakke om valget men gør det alligevel, lyttere sender post og meget meget mere.</description>
+         <guid>https://www.parpodcast.dk/podcast/91_glyngoere.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#92 Sen Fredag</title>
+         <pubDate>Fri, 13 Nov 2020 23:15:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="58765499" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.11.13%20-%20%2392%20Sen%20Fredag.mp3" />
+         <itunes:duration>48:58</itunes:duration>
+         <description>Den danske ordbog er blevet opdateret, Sofie har styr på juraen omkring bandekriminalitet, vi er blevet coronatestet, Sofie skal være med i Grin til Gavn og så får vi en lytterhistorie i Martins ånd. God weekend.</description>
+         <guid>https://www.parpodcast.dk/podcast/92_senfredag.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#93 TikTok Tommelfinger</title>
+         <pubDate>Fri, 27 Nov 2020 12:45:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="112652977" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.11.27%20-%20%2393%20TikTok%20Tommelfinger.mp3" />
+         <itunes:duration>01:33:52</itunes:duration>
+         <description>Martin forklarer hvorfor der ikke var noget afsnit i sidste uge... og det handler som sædvanlig om hans krop. Og så er der sket noget sindssygt... Martin har opdaget at han måske skal sætte sig bedre ind i ting før han har en holdning. Ja, du læste rigtigt. 2020 er i sandhed et vanvittigt år!</description>
+         <guid>https://www.parpodcast.dk/podcast/93_tiktoktommelfinger.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#94 Fucking dumme lort</title>
+         <pubDate>Fri, 04 Dec 2020 12:25:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="121705450" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.12.04%20-%20%2394%20Fucking%20dumme%20lort.mp3" />
+         <itunes:duration>01:41:25</itunes:duration>
+         <description>Martin truer med at spise en hund, Ellen har fået et grimt sprog af fremmede, vi snakker om Jordan Peterson og så er der post og historier.</description>
+         <guid>https://www.parpodcast.dk/podcast/94_fuckingdummelort.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#95 En mand i kjole</title>
+         <pubDate>Fri, 18 Dec 2020 22:55:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="88145418" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.12.18%20-%20%2395%20En%20mand%20i%20kjole.mp3" />
+         <itunes:duration>01:13:27</itunes:duration>
+         <description>Må man overhovedet holde jul længere, må mænd gå i kjoler og hvem skal man være sur på hvis ens onenightstand har skidt i sengen? Disse spørgsmål og mange flere bliver forsøgt besvaret i dagens afsnit. Glædelig jul.</description>
+         <guid>https://www.parpodcast.dk/podcast/95_enmandikjole.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#96 Julehilsner</title>
+         <pubDate>Tue, 29 Dec 2020 12:55:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="133155442" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2020.12.29%20-%20%2396%20Julehilsner.mp3" />
+         <itunes:duration>01:50:58</itunes:duration>
+         <description>Årets sidste afsnit - og sikket et år. Vi får rundet 2020 af på en meget 2020-agtig måde, da der går kuk i teknikken til sidst. Det sidste kvarter af dagens afsnit er…. svært at lytte til. Så nu ved I det. Det vi siger til aller sidst er at vi meget gerne vil høre hvad jeres nytårsforsæt for 2021 er. Så send dem endelig til os. Ellers er der ikke så meget andet at sige end tak for i år, tak fordi I lytter med og vi håber I kommer rigtig godt ind i det nye og forhåbentlig bedre år.</description>
+         <guid>https://www.parpodcast.dk/podcast/96_julehilsner.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#97 Højre-venstre-blind</title>
+         <pubDate>Fri, 15 Jan 2021 13:00:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="148473123" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2021.01.15%20-%20%2397%20H%C3%B8jre-venstre-blind.mp3" />
+         <itunes:duration>02:03:43</itunes:duration>
+         <description>2021 er igang og der er allerede sket meget. Vi får lige vendt verdenssituationen, og så kommer vi delvist til bunds i alt vores lytterpost.</description>
+         <guid>https://www.parpodcast.dk/podcast/97_hoejrevenstreblind.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#98 Er du model?</title>
+         <pubDate>Fri, 29 Jan 2021 15:55:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="111950283" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2021.01.29%20-%20%2398%20Er%20du%20model.mp3" />
+         <itunes:duration>01:33:17</itunes:duration>
+         <description>Sofie har fået lov at udleve en drøm, Martin glæder sig over internetaktivister, der er bred opbakning blandt vores lyttere til Sofies højre-venstre handicap, vi breaker en KÆMPE nyhed og så sludrer vi lidt om Martins hobby.</description>
+         <guid>https://www.parpodcast.dk/podcast/98_erdumodel.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#99 Apartheid</title>
+         <pubDate>Fri, 05 Feb 2021 13:45:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="120272372" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2021.02.05%20-%20%2399%20Apartheid.mp3" />
+         <itunes:duration>01:40:13</itunes:duration>
+         <description>Der bliver skudt med skarpt til højre og venstre. Vi har deltaget i et TV-program for nylig, Sofie har opdaget britiske tv-programmer, vi lytter til en opsang til det danske samfund fra Den Mentale Kriger, Martin bliver endnu engang krydsforhørt om World of Warcraft og så er der masser af dejlig post. Velbekomme!</description>
+         <guid>https://www.parpodcast.dk/podcast/99_apartheid.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#100 Jubilæumsafsnit</title>
+         <pubDate>Fri, 11 Jun 2021 12:05:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="121835540" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2021.06.11%20-%20%23100%20Jubil%C3%A6umsafsnit.mp3" />
+         <itunes:duration>01:41:32</itunes:duration>
+         <description>Vi er tilbage! De store tv-kanoner har endelig fundet tilbage til rødderne. Der er sket meget siden sidst og det taler vi om her i vores store jubilæumsafsnit. Der er æresport og champagne og fest og højt humør!</description>
+         <guid>https://www.parpodcast.dk/podcast/100_jubilaeumsafsnit.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#101 Lugtearm</title>
+         <pubDate>Fri, 18 Jun 2021 11:25:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="96765303" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2021.06.18%20-%20%23101%20Lugtearm.mp3" />
+         <itunes:duration>01:20:38</itunes:duration>
+         <description>Sofie har et forslag til dem der driver vacciner.dk og så har hun også én absurd lugtearm. Martin bliver grillet vedr. sit overforbrug af World of Warcraft og så har Sofie set en dokumentar om hjemmegående forældre. Der er også en juicy juicy datinghistorie. God weekend.</description>
+         <guid>https://www.parpodcast.dk/podcast/101_lugtearm.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#102 Nedsmeltninger</title>
+         <pubDate>Fri, 25 Jun 2021 12:00:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="115285597" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2021.06.25%20-%20%23102%20Nedsmeltninger.mp3" />
+         <itunes:duration>01:36:04</itunes:duration>
+         <description>Sofie har fået endelig afklaring på sine vaccinespørgsmål, vi får input fra både en lytter der er enig med Martin vedr. Aula-appen OG fra en lytter der arbejder hos Netcompany... så deeeeeeeet! Og så er det hårdt at have en 4-årig, Sofie anbefaler ting og vi får en saftig historie om ung kærlighed.</description>
+         <guid>https://www.parpodcast.dk/podcast/102_nedsmeltninger.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#103 Fodsport</title>
+         <pubDate>Fri, 02 Jul 2021 11:20:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="73285401" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2021.07.02%20-%20%23103%20Fodsport.mp3" />
+         <itunes:duration>01:01:04</itunes:duration>
+         <description>Der er fodsport i fjerneren og vi kan ikke få armenene ned! Sofie er medlem af verdens dyreste fitnesscenter og Martin bliver uforløst testet i hvor sommerferien burde gå til. Alt det og meget mere i det sidste afsnit inden sommerferien. God sommer til alle!</description>
+         <guid>https://www.parpodcast.dk/podcast/103_fodsport.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#104 Dobbeltfyret</title>
+         <pubDate>Tue, 17 Aug 2021 13:00:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="141945646" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2021.08.17%20-%20%23104%20Dobbeltfyret.mp3" />
+         <itunes:duration>01:58:17</itunes:duration>
+         <description>Vi er tilbage fra sommerferie med noget af en moppedreng. Spænd sikkerhedsselen!</description>
+         <guid>https://www.parpodcast.dk/podcast/104_dobbeltfyret.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#105 Sophishing</title>
+         <pubDate>Sun, 29 Aug 2021 16:00:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="103275540" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2021.08.29%20-%20%23105%20Sophishing.mp3" />
+         <itunes:duration>01:26:04</itunes:duration>
+         <description>Sofie er kommet galt afsted på internettet, mere end én gang i den forgangne uge. Gift Ved Første Blik får det værste frem i folk. Og Nirvanas ikoniske pladecover er kommet i modvind.</description>
+         <guid>https://www.parpodcast.dk/podcast/105_sophishing.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#106 Panter Tanter</title>
+         <pubDate>Fri, 12 Nov 2021 12:10:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="79837229" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2021.11.12%20-%20%23106%20Panter%20Tanter.mp3" />
+         <itunes:duration>01:23:10</itunes:duration>
+         <description>Vi er tilbage! Vi er blevet et familiemedlem rigere, Sofie har gennemført Netflix, Martin tror han ved alt, og så bliver kommunalvalget lige rundet i forbifarten.</description>
+         <guid>https://www.parpodcast.dk/podcast/106_pantertanter.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#107 Michael Maze Cyklen</title>
+         <pubDate>Fri, 03 Dec 2021 11:50:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="74468961" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2021.12.03%20-%20%23107%20Michael%20Maze%20Cyklen.mp3" />
+         <itunes:duration>01:17:34</itunes:duration>
+         <description>Sofie er startet til mor-gymnahopsa, vores søn er liiiiige ved at falde i søvn, og vi tømmer postkassen.</description>
+         <guid>https://www.parpodcast.dk/podcast/107_mmc.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#108 Den var ikke gået i dag</title>
+         <pubDate>Tue, 11 Jan 2022 13:15:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="72163498" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2022.01.11%20-%20%23108%20Den%20var%20ikke%20g%C3%A5et%20i%20dag.mp3" />
+         <itunes:duration>01:15:10</itunes:duration>
+         <description>Vi har haft corona, eller "The Rolling 'Rones" som Sofie ville sige, vi har holdt jul, vi snakker om folk der siger at der er ting man ikke må snakke om, vi har lytterpost og datinghistorier. Velkommen til 2022!</description>
+         <guid>https://www.parpodcast.dk/podcast/108_denvarikkegaaetidag.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#109 Træk mig i fingeren</title>
+         <pubDate>Fri, 28 Jan 2022 14:15:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="71525274" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2022.01.28%20-%20%23109%20Tr%C3%A6k%20mig%20i%20fingeren.mp3" />
+         <itunes:duration>01:14:30</itunes:duration>
+         <description>Sofie har været tæt på at dø, Martin er en hyklerisk far der laver for mange far-jokes, Sofie har en genial idé med en tilhørende dårlig forklaring og så løser vi endnu en lytters livsproblemer!</description>
+         <guid>https://www.parpodcast.dk/podcast/109_traekmigifingeren.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#110 Håndvaskede trusser</title>
+         <pubDate>Fri, 25 Mar 2022 13:40:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="77221222" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2022.03.25%20-%20%23110%20H%C3%A5ndvaskede%20trusser.mp3" />
+         <itunes:duration>01:20:26</itunes:duration>
+         <description>Sofie har fået fingrene i nogle utraditionelle trusser, vores kristendomsundervisende lyttere er i oprør, vores søn sover ikke til middag, Martin har fået nyt arbejde, der er disput, forældreintra og mere post.</description>
+         <guid>https://www.parpodcast.dk/podcast/110_haandvaskede.mp3</guid>
+         <link />
+      </item>
+      <item>
+         <title>#111 Næverly Hillsner</title>
+         <pubDate>Tue, 01 Aug 2023 13:45:00 +0100</pubDate>
+         <author>kontakt@parpodcast.dk</author>
+         <category>Comedy</category>
+         <enclosure length="81856075" type="audio/mpeg" url="https://archive.org/download/det_vaerste_par/Det%20V%C3%A6rste%20Par/2023.08.01%20-%20%23111%20N%C3%A6verly%20Hillsner.mp3" />
+         <itunes:duration>01:37:27</itunes:duration>
+         <description>Du har ferie, du har paraderne nede, du holder en konkylie op til øret og pludselig, pludselig hører du to velkendte stemmer. Det er os! Vi er vågnet fra en årelang slumren for at give dig en lille opdatering fra vores liv, og for at forklare hvorfor du ikke har hørt fra os så længe. OMG!</description>
+         <guid>http://www.parpodcast.dk/podcast/111_naeverlyhillsner.mp3</guid>
+         <link />
+      </item>
+   </channel>
 </rss>

@@ -1,295 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   LET'S GET PROUD
-  </title>
-  <link>
-   https://loud.land/podcast/let's-get-proud
-  </link>
-  <description>
-   Radio Loud gik Proud da vi lørdag d. 22. august 2020 ryddede sendefladen og sendte live fra 15 - 23 i anledning af Copenhagen Pride Week 2020. Aftenen stod i både det politiske, solidariske og farveriges tegn med besøgende fra landets forskellige LGBTQIA+ foreninger og personer. Elias Isak, Mathias Damborg, Kristian Hindø-Lings og Mark Ludvig Henriksen  (Ion) styrede mikrofonerne på en aften, der også endte i noget af en pridefest i Louds studier i København&lt;br /&gt;&lt;br /&gt;Produceret af Mathias/LOUD
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4553179/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   521943
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg
-   </url>
-   <title>
-    LET'S GET PROUD
-   </title>
-   <link>
-    https://loud.land/podcast/let's-get-proud
-   </link>
-  </image>
-  <lastBuildDate>
-   Fri, 01 Dec 2023 22:23:21 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg"/>
-  <itunes:subtitle>
-   Pride Week direkte til dig
-  </itunes:subtitle>
-  <itunes:summary>
-   Radio Loud gik Proud da vi lørdag d. 22. august 2020 ryddede sendefladen og sendte live fra 15 - 23 i anledning af Copenhagen Pride Week 2020. Aftenen stod i både det politiske, solidariske og farveriges tegn med besøgende fra landets forskellige LGBTQIA+ foreninger og personer. Elias Isak, Mathias Damborg, Kristian Hindø-Lings og Mark Ludvig Henriksen  (Ion) styrede mikrofonerne på en aften, der også endte i noget af en pridefest i Louds studier i København&lt;br /&gt;&lt;br /&gt;Produceret af Mathias/LOUD
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:explicit>
-   yes
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Ahmad Mahmoud om dobbelt minoritet
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/ahmad-mahmoud-interview
-   </link>
-   <description>
-    Ahmad Mahmoud er vokset op på vestegenen med sin familie som både er mellemøstlig og muslimsk, og de havde det bestemt ikke nemt med hans seksualitet. Senere hen har Ahmad taget sin seksualitet til sig, og arbejder i dag med at forbedre vilkårene for LGBT+ personer med minoritetetnisk baggrund.  Emma Vinkel har sat sig ned med Ahmad for at få hele hans historie.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44534454
-   </guid>
-   <pubDate>
-    Wed, 28 Apr 2021 10:18:48 +0000
-   </pubDate>
-   <enclosure length="12897024" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44534454/ahmad_mahmoud_interview.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Ahmad Mahmoud er vokset op på vestegenen med sin familie som både er mellemøstlig og muslimsk, og de havde det bestemt ikke nemt med hans seksualitet. Senere hen har Ahmad taget sin seksualitet til sig, og arbejder i dag med at forbedre vilkårene for...
-   </itunes:subtitle>
-   <itunes:summary>
-    Ahmad Mahmoud er vokset op på vestegenen med sin familie som både er mellemøstlig og muslimsk, og de havde det bestemt ikke nemt med hans seksualitet. Senere hen har Ahmad taget sin seksualitet til sig, og arbejder i dag med at forbedre vilkårene for LGBT+ personer med minoritetetnisk baggrund.  Emma Vinkel har sat sig ned med Ahmad for at få hele hans historie.
-   </itunes:summary>
-   <itunes:duration>
-    802
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    MOD STRØMMEN &amp; DEN GODE ALLIEREDE
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/lets-get-proud-t3
-   </link>
-   <description>
-    Årets Laks er LGBT+ Danmarks hyldest- og anerkendelsespris, der hvert år uddeles til en person eller forening, der svømmer mod strømmen ved at skabe en mere inkluderende og retfærdig verden for LGBTQIA+ personer. Vi har talsperson og bestyrelsesmedlem Maria Emilie Kortenbach igennem fra årets vinderforening, LGBT Asylum. Foreningen arbejder for at støtte asylansøgere med LGBTQIA+ baggrund.&lt;br /&gt;&lt;br /&gt;At købe et regnbueflag for at støtte LGBTQIA+ foreningerne er en god hjælp. Men det er væsentligt at forstå, hvordan man er en god allieret for de rigtige mennesker bag forkortelserne. I anden del af timen faciliterer Mark Ludvig Henriksen (Ion) en samtale med Rei Mansa, Quim og Moeisha, om hvad solidaritet er og hvilke udfordringer der huserer internt blandt LGBTQIA+ personer. &lt;br /&gt;&lt;br /&gt;Værter; Elias Isak og Ion&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/40470393
-   </guid>
-   <pubDate>
-    Mon, 24 Aug 2020 14:47:28 +0000
-   </pubDate>
-   <enclosure length="52016736" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40470393/lets_get_proud_t3.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Årets Laks er LGBT+ Danmarks hyldest- og anerkendelsespris, der hvert år uddeles til en person eller forening, der svømmer mod strømmen ved at skabe en mere inkluderende og retfærdig verden for LGBTQIA+ personer. Vi har talsperson og bestyrelsesmedlem...
-   </itunes:subtitle>
-   <itunes:summary>
-    Årets Laks er LGBT+ Danmarks hyldest- og anerkendelsespris, der hvert år uddeles til en person eller forening, der svømmer mod strømmen ved at skabe en mere inkluderende og retfærdig verden for LGBTQIA+ personer. Vi har talsperson og bestyrelsesmedlem Maria Emilie Kortenbach igennem fra årets vinderforening, LGBT Asylum. Foreningen arbejder for at støtte asylansøgere med LGBTQIA+ baggrund.&lt;br /&gt;&lt;br /&gt;At købe et regnbueflag for at støtte LGBTQIA+ foreningerne er en god hjælp. Men det er væsentligt at forstå, hvordan man er en god allieret for de rigtige mennesker bag forkortelserne. I anden del af timen faciliterer Mark Ludvig Henriksen (Ion) en samtale med Rei Mansa, Quim og Moeisha, om hvad solidaritet er og hvilke udfordringer der huserer internt blandt LGBTQIA+ personer. &lt;br /&gt;&lt;br /&gt;Værter; Elias Isak og Ion&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD
-   </itunes:summary>
-   <itunes:duration>
-    3247
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    INKLUSION?
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/lets-get-proud-t2
-   </link>
-   <description>
-    Hvad vil det sige at være aseksuel? Står Copenhagen Pride stadig for demonstration, mangfoldighed og inklusion? Eller det bare blevet en reklamesøjle for pinkwashing-glade virksomheder? Og skal vi stadig bruge konceptet, at springe ud? . Både Mette-Marie Nørlev, Oliver Anton og Rune Stevnsborg kommer forbi, og du er også inviteret.&lt;br /&gt;&lt;br /&gt;Vært: Kristian Hindø-lings&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/40470391
-   </guid>
-   <pubDate>
-    Mon, 24 Aug 2020 14:17:43 +0000
-   </pubDate>
-   <enclosure length="52692576" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40470391/lets_get_proud_t2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hvad vil det sige at være aseksuel? Står Copenhagen Pride stadig for demonstration, mangfoldighed og inklusion? Eller det bare blevet en reklamesøjle for pinkwashing-glade virksomheder? Og skal vi stadig bruge konceptet, at springe ud? . Både...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvad vil det sige at være aseksuel? Står Copenhagen Pride stadig for demonstration, mangfoldighed og inklusion? Eller det bare blevet en reklamesøjle for pinkwashing-glade virksomheder? Og skal vi stadig bruge konceptet, at springe ud? . Både Mette-Marie Nørlev, Oliver Anton og Rune Stevnsborg kommer forbi, og du er også inviteret.&lt;br /&gt;&lt;br /&gt;Vært: Kristian Hindø-lings&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD
-   </itunes:summary>
-   <itunes:duration>
-    3290
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    PRIDEN ANNO 2020
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/lets-get-proud-t1
-   </link>
-   <description>
-    Dagens specialudsendelse i anledningen af Copenhagen Pride Week 2020 tuner ind på, hvilke problemstillinger LGBTQIA+ personer til stadighed står med anno 2020. Politisk Ansvarlig for LGBT+ Ungdom, Nicolaj Laue Juhl, er i studiet for at fortælle om de konkrete fokusområder som foreningen kæmper for at sætte fokus på - herunder særligt at gøre det danske skolesystem mere inkluderende og mangfoldigt. Bestyrelsesmedlem i foreningen Sabaah, der arbejder for at forbedre vilkårene for LGBTQ+ personer med minoritetsetnisk baggrund, tilslutter sig diskussionen med skarp kritik af myndighederne og begge giver gode råd til, hvordan man som ung LGBTQIA+ personer kan støtte sagen eller søge et fællesskab. Muligheden for at tilslutte sig lokale fællesskaber med ligesindende uddybes af projektleder fra LGBT+ Danmark, Andreas Beck Kronborg, der er medstifter af projektet AURA.&lt;br /&gt;&lt;br /&gt;Værter: Kristian Hindø-Lings og Elias Isak&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/40470390
-   </guid>
-   <pubDate>
-    Mon, 24 Aug 2020 14:10:16 +0000
-   </pubDate>
-   <enclosure length="50897859" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40470390/lets_get_proud_t1.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens specialudsendelse i anledningen af Copenhagen Pride Week 2020 tuner ind på, hvilke problemstillinger LGBTQIA+ personer til stadighed står med anno 2020. Politisk Ansvarlig for LGBT+ Ungdom, Nicolaj Laue Juhl, er i studiet for at fortælle om de...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens specialudsendelse i anledningen af Copenhagen Pride Week 2020 tuner ind på, hvilke problemstillinger LGBTQIA+ personer til stadighed står med anno 2020. Politisk Ansvarlig for LGBT+ Ungdom, Nicolaj Laue Juhl, er i studiet for at fortælle om de konkrete fokusområder som foreningen kæmper for at sætte fokus på - herunder særligt at gøre det danske skolesystem mere inkluderende og mangfoldigt. Bestyrelsesmedlem i foreningen Sabaah, der arbejder for at forbedre vilkårene for LGBTQ+ personer med minoritetsetnisk baggrund, tilslutter sig diskussionen med skarp kritik af myndighederne og begge giver gode råd til, hvordan man som ung LGBTQIA+ personer kan støtte sagen eller søge et fællesskab. Muligheden for at tilslutte sig lokale fællesskaber med ligesindende uddybes af projektleder fra LGBT+ Danmark, Andreas Beck Kronborg, der er medstifter af projektet AURA.&lt;br /&gt;&lt;br /&gt;Værter: Kristian Hindø-Lings og Elias Isak&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD
-   </itunes:summary>
-   <itunes:duration>
-    3178
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    LET'S GET PROUD MUSIKTIME
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/lets-get-proud-musiktime
-   </link>
-   <description>
-    Musik i PRIDE'ns tegn
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/40470334
-   </guid>
-   <pubDate>
-    Mon, 24 Aug 2020 12:59:22 +0000
-   </pubDate>
-   <enclosure length="50741543" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40470334/lets_get_proud_musiktime.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Musik i PRIDE'ns tegn
-   </itunes:subtitle>
-   <itunes:summary>
-    Musik i PRIDE'ns tegn
-   </itunes:summary>
-   <itunes:duration>
-    3168
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    COPENHAGEN PRIDE SHOW 2020
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/lets-get-proud-showet-faerdig
-   </link>
-   <description>
-    Copenhagen Pride show 2020, hvor vi kommenterer på alt hvad der sker!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Værter; Elias Isak, Ion, Karli Kuff, Kacey Doll, Roxy Thyrune og Mathias Damborg&lt;br /&gt;&lt;br /&gt;Reporter; Olivia Nepperwinther&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/40470299
-   </guid>
-   <pubDate>
-    Mon, 24 Aug 2020 12:57:18 +0000
-   </pubDate>
-   <enclosure length="214558555" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/40470299/lets_get_proud_showet_f_rdig.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Copenhagen Pride show 2020, hvor vi kommenterer på alt hvad der sker!
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>LET'S GET PROUD</title>
+      <link>https://loud.land/podcast/let's-get-proud</link>
+      <description>Radio Loud gik Proud da vi lørdag d. 22. august 2020 ryddede sendefladen og sendte live fra 15 - 23 i anledning af Copenhagen Pride Week 2020. Aftenen stod i både det politiske, solidariske og farveriges tegn med besøgende fra landets forskellige LGBTQIA+ foreninger og personer. Elias Isak, Mathias Damborg, Kristian Hindø-Lings og Mark Ludvig Henriksen  (Ion) styrede mikrofonerne på en aften, der også endte i noget af en pridefest i Louds studier i København&lt;br /&gt;&lt;br /&gt;Produceret af Mathias/LOUD</description>
+      <atom:link href="https://www.spreaker.com/show/4553179/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>521943</copyright>
+      <image>
+         <url>https://archive.org/download/lets_get_proud/LET%27S%20GET%20PROUD/ecf75859b2f2eb4af0a2376163cd5c4d.jpg</url>
+         <title>LET'S GET PROUD</title>
+         <link>https://loud.land/podcast/let's-get-proud</link>
+      </image>
+      <lastBuildDate>Fri, 01 Dec 2023 22:23:21 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg" />
+      <itunes:subtitle>Pride Week direkte til dig</itunes:subtitle>
+      <itunes:summary>Radio Loud gik Proud da vi lørdag d. 22. august 2020 ryddede sendefladen og sendte live fra 15 - 23 i anledning af Copenhagen Pride Week 2020. Aftenen stod i både det politiske, solidariske og farveriges tegn med besøgende fra landets forskellige LGBTQIA+ foreninger og personer. Elias Isak, Mathias Damborg, Kristian Hindø-Lings og Mark Ludvig Henriksen  (Ion) styrede mikrofonerne på en aften, der også endte i noget af en pridefest i Louds studier i København&lt;br /&gt;&lt;br /&gt;Produceret af Mathias/LOUD</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Ahmad Mahmoud om dobbelt minoritet</title>
+         <link>https://www.spreaker.com/user/radiolouddk/ahmad-mahmoud-interview</link>
+         <description>Ahmad Mahmoud er vokset op på vestegenen med sin familie som både er mellemøstlig og muslimsk, og de havde det bestemt ikke nemt med hans seksualitet. Senere hen har Ahmad taget sin seksualitet til sig, og arbejder i dag med at forbedre vilkårene for LGBT+ personer med minoritetetnisk baggrund.  Emma Vinkel har sat sig ned med Ahmad for at få hele hans historie.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44534454</guid>
+         <pubDate>Wed, 28 Apr 2021 10:18:48 +0000</pubDate>
+         <enclosure length="12897024" type="audio/mpeg" url="https://archive.org/download/lets_get_proud/LET%27S%20GET%20PROUD/2021.04.28%20-%20Ahmad%20Mahmoud%20om%20dobbelt%20minoritet.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Ahmad Mahmoud er vokset op på vestegenen med sin familie som både er mellemøstlig og muslimsk, og de havde det bestemt ikke nemt med hans seksualitet. Senere hen har Ahmad taget sin seksualitet til sig, og arbejder i dag med at forbedre vilkårene for...</itunes:subtitle>
+         <itunes:summary>Ahmad Mahmoud er vokset op på vestegenen med sin familie som både er mellemøstlig og muslimsk, og de havde det bestemt ikke nemt med hans seksualitet. Senere hen har Ahmad taget sin seksualitet til sig, og arbejder i dag med at forbedre vilkårene for LGBT+ personer med minoritetetnisk baggrund.  Emma Vinkel har sat sig ned med Ahmad for at få hele hans historie.</itunes:summary>
+         <itunes:duration>802</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>MOD STRØMMEN &amp; DEN GODE ALLIEREDE</title>
+         <link>https://www.spreaker.com/user/radiolouddk/lets-get-proud-t3</link>
+         <description>Årets Laks er LGBT+ Danmarks hyldest- og anerkendelsespris, der hvert år uddeles til en person eller forening, der svømmer mod strømmen ved at skabe en mere inkluderende og retfærdig verden for LGBTQIA+ personer. Vi har talsperson og bestyrelsesmedlem Maria Emilie Kortenbach igennem fra årets vinderforening, LGBT Asylum. Foreningen arbejder for at støtte asylansøgere med LGBTQIA+ baggrund.&lt;br /&gt;&lt;br /&gt;At købe et regnbueflag for at støtte LGBTQIA+ foreningerne er en god hjælp. Men det er væsentligt at forstå, hvordan man er en god allieret for de rigtige mennesker bag forkortelserne. I anden del af timen faciliterer Mark Ludvig Henriksen (Ion) en samtale med Rei Mansa, Quim og Moeisha, om hvad solidaritet er og hvilke udfordringer der huserer internt blandt LGBTQIA+ personer. &lt;br /&gt;&lt;br /&gt;Værter; Elias Isak og Ion&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/40470393</guid>
+         <pubDate>Mon, 24 Aug 2020 14:47:28 +0000</pubDate>
+         <enclosure length="52016736" type="audio/mpeg" url="https://archive.org/download/lets_get_proud/LET%27S%20GET%20PROUD/2020.08.24%20-%20PRIDEN%20ANNO%202020.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Årets Laks er LGBT+ Danmarks hyldest- og anerkendelsespris, der hvert år uddeles til en person eller forening, der svømmer mod strømmen ved at skabe en mere inkluderende og retfærdig verden for LGBTQIA+ personer. Vi har talsperson og bestyrelsesmedlem...</itunes:subtitle>
+         <itunes:summary>Årets Laks er LGBT+ Danmarks hyldest- og anerkendelsespris, der hvert år uddeles til en person eller forening, der svømmer mod strømmen ved at skabe en mere inkluderende og retfærdig verden for LGBTQIA+ personer. Vi har talsperson og bestyrelsesmedlem Maria Emilie Kortenbach igennem fra årets vinderforening, LGBT Asylum. Foreningen arbejder for at støtte asylansøgere med LGBTQIA+ baggrund.&lt;br /&gt;&lt;br /&gt;At købe et regnbueflag for at støtte LGBTQIA+ foreningerne er en god hjælp. Men det er væsentligt at forstå, hvordan man er en god allieret for de rigtige mennesker bag forkortelserne. I anden del af timen faciliterer Mark Ludvig Henriksen (Ion) en samtale med Rei Mansa, Quim og Moeisha, om hvad solidaritet er og hvilke udfordringer der huserer internt blandt LGBTQIA+ personer. &lt;br /&gt;&lt;br /&gt;Værter; Elias Isak og Ion&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD</itunes:summary>
+         <itunes:duration>3247</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>INKLUSION?</title>
+         <link>https://www.spreaker.com/user/radiolouddk/lets-get-proud-t2</link>
+         <description>Hvad vil det sige at være aseksuel? Står Copenhagen Pride stadig for demonstration, mangfoldighed og inklusion? Eller det bare blevet en reklamesøjle for pinkwashing-glade virksomheder? Og skal vi stadig bruge konceptet, at springe ud? . Både Mette-Marie Nørlev, Oliver Anton og Rune Stevnsborg kommer forbi, og du er også inviteret.&lt;br /&gt;&lt;br /&gt;Vært: Kristian Hindø-lings&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/40470391</guid>
+         <pubDate>Mon, 24 Aug 2020 14:17:43 +0000</pubDate>
+         <enclosure length="52692576" type="audio/mpeg" url="https://archive.org/download/lets_get_proud/LET%27S%20GET%20PROUD/2020.08.24%20-%20MOD%20STR%C3%98MMEN%20%26%20DEN%20GODE%20ALLIEREDE.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hvad vil det sige at være aseksuel? Står Copenhagen Pride stadig for demonstration, mangfoldighed og inklusion? Eller det bare blevet en reklamesøjle for pinkwashing-glade virksomheder? Og skal vi stadig bruge konceptet, at springe ud? . Både...</itunes:subtitle>
+         <itunes:summary>Hvad vil det sige at være aseksuel? Står Copenhagen Pride stadig for demonstration, mangfoldighed og inklusion? Eller det bare blevet en reklamesøjle for pinkwashing-glade virksomheder? Og skal vi stadig bruge konceptet, at springe ud? . Både Mette-Marie Nørlev, Oliver Anton og Rune Stevnsborg kommer forbi, og du er også inviteret.&lt;br /&gt;&lt;br /&gt;Vært: Kristian Hindø-lings&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD</itunes:summary>
+         <itunes:duration>3290</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>PRIDEN ANNO 2020</title>
+         <link>https://www.spreaker.com/user/radiolouddk/lets-get-proud-t1</link>
+         <description>Dagens specialudsendelse i anledningen af Copenhagen Pride Week 2020 tuner ind på, hvilke problemstillinger LGBTQIA+ personer til stadighed står med anno 2020. Politisk Ansvarlig for LGBT+ Ungdom, Nicolaj Laue Juhl, er i studiet for at fortælle om de konkrete fokusområder som foreningen kæmper for at sætte fokus på - herunder særligt at gøre det danske skolesystem mere inkluderende og mangfoldigt. Bestyrelsesmedlem i foreningen Sabaah, der arbejder for at forbedre vilkårene for LGBTQ+ personer med minoritetsetnisk baggrund, tilslutter sig diskussionen med skarp kritik af myndighederne og begge giver gode råd til, hvordan man som ung LGBTQIA+ personer kan støtte sagen eller søge et fællesskab. Muligheden for at tilslutte sig lokale fællesskaber med ligesindende uddybes af projektleder fra LGBT+ Danmark, Andreas Beck Kronborg, der er medstifter af projektet AURA.&lt;br /&gt;&lt;br /&gt;Værter: Kristian Hindø-Lings og Elias Isak&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/40470390</guid>
+         <pubDate>Mon, 24 Aug 2020 14:10:16 +0000</pubDate>
+         <enclosure length="50897859" type="audio/mpeg" url="https://archive.org/download/lets_get_proud/LET%27S%20GET%20PROUD/2020.08.24%20-%20LET%27S%20GET%20PROUD%20MUSIKTIME.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Dagens specialudsendelse i anledningen af Copenhagen Pride Week 2020 tuner ind på, hvilke problemstillinger LGBTQIA+ personer til stadighed står med anno 2020. Politisk Ansvarlig for LGBT+ Ungdom, Nicolaj Laue Juhl, er i studiet for at fortælle om de...</itunes:subtitle>
+         <itunes:summary>Dagens specialudsendelse i anledningen af Copenhagen Pride Week 2020 tuner ind på, hvilke problemstillinger LGBTQIA+ personer til stadighed står med anno 2020. Politisk Ansvarlig for LGBT+ Ungdom, Nicolaj Laue Juhl, er i studiet for at fortælle om de konkrete fokusområder som foreningen kæmper for at sætte fokus på - herunder særligt at gøre det danske skolesystem mere inkluderende og mangfoldigt. Bestyrelsesmedlem i foreningen Sabaah, der arbejder for at forbedre vilkårene for LGBTQ+ personer med minoritetsetnisk baggrund, tilslutter sig diskussionen med skarp kritik af myndighederne og begge giver gode råd til, hvordan man som ung LGBTQIA+ personer kan støtte sagen eller søge et fællesskab. Muligheden for at tilslutte sig lokale fællesskaber med ligesindende uddybes af projektleder fra LGBT+ Danmark, Andreas Beck Kronborg, der er medstifter af projektet AURA.&lt;br /&gt;&lt;br /&gt;Værter: Kristian Hindø-Lings og Elias Isak&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD</itunes:summary>
+         <itunes:duration>3178</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>LET'S GET PROUD MUSIKTIME</title>
+         <link>https://www.spreaker.com/user/radiolouddk/lets-get-proud-musiktime</link>
+         <description>Musik i PRIDE'ns tegn</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/40470334</guid>
+         <pubDate>Mon, 24 Aug 2020 12:59:22 +0000</pubDate>
+         <enclosure length="50741543" type="audio/mpeg" url="https://archive.org/download/lets_get_proud/LET%27S%20GET%20PROUD/2020.08.24%20-%20INKLUSION.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Musik i PRIDE'ns tegn</itunes:subtitle>
+         <itunes:summary>Musik i PRIDE'ns tegn</itunes:summary>
+         <itunes:duration>3168</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>COPENHAGEN PRIDE SHOW 2020</title>
+         <link>https://www.spreaker.com/user/radiolouddk/lets-get-proud-showet-faerdig</link>
+         <description>Copenhagen Pride show 2020, hvor vi kommenterer på alt hvad der sker!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Værter; Elias Isak, Ion, Karli Kuff, Kacey Doll, Roxy Thyrune og Mathias Damborg&lt;br /&gt;&lt;br /&gt;Reporter; Olivia Nepperwinther&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/40470299</guid>
+         <pubDate>Mon, 24 Aug 2020 12:57:18 +0000</pubDate>
+         <enclosure length="214558555" type="audio/mpeg" url="https://archive.org/download/lets_get_proud/LET%27S%20GET%20PROUD/2020.08.24%20-%20COPENHAGEN%20PRIDE%20SHOW%202020.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Copenhagen Pride show 2020, hvor vi kommenterer på alt hvad der sker!
 
 
 Værter; Elias Isak, Ion, Karli Kuff, Kacey Doll, Roxy Thyrune og Mathias Damborg
 
 Reporter; Olivia Nepperwinther
 
-Produceret af Mathias Damborg/LOUD
-   </itunes:subtitle>
-   <itunes:summary>
-    Copenhagen Pride show 2020, hvor vi kommenterer på alt hvad der sker!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Værter; Elias Isak, Ion, Karli Kuff, Kacey Doll, Roxy Thyrune og Mathias Damborg&lt;br /&gt;&lt;br /&gt;Reporter; Olivia Nepperwinther&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD
-   </itunes:summary>
-   <itunes:duration>
-    13406
-   </itunes:duration>
-   <itunes:keywords>
-    drag,gayanthem,gayrights,lgbtqia+,musik,party,pride,trans
-   </itunes:keywords>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+Produceret af Mathias Damborg/LOUD</itunes:subtitle>
+         <itunes:summary>Copenhagen Pride show 2020, hvor vi kommenterer på alt hvad der sker!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Værter; Elias Isak, Ion, Karli Kuff, Kacey Doll, Roxy Thyrune og Mathias Damborg&lt;br /&gt;&lt;br /&gt;Reporter; Olivia Nepperwinther&lt;br /&gt;&lt;br /&gt;Produceret af Mathias Damborg/LOUD</itunes:summary>
+         <itunes:duration>13406</itunes:duration>
+         <itunes:keywords>drag,gayanthem,gayrights,lgbtqia+,musik,party,pride,trans</itunes:keywords>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecf75859b2f2eb4af0a2376163cd5c4d.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

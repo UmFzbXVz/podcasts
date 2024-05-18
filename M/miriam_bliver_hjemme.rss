@@ -1,390 +1,162 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Miriam Bliver Hjemme
-  </title>
-  <link>
-   https://loud.land/podcast/miriam-bliver-hjemme
-  </link>
-  <description>
-   Miriam besøger 10 udvalgte danske provinsbyer sammen med venner og bekendte, for hvem byerne er barndomsland. Sammen med dem giver hun en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor. Rejs rundt i Danmarks provinsbyer den kommende corona-sommer ledsaget af denne podcastserie og lad den bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad provinsbyerne har at byde på.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4950361/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   Copyright LOUD
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c4c79d4d8fc941b41402b7130a8415ac.jpg
-   </url>
-   <title>
-    Miriam Bliver Hjemme
-   </title>
-   <link>
-    https://loud.land/podcast/miriam-bliver-hjemme
-   </link>
-  </image>
-  <lastBuildDate>
-   Thu, 08 Feb 2024 09:10:38 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c4c79d4d8fc941b41402b7130a8415ac.jpg"/>
-  <itunes:subtitle>
-   Genopdag alt hvad provinsbyerne har at byde på.
-  </itunes:subtitle>
-  <itunes:summary>
-   Miriam besøger 10 udvalgte danske provinsbyer sammen med venner og bekendte, for hvem byerne er barndomsland. Sammen med dem giver hun en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor. Rejs rundt i Danmarks provinsbyer den kommende corona-sommer ledsaget af denne podcastserie og lad den bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad provinsbyerne har at byde på.
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Hjem Til Ebeltoft
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hjem-til-ebeltoft--45833227
-   </link>
-   <description>
-    Miriam vender hjem til Ebeltoft, hvor hun er vokset op. Sammen med lillebror Mikkel Leander Petersen går hun gennem de brostensbelagte gader i Ebeltoft og giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Ebeltoft i denne sidste episode og lad Miriam og Mikkel bidrage til oplevelsen med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Ebeltoft har at byde på.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45833227
-   </guid>
-   <pubDate>
-    Mon, 26 Jul 2021 06:00:16 +0000
-   </pubDate>
-   <enclosure length="35328880" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45833227/spreaker_episode_8_ebelt.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Miriam vender hjem til Ebeltoft, hvor hun er vokset op. Sammen med lillebror Mikkel Leander Petersen går hun gennem de brostensbelagte gader i Ebeltoft og giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor....
-   </itunes:subtitle>
-   <itunes:summary>
-    Miriam vender hjem til Ebeltoft, hvor hun er vokset op. Sammen med lillebror Mikkel Leander Petersen går hun gennem de brostensbelagte gader i Ebeltoft og giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Ebeltoft i denne sidste episode og lad Miriam og Mikkel bidrage til oplevelsen med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Ebeltoft har at byde på.
-   </itunes:summary>
-   <itunes:duration>
-    2204
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ed86a0207dc644bdeda3b36ae4cf5d.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Klitmøller
-   </title>
-   <link>
-    https://www.spreaker.com/episode/klitmoller--45745541
-   </link>
-   <description>
-    Miriam besøger Laura Feldballe Vester, der har bosat sig i Klitmøller.  De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Vesterhavet og lad Miriam og Laura bidrage til oplevelsen med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Klitmøller har at byde på.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45745541
-   </guid>
-   <pubDate>
-    Mon, 19 Jul 2021 06:00:14 +0000
-   </pubDate>
-   <enclosure length="47739342" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45745541/klitm_ller_epsiode_7_spreaker.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Miriam besøger Laura Feldballe Vester, der har bosat sig i Klitmøller.  De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Vesterhavet og lad Miriam og Laura bidrage til oplevelsen med...
-   </itunes:subtitle>
-   <itunes:summary>
-    Miriam besøger Laura Feldballe Vester, der har bosat sig i Klitmøller.  De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Vesterhavet og lad Miriam og Laura bidrage til oplevelsen med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Klitmøller har at byde på.
-   </itunes:summary>
-   <itunes:duration>
-    2980
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/263d3810090295f53efffa6cec631ee9.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Ribe
-   </title>
-   <link>
-    https://www.spreaker.com/episode/ribe--45656063
-   </link>
-   <description>
-    Miriam besøger Ribe sammen med Karen Hjerrild Larsen, som er vokset op lidt uden for byen. De giver en alternativ fortælling om Ribe, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Ribe og lad Miriam og Karen bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Ribe har at byde på.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45656063
-   </guid>
-   <pubDate>
-    Mon, 12 Jul 2021 06:00:17 +0000
-   </pubDate>
-   <enclosure length="42311724" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45656063/episode_6_ribe.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Miriam besøger Ribe sammen med Karen Hjerrild Larsen, som er vokset op lidt uden for byen. De giver en alternativ fortælling om Ribe, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Ribe og lad Miriam og Karen bidrage til...
-   </itunes:subtitle>
-   <itunes:summary>
-    Miriam besøger Ribe sammen med Karen Hjerrild Larsen, som er vokset op lidt uden for byen. De giver en alternativ fortælling om Ribe, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Ribe og lad Miriam og Karen bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Ribe har at byde på.
-   </itunes:summary>
-   <itunes:duration>
-    2641
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e526a1499caa4e155015871c65fb95f3.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Sønderborg
-   </title>
-   <link>
-    https://www.spreaker.com/episode/sonderborg--45576107
-   </link>
-   <description>
-    Miriam besøger Sønderborg sammen med Sidse Lyngby, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Sønderborg og lad Miriam og Sidse bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Sønderborg har at byde på.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45576107
-   </guid>
-   <pubDate>
-    Mon, 05 Jul 2021 06:48:16 +0000
-   </pubDate>
-   <enclosure length="52866447" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45576107/s_nderborg_spreaker.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Miriam besøger Sønderborg sammen med Sidse Lyngby, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Sønderborg og lad Miriam og Sidse bidrage til oplevelsen...
-   </itunes:subtitle>
-   <itunes:summary>
-    Miriam besøger Sønderborg sammen med Sidse Lyngby, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Sønderborg og lad Miriam og Sidse bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Sønderborg har at byde på.
-   </itunes:summary>
-   <itunes:duration>
-    3301
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/de294a7f3ebab7597b11567b7576e5d2.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Haderslev
-   </title>
-   <link>
-    https://www.spreaker.com/episode/haderslev--45471283
-   </link>
-   <description>
-    Miriam besøger Haderslev sammen med Thea Jensen Hejsel, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Haderslev og lad Miriam og Thea bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Haderslev har at byde på.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45471283
-   </guid>
-   <pubDate>
-    Mon, 28 Jun 2021 06:00:05 +0000
-   </pubDate>
-   <enclosure length="40489840" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45471283/haderslev_episode4.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Miriam besøger Haderslev sammen med Thea Jensen Hejsel, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Haderslev og lad Miriam og Thea bidrage til...
-   </itunes:subtitle>
-   <itunes:summary>
-    Miriam besøger Haderslev sammen med Thea Jensen Hejsel, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Haderslev og lad Miriam og Thea bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Haderslev har at byde på.
-   </itunes:summary>
-   <itunes:duration>
-    2527
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/764ac6c7509aee20e4802fbbe4151a9c.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Svendborg
-   </title>
-   <link>
-    https://www.spreaker.com/episode/svendborg--45232414
-   </link>
-   <description>
-    Miriam besøger Svendborg sammen med Laura Najbjerg Hansen og Yannik Bøgebjerg Hansen, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Svendborg og lad Miriam, Laura og Yannik bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Svendborg har at byde på.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45232414
-   </guid>
-   <pubDate>
-    Mon, 21 Jun 2021 06:00:13 +0000
-   </pubDate>
-   <enclosure length="46135633" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45232414/svendborg.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Miriam besøger Svendborg sammen med Laura Najbjerg Hansen og Yannik Bøgebjerg Hansen, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Svendborg og lad...
-   </itunes:subtitle>
-   <itunes:summary>
-    Miriam besøger Svendborg sammen med Laura Najbjerg Hansen og Yannik Bøgebjerg Hansen, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Svendborg og lad Miriam, Laura og Yannik bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Svendborg har at byde på.
-   </itunes:summary>
-   <itunes:duration>
-    2880
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ccfb91a86b7186536edd00ddac8da41b.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Roskilde
-   </title>
-   <link>
-    https://www.spreaker.com/episode/roskilde--45212235
-   </link>
-   <description>
-    Miriam besøger Roskilde sammen med Julius Nicolaisen, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Roskilde og lad Miriam og Julius bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Roskilde har at byde på.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45212235
-   </guid>
-   <pubDate>
-    Mon, 14 Jun 2021 06:00:15 +0000
-   </pubDate>
-   <enclosure length="52866029" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45212235/roskilde.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Miriam besøger Roskilde sammen med Julius Nicolaisen, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Roskilde og lad Miriam og Julius bidrage til...
-   </itunes:subtitle>
-   <itunes:summary>
-    Miriam besøger Roskilde sammen med Julius Nicolaisen, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Roskilde og lad Miriam og Julius bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Roskilde har at byde på.
-   </itunes:summary>
-   <itunes:duration>
-    3301
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f9c9a2bc58fbe41e5803cdb9a2ad334e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Sorø
-   </title>
-   <link>
-    https://www.spreaker.com/episode/soro--45185185
-   </link>
-   <description>
-    Miriam besøger Sorø sammen med Mathias Stilling, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Sorø og lad Miriam og Mathias bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Sorø har at byde på.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45185185
-   </guid>
-   <pubDate>
-    Mon, 07 Jun 2021 06:00:08 +0000
-   </pubDate>
-   <enclosure length="59697154" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45185185/sor_f_rdigklip_spreaker.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Miriam besøger Sorø sammen med Mathias Stilling, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Sorø og lad Miriam og Mathias bidrage til oplevelsen med...
-   </itunes:subtitle>
-   <itunes:summary>
-    Miriam besøger Sorø sammen med Mathias Stilling, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Sorø og lad Miriam og Mathias bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Sorø har at byde på.
-   </itunes:summary>
-   <itunes:duration>
-    3727
-   </itunes:duration>
-   <itunes:keywords>
-    barndomsland.,coronasommer,danmark,historie,kultur,provinsbyer,sommer,turist
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e14c99f07d5babdb89c44089c782bd59.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Teaser: Miriam bliver hjemme
-   </title>
-   <link>
-    https://www.spreaker.com/episode/teaser-miriam-bliver-hjemme--45107119
-   </link>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45107119
-   </guid>
-   <pubDate>
-    Mon, 31 May 2021 11:32:28 +0000
-   </pubDate>
-   <enclosure length="3066610" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/45107119/teaser_miriam_bliver_hjemme.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:duration>
-    188
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c4c79d4d8fc941b41402b7130a8415ac.jpg"/>
-   <itunes:episodeType>
-    trailer
-   </itunes:episodeType>
-  </item>
- </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Miriam Bliver Hjemme</title>
+      <link>https://loud.land/podcast/miriam-bliver-hjemme</link>
+      <description>Miriam besøger 10 udvalgte danske provinsbyer sammen med venner og bekendte, for hvem byerne er barndomsland. Sammen med dem giver hun en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor. Rejs rundt i Danmarks provinsbyer den kommende corona-sommer ledsaget af denne podcastserie og lad den bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad provinsbyerne har at byde på.</description>
+      <atom:link href="https://www.spreaker.com/show/4950361/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>Copyright LOUD</copyright>
+      <image>
+         <url>https://archive.org/download/miriam_bliver_hjemme/Miriam%20Bliver%20Hjemme/c4c79d4d8fc941b41402b7130a8415ac.jpg</url>
+         <title>Miriam Bliver Hjemme</title>
+         <link>https://loud.land/podcast/miriam-bliver-hjemme</link>
+      </image>
+      <lastBuildDate>Thu, 08 Feb 2024 09:10:38 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c4c79d4d8fc941b41402b7130a8415ac.jpg" />
+      <itunes:subtitle>Genopdag alt hvad provinsbyerne har at byde på.</itunes:subtitle>
+      <itunes:summary>Miriam besøger 10 udvalgte danske provinsbyer sammen med venner og bekendte, for hvem byerne er barndomsland. Sammen med dem giver hun en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor. Rejs rundt i Danmarks provinsbyer den kommende corona-sommer ledsaget af denne podcastserie og lad den bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad provinsbyerne har at byde på.</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Hjem Til Ebeltoft</title>
+         <link>https://www.spreaker.com/episode/hjem-til-ebeltoft--45833227</link>
+         <description>Miriam vender hjem til Ebeltoft, hvor hun er vokset op. Sammen med lillebror Mikkel Leander Petersen går hun gennem de brostensbelagte gader i Ebeltoft og giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Ebeltoft i denne sidste episode og lad Miriam og Mikkel bidrage til oplevelsen med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Ebeltoft har at byde på.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45833227</guid>
+         <pubDate>Mon, 26 Jul 2021 06:00:16 +0000</pubDate>
+         <enclosure length="35328880" type="audio/mpeg" url="https://archive.org/download/miriam_bliver_hjemme/Miriam%20Bliver%20Hjemme/2021.07.26%20-%20Hjem%20Til%20Ebeltoft.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Miriam vender hjem til Ebeltoft, hvor hun er vokset op. Sammen med lillebror Mikkel Leander Petersen går hun gennem de brostensbelagte gader i Ebeltoft og giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor....</itunes:subtitle>
+         <itunes:summary>Miriam vender hjem til Ebeltoft, hvor hun er vokset op. Sammen med lillebror Mikkel Leander Petersen går hun gennem de brostensbelagte gader i Ebeltoft og giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Ebeltoft i denne sidste episode og lad Miriam og Mikkel bidrage til oplevelsen med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Ebeltoft har at byde på.</itunes:summary>
+         <itunes:duration>2204</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00ed86a0207dc644bdeda3b36ae4cf5d.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Klitmøller</title>
+         <link>https://www.spreaker.com/episode/klitmoller--45745541</link>
+         <description>Miriam besøger Laura Feldballe Vester, der har bosat sig i Klitmøller.  De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Vesterhavet og lad Miriam og Laura bidrage til oplevelsen med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Klitmøller har at byde på.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45745541</guid>
+         <pubDate>Mon, 19 Jul 2021 06:00:14 +0000</pubDate>
+         <enclosure length="47739342" type="audio/mpeg" url="https://archive.org/download/miriam_bliver_hjemme/Miriam%20Bliver%20Hjemme/2021.07.19%20-%20Klitm%C3%B8ller.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Miriam besøger Laura Feldballe Vester, der har bosat sig i Klitmøller.  De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Vesterhavet og lad Miriam og Laura bidrage til oplevelsen med...</itunes:subtitle>
+         <itunes:summary>Miriam besøger Laura Feldballe Vester, der har bosat sig i Klitmøller.  De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Vesterhavet og lad Miriam og Laura bidrage til oplevelsen med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Klitmøller har at byde på.</itunes:summary>
+         <itunes:duration>2980</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/263d3810090295f53efffa6cec631ee9.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Ribe</title>
+         <link>https://www.spreaker.com/episode/ribe--45656063</link>
+         <description>Miriam besøger Ribe sammen med Karen Hjerrild Larsen, som er vokset op lidt uden for byen. De giver en alternativ fortælling om Ribe, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Ribe og lad Miriam og Karen bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Ribe har at byde på.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45656063</guid>
+         <pubDate>Mon, 12 Jul 2021 06:00:17 +0000</pubDate>
+         <enclosure length="42311724" type="audio/mpeg" url="https://archive.org/download/miriam_bliver_hjemme/Miriam%20Bliver%20Hjemme/2021.07.12%20-%20Ribe.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Miriam besøger Ribe sammen med Karen Hjerrild Larsen, som er vokset op lidt uden for byen. De giver en alternativ fortælling om Ribe, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Ribe og lad Miriam og Karen bidrage til...</itunes:subtitle>
+         <itunes:summary>Miriam besøger Ribe sammen med Karen Hjerrild Larsen, som er vokset op lidt uden for byen. De giver en alternativ fortælling om Ribe, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Ribe og lad Miriam og Karen bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Ribe har at byde på.</itunes:summary>
+         <itunes:duration>2641</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e526a1499caa4e155015871c65fb95f3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Sønderborg</title>
+         <link>https://www.spreaker.com/episode/sonderborg--45576107</link>
+         <description>Miriam besøger Sønderborg sammen med Sidse Lyngby, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Sønderborg og lad Miriam og Sidse bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Sønderborg har at byde på.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45576107</guid>
+         <pubDate>Mon, 05 Jul 2021 06:48:16 +0000</pubDate>
+         <enclosure length="52866447" type="audio/mpeg" url="https://archive.org/download/miriam_bliver_hjemme/Miriam%20Bliver%20Hjemme/2021.07.05%20-%20S%C3%B8nderborg.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Miriam besøger Sønderborg sammen med Sidse Lyngby, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Sønderborg og lad Miriam og Sidse bidrage til oplevelsen...</itunes:subtitle>
+         <itunes:summary>Miriam besøger Sønderborg sammen med Sidse Lyngby, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Sønderborg og lad Miriam og Sidse bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Sønderborg har at byde på.</itunes:summary>
+         <itunes:duration>3301</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/de294a7f3ebab7597b11567b7576e5d2.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Haderslev</title>
+         <link>https://www.spreaker.com/episode/haderslev--45471283</link>
+         <description>Miriam besøger Haderslev sammen med Thea Jensen Hejsel, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Haderslev og lad Miriam og Thea bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Haderslev har at byde på.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45471283</guid>
+         <pubDate>Mon, 28 Jun 2021 06:00:05 +0000</pubDate>
+         <enclosure length="40489840" type="audio/mpeg" url="https://archive.org/download/miriam_bliver_hjemme/Miriam%20Bliver%20Hjemme/2021.06.28%20-%20Haderslev.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Miriam besøger Haderslev sammen med Thea Jensen Hejsel, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Haderslev og lad Miriam og Thea bidrage til...</itunes:subtitle>
+         <itunes:summary>Miriam besøger Haderslev sammen med Thea Jensen Hejsel, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Haderslev og lad Miriam og Thea bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Haderslev har at byde på.</itunes:summary>
+         <itunes:duration>2527</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/764ac6c7509aee20e4802fbbe4151a9c.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Svendborg</title>
+         <link>https://www.spreaker.com/episode/svendborg--45232414</link>
+         <description>Miriam besøger Svendborg sammen med Laura Najbjerg Hansen og Yannik Bøgebjerg Hansen, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Svendborg og lad Miriam, Laura og Yannik bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Svendborg har at byde på.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45232414</guid>
+         <pubDate>Mon, 21 Jun 2021 06:00:13 +0000</pubDate>
+         <enclosure length="46135633" type="audio/mpeg" url="https://archive.org/download/miriam_bliver_hjemme/Miriam%20Bliver%20Hjemme/2021.06.21%20-%20Svendborg.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Miriam besøger Svendborg sammen med Laura Najbjerg Hansen og Yannik Bøgebjerg Hansen, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Svendborg og lad...</itunes:subtitle>
+         <itunes:summary>Miriam besøger Svendborg sammen med Laura Najbjerg Hansen og Yannik Bøgebjerg Hansen, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Svendborg og lad Miriam, Laura og Yannik bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Svendborg har at byde på.</itunes:summary>
+         <itunes:duration>2880</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ccfb91a86b7186536edd00ddac8da41b.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Roskilde</title>
+         <link>https://www.spreaker.com/episode/roskilde--45212235</link>
+         <description>Miriam besøger Roskilde sammen med Julius Nicolaisen, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Roskilde og lad Miriam og Julius bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Roskilde har at byde på.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45212235</guid>
+         <pubDate>Mon, 14 Jun 2021 06:00:15 +0000</pubDate>
+         <enclosure length="52866029" type="audio/mpeg" url="https://archive.org/download/miriam_bliver_hjemme/Miriam%20Bliver%20Hjemme/2021.06.14%20-%20Roskilde.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Miriam besøger Roskilde sammen med Julius Nicolaisen, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Roskilde og lad Miriam og Julius bidrage til...</itunes:subtitle>
+         <itunes:summary>Miriam besøger Roskilde sammen med Julius Nicolaisen, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Roskilde og lad Miriam og Julius bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Roskilde har at byde på.</itunes:summary>
+         <itunes:duration>3301</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f9c9a2bc58fbe41e5803cdb9a2ad334e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Sorø</title>
+         <link>https://www.spreaker.com/episode/soro--45185185</link>
+         <description>Miriam besøger Sorø sammen med Mathias Stilling, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Sorø og lad Miriam og Mathias bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Sorø har at byde på.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45185185</guid>
+         <pubDate>Mon, 07 Jun 2021 06:00:08 +0000</pubDate>
+         <enclosure length="59697154" type="audio/mpeg" url="https://archive.org/download/miriam_bliver_hjemme/Miriam%20Bliver%20Hjemme/2021.06.07%20-%20Sor%C3%B8.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Miriam besøger Sorø sammen med Mathias Stilling, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Sorø og lad Miriam og Mathias bidrage til oplevelsen med...</itunes:subtitle>
+         <itunes:summary>Miriam besøger Sorø sammen med Mathias Stilling, for hvem byen er barndomsland. De giver en alternativ fortælling om byen, som du ikke vil kunne finde på det lokale turistkontor.  Rejs med til Sorø og lad Miriam og Mathias bidrage til oplevelsen med historisk og kulturel viden kombineret med finurlige personlige anekdoter og uundværlige anbefalinger. Genopdag alt hvad en provinsby som Sorø har at byde på.</itunes:summary>
+         <itunes:duration>3727</itunes:duration>
+         <itunes:keywords>barndomsland.,coronasommer,danmark,historie,kultur,provinsbyer,sommer,turist</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e14c99f07d5babdb89c44089c782bd59.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Teaser: Miriam bliver hjemme</title>
+         <link>https://www.spreaker.com/episode/teaser-miriam-bliver-hjemme--45107119</link>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45107119</guid>
+         <pubDate>Mon, 31 May 2021 11:32:28 +0000</pubDate>
+         <enclosure length="3066610" type="audio/mpeg" url="https://archive.org/download/miriam_bliver_hjemme/Miriam%20Bliver%20Hjemme/2021.05.31%20-%20Teaser.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:duration>188</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c4c79d4d8fc941b41402b7130a8415ac.jpg" />
+         <itunes:episodeType>trailer</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

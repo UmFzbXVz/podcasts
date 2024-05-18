@@ -1,25 +1,25 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Liget i cellen</title>
-		<link>https://web.24syv.dk/channels/4303</link>
-		<description>En ung mand bliver fundet nøgen og livløs i en fængselscelle tidligt om morgenen den 25. januar 2016. I dagene inden lå han spændt fast til en briks med læderremme næsten uafbrudt i ni døgn. Shaarmarke hed han, en ung somalisk mand, der endte sit liv i et dansk fængsel, kun 23 år gammel. En sag, som myndighederne har holdt skjult i over to år. Vi rekonstruerer Shaarmarkes sidste dage og undersøger, hvorfor og hvordan han døde. Om myndighederne begik alvorlige fejl. Og om bæltefikseringen kan være skyld i hans død. I 24syv Morgen følger vi op på sagen.
+   <channel>
+      <title>Liget i cellen</title>
+      <link>https://web.24syv.dk/channels/4303</link>
+      <description>En ung mand bliver fundet nøgen og livløs i en fængselscelle tidligt om morgenen den 25. januar 2016. I dagene inden lå han spændt fast til en briks med læderremme næsten uafbrudt i ni døgn. Shaarmarke hed han, en ung somalisk mand, der endte sit liv i et dansk fængsel, kun 23 år gammel. En sag, som myndighederne har holdt skjult i over to år. Vi rekonstruerer Shaarmarkes sidste dage og undersøger, hvorfor og hvordan han døde. Om myndighederne begik alvorlige fejl. Og om bæltefikseringen kan være skyld i hans død. I 24syv Morgen følger vi op på sagen.
 
 Tilrettelæggelse: Cecilie Patscheider og Jeppe Findalen
 
 Klip og mix: Kim G Hansen
 
 Dokumentarredaktør: Mikkel Clausen</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/517/Liget_i_cellen.png"/>
-		<item>
-			<title>Shaarmarkes sidste dage</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107545/37004561-audio.mp3</link>
-			<description>En ung mand bliver fundet nøgen og livløs i en fængselscelle tidligt om morgenen den 25. januar 2016. I dagene inden lå han spændt fast til en briks med læderremme næsten uafbrudt i ni døgn. Shaarmarke hed han, en ung somalisk mand, der endte sit liv i et dansk fængsel, kun 23 år gammel. En sag, som myndighederne har holdt skjult i over to år. Vi rekonstruerer Shaarmarkes sidste dage og undersøger, hvorfor og hvordan han døde. Om myndighederne begik alvorlige fejl. Og om bæltefikseringen kan være skyld i hans død. I 24syv Morgen følger vi op på sagen.Tilrettelæggelse: Cecilie Patscheider og Jeppe FindalenKlip og mix: Kim G HansenDokumentarredaktør: Mikkel Clausen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107545/37004561-audio.mp3</guid>
-			<pubDate>Wed, 31 Oct 2018 06:00:00 +0000</pubDate>
-			<itunes:duration>00:40:49</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/107545/37004561-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/liget_i_cellen/Liget%20i%20cellen/Liget_i_cellen.png" />
+      <item>
+         <title>Shaarmarkes sidste dage</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/107545/37004561-audio.mp3</link>
+         <description>En ung mand bliver fundet nøgen og livløs i en fængselscelle tidligt om morgenen den 25. januar 2016. I dagene inden lå han spændt fast til en briks med læderremme næsten uafbrudt i ni døgn. Shaarmarke hed han, en ung somalisk mand, der endte sit liv i et dansk fængsel, kun 23 år gammel. En sag, som myndighederne har holdt skjult i over to år. Vi rekonstruerer Shaarmarkes sidste dage og undersøger, hvorfor og hvordan han døde. Om myndighederne begik alvorlige fejl. Og om bæltefikseringen kan være skyld i hans død. I 24syv Morgen følger vi op på sagen.Tilrettelæggelse: Cecilie Patscheider og Jeppe FindalenKlip og mix: Kim G HansenDokumentarredaktør: Mikkel Clausen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/107545/37004561-audio.mp3</guid>
+         <pubDate>Wed, 31 Oct 2018 06:00:00 +0000</pubDate>
+         <itunes:duration>00:40:49</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/liget_i_cellen/Liget%20i%20cellen/2018.10.31%20-%20Shaarmarkes%20sidste%20dage.mp3" />
+      </item>
+   </channel>
 </rss>

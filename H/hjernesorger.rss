@@ -1,782 +1,324 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Hjernesorger
-  </title>
-  <link>
-   http://24syv.dk/podcast/hjernesorger
-  </link>
-  <description>
-   Over 500.000 danskere lider af migræne. En sygdom der, foruden en altoverskyggende hovedpine, også betyder grå dage med FOMO, svære tanker, uvished og mindre identitetskriser. Så hvordan passer man bedst på sig selv, og finder mening i det svære, når migrænen er en følgesvend? Det undersøger dine værter, migræneramte Anna Løfqvist og nysgerrige Mathilde Thuesen. I selskab med forskellige gæster stiller de dine svære spørgsmål, og bringer viden i øjenhøjde til dig med migræne og dig som pårørende, i håb om at du føler dig lidt mindre alene.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5466547/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Alternative Health
-  </category>
-  <copyright>
-   Copyright 24syv
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg
-   </url>
-   <title>
-    Hjernesorger
-   </title>
-   <link>
-    http://24syv.dk/podcast/hjernesorger
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   24syv
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    24syv
-   </itunes:name>
-   <itunes:email>
-    24syv-podcast@persgroep.net
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-  <itunes:subtitle>
-   Hjernesorger bringer viden, liv og håb ind i samtalen om et liv med migræne.
-  </itunes:subtitle>
-  <itunes:summary>
-   Over 500.000 danskere lider af migræne. En sygdom der, foruden en altoverskyggende hovedpine, også betyder grå dage med FOMO, svære tanker, uvished og mindre identitetskriser. Så hvordan passer man bedst på sig selv, og finder mening i det svære, når migrænen er en følgesvend? Det undersøger dine værter, migræneramte Anna Løfqvist og nysgerrige Mathilde Thuesen. I selskab med forskellige gæster stiller de dine svære spørgsmål, og bringer viden i øjenhøjde til dig med migræne og dig som pårørende, i håb om at du føler dig lidt mindre alene.
-  </itunes:summary>
-  <itunes:category text="Health &amp; Fitness">
-   <itunes:category text="Alternative Health"/>
-  </itunes:category>
-  <itunes:category text="Health &amp; Fitness">
-   <itunes:category text="Medicine"/>
-  </itunes:category>
-  <itunes:category text="Health &amp; Fitness">
-   <itunes:category text="Mental Health"/>
-  </itunes:category>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Live fra Hjernesorgers Lytterevent med Bodil Jørgensen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/live-fra-hjernesorgers-lytterevent-med-bodil-jorgensen--52549119
-   </link>
-   <description>
-    Sæsonafslutningen blev optaget live i december til Hjernesorgers lytterevent i København. Her diskuterer og besvarer skuespiller Bodil Jørgensen og Anna sammen lytternes migrænedilemmaer. &lt;br /&gt;De kommer både omkring temaer som familieliv, overkompensering, ensomhed, skamfulde følelser og behovet for at vise omverdenen, at man er meget andet end sin migræne.&lt;br /&gt;Tak til alle der mødte op, og tak til alle som har lyttet med.&lt;br /&gt;&lt;br /&gt;Husk at du fortsat kan deltage i samtalen om migræne inde på vores Instamprofil @hjernesorger_.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/52549119
-   </guid>
-   <pubDate>
-    Mon, 30 Jan 2023 05:00:02 +0000
-   </pubDate>
-   <enclosure length="129736320" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/52549119/episode_8_s_son_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Sæsonafslutningen blev optaget live i december til Hjernesorgers lytterevent i København. Her diskuterer og besvarer skuespiller Bodil Jørgensen og Anna sammen lytternes migrænedilemmaer. 
-De kommer både omkring temaer som familieliv,...
-   </itunes:subtitle>
-   <itunes:summary>
-    Sæsonafslutningen blev optaget live i december til Hjernesorgers lytterevent i København. Her diskuterer og besvarer skuespiller Bodil Jørgensen og Anna sammen lytternes migrænedilemmaer. &lt;br /&gt;De kommer både omkring temaer som familieliv, overkompensering, ensomhed, skamfulde følelser og behovet for at vise omverdenen, at man er meget andet end sin migræne.&lt;br /&gt;Tak til alle der mødte op, og tak til alle som har lyttet med.&lt;br /&gt;&lt;br /&gt;Husk at du fortsat kan deltage i samtalen om migræne inde på vores Instamprofil @hjernesorger_.
-   </itunes:summary>
-   <itunes:duration>
-    3244
-   </itunes:duration>
-   <itunes:keywords>
-    bodiljørgensen,dilemma,energi,energiforvaltning,ensomhed,familieliv,hovedpine,kroniker,kronisksyg,mentalthelbred,migræne,migrænedilemma,migrænespørgsmål,overkompensering,skam,smertehåndtering,smerter,spændingshovedpine,syg,sygdom
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:season>
-    2
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Mette-Maries historie: Kan man være på verdensholdet med hovedpine?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/mette-maries-historie-kan-man-vaere-pa-verdensholdet-med-hovedpine--52444696
-   </link>
-   <description>
-    21-årige Mette-Marie fik diagnosen New Daily Persistent Headache tilbage i foråret 2020, efter hun i en fysiktime tidligere samme år fik et hovedpineanfald, der aldrig stoppede. Der fulgte et langt og opslidende udredningsforløb, og hun følte i tiden efter, at sygdommen både havde taget hendes identitet og drømme.&lt;br /&gt;Hør Mette-Maries perspektiv på, hvordan hun dagligt forhandler med smerterne, om hendes store ambitioner, og om hvordan hun stadig befinder sig i en proces i at lande solidt på benene.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/52444696
-   </guid>
-   <pubDate>
-    Mon, 23 Jan 2023 05:00:01 +0000
-   </pubDate>
-   <enclosure length="51731688" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/52444696/episode_7_s_son_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    21-årige Mette-Marie fik diagnosen New Daily Persistent Headache tilbage i foråret 2020, efter hun i en fysiktime tidligere samme år fik et hovedpineanfald, der aldrig stoppede. Der fulgte et langt og opslidende udredningsforløb, og hun følte i tiden...
-   </itunes:subtitle>
-   <itunes:summary>
-    21-årige Mette-Marie fik diagnosen New Daily Persistent Headache tilbage i foråret 2020, efter hun i en fysiktime tidligere samme år fik et hovedpineanfald, der aldrig stoppede. Der fulgte et langt og opslidende udredningsforløb, og hun følte i tiden efter, at sygdommen både havde taget hendes identitet og drømme.&lt;br /&gt;Hør Mette-Maries perspektiv på, hvordan hun dagligt forhandler med smerterne, om hendes store ambitioner, og om hvordan hun stadig befinder sig i en proces i at lande solidt på benene.
-   </itunes:summary>
-   <itunes:duration>
-    3230
-   </itunes:duration>
-   <itunes:keywords>
-    acceptfase,danskhovedpinecenter,gymnastik,hovedpine,identitet,kroniker,kronisksyg,mentalthelbred,migræne,ndph,neurolog,newdailypersistentheadache,smerte,studerende,syg,sygdom,trodsadfærd,verdensholdet
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:season>
-    2
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Leas historie: Om at finde ro i moderskabet som migræneramt
-   </title>
-   <link>
-    https://www.spreaker.com/episode/leas-historie-om-at-finde-ro-i-moderskabet-som-migraeneramt--52362476
-   </link>
-   <description>
-    41-årige Lea har over de seneste ti år oplevet en gradvis forværring i sin migræne, der i dag er defineret som kronisk med mere end 20 migrænedage om måneden. Lea sætter ord på, hvordan hun jonglerer en tilværelse som mor til to samtidig med at have migræne og passe sit arbejde som psykolog. Lea fortæller om, hvordan hun aktivt bruger afledning og åndehuller som copingstrategier - både til at håndtere de enkelte anfald og til at deale med migrænens rolle i sin hverdag og familieliv.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/52362476
-   </guid>
-   <pubDate>
-    Mon, 16 Jan 2023 05:00:02 +0000
-   </pubDate>
-   <enclosure length="52022170" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/52362476/episode_6_s_son_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    41-årige Lea har over de seneste ti år oplevet en gradvis forværring i sin migræne, der i dag er defineret som kronisk med mere end 20 migrænedage om måneden. Lea sætter ord på, hvordan hun jonglerer en tilværelse som mor til to samtidig med at have...
-   </itunes:subtitle>
-   <itunes:summary>
-    41-årige Lea har over de seneste ti år oplevet en gradvis forværring i sin migræne, der i dag er defineret som kronisk med mere end 20 migrænedage om måneden. Lea sætter ord på, hvordan hun jonglerer en tilværelse som mor til to samtidig med at have migræne og passe sit arbejde som psykolog. Lea fortæller om, hvordan hun aktivt bruger afledning og åndehuller som copingstrategier - både til at håndtere de enkelte anfald og til at deale med migrænens rolle i sin hverdag og familieliv.
-   </itunes:summary>
-   <itunes:duration>
-    3248
-   </itunes:duration>
-   <itunes:keywords>
-    åndehuller,børnefamilie,copingstrategier,hovedpine,hverdag,kæreste,kroniker,kronisksyg,migræne,moderskab,mor,parforhold,pårørende,psykolog,småbørn,smerter,spændingshovedpine,strategier,syg,sygdom
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:season>
-    2
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Linds historie: Om at bane sin egen vej på arbejdsmarkedet med kroniske smerter
-   </title>
-   <link>
-    https://www.spreaker.com/episode/linds-historie-om-at-bane-sin-egen-vej-pa-arbejdsmarkedet-med-kroniske-smerter--52196783
-   </link>
-   <description>
-    Hvordan går titlen som nyuddannet og kronisk spændingshovedpine hånd i hånd? Det spørgsmål rumsterede hos 25-årige Lind, da hun for halvandet år siden skulle påbegynde arbejdslivet som fysioterapeut. Gennem sine teenageår har hun altid skjult sine smerter for omverdenen i frygt for, hvad andre ville tænke. Men på studiet oplevede hun med stor succes at være åben omkring sin hovedpine. Hør Lind sætte ord på, hvordan hun tog den erfaring med sig til sin jobsamtale, om hvordan hun ikke lader hovedpinen begrænse sig og ikke mindst, hvordan hun står stærkt i sig selv på trods af sine smerter.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/52196783
-   </guid>
-   <pubDate>
-    Mon, 09 Jan 2023 05:00:01 +0000
-   </pubDate>
-   <enclosure length="51939832" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/52196783/episode_5_s_son_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Hvordan går titlen som nyuddannet og kronisk spændingshovedpine hånd i hånd? Det spørgsmål rumsterede hos 25-årige Lind, da hun for halvandet år siden skulle påbegynde arbejdslivet som fysioterapeut. Gennem sine teenageår har hun altid skjult sine...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvordan går titlen som nyuddannet og kronisk spændingshovedpine hånd i hånd? Det spørgsmål rumsterede hos 25-årige Lind, da hun for halvandet år siden skulle påbegynde arbejdslivet som fysioterapeut. Gennem sine teenageår har hun altid skjult sine smerter for omverdenen i frygt for, hvad andre ville tænke. Men på studiet oplevede hun med stor succes at være åben omkring sin hovedpine. Hør Lind sætte ord på, hvordan hun tog den erfaring med sig til sin jobsamtale, om hvordan hun ikke lader hovedpinen begrænse sig og ikke mindst, hvordan hun står stærkt i sig selv på trods af sine smerter.
-   </itunes:summary>
-   <itunes:duration>
-    3243
-   </itunes:duration>
-   <itunes:keywords>
-    anfald,energi,fysioterapeut,fysioterapi,helbred,hovedpine,identitet,jobsamtale,kroniker,kronisksyg,mentalt,migræne,nyuddannet,smerter,spændingshovedpine,studie,studieliv,syg,sygdom,usynlig
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:season>
-    2
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Simones historie: Om en sen diagnose, CBD-olie og glæden ved deltidsjob
-   </title>
-   <link>
-    https://www.spreaker.com/episode/simones-historie-om-en-sen-diagnose-cbd-olie-og-glaeden-ved-deltidsjob--52147168
-   </link>
-   <description>
-    33-årige Simone har siden teenageårene levet med hormonel migræne, men uden helt at være klar over det. En diagnosticering i start 30’erne fører til en stor åbenbaring, der både bringer lettelse og komplikationer i Simones liv med to små børn og et arbejde som sygeplejerske. &lt;br /&gt;Hør Simone dele ud af sine tanker om prioritering af tid og venskaber, om lysten til at gå sin egen vej, og hvordan migrænen har bragt hende endnu tættere på sine nærmeste.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/52147168
-   </guid>
-   <pubDate>
-    Mon, 19 Dec 2022 05:00:02 +0000
-   </pubDate>
-   <enclosure length="51763035" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/52147168/episode_4_s_son_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    33-årige Simone har siden teenageårene levet med hormonel migræne, men uden helt at være klar over det. En diagnosticering i start 30’erne fører til en stor åbenbaring, der både bringer lettelse og komplikationer i Simones liv med to små børn og et...
-   </itunes:subtitle>
-   <itunes:summary>
-    33-årige Simone har siden teenageårene levet med hormonel migræne, men uden helt at være klar over det. En diagnosticering i start 30’erne fører til en stor åbenbaring, der både bringer lettelse og komplikationer i Simones liv med to små børn og et arbejde som sygeplejerske. &lt;br /&gt;Hør Simone dele ud af sine tanker om prioritering af tid og venskaber, om lysten til at gå sin egen vej, og hvordan migrænen har bragt hende endnu tættere på sine nærmeste.
-   </itunes:summary>
-   <itunes:duration>
-    3232
-   </itunes:duration>
-   <itunes:keywords>
-    angst,cbd,deltidsjob,depression,fejldiagnose,helbred,hovedpine,kroniker,kronisksyg,mentalt,migræne,moderskab,mor,parforhold,parterapi,sorg,spændingshovedpine,syg,sygdom,sygeplejerske
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:season>
-    2
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Julie &amp; Rasmus’ historie: Om at være kæreste med en migræniker
-   </title>
-   <link>
-    https://www.spreaker.com/episode/julie-rasmus-historie-om-at-vaere-kaereste-med-en-migraeniker--52162859
-   </link>
-   <description>
-    Kæresteparret Julie og Rasmus på 26 og 28 år sætter sammen ord på, hvordan det er at have migræne som en tredje person i parforholdet. Hør Rasmus fortælle om sine reaktioner som pårørende, der kan spænde fra at græde før arbejde i afmagt til at sætte stor pris på, hvordan migrænen også bringer dem tættere sammen.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/52162859
-   </guid>
-   <pubDate>
-    Mon, 12 Dec 2022 15:39:44 +0000
-   </pubDate>
-   <enclosure length="51992495" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/52162859/episode_3_s_son_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Kæresteparret Julie og Rasmus på 26 og 28 år sætter sammen ord på, hvordan det er at have migræne som en tredje person i parforholdet. Hør Rasmus fortælle om sine reaktioner som pårørende, der kan spænde fra at græde før arbejde i afmagt til at sætte...
-   </itunes:subtitle>
-   <itunes:summary>
-    Kæresteparret Julie og Rasmus på 26 og 28 år sætter sammen ord på, hvordan det er at have migræne som en tredje person i parforholdet. Hør Rasmus fortælle om sine reaktioner som pårørende, der kan spænde fra at græde før arbejde i afmagt til at sætte stor pris på, hvordan migrænen også bringer dem tættere sammen.
-   </itunes:summary>
-   <itunes:duration>
-    3246
-   </itunes:duration>
-   <itunes:keywords>
-    aura,helbred,hovedpine,kæreste,kroniker,kronisksyg,mentalt,mentalthelbred,migræne,parforhold,pårørende,psykisk,sårbar,smerte,smerter,spændingshovedpine,studerende,syg
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:season>
-    2
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Helenes historie: Om systemsvigt og en rystet identitet
-   </title>
-   <link>
-    https://www.spreaker.com/episode/helenes-historie-om-systemsvigt-og-en-rystet-identitet--52000957
-   </link>
-   <description>
-    Helene har egentlig haft migræne siden teenageårene, men en voldsom hjernerystelse ændrer hele hendes tilværelse. Da Helene er i 40’erne bliver hun til sit store chok tilkendt førtidspension. Hør Helene, der i dag er 51 år, fortælle om sin frustrerende vej i systemet, om at bruge moderskabet som holdepunkt og om at skabe tid til egenomsorg, hobbyer og ikke mindst kærlighed.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/52000957
-   </guid>
-   <pubDate>
-    Mon, 05 Dec 2022 05:00:02 +0000
-   </pubDate>
-   <enclosure length="52034290" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/52000957/endelig_episode_2_s_son_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Helene har egentlig haft migræne siden teenageårene, men en voldsom hjernerystelse ændrer hele hendes tilværelse. Da Helene er i 40’erne bliver hun til sit store chok tilkendt førtidspension. Hør Helene, der i dag er 51 år, fortælle om sin...
-   </itunes:subtitle>
-   <itunes:summary>
-    Helene har egentlig haft migræne siden teenageårene, men en voldsom hjernerystelse ændrer hele hendes tilværelse. Da Helene er i 40’erne bliver hun til sit store chok tilkendt førtidspension. Hør Helene, der i dag er 51 år, fortælle om sin frustrerende vej i systemet, om at bruge moderskabet som holdepunkt og om at skabe tid til egenomsorg, hobbyer og ikke mindst kærlighed.
-   </itunes:summary>
-   <itunes:duration>
-    3249
-   </itunes:duration>
-   <itunes:keywords>
-    ægteskab,førtidspension,fritid,gåtur,hjernerystelse,hobby,hovedpine,kronisk,migræne,moderskab,mor,parforhold,smerter,spændingshovedpine,syg,sygdom
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:season>
-    2
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Sebastians historie: Om begrænsninger og at leve i nuet
-   </title>
-   <link>
-    https://www.spreaker.com/episode/sebastians-historie-om-begraensninger-og-at-leve-i-nuet--51938341
-   </link>
-   <description>
-    Som teenager bliver idag 28-årige Sebastian ramt af migræne med aura som et lyn fra en klar himmel midt på fodboldbanen. Hør Sebastian fortælle sin historie om, hvordan han har lært at finde lommer af muligheder i migrænens begrænsninger, og hvordan han stadig kæmper med at finde ro i angsten for det næste anfald. &lt;br /&gt;&lt;br /&gt;Har du spørgsmål eller input til podcasten, så skriv på hjernesorger@24syv.dk eller på vores Instagramkonto @hjernesorger.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/51938341
-   </guid>
-   <pubDate>
-    Mon, 28 Nov 2022 05:00:02 +0000
-   </pubDate>
-   <enclosure length="51596269" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51938341/episode_1_s_son_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Som teenager bliver idag 28-årige Sebastian ramt af migræne med aura som et lyn fra en klar himmel midt på fodboldbanen. Hør Sebastian fortælle sin historie om, hvordan han har lært at finde lommer af muligheder i migrænens begrænsninger, og hvordan...
-   </itunes:subtitle>
-   <itunes:summary>
-    Som teenager bliver idag 28-årige Sebastian ramt af migræne med aura som et lyn fra en klar himmel midt på fodboldbanen. Hør Sebastian fortælle sin historie om, hvordan han har lært at finde lommer af muligheder i migrænens begrænsninger, og hvordan han stadig kæmper med at finde ro i angsten for det næste anfald. &lt;br /&gt;&lt;br /&gt;Har du spørgsmål eller input til podcasten, så skriv på hjernesorger@24syv.dk eller på vores Instagramkonto @hjernesorger.
-   </itunes:summary>
-   <itunes:duration>
-    3221
-   </itunes:duration>
-   <itunes:keywords>
-    aura,fodboldspiller,helbred,hovedpine,kroniker,kronisksygdom,læge,mandmedmigræne,mental,mentalthelbred,migræne,neurolog,smertehåndtering,spændingshovedpine,sundhed,sygdom
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:season>
-    2
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    SÆSON 2: Vi er tilbage med Hjernesorger
-   </title>
-   <link>
-    https://www.spreaker.com/episode/saeson-2-vi-er-tilbage-med-hjernesorger--51938323
-   </link>
-   <description>
-    Der er stadig et stort behov for at holde samtalen i gang om migræne, og derfor laver vi en sæson 2. Men hvad er vores tanker så for den nye sæson? &lt;br /&gt;&lt;br /&gt;Vi synes, at det er på tide at give mikrofonen videre til lytterne. De migræneramtes historier forbliver ofte gemt bag nedrullede gardiner, men vi kan se, hvor givende det er at bringe dem ud i lyset, så det vil vi gøre med denne sæson. Forhåbentlig kan du føle dig både set og spejlet og endda selv få lyst til at dele din historie med omverdenen. Og hvilke ændringer der ellers bliver, må du lytte med for at få svar på.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/51938323
-   </guid>
-   <pubDate>
-    Mon, 21 Nov 2022 05:00:02 +0000
-   </pubDate>
-   <enclosure length="5300602" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/51938323/prolog_2_s_son.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Der er stadig et stort behov for at holde samtalen i gang om migræne, og derfor laver vi en sæson 2. Men hvad er vores tanker så for den nye sæson? 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Hjernesorger</title>
+      <link>http://24syv.dk/podcast/hjernesorger</link>
+      <description>Over 500.000 danskere lider af migræne. En sygdom der, foruden en altoverskyggende hovedpine, også betyder grå dage med FOMO, svære tanker, uvished og mindre identitetskriser. Så hvordan passer man bedst på sig selv, og finder mening i det svære, når migrænen er en følgesvend? Det undersøger dine værter, migræneramte Anna Løfqvist og nysgerrige Mathilde Thuesen. I selskab med forskellige gæster stiller de dine svære spørgsmål, og bringer viden i øjenhøjde til dig med migræne og dig som pårørende, i håb om at du føler dig lidt mindre alene.</description>
+      <atom:link href="https://www.spreaker.com/show/5466547/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Alternative Health</category>
+      <copyright>Copyright 24syv</copyright>
+      <image>
+         <url>https://archive.org/download/hjernesorger/Hjernesorger/3e6d2c70cd10e531e65d1e532c1f5a78.jpg</url>
+         <title>Hjernesorger</title>
+         <link>http://24syv.dk/podcast/hjernesorger</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>24syv</itunes:author>
+      <itunes:owner>
+         <itunes:name>24syv</itunes:name>
+         <itunes:email>24syv-podcast@persgroep.net</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+      <itunes:subtitle>Hjernesorger bringer viden, liv og håb ind i samtalen om et liv med migræne.</itunes:subtitle>
+      <itunes:summary>Over 500.000 danskere lider af migræne. En sygdom der, foruden en altoverskyggende hovedpine, også betyder grå dage med FOMO, svære tanker, uvished og mindre identitetskriser. Så hvordan passer man bedst på sig selv, og finder mening i det svære, når migrænen er en følgesvend? Det undersøger dine værter, migræneramte Anna Løfqvist og nysgerrige Mathilde Thuesen. I selskab med forskellige gæster stiller de dine svære spørgsmål, og bringer viden i øjenhøjde til dig med migræne og dig som pårørende, i håb om at du føler dig lidt mindre alene.</itunes:summary>
+      <itunes:category text="Health &amp; Fitness">
+         <itunes:category text="Alternative Health" />
+      </itunes:category>
+      <itunes:category text="Health &amp; Fitness">
+         <itunes:category text="Medicine" />
+      </itunes:category>
+      <itunes:category text="Health &amp; Fitness">
+         <itunes:category text="Mental Health" />
+      </itunes:category>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Live fra Hjernesorgers Lytterevent med Bodil Jørgensen</title>
+         <link>https://www.spreaker.com/episode/live-fra-hjernesorgers-lytterevent-med-bodil-jorgensen--52549119</link>
+         <description>Sæsonafslutningen blev optaget live i december til Hjernesorgers lytterevent i København. Her diskuterer og besvarer skuespiller Bodil Jørgensen og Anna sammen lytternes migrænedilemmaer. &lt;br /&gt;De kommer både omkring temaer som familieliv, overkompensering, ensomhed, skamfulde følelser og behovet for at vise omverdenen, at man er meget andet end sin migræne.&lt;br /&gt;Tak til alle der mødte op, og tak til alle som har lyttet med.&lt;br /&gt;&lt;br /&gt;Husk at du fortsat kan deltage i samtalen om migræne inde på vores Instamprofil @hjernesorger_.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/52549119</guid>
+         <pubDate>Mon, 30 Jan 2023 05:00:02 +0000</pubDate>
+         <enclosure length="129736320" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2023.01.30%20-%20Live%20fra%20Hjernesorgers%20Lytterevent%20med%20Bodil%20J%C3%B8rgensen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Sæsonafslutningen blev optaget live i december til Hjernesorgers lytterevent i København. Her diskuterer og besvarer skuespiller Bodil Jørgensen og Anna sammen lytternes migrænedilemmaer. 
+De kommer både omkring temaer som familieliv,...</itunes:subtitle>
+         <itunes:summary>Sæsonafslutningen blev optaget live i december til Hjernesorgers lytterevent i København. Her diskuterer og besvarer skuespiller Bodil Jørgensen og Anna sammen lytternes migrænedilemmaer. &lt;br /&gt;De kommer både omkring temaer som familieliv, overkompensering, ensomhed, skamfulde følelser og behovet for at vise omverdenen, at man er meget andet end sin migræne.&lt;br /&gt;Tak til alle der mødte op, og tak til alle som har lyttet med.&lt;br /&gt;&lt;br /&gt;Husk at du fortsat kan deltage i samtalen om migræne inde på vores Instamprofil @hjernesorger_.</itunes:summary>
+         <itunes:duration>3244</itunes:duration>
+         <itunes:keywords>bodiljørgensen,dilemma,energi,energiforvaltning,ensomhed,familieliv,hovedpine,kroniker,kronisksyg,mentalthelbred,migræne,migrænedilemma,migrænespørgsmål,overkompensering,skam,smertehåndtering,smerter,spændingshovedpine,syg,sygdom</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:season>2</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Mette-Maries historie: Kan man være på verdensholdet med hovedpine?</title>
+         <link>https://www.spreaker.com/episode/mette-maries-historie-kan-man-vaere-pa-verdensholdet-med-hovedpine--52444696</link>
+         <description>21-årige Mette-Marie fik diagnosen New Daily Persistent Headache tilbage i foråret 2020, efter hun i en fysiktime tidligere samme år fik et hovedpineanfald, der aldrig stoppede. Der fulgte et langt og opslidende udredningsforløb, og hun følte i tiden efter, at sygdommen både havde taget hendes identitet og drømme.&lt;br /&gt;Hør Mette-Maries perspektiv på, hvordan hun dagligt forhandler med smerterne, om hendes store ambitioner, og om hvordan hun stadig befinder sig i en proces i at lande solidt på benene.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/52444696</guid>
+         <pubDate>Mon, 23 Jan 2023 05:00:01 +0000</pubDate>
+         <enclosure length="51731688" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2023.01.23%20-%20Mette-Maries%20historie.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>21-årige Mette-Marie fik diagnosen New Daily Persistent Headache tilbage i foråret 2020, efter hun i en fysiktime tidligere samme år fik et hovedpineanfald, der aldrig stoppede. Der fulgte et langt og opslidende udredningsforløb, og hun følte i tiden...</itunes:subtitle>
+         <itunes:summary>21-årige Mette-Marie fik diagnosen New Daily Persistent Headache tilbage i foråret 2020, efter hun i en fysiktime tidligere samme år fik et hovedpineanfald, der aldrig stoppede. Der fulgte et langt og opslidende udredningsforløb, og hun følte i tiden efter, at sygdommen både havde taget hendes identitet og drømme.&lt;br /&gt;Hør Mette-Maries perspektiv på, hvordan hun dagligt forhandler med smerterne, om hendes store ambitioner, og om hvordan hun stadig befinder sig i en proces i at lande solidt på benene.</itunes:summary>
+         <itunes:duration>3230</itunes:duration>
+         <itunes:keywords>acceptfase,danskhovedpinecenter,gymnastik,hovedpine,identitet,kroniker,kronisksyg,mentalthelbred,migræne,ndph,neurolog,newdailypersistentheadache,smerte,studerende,syg,sygdom,trodsadfærd,verdensholdet</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:season>2</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Leas historie: Om at finde ro i moderskabet som migræneramt</title>
+         <link>https://www.spreaker.com/episode/leas-historie-om-at-finde-ro-i-moderskabet-som-migraeneramt--52362476</link>
+         <description>41-årige Lea har over de seneste ti år oplevet en gradvis forværring i sin migræne, der i dag er defineret som kronisk med mere end 20 migrænedage om måneden. Lea sætter ord på, hvordan hun jonglerer en tilværelse som mor til to samtidig med at have migræne og passe sit arbejde som psykolog. Lea fortæller om, hvordan hun aktivt bruger afledning og åndehuller som copingstrategier - både til at håndtere de enkelte anfald og til at deale med migrænens rolle i sin hverdag og familieliv.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/52362476</guid>
+         <pubDate>Mon, 16 Jan 2023 05:00:02 +0000</pubDate>
+         <enclosure length="52022170" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2023.01.16%20-%20Leas%20historie.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>41-årige Lea har over de seneste ti år oplevet en gradvis forværring i sin migræne, der i dag er defineret som kronisk med mere end 20 migrænedage om måneden. Lea sætter ord på, hvordan hun jonglerer en tilværelse som mor til to samtidig med at have...</itunes:subtitle>
+         <itunes:summary>41-årige Lea har over de seneste ti år oplevet en gradvis forværring i sin migræne, der i dag er defineret som kronisk med mere end 20 migrænedage om måneden. Lea sætter ord på, hvordan hun jonglerer en tilværelse som mor til to samtidig med at have migræne og passe sit arbejde som psykolog. Lea fortæller om, hvordan hun aktivt bruger afledning og åndehuller som copingstrategier - både til at håndtere de enkelte anfald og til at deale med migrænens rolle i sin hverdag og familieliv.</itunes:summary>
+         <itunes:duration>3248</itunes:duration>
+         <itunes:keywords>åndehuller,børnefamilie,copingstrategier,hovedpine,hverdag,kæreste,kroniker,kronisksyg,migræne,moderskab,mor,parforhold,pårørende,psykolog,småbørn,smerter,spændingshovedpine,strategier,syg,sygdom</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:season>2</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Linds historie: Om at bane sin egen vej på arbejdsmarkedet med kroniske smerter</title>
+         <link>https://www.spreaker.com/episode/linds-historie-om-at-bane-sin-egen-vej-pa-arbejdsmarkedet-med-kroniske-smerter--52196783</link>
+         <description>Hvordan går titlen som nyuddannet og kronisk spændingshovedpine hånd i hånd? Det spørgsmål rumsterede hos 25-årige Lind, da hun for halvandet år siden skulle påbegynde arbejdslivet som fysioterapeut. Gennem sine teenageår har hun altid skjult sine smerter for omverdenen i frygt for, hvad andre ville tænke. Men på studiet oplevede hun med stor succes at være åben omkring sin hovedpine. Hør Lind sætte ord på, hvordan hun tog den erfaring med sig til sin jobsamtale, om hvordan hun ikke lader hovedpinen begrænse sig og ikke mindst, hvordan hun står stærkt i sig selv på trods af sine smerter.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/52196783</guid>
+         <pubDate>Mon, 09 Jan 2023 05:00:01 +0000</pubDate>
+         <enclosure length="51939832" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2023.01.09%20-%20Linds%20historie.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Hvordan går titlen som nyuddannet og kronisk spændingshovedpine hånd i hånd? Det spørgsmål rumsterede hos 25-årige Lind, da hun for halvandet år siden skulle påbegynde arbejdslivet som fysioterapeut. Gennem sine teenageår har hun altid skjult sine...</itunes:subtitle>
+         <itunes:summary>Hvordan går titlen som nyuddannet og kronisk spændingshovedpine hånd i hånd? Det spørgsmål rumsterede hos 25-årige Lind, da hun for halvandet år siden skulle påbegynde arbejdslivet som fysioterapeut. Gennem sine teenageår har hun altid skjult sine smerter for omverdenen i frygt for, hvad andre ville tænke. Men på studiet oplevede hun med stor succes at være åben omkring sin hovedpine. Hør Lind sætte ord på, hvordan hun tog den erfaring med sig til sin jobsamtale, om hvordan hun ikke lader hovedpinen begrænse sig og ikke mindst, hvordan hun står stærkt i sig selv på trods af sine smerter.</itunes:summary>
+         <itunes:duration>3243</itunes:duration>
+         <itunes:keywords>anfald,energi,fysioterapeut,fysioterapi,helbred,hovedpine,identitet,jobsamtale,kroniker,kronisksyg,mentalt,migræne,nyuddannet,smerter,spændingshovedpine,studie,studieliv,syg,sygdom,usynlig</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:season>2</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Simones historie: Om en sen diagnose, CBD-olie og glæden ved deltidsjob</title>
+         <link>https://www.spreaker.com/episode/simones-historie-om-en-sen-diagnose-cbd-olie-og-glaeden-ved-deltidsjob--52147168</link>
+         <description>33-årige Simone har siden teenageårene levet med hormonel migræne, men uden helt at være klar over det. En diagnosticering i start 30’erne fører til en stor åbenbaring, der både bringer lettelse og komplikationer i Simones liv med to små børn og et arbejde som sygeplejerske. &lt;br /&gt;Hør Simone dele ud af sine tanker om prioritering af tid og venskaber, om lysten til at gå sin egen vej, og hvordan migrænen har bragt hende endnu tættere på sine nærmeste.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/52147168</guid>
+         <pubDate>Mon, 19 Dec 2022 05:00:02 +0000</pubDate>
+         <enclosure length="51763035" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.12.19%20-%20Simones%20historie.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>33-årige Simone har siden teenageårene levet med hormonel migræne, men uden helt at være klar over det. En diagnosticering i start 30’erne fører til en stor åbenbaring, der både bringer lettelse og komplikationer i Simones liv med to små børn og et...</itunes:subtitle>
+         <itunes:summary>33-årige Simone har siden teenageårene levet med hormonel migræne, men uden helt at være klar over det. En diagnosticering i start 30’erne fører til en stor åbenbaring, der både bringer lettelse og komplikationer i Simones liv med to små børn og et arbejde som sygeplejerske. &lt;br /&gt;Hør Simone dele ud af sine tanker om prioritering af tid og venskaber, om lysten til at gå sin egen vej, og hvordan migrænen har bragt hende endnu tættere på sine nærmeste.</itunes:summary>
+         <itunes:duration>3232</itunes:duration>
+         <itunes:keywords>angst,cbd,deltidsjob,depression,fejldiagnose,helbred,hovedpine,kroniker,kronisksyg,mentalt,migræne,moderskab,mor,parforhold,parterapi,sorg,spændingshovedpine,syg,sygdom,sygeplejerske</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:season>2</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Julie &amp; Rasmus’ historie: Om at være kæreste med en migræniker</title>
+         <link>https://www.spreaker.com/episode/julie-rasmus-historie-om-at-vaere-kaereste-med-en-migraeniker--52162859</link>
+         <description>Kæresteparret Julie og Rasmus på 26 og 28 år sætter sammen ord på, hvordan det er at have migræne som en tredje person i parforholdet. Hør Rasmus fortælle om sine reaktioner som pårørende, der kan spænde fra at græde før arbejde i afmagt til at sætte stor pris på, hvordan migrænen også bringer dem tættere sammen.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/52162859</guid>
+         <pubDate>Mon, 12 Dec 2022 15:39:44 +0000</pubDate>
+         <enclosure length="51992495" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.12.12%20-%20Julie%20%26%20Rasmus%E2%80%99%20historie.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Kæresteparret Julie og Rasmus på 26 og 28 år sætter sammen ord på, hvordan det er at have migræne som en tredje person i parforholdet. Hør Rasmus fortælle om sine reaktioner som pårørende, der kan spænde fra at græde før arbejde i afmagt til at sætte...</itunes:subtitle>
+         <itunes:summary>Kæresteparret Julie og Rasmus på 26 og 28 år sætter sammen ord på, hvordan det er at have migræne som en tredje person i parforholdet. Hør Rasmus fortælle om sine reaktioner som pårørende, der kan spænde fra at græde før arbejde i afmagt til at sætte stor pris på, hvordan migrænen også bringer dem tættere sammen.</itunes:summary>
+         <itunes:duration>3246</itunes:duration>
+         <itunes:keywords>aura,helbred,hovedpine,kæreste,kroniker,kronisksyg,mentalt,mentalthelbred,migræne,parforhold,pårørende,psykisk,sårbar,smerte,smerter,spændingshovedpine,studerende,syg</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:season>2</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Helenes historie: Om systemsvigt og en rystet identitet</title>
+         <link>https://www.spreaker.com/episode/helenes-historie-om-systemsvigt-og-en-rystet-identitet--52000957</link>
+         <description>Helene har egentlig haft migræne siden teenageårene, men en voldsom hjernerystelse ændrer hele hendes tilværelse. Da Helene er i 40’erne bliver hun til sit store chok tilkendt førtidspension. Hør Helene, der i dag er 51 år, fortælle om sin frustrerende vej i systemet, om at bruge moderskabet som holdepunkt og om at skabe tid til egenomsorg, hobbyer og ikke mindst kærlighed.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/52000957</guid>
+         <pubDate>Mon, 05 Dec 2022 05:00:02 +0000</pubDate>
+         <enclosure length="52034290" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.12.05%20-%20Helenes%20historie.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Helene har egentlig haft migræne siden teenageårene, men en voldsom hjernerystelse ændrer hele hendes tilværelse. Da Helene er i 40’erne bliver hun til sit store chok tilkendt førtidspension. Hør Helene, der i dag er 51 år, fortælle om sin...</itunes:subtitle>
+         <itunes:summary>Helene har egentlig haft migræne siden teenageårene, men en voldsom hjernerystelse ændrer hele hendes tilværelse. Da Helene er i 40’erne bliver hun til sit store chok tilkendt førtidspension. Hør Helene, der i dag er 51 år, fortælle om sin frustrerende vej i systemet, om at bruge moderskabet som holdepunkt og om at skabe tid til egenomsorg, hobbyer og ikke mindst kærlighed.</itunes:summary>
+         <itunes:duration>3249</itunes:duration>
+         <itunes:keywords>ægteskab,førtidspension,fritid,gåtur,hjernerystelse,hobby,hovedpine,kronisk,migræne,moderskab,mor,parforhold,smerter,spændingshovedpine,syg,sygdom</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:season>2</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Sebastians historie: Om begrænsninger og at leve i nuet</title>
+         <link>https://www.spreaker.com/episode/sebastians-historie-om-begraensninger-og-at-leve-i-nuet--51938341</link>
+         <description>Som teenager bliver idag 28-årige Sebastian ramt af migræne med aura som et lyn fra en klar himmel midt på fodboldbanen. Hør Sebastian fortælle sin historie om, hvordan han har lært at finde lommer af muligheder i migrænens begrænsninger, og hvordan han stadig kæmper med at finde ro i angsten for det næste anfald. &lt;br /&gt;&lt;br /&gt;Har du spørgsmål eller input til podcasten, så skriv på hjernesorger@24syv.dk eller på vores Instagramkonto @hjernesorger.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/51938341</guid>
+         <pubDate>Mon, 28 Nov 2022 05:00:02 +0000</pubDate>
+         <enclosure length="51596269" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.11.28%20-%20Sebastians%20historie.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Som teenager bliver idag 28-årige Sebastian ramt af migræne med aura som et lyn fra en klar himmel midt på fodboldbanen. Hør Sebastian fortælle sin historie om, hvordan han har lært at finde lommer af muligheder i migrænens begrænsninger, og hvordan...</itunes:subtitle>
+         <itunes:summary>Som teenager bliver idag 28-årige Sebastian ramt af migræne med aura som et lyn fra en klar himmel midt på fodboldbanen. Hør Sebastian fortælle sin historie om, hvordan han har lært at finde lommer af muligheder i migrænens begrænsninger, og hvordan han stadig kæmper med at finde ro i angsten for det næste anfald. &lt;br /&gt;&lt;br /&gt;Har du spørgsmål eller input til podcasten, så skriv på hjernesorger@24syv.dk eller på vores Instagramkonto @hjernesorger.</itunes:summary>
+         <itunes:duration>3221</itunes:duration>
+         <itunes:keywords>aura,fodboldspiller,helbred,hovedpine,kroniker,kronisksygdom,læge,mandmedmigræne,mental,mentalthelbred,migræne,neurolog,smertehåndtering,spændingshovedpine,sundhed,sygdom</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:season>2</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>SÆSON 2: Vi er tilbage med Hjernesorger</title>
+         <link>https://www.spreaker.com/episode/saeson-2-vi-er-tilbage-med-hjernesorger--51938323</link>
+         <description>Der er stadig et stort behov for at holde samtalen i gang om migræne, og derfor laver vi en sæson 2. Men hvad er vores tanker så for den nye sæson? &lt;br /&gt;&lt;br /&gt;Vi synes, at det er på tide at give mikrofonen videre til lytterne. De migræneramtes historier forbliver ofte gemt bag nedrullede gardiner, men vi kan se, hvor givende det er at bringe dem ud i lyset, så det vil vi gøre med denne sæson. Forhåbentlig kan du føle dig både set og spejlet og endda selv få lyst til at dele din historie med omverdenen. Og hvilke ændringer der ellers bliver, må du lytte med for at få svar på.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/51938323</guid>
+         <pubDate>Mon, 21 Nov 2022 05:00:02 +0000</pubDate>
+         <enclosure length="5300602" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.11.21%20-%20S%C3%86SON%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Der er stadig et stort behov for at holde samtalen i gang om migræne, og derfor laver vi en sæson 2. Men hvad er vores tanker så for den nye sæson? 
 
-Vi synes, at det er på tide at give mikrofonen videre til lytterne. De migræneramtes historier...
-   </itunes:subtitle>
-   <itunes:summary>
-    Der er stadig et stort behov for at holde samtalen i gang om migræne, og derfor laver vi en sæson 2. Men hvad er vores tanker så for den nye sæson? &lt;br /&gt;&lt;br /&gt;Vi synes, at det er på tide at give mikrofonen videre til lytterne. De migræneramtes historier forbliver ofte gemt bag nedrullede gardiner, men vi kan se, hvor givende det er at bringe dem ud i lyset, så det vil vi gøre med denne sæson. Forhåbentlig kan du føle dig både set og spejlet og endda selv få lyst til at dele din historie med omverdenen. Og hvilke ændringer der ellers bliver, må du lytte med for at få svar på.
-   </itunes:summary>
-   <itunes:duration>
-    328
-   </itunes:duration>
-   <itunes:keywords>
-    helbred,hovedpine,kroniker,mentalt,mentalthelbred,migræne,migræniker,neurolog,smerter,spændingshovedpine,sygdom
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:season>
-    2
-   </itunes:season>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Brevkassen for migrænespørgsmål
-   </title>
-   <link>
-    https://www.spreaker.com/episode/brevkassen-for-migraenesporgsmal--49985194
-   </link>
-   <description>
-    Er det normalt at miste sin sexlyst som migræneramt, og hvordan accepterer man, at migrænen også kan koste venskaber? &lt;br /&gt;&lt;br /&gt;Det kan på mange måder være ensomt at lide af migræne. Det gælder ikke kun, når man ligger alene i sengen bag nedrullede gardiner, men i lige så høj grad når en masse spørgsmål fra en migrænefyldt hverdag pludselig banker på døren. Vi har derfor åbnet brevkassen for et hav undrende og sårbare lytterspørgsmål, der omkranser temaer som mad, sexliv, parforhold, venskaber, udlandsrejser, accept og meget andet. Det bliver en personlig snak, når både Anna og Mathilde deler ud af deres perspektiver på de mange svære følelser og tanker.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49985194
-   </guid>
-   <pubDate>
-    Mon, 30 May 2022 04:00:03 +0000
-   </pubDate>
-   <enclosure length="45469824" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49985194/afsnit_7.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Er det normalt at miste sin sexlyst som migræneramt, og hvordan accepterer man, at migrænen også kan koste venskaber? 
-
-Det kan på mange måder være ensomt at lide af migræne. Det gælder ikke kun, når man ligger alene i sengen bag nedrullede...
-   </itunes:subtitle>
-   <itunes:summary>
-    Er det normalt at miste sin sexlyst som migræneramt, og hvordan accepterer man, at migrænen også kan koste venskaber? &lt;br /&gt;&lt;br /&gt;Det kan på mange måder være ensomt at lide af migræne. Det gælder ikke kun, når man ligger alene i sengen bag nedrullede gardiner, men i lige så høj grad når en masse spørgsmål fra en migrænefyldt hverdag pludselig banker på døren. Vi har derfor åbnet brevkassen for et hav undrende og sårbare lytterspørgsmål, der omkranser temaer som mad, sexliv, parforhold, venskaber, udlandsrejser, accept og meget andet. Det bliver en personlig snak, når både Anna og Mathilde deler ud af deres perspektiver på de mange svære følelser og tanker.
-   </itunes:summary>
-   <itunes:duration>
-    2838
-   </itunes:duration>
-   <itunes:keywords>
-    helbred,hovedpine,kostomlægning,kronisk,mentalt,migræne,parforhold,sexliv,smerter,spændingshovedpine,syg,sygdom,terapi,venskaber
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Bodil Jørgensens livsråd fra en migrænefyldt tilværelse
-   </title>
-   <link>
-    https://www.spreaker.com/episode/bodil-jorgensens-livsrad-fra-en-migraenefyldt-tilvaerelse--49616388
-   </link>
-   <description>
-    For skuespilleren Bodil Jørgensen er det normalt at have spande stående ude i siderne af scenen, når hun mellem sine optrædener må løbe ud og kaste op på grund af migrænen. På trods af smerterne, lader Bodil sig alligevel ikke begrænse og har fundet en ro i afmagten. “Vi ender, hvor vi skal, og man skal aldrig lade migrænen styre sit liv.” &lt;br /&gt;&lt;br /&gt;I samtalen med Anna og Mathilde sætter Bodil ord på, hvordan hun har lært at finde den gyldne middelvej i sit karriere- og familieliv med migrænen som følgesvend, og hvordan hun er taknemmelig over livets små glæder.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49616388
-   </guid>
-   <pubDate>
-    Mon, 02 May 2022 04:00:02 +0000
-   </pubDate>
-   <enclosure length="27255998" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49616388/afsnit_6.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    For skuespilleren Bodil Jørgensen er det normalt at have spande stående ude i siderne af scenen, når hun mellem sine optrædener må løbe ud og kaste op på grund af migrænen. På trods af smerterne, lader Bodil sig alligevel ikke begrænse og har fundet...
-   </itunes:subtitle>
-   <itunes:summary>
-    For skuespilleren Bodil Jørgensen er det normalt at have spande stående ude i siderne af scenen, når hun mellem sine optrædener må løbe ud og kaste op på grund af migrænen. På trods af smerterne, lader Bodil sig alligevel ikke begrænse og har fundet en ro i afmagten. “Vi ender, hvor vi skal, og man skal aldrig lade migrænen styre sit liv.” &lt;br /&gt;&lt;br /&gt;I samtalen med Anna og Mathilde sætter Bodil ord på, hvordan hun har lært at finde den gyldne middelvej i sit karriere- og familieliv med migrænen som følgesvend, og hvordan hun er taknemmelig over livets små glæder.
-   </itunes:summary>
-   <itunes:duration>
-    1700
-   </itunes:duration>
-   <itunes:keywords>
-    helbred,hovedpine,kognitiv,kronisk,mental,migræne,mindset,positiv,positivitet,skuespiller,smerter,spændingshovedpine,syg,sygdom,taknemmelighed,terapi
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    A-Z: En rejse med migræne
-   </title>
-   <link>
-    https://www.spreaker.com/episode/a-z-en-rejse-med-migraene--49515025
-   </link>
-   <description>
-    Det kan være svært og uoverskueligt at finde sin vej i migrænejunglen, og de muligheder der er, når det kommer til behandlinger, rettigheder og fællesskaber. Derfor tager Anna og Mathilde dig i hånden hele vejen fra første anfald, til hvordan du får skabt de bedste rammer om dit arbejds- og studieliv, for der er heldigvis massere af hjælp at hente.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49515025
-   </guid>
-   <pubDate>
-    Mon, 25 Apr 2022 04:00:02 +0000
-   </pubDate>
-   <enclosure length="28606006" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49515025/afsnit_5_endelig.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Det kan være svært og uoverskueligt at finde sin vej i migrænejunglen, og de muligheder der er, når det kommer til behandlinger, rettigheder og fællesskaber. Derfor tager Anna og Mathilde dig i hånden hele vejen fra første anfald, til hvordan du får...
-   </itunes:subtitle>
-   <itunes:summary>
-    Det kan være svært og uoverskueligt at finde sin vej i migrænejunglen, og de muligheder der er, når det kommer til behandlinger, rettigheder og fællesskaber. Derfor tager Anna og Mathilde dig i hånden hele vejen fra første anfald, til hvordan du får skabt de bedste rammer om dit arbejds- og studieliv, for der er heldigvis massere af hjælp at hente.
-   </itunes:summary>
-   <itunes:duration>
-    1784
-   </itunes:duration>
-   <itunes:keywords>
-    alternativ,behandling,fællesskab,fleksjob,fysioterapi,handicapsu,helbred,hjælpemidler,hovedpine,kronisk,mental,migræne,neurologer,osteopati,paragraf56,rettigheder,spændingshovedpine,syg,sygdom,sygemeldt
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Er jeg syg i hovedet? En samtale om mental sundhed med psykolog Simon Møller Salomon
-   </title>
-   <link>
-    https://www.spreaker.com/episode/er-jeg-syg-i-hovedet-en-samtale-om-mental-sundhed-med-psykolog-simon-moller-salomon--49409415
-   </link>
-   <description>
-    Hvad kan man selv gøre for at passe på sit mentale helbred midt i sine fysiske smerter? Og hvordan bevæger man sig ud af sorgen og ind i accepten af, at ens liv pludselig er ændret? &lt;br /&gt;Anna har selv oplevet, hvor stor en forskel det gør at lære, hvordan man forvalter sin energi allerbedst, og hvordan hun kan arbejde med migrænen i stedet for at kæmpe imod den. &lt;br /&gt;Sammen med psykolog Simon Møller Salomon vender Anna og Mathilde vigtigheden af at passe på sig selv og deler konkrete øvelser til at deale med svære tanker og bekymringer, så man som migræneramt kan trives bedre i en hverdag med migræne.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49409415
-   </guid>
-   <pubDate>
-    Mon, 18 Apr 2022 04:00:02 +0000
-   </pubDate>
-   <enclosure length="37322545" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49409415/4_afsnit.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Hvad kan man selv gøre for at passe på sit mentale helbred midt i sine fysiske smerter? Og hvordan bevæger man sig ud af sorgen og ind i accepten af, at ens liv pludselig er ændret? 
-Anna har selv oplevet, hvor stor en forskel det gør at lære,...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvad kan man selv gøre for at passe på sit mentale helbred midt i sine fysiske smerter? Og hvordan bevæger man sig ud af sorgen og ind i accepten af, at ens liv pludselig er ændret? &lt;br /&gt;Anna har selv oplevet, hvor stor en forskel det gør at lære, hvordan man forvalter sin energi allerbedst, og hvordan hun kan arbejde med migrænen i stedet for at kæmpe imod den. &lt;br /&gt;Sammen med psykolog Simon Møller Salomon vender Anna og Mathilde vigtigheden af at passe på sig selv og deler konkrete øvelser til at deale med svære tanker og bekymringer, så man som migræneramt kan trives bedre i en hverdag med migræne.
-   </itunes:summary>
-   <itunes:duration>
-    2329
-   </itunes:duration>
-   <itunes:keywords>
-    alternativ,behandling,energiforvaltning,helbred,hovedpine,kognitiv,kronisk,mental,migræne,psykolog,smerter,spændingshovedpine,sundhed,syg,sygdom,terapi
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hjælp, jeg har FOMO: en samtale om at være ude af loopet
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hjaelp-jeg-har-fomo-en-samtale-om-at-vaere-ude-af-loopet--49338158
-   </link>
-   <description>
-    Det er svært, når alle ens jævnaldrende lever livet til fulde, men migrænen har sat ens eget liv ufrivilligt på pause. Hvordan det føles, taler vi om med migræneramte Ea Buchholtz Pedersen. Hun og Anna sætter ord på, hvordan det er, ikke at kunne have et arbejde, kun kunne studere på deltid, og hvordan de fester uden alkohol og navigerer et mere kompliceret datingliv. Men kan der utroligt nok også være lyspunkter at finde midt i sorgen over at være ude af loopet?
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49338158
-   </guid>
-   <pubDate>
-    Mon, 11 Apr 2022 04:10:02 +0000
-   </pubDate>
-   <enclosure length="29314865" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49338158/3_afsnit_endelig.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Det er svært, når alle ens jævnaldrende lever livet til fulde, men migrænen har sat ens eget liv ufrivilligt på pause. Hvordan det føles, taler vi om med migræneramte Ea Buchholtz Pedersen. Hun og Anna sætter ord på, hvordan det er, ikke at kunne have...
-   </itunes:subtitle>
-   <itunes:summary>
-    Det er svært, når alle ens jævnaldrende lever livet til fulde, men migrænen har sat ens eget liv ufrivilligt på pause. Hvordan det føles, taler vi om med migræneramte Ea Buchholtz Pedersen. Hun og Anna sætter ord på, hvordan det er, ikke at kunne have et arbejde, kun kunne studere på deltid, og hvordan de fester uden alkohol og navigerer et mere kompliceret datingliv. Men kan der utroligt nok også være lyspunkter at finde midt i sorgen over at være ude af loopet?
-   </itunes:summary>
-   <itunes:duration>
-    1829
-   </itunes:duration>
-   <itunes:keywords>
-    alkohol,alkoholfri,alternativ,arbejdsliv,behandling,dating,datingliv,fomo,helbred,hovedpine,kronisk,migræne,neurolog,neurologi,smerter,spændingshovedpine,studieliv,syg,sygdom,ungdom
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Førstehjælp til pårørende: en snak med lillesøster Laura
-   </title>
-   <link>
-    https://www.spreaker.com/episode/forstehjaelp-til-parorende-en-snak-med-lillesoster-laura--49249565
-   </link>
-   <description>
-    Sidste sommer træf Anna en stor beslutning om selv at tage hånd om migrænen, der fik Laura til at trække sig fra hende. “Jeg tror, det sværeste har været at se Anna havde det så dårligt og ikke kunne gøre noget. Og så har det været hårdt at skulle være støttende i perioder, hvor man ikke selv har haft så meget overskud.”&lt;br /&gt;Laura beskriver, hvordan migrænen både har skabt en distance mellem hende og Anna og påvirket hele familiedynamikken. Men på nogle punkter har det også været en gave for deres relation. Sammen giver de gode råd til andre pårørende, og taler om hvordan man kan tage hul på den svære og sårbare snak.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49249565
-   </guid>
-   <pubDate>
-    Mon, 04 Apr 2022 04:00:02 +0000
-   </pubDate>
-   <enclosure length="30966640" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49249565/2_afsnit_ny.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Sidste sommer træf Anna en stor beslutning om selv at tage hånd om migrænen, der fik Laura til at trække sig fra hende. “Jeg tror, det sværeste har været at se Anna havde det så dårligt og ikke kunne gøre noget. Og så har det været hårdt at skulle...
-   </itunes:subtitle>
-   <itunes:summary>
-    Sidste sommer træf Anna en stor beslutning om selv at tage hånd om migrænen, der fik Laura til at trække sig fra hende. “Jeg tror, det sværeste har været at se Anna havde det så dårligt og ikke kunne gøre noget. Og så har det været hårdt at skulle være støttende i perioder, hvor man ikke selv har haft så meget overskud.”&lt;br /&gt;Laura beskriver, hvordan migrænen både har skabt en distance mellem hende og Anna og påvirket hele familiedynamikken. Men på nogle punkter har det også været en gave for deres relation. Sammen giver de gode råd til andre pårørende, og taler om hvordan man kan tage hul på den svære og sårbare snak.
-   </itunes:summary>
-   <itunes:duration>
-    1932
-   </itunes:duration>
-   <itunes:keywords>
-    alternativ,behandling,helbred,holitisk,hovedpine,kostomlægning,kronisk,migræne,pårørende,sårbar,søskende,spændingshovedpine,syg,sygdom
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Migræne for dummies med neurolog Signe Munksgaard
-   </title>
-   <link>
-    https://www.spreaker.com/episode/migraene-for-dummies-med-neurolog-signe-munksgaard--49184420
-   </link>
-   <description>
-    Er migræne psykisk? Og er det ikke bare en slem hovedpine? &lt;br /&gt;Sammen med neurolog Signe Bruun Munksgaard får vi helt styr på de grundlæggende facts om migræne. Signe belyser blandt andet migræne med og uden aura, forskellen på migræne og spændingshovedpine, medicinoverforbrugshovedpine, hormonel migræne og den allernyeste migrænemedicin. Derudover diskuterer vi en række myter og fordomme om den usynlige sygdom.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49184420
-   </guid>
-   <pubDate>
-    Mon, 28 Mar 2022 04:00:02 +0000
-   </pubDate>
-   <enclosure length="41054085" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49184420/endelig_1_afsnit.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Er migræne psykisk? Og er det ikke bare en slem hovedpine? 
-Sammen med neurolog Signe Bruun Munksgaard får vi helt styr på de grundlæggende facts om migræne. Signe belyser blandt andet migræne med og uden aura, forskellen på migræne og...
-   </itunes:subtitle>
-   <itunes:summary>
-    Er migræne psykisk? Og er det ikke bare en slem hovedpine? &lt;br /&gt;Sammen med neurolog Signe Bruun Munksgaard får vi helt styr på de grundlæggende facts om migræne. Signe belyser blandt andet migræne med og uden aura, forskellen på migræne og spændingshovedpine, medicinoverforbrugshovedpine, hormonel migræne og den allernyeste migrænemedicin. Derudover diskuterer vi en række myter og fordomme om den usynlige sygdom.
-   </itunes:summary>
-   <itunes:duration>
-    2562
-   </itunes:duration>
-   <itunes:keywords>
-    aura,healing,hormonel,hovedpine,kronisk,medicin,migræne,neurolog,spændingshovedpine,sygdom
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Prolog: Velkommen til Hjernesorger
-   </title>
-   <link>
-    https://www.spreaker.com/episode/prolog-velkommen-til-hjernesorger--49002610
-   </link>
-   <description>
-    I lidt over tre år har Anna lidt af kronisk migræne. Anna manglede selv et sted, hvor hun kunne få råd, vejledning og et fællesskab med rum til at sætte ord på de mange følelser og tanker, der opstår, når man pludselig bliver ramt af en sygdom. Derfor laver hun podcasten Hjernesorger sammen med sin veninde Mathilde, som gerne vil forstå det, Anna oplever lidt bedre.&lt;br /&gt;&lt;br /&gt;Over 500.000 danskere lider af migræne, som påvirker dem både fysisk og psykisk. Anna og Mathilde prøver at finde svar på, hvordan man bedst passer på sig selv, og finder mening i det svære, når migrænen er en følgesvend. I selskab med forskellige gæster stiller de dine svære spørgsmål, og bringer viden i øjenhøjde til dig med migræne og dig som pårørende, i håb om at du føler dig lidt mindre alene.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/49002610
-   </guid>
-   <pubDate>
-    Wed, 09 Mar 2022 10:27:11 +0000
-   </pubDate>
-   <enclosure length="10252583" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/49002610/prolog_f_rdigklippet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I lidt over tre år har Anna lidt af kronisk migræne. Anna manglede selv et sted, hvor hun kunne få råd, vejledning og et fællesskab med rum til at sætte ord på de mange følelser og tanker, der opstår, når man pludselig bliver ramt af en sygdom. Derfor...
-   </itunes:subtitle>
-   <itunes:summary>
-    I lidt over tre år har Anna lidt af kronisk migræne. Anna manglede selv et sted, hvor hun kunne få råd, vejledning og et fællesskab med rum til at sætte ord på de mange følelser og tanker, der opstår, når man pludselig bliver ramt af en sygdom. Derfor laver hun podcasten Hjernesorger sammen med sin veninde Mathilde, som gerne vil forstå det, Anna oplever lidt bedre.&lt;br /&gt;&lt;br /&gt;Over 500.000 danskere lider af migræne, som påvirker dem både fysisk og psykisk. Anna og Mathilde prøver at finde svar på, hvordan man bedst passer på sig selv, og finder mening i det svære, når migrænen er en følgesvend. I selskab med forskellige gæster stiller de dine svære spørgsmål, og bringer viden i øjenhøjde til dig med migræne og dig som pårørende, i håb om at du føler dig lidt mindre alene.
-   </itunes:summary>
-   <itunes:duration>
-    637
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg"/>
-   <itunes:episodeType>
-    trailer
-   </itunes:episodeType>
-  </item>
- </channel>
+Vi synes, at det er på tide at give mikrofonen videre til lytterne. De migræneramtes historier...</itunes:subtitle>
+         <itunes:summary>Der er stadig et stort behov for at holde samtalen i gang om migræne, og derfor laver vi en sæson 2. Men hvad er vores tanker så for den nye sæson? &lt;br /&gt;&lt;br /&gt;Vi synes, at det er på tide at give mikrofonen videre til lytterne. De migræneramtes historier forbliver ofte gemt bag nedrullede gardiner, men vi kan se, hvor givende det er at bringe dem ud i lyset, så det vil vi gøre med denne sæson. Forhåbentlig kan du føle dig både set og spejlet og endda selv få lyst til at dele din historie med omverdenen. Og hvilke ændringer der ellers bliver, må du lytte med for at få svar på.</itunes:summary>
+         <itunes:duration>328</itunes:duration>
+         <itunes:keywords>helbred,hovedpine,kroniker,mentalt,mentalthelbred,migræne,migræniker,neurolog,smerter,spændingshovedpine,sygdom</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:season>2</itunes:season>
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Brevkassen for migrænespørgsmål</title>
+         <link>https://www.spreaker.com/episode/brevkassen-for-migraenesporgsmal--49985194</link>
+         <description>Er det normalt at miste sin sexlyst som migræneramt, og hvordan accepterer man, at migrænen også kan koste venskaber? &lt;br /&gt;&lt;br /&gt;Det kan på mange måder være ensomt at lide af migræne. Det gælder ikke kun, når man ligger alene i sengen bag nedrullede gardiner, men i lige så høj grad når en masse spørgsmål fra en migrænefyldt hverdag pludselig banker på døren. Vi har derfor åbnet brevkassen for et hav undrende og sårbare lytterspørgsmål, der omkranser temaer som mad, sexliv, parforhold, venskaber, udlandsrejser, accept og meget andet. Det bliver en personlig snak, når både Anna og Mathilde deler ud af deres perspektiver på de mange svære følelser og tanker.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49985194</guid>
+         <pubDate>Mon, 30 May 2022 04:00:03 +0000</pubDate>
+         <enclosure length="45469824" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.05.30%20-%20Brevkassen%20for%20migr%C3%A6nesp%C3%B8rgsm%C3%A5l.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Er det normalt at miste sin sexlyst som migræneramt, og hvordan accepterer man, at migrænen også kan koste venskaber? 
+
+Det kan på mange måder være ensomt at lide af migræne. Det gælder ikke kun, når man ligger alene i sengen bag nedrullede...</itunes:subtitle>
+         <itunes:summary>Er det normalt at miste sin sexlyst som migræneramt, og hvordan accepterer man, at migrænen også kan koste venskaber? &lt;br /&gt;&lt;br /&gt;Det kan på mange måder være ensomt at lide af migræne. Det gælder ikke kun, når man ligger alene i sengen bag nedrullede gardiner, men i lige så høj grad når en masse spørgsmål fra en migrænefyldt hverdag pludselig banker på døren. Vi har derfor åbnet brevkassen for et hav undrende og sårbare lytterspørgsmål, der omkranser temaer som mad, sexliv, parforhold, venskaber, udlandsrejser, accept og meget andet. Det bliver en personlig snak, når både Anna og Mathilde deler ud af deres perspektiver på de mange svære følelser og tanker.</itunes:summary>
+         <itunes:duration>2838</itunes:duration>
+         <itunes:keywords>helbred,hovedpine,kostomlægning,kronisk,mentalt,migræne,parforhold,sexliv,smerter,spændingshovedpine,syg,sygdom,terapi,venskaber</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Bodil Jørgensens livsråd fra en migrænefyldt tilværelse</title>
+         <link>https://www.spreaker.com/episode/bodil-jorgensens-livsrad-fra-en-migraenefyldt-tilvaerelse--49616388</link>
+         <description>For skuespilleren Bodil Jørgensen er det normalt at have spande stående ude i siderne af scenen, når hun mellem sine optrædener må løbe ud og kaste op på grund af migrænen. På trods af smerterne, lader Bodil sig alligevel ikke begrænse og har fundet en ro i afmagten. “Vi ender, hvor vi skal, og man skal aldrig lade migrænen styre sit liv.” &lt;br /&gt;&lt;br /&gt;I samtalen med Anna og Mathilde sætter Bodil ord på, hvordan hun har lært at finde den gyldne middelvej i sit karriere- og familieliv med migrænen som følgesvend, og hvordan hun er taknemmelig over livets små glæder.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49616388</guid>
+         <pubDate>Mon, 02 May 2022 04:00:02 +0000</pubDate>
+         <enclosure length="27255998" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.05.02%20-%20Bodil%20J%C3%B8rgensens%20livsr%C3%A5d%20fra%20en%20migr%C3%A6nefyldt%20tilv%C3%A6relse.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>For skuespilleren Bodil Jørgensen er det normalt at have spande stående ude i siderne af scenen, når hun mellem sine optrædener må løbe ud og kaste op på grund af migrænen. På trods af smerterne, lader Bodil sig alligevel ikke begrænse og har fundet...</itunes:subtitle>
+         <itunes:summary>For skuespilleren Bodil Jørgensen er det normalt at have spande stående ude i siderne af scenen, når hun mellem sine optrædener må løbe ud og kaste op på grund af migrænen. På trods af smerterne, lader Bodil sig alligevel ikke begrænse og har fundet en ro i afmagten. “Vi ender, hvor vi skal, og man skal aldrig lade migrænen styre sit liv.” &lt;br /&gt;&lt;br /&gt;I samtalen med Anna og Mathilde sætter Bodil ord på, hvordan hun har lært at finde den gyldne middelvej i sit karriere- og familieliv med migrænen som følgesvend, og hvordan hun er taknemmelig over livets små glæder.</itunes:summary>
+         <itunes:duration>1700</itunes:duration>
+         <itunes:keywords>helbred,hovedpine,kognitiv,kronisk,mental,migræne,mindset,positiv,positivitet,skuespiller,smerter,spændingshovedpine,syg,sygdom,taknemmelighed,terapi</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>A-Z: En rejse med migræne</title>
+         <link>https://www.spreaker.com/episode/a-z-en-rejse-med-migraene--49515025</link>
+         <description>Det kan være svært og uoverskueligt at finde sin vej i migrænejunglen, og de muligheder der er, når det kommer til behandlinger, rettigheder og fællesskaber. Derfor tager Anna og Mathilde dig i hånden hele vejen fra første anfald, til hvordan du får skabt de bedste rammer om dit arbejds- og studieliv, for der er heldigvis massere af hjælp at hente.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49515025</guid>
+         <pubDate>Mon, 25 Apr 2022 04:00:02 +0000</pubDate>
+         <enclosure length="28606006" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.04.25%20-%20A-Z.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Det kan være svært og uoverskueligt at finde sin vej i migrænejunglen, og de muligheder der er, når det kommer til behandlinger, rettigheder og fællesskaber. Derfor tager Anna og Mathilde dig i hånden hele vejen fra første anfald, til hvordan du får...</itunes:subtitle>
+         <itunes:summary>Det kan være svært og uoverskueligt at finde sin vej i migrænejunglen, og de muligheder der er, når det kommer til behandlinger, rettigheder og fællesskaber. Derfor tager Anna og Mathilde dig i hånden hele vejen fra første anfald, til hvordan du får skabt de bedste rammer om dit arbejds- og studieliv, for der er heldigvis massere af hjælp at hente.</itunes:summary>
+         <itunes:duration>1784</itunes:duration>
+         <itunes:keywords>alternativ,behandling,fællesskab,fleksjob,fysioterapi,handicapsu,helbred,hjælpemidler,hovedpine,kronisk,mental,migræne,neurologer,osteopati,paragraf56,rettigheder,spændingshovedpine,syg,sygdom,sygemeldt</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Er jeg syg i hovedet? En samtale om mental sundhed med psykolog Simon Møller Salomon</title>
+         <link>https://www.spreaker.com/episode/er-jeg-syg-i-hovedet-en-samtale-om-mental-sundhed-med-psykolog-simon-moller-salomon--49409415</link>
+         <description>Hvad kan man selv gøre for at passe på sit mentale helbred midt i sine fysiske smerter? Og hvordan bevæger man sig ud af sorgen og ind i accepten af, at ens liv pludselig er ændret? &lt;br /&gt;Anna har selv oplevet, hvor stor en forskel det gør at lære, hvordan man forvalter sin energi allerbedst, og hvordan hun kan arbejde med migrænen i stedet for at kæmpe imod den. &lt;br /&gt;Sammen med psykolog Simon Møller Salomon vender Anna og Mathilde vigtigheden af at passe på sig selv og deler konkrete øvelser til at deale med svære tanker og bekymringer, så man som migræneramt kan trives bedre i en hverdag med migræne.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49409415</guid>
+         <pubDate>Mon, 18 Apr 2022 04:00:02 +0000</pubDate>
+         <enclosure length="37322545" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.04.18%20-%20Er%20jeg%20syg%20i%20hovedet.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Hvad kan man selv gøre for at passe på sit mentale helbred midt i sine fysiske smerter? Og hvordan bevæger man sig ud af sorgen og ind i accepten af, at ens liv pludselig er ændret? 
+Anna har selv oplevet, hvor stor en forskel det gør at lære,...</itunes:subtitle>
+         <itunes:summary>Hvad kan man selv gøre for at passe på sit mentale helbred midt i sine fysiske smerter? Og hvordan bevæger man sig ud af sorgen og ind i accepten af, at ens liv pludselig er ændret? &lt;br /&gt;Anna har selv oplevet, hvor stor en forskel det gør at lære, hvordan man forvalter sin energi allerbedst, og hvordan hun kan arbejde med migrænen i stedet for at kæmpe imod den. &lt;br /&gt;Sammen med psykolog Simon Møller Salomon vender Anna og Mathilde vigtigheden af at passe på sig selv og deler konkrete øvelser til at deale med svære tanker og bekymringer, så man som migræneramt kan trives bedre i en hverdag med migræne.</itunes:summary>
+         <itunes:duration>2329</itunes:duration>
+         <itunes:keywords>alternativ,behandling,energiforvaltning,helbred,hovedpine,kognitiv,kronisk,mental,migræne,psykolog,smerter,spændingshovedpine,sundhed,syg,sygdom,terapi</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hjælp, jeg har FOMO: en samtale om at være ude af loopet</title>
+         <link>https://www.spreaker.com/episode/hjaelp-jeg-har-fomo-en-samtale-om-at-vaere-ude-af-loopet--49338158</link>
+         <description>Det er svært, når alle ens jævnaldrende lever livet til fulde, men migrænen har sat ens eget liv ufrivilligt på pause. Hvordan det føles, taler vi om med migræneramte Ea Buchholtz Pedersen. Hun og Anna sætter ord på, hvordan det er, ikke at kunne have et arbejde, kun kunne studere på deltid, og hvordan de fester uden alkohol og navigerer et mere kompliceret datingliv. Men kan der utroligt nok også være lyspunkter at finde midt i sorgen over at være ude af loopet?</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49338158</guid>
+         <pubDate>Mon, 11 Apr 2022 04:10:02 +0000</pubDate>
+         <enclosure length="29314865" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.04.11%20-%20Hj%C3%A6lp%2C%20jeg%20har%20FOMO.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Det er svært, når alle ens jævnaldrende lever livet til fulde, men migrænen har sat ens eget liv ufrivilligt på pause. Hvordan det føles, taler vi om med migræneramte Ea Buchholtz Pedersen. Hun og Anna sætter ord på, hvordan det er, ikke at kunne have...</itunes:subtitle>
+         <itunes:summary>Det er svært, når alle ens jævnaldrende lever livet til fulde, men migrænen har sat ens eget liv ufrivilligt på pause. Hvordan det føles, taler vi om med migræneramte Ea Buchholtz Pedersen. Hun og Anna sætter ord på, hvordan det er, ikke at kunne have et arbejde, kun kunne studere på deltid, og hvordan de fester uden alkohol og navigerer et mere kompliceret datingliv. Men kan der utroligt nok også være lyspunkter at finde midt i sorgen over at være ude af loopet?</itunes:summary>
+         <itunes:duration>1829</itunes:duration>
+         <itunes:keywords>alkohol,alkoholfri,alternativ,arbejdsliv,behandling,dating,datingliv,fomo,helbred,hovedpine,kronisk,migræne,neurolog,neurologi,smerter,spændingshovedpine,studieliv,syg,sygdom,ungdom</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Førstehjælp til pårørende: en snak med lillesøster Laura</title>
+         <link>https://www.spreaker.com/episode/forstehjaelp-til-parorende-en-snak-med-lillesoster-laura--49249565</link>
+         <description>Sidste sommer træf Anna en stor beslutning om selv at tage hånd om migrænen, der fik Laura til at trække sig fra hende. “Jeg tror, det sværeste har været at se Anna havde det så dårligt og ikke kunne gøre noget. Og så har det været hårdt at skulle være støttende i perioder, hvor man ikke selv har haft så meget overskud.”&lt;br /&gt;Laura beskriver, hvordan migrænen både har skabt en distance mellem hende og Anna og påvirket hele familiedynamikken. Men på nogle punkter har det også været en gave for deres relation. Sammen giver de gode råd til andre pårørende, og taler om hvordan man kan tage hul på den svære og sårbare snak.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49249565</guid>
+         <pubDate>Mon, 04 Apr 2022 04:00:02 +0000</pubDate>
+         <enclosure length="30966640" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.04.04%20-%20F%C3%B8rstehj%C3%A6lp%20til%20p%C3%A5r%C3%B8rende.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Sidste sommer træf Anna en stor beslutning om selv at tage hånd om migrænen, der fik Laura til at trække sig fra hende. “Jeg tror, det sværeste har været at se Anna havde det så dårligt og ikke kunne gøre noget. Og så har det været hårdt at skulle...</itunes:subtitle>
+         <itunes:summary>Sidste sommer træf Anna en stor beslutning om selv at tage hånd om migrænen, der fik Laura til at trække sig fra hende. “Jeg tror, det sværeste har været at se Anna havde det så dårligt og ikke kunne gøre noget. Og så har det været hårdt at skulle være støttende i perioder, hvor man ikke selv har haft så meget overskud.”&lt;br /&gt;Laura beskriver, hvordan migrænen både har skabt en distance mellem hende og Anna og påvirket hele familiedynamikken. Men på nogle punkter har det også været en gave for deres relation. Sammen giver de gode råd til andre pårørende, og taler om hvordan man kan tage hul på den svære og sårbare snak.</itunes:summary>
+         <itunes:duration>1932</itunes:duration>
+         <itunes:keywords>alternativ,behandling,helbred,holitisk,hovedpine,kostomlægning,kronisk,migræne,pårørende,sårbar,søskende,spændingshovedpine,syg,sygdom</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Migræne for dummies med neurolog Signe Munksgaard</title>
+         <link>https://www.spreaker.com/episode/migraene-for-dummies-med-neurolog-signe-munksgaard--49184420</link>
+         <description>Er migræne psykisk? Og er det ikke bare en slem hovedpine? &lt;br /&gt;Sammen med neurolog Signe Bruun Munksgaard får vi helt styr på de grundlæggende facts om migræne. Signe belyser blandt andet migræne med og uden aura, forskellen på migræne og spændingshovedpine, medicinoverforbrugshovedpine, hormonel migræne og den allernyeste migrænemedicin. Derudover diskuterer vi en række myter og fordomme om den usynlige sygdom.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49184420</guid>
+         <pubDate>Mon, 28 Mar 2022 04:00:02 +0000</pubDate>
+         <enclosure length="41054085" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.03.28%20-%20Migr%C3%A6ne%20for%20dummies%20med%20neurolog%20Signe%20Munksgaard.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Er migræne psykisk? Og er det ikke bare en slem hovedpine? 
+Sammen med neurolog Signe Bruun Munksgaard får vi helt styr på de grundlæggende facts om migræne. Signe belyser blandt andet migræne med og uden aura, forskellen på migræne og...</itunes:subtitle>
+         <itunes:summary>Er migræne psykisk? Og er det ikke bare en slem hovedpine? &lt;br /&gt;Sammen med neurolog Signe Bruun Munksgaard får vi helt styr på de grundlæggende facts om migræne. Signe belyser blandt andet migræne med og uden aura, forskellen på migræne og spændingshovedpine, medicinoverforbrugshovedpine, hormonel migræne og den allernyeste migrænemedicin. Derudover diskuterer vi en række myter og fordomme om den usynlige sygdom.</itunes:summary>
+         <itunes:duration>2562</itunes:duration>
+         <itunes:keywords>aura,healing,hormonel,hovedpine,kronisk,medicin,migræne,neurolog,spændingshovedpine,sygdom</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Prolog: Velkommen til Hjernesorger</title>
+         <link>https://www.spreaker.com/episode/prolog-velkommen-til-hjernesorger--49002610</link>
+         <description>I lidt over tre år har Anna lidt af kronisk migræne. Anna manglede selv et sted, hvor hun kunne få råd, vejledning og et fællesskab med rum til at sætte ord på de mange følelser og tanker, der opstår, når man pludselig bliver ramt af en sygdom. Derfor laver hun podcasten Hjernesorger sammen med sin veninde Mathilde, som gerne vil forstå det, Anna oplever lidt bedre.&lt;br /&gt;&lt;br /&gt;Over 500.000 danskere lider af migræne, som påvirker dem både fysisk og psykisk. Anna og Mathilde prøver at finde svar på, hvordan man bedst passer på sig selv, og finder mening i det svære, når migrænen er en følgesvend. I selskab med forskellige gæster stiller de dine svære spørgsmål, og bringer viden i øjenhøjde til dig med migræne og dig som pårørende, i håb om at du føler dig lidt mindre alene.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/49002610</guid>
+         <pubDate>Wed, 09 Mar 2022 10:27:11 +0000</pubDate>
+         <enclosure length="10252583" type="audio/mpeg" url="https://archive.org/download/hjernesorger/Hjernesorger/2022.03.09%20-%20Prolog.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I lidt over tre år har Anna lidt af kronisk migræne. Anna manglede selv et sted, hvor hun kunne få råd, vejledning og et fællesskab med rum til at sætte ord på de mange følelser og tanker, der opstår, når man pludselig bliver ramt af en sygdom. Derfor...</itunes:subtitle>
+         <itunes:summary>I lidt over tre år har Anna lidt af kronisk migræne. Anna manglede selv et sted, hvor hun kunne få råd, vejledning og et fællesskab med rum til at sætte ord på de mange følelser og tanker, der opstår, når man pludselig bliver ramt af en sygdom. Derfor laver hun podcasten Hjernesorger sammen med sin veninde Mathilde, som gerne vil forstå det, Anna oplever lidt bedre.&lt;br /&gt;&lt;br /&gt;Over 500.000 danskere lider af migræne, som påvirker dem både fysisk og psykisk. Anna og Mathilde prøver at finde svar på, hvordan man bedst passer på sig selv, og finder mening i det svære, når migrænen er en følgesvend. I selskab med forskellige gæster stiller de dine svære spørgsmål, og bringer viden i øjenhøjde til dig med migræne og dig som pårørende, i håb om at du føler dig lidt mindre alene.</itunes:summary>
+         <itunes:duration>637</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3e6d2c70cd10e531e65d1e532c1f5a78.jpg" />
+         <itunes:episodeType>trailer</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

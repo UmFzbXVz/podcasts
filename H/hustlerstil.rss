@@ -1,450 +1,186 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Hustlerstil
-  </title>
-  <link>
-   https://loud.land/podcast/hustlerstil
-  </link>
-  <description>
-   To hustler fans jagt på den perfekte snylter. Den person der ikke nøjedes med at hoppe over, hvor gærdet var lavest, men fandt hullet og vadede lige igennem. Vi graver i både historiens- og nutidens kartotek af hustlere, der på den ene eller anden måde har kørt off-pist igennem livet for at få kvinder, penge og magt.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4924587/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Comedy
-  </category>
-  <copyright>
-   Copyright LOUD
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg
-   </url>
-   <title>
-    Hustlerstil
-   </title>
-   <link>
-    https://loud.land/podcast/hustlerstil
-   </link>
-  </image>
-  <lastBuildDate>
-   Thu, 11 Jan 2024 10:36:33 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg"/>
-  <itunes:subtitle>
-   Jagten på historiens største hustler.
-  </itunes:subtitle>
-  <itunes:summary>
-   To hustler fans jagt på den perfekte snylter. Den person der ikke nøjedes med at hoppe over, hvor gærdet var lavest, men fandt hullet og vadede lige igennem. Vi graver i både historiens- og nutidens kartotek af hustlere, der på den ene eller anden måde har kørt off-pist igennem livet for at få kvinder, penge og magt.
-  </itunes:summary>
-  <itunes:category text="Comedy"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Hustlerstil Afsnit 10: Casper Rieper-Holm vs. Silvio Berlusconi
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hustlerstil-afsnit-10-casper-rieper-holm-vs-silvio-berlusconi--45841429
-   </link>
-   <description>
-    Hustlerne i sæsonfinalen er to af de helt tunge drenge. Danmarks Historiens største con-artist en mand med flere navne end tæer møder den tidligere crooner og Premier Minister Silvio. Vi slutter af med et sæson resumé skrevet over 'Jeg er havren'. God fornøjelse!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45841429
-   </guid>
-   <pubDate>
-    Wed, 28 Jul 2021 04:00:14 +0000
-   </pubDate>
-   <enclosure length="66793763" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45841429/hustlerstil_ep_10.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hustlerne i sæsonfinalen er to af de helt tunge drenge. Danmarks Historiens største con-artist en mand med flere navne end tæer møder den tidligere crooner og Premier Minister Silvio. Vi slutter af med et sæson resumé skrevet over 'Jeg er havren'. God...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hustlerne i sæsonfinalen er to af de helt tunge drenge. Danmarks Historiens største con-artist en mand med flere navne end tæer møder den tidligere crooner og Premier Minister Silvio. Vi slutter af med et sæson resumé skrevet over 'Jeg er havren'. God fornøjelse!
-   </itunes:summary>
-   <itunes:duration>
-    2783
-   </itunes:duration>
-   <itunes:keywords>
-    berlusconi,boys,casper,con-artist,hustler,hustlerstil,rieper-holm,silvio,snyd,svindel,svindler
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hustlerstil Afsnit 9: Paul Touvier vs. Simon Spies
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hustlerstil-afsnit-9-paul-touvier-vs-simon-spies--45777727
-   </link>
-   <description>
-    Hustlerne i dette afsnit har én ting til fælles: Hitler. Simon Spies lagde aldrig skjul på sit medlemskab af nazistpartiet, men havde det kun af rent praktiske årsager. Touvier derimod gik fuldt ind i tacklingen med dødsstraf in absentia til følge. God fornøjelse!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45777727
-   </guid>
-   <pubDate>
-    Wed, 21 Jul 2021 04:00:03 +0000
-   </pubDate>
-   <enclosure length="48373675" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45777727/hustlerstil_episode_9.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hustlerne i dette afsnit har én ting til fælles: Hitler. Simon Spies lagde aldrig skjul på sit medlemskab af nazistpartiet, men havde det kun af rent praktiske årsager. Touvier derimod gik fuldt ind i tacklingen med dødsstraf in absentia til følge....
-   </itunes:subtitle>
-   <itunes:summary>
-    Hustlerne i dette afsnit har én ting til fælles: Hitler. Simon Spies lagde aldrig skjul på sit medlemskab af nazistpartiet, men havde det kun af rent praktiske årsager. Touvier derimod gik fuldt ind i tacklingen med dødsstraf in absentia til følge. God fornøjelse!
-   </itunes:summary>
-   <itunes:duration>
-    2016
-   </itunes:duration>
-   <itunes:keywords>
-    barbie,boys,butcher,fremskridtspartiet,glistrup,god,hustle,hustlerstil,lyon,mogens,nazi,snyd,spies,stil,svindler
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hustlerstil Afsnit 8: Bernard Lawrence "Bernie" Madoff vs. Peter Adler Alberti
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hustlerstil-afsnit-8-bernard-lawrence-bernie-madoff-vs-peter-adler-alberti--45687859
-   </link>
-   <description>
-    Mr. Ponzi og den navnkundige livslæge Struensee kunne ikke tage titlen som Hustlerkonge. Men ideen var go' nok! Derfor er stormesterne i Ponzisvindel og rovdrift på statskassen kaldt i aktion i dette afsnit. Byd velkommen til Bernie Madoff og Alberti! Velkommen til Hustlerstil.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45687859
-   </guid>
-   <pubDate>
-    Wed, 14 Jul 2021 04:00:06 +0000
-   </pubDate>
-   <enclosure length="55178468" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45687859/hustlerstil_episode_8.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Mr. Ponzi og den navnkundige livslæge Struensee kunne ikke tage titlen som Hustlerkonge. Men ideen var go' nok! Derfor er stormesterne i Ponzisvindel og rovdrift på statskassen kaldt i aktion i dette afsnit. Byd velkommen til Bernie Madoff og Alberti!...
-   </itunes:subtitle>
-   <itunes:summary>
-    Mr. Ponzi og den navnkundige livslæge Struensee kunne ikke tage titlen som Hustlerkonge. Men ideen var go' nok! Derfor er stormesterne i Ponzisvindel og rovdrift på statskassen kaldt i aktion i dette afsnit. Byd velkommen til Bernie Madoff og Alberti! Velkommen til Hustlerstil.
-   </itunes:summary>
-   <itunes:duration>
-    2299
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hustlerstil Afsnit 7: Glynn "Scotty" Wolfe vs. Kurt Thorsen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hustlerstil-afsnit-7-glynn-scotty-wolfe-vs-kurt-thorsen--45604174
-   </link>
-   <description>
-    Dagens afsnit omhandler en folkelig storsvindler og indehaveren af en usædvanlig rekord. Kurt Thorsen begik bedrageri og dokumentfalsk for i alt 3,7 mia. kroner, og fik en legendarisk sviner med på vejen af sin tidligere partner in crime Rasmus Trads. Glynn "Scotty" Wolfe gjorde giftemål og skilsmisser til en levevej i jagten på en plads i historiebøgerne. Der spilles klip fra Danmarks Radio den 6. januar 2000 og et pressemøde på Hotel d'Angleterre den 2. marts 1999. Bred ymer!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45604174
-   </guid>
-   <pubDate>
-    Wed, 07 Jul 2021 04:00:10 +0000
-   </pubDate>
-   <enclosure length="41145856" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45604174/hustlerstil_episode_7.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Dagens afsnit omhandler en folkelig storsvindler og indehaveren af en usædvanlig rekord. Kurt Thorsen begik bedrageri og dokumentfalsk for i alt 3,7 mia. kroner, og fik en legendarisk sviner med på vejen af sin tidligere partner in crime Rasmus Trads....
-   </itunes:subtitle>
-   <itunes:summary>
-    Dagens afsnit omhandler en folkelig storsvindler og indehaveren af en usædvanlig rekord. Kurt Thorsen begik bedrageri og dokumentfalsk for i alt 3,7 mia. kroner, og fik en legendarisk sviner med på vejen af sin tidligere partner in crime Rasmus Trads. Glynn "Scotty" Wolfe gjorde giftemål og skilsmisser til en levevej i jagten på en plads i historiebøgerne. Der spilles klip fra Danmarks Radio den 6. januar 2000 og et pressemøde på Hotel d'Angleterre den 2. marts 1999. Bred ymer!
-   </itunes:summary>
-   <itunes:duration>
-    2572
-   </itunes:duration>
-   <itunes:keywords>
-    guinness,hustlerstil,pfa,pfa-sagen,rasmus,rekordbog,sjov,spas,trads
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hustlerstil Afsnit 5: Titanic Thompson vs. Klaus Riskær Pedersen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hustlerstil-afsnit-5-titanic-thompson-vs-klaus-riskaer-pedersen--45402675
-   </link>
-   <description>
-    I dagens afsnit af Hustlerstil rammer vi to legender. Titanic Thompson var en hustler af den gamle skole med korttricks og mafia-boss-mord på CV'et. Klaus Riskær Pedersen gjorde sig som corporate raider, døde den store rentedød og gav Bubber hans første badekar. Selv tak!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45402675
-   </guid>
-   <pubDate>
-    Wed, 23 Jun 2021 04:00:15 +0000
-   </pubDate>
-   <enclosure length="52289484" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45402675/hustlerstil_ep05.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I dagens afsnit af Hustlerstil rammer vi to legender. Titanic Thompson var en hustler af den gamle skole med korttricks og mafia-boss-mord på CV'et. Klaus Riskær Pedersen gjorde sig som corporate raider, døde den store rentedød og gav Bubber hans...
-   </itunes:subtitle>
-   <itunes:summary>
-    I dagens afsnit af Hustlerstil rammer vi to legender. Titanic Thompson var en hustler af den gamle skole med korttricks og mafia-boss-mord på CV'et. Klaus Riskær Pedersen gjorde sig som corporate raider, døde den store rentedød og gav Bubber hans første badekar. Selv tak!
-   </itunes:summary>
-   <itunes:duration>
-    3269
-   </itunes:duration>
-   <itunes:keywords>
-    bubber,cybercity,familiefond,feld,humbug,meld,nilfisk,politik,riskær,røverhistorier,svindel,taus
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hustlerstil Afsnit 4: Donald Trump vs. Johann Friedrich Struensee
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hustlerstil-afsnit-4-donald-trump-vs-johann-friedrich-struensee--45313639
-   </link>
-   <description>
-    Et par storpolitiske snoge bringes i stil, når den regerende konge af hustlerne Mogens Amdi Pedersen skal udfordres. Donaldoen har solgt sit ansigt til pyramidespil og chikaneret sine lejere. Livslægen Struensee var wingman for den danske konge på en rundtur til de bedste bordeller i Europa og gjorde efterfølgende kongen til hanrej. Tak for kaffe!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45313639
-   </guid>
-   <pubDate>
-    Wed, 16 Jun 2021 04:00:16 +0000
-   </pubDate>
-   <enclosure length="38534865" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45313639/hustlerstil_ep04.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Et par storpolitiske snoge bringes i stil, når den regerende konge af hustlerne Mogens Amdi Pedersen skal udfordres. Donaldoen har solgt sit ansigt til pyramidespil og chikaneret sine lejere. Livslægen Struensee var wingman for den danske konge på en...
-   </itunes:subtitle>
-   <itunes:summary>
-    Et par storpolitiske snoge bringes i stil, når den regerende konge af hustlerne Mogens Amdi Pedersen skal udfordres. Donaldoen har solgt sit ansigt til pyramidespil og chikaneret sine lejere. Livslægen Struensee var wingman for den danske konge på en rundtur til de bedste bordeller i Europa og gjorde efterfølgende kongen til hanrej. Tak for kaffe!
-   </itunes:summary>
-   <itunes:duration>
-    2409
-   </itunes:duration>
-   <itunes:keywords>
-    christian,fusk,gak,hanrej,henrettelse,livlæge,løjer,miss,storgaard,struensee,svindel,taus,trump,universe
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hustlerstil Afsnit 3: Elizabeth Holmes vs. Mogens Amdi Petersen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hustlerstil-afsnit-3-elizabeth-holmes-vs-mogens-amdi-petersen--45206110
-   </link>
-   <description>
-    Vi tager Hustlerstil til et globalt niveau i jagten på en, der kan tage overtage førerpositionen fra Sepp Blatter. Elizabeth Holmes tryllebandt tidligere udenrigsministre med medicinsk humbug, og Mogens Amdi Petersen har tømt alverdens statskasser på bekostning af udsatte unge såvel som nødlidende ulandsprojekter. God fornøjelse! &lt;br /&gt;&lt;br /&gt;Der spilles klip fra TV-udsendelsen Mad Money. Sendt på CNBC 16. oktober 2015.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45206110
-   </guid>
-   <pubDate>
-    Wed, 09 Jun 2021 04:00:21 +0000
-   </pubDate>
-   <enclosure length="36531637" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45206110/hustlerstil_ep03_v_1_online_audio_converter_com.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi tager Hustlerstil til et globalt niveau i jagten på en, der kan tage overtage førerpositionen fra Sepp Blatter. Elizabeth Holmes tryllebandt tidligere udenrigsministre med medicinsk humbug, og Mogens Amdi Petersen har tømt alverdens statskasser på...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi tager Hustlerstil til et globalt niveau i jagten på en, der kan tage overtage førerpositionen fra Sepp Blatter. Elizabeth Holmes tryllebandt tidligere udenrigsministre med medicinsk humbug, og Mogens Amdi Petersen har tømt alverdens statskasser på bekostning af udsatte unge såvel som nødlidende ulandsprojekter. God fornøjelse! &lt;br /&gt;&lt;br /&gt;Der spilles klip fra TV-udsendelsen Mad Money. Sendt på CNBC 16. oktober 2015.
-   </itunes:summary>
-   <itunes:duration>
-    2283
-   </itunes:duration>
-   <itunes:keywords>
-    amdi,dns,elizabeth,holmes,hustle,hustlerstil,kissinger,lærergruppen,statsstøtte,storgaard,svindler,taus,theranos,tvind,uff
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hustlerstil Afsnit 2: Charles Ponzi vs. Per Ulrich Karpf
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hustlerstil-afsnit-2-charles-ponzi-vs-per-ulrich-karpf--45079318
-   </link>
-   <description>
-    Jagten på en hustler, der kan skubbe Sepp Blatter af tronen, fortsætter med Charles Ponzi og Per Ulrich Karpf. Mors dreng Charles Ponzi væltede 6 banker i jagten på anerkendelse, og Jetsetsvindleren Per Ulrich Karpf har lagt momssvindlen på hylden til fordel for en glorværdig karriere som youtuber. God fornøjelse!
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45079318
-   </guid>
-   <pubDate>
-    Wed, 02 Jun 2021 04:00:13 +0000
-   </pubDate>
-   <enclosure length="33673247" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45079318/hustlerstil_episode2_v_2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Jagten på en hustler, der kan skubbe Sepp Blatter af tronen, fortsætter med Charles Ponzi og Per Ulrich Karpf. Mors dreng Charles Ponzi væltede 6 banker i jagten på anerkendelse, og Jetsetsvindleren Per Ulrich Karpf har lagt momssvindlen på hylden til...
-   </itunes:subtitle>
-   <itunes:summary>
-    Jagten på en hustler, der kan skubbe Sepp Blatter af tronen, fortsætter med Charles Ponzi og Per Ulrich Karpf. Mors dreng Charles Ponzi væltede 6 banker i jagten på anerkendelse, og Jetsetsvindleren Per Ulrich Karpf har lagt momssvindlen på hylden til fordel for en glorværdig karriere som youtuber. God fornøjelse!
-   </itunes:summary>
-   <itunes:duration>
-    2105
-   </itunes:duration>
-   <itunes:keywords>
-    dansk,df,folkepartis,humbug,jetsetsvindleren,karpf,kriminel,messerschmidt,momssvindel,morten,ponzi,snyd,svindel,undgom,youtuber
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hustlerstil Afsnit 1: Sepp Blatter og Stein Bagger
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hustlerstil-afsnit-1-sepp-blatter-og-stein-bagger--45000093
-   </link>
-   <description>
-    Jagten på den ultimative hustler indledes med Sepp Blatter og Stein Bagger. FIFA-svinet Sepp Blatter har sendt VM til Rusland og Qatar, og Stein Bagger har taget sig en tur i leasingkarrusellen. God fornøjelse!&lt;br /&gt;&lt;br /&gt;Der spilles klip fra TV-udsendelsen Stein Bagger: Kan man stole på en løgner? Sendt på Danmarks Radio 16. maj 2010 klokken 20.00.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45000093
-   </guid>
-   <pubDate>
-    Wed, 26 May 2021 04:00:05 +0000
-   </pubDate>
-   <enclosure length="52073868" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45000093/hustlerstil_episode_1.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Jagten på den ultimative hustler indledes med Sepp Blatter og Stein Bagger. FIFA-svinet Sepp Blatter har sendt VM til Rusland og Qatar, og Stein Bagger har taget sig en tur i leasingkarrusellen. God fornøjelse!
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Hustlerstil</title>
+      <link>https://loud.land/podcast/hustlerstil</link>
+      <description>To hustler fans jagt på den perfekte snylter. Den person der ikke nøjedes med at hoppe over, hvor gærdet var lavest, men fandt hullet og vadede lige igennem. Vi graver i både historiens- og nutidens kartotek af hustlere, der på den ene eller anden måde har kørt off-pist igennem livet for at få kvinder, penge og magt.</description>
+      <atom:link href="https://www.spreaker.com/show/4924587/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Comedy</category>
+      <copyright>Copyright LOUD</copyright>
+      <image>
+         <url>https://archive.org/download/hustlerstil/Hustlerstil/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg</url>
+         <title>Hustlerstil</title>
+         <link>https://loud.land/podcast/hustlerstil</link>
+      </image>
+      <lastBuildDate>Thu, 11 Jan 2024 10:36:33 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg" />
+      <itunes:subtitle>Jagten på historiens største hustler.</itunes:subtitle>
+      <itunes:summary>To hustler fans jagt på den perfekte snylter. Den person der ikke nøjedes med at hoppe over, hvor gærdet var lavest, men fandt hullet og vadede lige igennem. Vi graver i både historiens- og nutidens kartotek af hustlere, der på den ene eller anden måde har kørt off-pist igennem livet for at få kvinder, penge og magt.</itunes:summary>
+      <itunes:category text="Comedy" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Hustlerstil Afsnit 10: Casper Rieper-Holm vs. Silvio Berlusconi</title>
+         <link>https://www.spreaker.com/episode/hustlerstil-afsnit-10-casper-rieper-holm-vs-silvio-berlusconi--45841429</link>
+         <description>Hustlerne i sæsonfinalen er to af de helt tunge drenge. Danmarks Historiens største con-artist en mand med flere navne end tæer møder den tidligere crooner og Premier Minister Silvio. Vi slutter af med et sæson resumé skrevet over 'Jeg er havren'. God fornøjelse!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45841429</guid>
+         <pubDate>Wed, 28 Jul 2021 04:00:14 +0000</pubDate>
+         <enclosure length="66793763" type="audio/mpeg" url="https://archive.org/download/hustlerstil/Hustlerstil/2021.07.28%20-%20Hustlerstil%20Afsnit%2010.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hustlerne i sæsonfinalen er to af de helt tunge drenge. Danmarks Historiens største con-artist en mand med flere navne end tæer møder den tidligere crooner og Premier Minister Silvio. Vi slutter af med et sæson resumé skrevet over 'Jeg er havren'. God...</itunes:subtitle>
+         <itunes:summary>Hustlerne i sæsonfinalen er to af de helt tunge drenge. Danmarks Historiens største con-artist en mand med flere navne end tæer møder den tidligere crooner og Premier Minister Silvio. Vi slutter af med et sæson resumé skrevet over 'Jeg er havren'. God fornøjelse!</itunes:summary>
+         <itunes:duration>2783</itunes:duration>
+         <itunes:keywords>berlusconi,boys,casper,con-artist,hustler,hustlerstil,rieper-holm,silvio,snyd,svindel,svindler</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hustlerstil Afsnit 9: Paul Touvier vs. Simon Spies</title>
+         <link>https://www.spreaker.com/episode/hustlerstil-afsnit-9-paul-touvier-vs-simon-spies--45777727</link>
+         <description>Hustlerne i dette afsnit har én ting til fælles: Hitler. Simon Spies lagde aldrig skjul på sit medlemskab af nazistpartiet, men havde det kun af rent praktiske årsager. Touvier derimod gik fuldt ind i tacklingen med dødsstraf in absentia til følge. God fornøjelse!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45777727</guid>
+         <pubDate>Wed, 21 Jul 2021 04:00:03 +0000</pubDate>
+         <enclosure length="48373675" type="audio/mpeg" url="https://archive.org/download/hustlerstil/Hustlerstil/2021.07.21%20-%20Hustlerstil%20Afsnit%209.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hustlerne i dette afsnit har én ting til fælles: Hitler. Simon Spies lagde aldrig skjul på sit medlemskab af nazistpartiet, men havde det kun af rent praktiske årsager. Touvier derimod gik fuldt ind i tacklingen med dødsstraf in absentia til følge....</itunes:subtitle>
+         <itunes:summary>Hustlerne i dette afsnit har én ting til fælles: Hitler. Simon Spies lagde aldrig skjul på sit medlemskab af nazistpartiet, men havde det kun af rent praktiske årsager. Touvier derimod gik fuldt ind i tacklingen med dødsstraf in absentia til følge. God fornøjelse!</itunes:summary>
+         <itunes:duration>2016</itunes:duration>
+         <itunes:keywords>barbie,boys,butcher,fremskridtspartiet,glistrup,god,hustle,hustlerstil,lyon,mogens,nazi,snyd,spies,stil,svindler</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hustlerstil Afsnit 8: Bernard Lawrence "Bernie" Madoff vs. Peter Adler Alberti</title>
+         <link>https://www.spreaker.com/episode/hustlerstil-afsnit-8-bernard-lawrence-bernie-madoff-vs-peter-adler-alberti--45687859</link>
+         <description>Mr. Ponzi og den navnkundige livslæge Struensee kunne ikke tage titlen som Hustlerkonge. Men ideen var go' nok! Derfor er stormesterne i Ponzisvindel og rovdrift på statskassen kaldt i aktion i dette afsnit. Byd velkommen til Bernie Madoff og Alberti! Velkommen til Hustlerstil.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45687859</guid>
+         <pubDate>Wed, 14 Jul 2021 04:00:06 +0000</pubDate>
+         <enclosure length="55178468" type="audio/mpeg" url="https://archive.org/download/hustlerstil/Hustlerstil/2021.07.14%20-%20Hustlerstil%20Afsnit%208.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Mr. Ponzi og den navnkundige livslæge Struensee kunne ikke tage titlen som Hustlerkonge. Men ideen var go' nok! Derfor er stormesterne i Ponzisvindel og rovdrift på statskassen kaldt i aktion i dette afsnit. Byd velkommen til Bernie Madoff og Alberti!...</itunes:subtitle>
+         <itunes:summary>Mr. Ponzi og den navnkundige livslæge Struensee kunne ikke tage titlen som Hustlerkonge. Men ideen var go' nok! Derfor er stormesterne i Ponzisvindel og rovdrift på statskassen kaldt i aktion i dette afsnit. Byd velkommen til Bernie Madoff og Alberti! Velkommen til Hustlerstil.</itunes:summary>
+         <itunes:duration>2299</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hustlerstil Afsnit 7: Glynn "Scotty" Wolfe vs. Kurt Thorsen</title>
+         <link>https://www.spreaker.com/episode/hustlerstil-afsnit-7-glynn-scotty-wolfe-vs-kurt-thorsen--45604174</link>
+         <description>Dagens afsnit omhandler en folkelig storsvindler og indehaveren af en usædvanlig rekord. Kurt Thorsen begik bedrageri og dokumentfalsk for i alt 3,7 mia. kroner, og fik en legendarisk sviner med på vejen af sin tidligere partner in crime Rasmus Trads. Glynn "Scotty" Wolfe gjorde giftemål og skilsmisser til en levevej i jagten på en plads i historiebøgerne. Der spilles klip fra Danmarks Radio den 6. januar 2000 og et pressemøde på Hotel d'Angleterre den 2. marts 1999. Bred ymer!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45604174</guid>
+         <pubDate>Wed, 07 Jul 2021 04:00:10 +0000</pubDate>
+         <enclosure length="41145856" type="audio/mpeg" url="https://archive.org/download/hustlerstil/Hustlerstil/2021.07.07%20-%20Hustlerstil%20Afsnit%207.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Dagens afsnit omhandler en folkelig storsvindler og indehaveren af en usædvanlig rekord. Kurt Thorsen begik bedrageri og dokumentfalsk for i alt 3,7 mia. kroner, og fik en legendarisk sviner med på vejen af sin tidligere partner in crime Rasmus Trads....</itunes:subtitle>
+         <itunes:summary>Dagens afsnit omhandler en folkelig storsvindler og indehaveren af en usædvanlig rekord. Kurt Thorsen begik bedrageri og dokumentfalsk for i alt 3,7 mia. kroner, og fik en legendarisk sviner med på vejen af sin tidligere partner in crime Rasmus Trads. Glynn "Scotty" Wolfe gjorde giftemål og skilsmisser til en levevej i jagten på en plads i historiebøgerne. Der spilles klip fra Danmarks Radio den 6. januar 2000 og et pressemøde på Hotel d'Angleterre den 2. marts 1999. Bred ymer!</itunes:summary>
+         <itunes:duration>2572</itunes:duration>
+         <itunes:keywords>guinness,hustlerstil,pfa,pfa-sagen,rasmus,rekordbog,sjov,spas,trads</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hustlerstil Afsnit 5: Titanic Thompson vs. Klaus Riskær Pedersen</title>
+         <link>https://www.spreaker.com/episode/hustlerstil-afsnit-5-titanic-thompson-vs-klaus-riskaer-pedersen--45402675</link>
+         <description>I dagens afsnit af Hustlerstil rammer vi to legender. Titanic Thompson var en hustler af den gamle skole med korttricks og mafia-boss-mord på CV'et. Klaus Riskær Pedersen gjorde sig som corporate raider, døde den store rentedød og gav Bubber hans første badekar. Selv tak!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45402675</guid>
+         <pubDate>Wed, 23 Jun 2021 04:00:15 +0000</pubDate>
+         <enclosure length="52289484" type="audio/mpeg" url="https://archive.org/download/hustlerstil/Hustlerstil/2021.06.23%20-%20Hustlerstil%20Afsnit%205.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I dagens afsnit af Hustlerstil rammer vi to legender. Titanic Thompson var en hustler af den gamle skole med korttricks og mafia-boss-mord på CV'et. Klaus Riskær Pedersen gjorde sig som corporate raider, døde den store rentedød og gav Bubber hans...</itunes:subtitle>
+         <itunes:summary>I dagens afsnit af Hustlerstil rammer vi to legender. Titanic Thompson var en hustler af den gamle skole med korttricks og mafia-boss-mord på CV'et. Klaus Riskær Pedersen gjorde sig som corporate raider, døde den store rentedød og gav Bubber hans første badekar. Selv tak!</itunes:summary>
+         <itunes:duration>3269</itunes:duration>
+         <itunes:keywords>bubber,cybercity,familiefond,feld,humbug,meld,nilfisk,politik,riskær,røverhistorier,svindel,taus</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hustlerstil Afsnit 4: Donald Trump vs. Johann Friedrich Struensee</title>
+         <link>https://www.spreaker.com/episode/hustlerstil-afsnit-4-donald-trump-vs-johann-friedrich-struensee--45313639</link>
+         <description>Et par storpolitiske snoge bringes i stil, når den regerende konge af hustlerne Mogens Amdi Pedersen skal udfordres. Donaldoen har solgt sit ansigt til pyramidespil og chikaneret sine lejere. Livslægen Struensee var wingman for den danske konge på en rundtur til de bedste bordeller i Europa og gjorde efterfølgende kongen til hanrej. Tak for kaffe!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45313639</guid>
+         <pubDate>Wed, 16 Jun 2021 04:00:16 +0000</pubDate>
+         <enclosure length="38534865" type="audio/mpeg" url="https://archive.org/download/hustlerstil/Hustlerstil/2021.06.16%20-%20Hustlerstil%20Afsnit%204.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Et par storpolitiske snoge bringes i stil, når den regerende konge af hustlerne Mogens Amdi Pedersen skal udfordres. Donaldoen har solgt sit ansigt til pyramidespil og chikaneret sine lejere. Livslægen Struensee var wingman for den danske konge på en...</itunes:subtitle>
+         <itunes:summary>Et par storpolitiske snoge bringes i stil, når den regerende konge af hustlerne Mogens Amdi Pedersen skal udfordres. Donaldoen har solgt sit ansigt til pyramidespil og chikaneret sine lejere. Livslægen Struensee var wingman for den danske konge på en rundtur til de bedste bordeller i Europa og gjorde efterfølgende kongen til hanrej. Tak for kaffe!</itunes:summary>
+         <itunes:duration>2409</itunes:duration>
+         <itunes:keywords>christian,fusk,gak,hanrej,henrettelse,livlæge,løjer,miss,storgaard,struensee,svindel,taus,trump,universe</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hustlerstil Afsnit 3: Elizabeth Holmes vs. Mogens Amdi Petersen</title>
+         <link>https://www.spreaker.com/episode/hustlerstil-afsnit-3-elizabeth-holmes-vs-mogens-amdi-petersen--45206110</link>
+         <description>Vi tager Hustlerstil til et globalt niveau i jagten på en, der kan tage overtage førerpositionen fra Sepp Blatter. Elizabeth Holmes tryllebandt tidligere udenrigsministre med medicinsk humbug, og Mogens Amdi Petersen har tømt alverdens statskasser på bekostning af udsatte unge såvel som nødlidende ulandsprojekter. God fornøjelse! &lt;br /&gt;&lt;br /&gt;Der spilles klip fra TV-udsendelsen Mad Money. Sendt på CNBC 16. oktober 2015.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45206110</guid>
+         <pubDate>Wed, 09 Jun 2021 04:00:21 +0000</pubDate>
+         <enclosure length="36531637" type="audio/mpeg" url="https://archive.org/download/hustlerstil/Hustlerstil/2021.06.09%20-%20Hustlerstil%20Afsnit%203.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi tager Hustlerstil til et globalt niveau i jagten på en, der kan tage overtage førerpositionen fra Sepp Blatter. Elizabeth Holmes tryllebandt tidligere udenrigsministre med medicinsk humbug, og Mogens Amdi Petersen har tømt alverdens statskasser på...</itunes:subtitle>
+         <itunes:summary>Vi tager Hustlerstil til et globalt niveau i jagten på en, der kan tage overtage førerpositionen fra Sepp Blatter. Elizabeth Holmes tryllebandt tidligere udenrigsministre med medicinsk humbug, og Mogens Amdi Petersen har tømt alverdens statskasser på bekostning af udsatte unge såvel som nødlidende ulandsprojekter. God fornøjelse! &lt;br /&gt;&lt;br /&gt;Der spilles klip fra TV-udsendelsen Mad Money. Sendt på CNBC 16. oktober 2015.</itunes:summary>
+         <itunes:duration>2283</itunes:duration>
+         <itunes:keywords>amdi,dns,elizabeth,holmes,hustle,hustlerstil,kissinger,lærergruppen,statsstøtte,storgaard,svindler,taus,theranos,tvind,uff</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hustlerstil Afsnit 2: Charles Ponzi vs. Per Ulrich Karpf</title>
+         <link>https://www.spreaker.com/episode/hustlerstil-afsnit-2-charles-ponzi-vs-per-ulrich-karpf--45079318</link>
+         <description>Jagten på en hustler, der kan skubbe Sepp Blatter af tronen, fortsætter med Charles Ponzi og Per Ulrich Karpf. Mors dreng Charles Ponzi væltede 6 banker i jagten på anerkendelse, og Jetsetsvindleren Per Ulrich Karpf har lagt momssvindlen på hylden til fordel for en glorværdig karriere som youtuber. God fornøjelse!</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45079318</guid>
+         <pubDate>Wed, 02 Jun 2021 04:00:13 +0000</pubDate>
+         <enclosure length="33673247" type="audio/mpeg" url="https://archive.org/download/hustlerstil/Hustlerstil/2021.06.02%20-%20Hustlerstil%20Afsnit%202.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Jagten på en hustler, der kan skubbe Sepp Blatter af tronen, fortsætter med Charles Ponzi og Per Ulrich Karpf. Mors dreng Charles Ponzi væltede 6 banker i jagten på anerkendelse, og Jetsetsvindleren Per Ulrich Karpf har lagt momssvindlen på hylden til...</itunes:subtitle>
+         <itunes:summary>Jagten på en hustler, der kan skubbe Sepp Blatter af tronen, fortsætter med Charles Ponzi og Per Ulrich Karpf. Mors dreng Charles Ponzi væltede 6 banker i jagten på anerkendelse, og Jetsetsvindleren Per Ulrich Karpf har lagt momssvindlen på hylden til fordel for en glorværdig karriere som youtuber. God fornøjelse!</itunes:summary>
+         <itunes:duration>2105</itunes:duration>
+         <itunes:keywords>dansk,df,folkepartis,humbug,jetsetsvindleren,karpf,kriminel,messerschmidt,momssvindel,morten,ponzi,snyd,svindel,undgom,youtuber</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hustlerstil Afsnit 1: Sepp Blatter og Stein Bagger</title>
+         <link>https://www.spreaker.com/episode/hustlerstil-afsnit-1-sepp-blatter-og-stein-bagger--45000093</link>
+         <description>Jagten på den ultimative hustler indledes med Sepp Blatter og Stein Bagger. FIFA-svinet Sepp Blatter har sendt VM til Rusland og Qatar, og Stein Bagger har taget sig en tur i leasingkarrusellen. God fornøjelse!&lt;br /&gt;&lt;br /&gt;Der spilles klip fra TV-udsendelsen Stein Bagger: Kan man stole på en løgner? Sendt på Danmarks Radio 16. maj 2010 klokken 20.00.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45000093</guid>
+         <pubDate>Wed, 26 May 2021 04:00:05 +0000</pubDate>
+         <enclosure length="52073868" type="audio/mpeg" url="https://archive.org/download/hustlerstil/Hustlerstil/2021.05.26%20-%20Hustlerstil%20Afsnit%201.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Jagten på den ultimative hustler indledes med Sepp Blatter og Stein Bagger. FIFA-svinet Sepp Blatter har sendt VM til Rusland og Qatar, og Stein Bagger har taget sig en tur i leasingkarrusellen. God fornøjelse!
 
-Der spilles klip fra TV-udsendelsen...
-   </itunes:subtitle>
-   <itunes:summary>
-    Jagten på den ultimative hustler indledes med Sepp Blatter og Stein Bagger. FIFA-svinet Sepp Blatter har sendt VM til Rusland og Qatar, og Stein Bagger har taget sig en tur i leasingkarrusellen. God fornøjelse!&lt;br /&gt;&lt;br /&gt;Der spilles klip fra TV-udsendelsen Stein Bagger: Kan man stole på en løgner? Sendt på Danmarks Radio 16. maj 2010 klokken 20.00.
-   </itunes:summary>
-   <itunes:duration>
-    2170
-   </itunes:duration>
-   <itunes:keywords>
-    bagger,blatter,fifa,hustler,it-factory,leasingkarrusel,legendarisk,qatar,røverhistorier,sjov,stein,svindel,vm
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hustlerstil: Trailer
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hustlerstil-trailer--44813531
-   </link>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44813531
-   </guid>
-   <pubDate>
-    Fri, 14 May 2021 13:52:33 +0000
-   </pubDate>
-   <enclosure length="1021616" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44813531/trailer_hustlerstil.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:duration>
-    43
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg"/>
-   <itunes:episodeType>
-    trailer
-   </itunes:episodeType>
-  </item>
- </channel>
+Der spilles klip fra TV-udsendelsen...</itunes:subtitle>
+         <itunes:summary>Jagten på den ultimative hustler indledes med Sepp Blatter og Stein Bagger. FIFA-svinet Sepp Blatter har sendt VM til Rusland og Qatar, og Stein Bagger har taget sig en tur i leasingkarrusellen. God fornøjelse!&lt;br /&gt;&lt;br /&gt;Der spilles klip fra TV-udsendelsen Stein Bagger: Kan man stole på en løgner? Sendt på Danmarks Radio 16. maj 2010 klokken 20.00.</itunes:summary>
+         <itunes:duration>2170</itunes:duration>
+         <itunes:keywords>bagger,blatter,fifa,hustler,it-factory,leasingkarrusel,legendarisk,qatar,røverhistorier,sjov,stein,svindel,vm</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hustlerstil: Trailer</title>
+         <link>https://www.spreaker.com/episode/hustlerstil-trailer--44813531</link>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44813531</guid>
+         <pubDate>Fri, 14 May 2021 13:52:33 +0000</pubDate>
+         <enclosure length="1021616" type="audio/mpeg" url="https://archive.org/download/hustlerstil/Hustlerstil/2021.05.14%20-%20Hustlerstil.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:duration>43</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aad7f1ccb82d41c9fdd8ac60f54695a7.jpg" />
+         <itunes:episodeType>trailer</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

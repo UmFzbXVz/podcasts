@@ -1,28 +1,28 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Europa - Resultatet – Radio24syv</title>
-		<link>https://web.24syv.dk/channels/4094</link>
-		<description>Når vælgerne har stemt og tælles stemmerne til Europa-Parlamentet op giver Radio24syv dig to timers direkte radio. Over 400 millioner europæere har haft mulighed for at pege på, hvordan sammensætningen af Europaparlamentet skal se ud de kommende fem år. Radio24syv sender et ganske særligt valgprogram direkte fra Christiansborg, hvor de fleste parti holder valgfest eller drikker EU-gravøl.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/444/Europa_-_Resultatet.jpg"/>
-		<item>
-			<title>Europa - Resultatet 25-05-2014 (2)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106446/9874734-audio.mp3</link>
-			<description>Vælgerne har stemt og nu tælles stemmerne til Europaparlamentet op. Over 400 millioner europæere har haft mulighed for at pege på, hvordan sammensætningen af Europaparlamentet skal se ud de kommende fem år. Radio24syv sender et ganske særligt valgprogram direkte fra Christiansborg, hvor de fleste parti holder valgfest eller drikker EU-gravøl. Tore Keller og Jesper Høvsgaard Termansen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106446/9874734-audio.mp3</guid>
-			<pubDate>Mon, 26 May 2014 00:03:34 +0000</pubDate>
-			<itunes:duration>00:55:37</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106446/9874734-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Europa - Resultatet 25-05-2014 (1)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106447/9874651-audio.mp3</link>
-			<description>Vælgerne har stemt og nu tælles stemmerne til Europaparlamentet op. Over 400 millioner europæere har haft mulighed for at pege på, hvordan sammensætningen af Europaparlamentet skal se ud de kommende fem år. Radio24syv sender et ganske særligt valgprogram direkte fra Christiansborg, hvor de fleste parti holder valgfest eller drikker EU-gravøl. Tore Keller og Jesper Høvsgaard Termansen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106447/9874651-audio.mp3</guid>
-			<pubDate>Sun, 25 May 2014 23:03:29 +0000</pubDate>
-			<itunes:duration>00:55:18</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/106447/9874651-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+   <channel>
+      <title>Europa - Resultatet – Radio24syv</title>
+      <link>https://web.24syv.dk/channels/4094</link>
+      <description>Når vælgerne har stemt og tælles stemmerne til Europa-Parlamentet op giver Radio24syv dig to timers direkte radio. Over 400 millioner europæere har haft mulighed for at pege på, hvordan sammensætningen af Europaparlamentet skal se ud de kommende fem år. Radio24syv sender et ganske særligt valgprogram direkte fra Christiansborg, hvor de fleste parti holder valgfest eller drikker EU-gravøl.</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/europa_-_resultatet_-_radio24syv/Europa%20-%20Resultatet%20%E2%80%93%20Radio24syv/Europa_-_Resultatet.jpg" />
+      <item>
+         <title>Europa - Resultatet 25-05-2014 (2)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106446/9874734-audio.mp3</link>
+         <description>Vælgerne har stemt og nu tælles stemmerne til Europaparlamentet op. Over 400 millioner europæere har haft mulighed for at pege på, hvordan sammensætningen af Europaparlamentet skal se ud de kommende fem år. Radio24syv sender et ganske særligt valgprogram direkte fra Christiansborg, hvor de fleste parti holder valgfest eller drikker EU-gravøl. Tore Keller og Jesper Høvsgaard Termansen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106446/9874734-audio.mp3</guid>
+         <pubDate>Mon, 26 May 2014 00:03:34 +0000</pubDate>
+         <itunes:duration>00:55:37</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/europa_-_resultatet_-_radio24syv/Europa%20-%20Resultatet%20%E2%80%93%20Radio24syv/2014.05.26%20-%20Europa%20-%20Resultatet%2025-05-2014%20%282%29.mp3" />
+      </item>
+      <item>
+         <title>Europa - Resultatet 25-05-2014 (1)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/106447/9874651-audio.mp3</link>
+         <description>Vælgerne har stemt og nu tælles stemmerne til Europaparlamentet op. Over 400 millioner europæere har haft mulighed for at pege på, hvordan sammensætningen af Europaparlamentet skal se ud de kommende fem år. Radio24syv sender et ganske særligt valgprogram direkte fra Christiansborg, hvor de fleste parti holder valgfest eller drikker EU-gravøl. Tore Keller og Jesper Høvsgaard Termansen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/106447/9874651-audio.mp3</guid>
+         <pubDate>Sun, 25 May 2014 23:03:29 +0000</pubDate>
+         <itunes:duration>00:55:18</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/europa_-_resultatet_-_radio24syv/Europa%20-%20Resultatet%20%E2%80%93%20Radio24syv/2014.05.25%20-%20Europa%20-%20Resultatet%2025-05-2014%20%281%29.mp3" />
+      </item>
+   </channel>
 </rss>

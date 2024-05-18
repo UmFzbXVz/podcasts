@@ -1,111 +1,111 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Børsen Gazelle Podcast</title>
-		<link>https://web.24syv.dk/channels/57</link>
-		<description>Hvad kræver det at få succes som selvstændig? Vi jagter svaret, når vi taler med selvstændige om deres op- og nedture, deres drivkraft og de værdifulde erfaringer, de har taget med sig. Lyt med, og få indspark til din egen virksomhed.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/316/selvsteandig-podcast-thumbnail-v09.png"/>
-		<item>
-			<title>Barons-stifter: Vi begik brutale fejl i opstartsfasen – her er vores vigtigste læring</title>
-			<link>https://mcdn.podbean.com/mf/web/3unj2p/Barons_v156dkuf.mp3</link>
-			<description>Joachim Latocha var en regnedreng, der hver dag gik på arbejde på kontoret i hvid skjorte og kiggede på excel-ark. For sin løn lagde han penge til side, og da han havde sparet en halv million kroner sammen, sagde han op på kontoret hos Deloitte og startede sin egen online skjortebutik, Barons. Fem år senere er der 17 ansatte og overskuddet er på 5 millioner kroner. Trods succesen er der mange ting, Joachim Latocha i dag ville have gjort anderledes – især når det kommer til virksomhedens opstart.</description>
-			<guid isPermaLink="true">https://mcdn.podbean.com/mf/web/3unj2p/Barons_v156dkuf.mp3</guid>
-			<pubDate>Wed, 22 Sep 2021 09:38:15 +0000</pubDate>
-			<itunes:duration>00:43:57</itunes:duration>
-			<enclosure url="https://mcdn.podbean.com/mf/web/3unj2p/Barons_v156dkuf.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Amazon blev Nupos katapult ind i tyskernes hjerter</title>
-			<link>https://mcdn.podbean.com/mf/web/jq9kud/Pro_Selvst_ndig_Nupo_V27et6w.mp3</link>
-			<description>Danmark blev for lille til Nupo, men da pulverklenodiet fra Brøndby forsøgte at komme ind på det tyske marked, mødte de en mur. Først da et nyt bestyrelsesmedlem bragte Amazon på bane, vendte Nupos lykke. Direktør i Nupo, Peter Wedelheim, tager os i dette afsnit bagom arbejdet med at opbygge en bomstærk salgskanal på Amazon, som tyskerne elsker.
- 
-Vi har dækket emnet Amazon tæt på Pro Selvstændig - herunder er et udpluk af vores artikler. Nederst finder du artikler, der er gratis at læse.  
- 
-Artikler, der kræver Børsen-abonnement:  
-Her er de fem ting, du bør undersøge, før du kaster dig ud i salg på Amazon 
-Pains og gains ved at sælge på Amazon  
-Vil du sparke gang i dit Amazonsalg? Her er to eksperters råd til seo, anmeldelser og de lækre detaljer, der får kunden til at trykke “køb”  
-Nørdet malingfirma fandt nøglen til vildt salg på Amazon 
-Skoiværksætter sætter værdier over omsætning: “Vi kunne sælge en masse på Amazon. Men jeg ville også give køb på mit brand, og på langt sigt er det en dum idé” 
+   <channel>
+      <title>Børsen Gazelle Podcast</title>
+      <link>https://web.24syv.dk/channels/57</link>
+      <description>Hvad kræver det at få succes som selvstændig? Vi jagter svaret, når vi taler med selvstændige om deres op- og nedture, deres drivkraft og de værdifulde erfaringer, de har taget med sig. Lyt med, og få indspark til din egen virksomhed.</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/borsen_gazelle_podcast/B%C3%B8rsen%20Gazelle%20Podcast/selvsteandig-podcast-thumbnail-v09.png" />
+      <item>
+         <title>Barons-stifter: Vi begik brutale fejl i opstartsfasen – her er vores vigtigste læring</title>
+         <link>https://mcdn.podbean.com/mf/web/3unj2p/Barons_v156dkuf.mp3</link>
+         <description>Joachim Latocha var en regnedreng, der hver dag gik på arbejde på kontoret i hvid skjorte og kiggede på excel-ark. For sin løn lagde han penge til side, og da han havde sparet en halv million kroner sammen, sagde han op på kontoret hos Deloitte og startede sin egen online skjortebutik, Barons. Fem år senere er der 17 ansatte og overskuddet er på 5 millioner kroner. Trods succesen er der mange ting, Joachim Latocha i dag ville have gjort anderledes – især når det kommer til virksomhedens opstart.</description>
+         <guid isPermaLink="true">https://mcdn.podbean.com/mf/web/3unj2p/Barons_v156dkuf.mp3</guid>
+         <pubDate>Wed, 22 Sep 2021 09:38:15 +0000</pubDate>
+         <itunes:duration>00:43:57</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/borsen_gazelle_podcast/B%C3%B8rsen%20Gazelle%20Podcast/2021.09.22%20-%20Barons-stifter.mp3" />
+      </item>
+      <item>
+         <title>Amazon blev Nupos katapult ind i tyskernes hjerter</title>
+         <link>https://mcdn.podbean.com/mf/web/jq9kud/Pro_Selvst_ndig_Nupo_V27et6w.mp3</link>
+         <description>Danmark blev for lille til Nupo, men da pulverklenodiet fra Brøndby forsøgte at komme ind på det tyske marked, mødte de en mur. Først da et nyt bestyrelsesmedlem bragte Amazon på bane, vendte Nupos lykke. Direktør i Nupo, Peter Wedelheim, tager os i dette afsnit bagom arbejdet med at opbygge en bomstærk salgskanal på Amazon, som tyskerne elsker.
+ 
+Vi har dækket emnet Amazon tæt på Pro Selvstændig - herunder er et udpluk af vores artikler. Nederst finder du artikler, der er gratis at læse.  
+ 
+Artikler, der kræver Børsen-abonnement:  
+Her er de fem ting, du bør undersøge, før du kaster dig ud i salg på Amazon 
+Pains og gains ved at sælge på Amazon  
+Vil du sparke gang i dit Amazonsalg? Her er to eksperters råd til seo, anmeldelser og de lækre detaljer, der får kunden til at trykke “køb”  
+Nørdet malingfirma fandt nøglen til vildt salg på Amazon 
+Skoiværksætter sætter værdier over omsætning: “Vi kunne sælge en masse på Amazon. Men jeg ville også give køb på mit brand, og på langt sigt er det en dum idé” 
 Eks­per­ter: Ama­zon kom­mer med al sand­syn­lig­hed til Dan­mark i ok­to­ber
 Du kan skrive dig op til Børsens nyhedsbrev til selvstændige og smv-ledere her. 
- 
-Gratis artikler: 
+ 
+Gratis artikler: 
 Klumme: Sådan forbereder du dig på Amazons indtog: 6 råd, der gør dig klar
-Klumme: Fem råd til en vellykket start på Amazon   
-Klumme: Brands ejer fremtiden på Amazon  
- 
+Klumme: Fem råd til en vellykket start på Amazon   
+Klumme: Brands ejer fremtiden på Amazon  
+ 
 Katrine Vigilius' LinkedIn finder du her.</description>
-			<guid isPermaLink="true">https://mcdn.podbean.com/mf/web/jq9kud/Pro_Selvst_ndig_Nupo_V27et6w.mp3</guid>
-			<pubDate>Thu, 09 Sep 2021 13:31:57 +0000</pubDate>
-			<itunes:duration>00:43:31</itunes:duration>
-			<enclosure url="https://mcdn.podbean.com/mf/web/jq9kud/Pro_Selvst_ndig_Nupo_V27et6w.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ecooking: Fritidsprojektet, der blev til en millionsucces</title>
-			<link>https://mcdn.podbean.com/mf/web/i5ugv4/Ecooking_V4_FINAL.mp3</link>
-			<description>I 2008 begyndte Tina Søgaard at eksperimentere i sit køkken i den jyske by Bjert ved Kolding. Hun fandt nogle olier og naturprodukter, hældte dem i en gryde og forsøgte at finde en opskrift på en rynkecreme til sig selv. Det blev starten på et forretningseventyr, som kulminerede i foråret 2021, da Tina Søgaard solgte størstedelen af sit livsværk til en britisk kapitalfond for et trecifret millionbeløb.
-Hvordan forvandler man det, der startede som et fritidsprojekt, til en millionsucces? Og hvad har Tina Søgaard lært på sin rejse som selvstændig? Bliv klogere i denne første episode af Børsens nye podcast. 
-Er du Børsen-abonnent? Så kan du læse mere om Tina Søgaards eksport til Rusland og Norden og om hendes frasalg. Du kan også skrive dig op til Børsens nyhedsbrev til selvstændige.</description>
-			<guid isPermaLink="true">https://mcdn.podbean.com/mf/web/i5ugv4/Ecooking_V4_FINAL.mp3</guid>
-			<pubDate>Wed, 25 Aug 2021 17:20:01 +0000</pubDate>
-			<itunes:duration>00:27:28</itunes:duration>
-			<enclosure url="https://mcdn.podbean.com/mf/web/i5ugv4/Ecooking_V4_FINAL.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Ungdommen shopper rundt på arbejdsmarkedet</title>
-			<link>https://mcdn.podbean.com/mf/web/bhwuj8/Afsnit-_Unge_final6o495.mp3</link>
-			<description>Trods et kronisk dårligt image er nutidens unge en stor ressource, der både er ydmyg, hårdtarbejdende, begavet og kreativ. Det er hele gazellepanelet enige om. Men ét problem er der dog med dem: De skifter hurtigt job, og særligt talenterne er svære at fastholde. Så hvad skal man gøre for at sikre, at de bliver? I panelet sidder topchef i Jyske Bank Anders Dam, iværksætter Birgit Aaby, stifter og ejer af Lakrids by Bülow Johan Bülow og Vice President i Microsoft Vesteuropa Marianne Dahl. </description>
-			<guid isPermaLink="true">https://mcdn.podbean.com/mf/web/bhwuj8/Afsnit-_Unge_final6o495.mp3</guid>
-			<pubDate>Wed, 09 Dec 2020 20:04:00 +0000</pubDate>
-			<itunes:duration>00:10:54</itunes:duration>
-			<enclosure url="https://mcdn.podbean.com/mf/web/bhwuj8/Afsnit-_Unge_final6o495.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Den troløse ungdom shopper rundt på arbejdsmarkedet</title>
-			<link>https://mcdn.podbean.com/mf/web/bhwuj8/Afsnit-_Unge_final6o495.mp3</link>
-			<description>Trods et kronisk dårligt image er nutidens unge en stor ressource, der både er ydmyg, hårdtarbejdende, begavet og kreativ. Det er hele gazellepanelet enige om. Men ét problem er der dog med dem: De skifter hurtigt job, og særligt talenterne er svære at fastholde. Så hvad skal man gøre for at sikre, at de bliver? I panelet sidder topchef i Jyske Bank Anders Dam, iværksætter Birgit Aaby, stifter og ejer af Lakrids by Bülow Johan Bülow og Vice President i Microsoft Vesteuropa Marianne Dahl. </description>
-			<guid isPermaLink="true">https://mcdn.podbean.com/mf/web/bhwuj8/Afsnit-_Unge_final6o495.mp3</guid>
-			<pubDate>Wed, 09 Dec 2020 15:48:29 +0000</pubDate>
-			<itunes:duration>00:12:02</itunes:duration>
-			<enclosure url="https://mcdn.podbean.com/mf/web/bhwuj8/Afsnit-_Unge_final6o495.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hvad har vi lært af hjemmearbejde?</title>
-			<link>https://mcdn.podbean.com/mf/web/ruvf28/Afsnit_-_hjemmearbejde9nube.mp3</link>
-			<description>Hjemmearbejde sætter nye krav til lederne, og de krav diskuterer Niels Lunde sammen med Børsens Gazellepanel. </description>
-			<guid isPermaLink="true">https://mcdn.podbean.com/mf/web/ruvf28/Afsnit_-_hjemmearbejde9nube.mp3</guid>
-			<pubDate>Fri, 04 Dec 2020 07:15:09 +0000</pubDate>
-			<itunes:duration>00:13:47</itunes:duration>
-			<enclosure url="https://mcdn.podbean.com/mf/web/ruvf28/Afsnit_-_hjemmearbejde9nube.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Coronakrisen er boost til vækstvirksomheders kreativitet</title>
-			<link>https://mcdn.podbean.com/mf/web/rdwdr6/Afsnit_3-_corona_generelt_1_bcbgq.mp3</link>
-			<description>For Johan Bülow var coronakrisen en kærkommen mulighed for at genopdage hans iværksættergen, mens det for mange iværksættere har været en mavepuster. Børsen undersøger, hvad man som selvstændig kan gøre for at ruske op i sin forretning, når kriser kradser.</description>
-			<guid isPermaLink="true">https://mcdn.podbean.com/mf/web/rdwdr6/Afsnit_3-_corona_generelt_1_bcbgq.mp3</guid>
-			<pubDate>Thu, 03 Dec 2020 13:54:16 +0000</pubDate>
-			<itunes:duration>00:20:06</itunes:duration>
-			<enclosure url="https://mcdn.podbean.com/mf/web/rdwdr6/Afsnit_3-_corona_generelt_1_bcbgq.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Bestyrelse eller ej: Derfor er modenhed dit vigtigste pejlemærke</title>
-			<link>https://mcdn.podbean.com/mf/web/yjmeu9/Afsnit_2_1_alsty.mp3</link>
-			<description>Mange virksomheder har knækket halsen på at være for sent eller tidligt ude med en professionel bestyrelse. Derfor vender gazelle-panelet, hvornår man som virksomhedsejer skal sætte en professionel bestyrelse, og hvordan man undgår, at bestyrelsen ender som en tam syltekrukke.</description>
-			<guid isPermaLink="true">https://mcdn.podbean.com/mf/web/yjmeu9/Afsnit_2_1_alsty.mp3</guid>
-			<pubDate>Thu, 26 Nov 2020 08:32:11 +0000</pubDate>
-			<itunes:duration>00:18:04</itunes:duration>
-			<enclosure url="https://mcdn.podbean.com/mf/web/yjmeu9/Afsnit_2_1_alsty.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Hvornår skal man fyre sig selv?</title>
-			<link>https://mcdn.podbean.com/mf/web/utnzy7/1_afsnit8jrmj.mp3</link>
-			<description>Du har bygget en virksomhed op fra grunden og kender hver en møtrik og hvert en tandhjul i virksomheden. Men måske du kender virksomheden lidt for godt? Og måske du i virkeligheden ikke er mand eller kvinde for at tage virksomheden til næste niveau? Det spørgsmål vender Børsens Gazellepanel i dag. I panelet sidder topchef i Jyske Bank Anders Dam, iværksætter Birgit Aaby, ejer og stifter af Lakrids by Bülow Johan Bülow og Vice President i Microsoft Vesteuropa Marianne Dahl. Din vært er Niels Lunde.</description>
-			<guid isPermaLink="true">https://mcdn.podbean.com/mf/web/utnzy7/1_afsnit8jrmj.mp3</guid>
-			<pubDate>Wed, 25 Nov 2020 08:23:37 +0000</pubDate>
-			<itunes:duration>00:13:18</itunes:duration>
-			<enclosure url="https://mcdn.podbean.com/mf/web/utnzy7/1_afsnit8jrmj.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+         <guid isPermaLink="true">https://mcdn.podbean.com/mf/web/jq9kud/Pro_Selvst_ndig_Nupo_V27et6w.mp3</guid>
+         <pubDate>Thu, 09 Sep 2021 13:31:57 +0000</pubDate>
+         <itunes:duration>00:43:31</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/borsen_gazelle_podcast/B%C3%B8rsen%20Gazelle%20Podcast/2021.09.09%20-%20Amazon%20blev%20Nupos%20katapult%20ind%20i%20tyskernes%20hjerter.mp3" />
+      </item>
+      <item>
+         <title>Ecooking: Fritidsprojektet, der blev til en millionsucces</title>
+         <link>https://mcdn.podbean.com/mf/web/i5ugv4/Ecooking_V4_FINAL.mp3</link>
+         <description>I 2008 begyndte Tina Søgaard at eksperimentere i sit køkken i den jyske by Bjert ved Kolding. Hun fandt nogle olier og naturprodukter, hældte dem i en gryde og forsøgte at finde en opskrift på en rynkecreme til sig selv. Det blev starten på et forretningseventyr, som kulminerede i foråret 2021, da Tina Søgaard solgte størstedelen af sit livsværk til en britisk kapitalfond for et trecifret millionbeløb.
+Hvordan forvandler man det, der startede som et fritidsprojekt, til en millionsucces? Og hvad har Tina Søgaard lært på sin rejse som selvstændig? Bliv klogere i denne første episode af Børsens nye podcast. 
+Er du Børsen-abonnent? Så kan du læse mere om Tina Søgaards eksport til Rusland og Norden og om hendes frasalg. Du kan også skrive dig op til Børsens nyhedsbrev til selvstændige.</description>
+         <guid isPermaLink="true">https://mcdn.podbean.com/mf/web/i5ugv4/Ecooking_V4_FINAL.mp3</guid>
+         <pubDate>Wed, 25 Aug 2021 17:20:01 +0000</pubDate>
+         <itunes:duration>00:27:28</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/borsen_gazelle_podcast/B%C3%B8rsen%20Gazelle%20Podcast/2021.08.25%20-%20Ecooking.mp3" />
+      </item>
+      <item>
+         <title>Ungdommen shopper rundt på arbejdsmarkedet</title>
+         <link>https://mcdn.podbean.com/mf/web/bhwuj8/Afsnit-_Unge_final6o495.mp3</link>
+         <description>Trods et kronisk dårligt image er nutidens unge en stor ressource, der både er ydmyg, hårdtarbejdende, begavet og kreativ. Det er hele gazellepanelet enige om. Men ét problem er der dog med dem: De skifter hurtigt job, og særligt talenterne er svære at fastholde. Så hvad skal man gøre for at sikre, at de bliver? I panelet sidder topchef i Jyske Bank Anders Dam, iværksætter Birgit Aaby, stifter og ejer af Lakrids by Bülow Johan Bülow og Vice President i Microsoft Vesteuropa Marianne Dahl.</description>
+         <guid isPermaLink="true">https://mcdn.podbean.com/mf/web/bhwuj8/Afsnit-_Unge_final6o495.mp3</guid>
+         <pubDate>Wed, 09 Dec 2020 20:04:00 +0000</pubDate>
+         <itunes:duration>00:10:54</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/borsen_gazelle_podcast/B%C3%B8rsen%20Gazelle%20Podcast/2020.12.09%20-%20Ungdommen%20shopper%20rundt%20p%C3%A5%20arbejdsmarkedet.mp3" />
+      </item>
+      <item>
+         <title>Den troløse ungdom shopper rundt på arbejdsmarkedet</title>
+         <link>https://mcdn.podbean.com/mf/web/bhwuj8/Afsnit-_Unge_final6o495.mp3</link>
+         <description>Trods et kronisk dårligt image er nutidens unge en stor ressource, der både er ydmyg, hårdtarbejdende, begavet og kreativ. Det er hele gazellepanelet enige om. Men ét problem er der dog med dem: De skifter hurtigt job, og særligt talenterne er svære at fastholde. Så hvad skal man gøre for at sikre, at de bliver? I panelet sidder topchef i Jyske Bank Anders Dam, iværksætter Birgit Aaby, stifter og ejer af Lakrids by Bülow Johan Bülow og Vice President i Microsoft Vesteuropa Marianne Dahl.</description>
+         <guid isPermaLink="true">https://mcdn.podbean.com/mf/web/bhwuj8/Afsnit-_Unge_final6o495.mp3</guid>
+         <pubDate>Wed, 09 Dec 2020 15:48:29 +0000</pubDate>
+         <itunes:duration>00:12:02</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/borsen_gazelle_podcast/B%C3%B8rsen%20Gazelle%20Podcast/2020.12.09%20-%20Den%20trol%C3%B8se%20ungdom%20shopper%20rundt%20p%C3%A5%20arbejdsmarkedet.mp3" />
+      </item>
+      <item>
+         <title>Hvad har vi lært af hjemmearbejde?</title>
+         <link>https://mcdn.podbean.com/mf/web/ruvf28/Afsnit_-_hjemmearbejde9nube.mp3</link>
+         <description>Hjemmearbejde sætter nye krav til lederne, og de krav diskuterer Niels Lunde sammen med Børsens Gazellepanel.</description>
+         <guid isPermaLink="true">https://mcdn.podbean.com/mf/web/ruvf28/Afsnit_-_hjemmearbejde9nube.mp3</guid>
+         <pubDate>Fri, 04 Dec 2020 07:15:09 +0000</pubDate>
+         <itunes:duration>00:13:47</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/borsen_gazelle_podcast/B%C3%B8rsen%20Gazelle%20Podcast/2020.12.04%20-%20Hvad%20har%20vi%20l%C3%A6rt%20af%20hjemmearbejde.mp3" />
+      </item>
+      <item>
+         <title>Coronakrisen er boost til vækstvirksomheders kreativitet</title>
+         <link>https://mcdn.podbean.com/mf/web/rdwdr6/Afsnit_3-_corona_generelt_1_bcbgq.mp3</link>
+         <description>For Johan Bülow var coronakrisen en kærkommen mulighed for at genopdage hans iværksættergen, mens det for mange iværksættere har været en mavepuster. Børsen undersøger, hvad man som selvstændig kan gøre for at ruske op i sin forretning, når kriser kradser.</description>
+         <guid isPermaLink="true">https://mcdn.podbean.com/mf/web/rdwdr6/Afsnit_3-_corona_generelt_1_bcbgq.mp3</guid>
+         <pubDate>Thu, 03 Dec 2020 13:54:16 +0000</pubDate>
+         <itunes:duration>00:20:06</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/borsen_gazelle_podcast/B%C3%B8rsen%20Gazelle%20Podcast/2020.12.03%20-%20Coronakrisen%20er%20boost%20til%20v%C3%A6kstvirksomheders%20kreativitet.mp3" />
+      </item>
+      <item>
+         <title>Bestyrelse eller ej: Derfor er modenhed dit vigtigste pejlemærke</title>
+         <link>https://mcdn.podbean.com/mf/web/yjmeu9/Afsnit_2_1_alsty.mp3</link>
+         <description>Mange virksomheder har knækket halsen på at være for sent eller tidligt ude med en professionel bestyrelse. Derfor vender gazelle-panelet, hvornår man som virksomhedsejer skal sætte en professionel bestyrelse, og hvordan man undgår, at bestyrelsen ender som en tam syltekrukke.</description>
+         <guid isPermaLink="true">https://mcdn.podbean.com/mf/web/yjmeu9/Afsnit_2_1_alsty.mp3</guid>
+         <pubDate>Thu, 26 Nov 2020 08:32:11 +0000</pubDate>
+         <itunes:duration>00:18:04</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/borsen_gazelle_podcast/B%C3%B8rsen%20Gazelle%20Podcast/2020.11.26%20-%20Bestyrelse%20eller%20ej.mp3" />
+      </item>
+      <item>
+         <title>Hvornår skal man fyre sig selv?</title>
+         <link>https://mcdn.podbean.com/mf/web/utnzy7/1_afsnit8jrmj.mp3</link>
+         <description>Du har bygget en virksomhed op fra grunden og kender hver en møtrik og hvert en tandhjul i virksomheden. Men måske du kender virksomheden lidt for godt? Og måske du i virkeligheden ikke er mand eller kvinde for at tage virksomheden til næste niveau? Det spørgsmål vender Børsens Gazellepanel i dag. I panelet sidder topchef i Jyske Bank Anders Dam, iværksætter Birgit Aaby, ejer og stifter af Lakrids by Bülow Johan Bülow og Vice President i Microsoft Vesteuropa Marianne Dahl. Din vært er Niels Lunde.</description>
+         <guid isPermaLink="true">https://mcdn.podbean.com/mf/web/utnzy7/1_afsnit8jrmj.mp3</guid>
+         <pubDate>Wed, 25 Nov 2020 08:23:37 +0000</pubDate>
+         <itunes:duration>00:13:18</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/borsen_gazelle_podcast/B%C3%B8rsen%20Gazelle%20Podcast/2020.11.25%20-%20Hvorn%C3%A5r%20skal%20man%20fyre%20sig%20selv.mp3" />
+      </item>
+   </channel>
 </rss>

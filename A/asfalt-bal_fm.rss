@@ -1,74 +1,74 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Asfalt-Bal FM</title>
-		<link>https://web.24syv.dk/channels/3899</link>
-		<description>Distortion og Radio24syv afholder en folkelig radio-installation, som vi har valgt at kalde Asfalt-Bal FM - i partnerskab med beboerne på Istedgade i København.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/374/Asfalt-Bal.jpg"/>
-		<item>
-			<title>Asfalt-Bal FM 04-06-2015 (2)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/105356/11642138-audio.mp3</link>
-			<description>Distortion og Radio24syv afholder en folkelig radio-installation. I studiet vender Simon Jul plader. På Istedgade i København transmitteres det hele til en stor gadefest. Simon Jul</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/105356/11642138-audio.mp3</guid>
-			<pubDate>Thu, 04 Jun 2015 20:03:28 +0000</pubDate>
-			<itunes:duration>00:54:59</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/105356/11642138-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Asfalt-Bal FM 04-06-2015 (1)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/105357/11642036-audio.mp3</link>
-			<description>Distortion og Radio24syv afholder en folkelig radio-installation. I studiet vender Simon Dokkedal plader hos Simon Jul. På Istedgade i København transmitteres det hele til en stor gadefest. Simon Jul</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/105357/11642036-audio.mp3</guid>
-			<pubDate>Thu, 04 Jun 2015 19:03:29 +0000</pubDate>
-			<itunes:duration>00:55:55</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/105357/11642036-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Asfalt-Bal FM 05-06-2014 (2)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/105358/9906170-audio.mp3</link>
-			<description>Simon Jul har stadig besøg af sin ven og kollega, musiker Tue Track. Lyt med og lad musikken gøre sit arbejde.
+   <channel>
+      <title>Asfalt-Bal FM</title>
+      <link>https://web.24syv.dk/channels/3899</link>
+      <description>Distortion og Radio24syv afholder en folkelig radio-installation, som vi har valgt at kalde Asfalt-Bal FM - i partnerskab med beboerne på Istedgade i København.</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/asfalt-bal_fm/Asfalt-Bal.jpg" />
+      <item>
+         <title>Asfalt-Bal FM 04-06-2015 (2)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/105356/11642138-audio.mp3</link>
+         <description>Distortion og Radio24syv afholder en folkelig radio-installation. I studiet vender Simon Jul plader. På Istedgade i København transmitteres det hele til en stor gadefest. Simon Jul</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/105356/11642138-audio.mp3</guid>
+         <pubDate>Thu, 04 Jun 2015 20:03:28 +0000</pubDate>
+         <itunes:duration>00:54:59</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/asfalt-bal_fm/Asfalt-Bal%20FM/2015.06.04%20-%20Asfalt-Bal%20FM%2004-06-2015%20%282%29.mp3" />
+      </item>
+      <item>
+         <title>Asfalt-Bal FM 04-06-2015 (1)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/105357/11642036-audio.mp3</link>
+         <description>Distortion og Radio24syv afholder en folkelig radio-installation. I studiet vender Simon Dokkedal plader hos Simon Jul. På Istedgade i København transmitteres det hele til en stor gadefest. Simon Jul</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/105357/11642036-audio.mp3</guid>
+         <pubDate>Thu, 04 Jun 2015 19:03:29 +0000</pubDate>
+         <itunes:duration>00:55:55</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/asfalt-bal_fm/Asfalt-Bal%20FM/2015.06.04%20-%20Asfalt-Bal%20FM%2004-06-2015%20%281%29.mp3" />
+      </item>
+      <item>
+         <title>Asfalt-Bal FM 05-06-2014 (2)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/105358/9906170-audio.mp3</link>
+         <description>Simon Jul har stadig besøg af sin ven og kollega, musiker Tue Track. Lyt med og lad musikken gøre sit arbejde.
 Asfalt-bal er et musikalsk samarbejde mellem Radio24syv og musik festivalen Distortion.
 Vært : Simon Jul.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/105358/9906170-audio.mp3</guid>
-			<pubDate>Thu, 05 Jun 2014 20:05:47 +0000</pubDate>
-			<itunes:duration>00:55:19</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/105358/9906170-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Asfalt-Bal FM  05-06-2014 (1)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/105359/9906041-audio.mp3</link>
-			<description>Distortion har indtaget København og i den forbindelse sender Simon Jul i to timer live fra studiet på Radio24syv. Med sig har han sin ven og kollega, musiker Tue Track.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/105358/9906170-audio.mp3</guid>
+         <pubDate>Thu, 05 Jun 2014 20:05:47 +0000</pubDate>
+         <itunes:duration>00:55:19</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/asfalt-bal_fm/Asfalt-Bal%20FM/2014.06.05%20-%20Asfalt-Bal%20FM%2005-06-2014%20%282%29.mp3" />
+      </item>
+      <item>
+         <title>Asfalt-Bal FM  05-06-2014 (1)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/105359/9906041-audio.mp3</link>
+         <description>Distortion har indtaget København og i den forbindelse sender Simon Jul i to timer live fra studiet på Radio24syv. Med sig har han sin ven og kollega, musiker Tue Track.
 Mads Brügger og Mikael Bertelsen er igen i år på gaden og de har allieret sig med Holbæk Pibe Band. Det bliver aldeles ikke kedeligt!
 Asfalt-bal er et musikalsk samarbejde mellem Radio24syv og musik festivalen Distortion.
 Vært : Simon Jul.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/105359/9906041-audio.mp3</guid>
-			<pubDate>Thu, 05 Jun 2014 19:03:21 +0000</pubDate>
-			<itunes:duration>00:55:21</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/105359/9906041-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Asfalt-Bal FM uge 22, 2013 (2)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/105360/8222401-audio.mp3</link>
-			<description>I denne time har Simon Jul stadig besøg af sin ven og kollega, musiker Tue Track. Der bliver snakket og der bliver spillet plader.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/105359/9906041-audio.mp3</guid>
+         <pubDate>Thu, 05 Jun 2014 19:03:21 +0000</pubDate>
+         <itunes:duration>00:55:21</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/asfalt-bal_fm/Asfalt-Bal%20FM/2014.06.05%20-%20Asfalt-Bal%20FM%20%2005-06-2014%20%281%29.mp3" />
+      </item>
+      <item>
+         <title>Asfalt-Bal FM uge 22, 2013 (2)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/105360/8222401-audio.mp3</link>
+         <description>I denne time har Simon Jul stadig besøg af sin ven og kollega, musiker Tue Track. Der bliver snakket og der bliver spillet plader.
 Asfalt-bal er et musikalsk samarbejde mellem Radio24syv og musik festivalen Distortion.
 Vært : Simon Jul.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/105360/8222401-audio.mp3</guid>
-			<pubDate>Thu, 30 May 2013 20:03:40 +0000</pubDate>
-			<itunes:duration>00:55:18</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/105360/8222401-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Asfalt-Bal FM uge 22, 2013 (1)</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/105361/8222232-audio.mp3</link>
-			<description>Simon Jul holder skansen på Radio24syv. Mads Brügger og Mikael Bertelsen er gået ned på Istedgade og de har gang i noget helt særligt. Det er nemlig første gang nogensinde at en radiostation samarbejder med en kæmpe stor gadefest. Mads og Mikael har allieret sig med Ivan Tønder som vil spille &quot;Get lucky&quot; på fløjte oppe i en kran. Lyt med!  Det bliver ikke kedeligt.
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/105360/8222401-audio.mp3</guid>
+         <pubDate>Thu, 30 May 2013 20:03:40 +0000</pubDate>
+         <itunes:duration>00:55:18</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/asfalt-bal_fm/Asfalt-Bal%20FM/2013.05.30%20-%20Asfalt-Bal%20FM%20uge%2022%2C%202013%20%282%29.mp3" />
+      </item>
+      <item>
+         <title>Asfalt-Bal FM uge 22, 2013 (1)</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/105361/8222232-audio.mp3</link>
+         <description>Simon Jul holder skansen på Radio24syv. Mads Brügger og Mikael Bertelsen er gået ned på Istedgade og de har gang i noget helt særligt. Det er nemlig første gang nogensinde at en radiostation samarbejder med en kæmpe stor gadefest. Mads og Mikael har allieret sig med Ivan Tønder som vil spille "Get lucky" på fløjte oppe i en kran. Lyt med!  Det bliver ikke kedeligt.
 Senere kommer Tue Track forbi Simon for at spille plader.
 Asfalt-bal er et musikalsk samarbejde mellem Radio24syv og musik festivalen Distortion.
 Vært : Simon Jul.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/105361/8222232-audio.mp3</guid>
-			<pubDate>Thu, 30 May 2013 19:03:36 +0000</pubDate>
-			<itunes:duration>00:55:27</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/105361/8222232-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/105361/8222232-audio.mp3</guid>
+         <pubDate>Thu, 30 May 2013 19:03:36 +0000</pubDate>
+         <itunes:duration>00:55:27</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/asfalt-bal_fm/Asfalt-Bal%20FM/2013.05.30%20-%20Asfalt-Bal%20FM%20uge%2022%2C%202013%20%281%29.mp3" />
+      </item>
+   </channel>
 </rss>

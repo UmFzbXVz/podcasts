@@ -1,552 +1,543 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Købmændenes Klub</title>
-		<link>https://web.24syv.dk/channels/4831</link>
-		<description>I dette fodboldformat inviterer Mette Cornelius hver uge de tidligere fodboldbosser, Lynge Jakobsen og Niels-Christian Holmstrøm, til en snak om, hvad der rør sig i dansk fodbold. Se også programmet på discovery+</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/684/eafb362944fd7564cb23381f00e0a2c2.jpg"/>
-		<item>
-			<title>Købmændenes Klub med Lynge Jakobsen</title>
-			<link>https://api.spreaker.com/download/episode/49905962/kklyd2305.mp3</link>
-			<description>I sæsonens sidste afsnit vender Mette Cornelius, Niels-Christian Holmstrøm og Lynge Jakobsen Superliga-sæsonen og kommer blandt andet forbi FC Københavns mesterskab, AGF’s deroute og de overraskende bronzevindere fra Silkeborg.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/49905962/kklyd2305.mp3</guid>
-			<pubDate>Mon, 23 May 2022 13:29:27 +0000</pubDate>
-			<itunes:duration>01:28:13</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/49905962/kklyd2305.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Björn Wesström</title>
-			<link>https://api.spreaker.com/download/episode/49754581/k_bm_ndenes_klub_bjo_rn_wesstro_m_clean.mp3</link>
-			<description>Ugens gæst hos Mette Cornelius og Niels-Christian Holmstrøm er fodbolddirektør i OB, Björn Wesström.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/49754581/k_bm_ndenes_klub_bjo_rn_wesstro_m_clean.mp3</guid>
-			<pubDate>Wed, 11 May 2022 08:55:14 +0000</pubDate>
-			<itunes:duration>00:56:28</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/49754581/k_bm_ndenes_klub_bjo_rn_wesstro_m_clean.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Peter Sørensen</title>
-			<link>https://api.spreaker.com/download/episode/49592505/kkpodpeter.mp3</link>
-			<description>Peter Sørensen er dagens gæst i studiet til en snak om den overraskende fyring i Vejle Boldklub.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/49592505/kkpodpeter.mp3</guid>
-			<pubDate>Fri, 29 Apr 2022 07:22:39 +0000</pubDate>
-			<itunes:duration>01:04:44</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/49592505/kkpodpeter.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Hans Jørgen Haysen</title>
-			<link>https://api.spreaker.com/download/episode/49566694/kk_250422.mp3</link>
-			<description>For første gang siden sin krænkelsessag åbner Hans Jørgen Haysen op for forløbet og det glippede skifte til AGF.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/49566694/kk_250422.mp3</guid>
-			<pubDate>Wed, 27 Apr 2022 07:56:44 +0000</pubDate>
-			<itunes:duration>01:04:03</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/49566694/kk_250422.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Jens Hammer Sørensen</title>
-			<link>https://api.spreaker.com/download/episode/49422074/kk_hammer.mp3</link>
-			<description>Administrerende direktør i Esbjerg fB, Jens Hammer Sørensen, er dagens gæst i Købmændenes Klub.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/49422074/kk_hammer.mp3</guid>
-			<pubDate>Wed, 13 Apr 2022 11:53:33 +0000</pubDate>
-			<itunes:duration>00:45:51</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/49422074/kk_hammer.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Åge Hareide</title>
-			<link>https://api.spreaker.com/download/episode/49422055/kk_hareide.mp3</link>
-			<description>Den tidligere landstræner Åge Hareide besøger Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/49422055/kk_hareide.mp3</guid>
-			<pubDate>Wed, 13 Apr 2022 11:33:32 +0000</pubDate>
-			<itunes:duration>01:03:26</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/49422055/kk_hareide.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med PC og Steinlein</title>
-			<link>https://api.spreaker.com/download/episode/49265575/steinogpcsompod.mp3</link>
-			<description>Mette Cornelius har i dag fået fornemt besøg i Købmændenes Klub, da sportscheferne fra Superligaens to førerhold, Claus Steinlein og Peter ”PC” Christiansen, er i studiet sammen. Det bliver til en snak om den interne kamp mellem Superligaens største guldkandidater, transferstrategier, interne drillerier og meget andet.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/49265575/steinogpcsompod.mp3</guid>
-			<pubDate>Thu, 31 Mar 2022 12:43:43 +0000</pubDate>
-			<itunes:duration>01:25:41</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/49265575/steinogpcsompod.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Frank Arnesen</title>
-			<link>https://api.spreaker.com/download/episode/49198432/kklyd.mp3</link>
-			<description>Sportsdirektør og tidligere landsholdslegende Frank Arnesen er denne uges gæst i Købmændenes Klub, hvor snakken blandt andet kommer omkring Kasper Hjulmand og Christian Eriksen.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/49198432/kklyd.mp3</guid>
-			<pubDate>Fri, 25 Mar 2022 13:10:04 +0000</pubDate>
-			<itunes:duration>01:39:37</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/49198432/kklyd.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Stig Inge Bjørnebye</title>
-			<link>https://api.spreaker.com/download/episode/49077657/kk_140322_podcast.mp3</link>
-			<description>I denne uge har Mette Cornelius og Niels-Christian Holmstrøm besøg af AGF's sportschef, Stig Inge Bjørnebye.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/49077657/kk_140322_podcast.mp3</guid>
-			<pubDate>Wed, 16 Mar 2022 09:29:09 +0000</pubDate>
-			<itunes:duration>01:00:44</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/49077657/kk_140322_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Andreas Byder</title>
-			<link>https://api.spreaker.com/download/episode/49002294/kkpodpoddddd.mp3</link>
-			<description>Ugens gæst i studiet er administrerende direktør i Lyngby Boldklub, Andreas Byder.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/49002294/kkpodpoddddd.mp3</guid>
-			<pubDate>Wed, 09 Mar 2022 09:52:26 +0000</pubDate>
-			<itunes:duration>00:51:43</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/49002294/kkpodpoddddd.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Esben Hansen</title>
-			<link>https://api.spreaker.com/download/episode/48839817/kk_podcast_esben.mp3</link>
-			<description>I denne uge har Mette Cornelius og Niels-Christian Holmstrøm besøg af Esben Hansen i Købmændenes Klub.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/48839817/kk_podcast_esben.mp3</guid>
-			<pubDate>Wed, 23 Feb 2022 07:44:52 +0000</pubDate>
-			<itunes:duration>00:55:28</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/48839817/kk_podcast_esben.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Jan Bech Andersen</title>
-			<link>https://api.spreaker.com/download/episode/48695681/kkjanbechlyd.mp3</link>
-			<description>Købmændenes Klub er tilbage, og denne sæsons første gæst er Jan Bech Andersen.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/48695681/kkjanbechlyd.mp3</guid>
-			<pubDate>Fri, 11 Feb 2022 22:39:08 +0000</pubDate>
-			<itunes:duration>00:58:08</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/48695681/kkjanbechlyd.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes klub med Lynge Jakobsen - del 2</title>
-			<link>https://api.spreaker.com/download/episode/47808984/kkpodcast1.mp3</link>
-			<description>Den tidligere AaB-sportsdirektør Lynge Jakobsen er denne uges gæst i Købmændenes Klub. Sammen med Mette Cornelius og Niels-Christian Holmstrøm afrundes efteråret i 3F Superligaen.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/47808984/kkpodcast1.mp3</guid>
-			<pubDate>Mon, 06 Dec 2021 18:51:55 +0000</pubDate>
-			<itunes:duration>00:58:20</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/47808984/kkpodcast1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Lynge Jakobsen - del 1</title>
-			<link>https://api.spreaker.com/download/episode/47739520/kk_301121_podcast.mp3</link>
-			<description>Den tidligere AaB-sportsdirektør, Lynge Jakobsen, er denne uges gæst i Købmændenes Klub. Sammen med Mette Cornelius og Niels-Christian Holmstrøm afrundes efteråret af i 3F Superligaen. Der evalueres på klubberne i top seks og deres efterårssæson.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/47739520/kk_301121_podcast.mp3</guid>
-			<pubDate>Wed, 01 Dec 2021 16:23:16 +0000</pubDate>
-			<itunes:duration>01:04:50</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/47739520/kk_301121_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Lynge Jakobsen - del 1</title>
-			<link>https://api.spreaker.com/download/episode/47736928/kk_301121_podcast.mp3</link>
-			<description>Den tidligere AaB-sportsdirektør, Lynge Jakobsen, er denne uges gæst i Købmændenes Klub. Sammen med Mette Cornelius og Niels-Christian Holmstrøm afrundes efteråret af i 3F Superligaen. Der evalueres på klubberne i top seks og deres efterårssæson.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/47736928/kk_301121_podcast.mp3</guid>
-			<pubDate>Wed, 01 Dec 2021 13:03:02 +0000</pubDate>
-			<itunes:duration>00:00:43</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/47736928/kk_301121_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Allan Gaarde</title>
-			<link>https://api.spreaker.com/download/episode/47516201/kk_081121_dpw_1.mp3</link>
-			<description>Den tidligere sportsdirektør i AaB, Allan Gaarde er denne uges gæst i Købmændenes Klub. Der snakkes om Gaardes tid som sportsdirektør i AaB og om hans nuværende job som partner i konsulentfirmatet One Nexus, og hvordan de hjælper fodboldklubber.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/47516201/kk_081121_dpw_1.mp3</guid>
-			<pubDate>Wed, 17 Nov 2021 09:37:59 +0000</pubDate>
-			<itunes:duration>00:56:09</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/47516201/kk_081121_dpw_1.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Ove Pedersen</title>
-			<link>https://api.spreaker.com/download/episode/47290657/kkpod.mp3</link>
-			<description>Assisterende sportschef og udenrigsminister i FC Midtjylland. Denne uges gæst i Købmændenes Klub, Ove Pedersen, har mange kasketter på i sit daglige virke og i denne uges afsnit af Købmændenes Klub, kan du blive klogere på Ove Pedersens lange karriere i dansk fodbold, høre spændende anekdoter fra indersiden af et væld af klubber samt få historien om Ove Pedersens afstikker til omdiskuterede Qatar.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/47290657/kkpod.mp3</guid>
-			<pubDate>Wed, 03 Nov 2021 12:34:20 +0000</pubDate>
-			<itunes:duration>01:13:01</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/47290657/kkpod.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Sune Smith-Nielsen</title>
-			<link>https://api.spreaker.com/download/episode/47179852/kklyd2710.mp3</link>
-			<description>Udviklingsdirektør i FC København, Sune Smith-Nielsen, gæster i denne uge Mette Cornelius og Niels-Christian Holmstrøm. Bliv klogere på FC Københavns talentarbejde, scouting og nogle af københavnernes nye stjernefrø.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/47179852/kklyd2710.mp3</guid>
-			<pubDate>Wed, 27 Oct 2021 11:02:06 +0000</pubDate>
-			<itunes:duration>01:04:28</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/47179852/kklyd2710.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Jesper Stüker</title>
-			<link>https://api.spreaker.com/download/episode/47058680/jesperkk.mp3</link>
-			<description>I denne uges afsnit af Købmændenes Klub har Mette Cornelius og Niels-Christian Holmstøm haft besøg af sportschef i Silkeborg, Jesper Stüker. Det blev bl.a. til en snak om Kent Nielsens store rolle i klubben, talentarbejdet i Silkeborg og hvordan dette arbejde resulterer i store salg af egne profiler.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/47058680/jesperkk.mp3</guid>
-			<pubDate>Wed, 20 Oct 2021 07:49:22 +0000</pubDate>
-			<itunes:duration>00:59:03</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/47058680/jesperkk.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Michael Hemmingsen</title>
-			<link>https://api.spreaker.com/download/episode/46953971/kkmhpod.mp3</link>
-			<description>Købmændenes Klub har i denne uge fornøjelsen af at byde velkommen til OB’s sportschef Michael Hemmingsen. Det blev til en snak om en lang karriere i OB som både spiller, træner og nu sportschef samt om det projekt og de visioner som Michael Hemmingsen står i spidsen for i det fynske.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/46953971/kkmhpod.mp3</guid>
-			<pubDate>Wed, 13 Oct 2021 10:17:15 +0000</pubDate>
-			<itunes:duration>00:59:53</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/46953971/kkmhpod.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Jesper Fredberg</title>
-			<link>https://api.spreaker.com/download/episode/46738358/jesperpod.mp3</link>
-			<description>Jesper Fredberg er denne uges gæst i Købmændenes Klub. Hør om hans vej fra trænergerningen til at være sportschef i Viborg. Kom helt tæt på Viborgs rekrutteringsproces med at finde både cheftrænere og spillere til talent- og førsteholdet.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/46738358/jesperpod.mp3</guid>
-			<pubDate>Wed, 29 Sep 2021 08:32:27 +0000</pubDate>
-			<itunes:duration>00:59:57</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/46738358/jesperpod.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Peter Christiansen</title>
-			<link>https://api.spreaker.com/download/episode/46632570/kklyd2209.mp3</link>
-			<description>’PC’ er denne uges gæst i Købmændenes Klub. Kom helt tæt på FC Københavns netop overståede transfervindue, Brentfords bud på Jonas Wind og hør, hvad sportschefen tænker om Jess Thorups Brøndby-kommentar.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/46632570/kklyd2209.mp3</guid>
-			<pubDate>Wed, 22 Sep 2021 09:20:12 +0000</pubDate>
-			<itunes:duration>01:00:16</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/46632570/kklyd2209.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Michael Stensgaard</title>
-			<link>https://api.spreaker.com/download/episode/46529030/stensgaardpod.mp3</link>
-			<description>I denne uge kan Mette Cornelius og Niels-Christian Holmstrøm, byde velkommen til den første fodboldagent nogensinde i Købmændenes Klub, Michael Stensgaard. Det blev bl.a. til en snak om virkeligheden i agentbranchen bag kulisserne og de mange faktorer der er til stede i en barsk fodboldverden.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/46529030/stensgaardpod.mp3</guid>
-			<pubDate>Wed, 15 Sep 2021 08:06:51 +0000</pubDate>
-			<itunes:duration>00:56:45</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/46529030/stensgaardpod.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Carsten V. Jensen</title>
-			<link>https://api.spreaker.com/download/episode/46427111/carstevpod.mp3</link>
-			<description>Det er Carsten V. Jensen, der i denne uge har lagt vejen forbi Købmændenes Klub. Sammen med Niels-Christian Holmstrøm og Mette Cornelius snakker fodbolddirektøren i Brøndby IF. bl.a. om transfervinduet, til- og afgange samt klubbens rolle i Europa League.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/46427111/carstevpod.mp3</guid>
-			<pubDate>Wed, 08 Sep 2021 11:13:49 +0000</pubDate>
-			<itunes:duration>00:59:59</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/46427111/carstevpod.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Købmændenes Klub med Kasper Hjulmand</title>
-			<link>https://api.spreaker.com/download/episode/46426469/hjulmandpodcast.mp3</link>
-			<description>Landstræner Kasper Hjulmand sparker Købmændenes Klub i gang efter sommerferien. Sammen med Niels-Christian Holmstrøm og Mette Cornelius taler landstræneren om EM, Eriksens kollaps, VM-kvalifikationen og udfordringerne ved en slutrunde i Qatar.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/46426469/hjulmandpodcast.mp3</guid>
-			<pubDate>Wed, 08 Sep 2021 09:53:40 +0000</pubDate>
-			<itunes:duration>00:59:56</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/46426469/hjulmandpodcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, episode 16: Niels Erik Søndergaard om gyldne årgange i Esbjerg og fremtiden i Horsens</title>
-			<link>https://api.spreaker.com/download/episode/44906749/kk_180521_3_dpw.mp3</link>
-			<description>Den tidligere Esbjerg- og nuværende AC Horsens-fodboldboss Niels Erik Søndergaard gæster Mette Cornelius og Niels-Christian Holmstrøm til en snak om gode årgange i Esbjerg, salgsobjekter i AC Horsens og en hård kamp om oprykning næste sæson.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44906749/kk_180521_3_dpw.mp3</guid>
-			<pubDate>Wed, 19 May 2021 10:04:18 +0000</pubDate>
-			<itunes:duration>01:00:23</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44906749/kk_180521_3_dpw.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Lars Seier om fyringen af Ståle Solbakken og den sportslige ledelse i FCK</title>
-			<link>https://api.spreaker.com/download/episode/44731227/kklyd1005.mp3</link>
-			<description>Lars Seier er storaktionær i FC København og denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm. Seier fortæller blandt andet hvorfor han valgte at investere i FC København og om forløbet med fyringen af Ståle Solbakken.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44731227/kklyd1005.mp3</guid>
-			<pubDate>Mon, 10 May 2021 10:00:00 +0000</pubDate>
-			<itunes:duration>00:17:16</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44731227/kklyd1005.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, episode 15: Lars Seier om investeringen i FCK og fyringen af Ståle Solbakken</title>
-			<link>https://api.spreaker.com/download/episode/44731227/kklyd1005.mp3</link>
-			<description>Lars Seier er storaktionær i FC København og denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm. Seier fortæller blandt andet hvorfor han valgte at investere i FC København og om forløbet med fyringen af Ståle Solbakken.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44731227/kklyd1005.mp3</guid>
-			<pubDate>Mon, 10 May 2021 08:16:27 +0000</pubDate>
-			<itunes:duration>01:01:20</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44731227/kklyd1005.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Troels Bech: Her er mit største fodboldøjeblik - og min største skuffelse</title>
-			<link>https://api.spreaker.com/download/episode/44639803/kk0505.mp3</link>
-			<description>I denne uge er det Troels Bech, der har lagt vejen forbi Mette Cornelius og Niels-Christian Holmstrøm til en snak om blandt andet en skæbnesvanger dag i Horsens i 2018 og samarbejdet med Alexander Zorniger.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44639803/kk0505.mp3</guid>
-			<pubDate>Wed, 05 May 2021 09:30:53 +0000</pubDate>
-			<itunes:duration>00:09:23</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44639803/kk0505.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, episode 14: Troels Bech om den skæbnesvangre dag i Horsens, samarbejdet med Zorniger, og de bedste spillere han haft med at gøre</title>
-			<link>https://api.spreaker.com/download/episode/44639803/kk0505.mp3</link>
-			<description>I denne uge er det Troels Bech, der har lagt vejen forbi Mette Cornelius og Niels-Christian Holmstrøm til en snak om blandt andet en skæbnesvanger dag i Horsens i 2018 og samarbejdet med Alexander Zorniger.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44639803/kk0505.mp3</guid>
-			<pubDate>Wed, 05 May 2021 08:47:11 +0000</pubDate>
-			<itunes:duration>01:00:02</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44639803/kk0505.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Vejle-boss hylder stortalent: Han bliver vores største salg nogensinde</title>
-			<link>https://api.spreaker.com/download/episode/44532092/lydkk.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44532092/lydkk.mp3</guid>
-			<pubDate>Wed, 28 Apr 2021 09:48:20 +0000</pubDate>
-			<itunes:duration>00:09:58</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44532092/lydkk.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, episode 13: Jacob Krüger om verdens bedste job, trænerkultur, danskere i truppen og Faghir</title>
-			<link>https://api.spreaker.com/download/episode/44532092/lydkk.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44532092/lydkk.mp3</guid>
-			<pubDate>Wed, 28 Apr 2021 08:49:41 +0000</pubDate>
-			<itunes:duration>00:55:45</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44532092/lydkk.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Lyngby-boss: Her er mit bedste salg - og min største svipser</title>
-			<link>https://api.spreaker.com/download/episode/44418421/kkpodcast2104.mp3</link>
-			<description>Birger Jørgensen er denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub. Lyngby-bossen kmmer blandt andet omkring redningen fra konkursen, Emre Mor og Kasper Hjulmands tid i klubben.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44418421/kkpodcast2104.mp3</guid>
-			<pubDate>Wed, 21 Apr 2021 09:23:41 +0000</pubDate>
-			<itunes:duration>00:10:20</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44418421/kkpodcast2104.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, episode 12: Birger Jørgensen om konkurs-redning, svipseren Emre Mor og bedste spillere i Lyngby</title>
-			<link>https://api.spreaker.com/download/episode/44418421/kkpodcast2104.mp3</link>
-			<description>Birger Jørgensen er denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub. Lyngby-bossen kmmer blandt andet omkring redningen fra konkursen, Emre Mor og Kasper Hjulmands tid i klubben.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44418421/kkpodcast2104.mp3</guid>
-			<pubDate>Wed, 21 Apr 2021 08:50:46 +0000</pubDate>
-			<itunes:duration>00:59:47</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44418421/kkpodcast2104.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Randers-boss: Her er mit største røverkøb</title>
-			<link>https://api.spreaker.com/download/episode/44328864/kklyd.mp3</link>
-			<description>Ugens gæst hos Mette Cornelius og Niels-Christian Holmstrøm er Sportslig og kommerciel direktør hos Randers FC, Søren Pedersen. Kom tættere på den nuværende tid i Randers, agenterne og om en fortid i AGF.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44328864/kklyd.mp3</guid>
-			<pubDate>Wed, 14 Apr 2021 11:38:16 +0000</pubDate>
-			<itunes:duration>00:06:07</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44328864/kklyd.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, episode 11: Søren Pedersen om nuværende Randers-trup, agenter og fortid i AGF</title>
-			<link>https://api.spreaker.com/download/episode/44328864/kklyd.mp3</link>
-			<description>Ugens gæst hos Mette Cornelius og Niels-Christian Holmstrøm er Sportslig og kommerciel direktør hos Randers FC, Søren Pedersen. Kom tættere på den nuværende tid i Randers, agenterne og om en fortid i AGF.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44328864/kklyd.mp3</guid>
-			<pubDate>Wed, 14 Apr 2021 10:02:07 +0000</pubDate>
-			<itunes:duration>00:51:32</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44328864/kklyd.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, episode 10: Købmændenes Klub med Peter 'PC' Christiansen</title>
-			<link>https://api.spreaker.com/download/episode/44236749/kkpodpc.mp3</link>
-			<description>I det nyeste afsnit af Købmændenes Klub dykker Mette Cornelius og Niels-Christian Holmstrøm ned i FCK-bossen Peter 'PC' Christiansens omtalte AGF-suspendering, hans ambitioner med FCK samt hvilke salg og køb, der står tydeligst i sportsdirektørens hukommelse.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44236749/kkpodpc.mp3</guid>
-			<pubDate>Wed, 07 Apr 2021 09:40:32 +0000</pubDate>
-			<itunes:duration>01:01:53</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44236749/kkpodpc.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>AGF-direktøren om udtalelser i medierne</title>
-			<link>https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</link>
-			<description>Jacob Nielsen er denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub. Her fortæller AGF-direktøren om sin første tid om direktør i Randers FC,  medie-strategi, Haysen-sagen og PC’s jobskifte til FCK.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</guid>
-			<pubDate>Thu, 01 Apr 2021 15:59:43 +0000</pubDate>
-			<itunes:duration>00:08:01</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Jacob Nielsens køb og salg af Ronnie Schwartz</title>
-			<link>https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</link>
-			<description>Jacob Nielsen er denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub. Her fortæller AGF-direktøren om sin første tid om direktør i Randers FC,  medie-strategi, Haysen-sagen og PC’s jobskifte til FCK.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</guid>
-			<pubDate>Thu, 01 Apr 2021 15:59:43 +0000</pubDate>
-			<itunes:duration>00:13:25</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>AGF-direktøren om sin første tid som direktør i Randers FC</title>
-			<link>https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</link>
-			<description>Jacob Nielsen er denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub. Her fortæller AGF-direktøren om sin første tid om direktør i Randers FC,  medie-strategi, Haysen-sagen og PC’s jobskifte til FCK.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</guid>
-			<pubDate>Thu, 01 Apr 2021 15:59:42 +0000</pubDate>
-			<itunes:duration>00:16:00</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, episode 9: Jacob Nielsen om udtalelser i medier, Haysen-sagen og PC i FCK</title>
-			<link>https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</link>
-			<description>Jacob Nielsen er denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub. Her fortæller AGF-direktøren om sin første tid om direktør i Randers FC,  medie-strategi, Haysen-sagen og PC’s jobskifte til FCK.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</guid>
-			<pubDate>Thu, 01 Apr 2021 06:48:10 +0000</pubDate>
-			<itunes:duration>01:09:34</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Peter Møller: Derfor vil DBU ikke boykotte VM i Qatar</title>
-			<link>https://api.spreaker.com/download/episode/44029901/kkpodpeter.mp3</link>
-			<description>I den seneste udgave af Købmændenes Klub får Mette Cornelius og Niels-Christian Holmstrøm besøg af Superligaveteranen Peter Møller.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44029901/kkpodpeter.mp3</guid>
-			<pubDate>Wed, 24 Mar 2021 11:32:00 +0000</pubDate>
-			<itunes:duration>00:08:44</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44029901/kkpodpeter.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, Episode 8: Købmændenes Klub med Peter Møller</title>
-			<link>https://api.spreaker.com/download/episode/44029901/kkpodpeter.mp3</link>
-			<description>I den seneste udgave af Købmændenes Klub får Mette Cornelius og Niels-Christian Holmstrøm besøg af Superligaveteranen Peter Møller.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/44029901/kkpodpeter.mp3</guid>
-			<pubDate>Wed, 24 Mar 2021 09:59:39 +0000</pubDate>
-			<itunes:duration>00:57:29</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/44029901/kkpodpeter.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Tæt målmandsduel i FC Midtjylland: &quot;Professionel fodbold er ikke et socialkontor!&quot;</title>
-			<link>https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3</link>
-			<description>Denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm er direktør i FC Midtjylland, Claus Steinlein. Kom tættere på Pione Sisto-handlen, FCM’s angriber-problemer og store midtjyske handler købet af Rafael van der Vaart og salget af Alexander Sørloth.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3</guid>
-			<pubDate>Wed, 17 Mar 2021 10:32:49 +0000</pubDate>
-			<itunes:duration>00:04:45</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Claus Steinlein: Guldkampen bliver vild i år</title>
-			<link>https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3</link>
-			<description>Denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm er direktør i FC Midtjylland, Claus Steinlein. Kom tættere på Pione Sisto-handlen, FCM’s angriber-problemer og store midtjyske handler købet af Rafael van der Vaart og salget af Alexander Sørloth.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3</guid>
-			<pubDate>Wed, 17 Mar 2021 10:32:48 +0000</pubDate>
-			<itunes:duration>00:04:30</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, Episode 7: Claus Steinlein om guldkampen, keeper-duellen og store midtjyske handler</title>
-			<link>https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3</link>
-			<description>Denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm er direktør i FC Midtjylland, Claus Steinlein. Kom tættere på Pione Sisto-handlen, FCM’s angriber-problemer og store midtjyske handler købet af Rafael van der Vaart og salget af Alexander Sørloth.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3</guid>
-			<pubDate>Wed, 17 Mar 2021 10:02:27 +0000</pubDate>
-			<itunes:duration>01:08:49</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, episode 6: Jens Hammer Sørensen om jagten på en ny træner, udenlandske investorer og talenter</title>
-			<link>https://api.spreaker.com/download/episode/43823685/kkpodcast.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/43823685/kkpodcast.mp3</guid>
-			<pubDate>Wed, 10 Mar 2021 11:07:18 +0000</pubDate>
-			<itunes:duration>00:51:04</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/43823685/kkpodcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, episode 5: Per Rud om Mike Jensen, fodboldkultur og et 40 sekunders-salg</title>
-			<link>https://api.spreaker.com/download/episode/43719241/kklyd.mp3</link>
-			<description>I denne uge har Mette Cornelius og Niels-Christian Holmstrøm haft besøg af sportsdirektør i HB Køge, Per Rud. Han fortæller blandt andet om det nyelige køb af Mike Jensen, om VAR’s rolle og om fodboldkultur i Danmark, Tyskland og Ghana.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/43719241/kklyd.mp3</guid>
-			<pubDate>Wed, 03 Mar 2021 14:48:51 +0000</pubDate>
-			<itunes:duration>01:03:21</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/43719241/kklyd.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>William Kvist: Derfor blev 'små justeringer' til FCK-revolution</title>
-			<link>https://api.spreaker.com/download/episode/43614138/kk2402podcast.mp3</link>
-			<description>Mette Cornelius og Niels-Christian Holmstrøm har i denne uge fået besøg af William Kvist, som fortæller om tiden som sportslig ansvarlig i FCK, fyringen af Ståle Solbakken og guldfuglen Roony.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/43614138/kk2402podcast.mp3</guid>
-			<pubDate>Wed, 24 Feb 2021 12:42:51 +0000</pubDate>
-			<itunes:duration>00:10:31</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/43614138/kk2402podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, episode 4: William Kvist om det nye FCK, Ståles exit og guldfuglen Roony</title>
-			<link>https://api.spreaker.com/download/episode/43614138/kk2402podcast.mp3</link>
-			<description>Mette Cornelius og Niels-Christian Holmstrøm har i denne uge fået besøg af William Kvist, som fortæller om tiden som sportslig ansvarlig i FCK, fyringen af Ståle Solbakken og guldfuglen Roony.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/43614138/kk2402podcast.mp3</guid>
-			<pubDate>Wed, 24 Feb 2021 11:15:45 +0000</pubDate>
-			<itunes:duration>01:01:24</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/43614138/kk2402podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, Episode 3: Tæt på historisk salg af Kamaldeen &amp;amp; nervepirrende transfervinduer med Jan Laursen</title>
-			<link>https://api.spreaker.com/download/episode/43507875/kkpodcast111.mp3</link>
-			<description>Kom helt tæt på historien om et historisk stort salg af Kamaldeen, om at blive starstruck af Kevin Keegan og at være sportschef i transfervinduer, når Jan Laursen gæster Købmændenes Klub.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/43507875/kkpodcast111.mp3</guid>
-			<pubDate>Wed, 24 Feb 2021 07:31:53 +0000</pubDate>
-			<itunes:duration>01:01:19</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/43507875/kkpodcast111.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Episode 8: FCM's CL-kampe, FCK's kommende træner og en snak om den jævnbyrdige Superliga</title>
-			<link>https://api.spreaker.com/download/episode/41681718/ep8_28okt_podcast.mp3</link>
-			<description>I denne episode kommer vi rundt om FC Midtjyllands to spillede Champions League-kampe, forventede kompetencerne bag FCK's kommende træner og den jævnbyrdige Superliga.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/41681718/ep8_28okt_podcast.mp3</guid>
-			<pubDate>Wed, 24 Feb 2021 07:27:20 +0000</pubDate>
-			<itunes:duration>01:00:42</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/41681718/ep8_28okt_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Episode 9: Thorup i FCK, Rosted og disciplinærudvalget</title>
-			<link>https://api.spreaker.com/download/episode/41793393/kk4nov_podcast.mp3</link>
-			<description>I denne uges program af Købmændenes Klub taler vi om F.C. Københavns nye træner, situationen med Rosted og FC Midtjylland i Europa.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/41793393/kk4nov_podcast.mp3</guid>
-			<pubDate>Wed, 24 Feb 2021 07:27:19 +0000</pubDate>
-			<itunes:duration>00:59:32</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/41793393/kk4nov_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Episode 10: Lynges fødselsdag, corona-kaos i landsholdslejren og SL-status</title>
-			<link>https://api.spreaker.com/download/episode/41922748/kk10mp3.mp3</link>
-			<description>Købmændenes Klub runder et skarpt hjørne med afsnit nummer 10 – det samme har Lynge Jakobsen gjort. Den tidligere AaB-boss er nemlig fyldt 70 og det fejres naturligvis. Derudover vendes corona-situationen i landsholdslejren, ligesom at der gøres status på Superligaen indtil videre.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/41922748/kk10mp3.mp3</guid>
-			<pubDate>Wed, 24 Feb 2021 07:27:19 +0000</pubDate>
-			<itunes:duration>01:00:47</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/41922748/kk10mp3.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Episode 11: Hjulmands start, Erik Hamrén-rygtet og talentudvikling i Danmark</title>
-			<link>https://api.spreaker.com/download/episode/42039117/kk18nov_podcast.mp3</link>
-			<description>I denne uge af Købmændenes Klub vender vi følgende punkter:
+   <channel>
+      <title>Købmændenes Klub</title>
+      <link>https://web.24syv.dk/channels/4831</link>
+      <description>I dette fodboldformat inviterer Mette Cornelius hver uge de tidligere fodboldbosser, Lynge Jakobsen og Niels-Christian Holmstrøm, til en snak om, hvad der rør sig i dansk fodbold. Se også programmet på discovery+</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/eafb362944fd7564cb23381f00e0a2c2.jpg" />
+      <item>
+         <title>Købmændenes Klub med Lynge Jakobsen</title>
+         <link>https://api.spreaker.com/download/episode/49905962/kklyd2305.mp3</link>
+         <description>I sæsonens sidste afsnit vender Mette Cornelius, Niels-Christian Holmstrøm og Lynge Jakobsen Superliga-sæsonen og kommer blandt andet forbi FC Københavns mesterskab, AGF’s deroute og de overraskende bronzevindere fra Silkeborg.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/49905962/kklyd2305.mp3</guid>
+         <pubDate>Mon, 23 May 2022 13:29:27 +0000</pubDate>
+         <itunes:duration>01:28:13</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2022.05.23%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Lynge%20Jakobsen.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Björn Wesström</title>
+         <link>https://api.spreaker.com/download/episode/49754581/k_bm_ndenes_klub_bjo_rn_wesstro_m_clean.mp3</link>
+         <description>Ugens gæst hos Mette Cornelius og Niels-Christian Holmstrøm er fodbolddirektør i OB, Björn Wesström.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/49754581/k_bm_ndenes_klub_bjo_rn_wesstro_m_clean.mp3</guid>
+         <pubDate>Wed, 11 May 2022 08:55:14 +0000</pubDate>
+         <itunes:duration>00:56:28</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2022.05.11%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Bj%C3%B6rn%20Wesstr%C3%B6m.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Peter Sørensen</title>
+         <link>https://api.spreaker.com/download/episode/49592505/kkpodpeter.mp3</link>
+         <description>Peter Sørensen er dagens gæst i studiet til en snak om den overraskende fyring i Vejle Boldklub.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/49592505/kkpodpeter.mp3</guid>
+         <pubDate>Fri, 29 Apr 2022 07:22:39 +0000</pubDate>
+         <itunes:duration>01:04:44</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2022.04.29%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Peter%20S%C3%B8rensen.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Hans Jørgen Haysen</title>
+         <link>https://api.spreaker.com/download/episode/49566694/kk_250422.mp3</link>
+         <description>For første gang siden sin krænkelsessag åbner Hans Jørgen Haysen op for forløbet og det glippede skifte til AGF.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/49566694/kk_250422.mp3</guid>
+         <pubDate>Wed, 27 Apr 2022 07:56:44 +0000</pubDate>
+         <itunes:duration>01:04:03</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2022.04.27%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Hans%20J%C3%B8rgen%20Haysen.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Jens Hammer Sørensen</title>
+         <link>https://api.spreaker.com/download/episode/49422074/kk_hammer.mp3</link>
+         <description>Administrerende direktør i Esbjerg fB, Jens Hammer Sørensen, er dagens gæst i Købmændenes Klub.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/49422074/kk_hammer.mp3</guid>
+         <pubDate>Wed, 13 Apr 2022 11:53:33 +0000</pubDate>
+         <itunes:duration>00:45:51</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2022.04.13%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20%C3%85ge%20Hareide.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Åge Hareide</title>
+         <link>https://api.spreaker.com/download/episode/49422055/kk_hareide.mp3</link>
+         <description>Den tidligere landstræner Åge Hareide besøger Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/49422055/kk_hareide.mp3</guid>
+         <pubDate>Wed, 13 Apr 2022 11:33:32 +0000</pubDate>
+         <itunes:duration>01:03:26</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2022.04.13%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Jens%20Hammer%20S%C3%B8rensen.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med PC og Steinlein</title>
+         <link>https://api.spreaker.com/download/episode/49265575/steinogpcsompod.mp3</link>
+         <description>Mette Cornelius har i dag fået fornemt besøg i Købmændenes Klub, da sportscheferne fra Superligaens to førerhold, Claus Steinlein og Peter ”PC” Christiansen, er i studiet sammen. Det bliver til en snak om den interne kamp mellem Superligaens største guldkandidater, transferstrategier, interne drillerier og meget andet.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/49265575/steinogpcsompod.mp3</guid>
+         <pubDate>Thu, 31 Mar 2022 12:43:43 +0000</pubDate>
+         <itunes:duration>01:25:41</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2022.03.31%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20PC%20og%20Steinlein.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Frank Arnesen</title>
+         <link>https://api.spreaker.com/download/episode/49198432/kklyd.mp3</link>
+         <description>Sportsdirektør og tidligere landsholdslegende Frank Arnesen er denne uges gæst i Købmændenes Klub, hvor snakken blandt andet kommer omkring Kasper Hjulmand og Christian Eriksen.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/49198432/kklyd.mp3</guid>
+         <pubDate>Fri, 25 Mar 2022 13:10:04 +0000</pubDate>
+         <itunes:duration>01:39:37</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2022.03.25%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Frank%20Arnesen.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Stig Inge Bjørnebye</title>
+         <link>https://api.spreaker.com/download/episode/49077657/kk_140322_podcast.mp3</link>
+         <description>I denne uge har Mette Cornelius og Niels-Christian Holmstrøm besøg af AGF's sportschef, Stig Inge Bjørnebye.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/49077657/kk_140322_podcast.mp3</guid>
+         <pubDate>Wed, 16 Mar 2022 09:29:09 +0000</pubDate>
+         <itunes:duration>01:00:44</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2022.03.16%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Stig%20Inge%20Bj%C3%B8rnebye.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Andreas Byder</title>
+         <link>https://api.spreaker.com/download/episode/49002294/kkpodpoddddd.mp3</link>
+         <description>Ugens gæst i studiet er administrerende direktør i Lyngby Boldklub, Andreas Byder.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/49002294/kkpodpoddddd.mp3</guid>
+         <pubDate>Wed, 09 Mar 2022 09:52:26 +0000</pubDate>
+         <itunes:duration>00:51:43</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2022.03.09%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Andreas%20Byder.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Esben Hansen</title>
+         <link>https://api.spreaker.com/download/episode/48839817/kk_podcast_esben.mp3</link>
+         <description>I denne uge har Mette Cornelius og Niels-Christian Holmstrøm besøg af Esben Hansen i Købmændenes Klub.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/48839817/kk_podcast_esben.mp3</guid>
+         <pubDate>Wed, 23 Feb 2022 07:44:52 +0000</pubDate>
+         <itunes:duration>00:55:28</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2022.02.23%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Esben%20Hansen.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Jan Bech Andersen</title>
+         <link>https://api.spreaker.com/download/episode/48695681/kkjanbechlyd.mp3</link>
+         <description>Købmændenes Klub er tilbage, og denne sæsons første gæst er Jan Bech Andersen.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/48695681/kkjanbechlyd.mp3</guid>
+         <pubDate>Fri, 11 Feb 2022 22:39:08 +0000</pubDate>
+         <itunes:duration>00:58:08</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2022.02.11%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Jan%20Bech%20Andersen.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes klub med Lynge Jakobsen - del 2</title>
+         <link>https://api.spreaker.com/download/episode/47808984/kkpodcast1.mp3</link>
+         <description>Den tidligere AaB-sportsdirektør Lynge Jakobsen er denne uges gæst i Købmændenes Klub. Sammen med Mette Cornelius og Niels-Christian Holmstrøm afrundes efteråret i 3F Superligaen.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/47808984/kkpodcast1.mp3</guid>
+         <pubDate>Mon, 06 Dec 2021 18:51:55 +0000</pubDate>
+         <itunes:duration>00:58:20</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.12.06%20-%20K%C3%B8bm%C3%A6ndenes%20klub%20med%20Lynge%20Jakobsen%20-%20del%202.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Lynge Jakobsen - del 1</title>
+         <link>https://api.spreaker.com/download/episode/47736928/kk_301121_podcast.mp3</link>
+         <description>Den tidligere AaB-sportsdirektør, Lynge Jakobsen, er denne uges gæst i Købmændenes Klub. Sammen med Mette Cornelius og Niels-Christian Holmstrøm afrundes efteråret af i 3F Superligaen. Der evalueres på klubberne i top seks og deres efterårssæson.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/47736928/kk_301121_podcast.mp3</guid>
+         <pubDate>Wed, 01 Dec 2021 13:03:02 +0000</pubDate>
+         <itunes:duration>00:00:43</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.12.01%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Lynge%20Jakobsen%20-%20del%201.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Allan Gaarde</title>
+         <link>https://api.spreaker.com/download/episode/47516201/kk_081121_dpw_1.mp3</link>
+         <description>Den tidligere sportsdirektør i AaB, Allan Gaarde er denne uges gæst i Købmændenes Klub. Der snakkes om Gaardes tid som sportsdirektør i AaB og om hans nuværende job som partner i konsulentfirmatet One Nexus, og hvordan de hjælper fodboldklubber.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/47516201/kk_081121_dpw_1.mp3</guid>
+         <pubDate>Wed, 17 Nov 2021 09:37:59 +0000</pubDate>
+         <itunes:duration>00:56:09</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.11.17%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Allan%20Gaarde.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Ove Pedersen</title>
+         <link>https://api.spreaker.com/download/episode/47290657/kkpod.mp3</link>
+         <description>Assisterende sportschef og udenrigsminister i FC Midtjylland. Denne uges gæst i Købmændenes Klub, Ove Pedersen, har mange kasketter på i sit daglige virke og i denne uges afsnit af Købmændenes Klub, kan du blive klogere på Ove Pedersens lange karriere i dansk fodbold, høre spændende anekdoter fra indersiden af et væld af klubber samt få historien om Ove Pedersens afstikker til omdiskuterede Qatar.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/47290657/kkpod.mp3</guid>
+         <pubDate>Wed, 03 Nov 2021 12:34:20 +0000</pubDate>
+         <itunes:duration>01:13:01</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.11.03%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Ove%20Pedersen.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Sune Smith-Nielsen</title>
+         <link>https://api.spreaker.com/download/episode/47179852/kklyd2710.mp3</link>
+         <description>Udviklingsdirektør i FC København, Sune Smith-Nielsen, gæster i denne uge Mette Cornelius og Niels-Christian Holmstrøm. Bliv klogere på FC Københavns talentarbejde, scouting og nogle af københavnernes nye stjernefrø.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/47179852/kklyd2710.mp3</guid>
+         <pubDate>Wed, 27 Oct 2021 11:02:06 +0000</pubDate>
+         <itunes:duration>01:04:28</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.10.27%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Sune%20Smith-Nielsen.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Jesper Stüker</title>
+         <link>https://api.spreaker.com/download/episode/47058680/jesperkk.mp3</link>
+         <description>I denne uges afsnit af Købmændenes Klub har Mette Cornelius og Niels-Christian Holmstøm haft besøg af sportschef i Silkeborg, Jesper Stüker. Det blev bl.a. til en snak om Kent Nielsens store rolle i klubben, talentarbejdet i Silkeborg og hvordan dette arbejde resulterer i store salg af egne profiler.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/47058680/jesperkk.mp3</guid>
+         <pubDate>Wed, 20 Oct 2021 07:49:22 +0000</pubDate>
+         <itunes:duration>00:59:03</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.10.20%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Jesper%20St%C3%BCker.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Michael Hemmingsen</title>
+         <link>https://api.spreaker.com/download/episode/46953971/kkmhpod.mp3</link>
+         <description>Købmændenes Klub har i denne uge fornøjelsen af at byde velkommen til OB’s sportschef Michael Hemmingsen. Det blev til en snak om en lang karriere i OB som både spiller, træner og nu sportschef samt om det projekt og de visioner som Michael Hemmingsen står i spidsen for i det fynske.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/46953971/kkmhpod.mp3</guid>
+         <pubDate>Wed, 13 Oct 2021 10:17:15 +0000</pubDate>
+         <itunes:duration>00:59:53</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.10.13%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Michael%20Hemmingsen.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Jesper Fredberg</title>
+         <link>https://api.spreaker.com/download/episode/46738358/jesperpod.mp3</link>
+         <description>Jesper Fredberg er denne uges gæst i Købmændenes Klub. Hør om hans vej fra trænergerningen til at være sportschef i Viborg. Kom helt tæt på Viborgs rekrutteringsproces med at finde både cheftrænere og spillere til talent- og førsteholdet.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/46738358/jesperpod.mp3</guid>
+         <pubDate>Wed, 29 Sep 2021 08:32:27 +0000</pubDate>
+         <itunes:duration>00:59:57</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.09.29%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Jesper%20Fredberg.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Peter Christiansen</title>
+         <link>https://api.spreaker.com/download/episode/46632570/kklyd2209.mp3</link>
+         <description>’PC’ er denne uges gæst i Købmændenes Klub. Kom helt tæt på FC Københavns netop overståede transfervindue, Brentfords bud på Jonas Wind og hør, hvad sportschefen tænker om Jess Thorups Brøndby-kommentar.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/46632570/kklyd2209.mp3</guid>
+         <pubDate>Wed, 22 Sep 2021 09:20:12 +0000</pubDate>
+         <itunes:duration>01:00:16</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.09.22%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Peter%20Christiansen.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Michael Stensgaard</title>
+         <link>https://api.spreaker.com/download/episode/46529030/stensgaardpod.mp3</link>
+         <description>I denne uge kan Mette Cornelius og Niels-Christian Holmstrøm, byde velkommen til den første fodboldagent nogensinde i Købmændenes Klub, Michael Stensgaard. Det blev bl.a. til en snak om virkeligheden i agentbranchen bag kulisserne og de mange faktorer der er til stede i en barsk fodboldverden.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/46529030/stensgaardpod.mp3</guid>
+         <pubDate>Wed, 15 Sep 2021 08:06:51 +0000</pubDate>
+         <itunes:duration>00:56:45</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.09.15%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Michael%20Stensgaard.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Carsten V. Jensen</title>
+         <link>https://api.spreaker.com/download/episode/46427111/carstevpod.mp3</link>
+         <description>Det er Carsten V. Jensen, der i denne uge har lagt vejen forbi Købmændenes Klub. Sammen med Niels-Christian Holmstrøm og Mette Cornelius snakker fodbolddirektøren i Brøndby IF. bl.a. om transfervinduet, til- og afgange samt klubbens rolle i Europa League.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/46427111/carstevpod.mp3</guid>
+         <pubDate>Wed, 08 Sep 2021 11:13:49 +0000</pubDate>
+         <itunes:duration>00:59:59</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.09.08%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Kasper%20Hjulmand.mp3" />
+      </item>
+      <item>
+         <title>Købmændenes Klub med Kasper Hjulmand</title>
+         <link>https://api.spreaker.com/download/episode/46426469/hjulmandpodcast.mp3</link>
+         <description>Landstræner Kasper Hjulmand sparker Købmændenes Klub i gang efter sommerferien. Sammen med Niels-Christian Holmstrøm og Mette Cornelius taler landstræneren om EM, Eriksens kollaps, VM-kvalifikationen og udfordringerne ved en slutrunde i Qatar.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/46426469/hjulmandpodcast.mp3</guid>
+         <pubDate>Wed, 08 Sep 2021 09:53:40 +0000</pubDate>
+         <itunes:duration>00:59:56</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.09.08%20-%20K%C3%B8bm%C3%A6ndenes%20Klub%20med%20Carsten%20V.%20Jensen.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, episode 16: Niels Erik Søndergaard om gyldne årgange i Esbjerg og fremtiden i Horsens</title>
+         <link>https://api.spreaker.com/download/episode/44906749/kk_180521_3_dpw.mp3</link>
+         <description>Den tidligere Esbjerg- og nuværende AC Horsens-fodboldboss Niels Erik Søndergaard gæster Mette Cornelius og Niels-Christian Holmstrøm til en snak om gode årgange i Esbjerg, salgsobjekter i AC Horsens og en hård kamp om oprykning næste sæson.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44906749/kk_180521_3_dpw.mp3</guid>
+         <pubDate>Wed, 19 May 2021 10:04:18 +0000</pubDate>
+         <itunes:duration>01:00:23</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.05.19%20-%20S%C3%A6son%202%2C%20episode%2016.mp3" />
+      </item>
+      <item>
+         <title>Lars Seier om fyringen af Ståle Solbakken og den sportslige ledelse i FCK</title>
+         <link>https://api.spreaker.com/download/episode/44731227/kklyd1005.mp3</link>
+         <description>Lars Seier er storaktionær i FC København og denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm. Seier fortæller blandt andet hvorfor han valgte at investere i FC København og om forløbet med fyringen af Ståle Solbakken.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44731227/kklyd1005.mp3</guid>
+         <pubDate>Mon, 10 May 2021 10:00:00 +0000</pubDate>
+         <itunes:duration>00:17:16</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.05.10%20-%20S%C3%A6son%202%2C%20episode%2015.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, episode 15: Lars Seier om investeringen i FCK og fyringen af Ståle Solbakken</title>
+         <link>https://api.spreaker.com/download/episode/44731227/kklyd1005.mp3</link>
+         <description>Lars Seier er storaktionær i FC København og denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm. Seier fortæller blandt andet hvorfor han valgte at investere i FC København og om forløbet med fyringen af Ståle Solbakken.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44731227/kklyd1005.mp3</guid>
+         <pubDate>Mon, 10 May 2021 08:16:27 +0000</pubDate>
+         <itunes:duration>01:01:20</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.05.10%20-%20Lars%20Seier%20om%20fyringen%20af%20St%C3%A5le%20Solbakken%20og%20den%20sportslige%20ledelse%20i%20FCK.mp3" />
+      </item>
+      <item>
+         <title>Troels Bech: Her er mit største fodboldøjeblik - og min største skuffelse</title>
+         <link>https://api.spreaker.com/download/episode/44639803/kk0505.mp3</link>
+         <description>I denne uge er det Troels Bech, der har lagt vejen forbi Mette Cornelius og Niels-Christian Holmstrøm til en snak om blandt andet en skæbnesvanger dag i Horsens i 2018 og samarbejdet med Alexander Zorniger.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44639803/kk0505.mp3</guid>
+         <pubDate>Wed, 05 May 2021 09:30:53 +0000</pubDate>
+         <itunes:duration>00:09:23</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.05.05%20-%20Troels%20Bech.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, episode 14: Troels Bech om den skæbnesvangre dag i Horsens, samarbejdet med Zorniger, og de bedste spillere han haft med at gøre</title>
+         <link>https://api.spreaker.com/download/episode/44639803/kk0505.mp3</link>
+         <description>I denne uge er det Troels Bech, der har lagt vejen forbi Mette Cornelius og Niels-Christian Holmstrøm til en snak om blandt andet en skæbnesvanger dag i Horsens i 2018 og samarbejdet med Alexander Zorniger.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44639803/kk0505.mp3</guid>
+         <pubDate>Wed, 05 May 2021 08:47:11 +0000</pubDate>
+         <itunes:duration>01:00:02</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.05.05%20-%20S%C3%A6son%202%2C%20episode%2014.mp3" />
+      </item>
+      <item>
+         <title>Vejle-boss hylder stortalent: Han bliver vores største salg nogensinde</title>
+         <link>https://api.spreaker.com/download/episode/44532092/lydkk.mp3</link>
+         <description />
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44532092/lydkk.mp3</guid>
+         <pubDate>Wed, 28 Apr 2021 09:48:20 +0000</pubDate>
+         <itunes:duration>00:09:58</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.04.28%20-%20Vejle-boss%20hylder%20stortalent.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, episode 13: Jacob Krüger om verdens bedste job, trænerkultur, danskere i truppen og Faghir</title>
+         <link>https://api.spreaker.com/download/episode/44532092/lydkk.mp3</link>
+         <description />
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44532092/lydkk.mp3</guid>
+         <pubDate>Wed, 28 Apr 2021 08:49:41 +0000</pubDate>
+         <itunes:duration>00:55:45</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.04.28%20-%20S%C3%A6son%202%2C%20episode%2013.mp3" />
+      </item>
+      <item>
+         <title>Lyngby-boss: Her er mit bedste salg - og min største svipser</title>
+         <link>https://api.spreaker.com/download/episode/44418421/kkpodcast2104.mp3</link>
+         <description>Birger Jørgensen er denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub. Lyngby-bossen kmmer blandt andet omkring redningen fra konkursen, Emre Mor og Kasper Hjulmands tid i klubben.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44418421/kkpodcast2104.mp3</guid>
+         <pubDate>Wed, 21 Apr 2021 09:23:41 +0000</pubDate>
+         <itunes:duration>00:10:20</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.04.21%20-%20S%C3%A6son%202%2C%20episode%2012.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, episode 12: Birger Jørgensen om konkurs-redning, svipseren Emre Mor og bedste spillere i Lyngby</title>
+         <link>https://api.spreaker.com/download/episode/44418421/kkpodcast2104.mp3</link>
+         <description>Birger Jørgensen er denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub. Lyngby-bossen kmmer blandt andet omkring redningen fra konkursen, Emre Mor og Kasper Hjulmands tid i klubben.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44418421/kkpodcast2104.mp3</guid>
+         <pubDate>Wed, 21 Apr 2021 08:50:46 +0000</pubDate>
+         <itunes:duration>00:59:47</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.04.21%20-%20Lyngby-boss.mp3" />
+      </item>
+      <item>
+         <title>Randers-boss: Her er mit største røverkøb</title>
+         <link>https://api.spreaker.com/download/episode/44328864/kklyd.mp3</link>
+         <description>Ugens gæst hos Mette Cornelius og Niels-Christian Holmstrøm er Sportslig og kommerciel direktør hos Randers FC, Søren Pedersen. Kom tættere på den nuværende tid i Randers, agenterne og om en fortid i AGF.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44328864/kklyd.mp3</guid>
+         <pubDate>Wed, 14 Apr 2021 11:38:16 +0000</pubDate>
+         <itunes:duration>00:06:07</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.04.14%20-%20S%C3%A6son%202%2C%20episode%2011.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, episode 11: Søren Pedersen om nuværende Randers-trup, agenter og fortid i AGF</title>
+         <link>https://api.spreaker.com/download/episode/44328864/kklyd.mp3</link>
+         <description>Ugens gæst hos Mette Cornelius og Niels-Christian Holmstrøm er Sportslig og kommerciel direktør hos Randers FC, Søren Pedersen. Kom tættere på den nuværende tid i Randers, agenterne og om en fortid i AGF.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44328864/kklyd.mp3</guid>
+         <pubDate>Wed, 14 Apr 2021 10:02:07 +0000</pubDate>
+         <itunes:duration>00:51:32</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.04.14%20-%20Randers-boss.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, episode 10: Købmændenes Klub med Peter 'PC' Christiansen</title>
+         <link>https://api.spreaker.com/download/episode/44236749/kkpodpc.mp3</link>
+         <description>I det nyeste afsnit af Købmændenes Klub dykker Mette Cornelius og Niels-Christian Holmstrøm ned i FCK-bossen Peter 'PC' Christiansens omtalte AGF-suspendering, hans ambitioner med FCK samt hvilke salg og køb, der står tydeligst i sportsdirektørens hukommelse.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44236749/kkpodpc.mp3</guid>
+         <pubDate>Wed, 07 Apr 2021 09:40:32 +0000</pubDate>
+         <itunes:duration>01:01:53</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.04.07%20-%20S%C3%A6son%202%2C%20episode%2010.mp3" />
+      </item>
+      <item>
+         <title>AGF-direktøren om udtalelser i medierne</title>
+         <link>https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</link>
+         <description>Jacob Nielsen er denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub. Her fortæller AGF-direktøren om sin første tid om direktør i Randers FC,  medie-strategi, Haysen-sagen og PC’s jobskifte til FCK.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</guid>
+         <pubDate>Thu, 01 Apr 2021 15:59:43 +0000</pubDate>
+         <itunes:duration>00:08:01</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.04.01%20-%20Jacob%20Nielsens%20k%C3%B8b%20og%20salg%20af%20Ronnie%20Schwartz.mp3" />
+      </item>
+      <item>
+         <title>Jacob Nielsens køb og salg af Ronnie Schwartz</title>
+         <link>https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</link>
+         <description>Jacob Nielsen er denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub. Her fortæller AGF-direktøren om sin første tid om direktør i Randers FC,  medie-strategi, Haysen-sagen og PC’s jobskifte til FCK.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</guid>
+         <pubDate>Thu, 01 Apr 2021 15:59:43 +0000</pubDate>
+         <itunes:duration>00:13:25</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.04.01%20-%20S%C3%A6son%202%2C%20episode%209.mp3" />
+      </item>
+      <item>
+         <title>AGF-direktøren om sin første tid som direktør i Randers FC</title>
+         <link>https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</link>
+         <description>Jacob Nielsen er denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub. Her fortæller AGF-direktøren om sin første tid om direktør i Randers FC,  medie-strategi, Haysen-sagen og PC’s jobskifte til FCK.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</guid>
+         <pubDate>Thu, 01 Apr 2021 15:59:42 +0000</pubDate>
+         <itunes:duration>00:16:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.04.01%20-%20AGF-direkt%C3%B8ren%20om%20udtalelser%20i%20medierne.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, episode 9: Jacob Nielsen om udtalelser i medier, Haysen-sagen og PC i FCK</title>
+         <link>https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</link>
+         <description>Jacob Nielsen er denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm i Købmændenes Klub. Her fortæller AGF-direktøren om sin første tid om direktør i Randers FC,  medie-strategi, Haysen-sagen og PC’s jobskifte til FCK.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44127925/kkpodcast3103.mp3</guid>
+         <pubDate>Thu, 01 Apr 2021 06:48:10 +0000</pubDate>
+         <itunes:duration>01:09:34</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.04.01%20-%20AGF-direkt%C3%B8ren%20om%20sin%20f%C3%B8rste%20tid%20som%20direkt%C3%B8r%20i%20Randers%20FC.mp3" />
+      </item>
+      <item>
+         <title>Peter Møller: Derfor vil DBU ikke boykotte VM i Qatar</title>
+         <link>https://api.spreaker.com/download/episode/44029901/kkpodpeter.mp3</link>
+         <description>I den seneste udgave af Købmændenes Klub får Mette Cornelius og Niels-Christian Holmstrøm besøg af Superligaveteranen Peter Møller.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44029901/kkpodpeter.mp3</guid>
+         <pubDate>Wed, 24 Mar 2021 11:32:00 +0000</pubDate>
+         <itunes:duration>00:08:44</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.03.24%20-%20S%C3%A6son%202%2C%20Episode%208.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, Episode 8: Købmændenes Klub med Peter Møller</title>
+         <link>https://api.spreaker.com/download/episode/44029901/kkpodpeter.mp3</link>
+         <description>I den seneste udgave af Købmændenes Klub får Mette Cornelius og Niels-Christian Holmstrøm besøg af Superligaveteranen Peter Møller.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/44029901/kkpodpeter.mp3</guid>
+         <pubDate>Wed, 24 Mar 2021 09:59:39 +0000</pubDate>
+         <itunes:duration>00:57:29</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.03.24%20-%20Peter%20M%C3%B8ller.mp3" />
+      </item>
+      <item>
+         <title>Tæt målmandsduel i FC Midtjylland: "Professionel fodbold er ikke et socialkontor!"</title>
+         <link>https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3</link>
+         <description>Denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm er direktør i FC Midtjylland, Claus Steinlein. Kom tættere på Pione Sisto-handlen, FCM’s angriber-problemer og store midtjyske handler købet af Rafael van der Vaart og salget af Alexander Sørloth.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3</guid>
+         <pubDate>Wed, 17 Mar 2021 10:32:49 +0000</pubDate>
+         <itunes:duration>00:04:45</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.03.17%20-%20T%C3%A6t%20m%C3%A5lmandsduel%20i%20FC%20Midtjylland.mp3" />
+      </item>
+      <item>
+         <title>Claus Steinlein: Guldkampen bliver vild i år</title>
+         <link>https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3</link>
+         <description>Denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm er direktør i FC Midtjylland, Claus Steinlein. Kom tættere på Pione Sisto-handlen, FCM’s angriber-problemer og store midtjyske handler købet af Rafael van der Vaart og salget af Alexander Sørloth.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3</guid>
+         <pubDate>Wed, 17 Mar 2021 10:32:48 +0000</pubDate>
+         <itunes:duration>00:04:30</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.03.17%20-%20S%C3%A6son%202%2C%20Episode%207.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, Episode 7: Claus Steinlein om guldkampen, keeper-duellen og store midtjyske handler</title>
+         <link>https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3</link>
+         <description>Denne uges gæst hos Mette Cornelius og Niels-Christian Holmstrøm er direktør i FC Midtjylland, Claus Steinlein. Kom tættere på Pione Sisto-handlen, FCM’s angriber-problemer og store midtjyske handler købet af Rafael van der Vaart og salget af Alexander Sørloth.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/43930604/kk1703podcast.mp3</guid>
+         <pubDate>Wed, 17 Mar 2021 10:02:27 +0000</pubDate>
+         <itunes:duration>01:08:49</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.03.17%20-%20Claus%20Steinlein.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, episode 6: Jens Hammer Sørensen om jagten på en ny træner, udenlandske investorer og talenter</title>
+         <link>https://api.spreaker.com/download/episode/43823685/kkpodcast.mp3</link>
+         <description />
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/43823685/kkpodcast.mp3</guid>
+         <pubDate>Wed, 10 Mar 2021 11:07:18 +0000</pubDate>
+         <itunes:duration>00:51:04</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.03.10%20-%20S%C3%A6son%202%2C%20episode%206.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, episode 5: Per Rud om Mike Jensen, fodboldkultur og et 40 sekunders-salg</title>
+         <link>https://api.spreaker.com/download/episode/43719241/kklyd.mp3</link>
+         <description>I denne uge har Mette Cornelius og Niels-Christian Holmstrøm haft besøg af sportsdirektør i HB Køge, Per Rud. Han fortæller blandt andet om det nyelige køb af Mike Jensen, om VAR’s rolle og om fodboldkultur i Danmark, Tyskland og Ghana.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/43719241/kklyd.mp3</guid>
+         <pubDate>Wed, 03 Mar 2021 14:48:51 +0000</pubDate>
+         <itunes:duration>01:03:21</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.03.03%20-%20S%C3%A6son%202%2C%20episode%205.mp3" />
+      </item>
+      <item>
+         <title>William Kvist: Derfor blev 'små justeringer' til FCK-revolution</title>
+         <link>https://api.spreaker.com/download/episode/43614138/kk2402podcast.mp3</link>
+         <description>Mette Cornelius og Niels-Christian Holmstrøm har i denne uge fået besøg af William Kvist, som fortæller om tiden som sportslig ansvarlig i FCK, fyringen af Ståle Solbakken og guldfuglen Roony.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/43614138/kk2402podcast.mp3</guid>
+         <pubDate>Wed, 24 Feb 2021 12:42:51 +0000</pubDate>
+         <itunes:duration>00:10:31</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.02.24%20-%20William%20Kvist.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, episode 4: William Kvist om det nye FCK, Ståles exit og guldfuglen Roony</title>
+         <link>https://api.spreaker.com/download/episode/43614138/kk2402podcast.mp3</link>
+         <description>Mette Cornelius og Niels-Christian Holmstrøm har i denne uge fået besøg af William Kvist, som fortæller om tiden som sportslig ansvarlig i FCK, fyringen af Ståle Solbakken og guldfuglen Roony.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/43614138/kk2402podcast.mp3</guid>
+         <pubDate>Wed, 24 Feb 2021 11:15:45 +0000</pubDate>
+         <itunes:duration>01:01:24</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.02.24%20-%20S%C3%A6son%202%2C%20episode%204.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, Episode 3: Tæt på historisk salg af Kamaldeen &amp;amp; nervepirrende transfervinduer med Jan Laursen</title>
+         <link>https://api.spreaker.com/download/episode/43507875/kkpodcast111.mp3</link>
+         <description>Kom helt tæt på historien om et historisk stort salg af Kamaldeen, om at blive starstruck af Kevin Keegan og at være sportschef i transfervinduer, når Jan Laursen gæster Købmændenes Klub.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/43507875/kkpodcast111.mp3</guid>
+         <pubDate>Wed, 24 Feb 2021 07:31:53 +0000</pubDate>
+         <itunes:duration>01:01:19</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.02.24%20-%20S%C3%A6son%202%2C%20Episode%203.mp3" />
+      </item>
+      <item>
+         <title>Episode 8: FCM's CL-kampe, FCK's kommende træner og en snak om den jævnbyrdige Superliga</title>
+         <link>https://api.spreaker.com/download/episode/41681718/ep8_28okt_podcast.mp3</link>
+         <description>I denne episode kommer vi rundt om FC Midtjyllands to spillede Champions League-kampe, forventede kompetencerne bag FCK's kommende træner og den jævnbyrdige Superliga.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/41681718/ep8_28okt_podcast.mp3</guid>
+         <pubDate>Wed, 24 Feb 2021 07:27:20 +0000</pubDate>
+         <itunes:duration>01:00:42</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.02.24%20-%20S%C3%A6son%202%2C%20Episode%202.mp3" />
+      </item>
+      <item>
+         <title>Episode 9: Thorup i FCK, Rosted og disciplinærudvalget</title>
+         <link>https://api.spreaker.com/download/episode/41793393/kk4nov_podcast.mp3</link>
+         <description>I denne uges program af Købmændenes Klub taler vi om F.C. Københavns nye træner, situationen med Rosted og FC Midtjylland i Europa.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/41793393/kk4nov_podcast.mp3</guid>
+         <pubDate>Wed, 24 Feb 2021 07:27:19 +0000</pubDate>
+         <itunes:duration>00:59:32</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.02.24%20-%20Episode%2014.mp3" />
+      </item>
+      <item>
+         <title>Episode 10: Lynges fødselsdag, corona-kaos i landsholdslejren og SL-status</title>
+         <link>https://api.spreaker.com/download/episode/41922748/kk10mp3.mp3</link>
+         <description>Købmændenes Klub runder et skarpt hjørne med afsnit nummer 10 – det samme har Lynge Jakobsen gjort. Den tidligere AaB-boss er nemlig fyldt 70 og det fejres naturligvis. Derudover vendes corona-situationen i landsholdslejren, ligesom at der gøres status på Superligaen indtil videre.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/41922748/kk10mp3.mp3</guid>
+         <pubDate>Wed, 24 Feb 2021 07:27:19 +0000</pubDate>
+         <itunes:duration>01:00:47</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.02.24%20-%20Episode%208.mp3" />
+      </item>
+      <item>
+         <title>Episode 11: Hjulmands start, Erik Hamrén-rygtet og talentudvikling i Danmark</title>
+         <link>https://api.spreaker.com/download/episode/42039117/kk18nov_podcast.mp3</link>
+         <description>I denne uge af Købmændenes Klub vender vi følgende punkter:
 
 Hjulmands landstrænerstart, Erik Hamrén-rygtet i AaB, brandvarme Hagi Wright og talentudviklingen i Danmark.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/42039117/kk18nov_podcast.mp3</guid>
-			<pubDate>Wed, 24 Feb 2021 07:27:19 +0000</pubDate>
-			<itunes:duration>01:00:17</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/42039117/kk18nov_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Episode 12: Ståle Solbakken-special</title>
-			<link>https://api.spreaker.com/download/episode/42159774/kk25nov_podcast.mp3</link>
-			<description/>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/42159774/kk25nov_podcast.mp3</guid>
-			<pubDate>Wed, 24 Feb 2021 07:27:19 +0000</pubDate>
-			<itunes:duration>00:56:27</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/42159774/kk25nov_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Episode 13: Legende-special med Frank Arnesen</title>
-			<link>https://api.spreaker.com/download/episode/42277482/kk2december_podcast.mp3</link>
-			<description>I denne specielle udgave af Købmændenes Klub, har Lynge fået fri til at købe julegaver, og vi har i stedet fået besøg af Frank Arnesen til en snak om Maradona og mange flere fodboldlegender.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/42277482/kk2december_podcast.mp3</guid>
-			<pubDate>Wed, 24 Feb 2021 07:27:18 +0000</pubDate>
-			<itunes:duration>00:49:03</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/42277482/kk2december_podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Episode 14: BIF, FCK, kontraktforlængelser og fedeholdet i AaB</title>
-			<link>https://api.spreaker.com/download/episode/42532581/kk16december.mp3</link>
-			<description>I denne uge er der fokus på Brøndby, FCK og Falk- og Sviatchenkos kontraktforlængelser. Der falder også et par anekdoter af om blandt andre Elrio van Heerden.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/42532581/kk16december.mp3</guid>
-			<pubDate>Wed, 24 Feb 2021 07:27:18 +0000</pubDate>
-			<itunes:duration>00:58:28</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/42532581/kk16december.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, Episode 1: Rollen som sportschef og Brøndbys transferstrategi med Carsten V. Jensen</title>
-			<link>https://api.spreaker.com/download/episode/43266840/kk0302podcast.mp3</link>
-			<description>Den nye sæson af Købmændenes Klub er rykket fra Zoom og ind i vores studie. Niels-Christian Holmstrøm og Mette Cornelius er fortsat faste bestanddele, mens fodbolddirektør i Brøndby, Carsten V. Jensen, udgør programmets første gæste-købmand.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/43266840/kk0302podcast.mp3</guid>
-			<pubDate>Wed, 24 Feb 2021 07:27:17 +0000</pubDate>
-			<itunes:duration>01:05:10</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/43266840/kk0302podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sæson 2, Episode 2: Inge André Olsen om spillerudviklingen i AaB og jagten på den nye træner</title>
-			<link>https://api.spreaker.com/download/episode/43381892/kk1002podcast.mp3</link>
-			<description>AaB's sportsdirektør, Inge André Olsen, er denne uges gæst i Købmændenes Klub. Hør ham fortælle om processen med at få ansat Marti Cifuentes og meget andet.</description>
-			<guid isPermaLink="true">https://api.spreaker.com/download/episode/43381892/kk1002podcast.mp3</guid>
-			<pubDate>Wed, 24 Feb 2021 07:27:17 +0000</pubDate>
-			<itunes:duration>00:48:34</itunes:duration>
-			<enclosure url="https://api.spreaker.com/download/episode/43381892/kk1002podcast.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/42039117/kk18nov_podcast.mp3</guid>
+         <pubDate>Wed, 24 Feb 2021 07:27:19 +0000</pubDate>
+         <itunes:duration>01:00:17</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.02.24%20-%20Episode%209.mp3" />
+      </item>
+      <item>
+         <title>Episode 12: Ståle Solbakken-special</title>
+         <link>https://api.spreaker.com/download/episode/42159774/kk25nov_podcast.mp3</link>
+         <description />
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/42159774/kk25nov_podcast.mp3</guid>
+         <pubDate>Wed, 24 Feb 2021 07:27:19 +0000</pubDate>
+         <itunes:duration>00:56:27</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.02.24%20-%20S%C3%A6son%202%2C%20Episode%201.mp3" />
+      </item>
+      <item>
+         <title>Episode 13: Legende-special med Frank Arnesen</title>
+         <link>https://api.spreaker.com/download/episode/42277482/kk2december_podcast.mp3</link>
+         <description>I denne specielle udgave af Købmændenes Klub, har Lynge fået fri til at købe julegaver, og vi har i stedet fået besøg af Frank Arnesen til en snak om Maradona og mange flere fodboldlegender.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/42277482/kk2december_podcast.mp3</guid>
+         <pubDate>Wed, 24 Feb 2021 07:27:18 +0000</pubDate>
+         <itunes:duration>00:49:03</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.02.24%20-%20Episode%2012.mp3" />
+      </item>
+      <item>
+         <title>Episode 14: BIF, FCK, kontraktforlængelser og fedeholdet i AaB</title>
+         <link>https://api.spreaker.com/download/episode/42532581/kk16december.mp3</link>
+         <description>I denne uge er der fokus på Brøndby, FCK og Falk- og Sviatchenkos kontraktforlængelser. Der falder også et par anekdoter af om blandt andre Elrio van Heerden.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/42532581/kk16december.mp3</guid>
+         <pubDate>Wed, 24 Feb 2021 07:27:18 +0000</pubDate>
+         <itunes:duration>00:58:28</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.02.24%20-%20Episode%2013.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, Episode 1: Rollen som sportschef og Brøndbys transferstrategi med Carsten V. Jensen</title>
+         <link>https://api.spreaker.com/download/episode/43266840/kk0302podcast.mp3</link>
+         <description>Den nye sæson af Købmændenes Klub er rykket fra Zoom og ind i vores studie. Niels-Christian Holmstrøm og Mette Cornelius er fortsat faste bestanddele, mens fodbolddirektør i Brøndby, Carsten V. Jensen, udgør programmets første gæste-købmand.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/43266840/kk0302podcast.mp3</guid>
+         <pubDate>Wed, 24 Feb 2021 07:27:17 +0000</pubDate>
+         <itunes:duration>01:05:10</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.02.24%20-%20Episode%2010.mp3" />
+      </item>
+      <item>
+         <title>Sæson 2, Episode 2: Inge André Olsen om spillerudviklingen i AaB og jagten på den nye træner</title>
+         <link>https://api.spreaker.com/download/episode/43381892/kk1002podcast.mp3</link>
+         <description>AaB's sportsdirektør, Inge André Olsen, er denne uges gæst i Købmændenes Klub. Hør ham fortælle om processen med at få ansat Marti Cifuentes og meget andet.</description>
+         <guid isPermaLink="true">https://api.spreaker.com/download/episode/43381892/kk1002podcast.mp3</guid>
+         <pubDate>Wed, 24 Feb 2021 07:27:17 +0000</pubDate>
+         <itunes:duration>00:48:34</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/kobmaendenes_klub/K%C3%B8bm%C3%A6ndenes%20Klub/2021.02.24%20-%20Episode%2011.mp3" />
+      </item>
+   </channel>
 </rss>

@@ -1,461 +1,199 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   De sidste timer på Loud
-  </title>
-  <link>
-   https://www.spreaker.com/show/de-sidste-timer-paa-loud
-  </link>
-  <description>
-   Lyt med kl. 07-09 alle morgener frem mod nytårsdag, når Amalie Søderberg og Jacob Nielsen mindes året, der er gået - og undersøger året, vi går i møde. Selvfølgelig i selskab med en masse politiske og kulturelle gæster.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5333069/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   Copyright LOUD
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg
-   </url>
-   <title>
-    De sidste timer på Loud
-   </title>
-   <link>
-    https://www.spreaker.com/show/de-sidste-timer-paa-loud
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg"/>
-  <itunes:subtitle>
-   De sidste timer på Loud
-  </itunes:subtitle>
-  <itunes:summary>
-   Lyt med kl. 07-09 alle morgener frem mod nytårsdag, når Amalie Søderberg og Jacob Nielsen mindes året, der er gået - og undersøger året, vi går i møde. Selvfølgelig i selskab med en masse politiske og kulturelle gæster.
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Velkommen til 24syv
-   </title>
-   <link>
-    https://www.spreaker.com/episode/velkommen-til-24syv--48118317
-   </link>
-   <description>
-    Vi skåler nytåret ind, snakker med meningsdannere og fremfører vores utopiske og dystopiske forudsigelser af året vi går i møde. &lt;br /&gt;&lt;br /&gt;Medvirkende:  &lt;br /&gt;Luca Pristed, tidligere offentlig ansat sygeplejerske&lt;br /&gt;Simon B. Porse, journalist på Radio Loud&lt;br /&gt;Josephine Romby, journalist på Radio Loud
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48118317
-   </guid>
-   <pubDate>
-    Fri, 31 Dec 2021 09:03:10 +0000
-   </pubDate>
-   <enclosure length="51880481" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/48118317/sidste_timer_6.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi skåler nytåret ind, snakker med meningsdannere og fremfører vores utopiske og dystopiske forudsigelser af året vi går i møde. 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>De sidste timer på Loud</title>
+      <link>https://www.spreaker.com/show/de-sidste-timer-paa-loud</link>
+      <description>Lyt med kl. 07-09 alle morgener frem mod nytårsdag, når Amalie Søderberg og Jacob Nielsen mindes året, der er gået - og undersøger året, vi går i møde. Selvfølgelig i selskab med en masse politiske og kulturelle gæster.</description>
+      <atom:link href="https://www.spreaker.com/show/5333069/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>Copyright LOUD</copyright>
+      <image>
+         <url>https://archive.org/download/de_sidste_timer_pa_loud/De%20sidste%20timer%20p%C3%A5%20Loud/18480521fb548e1af9cce1297f020c11.jpg</url>
+         <title>De sidste timer på Loud</title>
+         <link>https://www.spreaker.com/show/de-sidste-timer-paa-loud</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg" />
+      <itunes:subtitle>De sidste timer på Loud</itunes:subtitle>
+      <itunes:summary>Lyt med kl. 07-09 alle morgener frem mod nytårsdag, når Amalie Søderberg og Jacob Nielsen mindes året, der er gået - og undersøger året, vi går i møde. Selvfølgelig i selskab med en masse politiske og kulturelle gæster.</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Velkommen til 24syv</title>
+         <link>https://www.spreaker.com/episode/velkommen-til-24syv--48118317</link>
+         <description>Vi skåler nytåret ind, snakker med meningsdannere og fremfører vores utopiske og dystopiske forudsigelser af året vi går i møde. &lt;br /&gt;&lt;br /&gt;Medvirkende:  &lt;br /&gt;Luca Pristed, tidligere offentlig ansat sygeplejerske&lt;br /&gt;Simon B. Porse, journalist på Radio Loud&lt;br /&gt;Josephine Romby, journalist på Radio Loud</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48118317</guid>
+         <pubDate>Fri, 31 Dec 2021 09:03:10 +0000</pubDate>
+         <enclosure length="51880481" type="audio/mpeg" url="https://archive.org/download/de_sidste_timer_pa_loud/De%20sidste%20timer%20p%C3%A5%20Loud/2021.12.31%20-%20Velkommen%20til%2024syv.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi skåler nytåret ind, snakker med meningsdannere og fremfører vores utopiske og dystopiske forudsigelser af året vi går i møde. 
 
 Medvirkende:  
 Luca Pristed, tidligere offentlig ansat sygeplejerske
 Simon B. Porse, journalist på Radio Loud
-Josephine...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi skåler nytåret ind, snakker med meningsdannere og fremfører vores utopiske og dystopiske forudsigelser af året vi går i møde. &lt;br /&gt;&lt;br /&gt;Medvirkende:  &lt;br /&gt;Luca Pristed, tidligere offentlig ansat sygeplejerske&lt;br /&gt;Simon B. Porse, journalist på Radio Loud&lt;br /&gt;Josephine Romby, journalist på Radio Loud
-   </itunes:summary>
-   <itunes:duration>
-    3239
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Farvel til Loud
-   </title>
-   <link>
-    https://www.spreaker.com/episode/farvel-til-loud--48118287
-   </link>
-   <description>
-    Det er den sidste dag i 2021. Vi sætter i denne time fokus på at sige farvel til året der er gået, når vi snakker med en nytårsekspert og får sagt farvel til alle minderne, som er opstået inden for det sidste år. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Karsten Nielsen, direktør for fyrværkeribrancheforeningen
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48118287
-   </guid>
-   <pubDate>
-    Fri, 31 Dec 2021 08:58:32 +0000
-   </pubDate>
-   <enclosure length="51837014" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/48118287/sidste_timer_5.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Det er den sidste dag i 2021. Vi sætter i denne time fokus på at sige farvel til året der er gået, når vi snakker med en nytårsekspert og får sagt farvel til alle minderne, som er opstået inden for det sidste år. 
+Josephine...</itunes:subtitle>
+         <itunes:summary>Vi skåler nytåret ind, snakker med meningsdannere og fremfører vores utopiske og dystopiske forudsigelser af året vi går i møde. &lt;br /&gt;&lt;br /&gt;Medvirkende:  &lt;br /&gt;Luca Pristed, tidligere offentlig ansat sygeplejerske&lt;br /&gt;Simon B. Porse, journalist på Radio Loud&lt;br /&gt;Josephine Romby, journalist på Radio Loud</itunes:summary>
+         <itunes:duration>3239</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Farvel til Loud</title>
+         <link>https://www.spreaker.com/episode/farvel-til-loud--48118287</link>
+         <description>Det er den sidste dag i 2021. Vi sætter i denne time fokus på at sige farvel til året der er gået, når vi snakker med en nytårsekspert og får sagt farvel til alle minderne, som er opstået inden for det sidste år. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Karsten Nielsen, direktør for fyrværkeribrancheforeningen</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48118287</guid>
+         <pubDate>Fri, 31 Dec 2021 08:58:32 +0000</pubDate>
+         <enclosure length="51837014" type="audio/mpeg" url="https://archive.org/download/de_sidste_timer_pa_loud/De%20sidste%20timer%20p%C3%A5%20Loud/2021.12.31%20-%20Farvel%20til%20Loud.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Det er den sidste dag i 2021. Vi sætter i denne time fokus på at sige farvel til året der er gået, når vi snakker med en nytårsekspert og får sagt farvel til alle minderne, som er opstået inden for det sidste år. 
 
 Medvirkende: 
-Karsten Nielsen,...
-   </itunes:subtitle>
-   <itunes:summary>
-    Det er den sidste dag i 2021. Vi sætter i denne time fokus på at sige farvel til året der er gået, når vi snakker med en nytårsekspert og får sagt farvel til alle minderne, som er opstået inden for det sidste år. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Karsten Nielsen, direktør for fyrværkeribrancheforeningen
-   </itunes:summary>
-   <itunes:duration>
-    3236
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Fremtidsforskning og anbefalinger til porteføljeinvesteringer
-   </title>
-   <link>
-    https://www.spreaker.com/episode/fremtidsforskning-og-anbefalinger-til-portefoljeinvesteringer--48106411
-   </link>
-   <description>
-    Vi spår de store udfald i 2022, og så snakker vi om hvilke sektorer man skal investere i, hvis man ønsker at starte eller udvide sin portefølje. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Andreas Steenberg, politisk ordfører for Radikale Venstre&lt;br /&gt;Andreas Østerheden, chefstrateg hos Nordea
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48106411
-   </guid>
-   <pubDate>
-    Thu, 30 Dec 2021 12:07:50 +0000
-   </pubDate>
-   <enclosure length="51875884" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/48106411/sidste_timer_3.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi spår de store udfald i 2022, og så snakker vi om hvilke sektorer man skal investere i, hvis man ønsker at starte eller udvide sin portefølje. 
+Karsten Nielsen,...</itunes:subtitle>
+         <itunes:summary>Det er den sidste dag i 2021. Vi sætter i denne time fokus på at sige farvel til året der er gået, når vi snakker med en nytårsekspert og får sagt farvel til alle minderne, som er opstået inden for det sidste år. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Karsten Nielsen, direktør for fyrværkeribrancheforeningen</itunes:summary>
+         <itunes:duration>3236</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Fremtidsforskning og anbefalinger til porteføljeinvesteringer</title>
+         <link>https://www.spreaker.com/episode/fremtidsforskning-og-anbefalinger-til-portefoljeinvesteringer--48106411</link>
+         <description>Vi spår de store udfald i 2022, og så snakker vi om hvilke sektorer man skal investere i, hvis man ønsker at starte eller udvide sin portefølje. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Andreas Steenberg, politisk ordfører for Radikale Venstre&lt;br /&gt;Andreas Østerheden, chefstrateg hos Nordea</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48106411</guid>
+         <pubDate>Thu, 30 Dec 2021 12:07:50 +0000</pubDate>
+         <enclosure length="51875884" type="audio/mpeg" url="https://archive.org/download/de_sidste_timer_pa_loud/De%20sidste%20timer%20p%C3%A5%20Loud/2021.12.30%20-%20Nationalmuseet%20udstiller%20corona.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi spår de store udfald i 2022, og så snakker vi om hvilke sektorer man skal investere i, hvis man ønsker at starte eller udvide sin portefølje. 
 
 Medvirkende: 
 Andreas Steenberg, politisk ordfører for Radikale Venstre
-Andreas Østerheden, chefstrateg...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi spår de store udfald i 2022, og så snakker vi om hvilke sektorer man skal investere i, hvis man ønsker at starte eller udvide sin portefølje. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Andreas Steenberg, politisk ordfører for Radikale Venstre&lt;br /&gt;Andreas Østerheden, chefstrateg hos Nordea
-   </itunes:summary>
-   <itunes:duration>
-    3239
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nationalmuseet udstiller corona
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nationalmuseet-udstiller-corona--48106398
-   </link>
-   <description>
-    Vi snakker om historiesymboler og vender hvornår - og hvordan - corona skal udstilles på danmarks nationale museum. Derudover snakker vi om hvad danske børnesange og internationale sangstjerner har til fælles. Lyt med for at høre ligheden. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Anni Mogensen, vicedirektør for Nationalmuseet&lt;br /&gt;Sarah Sabir, journalist på P3
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48106398
-   </guid>
-   <pubDate>
-    Thu, 30 Dec 2021 11:15:52 +0000
-   </pubDate>
-   <enclosure length="51836596" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/48106398/de_sidste_timer_p_loud_3.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi snakker om historiesymboler og vender hvornår - og hvordan - corona skal udstilles på danmarks nationale museum. Derudover snakker vi om hvad danske børnesange og internationale sangstjerner har til fælles. Lyt med for at høre ligheden....
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi snakker om historiesymboler og vender hvornår - og hvordan - corona skal udstilles på danmarks nationale museum. Derudover snakker vi om hvad danske børnesange og internationale sangstjerner har til fælles. Lyt med for at høre ligheden. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Anni Mogensen, vicedirektør for Nationalmuseet&lt;br /&gt;Sarah Sabir, journalist på P3
-   </itunes:summary>
-   <itunes:duration>
-    3236
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    24syv ifølge en astrolog og værdipolitik anno 2022
-   </title>
-   <link>
-    https://www.spreaker.com/episode/24syv-ifolge-en-astrolog-og-vaerdipolitik-anno-2022--48093780
-   </link>
-   <description>
-    Vi skal have de spirituelle briller på i denne time, hvor vi dykker ned i fødslen af det kommende 24syv. Terminen er d. 5. januar 00:00, og derfor får vi en astrolog til at læse fødselshoroskopet. Efterfølgende snakker vi med Enhedslisten om kampen mod børnefattigdom. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Rosa Lund, retsordfører for Enhedslisten&lt;br /&gt;Leonora Tranberg, Evolutionary Astrolog
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48093780
-   </guid>
-   <pubDate>
-    Wed, 29 Dec 2021 11:03:52 +0000
-   </pubDate>
-   <enclosure length="51767808" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/48093780/de_sidste_timer_p_loud2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi skal have de spirituelle briller på i denne time, hvor vi dykker ned i fødslen af det kommende 24syv. Terminen er d. 5. januar 00:00, og derfor får vi en astrolog til at læse fødselshoroskopet. Efterfølgende snakker vi med Enhedslisten om kampen...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi skal have de spirituelle briller på i denne time, hvor vi dykker ned i fødslen af det kommende 24syv. Terminen er d. 5. januar 00:00, og derfor får vi en astrolog til at læse fødselshoroskopet. Efterfølgende snakker vi med Enhedslisten om kampen mod børnefattigdom. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Rosa Lund, retsordfører for Enhedslisten&lt;br /&gt;Leonora Tranberg, Evolutionary Astrolog
-   </itunes:summary>
-   <itunes:duration>
-    3232
-   </itunes:duration>
-   <itunes:keywords>
-    nytår
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    DBA salg af personbiler og Pornhubs årsliste
-   </title>
-   <link>
-    https://www.spreaker.com/episode/dba-salg-af-personbiler-og-pornhubs-arsliste--48093764
-   </link>
-   <description>
-    Vi skærper ind på danskernes forøget salg og køb, for at analysere året ifølge danskernes forbrug. Yderligere bytter vi den nationale skive ud med et international perspektiv, når vi fortæller dig om de mest anvendte kategorier på pornohjemmesiden Pornhub. &lt;br /&gt;&lt;br /&gt;Medvirkende: Julie Schoen, talsperson for DBA og redaktør på DBA Guide
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48093764
-   </guid>
-   <pubDate>
-    Wed, 29 Dec 2021 10:49:35 +0000
-   </pubDate>
-   <enclosure length="51837850" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/48093764/de_sidste_timer_p_loud.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi skærper ind på danskernes forøget salg og køb, for at analysere året ifølge danskernes forbrug. Yderligere bytter vi den nationale skive ud med et international perspektiv, når vi fortæller dig om de mest anvendte kategorier på pornohjemmesiden...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi skærper ind på danskernes forøget salg og køb, for at analysere året ifølge danskernes forbrug. Yderligere bytter vi den nationale skive ud med et international perspektiv, når vi fortæller dig om de mest anvendte kategorier på pornohjemmesiden Pornhub. &lt;br /&gt;&lt;br /&gt;Medvirkende: Julie Schoen, talsperson for DBA og redaktør på DBA Guide
-   </itunes:summary>
-   <itunes:duration>
-    3236
-   </itunes:duration>
-   <itunes:keywords>
-    nytår
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Danskernes sexstatestikker og rejser til syden under corona
-   </title>
-   <link>
-    https://www.spreaker.com/episode/danskernes-sexstatestikker-og-rejser-til-syden-under-corona--48082721
-   </link>
-   <description>
-    Vidste du, at Aalborg er danmarks mest sexede by? Dette og meget mere lærer vi om, når vi snakker om livet under corona. I samme time dykker vi ned i hvorvidt - og hvorfor -  danskerne rejser sydpå på trods af voldsomme stigninger af omikron varianten. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Mathilde Mackowski, medstifter og medejer af Sinful&lt;br /&gt;Sofie Folden Lund, kommunikations- og pressechef hos Spies A/S &amp; Sunclass Airlines
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48082721
-   </guid>
-   <pubDate>
-    Tue, 28 Dec 2021 10:24:19 +0000
-   </pubDate>
-   <enclosure length="103363815" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/48082721/radio_loud_on_air_2021_12_28_08_06_08.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vidste du, at Aalborg er danmarks mest sexede by? Dette og meget mere lærer vi om, når vi snakker om livet under corona. I samme time dykker vi ned i hvorvidt - og hvorfor -  danskerne rejser sydpå på trods af voldsomme stigninger af omikron...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vidste du, at Aalborg er danmarks mest sexede by? Dette og meget mere lærer vi om, når vi snakker om livet under corona. I samme time dykker vi ned i hvorvidt - og hvorfor -  danskerne rejser sydpå på trods af voldsomme stigninger af omikron varianten. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Mathilde Mackowski, medstifter og medejer af Sinful&lt;br /&gt;Sofie Folden Lund, kommunikations- og pressechef hos Spies A/S &amp; Sunclass Airlines
-   </itunes:summary>
-   <itunes:duration>
-    3234
-   </itunes:duration>
-   <itunes:keywords>
-    rejser
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Alt det der skete i år, som vi har glemt pga. corona
-   </title>
-   <link>
-    https://www.spreaker.com/episode/alt-det-der-skete-i-ar-som-vi-har-glemt-pga-corona--48082710
-   </link>
-   <description>
-    I denne time quizzer vi sammen med dig, når vi hopper gennem året foruden corona, og lærer en masse om popkulturen, udland og indland med quizmasteren, Daniel Manane.  Derudover snakker vi om fællesskab og højskoler i en tid, hvor fællesskabet er svært at prioritere.&lt;br /&gt;&lt;br /&gt;Medvirkende: Ole Toftdahl, forstander på Ry Højskole
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48082710
-   </guid>
-   <pubDate>
-    Tue, 28 Dec 2021 10:18:22 +0000
-   </pubDate>
-   <enclosure length="103440635" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/48082710/radio_loud_on_air_2021_12_28_07_06_06_1.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I denne time quizzer vi sammen med dig, når vi hopper gennem året foruden corona, og lærer en masse om popkulturen, udland og indland med quizmasteren, Daniel Manane.  Derudover snakker vi om fællesskab og højskoler i en tid, hvor fællesskabet er...
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne time quizzer vi sammen med dig, når vi hopper gennem året foruden corona, og lærer en masse om popkulturen, udland og indland med quizmasteren, Daniel Manane.  Derudover snakker vi om fællesskab og højskoler i en tid, hvor fællesskabet er svært at prioritere.&lt;br /&gt;&lt;br /&gt;Medvirkende: Ole Toftdahl, forstander på Ry Højskole
-   </itunes:summary>
-   <itunes:duration>
-    3237
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Er dansk politik klar til 2022?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/er-dansk-politik-klar-til-2022--48082707
-   </link>
-   <description>
-    Vi snakker om vores egne forvetninger til året vi går i møde - blandt andet ved at vende hvorvidt vi forventer at næste år bliver en kopi af de sidste par år. Til sidst dykker vi ned i dansk politik anno 2021. &lt;br /&gt;&lt;br /&gt;Medvirkende: Mette Abildgaard, politisk ordfører for Det Konservative Folkeparti.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48082707
-   </guid>
-   <pubDate>
-    Tue, 28 Dec 2021 10:15:44 +0000
-   </pubDate>
-   <enclosure length="103424770" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/48082707/radio_loud_on_air_2021_12_27_08_06_05_1.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi snakker om vores egne forvetninger til året vi går i møde - blandt andet ved at vende hvorvidt vi forventer at næste år bliver en kopi af de sidste par år. Til sidst dykker vi ned i dansk politik anno 2021. 
+Andreas Østerheden, chefstrateg...</itunes:subtitle>
+         <itunes:summary>Vi spår de store udfald i 2022, og så snakker vi om hvilke sektorer man skal investere i, hvis man ønsker at starte eller udvide sin portefølje. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Andreas Steenberg, politisk ordfører for Radikale Venstre&lt;br /&gt;Andreas Østerheden, chefstrateg hos Nordea</itunes:summary>
+         <itunes:duration>3239</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nationalmuseet udstiller corona</title>
+         <link>https://www.spreaker.com/episode/nationalmuseet-udstiller-corona--48106398</link>
+         <description>Vi snakker om historiesymboler og vender hvornår - og hvordan - corona skal udstilles på danmarks nationale museum. Derudover snakker vi om hvad danske børnesange og internationale sangstjerner har til fælles. Lyt med for at høre ligheden. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Anni Mogensen, vicedirektør for Nationalmuseet&lt;br /&gt;Sarah Sabir, journalist på P3</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48106398</guid>
+         <pubDate>Thu, 30 Dec 2021 11:15:52 +0000</pubDate>
+         <enclosure length="51836596" type="audio/mpeg" url="https://archive.org/download/de_sidste_timer_pa_loud/De%20sidste%20timer%20p%C3%A5%20Loud/2021.12.30%20-%20Fremtidsforskning%20og%20anbefalinger%20til%20portef%C3%B8ljeinvesteringer.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi snakker om historiesymboler og vender hvornår - og hvordan - corona skal udstilles på danmarks nationale museum. Derudover snakker vi om hvad danske børnesange og internationale sangstjerner har til fælles. Lyt med for at høre ligheden....</itunes:subtitle>
+         <itunes:summary>Vi snakker om historiesymboler og vender hvornår - og hvordan - corona skal udstilles på danmarks nationale museum. Derudover snakker vi om hvad danske børnesange og internationale sangstjerner har til fælles. Lyt med for at høre ligheden. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Anni Mogensen, vicedirektør for Nationalmuseet&lt;br /&gt;Sarah Sabir, journalist på P3</itunes:summary>
+         <itunes:duration>3236</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>24syv ifølge en astrolog og værdipolitik anno 2022</title>
+         <link>https://www.spreaker.com/episode/24syv-ifolge-en-astrolog-og-vaerdipolitik-anno-2022--48093780</link>
+         <description>Vi skal have de spirituelle briller på i denne time, hvor vi dykker ned i fødslen af det kommende 24syv. Terminen er d. 5. januar 00:00, og derfor får vi en astrolog til at læse fødselshoroskopet. Efterfølgende snakker vi med Enhedslisten om kampen mod børnefattigdom. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Rosa Lund, retsordfører for Enhedslisten&lt;br /&gt;Leonora Tranberg, Evolutionary Astrolog</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48093780</guid>
+         <pubDate>Wed, 29 Dec 2021 11:03:52 +0000</pubDate>
+         <enclosure length="51767808" type="audio/mpeg" url="https://archive.org/download/de_sidste_timer_pa_loud/De%20sidste%20timer%20p%C3%A5%20Loud/2021.12.29%20-%20DBA%20salg%20af%20personbiler%20og%20Pornhubs%20%C3%A5rsliste.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi skal have de spirituelle briller på i denne time, hvor vi dykker ned i fødslen af det kommende 24syv. Terminen er d. 5. januar 00:00, og derfor får vi en astrolog til at læse fødselshoroskopet. Efterfølgende snakker vi med Enhedslisten om kampen...</itunes:subtitle>
+         <itunes:summary>Vi skal have de spirituelle briller på i denne time, hvor vi dykker ned i fødslen af det kommende 24syv. Terminen er d. 5. januar 00:00, og derfor får vi en astrolog til at læse fødselshoroskopet. Efterfølgende snakker vi med Enhedslisten om kampen mod børnefattigdom. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Rosa Lund, retsordfører for Enhedslisten&lt;br /&gt;Leonora Tranberg, Evolutionary Astrolog</itunes:summary>
+         <itunes:duration>3232</itunes:duration>
+         <itunes:keywords>nytår</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>DBA salg af personbiler og Pornhubs årsliste</title>
+         <link>https://www.spreaker.com/episode/dba-salg-af-personbiler-og-pornhubs-arsliste--48093764</link>
+         <description>Vi skærper ind på danskernes forøget salg og køb, for at analysere året ifølge danskernes forbrug. Yderligere bytter vi den nationale skive ud med et international perspektiv, når vi fortæller dig om de mest anvendte kategorier på pornohjemmesiden Pornhub. &lt;br /&gt;&lt;br /&gt;Medvirkende: Julie Schoen, talsperson for DBA og redaktør på DBA Guide</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48093764</guid>
+         <pubDate>Wed, 29 Dec 2021 10:49:35 +0000</pubDate>
+         <enclosure length="51837850" type="audio/mpeg" url="https://archive.org/download/de_sidste_timer_pa_loud/De%20sidste%20timer%20p%C3%A5%20Loud/2021.12.29%20-%2024syv%20if%C3%B8lge%20en%20astrolog%20og%20v%C3%A6rdipolitik%20anno%202022.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi skærper ind på danskernes forøget salg og køb, for at analysere året ifølge danskernes forbrug. Yderligere bytter vi den nationale skive ud med et international perspektiv, når vi fortæller dig om de mest anvendte kategorier på pornohjemmesiden...</itunes:subtitle>
+         <itunes:summary>Vi skærper ind på danskernes forøget salg og køb, for at analysere året ifølge danskernes forbrug. Yderligere bytter vi den nationale skive ud med et international perspektiv, når vi fortæller dig om de mest anvendte kategorier på pornohjemmesiden Pornhub. &lt;br /&gt;&lt;br /&gt;Medvirkende: Julie Schoen, talsperson for DBA og redaktør på DBA Guide</itunes:summary>
+         <itunes:duration>3236</itunes:duration>
+         <itunes:keywords>nytår</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Danskernes sexstatestikker og rejser til syden under corona</title>
+         <link>https://www.spreaker.com/episode/danskernes-sexstatestikker-og-rejser-til-syden-under-corona--48082721</link>
+         <description>Vidste du, at Aalborg er danmarks mest sexede by? Dette og meget mere lærer vi om, når vi snakker om livet under corona. I samme time dykker vi ned i hvorvidt - og hvorfor -  danskerne rejser sydpå på trods af voldsomme stigninger af omikron varianten. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Mathilde Mackowski, medstifter og medejer af Sinful&lt;br /&gt;Sofie Folden Lund, kommunikations- og pressechef hos Spies A/S &amp; Sunclass Airlines</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48082721</guid>
+         <pubDate>Tue, 28 Dec 2021 10:24:19 +0000</pubDate>
+         <enclosure length="103363815" type="audio/mpeg" url="https://archive.org/download/de_sidste_timer_pa_loud/De%20sidste%20timer%20p%C3%A5%20Loud/2021.12.28%20-%20Farvel%20til%20julen%20og%20alle%20dens%20traditioner.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vidste du, at Aalborg er danmarks mest sexede by? Dette og meget mere lærer vi om, når vi snakker om livet under corona. I samme time dykker vi ned i hvorvidt - og hvorfor -  danskerne rejser sydpå på trods af voldsomme stigninger af omikron...</itunes:subtitle>
+         <itunes:summary>Vidste du, at Aalborg er danmarks mest sexede by? Dette og meget mere lærer vi om, når vi snakker om livet under corona. I samme time dykker vi ned i hvorvidt - og hvorfor -  danskerne rejser sydpå på trods af voldsomme stigninger af omikron varianten. &lt;br /&gt;&lt;br /&gt;Medvirkende: &lt;br /&gt;Mathilde Mackowski, medstifter og medejer af Sinful&lt;br /&gt;Sofie Folden Lund, kommunikations- og pressechef hos Spies A/S &amp; Sunclass Airlines</itunes:summary>
+         <itunes:duration>3234</itunes:duration>
+         <itunes:keywords>rejser</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Alt det der skete i år, som vi har glemt pga. corona</title>
+         <link>https://www.spreaker.com/episode/alt-det-der-skete-i-ar-som-vi-har-glemt-pga-corona--48082710</link>
+         <description>I denne time quizzer vi sammen med dig, når vi hopper gennem året foruden corona, og lærer en masse om popkulturen, udland og indland med quizmasteren, Daniel Manane.  Derudover snakker vi om fællesskab og højskoler i en tid, hvor fællesskabet er svært at prioritere.&lt;br /&gt;&lt;br /&gt;Medvirkende: Ole Toftdahl, forstander på Ry Højskole</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48082710</guid>
+         <pubDate>Tue, 28 Dec 2021 10:18:22 +0000</pubDate>
+         <enclosure length="103440635" type="audio/mpeg" url="https://archive.org/download/de_sidste_timer_pa_loud/De%20sidste%20timer%20p%C3%A5%20Loud/2021.12.28%20-%20Er%20dansk%20politik%20klar%20til%202022.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I denne time quizzer vi sammen med dig, når vi hopper gennem året foruden corona, og lærer en masse om popkulturen, udland og indland med quizmasteren, Daniel Manane.  Derudover snakker vi om fællesskab og højskoler i en tid, hvor fællesskabet er...</itunes:subtitle>
+         <itunes:summary>I denne time quizzer vi sammen med dig, når vi hopper gennem året foruden corona, og lærer en masse om popkulturen, udland og indland med quizmasteren, Daniel Manane.  Derudover snakker vi om fællesskab og højskoler i en tid, hvor fællesskabet er svært at prioritere.&lt;br /&gt;&lt;br /&gt;Medvirkende: Ole Toftdahl, forstander på Ry Højskole</itunes:summary>
+         <itunes:duration>3237</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Er dansk politik klar til 2022?</title>
+         <link>https://www.spreaker.com/episode/er-dansk-politik-klar-til-2022--48082707</link>
+         <description>Vi snakker om vores egne forvetninger til året vi går i møde - blandt andet ved at vende hvorvidt vi forventer at næste år bliver en kopi af de sidste par år. Til sidst dykker vi ned i dansk politik anno 2021. &lt;br /&gt;&lt;br /&gt;Medvirkende: Mette Abildgaard, politisk ordfører for Det Konservative Folkeparti.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48082707</guid>
+         <pubDate>Tue, 28 Dec 2021 10:15:44 +0000</pubDate>
+         <enclosure length="103424770" type="audio/mpeg" url="https://archive.org/download/de_sidste_timer_pa_loud/De%20sidste%20timer%20p%C3%A5%20Loud/2021.12.28%20-%20Danskernes%20sexstatestikker%20og%20rejser%20til%20syden%20under%20corona.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi snakker om vores egne forvetninger til året vi går i møde - blandt andet ved at vende hvorvidt vi forventer at næste år bliver en kopi af de sidste par år. Til sidst dykker vi ned i dansk politik anno 2021. 
 
-Medvirkende: Mette Abildgaard, politisk...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi snakker om vores egne forvetninger til året vi går i møde - blandt andet ved at vende hvorvidt vi forventer at næste år bliver en kopi af de sidste par år. Til sidst dykker vi ned i dansk politik anno 2021. &lt;br /&gt;&lt;br /&gt;Medvirkende: Mette Abildgaard, politisk ordfører for Det Konservative Folkeparti.
-   </itunes:summary>
-   <itunes:duration>
-    3236
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Farvel til julen og alle dens traditioner
-   </title>
-   <link>
-    https://www.spreaker.com/episode/farvel-til-julen-og-alle-dens-traditioner--48082554
-   </link>
-   <description>
-    I første time får vi sagt et officielt farvel til julen, når vi julequizzer, vender julemiddagen og snakker om at passe på hinanden i den kolde vintertid. &lt;br /&gt;&lt;br /&gt;Medvirkende: Ole Abildgaard Mikkelsen, direktør i WeShelter
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48082554
-   </guid>
-   <pubDate>
-    Tue, 28 Dec 2021 09:39:56 +0000
-   </pubDate>
-   <enclosure length="102970530" type="audio/mpeg" url="https://chrt.fm/track/GFDE3G/api.spreaker.com/download/episode/48082554/radio_loud_on_air_2021_12_27_07_06_20_1.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I første time får vi sagt et officielt farvel til julen, når vi julequizzer, vender julemiddagen og snakker om at passe på hinanden i den kolde vintertid. 
+Medvirkende: Mette Abildgaard, politisk...</itunes:subtitle>
+         <itunes:summary>Vi snakker om vores egne forvetninger til året vi går i møde - blandt andet ved at vende hvorvidt vi forventer at næste år bliver en kopi af de sidste par år. Til sidst dykker vi ned i dansk politik anno 2021. &lt;br /&gt;&lt;br /&gt;Medvirkende: Mette Abildgaard, politisk ordfører for Det Konservative Folkeparti.</itunes:summary>
+         <itunes:duration>3236</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Farvel til julen og alle dens traditioner</title>
+         <link>https://www.spreaker.com/episode/farvel-til-julen-og-alle-dens-traditioner--48082554</link>
+         <description>I første time får vi sagt et officielt farvel til julen, når vi julequizzer, vender julemiddagen og snakker om at passe på hinanden i den kolde vintertid. &lt;br /&gt;&lt;br /&gt;Medvirkende: Ole Abildgaard Mikkelsen, direktør i WeShelter</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48082554</guid>
+         <pubDate>Tue, 28 Dec 2021 09:39:56 +0000</pubDate>
+         <enclosure length="102970530" type="audio/mpeg" url="https://archive.org/download/de_sidste_timer_pa_loud/De%20sidste%20timer%20p%C3%A5%20Loud/2021.12.28%20-%20Alt%20det%20der%20skete%20i%20%C3%A5r%2C%20som%20vi%20har%20glemt%20pga.%20corona.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I første time får vi sagt et officielt farvel til julen, når vi julequizzer, vender julemiddagen og snakker om at passe på hinanden i den kolde vintertid. 
 
-Medvirkende: Ole Abildgaard Mikkelsen, direktør i WeShelter
-   </itunes:subtitle>
-   <itunes:summary>
-    I første time får vi sagt et officielt farvel til julen, når vi julequizzer, vender julemiddagen og snakker om at passe på hinanden i den kolde vintertid. &lt;br /&gt;&lt;br /&gt;Medvirkende: Ole Abildgaard Mikkelsen, direktør i WeShelter
-   </itunes:summary>
-   <itunes:duration>
-    3222
-   </itunes:duration>
-   <itunes:keywords>
-    jul,nytår
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+Medvirkende: Ole Abildgaard Mikkelsen, direktør i WeShelter</itunes:subtitle>
+         <itunes:summary>I første time får vi sagt et officielt farvel til julen, når vi julequizzer, vender julemiddagen og snakker om at passe på hinanden i den kolde vintertid. &lt;br /&gt;&lt;br /&gt;Medvirkende: Ole Abildgaard Mikkelsen, direktør i WeShelter</itunes:summary>
+         <itunes:duration>3222</itunes:duration>
+         <itunes:keywords>jul,nytår</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18480521fb548e1af9cce1297f020c11.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

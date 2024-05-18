@@ -1,386 +1,162 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Det Kan Du Selv Vær
-  </title>
-  <link>
-   https://loud.land/podcast/det-kan-du-selv-vaere
-  </link>
-  <description>
-   Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Det Kan Du Selv Vær er en del af LOUD TALENT
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4651948/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Self-Improvement
-  </category>
-  <copyright>
-   521943
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ae52268279b7ad5180aa43271ba8b121.jpg
-   </url>
-   <title>
-    Det Kan Du Selv Vær
-   </title>
-   <link>
-    https://loud.land/podcast/det-kan-du-selv-vaere
-   </link>
-  </image>
-  <lastBuildDate>
-   Fri, 01 Dec 2023 22:23:21 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ae52268279b7ad5180aa43271ba8b121.jpg"/>
-  <itunes:subtitle>
-   Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver Astrid og Rikke konkrete redskaber til, du kan bruge i din hverdag.
-  </itunes:subtitle>
-  <itunes:summary>
-   Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Det Kan Du Selv Vær er en del af LOUD TALENT
-  </itunes:summary>
-  <itunes:category text="Education">
-   <itunes:category text="Self-Improvement"/>
-  </itunes:category>
-  <itunes:category text="Health &amp; Fitness"/>
-  <itunes:category text="Health &amp; Fitness">
-   <itunes:category text="Sexuality"/>
-  </itunes:category>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Du skal da bare lige elske dig selv
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep8
-   </link>
-   <description>
-    Vi tager temperaturen på ”elsk-dig-selv”-bølgen” – hvordan ser det ud i 2020? Skal man virkelig elske sig selv, eller er det et nyt, urealistisk ideal at sætte? Lyt med, når vi står i hvert vores ringhjørne og battler om vores uenighed. Vi håber, afsnittet vil inspirere jer derude!&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/33224322
-   </guid>
-   <pubDate>
-    Sun, 28 Jun 2020 23:05:17 +0000
-   </pubDate>
-   <enclosure length="52853863" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/33224322/detkanduselvv_r_ep8.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Vi tager temperaturen på ”elsk-dig-selv”-bølgen” – hvordan ser det ud i 2020? Skal man virkelig elske sig selv, eller er det et nyt, urealistisk ideal at sætte? Lyt med, når vi står i hvert vores ringhjørne og battler om vores uenighed. Vi håber,...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi tager temperaturen på ”elsk-dig-selv”-bølgen” – hvordan ser det ud i 2020? Skal man virkelig elske sig selv, eller er det et nyt, urealistisk ideal at sætte? Lyt med, når vi står i hvert vores ringhjørne og battler om vores uenighed. Vi håber, afsnittet vil inspirere jer derude!&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </itunes:summary>
-   <itunes:duration>
-    3304
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/09d16265914265352c434d4c56930d57.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    All By My Self
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep7
-   </link>
-   <description>
-    Kalder alle singler på linjen: Vi ryster posen lidt og tænker bagvendt i singlesnakken! SKAL man egentlig have et parforhold for at være lykkelig? Hvis du også er træt af spørgsmålet ”skal du ikke snart have en kæreste”, så læn dig tilbage og lyt! Spoiler: Astrid er endelig hoppet med på citat-bølgen, og denne gang giver hun et lækkert ordsprog med på vejen ;-)&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/31629040
-   </guid>
-   <pubDate>
-    Sun, 21 Jun 2020 22:00:06 +0000
-   </pubDate>
-   <enclosure length="52855153" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/31629040/detkanduselvv_r_ep7.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Kalder alle singler på linjen: Vi ryster posen lidt og tænker bagvendt i singlesnakken! SKAL man egentlig have et parforhold for at være lykkelig? Hvis du også er træt af spørgsmålet ”skal du ikke snart have en kæreste”, så læn dig tilbage og lyt!...
-   </itunes:subtitle>
-   <itunes:summary>
-    Kalder alle singler på linjen: Vi ryster posen lidt og tænker bagvendt i singlesnakken! SKAL man egentlig have et parforhold for at være lykkelig? Hvis du også er træt af spørgsmålet ”skal du ikke snart have en kæreste”, så læn dig tilbage og lyt! Spoiler: Astrid er endelig hoppet med på citat-bølgen, og denne gang giver hun et lækkert ordsprog med på vejen ;-)&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </itunes:summary>
-   <itunes:duration>
-    3304
-   </itunes:duration>
-   <itunes:keywords>
-    danmark,nyt,talent,unge,uprøvet
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa1fb65363b66cdff0e55a9370118409.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    HVA’ SÅ, VENNER?
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep6
-   </link>
-   <description>
-    Hvordan er det nu med de der venner? Må man bruge ”jeg har ikke tid” som undskyldning for ikke at ville ses? Hvordan får vi nye venner, og hvordan bliver vi bedre til at sige fra? Vi snakker om, hvordan det kan give pote i relationer, når vi begynder at blive opmærksomme på vores egen rolle og vores eget selvværd.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/30132697
-   </guid>
-   <pubDate>
-    Sun, 14 Jun 2020 22:05:05 +0000
-   </pubDate>
-   <enclosure length="52750627" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/30132697/detkanduselvv_r_ep6.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hvordan er det nu med de der venner? Må man bruge ”jeg har ikke tid” som undskyldning for ikke at ville ses? Hvordan får vi nye venner, og hvordan bliver vi bedre til at sige fra? Vi snakker om, hvordan det kan give pote i relationer, når vi begynder...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvordan er det nu med de der venner? Må man bruge ”jeg har ikke tid” som undskyldning for ikke at ville ses? Hvordan får vi nye venner, og hvordan bliver vi bedre til at sige fra? Vi snakker om, hvordan det kan give pote i relationer, når vi begynder at blive opmærksomme på vores egen rolle og vores eget selvværd.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </itunes:summary>
-   <itunes:duration>
-    3297
-   </itunes:duration>
-   <itunes:keywords>
-    danmark,nyt,talent,unge,uprøvet
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/839c5031eea7ee32a3fcaee3793ccdcf.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Parforhold og alt det der lort
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep5
-   </link>
-   <description>
-    Hvad er et leveringsparforhold, skal vi stadig sige ”min bedre halvdel”, findes det perfekte parforhold, hvordan kan barndomstraume(r) på virke parforholdet, og hvad er man egentlig ansvarlig for i en kærlig relation? Vi leger som altid ”jeg har aldrig” og forsøger i dette afsnit at give vores bidrag til et realistisk billede af det at være i et parforhold.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/29260332
-   </guid>
-   <pubDate>
-    Sun, 07 Jun 2020 22:05:13 +0000
-   </pubDate>
-   <enclosure length="52847971" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/29260332/detkanduselvv_r_ep5.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hvad er et leveringsparforhold, skal vi stadig sige ”min bedre halvdel”, findes det perfekte parforhold, hvordan kan barndomstraume(r) på virke parforholdet, og hvad er man egentlig ansvarlig for i en kærlig relation? Vi leger som altid ”jeg har...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvad er et leveringsparforhold, skal vi stadig sige ”min bedre halvdel”, findes det perfekte parforhold, hvordan kan barndomstraume(r) på virke parforholdet, og hvad er man egentlig ansvarlig for i en kærlig relation? Vi leger som altid ”jeg har aldrig” og forsøger i dette afsnit at give vores bidrag til et realistisk billede af det at være i et parforhold.
-   </itunes:summary>
-   <itunes:duration>
-    3303
-   </itunes:duration>
-   <itunes:keywords>
-    danmark,nyt,talent,unge,uprøvet
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f3807997b62518b2d2791013bb641fc9.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Sexværd!
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep4
-   </link>
-   <description>
-    Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/26758545
-   </guid>
-   <pubDate>
-    Fri, 08 May 2020 23:00:16 +0000
-   </pubDate>
-   <enclosure length="52797857" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/26758545/detkanduselvv_r_ep4.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver...
-   </itunes:subtitle>
-   <itunes:summary>
-    Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </itunes:summary>
-   <itunes:duration>
-    3300
-   </itunes:duration>
-   <itunes:keywords>
-    danmark,nyt,talent,unge,uprøvet
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ae52268279b7ad5180aa43271ba8b121.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    FOMO er din ven
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep3
-   </link>
-   <description>
-    Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/26338640
-   </guid>
-   <pubDate>
-    Fri, 01 May 2020 23:00:15 +0000
-   </pubDate>
-   <enclosure length="52784482" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/26338640/detkanduselvv_r_ep3.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver...
-   </itunes:subtitle>
-   <itunes:summary>
-    Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </itunes:summary>
-   <itunes:duration>
-    3300
-   </itunes:duration>
-   <itunes:keywords>
-    danmark,nyt,talent,unge,uprøvet
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ae52268279b7ad5180aa43271ba8b121.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Fuck positiv tænkning – og så alligevel ikke
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep2
-   </link>
-   <description>
-    Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/25946697
-   </guid>
-   <pubDate>
-    Fri, 24 Apr 2020 23:00:09 +0000
-   </pubDate>
-   <enclosure length="52817432" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/25946697/detkanduselvv_r_ep2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver...
-   </itunes:subtitle>
-   <itunes:summary>
-    Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </itunes:summary>
-   <itunes:duration>
-    3302
-   </itunes:duration>
-   <itunes:keywords>
-    danmark,nyt,talent,unge,uprøvet
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ae52268279b7ad5180aa43271ba8b121.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Man er som man er
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep1
-   </link>
-   <description>
-    Astrid Mellin og Rikke Stokland er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/25520344
-   </guid>
-   <pubDate>
-    Sat, 18 Apr 2020 06:00:14 +0000
-   </pubDate>
-   <enclosure length="52773197" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/25520344/detkanduselvv_r_ep1.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Astrid Mellin og Rikke Stokland er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når...
-   </itunes:subtitle>
-   <itunes:summary>
-    Astrid Mellin og Rikke Stokland er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin
-   </itunes:summary>
-   <itunes:duration>
-    3299
-   </itunes:duration>
-   <itunes:keywords>
-    seksualitet,selvtillid,selvværd
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ae52268279b7ad5180aa43271ba8b121.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Det Kan Du Selv Vær</title>
+      <link>https://loud.land/podcast/det-kan-du-selv-vaere</link>
+      <description>Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Det Kan Du Selv Vær er en del af LOUD TALENT</description>
+      <atom:link href="https://www.spreaker.com/show/4651948/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Self-Improvement</category>
+      <copyright>521943</copyright>
+      <image>
+         <url>https://archive.org/download/det_kan_du_selv_vaer/Det%20Kan%20Du%20Selv%20V%C3%A6r/09d16265914265352c434d4c56930d57.jpg</url>
+         <title>Det Kan Du Selv Vær</title>
+         <link>https://loud.land/podcast/det-kan-du-selv-vaere</link>
+      </image>
+      <lastBuildDate>Fri, 01 Dec 2023 22:23:21 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ae52268279b7ad5180aa43271ba8b121.jpg" />
+      <itunes:subtitle>Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver Astrid og Rikke konkrete redskaber til, du kan bruge i din hverdag.</itunes:subtitle>
+      <itunes:summary>Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Det Kan Du Selv Vær er en del af LOUD TALENT</itunes:summary>
+      <itunes:category text="Education">
+         <itunes:category text="Self-Improvement" />
+      </itunes:category>
+      <itunes:category text="Health &amp; Fitness" />
+      <itunes:category text="Health &amp; Fitness">
+         <itunes:category text="Sexuality" />
+      </itunes:category>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Du skal da bare lige elske dig selv</title>
+         <link>https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep8</link>
+         <description>Vi tager temperaturen på ”elsk-dig-selv”-bølgen” – hvordan ser det ud i 2020? Skal man virkelig elske sig selv, eller er det et nyt, urealistisk ideal at sætte? Lyt med, når vi står i hvert vores ringhjørne og battler om vores uenighed. Vi håber, afsnittet vil inspirere jer derude!&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/33224322</guid>
+         <pubDate>Sun, 28 Jun 2020 23:05:17 +0000</pubDate>
+         <enclosure length="52853863" type="audio/mpeg" url="https://archive.org/download/det_kan_du_selv_vaer/Det%20Kan%20Du%20Selv%20V%C3%A6r/2020.06.28%20-%20Du%20skal%20da%20bare%20lige%20elske%20dig%20selv.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Vi tager temperaturen på ”elsk-dig-selv”-bølgen” – hvordan ser det ud i 2020? Skal man virkelig elske sig selv, eller er det et nyt, urealistisk ideal at sætte? Lyt med, når vi står i hvert vores ringhjørne og battler om vores uenighed. Vi håber,...</itunes:subtitle>
+         <itunes:summary>Vi tager temperaturen på ”elsk-dig-selv”-bølgen” – hvordan ser det ud i 2020? Skal man virkelig elske sig selv, eller er det et nyt, urealistisk ideal at sætte? Lyt med, når vi står i hvert vores ringhjørne og battler om vores uenighed. Vi håber, afsnittet vil inspirere jer derude!&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</itunes:summary>
+         <itunes:duration>3304</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/09d16265914265352c434d4c56930d57.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>All By My Self</title>
+         <link>https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep7</link>
+         <description>Kalder alle singler på linjen: Vi ryster posen lidt og tænker bagvendt i singlesnakken! SKAL man egentlig have et parforhold for at være lykkelig? Hvis du også er træt af spørgsmålet ”skal du ikke snart have en kæreste”, så læn dig tilbage og lyt! Spoiler: Astrid er endelig hoppet med på citat-bølgen, og denne gang giver hun et lækkert ordsprog med på vejen ;-)&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/31629040</guid>
+         <pubDate>Sun, 21 Jun 2020 22:00:06 +0000</pubDate>
+         <enclosure length="52855153" type="audio/mpeg" url="https://archive.org/download/det_kan_du_selv_vaer/Det%20Kan%20Du%20Selv%20V%C3%A6r/2020.06.21%20-%20All%20By%20My%20Self.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Kalder alle singler på linjen: Vi ryster posen lidt og tænker bagvendt i singlesnakken! SKAL man egentlig have et parforhold for at være lykkelig? Hvis du også er træt af spørgsmålet ”skal du ikke snart have en kæreste”, så læn dig tilbage og lyt!...</itunes:subtitle>
+         <itunes:summary>Kalder alle singler på linjen: Vi ryster posen lidt og tænker bagvendt i singlesnakken! SKAL man egentlig have et parforhold for at være lykkelig? Hvis du også er træt af spørgsmålet ”skal du ikke snart have en kæreste”, så læn dig tilbage og lyt! Spoiler: Astrid er endelig hoppet med på citat-bølgen, og denne gang giver hun et lækkert ordsprog med på vejen ;-)&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</itunes:summary>
+         <itunes:duration>3304</itunes:duration>
+         <itunes:keywords>danmark,nyt,talent,unge,uprøvet</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa1fb65363b66cdff0e55a9370118409.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>HVA’ SÅ, VENNER?</title>
+         <link>https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep6</link>
+         <description>Hvordan er det nu med de der venner? Må man bruge ”jeg har ikke tid” som undskyldning for ikke at ville ses? Hvordan får vi nye venner, og hvordan bliver vi bedre til at sige fra? Vi snakker om, hvordan det kan give pote i relationer, når vi begynder at blive opmærksomme på vores egen rolle og vores eget selvværd.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/30132697</guid>
+         <pubDate>Sun, 14 Jun 2020 22:05:05 +0000</pubDate>
+         <enclosure length="52750627" type="audio/mpeg" url="https://archive.org/download/det_kan_du_selv_vaer/Det%20Kan%20Du%20Selv%20V%C3%A6r/2020.06.14%20-%20HVA%E2%80%99%20S%C3%85%2C%20VENNER.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hvordan er det nu med de der venner? Må man bruge ”jeg har ikke tid” som undskyldning for ikke at ville ses? Hvordan får vi nye venner, og hvordan bliver vi bedre til at sige fra? Vi snakker om, hvordan det kan give pote i relationer, når vi begynder...</itunes:subtitle>
+         <itunes:summary>Hvordan er det nu med de der venner? Må man bruge ”jeg har ikke tid” som undskyldning for ikke at ville ses? Hvordan får vi nye venner, og hvordan bliver vi bedre til at sige fra? Vi snakker om, hvordan det kan give pote i relationer, når vi begynder at blive opmærksomme på vores egen rolle og vores eget selvværd.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</itunes:summary>
+         <itunes:duration>3297</itunes:duration>
+         <itunes:keywords>danmark,nyt,talent,unge,uprøvet</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/839c5031eea7ee32a3fcaee3793ccdcf.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Parforhold og alt det der lort</title>
+         <link>https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep5</link>
+         <description>Hvad er et leveringsparforhold, skal vi stadig sige ”min bedre halvdel”, findes det perfekte parforhold, hvordan kan barndomstraume(r) på virke parforholdet, og hvad er man egentlig ansvarlig for i en kærlig relation? Vi leger som altid ”jeg har aldrig” og forsøger i dette afsnit at give vores bidrag til et realistisk billede af det at være i et parforhold.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/29260332</guid>
+         <pubDate>Sun, 07 Jun 2020 22:05:13 +0000</pubDate>
+         <enclosure length="52847971" type="audio/mpeg" url="https://archive.org/download/det_kan_du_selv_vaer/Det%20Kan%20Du%20Selv%20V%C3%A6r/2020.06.07%20-%20Parforhold%20og%20alt%20det%20der%20lort.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hvad er et leveringsparforhold, skal vi stadig sige ”min bedre halvdel”, findes det perfekte parforhold, hvordan kan barndomstraume(r) på virke parforholdet, og hvad er man egentlig ansvarlig for i en kærlig relation? Vi leger som altid ”jeg har...</itunes:subtitle>
+         <itunes:summary>Hvad er et leveringsparforhold, skal vi stadig sige ”min bedre halvdel”, findes det perfekte parforhold, hvordan kan barndomstraume(r) på virke parforholdet, og hvad er man egentlig ansvarlig for i en kærlig relation? Vi leger som altid ”jeg har aldrig” og forsøger i dette afsnit at give vores bidrag til et realistisk billede af det at være i et parforhold.</itunes:summary>
+         <itunes:duration>3303</itunes:duration>
+         <itunes:keywords>danmark,nyt,talent,unge,uprøvet</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f3807997b62518b2d2791013bb641fc9.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Sexværd!</title>
+         <link>https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep4</link>
+         <description>Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/26758545</guid>
+         <pubDate>Fri, 08 May 2020 23:00:16 +0000</pubDate>
+         <enclosure length="52797857" type="audio/mpeg" url="https://archive.org/download/det_kan_du_selv_vaer/Det%20Kan%20Du%20Selv%20V%C3%A6r/2020.05.08%20-%20Sexv%C3%A6rd%21.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver...</itunes:subtitle>
+         <itunes:summary>Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</itunes:summary>
+         <itunes:duration>3300</itunes:duration>
+         <itunes:keywords>danmark,nyt,talent,unge,uprøvet</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ae52268279b7ad5180aa43271ba8b121.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>FOMO er din ven</title>
+         <link>https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep3</link>
+         <description>Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/26338640</guid>
+         <pubDate>Fri, 01 May 2020 23:00:15 +0000</pubDate>
+         <enclosure length="52784482" type="audio/mpeg" url="https://archive.org/download/det_kan_du_selv_vaer/Det%20Kan%20Du%20Selv%20V%C3%A6r/2020.05.01%20-%20FOMO%20er%20din%20ven.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver...</itunes:subtitle>
+         <itunes:summary>Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</itunes:summary>
+         <itunes:duration>3300</itunes:duration>
+         <itunes:keywords>danmark,nyt,talent,unge,uprøvet</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ae52268279b7ad5180aa43271ba8b121.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Fuck positiv tænkning – og så alligevel ikke</title>
+         <link>https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep2</link>
+         <description>Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/25946697</guid>
+         <pubDate>Fri, 24 Apr 2020 23:00:09 +0000</pubDate>
+         <enclosure length="52817432" type="audio/mpeg" url="https://archive.org/download/det_kan_du_selv_vaer/Det%20Kan%20Du%20Selv%20V%C3%A6r/2020.04.24%20-%20Fuck%20positiv%20t%C3%A6nkning%20%E2%80%93%20og%20s%C3%A5%20alligevel%20ikke.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver...</itunes:subtitle>
+         <itunes:summary>Astrid og Rikke er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag.&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</itunes:summary>
+         <itunes:duration>3302</itunes:duration>
+         <itunes:keywords>danmark,nyt,talent,unge,uprøvet</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ae52268279b7ad5180aa43271ba8b121.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Man er som man er</title>
+         <link>https://www.spreaker.com/user/radiolouddk/detkanduselvvar-ep1</link>
+         <description>Astrid Mellin og Rikke Stokland er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/25520344</guid>
+         <pubDate>Sat, 18 Apr 2020 06:00:14 +0000</pubDate>
+         <enclosure length="52773197" type="audio/mpeg" url="https://archive.org/download/det_kan_du_selv_vaer/Det%20Kan%20Du%20Selv%20V%C3%A6r/2020.04.18%20-%20Man%20er%20som%20man%20er.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Astrid Mellin og Rikke Stokland er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når...</itunes:subtitle>
+         <itunes:summary>Astrid Mellin og Rikke Stokland er to samtale- og selvværdsnørder, der har gjort ordene ”hvad” og ”hvordan” til deres fornemmeste opgave at forsøge besvaret: Hvad gør jeg, når jeg føler mig udenfor? Hvordan kan jeg få bedre selvværd? Hvad gør jeg, når jeg bliver bekymret om andres mening? Alt det og meget giver de konkrete redskaber til, du kan bruge i din hverdag&lt;br /&gt;&lt;br /&gt;Værter og redaktion: Rikke Stokland &amp; Astrid Mellin</itunes:summary>
+         <itunes:duration>3299</itunes:duration>
+         <itunes:keywords>seksualitet,selvtillid,selvværd</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ae52268279b7ad5180aa43271ba8b121.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

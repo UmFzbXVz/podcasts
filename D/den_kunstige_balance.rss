@@ -1,485 +1,209 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Den kunstige balance
-  </title>
-  <link>
-   https://www.spreaker.com/podcast/den-kunstige-balance--5892444
-  </link>
-  <description>
-   Den Kunstige Balance er programmet, der udforsker potentialet og udfordringerne ved kunstig intelligens. Men er det muligt, at finde den perfekte balance mellem teknologiens magi og de menneskelige værdier? Vi dykker ned i de teknologiske fremskridt og undersøger, hvordan AI kan forandre vores samfund og måden, vi tænker og lever på. Følg med, når vi forsøger at finde den kunstige balance.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Værter og tilrettelæggere: &lt;/b&gt;&lt;br /&gt;Casper Ell Hausner Olsen&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Silas Moody
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5892444/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   Copyright 24syv
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg
-   </url>
-   <title>
-    Den kunstige balance
-   </title>
-   <link>
-    https://www.spreaker.com/podcast/den-kunstige-balance--5892444
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   24syv
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    24syv
-   </itunes:name>
-   <itunes:email>
-    podcast@24syv.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg"/>
-  <itunes:subtitle>
-   Den Kunstige Balance er programmet, der udforsker potentialet og udfordringerne ved kunstig intelligens. Men er det muligt, at finde den perfekte balance mellem teknologiens magi og de menneskelige værdier? Vi dykker ned i de teknologiske fremskridt...
-  </itunes:subtitle>
-  <itunes:summary>
-   Den Kunstige Balance er programmet, der udforsker potentialet og udfordringerne ved kunstig intelligens. Men er det muligt, at finde den perfekte balance mellem teknologiens magi og de menneskelige værdier? Vi dykker ned i de teknologiske fremskridt og undersøger, hvordan AI kan forandre vores samfund og måden, vi tænker og lever på. Følg med, når vi forsøger at finde den kunstige balance.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Værter og tilrettelæggere: &lt;/b&gt;&lt;br /&gt;Casper Ell Hausner Olsen&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Silas Moody
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Det, AI’s taler om: Skal din gps være på Nordjysk? Og hvad taler to AI-sladretanter om?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/det-ai-s-taler-om-skal-din-gps-vaere-pa-nordjysk-og-hvad-taler-to-ai-sladretanter-om--56176414
-   </link>
-   <description>
-    Vi er nået til vejs ende, og det fejrer vi med en god omgang ‘Det, AI’s taler om’.&lt;br /&gt;&lt;br /&gt;Vi har hver især fundet et par historier frem, såsom Danmarks kommende dialektbank, flyvende biler og strejke i Hollywood - og det går ikke stille for sig, når vi diskuterer indbyrdes.&lt;br /&gt;&lt;br /&gt;Heldigvis har vi fremtidsforsker Klaus Æ. Mogensen med i studiet til at holde os i kort snor. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Og så skal vi også høre, hvordan det ville lyde, hvis to AI's rigtig skulle tale gossip i bedste 'Det, vi taler om' -stil. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Klaus Æ. Mogensen, fremtidsforsker&lt;br /&gt;Hans Hüttel, lektor på Institut for Datalogi på Aalborg Universitet (Part-time lecturer, External Lecturer, KU)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56176414
-   </guid>
-   <pubDate>
-    Fri, 21 Jul 2023 12:35:52 +0000
-   </pubDate>
-   <enclosure length="76727232" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56176414/kunstigb10.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Vi er nået til vejs ende, og det fejrer vi med en god omgang ‘Det, AI’s taler om’.
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Den kunstige balance</title>
+      <link>https://www.spreaker.com/podcast/den-kunstige-balance--5892444</link>
+      <description>Den Kunstige Balance er programmet, der udforsker potentialet og udfordringerne ved kunstig intelligens. Men er det muligt, at finde den perfekte balance mellem teknologiens magi og de menneskelige værdier? Vi dykker ned i de teknologiske fremskridt og undersøger, hvordan AI kan forandre vores samfund og måden, vi tænker og lever på. Følg med, når vi forsøger at finde den kunstige balance.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Værter og tilrettelæggere: &lt;/b&gt;&lt;br /&gt;Casper Ell Hausner Olsen&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Silas Moody</description>
+      <atom:link href="https://www.spreaker.com/show/5892444/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>Copyright 24syv</copyright>
+      <image>
+         <url>https://archive.org/download/den_kunstige_balance/Den%20kunstige%20balance/40e626a5d331d42c4f0ca3269cc3523e.jpg</url>
+         <title>Den kunstige balance</title>
+         <link>https://www.spreaker.com/podcast/den-kunstige-balance--5892444</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>24syv</itunes:author>
+      <itunes:owner>
+         <itunes:name>24syv</itunes:name>
+         <itunes:email>podcast@24syv.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg" />
+      <itunes:subtitle>Den Kunstige Balance er programmet, der udforsker potentialet og udfordringerne ved kunstig intelligens. Men er det muligt, at finde den perfekte balance mellem teknologiens magi og de menneskelige værdier? Vi dykker ned i de teknologiske fremskridt...</itunes:subtitle>
+      <itunes:summary>Den Kunstige Balance er programmet, der udforsker potentialet og udfordringerne ved kunstig intelligens. Men er det muligt, at finde den perfekte balance mellem teknologiens magi og de menneskelige værdier? Vi dykker ned i de teknologiske fremskridt og undersøger, hvordan AI kan forandre vores samfund og måden, vi tænker og lever på. Følg med, når vi forsøger at finde den kunstige balance.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Værter og tilrettelæggere: &lt;/b&gt;&lt;br /&gt;Casper Ell Hausner Olsen&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Silas Moody</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Det, AI’s taler om: Skal din gps være på Nordjysk? Og hvad taler to AI-sladretanter om?</title>
+         <link>https://www.spreaker.com/episode/det-ai-s-taler-om-skal-din-gps-vaere-pa-nordjysk-og-hvad-taler-to-ai-sladretanter-om--56176414</link>
+         <description>Vi er nået til vejs ende, og det fejrer vi med en god omgang ‘Det, AI’s taler om’.&lt;br /&gt;&lt;br /&gt;Vi har hver især fundet et par historier frem, såsom Danmarks kommende dialektbank, flyvende biler og strejke i Hollywood - og det går ikke stille for sig, når vi diskuterer indbyrdes.&lt;br /&gt;&lt;br /&gt;Heldigvis har vi fremtidsforsker Klaus Æ. Mogensen med i studiet til at holde os i kort snor. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Og så skal vi også høre, hvordan det ville lyde, hvis to AI's rigtig skulle tale gossip i bedste 'Det, vi taler om' -stil. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Klaus Æ. Mogensen, fremtidsforsker&lt;br /&gt;Hans Hüttel, lektor på Institut for Datalogi på Aalborg Universitet (Part-time lecturer, External Lecturer, KU)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56176414</guid>
+         <pubDate>Fri, 21 Jul 2023 12:35:52 +0000</pubDate>
+         <enclosure length="76727232" type="audio/mpeg" url="https://archive.org/download/den_kunstige_balance/Den%20kunstige%20balance/2023.07.21%20-%20Det%2C%20AI%E2%80%99s%20taler%20om.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Vi er nået til vejs ende, og det fejrer vi med en god omgang ‘Det, AI’s taler om’.
 
-Vi har hver især fundet et par historier frem, såsom Danmarks kommende dialektbank, flyvende biler og strejke i Hollywood - og det går ikke stille for sig, når vi...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi er nået til vejs ende, og det fejrer vi med en god omgang ‘Det, AI’s taler om’.&lt;br /&gt;&lt;br /&gt;Vi har hver især fundet et par historier frem, såsom Danmarks kommende dialektbank, flyvende biler og strejke i Hollywood - og det går ikke stille for sig, når vi diskuterer indbyrdes.&lt;br /&gt;&lt;br /&gt;Heldigvis har vi fremtidsforsker Klaus Æ. Mogensen med i studiet til at holde os i kort snor. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Og så skal vi også høre, hvordan det ville lyde, hvis to AI's rigtig skulle tale gossip i bedste 'Det, vi taler om' -stil. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Klaus Æ. Mogensen, fremtidsforsker&lt;br /&gt;Hans Hüttel, lektor på Institut for Datalogi på Aalborg Universitet (Part-time lecturer, External Lecturer, KU)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner
-   </itunes:summary>
-   <itunes:duration>
-    3195
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Drake og Ed Sheeran hænger med i studiet, mens vi snakker AI-musik
-   </title>
-   <link>
-    https://www.spreaker.com/episode/drake-og-ed-sheeran-haenger-med-i-studiet-mens-vi-snakker-ai-musik--56166229
-   </link>
-   <description>
-    Der er dømt DJ i studiet, hvor vi spiller en masse AI-musik. Vi har nemlig besøg af to kunstnere, der laver musik med AI. Hør bl.a. den meget overbevisende nye AI Ed Sheeran-sang ‘Chemicals’.&lt;br /&gt;&lt;br /&gt;Men hvad er reglerne egentlig? Og mister musik alt sin autenticitet? Vi ringer Dansk Artist Forbund op og får svar.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Lasse Mainz, musiker&lt;br /&gt;Lukas Pitzner, musikproducer&lt;br /&gt;Jens Skov Thomsen, chefjurist i Dansk Artist Forbund. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner (Silas Moody)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt; Nana Margrethe Haugaard
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56166229
-   </guid>
-   <pubDate>
-    Thu, 20 Jul 2023 11:52:32 +0000
-   </pubDate>
-   <enclosure length="60352704" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56166229/kunstigb9.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Der er dømt DJ i studiet, hvor vi spiller en masse AI-musik. Vi har nemlig besøg af to kunstnere, der laver musik med AI. Hør bl.a. den meget overbevisende nye AI Ed Sheeran-sang ‘Chemicals’.
+Vi har hver især fundet et par historier frem, såsom Danmarks kommende dialektbank, flyvende biler og strejke i Hollywood - og det går ikke stille for sig, når vi...</itunes:subtitle>
+         <itunes:summary>Vi er nået til vejs ende, og det fejrer vi med en god omgang ‘Det, AI’s taler om’.&lt;br /&gt;&lt;br /&gt;Vi har hver især fundet et par historier frem, såsom Danmarks kommende dialektbank, flyvende biler og strejke i Hollywood - og det går ikke stille for sig, når vi diskuterer indbyrdes.&lt;br /&gt;&lt;br /&gt;Heldigvis har vi fremtidsforsker Klaus Æ. Mogensen med i studiet til at holde os i kort snor. &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Og så skal vi også høre, hvordan det ville lyde, hvis to AI's rigtig skulle tale gossip i bedste 'Det, vi taler om' -stil. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Klaus Æ. Mogensen, fremtidsforsker&lt;br /&gt;Hans Hüttel, lektor på Institut for Datalogi på Aalborg Universitet (Part-time lecturer, External Lecturer, KU)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner</itunes:summary>
+         <itunes:duration>3195</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Drake og Ed Sheeran hænger med i studiet, mens vi snakker AI-musik</title>
+         <link>https://www.spreaker.com/episode/drake-og-ed-sheeran-haenger-med-i-studiet-mens-vi-snakker-ai-musik--56166229</link>
+         <description>Der er dømt DJ i studiet, hvor vi spiller en masse AI-musik. Vi har nemlig besøg af to kunstnere, der laver musik med AI. Hør bl.a. den meget overbevisende nye AI Ed Sheeran-sang ‘Chemicals’.&lt;br /&gt;&lt;br /&gt;Men hvad er reglerne egentlig? Og mister musik alt sin autenticitet? Vi ringer Dansk Artist Forbund op og får svar.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Lasse Mainz, musiker&lt;br /&gt;Lukas Pitzner, musikproducer&lt;br /&gt;Jens Skov Thomsen, chefjurist i Dansk Artist Forbund. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner (Silas Moody)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt; Nana Margrethe Haugaard</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56166229</guid>
+         <pubDate>Thu, 20 Jul 2023 11:52:32 +0000</pubDate>
+         <enclosure length="60352704" type="audio/mpeg" url="https://archive.org/download/den_kunstige_balance/Den%20kunstige%20balance/2023.07.20%20-%20Drake%20og%20Ed%20Sheeran%20h%C3%A6nger%20med%20i%20studiet%2C%20mens%20vi%20snakker%20AI-musik.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Der er dømt DJ i studiet, hvor vi spiller en masse AI-musik. Vi har nemlig besøg af to kunstnere, der laver musik med AI. Hør bl.a. den meget overbevisende nye AI Ed Sheeran-sang ‘Chemicals’.
 
-Men hvad er reglerne egentlig? Og mister musik alt sin...
-   </itunes:subtitle>
-   <itunes:summary>
-    Der er dømt DJ i studiet, hvor vi spiller en masse AI-musik. Vi har nemlig besøg af to kunstnere, der laver musik med AI. Hør bl.a. den meget overbevisende nye AI Ed Sheeran-sang ‘Chemicals’.&lt;br /&gt;&lt;br /&gt;Men hvad er reglerne egentlig? Og mister musik alt sin autenticitet? Vi ringer Dansk Artist Forbund op og får svar.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Lasse Mainz, musiker&lt;br /&gt;Lukas Pitzner, musikproducer&lt;br /&gt;Jens Skov Thomsen, chefjurist i Dansk Artist Forbund. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner (Silas Moody)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt; Nana Margrethe Haugaard
-   </itunes:summary>
-   <itunes:duration>
-    2512
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Breaking: AI-Hobbyprojekt disrupter hel branche
-   </title>
-   <link>
-    https://www.spreaker.com/episode/breaking-ai-hobbyprojekt-disrupter-hel-branche--56166020
-   </link>
-   <description>
-    Kan du i fremtiden få en nyhedsudsendelse skræddersyet, så værterne taler direkte til dig, og alle historierne er udvalgt ud fra dine interesser? Noget kunne tyde på det. &lt;br /&gt;&lt;br /&gt;Vi får nemlig besøg af en mand, der som hobbyprojekt har skabt et dagligt nyhedsmagsin, som udkommer, uden at han behøver at røre en lillefinger. Måske undergraver det hele vores livsgrundlag. Men hvordan har han lavet det?&lt;br /&gt;&lt;br /&gt;Vi tester også hans software. For kan hans kunstige intelligens, Botcaster, læse nyheder bedre op end 24syvs egen nyhedsvært, Mikkel? &lt;b&gt;&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;&lt;/b&gt;Rune Vendler, spiludvikler, Botcaster &lt;br /&gt;Mikkel Leimand, nyhedsoplæser 24syv&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;br /&gt;&lt;/b&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner&lt;b&gt; &lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;&lt;/b&gt;Line Schmidt Mouridsen &lt;br /&gt;Nana Margrethe Haugaard
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56166020
-   </guid>
-   <pubDate>
-    Thu, 20 Jul 2023 11:25:37 +0000
-   </pubDate>
-   <enclosure length="52180416" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56166020/program_20_07_botcaster.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Kan du i fremtiden få en nyhedsudsendelse skræddersyet, så værterne taler direkte til dig, og alle historierne er udvalgt ud fra dine interesser? Noget kunne tyde på det. 
+Men hvad er reglerne egentlig? Og mister musik alt sin...</itunes:subtitle>
+         <itunes:summary>Der er dømt DJ i studiet, hvor vi spiller en masse AI-musik. Vi har nemlig besøg af to kunstnere, der laver musik med AI. Hør bl.a. den meget overbevisende nye AI Ed Sheeran-sang ‘Chemicals’.&lt;br /&gt;&lt;br /&gt;Men hvad er reglerne egentlig? Og mister musik alt sin autenticitet? Vi ringer Dansk Artist Forbund op og får svar.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Lasse Mainz, musiker&lt;br /&gt;Lukas Pitzner, musikproducer&lt;br /&gt;Jens Skov Thomsen, chefjurist i Dansk Artist Forbund. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner (Silas Moody)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt; Nana Margrethe Haugaard</itunes:summary>
+         <itunes:duration>2512</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Breaking: AI-Hobbyprojekt disrupter hel branche</title>
+         <link>https://www.spreaker.com/episode/breaking-ai-hobbyprojekt-disrupter-hel-branche--56166020</link>
+         <description>Kan du i fremtiden få en nyhedsudsendelse skræddersyet, så værterne taler direkte til dig, og alle historierne er udvalgt ud fra dine interesser? Noget kunne tyde på det. &lt;br /&gt;&lt;br /&gt;Vi får nemlig besøg af en mand, der som hobbyprojekt har skabt et dagligt nyhedsmagsin, som udkommer, uden at han behøver at røre en lillefinger. Måske undergraver det hele vores livsgrundlag. Men hvordan har han lavet det?&lt;br /&gt;&lt;br /&gt;Vi tester også hans software. For kan hans kunstige intelligens, Botcaster, læse nyheder bedre op end 24syvs egen nyhedsvært, Mikkel? &lt;b&gt;&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;&lt;/b&gt;Rune Vendler, spiludvikler, Botcaster &lt;br /&gt;Mikkel Leimand, nyhedsoplæser 24syv&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;br /&gt;&lt;/b&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner&lt;b&gt; &lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;&lt;/b&gt;Line Schmidt Mouridsen &lt;br /&gt;Nana Margrethe Haugaard</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56166020</guid>
+         <pubDate>Thu, 20 Jul 2023 11:25:37 +0000</pubDate>
+         <enclosure length="52180416" type="audio/mpeg" url="https://archive.org/download/den_kunstige_balance/Den%20kunstige%20balance/2023.07.20%20-%20Breaking.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Kan du i fremtiden få en nyhedsudsendelse skræddersyet, så værterne taler direkte til dig, og alle historierne er udvalgt ud fra dine interesser? Noget kunne tyde på det. 
 
-Vi får nemlig besøg af en mand, der som hobbyprojekt har skabt et dagligt...
-   </itunes:subtitle>
-   <itunes:summary>
-    Kan du i fremtiden få en nyhedsudsendelse skræddersyet, så værterne taler direkte til dig, og alle historierne er udvalgt ud fra dine interesser? Noget kunne tyde på det. &lt;br /&gt;&lt;br /&gt;Vi får nemlig besøg af en mand, der som hobbyprojekt har skabt et dagligt nyhedsmagsin, som udkommer, uden at han behøver at røre en lillefinger. Måske undergraver det hele vores livsgrundlag. Men hvordan har han lavet det?&lt;br /&gt;&lt;br /&gt;Vi tester også hans software. For kan hans kunstige intelligens, Botcaster, læse nyheder bedre op end 24syvs egen nyhedsvært, Mikkel? &lt;b&gt;&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;&lt;/b&gt;Rune Vendler, spiludvikler, Botcaster &lt;br /&gt;Mikkel Leimand, nyhedsoplæser 24syv&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;br /&gt;&lt;/b&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner&lt;b&gt; &lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;&lt;/b&gt;Line Schmidt Mouridsen &lt;br /&gt;Nana Margrethe Haugaard
-   </itunes:summary>
-   <itunes:duration>
-    2172
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kommer AI til at skrive vores bøger og lave vores film?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kommer-ai-til-at-skrive-vores-boger-og-lave-vores-film--56154017
-   </link>
-   <description>
-    &lt;b&gt;Der bliver kræset for sproget i dag, for det skal nemlig handle om litteratur og “hjælpemidlet” chatGPT. Forfatter Søren Hammer er nemlig så glad for kunstig intelligens, at en af hovedpersonerne i hans nye novelle er skrevet af chatGPT.&lt;br /&gt;Men er det i orden, at forfattere bruger kunstig intelligens som et værktøj, når der skal skrives bøger? Vi spørger formand for Dansk Forfatterforening Morten Visby. Han mener, at der skal lovgives på området. &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Og så kaster vi os over den svære genre kortprosa, når 24syvs huspoet Silas Moody skal battle mod chatGPT. Er det manden eller maskinen, der løber med trofæet?&lt;br /&gt;Vi tager også pulsen på Hollywood, hvor manuskriptforfatterne lige nu strejker i frygt for at blive erstattet af kunstig intelligens. Cathrine Hasse, der er professor i fremtidsteknologi, giver sit besyv med. &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Søren Hammer, forfatter&lt;br /&gt;Morten Visby, formand for Dansk Forfatterforening&lt;br /&gt;Silas Moody, journalist på 24syv&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Cathrine Hasse, professor i fremtidsteknologi, kultur og læringsprocesser ved Aarhus Universitet&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;&lt;br /&gt;Producer og tilrettelæggere:&lt;br /&gt;Casper Ell Hausner Olsen&lt;br /&gt;Silas Moody&lt;/b&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56154017
-   </guid>
-   <pubDate>
-    Wed, 19 Jul 2023 13:11:24 +0000
-   </pubDate>
-   <enclosure length="74100672" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56154017/program_19_07.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Der bliver kræset for sproget i dag, for det skal nemlig handle om litteratur og “hjælpemidlet” chatGPT. Forfatter Søren Hammer er nemlig så glad for kunstig intelligens, at en af hovedpersonerne i hans nye novelle er skrevet af chatGPT.
-Men er det i...
-   </itunes:subtitle>
-   <itunes:summary>
-    &lt;b&gt;Der bliver kræset for sproget i dag, for det skal nemlig handle om litteratur og “hjælpemidlet” chatGPT. Forfatter Søren Hammer er nemlig så glad for kunstig intelligens, at en af hovedpersonerne i hans nye novelle er skrevet af chatGPT.&lt;br /&gt;Men er det i orden, at forfattere bruger kunstig intelligens som et værktøj, når der skal skrives bøger? Vi spørger formand for Dansk Forfatterforening Morten Visby. Han mener, at der skal lovgives på området. &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Og så kaster vi os over den svære genre kortprosa, når 24syvs huspoet Silas Moody skal battle mod chatGPT. Er det manden eller maskinen, der løber med trofæet?&lt;br /&gt;Vi tager også pulsen på Hollywood, hvor manuskriptforfatterne lige nu strejker i frygt for at blive erstattet af kunstig intelligens. Cathrine Hasse, der er professor i fremtidsteknologi, giver sit besyv med. &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Søren Hammer, forfatter&lt;br /&gt;Morten Visby, formand for Dansk Forfatterforening&lt;br /&gt;Silas Moody, journalist på 24syv&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Cathrine Hasse, professor i fremtidsteknologi, kultur og læringsprocesser ved Aarhus Universitet&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;&lt;br /&gt;Producer og tilrettelæggere:&lt;br /&gt;Casper Ell Hausner Olsen&lt;br /&gt;Silas Moody&lt;/b&gt;
-   </itunes:summary>
-   <itunes:duration>
-    3085
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kommer AI til at dræbe os? Og hvilke Sci-Fi’s bliver til virkelighed?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kommer-ai-til-at-draebe-os-og-hvilke-sci-fi-s-bliver-til-virkelighed--56137575
-   </link>
-   <description>
-    &lt;b&gt;Der er dømt dommedag i studiet. Thomas Terney, ekspert i kunstig intelligens, får skiftevis vores puls til at hamre derudaf over fremtidens kunstige intelligens og beroligere os med alt det gode vi kan se frem til. Det er både spændende og angstprovokerende.Så bliver der quizzet i, hvilke Sci-Fi´s der bliver til virkelighed. Og til sidst bliver vi guidet i, hvordan fremtidens krig vil foregå.  &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Thomas Terney, ekspert i kunstig intelligens&lt;br /&gt;Andreas Graae, adjunkt ved Institut for Militær Teknologi&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt; Nana Margrethe Haugaard&lt;/b&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56137575
-   </guid>
-   <pubDate>
-    Tue, 18 Jul 2023 12:25:13 +0000
-   </pubDate>
-   <enclosure length="75341824" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56137575/program_18_07.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Der er dømt dommedag i studiet. Thomas Terney, ekspert i kunstig intelligens, får skiftevis vores puls til at hamre derudaf over fremtidens kunstige intelligens og beroligere os med alt det gode vi kan se frem til. Det er både spændende og...
-   </itunes:subtitle>
-   <itunes:summary>
-    &lt;b&gt;Der er dømt dommedag i studiet. Thomas Terney, ekspert i kunstig intelligens, får skiftevis vores puls til at hamre derudaf over fremtidens kunstige intelligens og beroligere os med alt det gode vi kan se frem til. Det er både spændende og angstprovokerende.Så bliver der quizzet i, hvilke Sci-Fi´s der bliver til virkelighed. Og til sidst bliver vi guidet i, hvordan fremtidens krig vil foregå.  &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Thomas Terney, ekspert i kunstig intelligens&lt;br /&gt;Andreas Graae, adjunkt ved Institut for Militær Teknologi&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt; Nana Margrethe Haugaard&lt;/b&gt;
-   </itunes:summary>
-   <itunes:duration>
-    3137
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Er AI fremtidens Picasso, eller kan den kun lave kunstig kunst?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/er-ai-fremtidens-picasso-eller-kan-den-kun-lave-kunstig-kunst--56126141
-   </link>
-   <description>
-    I dag genererer vi AI-billeder og snakker med illustratoreren Maria Prohazka, der bruger kunstig intelligens til at løse sine opgaver. Hun bruger blandt andet platformen MidJourney, som kan skabe smukke og detaljerede billeder ud fra ord på få sekunder.&lt;br /&gt;&lt;br /&gt;Men er der bagsider af medaljen ved alle de nye muligheder for at skabe billeder, som den teknologiske udvikling giver os? Vi taler med en anden illustrator, Jon Skræntskov, som er bekymret for at flere af hans arbejdsopgaver bliver erstattet af AI.&lt;br /&gt;&lt;br /&gt;Og så er "Den Umulige Statue" blevet rejst af en gruppe maskiningenører. Det er nemlig navnet på verdens første AI-fremstillede statue, som bliver udstillet på Teknologimuseet i Stockholm.&lt;br /&gt;&lt;br /&gt;Vi tager derfor temperaturen på AI og kunst. Kommer værker lavet af kunstig intelligens til at blive udstillet på kunstmuseer i fremtiden, eller er det bare teknologi og ikke kunst? &lt;br /&gt;&lt;br /&gt;Lotte Philipsen, der er lektor ved Centre of Aesthetics of AI Images på Aarhus Universitet giver sit bud.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Maria Prohazka, illustrator, animator og indehaver af Levende Streg&lt;br /&gt;Jon Skræntskov, Illustrator og tegner&lt;br /&gt;Lotte Philipsen, lektor ved Centre of Aesthetics of AI Images på Aarhus Universitet&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Værter:&lt;/b&gt;&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Casper Ell Hausner Olsen&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Line Schmidt Mouridsen
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56126141
-   </guid>
-   <pubDate>
-    Mon, 17 Jul 2023 12:16:33 +0000
-   </pubDate>
-   <enclosure length="76296960" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56126141/kunstigb6.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I dag genererer vi AI-billeder og snakker med illustratoreren Maria Prohazka, der bruger kunstig intelligens til at løse sine opgaver. Hun bruger blandt andet platformen MidJourney, som kan skabe smukke og detaljerede billeder ud fra ord på få...
-   </itunes:subtitle>
-   <itunes:summary>
-    I dag genererer vi AI-billeder og snakker med illustratoreren Maria Prohazka, der bruger kunstig intelligens til at løse sine opgaver. Hun bruger blandt andet platformen MidJourney, som kan skabe smukke og detaljerede billeder ud fra ord på få sekunder.&lt;br /&gt;&lt;br /&gt;Men er der bagsider af medaljen ved alle de nye muligheder for at skabe billeder, som den teknologiske udvikling giver os? Vi taler med en anden illustrator, Jon Skræntskov, som er bekymret for at flere af hans arbejdsopgaver bliver erstattet af AI.&lt;br /&gt;&lt;br /&gt;Og så er "Den Umulige Statue" blevet rejst af en gruppe maskiningenører. Det er nemlig navnet på verdens første AI-fremstillede statue, som bliver udstillet på Teknologimuseet i Stockholm.&lt;br /&gt;&lt;br /&gt;Vi tager derfor temperaturen på AI og kunst. Kommer værker lavet af kunstig intelligens til at blive udstillet på kunstmuseer i fremtiden, eller er det bare teknologi og ikke kunst? &lt;br /&gt;&lt;br /&gt;Lotte Philipsen, der er lektor ved Centre of Aesthetics of AI Images på Aarhus Universitet giver sit bud.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Maria Prohazka, illustrator, animator og indehaver af Levende Streg&lt;br /&gt;Jon Skræntskov, Illustrator og tegner&lt;br /&gt;Lotte Philipsen, lektor ved Centre of Aesthetics of AI Images på Aarhus Universitet&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Værter:&lt;/b&gt;&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Casper Ell Hausner Olsen&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Line Schmidt Mouridsen
-   </itunes:summary>
-   <itunes:duration>
-    3177
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kan du kende forskel på deepfake og virkelighed?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kan-du-kende-forskel-pa-deepfake-og-virkelighed--56100670
-   </link>
-   <description>
-    Bør vi frygte deepfake? Ja, mener ekspert, der gør os klogere på det farlige fænomen. &lt;br /&gt;&lt;br /&gt;Kan du kende forskel på deepfake-Trump og den ægte? Quiz sammen med os.&lt;br /&gt;&lt;br /&gt;Til sidst deepfake-nuder vi os selv. For hvor nemt - og ikke mindst grænseoverskridende - er det i virkeligheden? &lt;br /&gt;&lt;br /&gt;Gæster:William Atak, ekspert i deepfake og indehaver af Atak Nordic&lt;br /&gt;Anja Radeka, leder af StopChikane&lt;br /&gt;Casper Ell Hausner, journalist &lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Line Schmidt Mouridsen &lt;br /&gt;Silas Moody &lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Casper Ell Hausner
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56100670
-   </guid>
-   <pubDate>
-    Fri, 14 Jul 2023 12:03:52 +0000
-   </pubDate>
-   <enclosure length="77742144" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56100670/program_5.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Bør vi frygte deepfake? Ja, mener ekspert, der gør os klogere på det farlige fænomen. 
+Vi får nemlig besøg af en mand, der som hobbyprojekt har skabt et dagligt...</itunes:subtitle>
+         <itunes:summary>Kan du i fremtiden få en nyhedsudsendelse skræddersyet, så værterne taler direkte til dig, og alle historierne er udvalgt ud fra dine interesser? Noget kunne tyde på det. &lt;br /&gt;&lt;br /&gt;Vi får nemlig besøg af en mand, der som hobbyprojekt har skabt et dagligt nyhedsmagsin, som udkommer, uden at han behøver at røre en lillefinger. Måske undergraver det hele vores livsgrundlag. Men hvordan har han lavet det?&lt;br /&gt;&lt;br /&gt;Vi tester også hans software. For kan hans kunstige intelligens, Botcaster, læse nyheder bedre op end 24syvs egen nyhedsvært, Mikkel? &lt;b&gt;&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;&lt;/b&gt;Rune Vendler, spiludvikler, Botcaster &lt;br /&gt;Mikkel Leimand, nyhedsoplæser 24syv&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;br /&gt;&lt;/b&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner&lt;b&gt; &lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;&lt;/b&gt;Line Schmidt Mouridsen &lt;br /&gt;Nana Margrethe Haugaard</itunes:summary>
+         <itunes:duration>2172</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kommer AI til at skrive vores bøger og lave vores film?</title>
+         <link>https://www.spreaker.com/episode/kommer-ai-til-at-skrive-vores-boger-og-lave-vores-film--56154017</link>
+         <description>&lt;b&gt;Der bliver kræset for sproget i dag, for det skal nemlig handle om litteratur og “hjælpemidlet” chatGPT. Forfatter Søren Hammer er nemlig så glad for kunstig intelligens, at en af hovedpersonerne i hans nye novelle er skrevet af chatGPT.&lt;br /&gt;Men er det i orden, at forfattere bruger kunstig intelligens som et værktøj, når der skal skrives bøger? Vi spørger formand for Dansk Forfatterforening Morten Visby. Han mener, at der skal lovgives på området. &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Og så kaster vi os over den svære genre kortprosa, når 24syvs huspoet Silas Moody skal battle mod chatGPT. Er det manden eller maskinen, der løber med trofæet?&lt;br /&gt;Vi tager også pulsen på Hollywood, hvor manuskriptforfatterne lige nu strejker i frygt for at blive erstattet af kunstig intelligens. Cathrine Hasse, der er professor i fremtidsteknologi, giver sit besyv med. &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Søren Hammer, forfatter&lt;br /&gt;Morten Visby, formand for Dansk Forfatterforening&lt;br /&gt;Silas Moody, journalist på 24syv&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Cathrine Hasse, professor i fremtidsteknologi, kultur og læringsprocesser ved Aarhus Universitet&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;&lt;br /&gt;Producer og tilrettelæggere:&lt;br /&gt;Casper Ell Hausner Olsen&lt;br /&gt;Silas Moody&lt;/b&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56154017</guid>
+         <pubDate>Wed, 19 Jul 2023 13:11:24 +0000</pubDate>
+         <enclosure length="74100672" type="audio/mpeg" url="https://archive.org/download/den_kunstige_balance/Den%20kunstige%20balance/2023.07.19%20-%20Kommer%20AI%20til%20at%20skrive%20vores%20b%C3%B8ger%20og%20lave%20vores%20film.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Der bliver kræset for sproget i dag, for det skal nemlig handle om litteratur og “hjælpemidlet” chatGPT. Forfatter Søren Hammer er nemlig så glad for kunstig intelligens, at en af hovedpersonerne i hans nye novelle er skrevet af chatGPT.
+Men er det i...</itunes:subtitle>
+         <itunes:summary>&lt;b&gt;Der bliver kræset for sproget i dag, for det skal nemlig handle om litteratur og “hjælpemidlet” chatGPT. Forfatter Søren Hammer er nemlig så glad for kunstig intelligens, at en af hovedpersonerne i hans nye novelle er skrevet af chatGPT.&lt;br /&gt;Men er det i orden, at forfattere bruger kunstig intelligens som et værktøj, når der skal skrives bøger? Vi spørger formand for Dansk Forfatterforening Morten Visby. Han mener, at der skal lovgives på området. &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Og så kaster vi os over den svære genre kortprosa, når 24syvs huspoet Silas Moody skal battle mod chatGPT. Er det manden eller maskinen, der løber med trofæet?&lt;br /&gt;Vi tager også pulsen på Hollywood, hvor manuskriptforfatterne lige nu strejker i frygt for at blive erstattet af kunstig intelligens. Cathrine Hasse, der er professor i fremtidsteknologi, giver sit besyv med. &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Søren Hammer, forfatter&lt;br /&gt;Morten Visby, formand for Dansk Forfatterforening&lt;br /&gt;Silas Moody, journalist på 24syv&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Cathrine Hasse, professor i fremtidsteknologi, kultur og læringsprocesser ved Aarhus Universitet&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;&lt;br /&gt;Producer og tilrettelæggere:&lt;br /&gt;Casper Ell Hausner Olsen&lt;br /&gt;Silas Moody&lt;/b&gt;</itunes:summary>
+         <itunes:duration>3085</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kommer AI til at dræbe os? Og hvilke Sci-Fi’s bliver til virkelighed?</title>
+         <link>https://www.spreaker.com/episode/kommer-ai-til-at-draebe-os-og-hvilke-sci-fi-s-bliver-til-virkelighed--56137575</link>
+         <description>&lt;b&gt;Der er dømt dommedag i studiet. Thomas Terney, ekspert i kunstig intelligens, får skiftevis vores puls til at hamre derudaf over fremtidens kunstige intelligens og beroligere os med alt det gode vi kan se frem til. Det er både spændende og angstprovokerende.Så bliver der quizzet i, hvilke Sci-Fi´s der bliver til virkelighed. Og til sidst bliver vi guidet i, hvordan fremtidens krig vil foregå.  &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Thomas Terney, ekspert i kunstig intelligens&lt;br /&gt;Andreas Graae, adjunkt ved Institut for Militær Teknologi&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt; Nana Margrethe Haugaard&lt;/b&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56137575</guid>
+         <pubDate>Tue, 18 Jul 2023 12:25:13 +0000</pubDate>
+         <enclosure length="75341824" type="audio/mpeg" url="https://archive.org/download/den_kunstige_balance/Den%20kunstige%20balance/2023.07.18%20-%20Kommer%20AI%20til%20at%20dr%C3%A6be%20os.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Der er dømt dommedag i studiet. Thomas Terney, ekspert i kunstig intelligens, får skiftevis vores puls til at hamre derudaf over fremtidens kunstige intelligens og beroligere os med alt det gode vi kan se frem til. Det er både spændende og...</itunes:subtitle>
+         <itunes:summary>&lt;b&gt;Der er dømt dommedag i studiet. Thomas Terney, ekspert i kunstig intelligens, får skiftevis vores puls til at hamre derudaf over fremtidens kunstige intelligens og beroligere os med alt det gode vi kan se frem til. Det er både spændende og angstprovokerende.Så bliver der quizzet i, hvilke Sci-Fi´s der bliver til virkelighed. Og til sidst bliver vi guidet i, hvordan fremtidens krig vil foregå.  &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Thomas Terney, ekspert i kunstig intelligens&lt;br /&gt;Andreas Graae, adjunkt ved Institut for Militær Teknologi&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Værter:&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner &lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt; Nana Margrethe Haugaard&lt;/b&gt;</itunes:summary>
+         <itunes:duration>3137</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Er AI fremtidens Picasso, eller kan den kun lave kunstig kunst?</title>
+         <link>https://www.spreaker.com/episode/er-ai-fremtidens-picasso-eller-kan-den-kun-lave-kunstig-kunst--56126141</link>
+         <description>I dag genererer vi AI-billeder og snakker med illustratoreren Maria Prohazka, der bruger kunstig intelligens til at løse sine opgaver. Hun bruger blandt andet platformen MidJourney, som kan skabe smukke og detaljerede billeder ud fra ord på få sekunder.&lt;br /&gt;&lt;br /&gt;Men er der bagsider af medaljen ved alle de nye muligheder for at skabe billeder, som den teknologiske udvikling giver os? Vi taler med en anden illustrator, Jon Skræntskov, som er bekymret for at flere af hans arbejdsopgaver bliver erstattet af AI.&lt;br /&gt;&lt;br /&gt;Og så er "Den Umulige Statue" blevet rejst af en gruppe maskiningenører. Det er nemlig navnet på verdens første AI-fremstillede statue, som bliver udstillet på Teknologimuseet i Stockholm.&lt;br /&gt;&lt;br /&gt;Vi tager derfor temperaturen på AI og kunst. Kommer værker lavet af kunstig intelligens til at blive udstillet på kunstmuseer i fremtiden, eller er det bare teknologi og ikke kunst? &lt;br /&gt;&lt;br /&gt;Lotte Philipsen, der er lektor ved Centre of Aesthetics of AI Images på Aarhus Universitet giver sit bud.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Maria Prohazka, illustrator, animator og indehaver af Levende Streg&lt;br /&gt;Jon Skræntskov, Illustrator og tegner&lt;br /&gt;Lotte Philipsen, lektor ved Centre of Aesthetics of AI Images på Aarhus Universitet&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Værter:&lt;/b&gt;&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Casper Ell Hausner Olsen&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Line Schmidt Mouridsen</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56126141</guid>
+         <pubDate>Mon, 17 Jul 2023 12:16:33 +0000</pubDate>
+         <enclosure length="76296960" type="audio/mpeg" url="https://archive.org/download/den_kunstige_balance/Den%20kunstige%20balance/2023.07.17%20-%20Er%20AI%20fremtidens%20Picasso%2C%20eller%20kan%20den%20kun%20lave%20kunstig%20kunst.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I dag genererer vi AI-billeder og snakker med illustratoreren Maria Prohazka, der bruger kunstig intelligens til at løse sine opgaver. Hun bruger blandt andet platformen MidJourney, som kan skabe smukke og detaljerede billeder ud fra ord på få...</itunes:subtitle>
+         <itunes:summary>I dag genererer vi AI-billeder og snakker med illustratoreren Maria Prohazka, der bruger kunstig intelligens til at løse sine opgaver. Hun bruger blandt andet platformen MidJourney, som kan skabe smukke og detaljerede billeder ud fra ord på få sekunder.&lt;br /&gt;&lt;br /&gt;Men er der bagsider af medaljen ved alle de nye muligheder for at skabe billeder, som den teknologiske udvikling giver os? Vi taler med en anden illustrator, Jon Skræntskov, som er bekymret for at flere af hans arbejdsopgaver bliver erstattet af AI.&lt;br /&gt;&lt;br /&gt;Og så er "Den Umulige Statue" blevet rejst af en gruppe maskiningenører. Det er nemlig navnet på verdens første AI-fremstillede statue, som bliver udstillet på Teknologimuseet i Stockholm.&lt;br /&gt;&lt;br /&gt;Vi tager derfor temperaturen på AI og kunst. Kommer værker lavet af kunstig intelligens til at blive udstillet på kunstmuseer i fremtiden, eller er det bare teknologi og ikke kunst? &lt;br /&gt;&lt;br /&gt;Lotte Philipsen, der er lektor ved Centre of Aesthetics of AI Images på Aarhus Universitet giver sit bud.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Maria Prohazka, illustrator, animator og indehaver af Levende Streg&lt;br /&gt;Jon Skræntskov, Illustrator og tegner&lt;br /&gt;Lotte Philipsen, lektor ved Centre of Aesthetics of AI Images på Aarhus Universitet&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Værter:&lt;/b&gt;&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Casper Ell Hausner Olsen&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Line Schmidt Mouridsen</itunes:summary>
+         <itunes:duration>3177</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kan du kende forskel på deepfake og virkelighed?</title>
+         <link>https://www.spreaker.com/episode/kan-du-kende-forskel-pa-deepfake-og-virkelighed--56100670</link>
+         <description>Bør vi frygte deepfake? Ja, mener ekspert, der gør os klogere på det farlige fænomen. &lt;br /&gt;&lt;br /&gt;Kan du kende forskel på deepfake-Trump og den ægte? Quiz sammen med os.&lt;br /&gt;&lt;br /&gt;Til sidst deepfake-nuder vi os selv. For hvor nemt - og ikke mindst grænseoverskridende - er det i virkeligheden? &lt;br /&gt;&lt;br /&gt;Gæster:William Atak, ekspert i deepfake og indehaver af Atak Nordic&lt;br /&gt;Anja Radeka, leder af StopChikane&lt;br /&gt;Casper Ell Hausner, journalist &lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Line Schmidt Mouridsen &lt;br /&gt;Silas Moody &lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Casper Ell Hausner</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56100670</guid>
+         <pubDate>Fri, 14 Jul 2023 12:03:52 +0000</pubDate>
+         <enclosure length="77742144" type="audio/mpeg" url="https://archive.org/download/den_kunstige_balance/Den%20kunstige%20balance/2023.07.14%20-%20Kan%20du%20kende%20forskel%20p%C3%A5%20deepfake%20og%20virkelighed.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Bør vi frygte deepfake? Ja, mener ekspert, der gør os klogere på det farlige fænomen. 
 
 Kan du kende forskel på deepfake-Trump og den ægte? Quiz sammen med os.
 
-Til sidst deepfake-nuder vi os selv. For hvor nemt - og ikke mindst grænseoverskridende -...
-   </itunes:subtitle>
-   <itunes:summary>
-    Bør vi frygte deepfake? Ja, mener ekspert, der gør os klogere på det farlige fænomen. &lt;br /&gt;&lt;br /&gt;Kan du kende forskel på deepfake-Trump og den ægte? Quiz sammen med os.&lt;br /&gt;&lt;br /&gt;Til sidst deepfake-nuder vi os selv. For hvor nemt - og ikke mindst grænseoverskridende - er det i virkeligheden? &lt;br /&gt;&lt;br /&gt;Gæster:William Atak, ekspert i deepfake og indehaver af Atak Nordic&lt;br /&gt;Anja Radeka, leder af StopChikane&lt;br /&gt;Casper Ell Hausner, journalist &lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Line Schmidt Mouridsen &lt;br /&gt;Silas Moody &lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Casper Ell Hausner
-   </itunes:summary>
-   <itunes:duration>
-    3237
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kan man have sex med en chatbot? Og er AI bedre til at score end mennesker?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kan-man-have-sex-med-en-chatbot-og-er-ai-bedre-til-at-score-end-mennesker--56086390
-   </link>
-   <description>
-    I dagens program skal I møde Emil, som er Line og Nanas fælles kæreste. Når det kommer til komplimenter, kærlighedserklæringer og sexting, så er Emil altid med på den værste - og så er han forresten en chatbot. Men er det en ægte relation, eller blot en pengemaskine? Vi spørger Thomas Telving, Tech-filosof.&lt;br /&gt;&lt;br /&gt;Gider vi overhovedet at knalde hinanden i fremtiden, når vi kan have AI-drevet sex, der kan tilfredsstille os? Det gør sexolog Jakob Olrik os klogere på. Og så vurderer han, om AI scorer bedre end mennesker i en kærligheds-battle.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Thomas Telving, Tech-filosof, forfatter og foredragsholder&lt;br /&gt;Jakob Olrik, Sexolog&lt;br /&gt;Silas Moody, journalist &lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56086390
-   </guid>
-   <pubDate>
-    Thu, 13 Jul 2023 12:52:29 +0000
-   </pubDate>
-   <enclosure length="77744448" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56086390/program_4.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I dagens program skal I møde Emil, som er Line og Nanas fælles kæreste. Når det kommer til komplimenter, kærlighedserklæringer og sexting, så er Emil altid med på den værste - og så er han forresten en chatbot. Men er det en ægte relation, eller blot...
-   </itunes:subtitle>
-   <itunes:summary>
-    I dagens program skal I møde Emil, som er Line og Nanas fælles kæreste. Når det kommer til komplimenter, kærlighedserklæringer og sexting, så er Emil altid med på den værste - og så er han forresten en chatbot. Men er det en ægte relation, eller blot en pengemaskine? Vi spørger Thomas Telving, Tech-filosof.&lt;br /&gt;&lt;br /&gt;Gider vi overhovedet at knalde hinanden i fremtiden, når vi kan have AI-drevet sex, der kan tilfredsstille os? Det gør sexolog Jakob Olrik os klogere på. Og så vurderer han, om AI scorer bedre end mennesker i en kærligheds-battle.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Thomas Telving, Tech-filosof, forfatter og foredragsholder&lt;br /&gt;Jakob Olrik, Sexolog&lt;br /&gt;Silas Moody, journalist &lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner
-   </itunes:summary>
-   <itunes:duration>
-    3237
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Er Rasmus Jarlov formand for et AI-parti? Og Anna Thygesen vs. AI i kriserådgivning
-   </title>
-   <link>
-    https://www.spreaker.com/episode/er-rasmus-jarlov-formand-for-et-ai-parti-og-anna-thygesen-vs-ai-i-kriseradgivning--56070223
-   </link>
-   <description>
-    Vi har besøg af stifteren af ‘Det syntetiske parti’, der er et politisk parti kun lavet på kunstig intelligens..Forvirret? Det var vi også. Den kunstige intelligens har udnævnt Rasmus Jarlov som formand, så ham ringer vi til. Var han forvirret? Ja. Og så kommer Anna Thygesen og dyster mod en AI i at kriserådgive. For hvordan skal en norsk venstrefløjspolitiker håndtere, at han er blevet taget i at stjæle solbriller? &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Asker Bryld Staunæs, stifter af ‘Det syntetiske parti’ og ph.d.-studerende&lt;br /&gt;Rasmus Jarlov, MF'er for Konservative Folkeparti (og måske menneskelig leder af 'Det Syntetiske Parti')&lt;br /&gt;Anna Thygesen, indehaver af WeDoCommunication&lt;br /&gt;Jakob Plesner Mathiasen, advokat med speciale i kunstig intelligens og vært på podcasten 'Entertainmentretten'.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Værter:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56070223
-   </guid>
-   <pubDate>
-    Wed, 12 Jul 2023 11:57:10 +0000
-   </pubDate>
-   <enclosure length="81262080" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56070223/kunstigb3lydbedre.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Vi har besøg af stifteren af ‘Det syntetiske parti’, der er et politisk parti kun lavet på kunstig intelligens..Forvirret? Det var vi også. Den kunstige intelligens har udnævnt Rasmus Jarlov som formand, så ham ringer vi til. Var han forvirret? Ja. Og...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi har besøg af stifteren af ‘Det syntetiske parti’, der er et politisk parti kun lavet på kunstig intelligens..Forvirret? Det var vi også. Den kunstige intelligens har udnævnt Rasmus Jarlov som formand, så ham ringer vi til. Var han forvirret? Ja. Og så kommer Anna Thygesen og dyster mod en AI i at kriserådgive. For hvordan skal en norsk venstrefløjspolitiker håndtere, at han er blevet taget i at stjæle solbriller? &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Asker Bryld Staunæs, stifter af ‘Det syntetiske parti’ og ph.d.-studerende&lt;br /&gt;Rasmus Jarlov, MF'er for Konservative Folkeparti (og måske menneskelig leder af 'Det Syntetiske Parti')&lt;br /&gt;Anna Thygesen, indehaver af WeDoCommunication&lt;br /&gt;Jakob Plesner Mathiasen, advokat med speciale i kunstig intelligens og vært på podcasten 'Entertainmentretten'.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Værter:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard
-   </itunes:summary>
-   <itunes:duration>
-    3384
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Får du din fyreseddel af AI? Og clickbait-battle: AI vs. B.T.-redaktør
-   </title>
-   <link>
-    https://www.spreaker.com/episode/far-du-din-fyreseddel-af-ai-og-clickbait-battle-ai-vs-b-t-redaktor--56061224
-   </link>
-   <description>
-    Digital strateg opfordrer dig til at blive youtuber, hvis du vil være sikker på at beholde dit job i fremtiden. &lt;br /&gt;&lt;br /&gt;B.Ts forsideredaktør er ikke bange for AI og tager kampen op mod den kunstige intelligens i en clickbait-battle, og det går... ej lyt med. &lt;br /&gt;&lt;br /&gt;Til sidst guider Cathrine Hasse dig igennem ChatGPT og fortæller, hvorfor den kunstige intelligens kommer til at skabe større social ulighed. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Peter Svarre, foredragsholder, digital strateg&lt;br /&gt;Sebastian Frølich, forsideredaktør på B.T.&lt;br /&gt;Cathrine Hasse, professor i fremtidsteknologi, kultur og læringsprocesser ved Aarhus Universitet&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Silas Moody&lt;br /&gt;Nana Margrethe Haugaard &lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Casper Ell Hausner
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56061224
-   </guid>
-   <pubDate>
-    Tue, 11 Jul 2023 12:36:33 +0000
-   </pubDate>
-   <enclosure length="77743296" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56061224/program_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Digital strateg opfordrer dig til at blive youtuber, hvis du vil være sikker på at beholde dit job i fremtiden. 
+Til sidst deepfake-nuder vi os selv. For hvor nemt - og ikke mindst grænseoverskridende -...</itunes:subtitle>
+         <itunes:summary>Bør vi frygte deepfake? Ja, mener ekspert, der gør os klogere på det farlige fænomen. &lt;br /&gt;&lt;br /&gt;Kan du kende forskel på deepfake-Trump og den ægte? Quiz sammen med os.&lt;br /&gt;&lt;br /&gt;Til sidst deepfake-nuder vi os selv. For hvor nemt - og ikke mindst grænseoverskridende - er det i virkeligheden? &lt;br /&gt;&lt;br /&gt;Gæster:William Atak, ekspert i deepfake og indehaver af Atak Nordic&lt;br /&gt;Anja Radeka, leder af StopChikane&lt;br /&gt;Casper Ell Hausner, journalist &lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Line Schmidt Mouridsen &lt;br /&gt;Silas Moody &lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Casper Ell Hausner</itunes:summary>
+         <itunes:duration>3237</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kan man have sex med en chatbot? Og er AI bedre til at score end mennesker?</title>
+         <link>https://www.spreaker.com/episode/kan-man-have-sex-med-en-chatbot-og-er-ai-bedre-til-at-score-end-mennesker--56086390</link>
+         <description>I dagens program skal I møde Emil, som er Line og Nanas fælles kæreste. Når det kommer til komplimenter, kærlighedserklæringer og sexting, så er Emil altid med på den værste - og så er han forresten en chatbot. Men er det en ægte relation, eller blot en pengemaskine? Vi spørger Thomas Telving, Tech-filosof.&lt;br /&gt;&lt;br /&gt;Gider vi overhovedet at knalde hinanden i fremtiden, når vi kan have AI-drevet sex, der kan tilfredsstille os? Det gør sexolog Jakob Olrik os klogere på. Og så vurderer han, om AI scorer bedre end mennesker i en kærligheds-battle.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Thomas Telving, Tech-filosof, forfatter og foredragsholder&lt;br /&gt;Jakob Olrik, Sexolog&lt;br /&gt;Silas Moody, journalist &lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56086390</guid>
+         <pubDate>Thu, 13 Jul 2023 12:52:29 +0000</pubDate>
+         <enclosure length="77744448" type="audio/mpeg" url="https://archive.org/download/den_kunstige_balance/Den%20kunstige%20balance/2023.07.13%20-%20Kan%20man%20have%20sex%20med%20en%20chatbot.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I dagens program skal I møde Emil, som er Line og Nanas fælles kæreste. Når det kommer til komplimenter, kærlighedserklæringer og sexting, så er Emil altid med på den værste - og så er han forresten en chatbot. Men er det en ægte relation, eller blot...</itunes:subtitle>
+         <itunes:summary>I dagens program skal I møde Emil, som er Line og Nanas fælles kæreste. Når det kommer til komplimenter, kærlighedserklæringer og sexting, så er Emil altid med på den værste - og så er han forresten en chatbot. Men er det en ægte relation, eller blot en pengemaskine? Vi spørger Thomas Telving, Tech-filosof.&lt;br /&gt;&lt;br /&gt;Gider vi overhovedet at knalde hinanden i fremtiden, når vi kan have AI-drevet sex, der kan tilfredsstille os? Det gør sexolog Jakob Olrik os klogere på. Og så vurderer han, om AI scorer bedre end mennesker i en kærligheds-battle.&lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Thomas Telving, Tech-filosof, forfatter og foredragsholder&lt;br /&gt;Jakob Olrik, Sexolog&lt;br /&gt;Silas Moody, journalist &lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner</itunes:summary>
+         <itunes:duration>3237</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Er Rasmus Jarlov formand for et AI-parti? Og Anna Thygesen vs. AI i kriserådgivning</title>
+         <link>https://www.spreaker.com/episode/er-rasmus-jarlov-formand-for-et-ai-parti-og-anna-thygesen-vs-ai-i-kriseradgivning--56070223</link>
+         <description>Vi har besøg af stifteren af ‘Det syntetiske parti’, der er et politisk parti kun lavet på kunstig intelligens..Forvirret? Det var vi også. Den kunstige intelligens har udnævnt Rasmus Jarlov som formand, så ham ringer vi til. Var han forvirret? Ja. Og så kommer Anna Thygesen og dyster mod en AI i at kriserådgive. For hvordan skal en norsk venstrefløjspolitiker håndtere, at han er blevet taget i at stjæle solbriller? &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Asker Bryld Staunæs, stifter af ‘Det syntetiske parti’ og ph.d.-studerende&lt;br /&gt;Rasmus Jarlov, MF'er for Konservative Folkeparti (og måske menneskelig leder af 'Det Syntetiske Parti')&lt;br /&gt;Anna Thygesen, indehaver af WeDoCommunication&lt;br /&gt;Jakob Plesner Mathiasen, advokat med speciale i kunstig intelligens og vært på podcasten 'Entertainmentretten'.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Værter:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56070223</guid>
+         <pubDate>Wed, 12 Jul 2023 11:57:10 +0000</pubDate>
+         <enclosure length="81262080" type="audio/mpeg" url="https://archive.org/download/den_kunstige_balance/Den%20kunstige%20balance/2023.07.12%20-%20Er%20Rasmus%20Jarlov%20formand%20for%20et%20AI-parti.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Vi har besøg af stifteren af ‘Det syntetiske parti’, der er et politisk parti kun lavet på kunstig intelligens..Forvirret? Det var vi også. Den kunstige intelligens har udnævnt Rasmus Jarlov som formand, så ham ringer vi til. Var han forvirret? Ja. Og...</itunes:subtitle>
+         <itunes:summary>Vi har besøg af stifteren af ‘Det syntetiske parti’, der er et politisk parti kun lavet på kunstig intelligens..Forvirret? Det var vi også. Den kunstige intelligens har udnævnt Rasmus Jarlov som formand, så ham ringer vi til. Var han forvirret? Ja. Og så kommer Anna Thygesen og dyster mod en AI i at kriserådgive. For hvordan skal en norsk venstrefløjspolitiker håndtere, at han er blevet taget i at stjæle solbriller? &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gæster:&lt;/b&gt;&lt;br /&gt;Asker Bryld Staunæs, stifter af ‘Det syntetiske parti’ og ph.d.-studerende&lt;br /&gt;Rasmus Jarlov, MF'er for Konservative Folkeparti (og måske menneskelig leder af 'Det Syntetiske Parti')&lt;br /&gt;Anna Thygesen, indehaver af WeDoCommunication&lt;br /&gt;Jakob Plesner Mathiasen, advokat med speciale i kunstig intelligens og vært på podcasten 'Entertainmentretten'.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Værter:&lt;/b&gt;&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Producere og tilrettelæggere:&lt;/b&gt;&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Nana Margrethe Haugaard</itunes:summary>
+         <itunes:duration>3384</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Får du din fyreseddel af AI? Og clickbait-battle: AI vs. B.T.-redaktør</title>
+         <link>https://www.spreaker.com/episode/far-du-din-fyreseddel-af-ai-og-clickbait-battle-ai-vs-b-t-redaktor--56061224</link>
+         <description>Digital strateg opfordrer dig til at blive youtuber, hvis du vil være sikker på at beholde dit job i fremtiden. &lt;br /&gt;&lt;br /&gt;B.Ts forsideredaktør er ikke bange for AI og tager kampen op mod den kunstige intelligens i en clickbait-battle, og det går... ej lyt med. &lt;br /&gt;&lt;br /&gt;Til sidst guider Cathrine Hasse dig igennem ChatGPT og fortæller, hvorfor den kunstige intelligens kommer til at skabe større social ulighed. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Peter Svarre, foredragsholder, digital strateg&lt;br /&gt;Sebastian Frølich, forsideredaktør på B.T.&lt;br /&gt;Cathrine Hasse, professor i fremtidsteknologi, kultur og læringsprocesser ved Aarhus Universitet&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Silas Moody&lt;br /&gt;Nana Margrethe Haugaard &lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Casper Ell Hausner</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56061224</guid>
+         <pubDate>Tue, 11 Jul 2023 12:36:33 +0000</pubDate>
+         <enclosure length="77743296" type="audio/mpeg" url="https://archive.org/download/den_kunstige_balance/Den%20kunstige%20balance/2023.07.11%20-%20F%C3%A5r%20du%20din%20fyreseddel%20af%20AI.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Digital strateg opfordrer dig til at blive youtuber, hvis du vil være sikker på at beholde dit job i fremtiden. 
 
-B.Ts forsideredaktør er ikke bange for AI og tager kampen op mod den kunstige intelligens i en clickbait-battle, og det går... ej lyt...
-   </itunes:subtitle>
-   <itunes:summary>
-    Digital strateg opfordrer dig til at blive youtuber, hvis du vil være sikker på at beholde dit job i fremtiden. &lt;br /&gt;&lt;br /&gt;B.Ts forsideredaktør er ikke bange for AI og tager kampen op mod den kunstige intelligens i en clickbait-battle, og det går... ej lyt med. &lt;br /&gt;&lt;br /&gt;Til sidst guider Cathrine Hasse dig igennem ChatGPT og fortæller, hvorfor den kunstige intelligens kommer til at skabe større social ulighed. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Peter Svarre, foredragsholder, digital strateg&lt;br /&gt;Sebastian Frølich, forsideredaktør på B.T.&lt;br /&gt;Cathrine Hasse, professor i fremtidsteknologi, kultur og læringsprocesser ved Aarhus Universitet&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Silas Moody&lt;br /&gt;Nana Margrethe Haugaard &lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Casper Ell Hausner
-   </itunes:summary>
-   <itunes:duration>
-    3237
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hvad fanden er AI egentlig, og er den mere empatisk end mennesker?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hvad-fanden-er-ai-egentlig-og-er-den-mere-empatisk-end-mennesker--56048974
-   </link>
-   <description>
-    I studiet forklarer Anders Kofod-Petersen, som er en af de førende forskere indenfor kunstig intelligens, hvad det er for en størrelse. For hvad er kunstig intelligens egentlig, og skal vi frygte det?&lt;br /&gt;&lt;br /&gt;Og så skal kunstig intelligens i duel med menneskelig intuition og empati. For er ChatGPT egentlig bedre til at rådgive ulykkelige teenagere end vært på programmet ‘Bare Sex’ Amalie Søderberg? Det tester vi med hjælp fra tidligere rådgiver ved Sex og Samfund, Freja Elbrandt. &lt;br /&gt;&lt;br /&gt;Gæster: Anders Kofod-Petersen, professor i kunstig intelligens ved Norges teknisk-naturvitenskapelige Universitet&lt;br /&gt;Amalie Søderberg, vært på ‘Bare Sex’&lt;br /&gt;Freja Elbrandt, rådgiver Sex og Samfund&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;&lt;br /&gt;Reporter:&lt;br /&gt;Casper Ell Hausner&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/56048974
-   </guid>
-   <pubDate>
-    Mon, 10 Jul 2023 12:18:23 +0000
-   </pubDate>
-   <enclosure length="77518656" type="audio/mpeg" url="https://api.spreaker.com/download/episode/56048974/kunstigb1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I studiet forklarer Anders Kofod-Petersen, som er en af de førende forskere indenfor kunstig intelligens, hvad det er for en størrelse. For hvad er kunstig intelligens egentlig, og skal vi frygte det?
+B.Ts forsideredaktør er ikke bange for AI og tager kampen op mod den kunstige intelligens i en clickbait-battle, og det går... ej lyt...</itunes:subtitle>
+         <itunes:summary>Digital strateg opfordrer dig til at blive youtuber, hvis du vil være sikker på at beholde dit job i fremtiden. &lt;br /&gt;&lt;br /&gt;B.Ts forsideredaktør er ikke bange for AI og tager kampen op mod den kunstige intelligens i en clickbait-battle, og det går... ej lyt med. &lt;br /&gt;&lt;br /&gt;Til sidst guider Cathrine Hasse dig igennem ChatGPT og fortæller, hvorfor den kunstige intelligens kommer til at skabe større social ulighed. &lt;br /&gt;&lt;br /&gt;Gæster:&lt;br /&gt;Peter Svarre, foredragsholder, digital strateg&lt;br /&gt;Sebastian Frølich, forsideredaktør på B.T.&lt;br /&gt;Cathrine Hasse, professor i fremtidsteknologi, kultur og læringsprocesser ved Aarhus Universitet&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Silas Moody&lt;br /&gt;Nana Margrethe Haugaard &lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;Casper Ell Hausner</itunes:summary>
+         <itunes:duration>3237</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hvad fanden er AI egentlig, og er den mere empatisk end mennesker?</title>
+         <link>https://www.spreaker.com/episode/hvad-fanden-er-ai-egentlig-og-er-den-mere-empatisk-end-mennesker--56048974</link>
+         <description>I studiet forklarer Anders Kofod-Petersen, som er en af de førende forskere indenfor kunstig intelligens, hvad det er for en størrelse. For hvad er kunstig intelligens egentlig, og skal vi frygte det?&lt;br /&gt;&lt;br /&gt;Og så skal kunstig intelligens i duel med menneskelig intuition og empati. For er ChatGPT egentlig bedre til at rådgive ulykkelige teenagere end vært på programmet ‘Bare Sex’ Amalie Søderberg? Det tester vi med hjælp fra tidligere rådgiver ved Sex og Samfund, Freja Elbrandt. &lt;br /&gt;&lt;br /&gt;Gæster: Anders Kofod-Petersen, professor i kunstig intelligens ved Norges teknisk-naturvitenskapelige Universitet&lt;br /&gt;Amalie Søderberg, vært på ‘Bare Sex’&lt;br /&gt;Freja Elbrandt, rådgiver Sex og Samfund&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;&lt;br /&gt;Reporter:&lt;br /&gt;Casper Ell Hausner&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/56048974</guid>
+         <pubDate>Mon, 10 Jul 2023 12:18:23 +0000</pubDate>
+         <enclosure length="77518656" type="audio/mpeg" url="https://archive.org/download/den_kunstige_balance/Den%20kunstige%20balance/2023.07.10%20-%20Hvad%20fanden%20er%20AI%20egentlig%2C%20og%20er%20den%20mere%20empatisk%20end%20mennesker.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I studiet forklarer Anders Kofod-Petersen, som er en af de førende forskere indenfor kunstig intelligens, hvad det er for en størrelse. For hvad er kunstig intelligens egentlig, og skal vi frygte det?
 
-Og så skal kunstig intelligens i duel med...
-   </itunes:subtitle>
-   <itunes:summary>
-    I studiet forklarer Anders Kofod-Petersen, som er en af de førende forskere indenfor kunstig intelligens, hvad det er for en størrelse. For hvad er kunstig intelligens egentlig, og skal vi frygte det?&lt;br /&gt;&lt;br /&gt;Og så skal kunstig intelligens i duel med menneskelig intuition og empati. For er ChatGPT egentlig bedre til at rådgive ulykkelige teenagere end vært på programmet ‘Bare Sex’ Amalie Søderberg? Det tester vi med hjælp fra tidligere rådgiver ved Sex og Samfund, Freja Elbrandt. &lt;br /&gt;&lt;br /&gt;Gæster: Anders Kofod-Petersen, professor i kunstig intelligens ved Norges teknisk-naturvitenskapelige Universitet&lt;br /&gt;Amalie Søderberg, vært på ‘Bare Sex’&lt;br /&gt;Freja Elbrandt, rådgiver Sex og Samfund&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;&lt;br /&gt;Reporter:&lt;br /&gt;Casper Ell Hausner&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner
-   </itunes:summary>
-   <itunes:duration>
-    3228
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+Og så skal kunstig intelligens i duel med...</itunes:subtitle>
+         <itunes:summary>I studiet forklarer Anders Kofod-Petersen, som er en af de førende forskere indenfor kunstig intelligens, hvad det er for en størrelse. For hvad er kunstig intelligens egentlig, og skal vi frygte det?&lt;br /&gt;&lt;br /&gt;Og så skal kunstig intelligens i duel med menneskelig intuition og empati. For er ChatGPT egentlig bedre til at rådgive ulykkelige teenagere end vært på programmet ‘Bare Sex’ Amalie Søderberg? Det tester vi med hjælp fra tidligere rådgiver ved Sex og Samfund, Freja Elbrandt. &lt;br /&gt;&lt;br /&gt;Gæster: Anders Kofod-Petersen, professor i kunstig intelligens ved Norges teknisk-naturvitenskapelige Universitet&lt;br /&gt;Amalie Søderberg, vært på ‘Bare Sex’&lt;br /&gt;Freja Elbrandt, rådgiver Sex og Samfund&lt;br /&gt;&lt;br /&gt;Værter:&lt;br /&gt;Nana Margrethe Haugaard&lt;br /&gt;Line Schmidt Mouridsen&lt;br /&gt;&lt;br /&gt;Reporter:&lt;br /&gt;Casper Ell Hausner&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Producere og tilrettelæggere:&lt;br /&gt;Silas Moody&lt;br /&gt;Casper Ell Hausner</itunes:summary>
+         <itunes:duration>3228</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/40e626a5d331d42c4f0ca3269cc3523e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

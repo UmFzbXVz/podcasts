@@ -1,1353 +1,571 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Mink-pod
-  </title>
-  <link>
-   https://loud.land/podcast/mink-pod_1
-  </link>
-  <description>
-   Det her er den eneste daglige podcast, du behøver for at forstå en af de største politiske skandaler i Danmark i nyere tid: den ulovlige aflivning af mink-erhvervet i Danmark.&lt;br /&gt;&lt;br /&gt;Hver dag giver vi dig detaljer fra afhøringerne i Mink-kommissionen og krydrer det med analyse og indsigt, så du kan forstå, hvad der står mellem linjerne i de mange sms’er og forstå de større sammenhænge. Her får du det hele samlet – hver dag.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5191763/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   Copyright LOUD
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg
-   </url>
-   <title>
-    Mink-pod
-   </title>
-   <link>
-    https://loud.land/podcast/mink-pod_1
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   24syv
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    24syv
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-  <itunes:subtitle>
-   Det her er den eneste daglige podcast, du behøver for at forstå en af de største politiske skandaler i Danmark i nyere tid: den ulovlige aflivning af mink-erhvervet i Danmark.
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Mink-pod</title>
+      <link>https://loud.land/podcast/mink-pod_1</link>
+      <description>Det her er den eneste daglige podcast, du behøver for at forstå en af de største politiske skandaler i Danmark i nyere tid: den ulovlige aflivning af mink-erhvervet i Danmark.&lt;br /&gt;&lt;br /&gt;Hver dag giver vi dig detaljer fra afhøringerne i Mink-kommissionen og krydrer det med analyse og indsigt, så du kan forstå, hvad der står mellem linjerne i de mange sms’er og forstå de større sammenhænge. Her får du det hele samlet – hver dag.</description>
+      <atom:link href="https://www.spreaker.com/show/5191763/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>Copyright LOUD</copyright>
+      <image>
+         <url>https://archive.org/download/mink-pod/Mink-pod/6f5b9ee82f06fc4a600b3b386852d08f.jpg</url>
+         <title>Mink-pod</title>
+         <link>https://loud.land/podcast/mink-pod_1</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>24syv</itunes:author>
+      <itunes:owner>
+         <itunes:name>24syv</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+      <itunes:subtitle>Det her er den eneste daglige podcast, du behøver for at forstå en af de største politiske skandaler i Danmark i nyere tid: den ulovlige aflivning af mink-erhvervet i Danmark.
 
-Hver dag giver vi dig detaljer fra afhøringerne i Mink-kommissionen og...
-  </itunes:subtitle>
-  <itunes:summary>
-   Det her er den eneste daglige podcast, du behøver for at forstå en af de største politiske skandaler i Danmark i nyere tid: den ulovlige aflivning af mink-erhvervet i Danmark.&lt;br /&gt;&lt;br /&gt;Hver dag giver vi dig detaljer fra afhøringerne i Mink-kommissionen og krydrer det med analyse og indsigt, så du kan forstå, hvad der står mellem linjerne i de mange sms’er og forstå de større sammenhænge. Her får du det hele samlet – hver dag.
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:category text="Government"/>
-  <itunes:category text="News"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Hvad nu?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hvad-nu--48525027
-   </link>
-   <description>
-    Nu er granskningskommissionen færdig med de officielle afhøringer, og nu venter vi alle på den endelige rapport, som kommissionen regner med at have klar i juni måned.&lt;br /&gt;Vi gør status på Mink-Pod.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48525027
-   </guid>
-   <pubDate>
-    Tue, 01 Feb 2022 06:00:02 +0000
-   </pubDate>
-   <enclosure length="32437438" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48525027/sidste_minkpod.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Nu er granskningskommissionen færdig med de officielle afhøringer, og nu venter vi alle på den endelige rapport, som kommissionen regner med at have klar i juni måned.
-Vi gør status på Mink-Pod.
-Vært: Mathias Pedersen
-Medvirkende: Frank Korsholm,...
-   </itunes:subtitle>
-   <itunes:summary>
-    Nu er granskningskommissionen færdig med de officielle afhøringer, og nu venter vi alle på den endelige rapport, som kommissionen regner med at have klar i juni måned.&lt;br /&gt;Vi gør status på Mink-Pod.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    2024
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Historien om Hørby Østergaard
-   </title>
-   <link>
-    https://www.spreaker.com/episode/historien-om-horby-ostergaard--48521204
-   </link>
-   <description>
-    I Hobro ligger gården, Hørby Østergaard. Her bor familien Vinther-Kristensen bestående, der har drevet minkfarme siden 1985.&lt;br /&gt;I efteråret 2020 kunne de pressen følge deres kolleger aflive sine minksætningerne. Indtil en skæbnesvanger dag d. 4. november, hvor familien fik beskeden om, at nu skulle deres mink også aflives. Familien har udgivet en bog med titlen ”Den sidste mink”, hvor de fortæller deres historie. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Olav Vinther Kristensen og Mette Vinther Kristensen&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48521204
-   </guid>
-   <pubDate>
-    Mon, 31 Jan 2022 13:08:34 +0000
-   </pubDate>
-   <enclosure length="45719763" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48521204/h_rby_stergaard.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I Hobro ligger gården, Hørby Østergaard. Her bor familien Vinther-Kristensen bestående, der har drevet minkfarme siden 1985.
-I efteråret 2020 kunne de pressen følge deres kolleger aflive sine minksætningerne. Indtil en skæbnesvanger dag d. 4....
-   </itunes:subtitle>
-   <itunes:summary>
-    I Hobro ligger gården, Hørby Østergaard. Her bor familien Vinther-Kristensen bestående, der har drevet minkfarme siden 1985.&lt;br /&gt;I efteråret 2020 kunne de pressen følge deres kolleger aflive sine minksætningerne. Indtil en skæbnesvanger dag d. 4. november, hvor familien fik beskeden om, at nu skulle deres mink også aflives. Familien har udgivet en bog med titlen ”Den sidste mink”, hvor de fortæller deres historie. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Olav Vinther Kristensen og Mette Vinther Kristensen&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    2854
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Rigspolitichefen som den sidste i rækken
-   </title>
-   <link>
-    https://www.spreaker.com/episode/rigspolitichefen-som-den-sidste-i-raekken--48487336
-   </link>
-   <description>
-    Dag 32 var foreløbigt den sidste dag i minkkommissionen. Her skulle de tre sidste personer afhøres, og blandt dem var rigspolitichefen, Thorkild Fogde.  &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48487336
-   </guid>
-   <pubDate>
-    Fri, 28 Jan 2022 20:03:48 +0000
-   </pubDate>
-   <enclosure length="31061099" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48487336/sidste_dag.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dag 32 var foreløbigt den sidste dag i minkkommissionen. Her skulle de tre sidste personer afhøres, og blandt dem var rigspolitichefen, Thorkild Fogde.  
-Vært: Mathias Pedersen
-Medvirkende: Frank Korsholm, politiskredaktør på POV-International og...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dag 32 var foreløbigt den sidste dag i minkkommissionen. Her skulle de tre sidste personer afhøres, og blandt dem var rigspolitichefen, Thorkild Fogde.  &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1938
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kopenhagen Fur i vidneskranken
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kopenhagen-fur-i-vidneskranken--48474084
-   </link>
-   <description>
-    På dag 31 var det tid til at få en forklaring fra minkavlerne selv. Derfor var to topfolk fra Kopenhagen Fur, der repræsenterer minkavlerne, indkaldt som vidner i kommissionen.&lt;br /&gt;Det drejede sig om Tage Pedersen, der er formand og Sander Jakobsen, der er direktør for Kopenhagen Fur.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48474084
-   </guid>
-   <pubDate>
-    Thu, 27 Jan 2022 21:57:38 +0000
-   </pubDate>
-   <enclosure length="45656651" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48474084/fur.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    På dag 31 var det tid til at få en forklaring fra minkavlerne selv. Derfor var to topfolk fra Kopenhagen Fur, der repræsenterer minkavlerne, indkaldt som vidner i kommissionen.
-Det drejede sig om Tage Pedersen, der er formand og Sander Jakobsen, der...
-   </itunes:subtitle>
-   <itunes:summary>
-    På dag 31 var det tid til at få en forklaring fra minkavlerne selv. Derfor var to topfolk fra Kopenhagen Fur, der repræsenterer minkavlerne, indkaldt som vidner i kommissionen.&lt;br /&gt;Det drejede sig om Tage Pedersen, der er formand og Sander Jakobsen, der er direktør for Kopenhagen Fur.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    2850
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Blev actioncardet kvalitetssikret?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/blev-actioncardet-kvalitetssikret--48391961
-   </link>
-   <description>
-    Vi har nu rundet 30 dage i granskningskommission. Dag 30 bød blandt andet på et velkendt vidne blandt kommissionskendere, og så blev der langet kraftigt ud efter den uvildige advokatundersøgelse, der er i første omgang havde undersøgt politiets actioncard.&lt;br /&gt;Vi gør opmærksom på, at denne episode lyder anerledes end de foregående, og det skyldes, at Mathias Pedersen, på daværende tidspunkt, var i isolation på grund af corona. Men Frank Korsholm var tilstede, og derfor kan vi stadig udlægge, hvad der var op og ned i granskningskommissionens dag 29.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på net-mediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48391961
-   </guid>
-   <pubDate>
-    Fri, 21 Jan 2022 16:53:01 +0000
-   </pubDate>
-   <enclosure length="23455495" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48391961/dag_30.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Vi har nu rundet 30 dage i granskningskommission. Dag 30 bød blandt andet på et velkendt vidne blandt kommissionskendere, og så blev der langet kraftigt ud efter den uvildige advokatundersøgelse, der er i første omgang havde undersøgt politiets...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi har nu rundet 30 dage i granskningskommission. Dag 30 bød blandt andet på et velkendt vidne blandt kommissionskendere, og så blev der langet kraftigt ud efter den uvildige advokatundersøgelse, der er i første omgang havde undersøgt politiets actioncard.&lt;br /&gt;Vi gør opmærksom på, at denne episode lyder anerledes end de foregående, og det skyldes, at Mathias Pedersen, på daværende tidspunkt, var i isolation på grund af corona. Men Frank Korsholm var tilstede, og derfor kan vi stadig udlægge, hvad der var op og ned i granskningskommissionens dag 29.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på net-mediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1462
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Forfatteren til politiets actioncard
-   </title>
-   <link>
-    https://www.spreaker.com/episode/forfatteren-til-politiets-actioncard--48379563
-   </link>
-   <description>
-    Dag 29 i granskningskommissionen bød på hele tre politifolk i vidneskranken. Den ene var forfatteren til actioncardet, der er grunden til, at kommissionen har indkaldt flere politifolk til afhøring.&lt;br /&gt;Vi gør opmærksom på, at denne episode lyder anerledes end de foregående, og det skyldes, at Mathias Pedersen, på daværende tidspunkt, var i isolation på grund af corona. Men Frank Korsholm var tilstede, og derfor kan vi stadig udlægge, hvad der var op og ned i granskningskommissionens dag 29.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på net-mediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48379563
-   </guid>
-   <pubDate>
-    Thu, 20 Jan 2022 18:34:40 +0000
-   </pubDate>
-   <enclosure length="25893033" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48379563/minkpod29.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dag 29 i granskningskommissionen bød på hele tre politifolk i vidneskranken. Den ene var forfatteren til actioncardet, der er grunden til, at kommissionen har indkaldt flere politifolk til afhøring.
-Vi gør opmærksom på, at denne episode lyder...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dag 29 i granskningskommissionen bød på hele tre politifolk i vidneskranken. Den ene var forfatteren til actioncardet, der er grunden til, at kommissionen har indkaldt flere politifolk til afhøring.&lt;br /&gt;Vi gør opmærksom på, at denne episode lyder anerledes end de foregående, og det skyldes, at Mathias Pedersen, på daværende tidspunkt, var i isolation på grund af corona. Men Frank Korsholm var tilstede, og derfor kan vi stadig udlægge, hvad der var op og ned i granskningskommissionens dag 29.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på net-mediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1615
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Manden der ville "lukke lortet"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/manden-der-ville-lukke-lortet--48192900
-   </link>
-   <description>
-    Granskningskommissionen er i gang med at belyse politiets actioncard. Men tillægskommissoriet blev kortvarigt sat på pause på dag 28, da kommissionen stadig manglede at afhøre statsministeriets departementsråd. Så Pelle Pape måtte plads i vidneskranken, før kommissionen igen kunne genoptage tillægskommissoriet med en afhøring af vicepolitiinspektør Bo Samson.&lt;br /&gt;Vært: Mathias Pedersen.&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på net medet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48192900
-   </guid>
-   <pubDate>
-    Thu, 06 Jan 2022 18:14:40 +0000
-   </pubDate>
-   <enclosure length="26882343" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48192900/ny.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Granskningskommissionen er i gang med at belyse politiets actioncard. Men tillægskommissoriet blev kortvarigt sat på pause på dag 28, da kommissionen stadig manglede at afhøre statsministeriets departementsråd. Så Pelle Pape måtte plads i...
-   </itunes:subtitle>
-   <itunes:summary>
-    Granskningskommissionen er i gang med at belyse politiets actioncard. Men tillægskommissoriet blev kortvarigt sat på pause på dag 28, da kommissionen stadig manglede at afhøre statsministeriets departementsråd. Så Pelle Pape måtte plads i vidneskranken, før kommissionen igen kunne genoptage tillægskommissoriet med en afhøring af vicepolitiinspektør Bo Samson.&lt;br /&gt;Vært: Mathias Pedersen.&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på net medet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger.
-   </itunes:summary>
-   <itunes:duration>
-    1677
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Et nyt kapitel
-   </title>
-   <link>
-    https://www.spreaker.com/episode/et-nyt-kapitel--48177991
-   </link>
-   <description>
-    På dag 27 i granskningskommissionen skulle der tages hold på et nyt kapitel, politiets actioncard.&lt;br /&gt;Kommissionen lagde ud med at genindkalde to embedsmænd fra justitsministeriet, nemlig departementschefen, Johan Legarth, og afdelingschefen, Anne Mette Lyhne.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på net mediet POV international og tidligere pressechef for de konservative. &lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48177991
-   </guid>
-   <pubDate>
-    Wed, 05 Jan 2022 16:13:32 +0000
-   </pubDate>
-   <enclosure length="18575822" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48177991/dag_28.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    På dag 27 i granskningskommissionen skulle der tages hold på et nyt kapitel, politiets actioncard.
-Kommissionen lagde ud med at genindkalde to embedsmænd fra justitsministeriet, nemlig departementschefen, Johan Legarth, og afdelingschefen, Anne Mette...
-   </itunes:subtitle>
-   <itunes:summary>
-    På dag 27 i granskningskommissionen skulle der tages hold på et nyt kapitel, politiets actioncard.&lt;br /&gt;Kommissionen lagde ud med at genindkalde to embedsmænd fra justitsministeriet, nemlig departementschefen, Johan Legarth, og afdelingschefen, Anne Mette Lyhne.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på net mediet POV international og tidligere pressechef for de konservative. &lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1157
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Gudskelov ikke af sundhedsministeriet
-   </title>
-   <link>
-    https://www.spreaker.com/episode/gudskelov-ikke-af-sundhedsministeriet--48163153
-   </link>
-   <description>
-    Sundhedsministeren tog plads i vidneskranken på dag 26 i granskningskommissionen. Det var en genindkaldelse af ministeren, da den forrige afhøring trak ud, grundet en personlig notesbog.  Under afhøringen skulle der læses op fra private dagbøger og notesbøger, og der skulle graves i, hvornår Magnus Heunicke blev bekendt med det manglende lovhjemmel.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48163153
-   </guid>
-   <pubDate>
-    Tue, 04 Jan 2022 13:53:59 +0000
-   </pubDate>
-   <enclosure length="21617729" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48163153/magnus2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Sundhedsministeren tog plads i vidneskranken på dag 26 i granskningskommissionen. Det var en genindkaldelse af ministeren, da den forrige afhøring trak ud, grundet en personlig notesbog.  Under afhøringen skulle der læses op fra private dagbøger og...
-   </itunes:subtitle>
-   <itunes:summary>
-    Sundhedsministeren tog plads i vidneskranken på dag 26 i granskningskommissionen. Det var en genindkaldelse af ministeren, da den forrige afhøring trak ud, grundet en personlig notesbog.  Under afhøringen skulle der læses op fra private dagbøger og notesbøger, og der skulle graves i, hvornår Magnus Heunicke blev bekendt med det manglende lovhjemmel.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1348
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hvem griner nu?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hvem-griner-nu--48010383
-   </link>
-   <description>
-    Esben Agerlin Olsen er journalist og redaktør på net mediet Nordtinget.dk.&lt;br /&gt;Han var ret tidligt meget optaget af at dække den stigende smitte blandt mink, før regeringen traf beslutningen om, at alle mink skulle aflives. Og det førte blandt andet til latterliggørelse på et pressemøde i spejlsalen i statsministeriet. &lt;br /&gt;I årets sidste udgave af Mink-Pod gør vi status og ser frem mod afhøringerne i 2022.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Esben Agerlin Olsen, journalist og redaktør på net mediet Nordtinget.dk.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/48010383
-   </guid>
-   <pubDate>
-    Tue, 21 Dec 2021 13:47:32 +0000
-   </pubDate>
-   <enclosure length="14962147" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/48010383/minkpod.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Esben Agerlin Olsen er journalist og redaktør på net mediet Nordtinget.dk.
-Han var ret tidligt meget optaget af at dække den stigende smitte blandt mink, før regeringen traf beslutningen om, at alle mink skulle aflives. Og det førte blandt andet til...
-   </itunes:subtitle>
-   <itunes:summary>
-    Esben Agerlin Olsen er journalist og redaktør på net mediet Nordtinget.dk.&lt;br /&gt;Han var ret tidligt meget optaget af at dække den stigende smitte blandt mink, før regeringen traf beslutningen om, at alle mink skulle aflives. Og det førte blandt andet til latterliggørelse på et pressemøde i spejlsalen i statsministeriet. &lt;br /&gt;I årets sidste udgave af Mink-Pod gør vi status og ser frem mod afhøringerne i 2022.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Esben Agerlin Olsen, journalist og redaktør på net mediet Nordtinget.dk.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    932
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Danmarks internationale ry
-   </title>
-   <link>
-    https://www.spreaker.com/episode/danmarks-internationale-ry--47964627
-   </link>
-   <description>
-    Dag 25 blev årets sidste dag i minkkommissionen.&lt;br /&gt;Og kommissionen rundede 2021 af med afhøringer af udenrigsministeren og udenrigsministerens departementschef. Og dagens tema blev truslen mod Danmarks internationale ry. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47964627
-   </guid>
-   <pubDate>
-    Fri, 17 Dec 2021 16:10:03 +0000
-   </pubDate>
-   <enclosure length="16549138" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47964627/dag_25.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dag 25 blev årets sidste dag i minkkommissionen.
+Hver dag giver vi dig detaljer fra afhøringerne i Mink-kommissionen og...</itunes:subtitle>
+      <itunes:summary>Det her er den eneste daglige podcast, du behøver for at forstå en af de største politiske skandaler i Danmark i nyere tid: den ulovlige aflivning af mink-erhvervet i Danmark.&lt;br /&gt;&lt;br /&gt;Hver dag giver vi dig detaljer fra afhøringerne i Mink-kommissionen og krydrer det med analyse og indsigt, så du kan forstå, hvad der står mellem linjerne i de mange sms’er og forstå de større sammenhænge. Her får du det hele samlet – hver dag.</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:category text="Government" />
+      <itunes:category text="News" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Hvad nu?</title>
+         <link>https://www.spreaker.com/episode/hvad-nu--48525027</link>
+         <description>Nu er granskningskommissionen færdig med de officielle afhøringer, og nu venter vi alle på den endelige rapport, som kommissionen regner med at have klar i juni måned.&lt;br /&gt;Vi gør status på Mink-Pod.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48525027</guid>
+         <pubDate>Tue, 01 Feb 2022 06:00:02 +0000</pubDate>
+         <enclosure length="32437438" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2022.02.01%20-%20Hvad%20nu.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Nu er granskningskommissionen færdig med de officielle afhøringer, og nu venter vi alle på den endelige rapport, som kommissionen regner med at have klar i juni måned.
+Vi gør status på Mink-Pod.
+Vært: Mathias Pedersen
+Medvirkende: Frank Korsholm,...</itunes:subtitle>
+         <itunes:summary>Nu er granskningskommissionen færdig med de officielle afhøringer, og nu venter vi alle på den endelige rapport, som kommissionen regner med at have klar i juni måned.&lt;br /&gt;Vi gør status på Mink-Pod.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>2024</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Historien om Hørby Østergaard</title>
+         <link>https://www.spreaker.com/episode/historien-om-horby-ostergaard--48521204</link>
+         <description>I Hobro ligger gården, Hørby Østergaard. Her bor familien Vinther-Kristensen bestående, der har drevet minkfarme siden 1985.&lt;br /&gt;I efteråret 2020 kunne de pressen følge deres kolleger aflive sine minksætningerne. Indtil en skæbnesvanger dag d. 4. november, hvor familien fik beskeden om, at nu skulle deres mink også aflives. Familien har udgivet en bog med titlen ”Den sidste mink”, hvor de fortæller deres historie. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Olav Vinther Kristensen og Mette Vinther Kristensen&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48521204</guid>
+         <pubDate>Mon, 31 Jan 2022 13:08:34 +0000</pubDate>
+         <enclosure length="45719763" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2022.01.31%20-%20Historien%20om%20H%C3%B8rby%20%C3%98stergaard.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I Hobro ligger gården, Hørby Østergaard. Her bor familien Vinther-Kristensen bestående, der har drevet minkfarme siden 1985.
+I efteråret 2020 kunne de pressen følge deres kolleger aflive sine minksætningerne. Indtil en skæbnesvanger dag d. 4....</itunes:subtitle>
+         <itunes:summary>I Hobro ligger gården, Hørby Østergaard. Her bor familien Vinther-Kristensen bestående, der har drevet minkfarme siden 1985.&lt;br /&gt;I efteråret 2020 kunne de pressen følge deres kolleger aflive sine minksætningerne. Indtil en skæbnesvanger dag d. 4. november, hvor familien fik beskeden om, at nu skulle deres mink også aflives. Familien har udgivet en bog med titlen ”Den sidste mink”, hvor de fortæller deres historie. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Olav Vinther Kristensen og Mette Vinther Kristensen&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>2854</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Rigspolitichefen som den sidste i rækken</title>
+         <link>https://www.spreaker.com/episode/rigspolitichefen-som-den-sidste-i-raekken--48487336</link>
+         <description>Dag 32 var foreløbigt den sidste dag i minkkommissionen. Her skulle de tre sidste personer afhøres, og blandt dem var rigspolitichefen, Thorkild Fogde.  &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48487336</guid>
+         <pubDate>Fri, 28 Jan 2022 20:03:48 +0000</pubDate>
+         <enclosure length="31061099" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2022.01.28%20-%20Rigspolitichefen%20som%20den%20sidste%20i%20r%C3%A6kken.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dag 32 var foreløbigt den sidste dag i minkkommissionen. Her skulle de tre sidste personer afhøres, og blandt dem var rigspolitichefen, Thorkild Fogde.  
+Vært: Mathias Pedersen
+Medvirkende: Frank Korsholm, politiskredaktør på POV-International og...</itunes:subtitle>
+         <itunes:summary>Dag 32 var foreløbigt den sidste dag i minkkommissionen. Her skulle de tre sidste personer afhøres, og blandt dem var rigspolitichefen, Thorkild Fogde.  &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1938</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kopenhagen Fur i vidneskranken</title>
+         <link>https://www.spreaker.com/episode/kopenhagen-fur-i-vidneskranken--48474084</link>
+         <description>På dag 31 var det tid til at få en forklaring fra minkavlerne selv. Derfor var to topfolk fra Kopenhagen Fur, der repræsenterer minkavlerne, indkaldt som vidner i kommissionen.&lt;br /&gt;Det drejede sig om Tage Pedersen, der er formand og Sander Jakobsen, der er direktør for Kopenhagen Fur.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48474084</guid>
+         <pubDate>Thu, 27 Jan 2022 21:57:38 +0000</pubDate>
+         <enclosure length="45656651" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2022.01.27%20-%20Kopenhagen%20Fur%20i%20vidneskranken.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>På dag 31 var det tid til at få en forklaring fra minkavlerne selv. Derfor var to topfolk fra Kopenhagen Fur, der repræsenterer minkavlerne, indkaldt som vidner i kommissionen.
+Det drejede sig om Tage Pedersen, der er formand og Sander Jakobsen, der...</itunes:subtitle>
+         <itunes:summary>På dag 31 var det tid til at få en forklaring fra minkavlerne selv. Derfor var to topfolk fra Kopenhagen Fur, der repræsenterer minkavlerne, indkaldt som vidner i kommissionen.&lt;br /&gt;Det drejede sig om Tage Pedersen, der er formand og Sander Jakobsen, der er direktør for Kopenhagen Fur.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>2850</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Blev actioncardet kvalitetssikret?</title>
+         <link>https://www.spreaker.com/episode/blev-actioncardet-kvalitetssikret--48391961</link>
+         <description>Vi har nu rundet 30 dage i granskningskommission. Dag 30 bød blandt andet på et velkendt vidne blandt kommissionskendere, og så blev der langet kraftigt ud efter den uvildige advokatundersøgelse, der er i første omgang havde undersøgt politiets actioncard.&lt;br /&gt;Vi gør opmærksom på, at denne episode lyder anerledes end de foregående, og det skyldes, at Mathias Pedersen, på daværende tidspunkt, var i isolation på grund af corona. Men Frank Korsholm var tilstede, og derfor kan vi stadig udlægge, hvad der var op og ned i granskningskommissionens dag 29.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på net-mediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48391961</guid>
+         <pubDate>Fri, 21 Jan 2022 16:53:01 +0000</pubDate>
+         <enclosure length="23455495" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2022.01.21%20-%20Blev%20actioncardet%20kvalitetssikret.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Vi har nu rundet 30 dage i granskningskommission. Dag 30 bød blandt andet på et velkendt vidne blandt kommissionskendere, og så blev der langet kraftigt ud efter den uvildige advokatundersøgelse, der er i første omgang havde undersøgt politiets...</itunes:subtitle>
+         <itunes:summary>Vi har nu rundet 30 dage i granskningskommission. Dag 30 bød blandt andet på et velkendt vidne blandt kommissionskendere, og så blev der langet kraftigt ud efter den uvildige advokatundersøgelse, der er i første omgang havde undersøgt politiets actioncard.&lt;br /&gt;Vi gør opmærksom på, at denne episode lyder anerledes end de foregående, og det skyldes, at Mathias Pedersen, på daværende tidspunkt, var i isolation på grund af corona. Men Frank Korsholm var tilstede, og derfor kan vi stadig udlægge, hvad der var op og ned i granskningskommissionens dag 29.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på net-mediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1462</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Forfatteren til politiets actioncard</title>
+         <link>https://www.spreaker.com/episode/forfatteren-til-politiets-actioncard--48379563</link>
+         <description>Dag 29 i granskningskommissionen bød på hele tre politifolk i vidneskranken. Den ene var forfatteren til actioncardet, der er grunden til, at kommissionen har indkaldt flere politifolk til afhøring.&lt;br /&gt;Vi gør opmærksom på, at denne episode lyder anerledes end de foregående, og det skyldes, at Mathias Pedersen, på daværende tidspunkt, var i isolation på grund af corona. Men Frank Korsholm var tilstede, og derfor kan vi stadig udlægge, hvad der var op og ned i granskningskommissionens dag 29.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på net-mediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48379563</guid>
+         <pubDate>Thu, 20 Jan 2022 18:34:40 +0000</pubDate>
+         <enclosure length="25893033" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2022.01.20%20-%20Forfatteren%20til%20politiets%20actioncard.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dag 29 i granskningskommissionen bød på hele tre politifolk i vidneskranken. Den ene var forfatteren til actioncardet, der er grunden til, at kommissionen har indkaldt flere politifolk til afhøring.
+Vi gør opmærksom på, at denne episode lyder...</itunes:subtitle>
+         <itunes:summary>Dag 29 i granskningskommissionen bød på hele tre politifolk i vidneskranken. Den ene var forfatteren til actioncardet, der er grunden til, at kommissionen har indkaldt flere politifolk til afhøring.&lt;br /&gt;Vi gør opmærksom på, at denne episode lyder anerledes end de foregående, og det skyldes, at Mathias Pedersen, på daværende tidspunkt, var i isolation på grund af corona. Men Frank Korsholm var tilstede, og derfor kan vi stadig udlægge, hvad der var op og ned i granskningskommissionens dag 29.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på net-mediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1615</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Manden der ville "lukke lortet"</title>
+         <link>https://www.spreaker.com/episode/manden-der-ville-lukke-lortet--48192900</link>
+         <description>Granskningskommissionen er i gang med at belyse politiets actioncard. Men tillægskommissoriet blev kortvarigt sat på pause på dag 28, da kommissionen stadig manglede at afhøre statsministeriets departementsråd. Så Pelle Pape måtte plads i vidneskranken, før kommissionen igen kunne genoptage tillægskommissoriet med en afhøring af vicepolitiinspektør Bo Samson.&lt;br /&gt;Vært: Mathias Pedersen.&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på net medet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48192900</guid>
+         <pubDate>Thu, 06 Jan 2022 18:14:40 +0000</pubDate>
+         <enclosure length="26882343" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2022.01.06%20-%20Manden%20der%20ville%20.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Granskningskommissionen er i gang med at belyse politiets actioncard. Men tillægskommissoriet blev kortvarigt sat på pause på dag 28, da kommissionen stadig manglede at afhøre statsministeriets departementsråd. Så Pelle Pape måtte plads i...</itunes:subtitle>
+         <itunes:summary>Granskningskommissionen er i gang med at belyse politiets actioncard. Men tillægskommissoriet blev kortvarigt sat på pause på dag 28, da kommissionen stadig manglede at afhøre statsministeriets departementsråd. Så Pelle Pape måtte plads i vidneskranken, før kommissionen igen kunne genoptage tillægskommissoriet med en afhøring af vicepolitiinspektør Bo Samson.&lt;br /&gt;Vært: Mathias Pedersen.&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på net medet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger.</itunes:summary>
+         <itunes:duration>1677</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Et nyt kapitel</title>
+         <link>https://www.spreaker.com/episode/et-nyt-kapitel--48177991</link>
+         <description>På dag 27 i granskningskommissionen skulle der tages hold på et nyt kapitel, politiets actioncard.&lt;br /&gt;Kommissionen lagde ud med at genindkalde to embedsmænd fra justitsministeriet, nemlig departementschefen, Johan Legarth, og afdelingschefen, Anne Mette Lyhne.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på net mediet POV international og tidligere pressechef for de konservative. &lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48177991</guid>
+         <pubDate>Wed, 05 Jan 2022 16:13:32 +0000</pubDate>
+         <enclosure length="18575822" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2022.01.05%20-%20Et%20nyt%20kapitel.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>På dag 27 i granskningskommissionen skulle der tages hold på et nyt kapitel, politiets actioncard.
+Kommissionen lagde ud med at genindkalde to embedsmænd fra justitsministeriet, nemlig departementschefen, Johan Legarth, og afdelingschefen, Anne Mette...</itunes:subtitle>
+         <itunes:summary>På dag 27 i granskningskommissionen skulle der tages hold på et nyt kapitel, politiets actioncard.&lt;br /&gt;Kommissionen lagde ud med at genindkalde to embedsmænd fra justitsministeriet, nemlig departementschefen, Johan Legarth, og afdelingschefen, Anne Mette Lyhne.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på net mediet POV international og tidligere pressechef for de konservative. &lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1157</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Gudskelov ikke af sundhedsministeriet</title>
+         <link>https://www.spreaker.com/episode/gudskelov-ikke-af-sundhedsministeriet--48163153</link>
+         <description>Sundhedsministeren tog plads i vidneskranken på dag 26 i granskningskommissionen. Det var en genindkaldelse af ministeren, da den forrige afhøring trak ud, grundet en personlig notesbog.  Under afhøringen skulle der læses op fra private dagbøger og notesbøger, og der skulle graves i, hvornår Magnus Heunicke blev bekendt med det manglende lovhjemmel.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48163153</guid>
+         <pubDate>Tue, 04 Jan 2022 13:53:59 +0000</pubDate>
+         <enclosure length="21617729" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2022.01.04%20-%20Gudskelov%20ikke%20af%20sundhedsministeriet.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Sundhedsministeren tog plads i vidneskranken på dag 26 i granskningskommissionen. Det var en genindkaldelse af ministeren, da den forrige afhøring trak ud, grundet en personlig notesbog.  Under afhøringen skulle der læses op fra private dagbøger og...</itunes:subtitle>
+         <itunes:summary>Sundhedsministeren tog plads i vidneskranken på dag 26 i granskningskommissionen. Det var en genindkaldelse af ministeren, da den forrige afhøring trak ud, grundet en personlig notesbog.  Under afhøringen skulle der læses op fra private dagbøger og notesbøger, og der skulle graves i, hvornår Magnus Heunicke blev bekendt med det manglende lovhjemmel.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1348</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hvem griner nu?</title>
+         <link>https://www.spreaker.com/episode/hvem-griner-nu--48010383</link>
+         <description>Esben Agerlin Olsen er journalist og redaktør på net mediet Nordtinget.dk.&lt;br /&gt;Han var ret tidligt meget optaget af at dække den stigende smitte blandt mink, før regeringen traf beslutningen om, at alle mink skulle aflives. Og det førte blandt andet til latterliggørelse på et pressemøde i spejlsalen i statsministeriet. &lt;br /&gt;I årets sidste udgave af Mink-Pod gør vi status og ser frem mod afhøringerne i 2022.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Esben Agerlin Olsen, journalist og redaktør på net mediet Nordtinget.dk.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/48010383</guid>
+         <pubDate>Tue, 21 Dec 2021 13:47:32 +0000</pubDate>
+         <enclosure length="14962147" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.12.21%20-%20Hvem%20griner%20nu.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Esben Agerlin Olsen er journalist og redaktør på net mediet Nordtinget.dk.
+Han var ret tidligt meget optaget af at dække den stigende smitte blandt mink, før regeringen traf beslutningen om, at alle mink skulle aflives. Og det førte blandt andet til...</itunes:subtitle>
+         <itunes:summary>Esben Agerlin Olsen er journalist og redaktør på net mediet Nordtinget.dk.&lt;br /&gt;Han var ret tidligt meget optaget af at dække den stigende smitte blandt mink, før regeringen traf beslutningen om, at alle mink skulle aflives. Og det førte blandt andet til latterliggørelse på et pressemøde i spejlsalen i statsministeriet. &lt;br /&gt;I årets sidste udgave af Mink-Pod gør vi status og ser frem mod afhøringerne i 2022.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Esben Agerlin Olsen, journalist og redaktør på net mediet Nordtinget.dk.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>932</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Danmarks internationale ry</title>
+         <link>https://www.spreaker.com/episode/danmarks-internationale-ry--47964627</link>
+         <description>Dag 25 blev årets sidste dag i minkkommissionen.&lt;br /&gt;Og kommissionen rundede 2021 af med afhøringer af udenrigsministeren og udenrigsministerens departementschef. Og dagens tema blev truslen mod Danmarks internationale ry. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47964627</guid>
+         <pubDate>Fri, 17 Dec 2021 16:10:03 +0000</pubDate>
+         <enclosure length="16549138" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.12.17%20-%20Danmarks%20internationale%20ry.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dag 25 blev årets sidste dag i minkkommissionen.
 Og kommissionen rundede 2021 af med afhøringer af udenrigsministeren og udenrigsministerens departementschef. Og dagens tema blev truslen mod Danmarks internationale ry. 
-Vært: Mathias Pedersen...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dag 25 blev årets sidste dag i minkkommissionen.&lt;br /&gt;Og kommissionen rundede 2021 af med afhøringer af udenrigsministeren og udenrigsministerens departementschef. Og dagens tema blev truslen mod Danmarks internationale ry. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1031
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Brevets forfatter
-   </title>
-   <link>
-    https://www.spreaker.com/episode/brevets-forfatter--47948547
-   </link>
-   <description>
-    Vi kommet til dag 24 i granskningskommissionen, der stod på i alt to afhøringer. &lt;br /&gt;Dagens helt store tema blev det berømte brev til minkavlerne, der blev sendt ud d. 6. november. For i dag blev brevets forfatter nemlig afhørt.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Pedersen.&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på net mediet POV international og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47948547
-   </guid>
-   <pubDate>
-    Thu, 16 Dec 2021 17:26:38 +0000
-   </pubDate>
-   <enclosure length="20077967" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47948547/dag_24_s.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Vi kommet til dag 24 i granskningskommissionen, der stod på i alt to afhøringer. 
+Vært: Mathias Pedersen...</itunes:subtitle>
+         <itunes:summary>Dag 25 blev årets sidste dag i minkkommissionen.&lt;br /&gt;Og kommissionen rundede 2021 af med afhøringer af udenrigsministeren og udenrigsministerens departementschef. Og dagens tema blev truslen mod Danmarks internationale ry. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1031</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Brevets forfatter</title>
+         <link>https://www.spreaker.com/episode/brevets-forfatter--47948547</link>
+         <description>Vi kommet til dag 24 i granskningskommissionen, der stod på i alt to afhøringer. &lt;br /&gt;Dagens helt store tema blev det berømte brev til minkavlerne, der blev sendt ud d. 6. november. For i dag blev brevets forfatter nemlig afhørt.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Pedersen.&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på net mediet POV international og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47948547</guid>
+         <pubDate>Thu, 16 Dec 2021 17:26:38 +0000</pubDate>
+         <enclosure length="20077967" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.12.16%20-%20Brevets%20forfatter.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Vi kommet til dag 24 i granskningskommissionen, der stod på i alt to afhøringer. 
 Dagens helt store tema blev det berømte brev til minkavlerne, der blev sendt ud d. 6. november. For i dag blev brevets forfatter nemlig afhørt.
 
-Vært: Mathias Pedersen....
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi kommet til dag 24 i granskningskommissionen, der stod på i alt to afhøringer. &lt;br /&gt;Dagens helt store tema blev det berømte brev til minkavlerne, der blev sendt ud d. 6. november. For i dag blev brevets forfatter nemlig afhørt.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Pedersen.&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på net mediet POV international og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1251
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Erhvervsministeren og hjemmel til kompensationen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/erhvervsministeren-og-hjemmel-til-kompensationen--47870163
-   </link>
-   <description>
-    Dag 23 blev en stille dag i granskningskommissionen. Men selv en stille dag byder på en minister i afhøringsstolen. Og her blev et spørgsmål om, hvornår et lovhjemmel til udbetaling af kompensationer skal være på plads.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47870163
-   </guid>
-   <pubDate>
-    Fri, 10 Dec 2021 17:11:54 +0000
-   </pubDate>
-   <enclosure length="21571335" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47870163/dag_23.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dag 23 blev en stille dag i granskningskommissionen. Men selv en stille dag byder på en minister i afhøringsstolen. Og her blev et spørgsmål om, hvornår et lovhjemmel til udbetaling af kompensationer skal være på plads.
-Vært: Mathias Pedersen...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dag 23 blev en stille dag i granskningskommissionen. Men selv en stille dag byder på en minister i afhøringsstolen. Og her blev et spørgsmål om, hvornår et lovhjemmel til udbetaling af kompensationer skal være på plads.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1345
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Så blev det statsministerens tur
-   </title>
-   <link>
-    https://www.spreaker.com/episode/sa-blev-det-statsministerens-tur--47858187
-   </link>
-   <description>
-    På dag 22 i granskningskommissionen var det Mette Frederiksens tur til at svare på spørgsmål. Og det helt store omdrejningspunkt blev ministeransvar.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Vært: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47858187
-   </guid>
-   <pubDate>
-    Thu, 09 Dec 2021 20:52:06 +0000
-   </pubDate>
-   <enclosure length="33403342" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47858187/mette_frederiksen.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    På dag 22 i granskningskommissionen var det Mette Frederiksens tur til at svare på spørgsmål. Og det helt store omdrejningspunkt blev ministeransvar.
+Vært: Mathias Pedersen....</itunes:subtitle>
+         <itunes:summary>Vi kommet til dag 24 i granskningskommissionen, der stod på i alt to afhøringer. &lt;br /&gt;Dagens helt store tema blev det berømte brev til minkavlerne, der blev sendt ud d. 6. november. For i dag blev brevets forfatter nemlig afhørt.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Pedersen.&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på net mediet POV international og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1251</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Erhvervsministeren og hjemmel til kompensationen</title>
+         <link>https://www.spreaker.com/episode/erhvervsministeren-og-hjemmel-til-kompensationen--47870163</link>
+         <description>Dag 23 blev en stille dag i granskningskommissionen. Men selv en stille dag byder på en minister i afhøringsstolen. Og her blev et spørgsmål om, hvornår et lovhjemmel til udbetaling af kompensationer skal være på plads.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47870163</guid>
+         <pubDate>Fri, 10 Dec 2021 17:11:54 +0000</pubDate>
+         <enclosure length="21571335" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.12.10%20-%20Erhvervsministeren%20og%20hjemmel%20til%20kompensationen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dag 23 blev en stille dag i granskningskommissionen. Men selv en stille dag byder på en minister i afhøringsstolen. Og her blev et spørgsmål om, hvornår et lovhjemmel til udbetaling af kompensationer skal være på plads.
+Vært: Mathias Pedersen...</itunes:subtitle>
+         <itunes:summary>Dag 23 blev en stille dag i granskningskommissionen. Men selv en stille dag byder på en minister i afhøringsstolen. Og her blev et spørgsmål om, hvornår et lovhjemmel til udbetaling af kompensationer skal være på plads.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1345</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Så blev det statsministerens tur</title>
+         <link>https://www.spreaker.com/episode/sa-blev-det-statsministerens-tur--47858187</link>
+         <description>På dag 22 i granskningskommissionen var det Mette Frederiksens tur til at svare på spørgsmål. Og det helt store omdrejningspunkt blev ministeransvar.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Vært: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47858187</guid>
+         <pubDate>Thu, 09 Dec 2021 20:52:06 +0000</pubDate>
+         <enclosure length="33403342" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.12.09%20-%20S%C3%A5%20blev%20det%20statsministerens%20tur.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>På dag 22 i granskningskommissionen var det Mette Frederiksens tur til at svare på spørgsmål. Og det helt store omdrejningspunkt blev ministeransvar.
 Vært: Mathias Pedersen
-Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International...
-   </itunes:subtitle>
-   <itunes:summary>
-    På dag 22 i granskningskommissionen var det Mette Frederiksens tur til at svare på spørgsmål. Og det helt store omdrejningspunkt blev ministeransvar.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Vært: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    2084
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kommissionens utilstedelige spørgsmål
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kommissionens-utilstedelige-sporgsmal--47773414
-   </link>
-   <description>
-    På dag 21 var det Mette Frederiksens særlige rådgiver, Martin Justsens, tur til at tage plads i kommissionen. Og i dag måtte vi have en kort pause, fordi Justesen og sin bisidder skulle tage stilling til, hvorvidt de ville svare et spørgsmål, som Justesens bisidder mente var utilstedeligt.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47773414
-   </guid>
-   <pubDate>
-    Fri, 03 Dec 2021 18:06:48 +0000
-   </pubDate>
-   <enclosure length="23907727" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47773414/dag_21.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    På dag 21 var det Mette Frederiksens særlige rådgiver, Martin Justsens, tur til at tage plads i kommissionen. Og i dag måtte vi have en kort pause, fordi Justesen og sin bisidder skulle tage stilling til, hvorvidt de ville svare et spørgsmål, som...
-   </itunes:subtitle>
-   <itunes:summary>
-    På dag 21 var det Mette Frederiksens særlige rådgiver, Martin Justsens, tur til at tage plads i kommissionen. Og i dag måtte vi have en kort pause, fordi Justesen og sin bisidder skulle tage stilling til, hvorvidt de ville svare et spørgsmål, som Justesens bisidder mente var utilstedeligt.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1491
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Er Kåre Mølbak en fej kujon?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/er-kare-molbak-en-fej-kujon--47760515
-   </link>
-   <description>
-    Dag 20 bød på afhøring af den daværende departementschef, Per Okkels. Og her endte sms'er fra Barbara Bertelsen igen med at løbe med overskrifterne. Det var særligt en sms, hvor hun omtalte en kendt embedsmænd, der fik journalisternes taster i tilhørerlokalet til at klikke ekstra hurtigt.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47760515
-   </guid>
-   <pubDate>
-    Thu, 02 Dec 2021 21:20:38 +0000
-   </pubDate>
-   <enclosure length="35808279" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47760515/dag_20.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dag 20 bød på afhøring af den daværende departementschef, Per Okkels. Og her endte sms'er fra Barbara Bertelsen igen med at løbe med overskrifterne. Det var særligt en sms, hvor hun omtalte en kendt embedsmænd, der fik journalisternes taster i...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dag 20 bød på afhøring af den daværende departementschef, Per Okkels. Og her endte sms'er fra Barbara Bertelsen igen med at løbe med overskrifterne. Det var særligt en sms, hvor hun omtalte en kendt embedsmænd, der fik journalisternes taster i tilhørerlokalet til at klikke ekstra hurtigt.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    2234
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Er det kun fødevareministerens ansvar?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/er-det-kun-fodevareministerens-ansvar--47739017
-   </link>
-   <description>
-    Et af de tilbagevendende argumenter, som vi har hørt i granskningskommissionen er, at det er den pågældende ressortminister, der skal holdes ansvarlig, og i minksagen er det Mogens Jensen. Men det mener Frederik Waage, der er  juraprofessor  i forfatnings- og forvaltningsret, ikke man helt entydigt kan konkludere.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frederik Waage, juraprofessor  i forfatnings- og forvaltningsret, SDU&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47739017
-   </guid>
-   <pubDate>
-    Wed, 01 Dec 2021 15:21:17 +0000
-   </pubDate>
-   <enclosure length="20382659" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47739017/frederik_waage.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Et af de tilbagevendende argumenter, som vi har hørt i granskningskommissionen er, at det er den pågældende ressortminister, der skal holdes ansvarlig, og i minksagen er det Mogens Jensen. Men det mener Frederik Waage, der er  juraprofessor  i...
-   </itunes:subtitle>
-   <itunes:summary>
-    Et af de tilbagevendende argumenter, som vi har hørt i granskningskommissionen er, at det er den pågældende ressortminister, der skal holdes ansvarlig, og i minksagen er det Mogens Jensen. Men det mener Frederik Waage, der er  juraprofessor  i forfatnings- og forvaltningsret, ikke man helt entydigt kan konkludere.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frederik Waage, juraprofessor  i forfatnings- og forvaltningsret, SDU&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1270
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Magnus Heunickes notesbog
-   </title>
-   <link>
-    https://www.spreaker.com/episode/magnus-heunickes-notesbog--47671403
-   </link>
-   <description>
-    Dag 19 stod på hele to ministre i vidneskranken. Og selvom det blev til hele 9 timer i kommissionen, blev vi ikke færdige med Magnus Heunickes forklaring. Det skyldes blandt andet, at sundhedsministeren pludselig hev en notesblok ud af inderlommen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47671403
-   </guid>
-   <pubDate>
-    Fri, 26 Nov 2021 19:59:07 +0000
-   </pubDate>
-   <enclosure length="33666656" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47671403/heunicke_rettet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dag 19 stod på hele to ministre i vidneskranken. Og selvom det blev til hele 9 timer i kommissionen, blev vi ikke færdige med Magnus Heunickes forklaring. Det skyldes blandt andet, at sundhedsministeren pludselig hev en notesblok ud af inderlommen....
-   </itunes:subtitle>
-   <itunes:summary>
-    Dag 19 stod på hele to ministre i vidneskranken. Og selvom det blev til hele 9 timer i kommissionen, blev vi ikke færdige med Magnus Heunickes forklaring. Det skyldes blandt andet, at sundhedsministeren pludselig hev en notesblok ud af inderlommen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.
-   </itunes:summary>
-   <itunes:duration>
-    2101
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Når regningen pludselig eksploderer
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nar-regningen-pludselig-eksploderer--47659506
-   </link>
-   <description>
-    På dag 18 i granskningskommissionen fik vi indblik i, hvordan materialet til mødet i koordinationsudvalget d. 3. november, blev til. Derudover fik vi en forklaring på, hvordan en regning gik fra 10 millioner til 500 millioner kroner på blot 16 timer.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-International og tidligere pressechef for de konservative. &lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47659506
-   </guid>
-   <pubDate>
-    Thu, 25 Nov 2021 23:59:24 +0000
-   </pubDate>
-   <enclosure length="27191215" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47659506/regningen_eksplod_rettet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    På dag 18 i granskningskommissionen fik vi indblik i, hvordan materialet til mødet i koordinationsudvalget d. 3. november, blev til. Derudover fik vi en forklaring på, hvordan en regning gik fra 10 millioner til 500 millioner kroner på blot 16 timer....
-   </itunes:subtitle>
-   <itunes:summary>
-    På dag 18 i granskningskommissionen fik vi indblik i, hvordan materialet til mødet i koordinationsudvalget d. 3. november, blev til. Derudover fik vi en forklaring på, hvordan en regning gik fra 10 millioner til 500 millioner kroner på blot 16 timer.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-International og tidligere pressechef for de konservative. &lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1696
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Er regeringen for lidt transparent?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/er-regeringen-for-lidt-transparent--47620803
-   </link>
-   <description>
-    Spørgsmålene om de slettede sms’er i minkkommissionen er blevet en varmkartoffel for regeringen. Mette Frederiksen har forklaret, at hun ikke offentliggjorde resultatet af politiets undersøgelse før dagen efter kommunalvalget, da hun var optaget af nogle andre ting.&lt;br /&gt;Jesper Olsen er ekstern lektor i Offentlig Ret, og Formand Transparency International Denmark, og han mener, at regeringen undlader dele af sandheden, når de forklarer sig, og det er et problem for regeringens troværdighed.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Jesper Olsen, ekstern lektor i Offentlig Ret, og Formand Transparency International Denmark,&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47620803
-   </guid>
-   <pubDate>
-    Tue, 23 Nov 2021 15:10:05 +0000
-   </pubDate>
-   <enclosure length="20291962" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47620803/minkny.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Spørgsmålene om de slettede sms’er i minkkommissionen er blevet en varmkartoffel for regeringen. Mette Frederiksen har forklaret, at hun ikke offentliggjorde resultatet af politiets undersøgelse før dagen efter kommunalvalget, da hun var optaget af...
-   </itunes:subtitle>
-   <itunes:summary>
-    Spørgsmålene om de slettede sms’er i minkkommissionen er blevet en varmkartoffel for regeringen. Mette Frederiksen har forklaret, at hun ikke offentliggjorde resultatet af politiets undersøgelse før dagen efter kommunalvalget, da hun var optaget af nogle andre ting.&lt;br /&gt;Jesper Olsen er ekstern lektor i Offentlig Ret, og Formand Transparency International Denmark, og han mener, at regeringen undlader dele af sandheden, når de forklarer sig, og det er et problem for regeringens troværdighed.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Jesper Olsen, ekstern lektor i Offentlig Ret, og Formand Transparency International Denmark,&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1265
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    En syg minister og Mogens Jensens højre hånd
-   </title>
-   <link>
-    https://www.spreaker.com/episode/en-syg-minister-og-mogens-jensens-hojre-hand--47573157
-   </link>
-   <description>
-    Dag 16 og 17 blev to forholdsvist stille dage i granskningskommissionen ovenpå en lang maraton afhøring af Barbara Bertelsen. Men selv to stille dage i kommissionen byder alligevel på en afhøring af Justitsminister, Nick Hækkerup og Mogens Jensens højre hånd, Søren Andersen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-international og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47573157
-   </guid>
-   <pubDate>
-    Sat, 20 Nov 2021 16:13:42 +0000
-   </pubDate>
-   <enclosure length="35053445" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47573157/syg_minister_rettet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Dag 16 og 17 blev to forholdsvist stille dage i granskningskommissionen ovenpå en lang maraton afhøring af Barbara Bertelsen. Men selv to stille dage i kommissionen byder alligevel på en afhøring af Justitsminister, Nick Hækkerup og Mogens Jensens...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dag 16 og 17 blev to forholdsvist stille dage i granskningskommissionen ovenpå en lang maraton afhøring af Barbara Bertelsen. Men selv to stille dage i kommissionen byder alligevel på en afhøring af Justitsminister, Nick Hækkerup og Mogens Jensens højre hånd, Søren Andersen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-international og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    2187
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Departementschefen med de skarpe sms'er
-   </title>
-   <link>
-    https://www.spreaker.com/episode/departementschefen-med-de-skarpe-sms-er--47545200
-   </link>
-   <description>
-    På dag 15 i granskningskommissionen, var det omsider Barbara Bertelsen tur til at tage plads i afhøringsstolen. Det var en yderst velforberedt departementschef, der var mødt op i retten på Frederiksberg, der var fyldt op med journalister og interesserede tilhører.&lt;br /&gt;Vært: Mathias Pedersen.&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på POV-international og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47545200
-   </guid>
-   <pubDate>
-    Thu, 18 Nov 2021 21:25:56 +0000
-   </pubDate>
-   <enclosure length="32738369" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47545200/barbara_rettet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    På dag 15 i granskningskommissionen, var det omsider Barbara Bertelsen tur til at tage plads i afhøringsstolen. Det var en yderst velforberedt departementschef, der var mødt op i retten på Frederiksberg, der var fyldt op med journalister og...
-   </itunes:subtitle>
-   <itunes:summary>
-    På dag 15 i granskningskommissionen, var det omsider Barbara Bertelsen tur til at tage plads i afhøringsstolen. Det var en yderst velforberedt departementschef, der var mødt op i retten på Frederiksberg, der var fyldt op med journalister og interesserede tilhører.&lt;br /&gt;Vært: Mathias Pedersen.&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på POV-international og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    2043
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Heunickes bisidder mener ikke, at der er en sag
-   </title>
-   <link>
-    https://www.spreaker.com/episode/heunickes-bisidder-mener-ikke-at-der-er-en-sag--47522466
-   </link>
-   <description>
-    Jonas Christoffersen er bisidder for Magnus Heunicke i granskningskommissionen. Udover at være bisidder for Sundhedsministeren, er han Inger Støjbergs forsvarsadvokat i rigsretten. &lt;br /&gt;Og der er også visse ligheder i de to sager. Begge sager handler om, hvorvidt noget var en instruks eller ej. Derudover, mener Christoffersen, at der ikke er noget at komme efter i begge sager. Hør ham uddybe og fortælle om sin rolle som bisidder i granskningskommissionen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Jonas Christoffersen, bisidder for Magnus Heunicke&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47522466
-   </guid>
-   <pubDate>
-    Wed, 17 Nov 2021 16:46:23 +0000
-   </pubDate>
-   <enclosure length="24168116" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47522466/jonas_christoffersen_f_rdig.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Jonas Christoffersen er bisidder for Magnus Heunicke i granskningskommissionen. Udover at være bisidder for Sundhedsministeren, er han Inger Støjbergs forsvarsadvokat i rigsretten. 
-Og der er også visse ligheder i de to sager. Begge sager handler om,...
-   </itunes:subtitle>
-   <itunes:summary>
-    Jonas Christoffersen er bisidder for Magnus Heunicke i granskningskommissionen. Udover at være bisidder for Sundhedsministeren, er han Inger Støjbergs forsvarsadvokat i rigsretten. &lt;br /&gt;Og der er også visse ligheder i de to sager. Begge sager handler om, hvorvidt noget var en instruks eller ej. Derudover, mener Christoffersen, at der ikke er noget at komme efter i begge sager. Hør ham uddybe og fortælle om sin rolle som bisidder i granskningskommissionen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Jonas Christoffersen, bisidder for Magnus Heunicke&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1507
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hvem er "man"?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hvem-er-man--47461903
-   </link>
-   <description>
-    På dag 14 i granskningskommissionen, kom vi endnu en gang helt ind i i kernen af centraladministrationen. I dag var det blandt andre direktøren fra fødevarestyrelsens tur til at blive afhørt. Og han gik i rette med Mogens Jensens fortolkning af ordet "man" i pressemeddelesen, hvor man beklagede, at man havde sat gang i aflivningen af mink uden lovhjemmel.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-international og tidligere pressechef for konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47461903
-   </guid>
-   <pubDate>
-    Sat, 13 Nov 2021 22:56:23 +0000
-   </pubDate>
-   <enclosure length="30970819" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47461903/hvem_er_man_rettet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    På dag 14 i granskningskommissionen, kom vi endnu en gang helt ind i i kernen af centraladministrationen. I dag var det blandt andre direktøren fra fødevarestyrelsens tur til at blive afhørt. Og han gik i rette med Mogens Jensens fortolkning af ordet...
-   </itunes:subtitle>
-   <itunes:summary>
-    På dag 14 i granskningskommissionen, kom vi endnu en gang helt ind i i kernen af centraladministrationen. I dag var det blandt andre direktøren fra fødevarestyrelsens tur til at blive afhørt. Og han gik i rette med Mogens Jensens fortolkning af ordet "man" i pressemeddelesen, hvor man beklagede, at man havde sat gang i aflivningen af mink uden lovhjemmel.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-international og tidligere pressechef for konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1932
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hvem slettede i papirerne?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hvem-slettede-i-papirerne--47454980
-   </link>
-   <description>
-    Da papirerne blev sendt ud til deltagerne i koordinationsudvalgsmødet d. 3. november, manglede der en central beskrivelse af konsekvenserne for minkbranchen, hvis man slog alle mink ihjel. På dag 13 i granskningskommissionen kom det frem, hvem der havde slettet fødevareministeriets linjer om minkbranchens fremtid. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-international og tidligere pressechef for konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47454980
-   </guid>
-   <pubDate>
-    Sat, 13 Nov 2021 08:06:07 +0000
-   </pubDate>
-   <enclosure length="21047215" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47454980/efter_mogens_rettet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Da papirerne blev sendt ud til deltagerne i koordinationsudvalgsmødet d. 3. november, manglede der en central beskrivelse af konsekvenserne for minkbranchen, hvis man slog alle mink ihjel. På dag 13 i granskningskommissionen kom det frem, hvem der...
-   </itunes:subtitle>
-   <itunes:summary>
-    Da papirerne blev sendt ud til deltagerne i koordinationsudvalgsmødet d. 3. november, manglede der en central beskrivelse af konsekvenserne for minkbranchen, hvis man slog alle mink ihjel. På dag 13 i granskningskommissionen kom det frem, hvem der havde slettet fødevareministeriets linjer om minkbranchens fremtid. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-international og tidligere pressechef for konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1312
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Mogens Jensen i den varme stol
-   </title>
-   <link>
-    https://www.spreaker.com/episode/mogens-jensen-i-den-varme-stol--47433632
-   </link>
-   <description>
-    På dag 12 i granskningskommission, var det blevet den tidligere miljø- og fødevareminister, Mogens Jensens, tur til at sætte sig i afhøringsstolen.  &lt;br /&gt;Mogens Jensen spiller en central rolle i sagen, fordi han endte med at gå af som minister, da det stod klart, at regeringen ikke have hjemmel til at beslutte, at alle mink i Danmark skulle aflives.  &lt;br /&gt;Det blev til en 7 timers lang afhøring, hvor ét af de helt centrale spørgsmål blev, hvornår Mogens Jensen fik besked om den manglende lovhjemmel.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, der er politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47433632
-   </guid>
-   <pubDate>
-    Thu, 11 Nov 2021 23:30:49 +0000
-   </pubDate>
-   <enclosure length="26900315" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47433632/mogens_rettet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    På dag 12 i granskningskommission, var det blevet den tidligere miljø- og fødevareminister, Mogens Jensens, tur til at sætte sig i afhøringsstolen.  
-Mogens Jensen spiller en central rolle i sagen, fordi han endte med at gå af som minister, da det...
-   </itunes:subtitle>
-   <itunes:summary>
-    På dag 12 i granskningskommission, var det blevet den tidligere miljø- og fødevareminister, Mogens Jensens, tur til at sætte sig i afhøringsstolen.  &lt;br /&gt;Mogens Jensen spiller en central rolle i sagen, fordi han endte med at gå af som minister, da det stod klart, at regeringen ikke have hjemmel til at beslutte, at alle mink i Danmark skulle aflives.  &lt;br /&gt;Det blev til en 7 timers lang afhøring, hvor ét af de helt centrale spørgsmål blev, hvornår Mogens Jensen fik besked om den manglende lovhjemmel.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, der er politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1678
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Bliver §30 regeringens redningskrans?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/bliver-30-regeringens-redningskrans--47408471
-   </link>
-   <description>
-    Tage Siboni var med til at skrive den lov, som Statsministeriets bisiddere mener skal være regeringens redningskrans. Hør ham uddybe, hvorfor han mener, at loven om hold af dyr giver hjemmel til at slå alle mink ihjel i Danmark. &lt;br /&gt;Har embedsværket begivet sig ind på en farlig kurs, der kan true vores demokrati? Det mener Eva Smith, der er juraprofessor emerita ved Københavns Universitet. Hør hvorfor i denne episode af Mink-Pod.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: &lt;br /&gt;Tage Siboni, advokat og tidligere jurist i fødevareministeriet.&lt;br /&gt;Eva Smith, juraprofessor emerita ved Københavns Universitet.&lt;br /&gt;Redaktør: Pola Rojan Bagger.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47408471
-   </guid>
-   <pubDate>
-    Wed, 10 Nov 2021 14:28:29 +0000
-   </pubDate>
-   <enclosure length="24013889" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47408471/episode_8.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Tage Siboni var med til at skrive den lov, som Statsministeriets bisiddere mener skal være regeringens redningskrans. Hør ham uddybe, hvorfor han mener, at loven om hold af dyr giver hjemmel til at slå alle mink ihjel i Danmark. 
-Har embedsværket...
-   </itunes:subtitle>
-   <itunes:summary>
-    Tage Siboni var med til at skrive den lov, som Statsministeriets bisiddere mener skal være regeringens redningskrans. Hør ham uddybe, hvorfor han mener, at loven om hold af dyr giver hjemmel til at slå alle mink ihjel i Danmark. &lt;br /&gt;Har embedsværket begivet sig ind på en farlig kurs, der kan true vores demokrati? Det mener Eva Smith, der er juraprofessor emerita ved Københavns Universitet. Hør hvorfor i denne episode af Mink-Pod.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: &lt;br /&gt;Tage Siboni, advokat og tidligere jurist i fødevareministeriet.&lt;br /&gt;Eva Smith, juraprofessor emerita ved Københavns Universitet.&lt;br /&gt;Redaktør: Pola Rojan Bagger.
-   </itunes:summary>
-   <itunes:duration>
-    1497
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Fødevareministeriet går til modangreb
-   </title>
-   <link>
-    https://www.spreaker.com/episode/fodevareministeriet-gar-til-modangreb--47349386
-   </link>
-   <description>
-    Vi er nået til dag 11 i granskningskommissionen, hvor der i dag var to vidner på afhøringslisten. Men vi nåede aldrig til nummer to på listen, fordi vi den dag var vidne til en maraton afhøring af en af de meget centrale personer i sagen.&lt;br /&gt;Tejs Binderup var afdelingschef i det daværende Miljø- og Fødevareministerie, og i en otte timer lang afhøring, gik han til modgreb med flere overraskende detaljer.&lt;br /&gt;Vært: Mathias Pedersen &lt;br /&gt;Medvirkende: Frank Korsholm, der er politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47349386
-   </guid>
-   <pubDate>
-    Sat, 06 Nov 2021 18:39:23 +0000
-   </pubDate>
-   <enclosure length="26838875" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47349386/svar_p_spm_rettelse.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Vi er nået til dag 11 i granskningskommissionen, hvor der i dag var to vidner på afhøringslisten. Men vi nåede aldrig til nummer to på listen, fordi vi den dag var vidne til en maraton afhøring af en af de meget centrale personer i sagen.
-Tejs...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi er nået til dag 11 i granskningskommissionen, hvor der i dag var to vidner på afhøringslisten. Men vi nåede aldrig til nummer to på listen, fordi vi den dag var vidne til en maraton afhøring af en af de meget centrale personer i sagen.&lt;br /&gt;Tejs Binderup var afdelingschef i det daværende Miljø- og Fødevareministerie, og i en otte timer lang afhøring, gik han til modgreb med flere overraskende detaljer.&lt;br /&gt;Vært: Mathias Pedersen &lt;br /&gt;Medvirkende: Frank Korsholm, der er politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1674
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Vil du ikke godt bare svare på spørgsmålet?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/vil-du-ikke-godt-bare-svare-pa-sporgsmalet--47339202
-   </link>
-   <description>
-    Vi skal tilbage til granskningskommissionen, for i den her uge har der igen været afhøringer i retten på Frederiksberg, og denne gang var det en blanding af embedsmænd fra Justitsministeriet, Finansministeriet og Statsministeriet.&lt;br /&gt;Vi gennemgår kommissionens dag 9 og 10, der blandt andet bød på en mindre kamp mellem en af vidnerne og udspørgeren, Jakob Lund Poulsen.  &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47339202
-   </guid>
-   <pubDate>
-    Fri, 05 Nov 2021 22:36:57 +0000
-   </pubDate>
-   <enclosure length="24875720" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47339202/episode_5_rettet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Vi skal tilbage til granskningskommissionen, for i den her uge har der igen været afhøringer i retten på Frederiksberg, og denne gang var det en blanding af embedsmænd fra Justitsministeriet, Finansministeriet og Statsministeriet.
-Vi gennemgår...
-   </itunes:subtitle>
-   <itunes:summary>
-    Vi skal tilbage til granskningskommissionen, for i den her uge har der igen været afhøringer i retten på Frederiksberg, og denne gang var det en blanding af embedsmænd fra Justitsministeriet, Finansministeriet og Statsministeriet.&lt;br /&gt;Vi gennemgår kommissionens dag 9 og 10, der blandt andet bød på en mindre kamp mellem en af vidnerne og udspørgeren, Jakob Lund Poulsen.  &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1555
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    SMS-gate
-   </title>
-   <link>
-    https://www.spreaker.com/episode/sms-gate--47301979
-   </link>
-   <description>
-    Jacob Friberg er redaktionschef på B.T, og de var det første medie til at afsløre, at Mette Frederiksens spindoktor, Martin Justesen, havde slettet en sms-samtale fra de centrale dage, hvor ansvaret for minkskandalen skulle placeres.&lt;br /&gt;Hvem hvordan kom han på sporet af sms'erne, det kan du høre mere om i denne episode af Mink-Pod.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Jacob Friberg&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47301979
-   </guid>
-   <pubDate>
-    Wed, 03 Nov 2021 23:30:02 +0000
-   </pubDate>
-   <enclosure length="12822195" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47301979/sms_gate.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Jacob Friberg er redaktionschef på B.T, og de var det første medie til at afsløre, at Mette Frederiksens spindoktor, Martin Justesen, havde slettet en sms-samtale fra de centrale dage, hvor ansvaret for minkskandalen skulle placeres.
-Hvem hvordan kom...
-   </itunes:subtitle>
-   <itunes:summary>
-    Jacob Friberg er redaktionschef på B.T, og de var det første medie til at afsløre, at Mette Frederiksens spindoktor, Martin Justesen, havde slettet en sms-samtale fra de centrale dage, hvor ansvaret for minkskandalen skulle placeres.&lt;br /&gt;Hvem hvordan kom han på sporet af sms'erne, det kan du høre mere om i denne episode af Mink-Pod.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Jacob Friberg&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    802
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Var der pludselig lovhjemmel alligevel?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/var-der-pludselig-lovhjemmel-alligevel--47221071
-   </link>
-   <description>
-    I granskningskommissionens dag otte gik Statsministeriets bisiddere pludselig til angreb på en afgørende præmis for kommissionens arbejde. De mener nemlig, at der VAR hjemmel til at træffe beslutningen.&lt;br /&gt;På dag otte skulle de første embedsmænd fra Statsministeriet afhøres, og dagen bød traditionen tro på en sms fra Barbara Bertelsen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47221071
-   </guid>
-   <pubDate>
-    Fri, 29 Oct 2021 18:21:20 +0000
-   </pubDate>
-   <enclosure length="20640540" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47221071/episode_4_rettet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I granskningskommissionens dag otte gik Statsministeriets bisiddere pludselig til angreb på en afgørende præmis for kommissionens arbejde. De mener nemlig, at der VAR hjemmel til at træffe beslutningen.
-På dag otte skulle de første embedsmænd fra...
-   </itunes:subtitle>
-   <itunes:summary>
-    I granskningskommissionens dag otte gik Statsministeriets bisiddere pludselig til angreb på en afgørende præmis for kommissionens arbejde. De mener nemlig, at der VAR hjemmel til at træffe beslutningen.&lt;br /&gt;På dag otte skulle de første embedsmænd fra Statsministeriet afhøres, og dagen bød traditionen tro på en sms fra Barbara Bertelsen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1286
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Slettede sms'er og hvem får styr på lovhjemmelen?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/slettede-sms-er-og-hvem-far-styr-pa-lovhjemmelen--47204397
-   </link>
-   <description>
-    "Sagen lugter efterhånden værre end de nedgravede mink!" &lt;br /&gt;Sådan skriver den tidligere chefredaktør på Ekstrabladet, Poul Madsen, som reaktion på, at flere sms-korrespondancer fra topfolk i Statsministeriet er blevet slettet – heriblandt Statsministeren.&lt;br /&gt;Hør ham uddybe i tredje afsnit af Mink-pod, hvor vi også vender den syvende dag i granskningskommissionen, hvor lovhjemmelen er havnet mellem to stole.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: &lt;br /&gt;Poul Madsen, tidligere chefredaktør på Ekstrabladet&lt;br /&gt;Frank Korsholm, politisk redaktør på netmediet POV-international&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47204397
-   </guid>
-   <pubDate>
-    Thu, 28 Oct 2021 20:12:56 +0000
-   </pubDate>
-   <enclosure length="30752645" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47204397/episde_1_rettet.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    "Sagen lugter efterhånden værre end de nedgravede mink!" 
-Sådan skriver den tidligere chefredaktør på Ekstrabladet, Poul Madsen, som reaktion på, at flere sms-korrespondancer fra topfolk i Statsministeriet er blevet slettet – heriblandt...
-   </itunes:subtitle>
-   <itunes:summary>
-    "Sagen lugter efterhånden værre end de nedgravede mink!" &lt;br /&gt;Sådan skriver den tidligere chefredaktør på Ekstrabladet, Poul Madsen, som reaktion på, at flere sms-korrespondancer fra topfolk i Statsministeriet er blevet slettet – heriblandt Statsministeren.&lt;br /&gt;Hør ham uddybe i tredje afsnit af Mink-pod, hvor vi også vender den syvende dag i granskningskommissionen, hvor lovhjemmelen er havnet mellem to stole.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: &lt;br /&gt;Poul Madsen, tidligere chefredaktør på Ekstrabladet&lt;br /&gt;Frank Korsholm, politisk redaktør på netmediet POV-international&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1918
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hvilken departementschef bestemmer?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hvilken-departementschef-bestemmer--47182261
-   </link>
-   <description>
-    Hvad tænker to tidligere departementschefer om de manglende drøftelser om lovhjemmel og sms-korrespondancen mellem statsministeriets Barbara Bertelsen og Fødevareministeriets Henrik Studsgaard? &lt;br /&gt;Få et indblik i maskinrummet og magtens centrum med to tidligere departementschefer. &lt;br /&gt;Medvirkende: &lt;br /&gt;Jørgen Rosted, tidligere departementschef i Erhvervsministeriet. &lt;br /&gt;Agnete Gersing, tidligere departementschef i Uddannelses og forskningsministeriet. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47182261
-   </guid>
-   <pubDate>
-    Wed, 27 Oct 2021 14:36:32 +0000
-   </pubDate>
-   <enclosure length="29391352" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47182261/episode_1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Hvad tænker to tidligere departementschefer om de manglende drøftelser om lovhjemmel og sms-korrespondancen mellem statsministeriets Barbara Bertelsen og Fødevareministeriets Henrik Studsgaard? 
-Få et indblik i maskinrummet og magtens centrum med to...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvad tænker to tidligere departementschefer om de manglende drøftelser om lovhjemmel og sms-korrespondancen mellem statsministeriets Barbara Bertelsen og Fødevareministeriets Henrik Studsgaard? &lt;br /&gt;Få et indblik i maskinrummet og magtens centrum med to tidligere departementschefer. &lt;br /&gt;Medvirkende: &lt;br /&gt;Jørgen Rosted, tidligere departementschef i Erhvervsministeriet. &lt;br /&gt;Agnete Gersing, tidligere departementschef i Uddannelses og forskningsministeriet. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Redaktør: Pola Rojan Bagger
-   </itunes:summary>
-   <itunes:duration>
-    1833
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hvornår lægger I jer ned og ruller jer? (blinke-smiley)
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hvornar-laegger-i-jer-ned-og-ruller-jer-blinke-smiley--47113678
-   </link>
-   <description>
-    Journalist Sofie Ørts samler op på afhøringerne fredag den 22. oktober 2021. &lt;br /&gt;Vi er 6 dage inde i Kommissionens arbejde med at granske Mink-skandalen, og der er kommet saftige overraskelser. Sidst på ugen fik vi indsigt i en anspændt sms-korrespondance, der bl.a. giver os et indblik i Statsministeriets departementschef Barbara Berthelsens rækkevidde. &lt;br /&gt;Vi vender alle detaljerne med Frank Korsholm, politisk redaktør og tidl. spindoktor. &lt;br /&gt; &lt;br /&gt;Vært: Sofie Ørts&lt;br /&gt;Tilrettelægger: Josephine Romby.&lt;br /&gt;Redaktør: Pola Rojan Bagger.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/47113678
-   </guid>
-   <pubDate>
-    Sat, 23 Oct 2021 12:10:18 +0000
-   </pubDate>
-   <enclosure length="18828687" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/47113678/minkpod_1_med_redigeringer.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Journalist Sofie Ørts samler op på afhøringerne fredag den 22. oktober 2021. 
-Vi er 6 dage inde i Kommissionens arbejde med at granske Mink-skandalen, og der er kommet saftige overraskelser. Sidst på ugen fik vi indsigt i en anspændt...
-   </itunes:subtitle>
-   <itunes:summary>
-    Journalist Sofie Ørts samler op på afhøringerne fredag den 22. oktober 2021. &lt;br /&gt;Vi er 6 dage inde i Kommissionens arbejde med at granske Mink-skandalen, og der er kommet saftige overraskelser. Sidst på ugen fik vi indsigt i en anspændt sms-korrespondance, der bl.a. giver os et indblik i Statsministeriets departementschef Barbara Berthelsens rækkevidde. &lt;br /&gt;Vi vender alle detaljerne med Frank Korsholm, politisk redaktør og tidl. spindoktor. &lt;br /&gt; &lt;br /&gt;Vært: Sofie Ørts&lt;br /&gt;Tilrettelægger: Josephine Romby.&lt;br /&gt;Redaktør: Pola Rojan Bagger.
-   </itunes:summary>
-   <itunes:duration>
-    1177
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International...</itunes:subtitle>
+         <itunes:summary>På dag 22 i granskningskommissionen var det Mette Frederiksens tur til at svare på spørgsmål. Og det helt store omdrejningspunkt blev ministeransvar.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Vært: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>2084</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kommissionens utilstedelige spørgsmål</title>
+         <link>https://www.spreaker.com/episode/kommissionens-utilstedelige-sporgsmal--47773414</link>
+         <description>På dag 21 var det Mette Frederiksens særlige rådgiver, Martin Justsens, tur til at tage plads i kommissionen. Og i dag måtte vi have en kort pause, fordi Justesen og sin bisidder skulle tage stilling til, hvorvidt de ville svare et spørgsmål, som Justesens bisidder mente var utilstedeligt.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47773414</guid>
+         <pubDate>Fri, 03 Dec 2021 18:06:48 +0000</pubDate>
+         <enclosure length="23907727" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.12.03%20-%20Kommissionens%20utilstedelige%20sp%C3%B8rgsm%C3%A5l.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>På dag 21 var det Mette Frederiksens særlige rådgiver, Martin Justsens, tur til at tage plads i kommissionen. Og i dag måtte vi have en kort pause, fordi Justesen og sin bisidder skulle tage stilling til, hvorvidt de ville svare et spørgsmål, som...</itunes:subtitle>
+         <itunes:summary>På dag 21 var det Mette Frederiksens særlige rådgiver, Martin Justsens, tur til at tage plads i kommissionen. Og i dag måtte vi have en kort pause, fordi Justesen og sin bisidder skulle tage stilling til, hvorvidt de ville svare et spørgsmål, som Justesens bisidder mente var utilstedeligt.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1491</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Er Kåre Mølbak en fej kujon?</title>
+         <link>https://www.spreaker.com/episode/er-kare-molbak-en-fej-kujon--47760515</link>
+         <description>Dag 20 bød på afhøring af den daværende departementschef, Per Okkels. Og her endte sms'er fra Barbara Bertelsen igen med at løbe med overskrifterne. Det var særligt en sms, hvor hun omtalte en kendt embedsmænd, der fik journalisternes taster i tilhørerlokalet til at klikke ekstra hurtigt.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47760515</guid>
+         <pubDate>Thu, 02 Dec 2021 21:20:38 +0000</pubDate>
+         <enclosure length="35808279" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.12.02%20-%20Er%20K%C3%A5re%20M%C3%B8lbak%20en%20fej%20kujon.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dag 20 bød på afhøring af den daværende departementschef, Per Okkels. Og her endte sms'er fra Barbara Bertelsen igen med at løbe med overskrifterne. Det var særligt en sms, hvor hun omtalte en kendt embedsmænd, der fik journalisternes taster i...</itunes:subtitle>
+         <itunes:summary>Dag 20 bød på afhøring af den daværende departementschef, Per Okkels. Og her endte sms'er fra Barbara Bertelsen igen med at løbe med overskrifterne. Det var særligt en sms, hvor hun omtalte en kendt embedsmænd, der fik journalisternes taster i tilhørerlokalet til at klikke ekstra hurtigt.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV International og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>2234</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Er det kun fødevareministerens ansvar?</title>
+         <link>https://www.spreaker.com/episode/er-det-kun-fodevareministerens-ansvar--47739017</link>
+         <description>Et af de tilbagevendende argumenter, som vi har hørt i granskningskommissionen er, at det er den pågældende ressortminister, der skal holdes ansvarlig, og i minksagen er det Mogens Jensen. Men det mener Frederik Waage, der er  juraprofessor  i forfatnings- og forvaltningsret, ikke man helt entydigt kan konkludere.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frederik Waage, juraprofessor  i forfatnings- og forvaltningsret, SDU&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47739017</guid>
+         <pubDate>Wed, 01 Dec 2021 15:21:17 +0000</pubDate>
+         <enclosure length="20382659" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.12.01%20-%20Er%20det%20kun%20f%C3%B8devareministerens%20ansvar.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Et af de tilbagevendende argumenter, som vi har hørt i granskningskommissionen er, at det er den pågældende ressortminister, der skal holdes ansvarlig, og i minksagen er det Mogens Jensen. Men det mener Frederik Waage, der er  juraprofessor  i...</itunes:subtitle>
+         <itunes:summary>Et af de tilbagevendende argumenter, som vi har hørt i granskningskommissionen er, at det er den pågældende ressortminister, der skal holdes ansvarlig, og i minksagen er det Mogens Jensen. Men det mener Frederik Waage, der er  juraprofessor  i forfatnings- og forvaltningsret, ikke man helt entydigt kan konkludere.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frederik Waage, juraprofessor  i forfatnings- og forvaltningsret, SDU&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1270</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Magnus Heunickes notesbog</title>
+         <link>https://www.spreaker.com/episode/magnus-heunickes-notesbog--47671403</link>
+         <description>Dag 19 stod på hele to ministre i vidneskranken. Og selvom det blev til hele 9 timer i kommissionen, blev vi ikke færdige med Magnus Heunickes forklaring. Det skyldes blandt andet, at sundhedsministeren pludselig hev en notesblok ud af inderlommen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47671403</guid>
+         <pubDate>Fri, 26 Nov 2021 19:59:07 +0000</pubDate>
+         <enclosure length="33666656" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.26%20-%20Magnus%20Heunickes%20notesbog.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dag 19 stod på hele to ministre i vidneskranken. Og selvom det blev til hele 9 timer i kommissionen, blev vi ikke færdige med Magnus Heunickes forklaring. Det skyldes blandt andet, at sundhedsministeren pludselig hev en notesblok ud af inderlommen....</itunes:subtitle>
+         <itunes:summary>Dag 19 stod på hele to ministre i vidneskranken. Og selvom det blev til hele 9 timer i kommissionen, blev vi ikke færdige med Magnus Heunickes forklaring. Det skyldes blandt andet, at sundhedsministeren pludselig hev en notesblok ud af inderlommen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-International og tidligere pressechef for de konservative.</itunes:summary>
+         <itunes:duration>2101</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Når regningen pludselig eksploderer</title>
+         <link>https://www.spreaker.com/episode/nar-regningen-pludselig-eksploderer--47659506</link>
+         <description>På dag 18 i granskningskommissionen fik vi indblik i, hvordan materialet til mødet i koordinationsudvalget d. 3. november, blev til. Derudover fik vi en forklaring på, hvordan en regning gik fra 10 millioner til 500 millioner kroner på blot 16 timer.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-International og tidligere pressechef for de konservative. &lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47659506</guid>
+         <pubDate>Thu, 25 Nov 2021 23:59:24 +0000</pubDate>
+         <enclosure length="27191215" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.25%20-%20N%C3%A5r%20regningen%20pludselig%20eksploderer.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>På dag 18 i granskningskommissionen fik vi indblik i, hvordan materialet til mødet i koordinationsudvalget d. 3. november, blev til. Derudover fik vi en forklaring på, hvordan en regning gik fra 10 millioner til 500 millioner kroner på blot 16 timer....</itunes:subtitle>
+         <itunes:summary>På dag 18 i granskningskommissionen fik vi indblik i, hvordan materialet til mødet i koordinationsudvalget d. 3. november, blev til. Derudover fik vi en forklaring på, hvordan en regning gik fra 10 millioner til 500 millioner kroner på blot 16 timer.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-International og tidligere pressechef for de konservative. &lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1696</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Er regeringen for lidt transparent?</title>
+         <link>https://www.spreaker.com/episode/er-regeringen-for-lidt-transparent--47620803</link>
+         <description>Spørgsmålene om de slettede sms’er i minkkommissionen er blevet en varmkartoffel for regeringen. Mette Frederiksen har forklaret, at hun ikke offentliggjorde resultatet af politiets undersøgelse før dagen efter kommunalvalget, da hun var optaget af nogle andre ting.&lt;br /&gt;Jesper Olsen er ekstern lektor i Offentlig Ret, og Formand Transparency International Denmark, og han mener, at regeringen undlader dele af sandheden, når de forklarer sig, og det er et problem for regeringens troværdighed.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Jesper Olsen, ekstern lektor i Offentlig Ret, og Formand Transparency International Denmark,&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47620803</guid>
+         <pubDate>Tue, 23 Nov 2021 15:10:05 +0000</pubDate>
+         <enclosure length="20291962" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.23%20-%20Er%20regeringen%20for%20lidt%20transparent.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Spørgsmålene om de slettede sms’er i minkkommissionen er blevet en varmkartoffel for regeringen. Mette Frederiksen har forklaret, at hun ikke offentliggjorde resultatet af politiets undersøgelse før dagen efter kommunalvalget, da hun var optaget af...</itunes:subtitle>
+         <itunes:summary>Spørgsmålene om de slettede sms’er i minkkommissionen er blevet en varmkartoffel for regeringen. Mette Frederiksen har forklaret, at hun ikke offentliggjorde resultatet af politiets undersøgelse før dagen efter kommunalvalget, da hun var optaget af nogle andre ting.&lt;br /&gt;Jesper Olsen er ekstern lektor i Offentlig Ret, og Formand Transparency International Denmark, og han mener, at regeringen undlader dele af sandheden, når de forklarer sig, og det er et problem for regeringens troværdighed.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Jesper Olsen, ekstern lektor i Offentlig Ret, og Formand Transparency International Denmark,&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1265</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>En syg minister og Mogens Jensens højre hånd</title>
+         <link>https://www.spreaker.com/episode/en-syg-minister-og-mogens-jensens-hojre-hand--47573157</link>
+         <description>Dag 16 og 17 blev to forholdsvist stille dage i granskningskommissionen ovenpå en lang maraton afhøring af Barbara Bertelsen. Men selv to stille dage i kommissionen byder alligevel på en afhøring af Justitsminister, Nick Hækkerup og Mogens Jensens højre hånd, Søren Andersen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-international og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47573157</guid>
+         <pubDate>Sat, 20 Nov 2021 16:13:42 +0000</pubDate>
+         <enclosure length="35053445" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.20%20-%20En%20syg%20minister%20og%20Mogens%20Jensens%20h%C3%B8jre%20h%C3%A5nd.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Dag 16 og 17 blev to forholdsvist stille dage i granskningskommissionen ovenpå en lang maraton afhøring af Barbara Bertelsen. Men selv to stille dage i kommissionen byder alligevel på en afhøring af Justitsminister, Nick Hækkerup og Mogens Jensens...</itunes:subtitle>
+         <itunes:summary>Dag 16 og 17 blev to forholdsvist stille dage i granskningskommissionen ovenpå en lang maraton afhøring af Barbara Bertelsen. Men selv to stille dage i kommissionen byder alligevel på en afhøring af Justitsminister, Nick Hækkerup og Mogens Jensens højre hånd, Søren Andersen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-international og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>2187</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Departementschefen med de skarpe sms'er</title>
+         <link>https://www.spreaker.com/episode/departementschefen-med-de-skarpe-sms-er--47545200</link>
+         <description>På dag 15 i granskningskommissionen, var det omsider Barbara Bertelsen tur til at tage plads i afhøringsstolen. Det var en yderst velforberedt departementschef, der var mødt op i retten på Frederiksberg, der var fyldt op med journalister og interesserede tilhører.&lt;br /&gt;Vært: Mathias Pedersen.&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på POV-international og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47545200</guid>
+         <pubDate>Thu, 18 Nov 2021 21:25:56 +0000</pubDate>
+         <enclosure length="32738369" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.18%20-%20Departementschefen%20med%20de%20skarpe%20sms%27er.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>På dag 15 i granskningskommissionen, var det omsider Barbara Bertelsen tur til at tage plads i afhøringsstolen. Det var en yderst velforberedt departementschef, der var mødt op i retten på Frederiksberg, der var fyldt op med journalister og...</itunes:subtitle>
+         <itunes:summary>På dag 15 i granskningskommissionen, var det omsider Barbara Bertelsen tur til at tage plads i afhøringsstolen. Det var en yderst velforberedt departementschef, der var mødt op i retten på Frederiksberg, der var fyldt op med journalister og interesserede tilhører.&lt;br /&gt;Vært: Mathias Pedersen.&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på POV-international og tidligere pressechef for de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>2043</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Heunickes bisidder mener ikke, at der er en sag</title>
+         <link>https://www.spreaker.com/episode/heunickes-bisidder-mener-ikke-at-der-er-en-sag--47522466</link>
+         <description>Jonas Christoffersen er bisidder for Magnus Heunicke i granskningskommissionen. Udover at være bisidder for Sundhedsministeren, er han Inger Støjbergs forsvarsadvokat i rigsretten. &lt;br /&gt;Og der er også visse ligheder i de to sager. Begge sager handler om, hvorvidt noget var en instruks eller ej. Derudover, mener Christoffersen, at der ikke er noget at komme efter i begge sager. Hør ham uddybe og fortælle om sin rolle som bisidder i granskningskommissionen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Jonas Christoffersen, bisidder for Magnus Heunicke&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47522466</guid>
+         <pubDate>Wed, 17 Nov 2021 16:46:23 +0000</pubDate>
+         <enclosure length="24168116" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.17%20-%20Heunickes%20bisidder%20mener%20ikke%2C%20at%20der%20er%20en%20sag.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Jonas Christoffersen er bisidder for Magnus Heunicke i granskningskommissionen. Udover at være bisidder for Sundhedsministeren, er han Inger Støjbergs forsvarsadvokat i rigsretten. 
+Og der er også visse ligheder i de to sager. Begge sager handler om,...</itunes:subtitle>
+         <itunes:summary>Jonas Christoffersen er bisidder for Magnus Heunicke i granskningskommissionen. Udover at være bisidder for Sundhedsministeren, er han Inger Støjbergs forsvarsadvokat i rigsretten. &lt;br /&gt;Og der er også visse ligheder i de to sager. Begge sager handler om, hvorvidt noget var en instruks eller ej. Derudover, mener Christoffersen, at der ikke er noget at komme efter i begge sager. Hør ham uddybe og fortælle om sin rolle som bisidder i granskningskommissionen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Jonas Christoffersen, bisidder for Magnus Heunicke&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1507</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hvem er "man"?</title>
+         <link>https://www.spreaker.com/episode/hvem-er-man--47461903</link>
+         <description>På dag 14 i granskningskommissionen, kom vi endnu en gang helt ind i i kernen af centraladministrationen. I dag var det blandt andre direktøren fra fødevarestyrelsens tur til at blive afhørt. Og han gik i rette med Mogens Jensens fortolkning af ordet "man" i pressemeddelesen, hvor man beklagede, at man havde sat gang i aflivningen af mink uden lovhjemmel.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-international og tidligere pressechef for konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47461903</guid>
+         <pubDate>Sat, 13 Nov 2021 22:56:23 +0000</pubDate>
+         <enclosure length="30970819" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.13%20-%20Hvem%20slettede%20i%20papirerne.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>På dag 14 i granskningskommissionen, kom vi endnu en gang helt ind i i kernen af centraladministrationen. I dag var det blandt andre direktøren fra fødevarestyrelsens tur til at blive afhørt. Og han gik i rette med Mogens Jensens fortolkning af ordet...</itunes:subtitle>
+         <itunes:summary>På dag 14 i granskningskommissionen, kom vi endnu en gang helt ind i i kernen af centraladministrationen. I dag var det blandt andre direktøren fra fødevarestyrelsens tur til at blive afhørt. Og han gik i rette med Mogens Jensens fortolkning af ordet "man" i pressemeddelesen, hvor man beklagede, at man havde sat gang i aflivningen af mink uden lovhjemmel.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-international og tidligere pressechef for konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1932</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hvem slettede i papirerne?</title>
+         <link>https://www.spreaker.com/episode/hvem-slettede-i-papirerne--47454980</link>
+         <description>Da papirerne blev sendt ud til deltagerne i koordinationsudvalgsmødet d. 3. november, manglede der en central beskrivelse af konsekvenserne for minkbranchen, hvis man slog alle mink ihjel. På dag 13 i granskningskommissionen kom det frem, hvem der havde slettet fødevareministeriets linjer om minkbranchens fremtid. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-international og tidligere pressechef for konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47454980</guid>
+         <pubDate>Sat, 13 Nov 2021 08:06:07 +0000</pubDate>
+         <enclosure length="21047215" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.13%20-%20Hvem%20er%20.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Da papirerne blev sendt ud til deltagerne i koordinationsudvalgsmødet d. 3. november, manglede der en central beskrivelse af konsekvenserne for minkbranchen, hvis man slog alle mink ihjel. På dag 13 i granskningskommissionen kom det frem, hvem der...</itunes:subtitle>
+         <itunes:summary>Da papirerne blev sendt ud til deltagerne i koordinationsudvalgsmødet d. 3. november, manglede der en central beskrivelse af konsekvenserne for minkbranchen, hvis man slog alle mink ihjel. På dag 13 i granskningskommissionen kom det frem, hvem der havde slettet fødevareministeriets linjer om minkbranchens fremtid. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politiskredaktør på netmediet POV-international og tidligere pressechef for konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1312</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Mogens Jensen i den varme stol</title>
+         <link>https://www.spreaker.com/episode/mogens-jensen-i-den-varme-stol--47433632</link>
+         <description>På dag 12 i granskningskommission, var det blevet den tidligere miljø- og fødevareminister, Mogens Jensens, tur til at sætte sig i afhøringsstolen.  &lt;br /&gt;Mogens Jensen spiller en central rolle i sagen, fordi han endte med at gå af som minister, da det stod klart, at regeringen ikke have hjemmel til at beslutte, at alle mink i Danmark skulle aflives.  &lt;br /&gt;Det blev til en 7 timers lang afhøring, hvor ét af de helt centrale spørgsmål blev, hvornår Mogens Jensen fik besked om den manglende lovhjemmel.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, der er politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47433632</guid>
+         <pubDate>Thu, 11 Nov 2021 23:30:49 +0000</pubDate>
+         <enclosure length="26900315" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.11%20-%20Mogens%20Jensen%20i%20den%20varme%20stol.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>På dag 12 i granskningskommission, var det blevet den tidligere miljø- og fødevareminister, Mogens Jensens, tur til at sætte sig i afhøringsstolen.  
+Mogens Jensen spiller en central rolle i sagen, fordi han endte med at gå af som minister, da det...</itunes:subtitle>
+         <itunes:summary>På dag 12 i granskningskommission, var det blevet den tidligere miljø- og fødevareminister, Mogens Jensens, tur til at sætte sig i afhøringsstolen.  &lt;br /&gt;Mogens Jensen spiller en central rolle i sagen, fordi han endte med at gå af som minister, da det stod klart, at regeringen ikke have hjemmel til at beslutte, at alle mink i Danmark skulle aflives.  &lt;br /&gt;Det blev til en 7 timers lang afhøring, hvor ét af de helt centrale spørgsmål blev, hvornår Mogens Jensen fik besked om den manglende lovhjemmel.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, der er politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1678</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Bliver §30 regeringens redningskrans?</title>
+         <link>https://www.spreaker.com/episode/bliver-30-regeringens-redningskrans--47408471</link>
+         <description>Tage Siboni var med til at skrive den lov, som Statsministeriets bisiddere mener skal være regeringens redningskrans. Hør ham uddybe, hvorfor han mener, at loven om hold af dyr giver hjemmel til at slå alle mink ihjel i Danmark. &lt;br /&gt;Har embedsværket begivet sig ind på en farlig kurs, der kan true vores demokrati? Det mener Eva Smith, der er juraprofessor emerita ved Københavns Universitet. Hør hvorfor i denne episode af Mink-Pod.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: &lt;br /&gt;Tage Siboni, advokat og tidligere jurist i fødevareministeriet.&lt;br /&gt;Eva Smith, juraprofessor emerita ved Københavns Universitet.&lt;br /&gt;Redaktør: Pola Rojan Bagger.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47408471</guid>
+         <pubDate>Wed, 10 Nov 2021 14:28:29 +0000</pubDate>
+         <enclosure length="24013889" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.10%20-%20Bliver%20%C2%A730%20regeringens%20redningskrans.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Tage Siboni var med til at skrive den lov, som Statsministeriets bisiddere mener skal være regeringens redningskrans. Hør ham uddybe, hvorfor han mener, at loven om hold af dyr giver hjemmel til at slå alle mink ihjel i Danmark. 
+Har embedsværket...</itunes:subtitle>
+         <itunes:summary>Tage Siboni var med til at skrive den lov, som Statsministeriets bisiddere mener skal være regeringens redningskrans. Hør ham uddybe, hvorfor han mener, at loven om hold af dyr giver hjemmel til at slå alle mink ihjel i Danmark. &lt;br /&gt;Har embedsværket begivet sig ind på en farlig kurs, der kan true vores demokrati? Det mener Eva Smith, der er juraprofessor emerita ved Københavns Universitet. Hør hvorfor i denne episode af Mink-Pod.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: &lt;br /&gt;Tage Siboni, advokat og tidligere jurist i fødevareministeriet.&lt;br /&gt;Eva Smith, juraprofessor emerita ved Københavns Universitet.&lt;br /&gt;Redaktør: Pola Rojan Bagger.</itunes:summary>
+         <itunes:duration>1497</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Fødevareministeriet går til modangreb</title>
+         <link>https://www.spreaker.com/episode/fodevareministeriet-gar-til-modangreb--47349386</link>
+         <description>Vi er nået til dag 11 i granskningskommissionen, hvor der i dag var to vidner på afhøringslisten. Men vi nåede aldrig til nummer to på listen, fordi vi den dag var vidne til en maraton afhøring af en af de meget centrale personer i sagen.&lt;br /&gt;Tejs Binderup var afdelingschef i det daværende Miljø- og Fødevareministerie, og i en otte timer lang afhøring, gik han til modgreb med flere overraskende detaljer.&lt;br /&gt;Vært: Mathias Pedersen &lt;br /&gt;Medvirkende: Frank Korsholm, der er politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47349386</guid>
+         <pubDate>Sat, 06 Nov 2021 18:39:23 +0000</pubDate>
+         <enclosure length="26838875" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.06%20-%20F%C3%B8devareministeriet%20g%C3%A5r%20til%20modangreb.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Vi er nået til dag 11 i granskningskommissionen, hvor der i dag var to vidner på afhøringslisten. Men vi nåede aldrig til nummer to på listen, fordi vi den dag var vidne til en maraton afhøring af en af de meget centrale personer i sagen.
+Tejs...</itunes:subtitle>
+         <itunes:summary>Vi er nået til dag 11 i granskningskommissionen, hvor der i dag var to vidner på afhøringslisten. Men vi nåede aldrig til nummer to på listen, fordi vi den dag var vidne til en maraton afhøring af en af de meget centrale personer i sagen.&lt;br /&gt;Tejs Binderup var afdelingschef i det daværende Miljø- og Fødevareministerie, og i en otte timer lang afhøring, gik han til modgreb med flere overraskende detaljer.&lt;br /&gt;Vært: Mathias Pedersen &lt;br /&gt;Medvirkende: Frank Korsholm, der er politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1674</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Vil du ikke godt bare svare på spørgsmålet?</title>
+         <link>https://www.spreaker.com/episode/vil-du-ikke-godt-bare-svare-pa-sporgsmalet--47339202</link>
+         <description>Vi skal tilbage til granskningskommissionen, for i den her uge har der igen været afhøringer i retten på Frederiksberg, og denne gang var det en blanding af embedsmænd fra Justitsministeriet, Finansministeriet og Statsministeriet.&lt;br /&gt;Vi gennemgår kommissionens dag 9 og 10, der blandt andet bød på en mindre kamp mellem en af vidnerne og udspørgeren, Jakob Lund Poulsen.  &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47339202</guid>
+         <pubDate>Fri, 05 Nov 2021 22:36:57 +0000</pubDate>
+         <enclosure length="24875720" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.05%20-%20Vil%20du%20ikke%20godt%20bare%20svare%20p%C3%A5%20sp%C3%B8rgsm%C3%A5let.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Vi skal tilbage til granskningskommissionen, for i den her uge har der igen været afhøringer i retten på Frederiksberg, og denne gang var det en blanding af embedsmænd fra Justitsministeriet, Finansministeriet og Statsministeriet.
+Vi gennemgår...</itunes:subtitle>
+         <itunes:summary>Vi skal tilbage til granskningskommissionen, for i den her uge har der igen været afhøringer i retten på Frederiksberg, og denne gang var det en blanding af embedsmænd fra Justitsministeriet, Finansministeriet og Statsministeriet.&lt;br /&gt;Vi gennemgår kommissionens dag 9 og 10, der blandt andet bød på en mindre kamp mellem en af vidnerne og udspørgeren, Jakob Lund Poulsen.  &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1555</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>SMS-gate</title>
+         <link>https://www.spreaker.com/episode/sms-gate--47301979</link>
+         <description>Jacob Friberg er redaktionschef på B.T, og de var det første medie til at afsløre, at Mette Frederiksens spindoktor, Martin Justesen, havde slettet en sms-samtale fra de centrale dage, hvor ansvaret for minkskandalen skulle placeres.&lt;br /&gt;Hvem hvordan kom han på sporet af sms'erne, det kan du høre mere om i denne episode af Mink-Pod.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Jacob Friberg&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47301979</guid>
+         <pubDate>Wed, 03 Nov 2021 23:30:02 +0000</pubDate>
+         <enclosure length="12822195" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.11.03%20-%20SMS-gate.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Jacob Friberg er redaktionschef på B.T, og de var det første medie til at afsløre, at Mette Frederiksens spindoktor, Martin Justesen, havde slettet en sms-samtale fra de centrale dage, hvor ansvaret for minkskandalen skulle placeres.
+Hvem hvordan kom...</itunes:subtitle>
+         <itunes:summary>Jacob Friberg er redaktionschef på B.T, og de var det første medie til at afsløre, at Mette Frederiksens spindoktor, Martin Justesen, havde slettet en sms-samtale fra de centrale dage, hvor ansvaret for minkskandalen skulle placeres.&lt;br /&gt;Hvem hvordan kom han på sporet af sms'erne, det kan du høre mere om i denne episode af Mink-Pod.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Jacob Friberg&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>802</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Var der pludselig lovhjemmel alligevel?</title>
+         <link>https://www.spreaker.com/episode/var-der-pludselig-lovhjemmel-alligevel--47221071</link>
+         <description>I granskningskommissionens dag otte gik Statsministeriets bisiddere pludselig til angreb på en afgørende præmis for kommissionens arbejde. De mener nemlig, at der VAR hjemmel til at træffe beslutningen.&lt;br /&gt;På dag otte skulle de første embedsmænd fra Statsministeriet afhøres, og dagen bød traditionen tro på en sms fra Barbara Bertelsen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47221071</guid>
+         <pubDate>Fri, 29 Oct 2021 18:21:20 +0000</pubDate>
+         <enclosure length="20640540" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.10.29%20-%20Var%20der%20pludselig%20lovhjemmel%20alligevel.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I granskningskommissionens dag otte gik Statsministeriets bisiddere pludselig til angreb på en afgørende præmis for kommissionens arbejde. De mener nemlig, at der VAR hjemmel til at træffe beslutningen.
+På dag otte skulle de første embedsmænd fra...</itunes:subtitle>
+         <itunes:summary>I granskningskommissionens dag otte gik Statsministeriets bisiddere pludselig til angreb på en afgørende præmis for kommissionens arbejde. De mener nemlig, at der VAR hjemmel til at træffe beslutningen.&lt;br /&gt;På dag otte skulle de første embedsmænd fra Statsministeriet afhøres, og dagen bød traditionen tro på en sms fra Barbara Bertelsen.&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: Frank Korsholm, politisk redaktør på netmediet POV-international og tidligere pressechef og politiskrådgiver hos de konservative.&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1286</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Slettede sms'er og hvem får styr på lovhjemmelen?</title>
+         <link>https://www.spreaker.com/episode/slettede-sms-er-og-hvem-far-styr-pa-lovhjemmelen--47204397</link>
+         <description>"Sagen lugter efterhånden værre end de nedgravede mink!" &lt;br /&gt;Sådan skriver den tidligere chefredaktør på Ekstrabladet, Poul Madsen, som reaktion på, at flere sms-korrespondancer fra topfolk i Statsministeriet er blevet slettet – heriblandt Statsministeren.&lt;br /&gt;Hør ham uddybe i tredje afsnit af Mink-pod, hvor vi også vender den syvende dag i granskningskommissionen, hvor lovhjemmelen er havnet mellem to stole.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: &lt;br /&gt;Poul Madsen, tidligere chefredaktør på Ekstrabladet&lt;br /&gt;Frank Korsholm, politisk redaktør på netmediet POV-international&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47204397</guid>
+         <pubDate>Thu, 28 Oct 2021 20:12:56 +0000</pubDate>
+         <enclosure length="30752645" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.10.28%20-%20Slettede%20sms%27er%20og%20hvem%20f%C3%A5r%20styr%20p%C3%A5%20lovhjemmelen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>"Sagen lugter efterhånden værre end de nedgravede mink!" 
+Sådan skriver den tidligere chefredaktør på Ekstrabladet, Poul Madsen, som reaktion på, at flere sms-korrespondancer fra topfolk i Statsministeriet er blevet slettet – heriblandt...</itunes:subtitle>
+         <itunes:summary>"Sagen lugter efterhånden værre end de nedgravede mink!" &lt;br /&gt;Sådan skriver den tidligere chefredaktør på Ekstrabladet, Poul Madsen, som reaktion på, at flere sms-korrespondancer fra topfolk i Statsministeriet er blevet slettet – heriblandt Statsministeren.&lt;br /&gt;Hør ham uddybe i tredje afsnit af Mink-pod, hvor vi også vender den syvende dag i granskningskommissionen, hvor lovhjemmelen er havnet mellem to stole.&lt;br /&gt;&lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Medvirkende: &lt;br /&gt;Poul Madsen, tidligere chefredaktør på Ekstrabladet&lt;br /&gt;Frank Korsholm, politisk redaktør på netmediet POV-international&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1918</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hvilken departementschef bestemmer?</title>
+         <link>https://www.spreaker.com/episode/hvilken-departementschef-bestemmer--47182261</link>
+         <description>Hvad tænker to tidligere departementschefer om de manglende drøftelser om lovhjemmel og sms-korrespondancen mellem statsministeriets Barbara Bertelsen og Fødevareministeriets Henrik Studsgaard? &lt;br /&gt;Få et indblik i maskinrummet og magtens centrum med to tidligere departementschefer. &lt;br /&gt;Medvirkende: &lt;br /&gt;Jørgen Rosted, tidligere departementschef i Erhvervsministeriet. &lt;br /&gt;Agnete Gersing, tidligere departementschef i Uddannelses og forskningsministeriet. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Redaktør: Pola Rojan Bagger</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47182261</guid>
+         <pubDate>Wed, 27 Oct 2021 14:36:32 +0000</pubDate>
+         <enclosure length="29391352" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.10.27%20-%20Hvilken%20departementschef%20bestemmer.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Hvad tænker to tidligere departementschefer om de manglende drøftelser om lovhjemmel og sms-korrespondancen mellem statsministeriets Barbara Bertelsen og Fødevareministeriets Henrik Studsgaard? 
+Få et indblik i maskinrummet og magtens centrum med to...</itunes:subtitle>
+         <itunes:summary>Hvad tænker to tidligere departementschefer om de manglende drøftelser om lovhjemmel og sms-korrespondancen mellem statsministeriets Barbara Bertelsen og Fødevareministeriets Henrik Studsgaard? &lt;br /&gt;Få et indblik i maskinrummet og magtens centrum med to tidligere departementschefer. &lt;br /&gt;Medvirkende: &lt;br /&gt;Jørgen Rosted, tidligere departementschef i Erhvervsministeriet. &lt;br /&gt;Agnete Gersing, tidligere departementschef i Uddannelses og forskningsministeriet. &lt;br /&gt;Vært: Mathias Pedersen&lt;br /&gt;Redaktør: Pola Rojan Bagger</itunes:summary>
+         <itunes:duration>1833</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hvornår lægger I jer ned og ruller jer? (blinke-smiley)</title>
+         <link>https://www.spreaker.com/episode/hvornar-laegger-i-jer-ned-og-ruller-jer-blinke-smiley--47113678</link>
+         <description>Journalist Sofie Ørts samler op på afhøringerne fredag den 22. oktober 2021. &lt;br /&gt;Vi er 6 dage inde i Kommissionens arbejde med at granske Mink-skandalen, og der er kommet saftige overraskelser. Sidst på ugen fik vi indsigt i en anspændt sms-korrespondance, der bl.a. giver os et indblik i Statsministeriets departementschef Barbara Berthelsens rækkevidde. &lt;br /&gt;Vi vender alle detaljerne med Frank Korsholm, politisk redaktør og tidl. spindoktor. &lt;br /&gt; &lt;br /&gt;Vært: Sofie Ørts&lt;br /&gt;Tilrettelægger: Josephine Romby.&lt;br /&gt;Redaktør: Pola Rojan Bagger.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/47113678</guid>
+         <pubDate>Sat, 23 Oct 2021 12:10:18 +0000</pubDate>
+         <enclosure length="18828687" type="audio/mpeg" url="https://archive.org/download/mink-pod/Mink-pod/2021.10.23%20-%20Hvorn%C3%A5r%20l%C3%A6gger%20I%20jer%20ned%20og%20ruller%20jer.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Journalist Sofie Ørts samler op på afhøringerne fredag den 22. oktober 2021. 
+Vi er 6 dage inde i Kommissionens arbejde med at granske Mink-skandalen, og der er kommet saftige overraskelser. Sidst på ugen fik vi indsigt i en anspændt...</itunes:subtitle>
+         <itunes:summary>Journalist Sofie Ørts samler op på afhøringerne fredag den 22. oktober 2021. &lt;br /&gt;Vi er 6 dage inde i Kommissionens arbejde med at granske Mink-skandalen, og der er kommet saftige overraskelser. Sidst på ugen fik vi indsigt i en anspændt sms-korrespondance, der bl.a. giver os et indblik i Statsministeriets departementschef Barbara Berthelsens rækkevidde. &lt;br /&gt;Vi vender alle detaljerne med Frank Korsholm, politisk redaktør og tidl. spindoktor. &lt;br /&gt; &lt;br /&gt;Vært: Sofie Ørts&lt;br /&gt;Tilrettelægger: Josephine Romby.&lt;br /&gt;Redaktør: Pola Rojan Bagger.</itunes:summary>
+         <itunes:duration>1177</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6f5b9ee82f06fc4a600b3b386852d08f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>
