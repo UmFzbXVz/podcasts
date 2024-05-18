@@ -1,15 +1,15 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Weekendavisens Hjemmeskole</title>
-		<link>https://web.24syv.dk/channels/4874</link>
-		<description>For at give adspredelse til matrikellivet under nedlukningen introducerer vi nu Weekendavisens Hjemmeskole. Hver uge giver én gæstelærer fem små lektioner om det, de ved mest om og har lyst til at fortælle om. Så De ikke sumper hen under hjemmelivet.  Bliv klogere på fem polarekspeditioner med geolog Minik Rosing, på fem store russiske komponister med Frederik Cilius eller på fem klaverkoncerter med pianist Kathrine Gislinge.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/714/image.jpg"/>
-		<item>
-			<title>Lykke-Per blev Carsten Jensens livsledsager</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/b091ccea-a495-4beb-a6d4-ad7f009b4f26/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Forfatter Carsten Jensen stiftede bekendtskab med Henrik Pontoppidans Lykke-Per, da han var 14 år.
+   <channel>
+      <title>Weekendavisens Hjemmeskole</title>
+      <link>https://web.24syv.dk/channels/4874</link>
+      <description>For at give adspredelse til matrikellivet under nedlukningen introducerer vi nu Weekendavisens Hjemmeskole. Hver uge giver én gæstelærer fem små lektioner om det, de ved mest om og har lyst til at fortælle om. Så De ikke sumper hen under hjemmelivet.  Bliv klogere på fem polarekspeditioner med geolog Minik Rosing, på fem store russiske komponister med Frederik Cilius eller på fem klaverkoncerter med pianist Kathrine Gislinge.</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/image.jpg" />
+      <item>
+         <title>Lykke-Per blev Carsten Jensens livsledsager</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/b091ccea-a495-4beb-a6d4-ad7f009b4f26/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Forfatter Carsten Jensen stiftede bekendtskab med Henrik Pontoppidans Lykke-Per, da han var 14 år.
 
 Allerede dengang var der noget genkendeligt i Lykke-Pers udlængsel og idéen om, at man skal blive til noget i livet.
 
@@ -18,15 +18,15 @@ Romanen gav ham ikke en opskrift på, hvordan han selv burde leve sit liv, men h
 I dag har han samme syn på udnævnte autoriteter, som Lykke-Per havde på etatsrådet.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/b091ccea-a495-4beb-a6d4-ad7f009b4f26/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 13 Aug 2021 04:11:52 +0000</pubDate>
-			<itunes:duration>00:15:34</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/b091ccea-a495-4beb-a6d4-ad7f009b4f26/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Tolstoy tager os alvorligt</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/9b5e5b5a-64e8-4f1b-9ff9-ad7f009ca4d2/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Carsten Jensen var bare 13 år, da han besluttede sig for at kæmpe sig igennem Leo Tolstojs 1500-siders Krig og fred.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/b091ccea-a495-4beb-a6d4-ad7f009b4f26/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 13 Aug 2021 04:11:52 +0000</pubDate>
+         <itunes:duration>00:15:34</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.13%20-%20Lykke-Per%20blev%20Carsten%20Jensens%20livsledsager.mp3" />
+      </item>
+      <item>
+         <title>Tolstoy tager os alvorligt</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/9b5e5b5a-64e8-4f1b-9ff9-ad7f009ca4d2/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Carsten Jensen var bare 13 år, da han besluttede sig for at kæmpe sig igennem Leo Tolstojs 1500-siders Krig og fred.
 
 Han havde i sin mors Søndags-B.T. læst om et amerikansk geni, der havde læst romanværket allerede som 12-årig. »Jeg kan næsten nå det,« tænkte 13-årige Carsten og besluttede sig for at bevise over for sig selv, at han var et lille geni.
 
@@ -35,15 +35,15 @@ Da forfatteren 40 år senere læste bogen igen, gik det op for ham, at det ved b
 Ved begge læsninger følte han sig dog set af Tolstoj. Han har nemlig en helt særlig evne til at få sine læsere til at føle sig kloge uden at være belærende.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/9b5e5b5a-64e8-4f1b-9ff9-ad7f009ca4d2/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 13 Aug 2021 04:11:52 +0000</pubDate>
-			<itunes:duration>00:15:50</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/9b5e5b5a-64e8-4f1b-9ff9-ad7f009ca4d2/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En uelskets testamente</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/13978ba3-5a29-4df1-b427-ad7f009d2e59/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Aracoeli fra 1982 blev Elsa Morantes sidste roman.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/9b5e5b5a-64e8-4f1b-9ff9-ad7f009ca4d2/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 13 Aug 2021 04:11:52 +0000</pubDate>
+         <itunes:duration>00:15:50</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.13%20-%20Mary%20Shelley%20skrev%20andet%20end%20%27Frankenstein%27.mp3" />
+      </item>
+      <item>
+         <title>En uelskets testamente</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/13978ba3-5a29-4df1-b427-ad7f009d2e59/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Aracoeli fra 1982 blev Elsa Morantes sidste roman.
 
 Selvom det er en skræmmende bog om ensomhed, mener ugens gæstelærer, Carsten Jensen, at den kan gøre læseren bedre til at forstå andre.
 
@@ -52,49 +52,49 @@ Kort efter udgivelsen af Aracoeli forsøgte Morante at begå selvmord. Hun havde
 Sådan en bog har vi brug for at læse, mener Carsten Jensen, som ville anbefale netop Aracoeli, hvis han skulle skrive en håndbog til uelskede mennesker.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/13978ba3-5a29-4df1-b427-ad7f009d2e59/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 13 Aug 2021 04:11:52 +0000</pubDate>
-			<itunes:duration>00:16:18</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/13978ba3-5a29-4df1-b427-ad7f009d2e59/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En usædvanlig roman fortalt af en død kvinde</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/bee1aa22-448d-4c2b-a46f-ad7f009d8631/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Carsten Jensen kan ikke forklare, hvorfor han så sent er gået i gang med svenske Sara Stridsbergs forfatterskab. For hun er en helt fantastisk forfatter, der tilmed er levet tildelt Nordisk Råds Litteraturpris.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/13978ba3-5a29-4df1-b427-ad7f009d2e59/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 13 Aug 2021 04:11:52 +0000</pubDate>
+         <itunes:duration>00:16:18</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.13%20-%20Tolstoy%20tager%20os%20alvorligt.mp3" />
+      </item>
+      <item>
+         <title>En usædvanlig roman fortalt af en død kvinde</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/bee1aa22-448d-4c2b-a46f-ad7f009d8631/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Carsten Jensen kan ikke forklare, hvorfor han så sent er gået i gang med svenske Sara Stridsbergs forfatterskab. For hun er en helt fantastisk forfatter, der tilmed er levet tildelt Nordisk Råds Litteraturpris.
 
-I dagens Hjemmeskole dykker han ned i Kærligheden Antarktis fra 2019.
+I dagens Hjemmeskole dykker han ned i Kærligheden Antarktis fra 2019.
 
 Det er en usædvanlig roman, hvor fortælleren er en myrdet kvinde, der fortæller sin historie fra den anden side.
 
 Siden hendes bror døde som barn, mens hun havde ansvaret for ham, har hun befundet sig på kærlighedens Antarktis, et isfjeld, hvor kærligheden er frosset inde.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/bee1aa22-448d-4c2b-a46f-ad7f009d8631/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 13 Aug 2021 04:11:51 +0000</pubDate>
-			<itunes:duration>00:15:45</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/bee1aa22-448d-4c2b-a46f-ad7f009d8631/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mary Shelley skrev andet end 'Frankenstein'</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/91680e5e-1636-4557-a73b-ad7f00a51534/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Navnet Mary Shelley får nok de fleste til at tænke på Frankenstein og hans monster. Det er dog ikke den eneste af hendes bøger, der er værd at læse. Og særligt en er meget aktuel netop nu.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/bee1aa22-448d-4c2b-a46f-ad7f009d8631/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 13 Aug 2021 04:11:51 +0000</pubDate>
+         <itunes:duration>00:15:45</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.13%20-%20En%20uelskets%20testamente.mp3" />
+      </item>
+      <item>
+         <title>Mary Shelley skrev andet end 'Frankenstein'</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/91680e5e-1636-4557-a73b-ad7f00a51534/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Navnet Mary Shelley får nok de fleste til at tænke på Frankenstein og hans monster. Det er dog ikke den eneste af hendes bøger, der er værd at læse. Og særligt en er meget aktuel netop nu.
 
-The Last Man er en fremtidsroman fra 1826, der foregår i en nu forholdsvis nær fremtid fra 2070 til 2100.
+The Last Man er en fremtidsroman fra 1826, der foregår i en nu forholdsvis nær fremtid fra 2070 til 2100.
 
 En pestpandemi har ramt jorden og lader kun et eneste menneske overleve.
 
-The Last Man har aldrig for alvor fået succes, og forfatter Carsten Jensen har da heller aldrig mødt nogen, der har læst den. Men nu, hvor vi faktisk står midt i en pandemi, er den igen blevet højaktuel.
+The Last Man har aldrig for alvor fået succes, og forfatter Carsten Jensen har da heller aldrig mødt nogen, der har læst den. Men nu, hvor vi faktisk står midt i en pandemi, er den igen blevet højaktuel.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/91680e5e-1636-4557-a73b-ad7f00a51534/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 13 Aug 2021 04:11:51 +0000</pubDate>
-			<itunes:duration>00:15:54</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/91680e5e-1636-4557-a73b-ad7f00a51534/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Verdensordenen ændrede sig i et mødelokale i Bella Center</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7d4391dc-3587-479c-8d20-ad7c00d06340/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Klimakonferencen COP 15, der blev afholdt i december 2009 i Bella Center i København, huskes primært for kaotiske scener.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/91680e5e-1636-4557-a73b-ad7f00a51534/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 13 Aug 2021 04:11:51 +0000</pubDate>
+         <itunes:duration>00:15:54</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.13%20-%20En%20us%C3%A6dvanlig%20roman%20fortalt%20af%20en%20d%C3%B8d%20kvinde.mp3" />
+      </item>
+      <item>
+         <title>Verdensordenen ændrede sig i et mødelokale i Bella Center</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7d4391dc-3587-479c-8d20-ad7c00d06340/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Klimakonferencen COP 15, der blev afholdt i december 2009 i Bella Center i København, huskes primært for kaotiske scener.
 
 Og nok var det kaotisk, men det var også et afgørende vendepunkt i international politik, fortæller historiker og daværende embedsmand Bo Lidegaard, der er ugens gæstelærer.
 
@@ -105,15 +105,15 @@ Aftalen blev først underskrevet året efter i Cancun, men i det rum blev en ny 
 Programmet er tilrettelagt af Karen Sigrid Jacobsen.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7d4391dc-3587-479c-8d20-ad7c00d06340/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 06 Aug 2021 12:59:41 +0000</pubDate>
-			<itunes:duration>00:15:43</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7d4391dc-3587-479c-8d20-ad7c00d06340/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En usædvanlig alliance lå bag Parisaftalen</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/21a8f934-dcf3-4de0-8539-ad7c00d172bd/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>USA nåede at være ude af Parisaftalen et par måneder, inden Biden som nytiltrådt præsident brugte sin første arbejdsdag på at melde landet til igen.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7d4391dc-3587-479c-8d20-ad7c00d06340/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 06 Aug 2021 12:59:41 +0000</pubDate>
+         <itunes:duration>00:15:43</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.06%20-%20M%C3%A5neskinssonaten%20kr%C3%A6ver%2C%20at%20pianisten%20t%C3%B8r%20tage%20chancer.mp3" />
+      </item>
+      <item>
+         <title>En usædvanlig alliance lå bag Parisaftalen</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/21a8f934-dcf3-4de0-8539-ad7c00d172bd/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>USA nåede at være ude af Parisaftalen et par måneder, inden Biden som nytiltrådt præsident brugte sin første arbejdsdag på at melde landet til igen.
 
 Trump var stor modstander af den internationale klimaaftale, som ellers i den grad blev lavet på USA's principper, da den blev indgået i 2015.
 
@@ -124,15 +124,15 @@ Inden topmødet i Paris besøgte daværende præsident Obama den kinesiske præs
 Programmet er tilrettelagt af Karen Sigrid Jacobsen.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/21a8f934-dcf3-4de0-8539-ad7c00d172bd/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 06 Aug 2021 12:59:41 +0000</pubDate>
-			<itunes:duration>00:13:59</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/21a8f934-dcf3-4de0-8539-ad7c00d172bd/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Da klimatosserne indtog EU</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5140478d-1949-46f8-b69d-ad7c00d1cca7/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>»Det her er vores 'mand på månen'-øjeblik.«
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/21a8f934-dcf3-4de0-8539-ad7c00d172bd/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 06 Aug 2021 12:59:41 +0000</pubDate>
+         <itunes:duration>00:13:59</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.06%20-%20Verdensordenen%20%C3%A6ndrede%20sig%20i%20et%20m%C3%B8delokale%20i%20Bella%20Center.mp3" />
+      </item>
+      <item>
+         <title>Da klimatosserne indtog EU</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5140478d-1949-46f8-b69d-ad7c00d1cca7/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>»Det her er vores 'mand på månen'-øjeblik.«
 
 Med de ord blev European Green Deal, EU's grønne handlingsplan, præsenteret.
 
@@ -141,15 +141,15 @@ Efter parlamentsvalget i 2019, hvor de grønne partier fik markant opbakning, st
 Løsningen blev European Green Deal, hvori medlemslandene har forpligtet sig på i gennemsnit at reducere CO2-udledningen med 55 procent inden 2030. Og netop sådanne delmål er vigtige, hvis vi vil redde klimaet, fortæller gæstelærer Bo Lidegaard i dagens lektion.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5140478d-1949-46f8-b69d-ad7c00d1cca7/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 06 Aug 2021 12:59:40 +0000</pubDate>
-			<itunes:duration>00:14:31</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5140478d-1949-46f8-b69d-ad7c00d1cca7/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Det grønne kapløb</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7264dc58-354f-42c9-99dd-ad7c00d2361c/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Der foregår i disse år et slags grønt kapløb mellem USA, Kina og EU.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5140478d-1949-46f8-b69d-ad7c00d1cca7/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 06 Aug 2021 12:59:40 +0000</pubDate>
+         <itunes:duration>00:14:31</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.06%20-%20Et%20v%C3%A6rk%2C%20der%20altid%20spilles%20med%20fejl.mp3" />
+      </item>
+      <item>
+         <title>Det grønne kapløb</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7264dc58-354f-42c9-99dd-ad7c00d2361c/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Der foregår i disse år et slags grønt kapløb mellem USA, Kina og EU.
 
 Alle vil gerne være førende på den grønne omstilling, men alligevel er det ikke lige til at forhandle internationale klimaaftaler på plads.
 
@@ -160,32 +160,32 @@ Spørgsmålet er bare, om vi europæere er klar til at se igennem fingre med Kin
 Programmet er tilrettelagt af Karen Sigrid Jacobsen.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7264dc58-354f-42c9-99dd-ad7c00d2361c/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 06 Aug 2021 12:59:40 +0000</pubDate>
-			<itunes:duration>00:14:46</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7264dc58-354f-42c9-99dd-ad7c00d2361c/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Kan vi undgå temperaturstigninger på mere end 2 grader?</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/cc4df770-564f-4889-a7b7-ad7c00d28399/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Med Paris-aftalen nåede det internationale samfund langt i klimakampen, og når verdens ledere mødes igen i november i Glasgow til COP 26, når de forhåbentligt et skridt videre.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7264dc58-354f-42c9-99dd-ad7c00d2361c/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 06 Aug 2021 12:59:40 +0000</pubDate>
+         <itunes:duration>00:14:46</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.06%20-%20Kan%20vi%20undg%C3%A5%20temperaturstigninger%20p%C3%A5%20mere%20end%202%20grader.mp3" />
+      </item>
+      <item>
+         <title>Kan vi undgå temperaturstigninger på mere end 2 grader?</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/cc4df770-564f-4889-a7b7-ad7c00d28399/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Med Paris-aftalen nåede det internationale samfund langt i klimakampen, og når verdens ledere mødes igen i november i Glasgow til COP 26, når de forhåbentligt et skridt videre.
 
-Groft sagt er alle verdens lande enige om, at verden skal være CO2-neutral i 2030, og at de globale temperaturer ikke må stige mere end 2 oC fortæller ugens gæstelærer, historiker og tidligere diplomat Bo Lidegaard.
+Groft sagt er alle verdens lande enige om, at verden skal være CO2-neutral i 2030, og at de globale temperaturer ikke må stige mere end 2 oC fortæller ugens gæstelærer, historiker og tidligere diplomat Bo Lidegaard.
 
 Problemet er bare, at den ellers ambitiøse Paris-aftale ikke er ambitiøs nok, hvis de mål skal nås.
 
 Spørgsmålet er så, om verdens lande tilsammen byder ind med målsætninger, der er store nok, i Glasgow. Bo Lidegaard er i tvivl.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/cc4df770-564f-4889-a7b7-ad7c00d28399/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 06 Aug 2021 12:59:40 +0000</pubDate>
-			<itunes:duration>00:15:27</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/cc4df770-564f-4889-a7b7-ad7c00d28399/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Mozart gør verden skønnere</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5a1011cb-6edb-43ce-9747-ad7500991346/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Ugens gæstelærer er pianist Katrine Gislinge, og i dag fortæller hun om en af historiens største komponister: Mozart.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/cc4df770-564f-4889-a7b7-ad7c00d28399/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 06 Aug 2021 12:59:40 +0000</pubDate>
+         <itunes:duration>00:15:27</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.06%20-%20Mozart%20g%C3%B8r%20verden%20sk%C3%B8nnere.mp3" />
+      </item>
+      <item>
+         <title>Mozart gør verden skønnere</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5a1011cb-6edb-43ce-9747-ad7500991346/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Ugens gæstelærer er pianist Katrine Gislinge, og i dag fortæller hun om en af historiens største komponister: Mozart.
 
 Ved at dykke ned i hans 20. klaverkoncert i D-mol fortæller hun historien om Mozart, der komponerede, som om inspirationen kom uhindret til ham.
 
@@ -196,15 +196,15 @@ Så lysende, himmelsk, klare og smukke finder hun hans værker.
 Weekendavisens Hjemmeskole er tilrettelagt af Karen Sigrid Jacobsen.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5a1011cb-6edb-43ce-9747-ad7500991346/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 06 Aug 2021 11:59:37 +0000</pubDate>
-			<itunes:duration>00:14:48</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5a1011cb-6edb-43ce-9747-ad7500991346/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Beethovens klaversonater er alle pianisters bibel</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/704fd512-eb34-4314-b8b2-ad75009b20e4/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Beethoven var kontrasternes mester.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5a1011cb-6edb-43ce-9747-ad7500991346/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 06 Aug 2021 11:59:37 +0000</pubDate>
+         <itunes:duration>00:14:48</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.06%20-%20Et%20manisk%20v%C3%A6rk%20skrevet%20p%C3%A5%20fire%20dage.mp3" />
+      </item>
+      <item>
+         <title>Beethovens klaversonater er alle pianisters bibel</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/704fd512-eb34-4314-b8b2-ad75009b20e4/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Beethoven var kontrasternes mester.
 
 Han forstod at skabe så voldsom, dramatisk og desperat musik, at lytterne får følelsen af at stå og kigge ud over afgrunden.
 
@@ -215,15 +215,15 @@ I dagens hjemmeskole fortæller pianist Katrine Gislinge om en af sine yndlingsk
 Programmet er tilrettelagt af Karen Sigrid Jacobsen.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/704fd512-eb34-4314-b8b2-ad75009b20e4/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 06 Aug 2021 11:59:36 +0000</pubDate>
-			<itunes:duration>00:15:37</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/704fd512-eb34-4314-b8b2-ad75009b20e4/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Måneskinssonaten kræver, at pianisten tør tage chancer</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7ad5ebca-f271-46f3-b954-ad75009b68d5/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Beethovens Måneskinssonate er nok et af verdens mest kendte musikstykker. Det var dog ikke Beethoven selv, der gav den det tilnavn, men derimod en tysk musikkritiker, der forbandt den spinkle sørgmodige 1. sats med Månens blege lys.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/704fd512-eb34-4314-b8b2-ad75009b20e4/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 06 Aug 2021 11:59:36 +0000</pubDate>
+         <itunes:duration>00:15:37</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.06%20-%20Beethovens%20klaversonater%20er%20alle%20pianisters%20bibel.mp3" />
+      </item>
+      <item>
+         <title>Måneskinssonaten kræver, at pianisten tør tage chancer</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7ad5ebca-f271-46f3-b954-ad75009b68d5/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Beethovens Måneskinssonate er nok et af verdens mest kendte musikstykker. Det var dog ikke Beethoven selv, der gav den det tilnavn, men derimod en tysk musikkritiker, der forbandt den spinkle sørgmodige 1. sats med Månens blege lys.
 
 Måneskinssonaten er blevet spillet så meget, at den næsten er blevet en kliché, og derfor kræver det noget særligt af pianisten, når den skal fremføres i dag.
 
@@ -234,15 +234,15 @@ Og den tilgang er lige efter Beethovens hoved. Han udtalte engang, at det ikke e
 Programmet er tilrettelagt af Karen Sigrid Jacobsen.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7ad5ebca-f271-46f3-b954-ad75009b68d5/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 06 Aug 2021 11:59:36 +0000</pubDate>
-			<itunes:duration>00:15:17</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7ad5ebca-f271-46f3-b954-ad75009b68d5/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Et manisk værk skrevet på fire dage</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3d262051-d94c-45a0-b6bb-ad75009b9e22/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Robert Schumann var en ægte romantisk komponist. Han skrev ikke musik for at behage og please, men derimod for at udtrykke menneskets sande nuancer og karakterer.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7ad5ebca-f271-46f3-b954-ad75009b68d5/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 06 Aug 2021 11:59:36 +0000</pubDate>
+         <itunes:duration>00:15:17</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.06%20-%20Da%20klimatosserne%20indtog%20EU.mp3" />
+      </item>
+      <item>
+         <title>Et manisk værk skrevet på fire dage</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3d262051-d94c-45a0-b6bb-ad75009b9e22/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Robert Schumann var en ægte romantisk komponist. Han skrev ikke musik for at behage og please, men derimod for at udtrykke menneskets sande nuancer og karakterer.
 
 Lige netop sådan et stykke musik er 'Kreisleriana', hvis otte satser han skrev på bare fire dage.
 
@@ -251,15 +251,15 @@ Værket har karakter af at være blevet skrevet i en nærmest manisk rus, hvor h
 For ugens gæstelærer, pianist Katrine Gislinge, har dagens værk også en personlig betydning. De højere magter gav hende ro fra hendes ellers kaotiske liv, da hun satte sig for at indspille lige netop dette værk.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3d262051-d94c-45a0-b6bb-ad75009b9e22/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 06 Aug 2021 11:59:36 +0000</pubDate>
-			<itunes:duration>00:15:59</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3d262051-d94c-45a0-b6bb-ad75009b9e22/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Et værk, der altid spilles med fejl</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5d37b78e-6255-43ae-adfa-ad75009be7a2/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>»Som pianist kan du ikke undgå at elske hans musik.«
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3d262051-d94c-45a0-b6bb-ad75009b9e22/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 06 Aug 2021 11:59:36 +0000</pubDate>
+         <itunes:duration>00:15:59</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.06%20-%20Det%20gr%C3%B8nne%20kapl%C3%B8b.mp3" />
+      </item>
+      <item>
+         <title>Et værk, der altid spilles med fejl</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5d37b78e-6255-43ae-adfa-ad75009be7a2/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>»Som pianist kan du ikke undgå at elske hans musik.«
 
 Sådan siger pianist Katrine Gislinge om Frédéric Chopins sarte klaverstykker.
 
@@ -270,15 +270,15 @@ Ved klaveret var han dog uden tvivl særegen, og hans evner har skabt en diskuss
 Programmet er tilrettelagt af Karen Sigrid Jacobsen.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5d37b78e-6255-43ae-adfa-ad75009be7a2/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Fri, 06 Aug 2021 11:59:36 +0000</pubDate>
-			<itunes:duration>00:13:57</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5d37b78e-6255-43ae-adfa-ad75009be7a2/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Da den første dødelige coronavirus ramte verden</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3a93bd0a-1084-471b-96f5-ad64009ce51a/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>»Det er det mest skræmmende, jeg nogensinde har oplevet. Vi troede alle sammen, vi skulle dø.«
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/5d37b78e-6255-43ae-adfa-ad75009be7a2/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Fri, 06 Aug 2021 11:59:36 +0000</pubDate>
+         <itunes:duration>00:13:57</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.08.06%20-%20En%20us%C3%A6dvanlig%20alliance%20l%C3%A5%20bag%20Parisaftalen.mp3" />
+      </item>
+      <item>
+         <title>Da den første dødelige coronavirus ramte verden</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3a93bd0a-1084-471b-96f5-ad64009ce51a/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>»Det er det mest skræmmende, jeg nogensinde har oplevet. Vi troede alle sammen, vi skulle dø.«
 
 Sådan fortæller Lone Simonsen, der er professor og pandemiforsker på RUC, om det epidemiske udbrud af atypisk lungebetændelse, der opstod i Kina i 2003, og som vi senere kom til at kende som SARS.
 
@@ -287,15 +287,15 @@ SARS blev samtidig også den første kendte dødelige epidemi af coronavirus. De
 Det gjorde de heldigvis, men det overraskede dem alligevel, hvor hurtigt epidemien gik i sig selv igen. Først da COVID-19 ramte verden, gik det op for Lone Simonsen, hvad de havde gjort rigtigt.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3a93bd0a-1084-471b-96f5-ad64009ce51a/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Tue, 13 Jul 2021 09:52:48 +0000</pubDate>
-			<itunes:duration>00:14:55</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3a93bd0a-1084-471b-96f5-ad64009ce51a/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Coronakrisen oplevet af en pandemiforsker</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/d44663b3-bf89-429c-b668-ad64009dd032/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Selv en erfaren pandemiforsker som ugens gæstelærer, Lone Simonsen fra RUC, spærrede øjnene op, da hun første gang hørte om COVID-19, og ikke mindst at kineske Wuhan var gået i lockdown.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3a93bd0a-1084-471b-96f5-ad64009ce51a/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Tue, 13 Jul 2021 09:52:48 +0000</pubDate>
+         <itunes:duration>00:14:55</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.13%20-%20Da%20den%20f%C3%B8rste%20d%C3%B8delige%20coronavirus%20ramte%20verden.mp3" />
+      </item>
+      <item>
+         <title>Coronakrisen oplevet af en pandemiforsker</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/d44663b3-bf89-429c-b668-ad64009dd032/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Selv en erfaren pandemiforsker som ugens gæstelærer, Lone Simonsen fra RUC, spærrede øjnene op, da hun første gang hørte om COVID-19, og ikke mindst at kineske Wuhan var gået i lockdown.
 
 »Det er ikke et redskab, vi har set siden pesttiden i Danmark,« fortæller hun.
 
@@ -304,15 +304,15 @@ Ikke desto mindre blev det virkeligheden over store del af verden. I dag har vi 
 Én ting er dog sikkert: »Den vil få en ende, for det gør pandemier altid,« siger pandemiforskeren. Måske kan det endda blive den første pandemi nogensinde, der bliver stoppet af en vaccine.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/d44663b3-bf89-429c-b668-ad64009dd032/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Tue, 13 Jul 2021 09:52:48 +0000</pubDate>
-			<itunes:duration>00:15:01</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/d44663b3-bf89-429c-b668-ad64009dd032/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>»Vaccinepas« var med til at udrydde kopper</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3814f864-0dbe-4a3d-bbd3-ad64009f3c93/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Kopper har fandtes i tusindvis af år, og der er blandt andet fundet koppear på mumier fra det gamle Ægypten.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/d44663b3-bf89-429c-b668-ad64009dd032/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Tue, 13 Jul 2021 09:52:48 +0000</pubDate>
+         <itunes:duration>00:15:01</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.13%20-%20%C2%BBVaccinepas%C2%AB%20var%20med%20til%20at%20udrydde%20kopper.mp3" />
+      </item>
+      <item>
+         <title>»Vaccinepas« var med til at udrydde kopper</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3814f864-0dbe-4a3d-bbd3-ad64009f3c93/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Kopper har fandtes i tusindvis af år, og der er blandt andet fundet koppear på mumier fra det gamle Ægypten.
 
 I Danmark har man registreret sygdomme siden 1700-tallet, og dengang ramte en voldsom koppeepidemi Danmark ret præcist hvert fjerde år. Hver gang døde en betragtelig del af landets børn under 15 år.
 
@@ -321,105 +321,105 @@ I 1800-tallet fik man dog epidemierne under kontrol med et omfattende vaccinatio
 Den verdensomspændende vaccineindsats betød, at WHO i 1980 kunne erklære verden for koppefri, og derfor stoppede man med at vaccinere alle småbørn. I fremtiden kan det dog vise sig at blive en akilleshæl, da en stor del af befolkningen derfor ikke længere er modstandsdygtige, hvis nogen skulle finde på at bruge koppevirus som bioterrorisme.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3814f864-0dbe-4a3d-bbd3-ad64009f3c93/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Tue, 13 Jul 2021 09:52:47 +0000</pubDate>
-			<itunes:duration>00:12:49</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3814f864-0dbe-4a3d-bbd3-ad64009f3c93/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Knud Rasmussens lange slæderejse</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/2d2bdbfc-0153-4128-a10f-ad0800b31493/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Professor i geologi Minik Rosing fortæller om Knud Rasmussen lange slæderejse fra Grønland til Canada. 
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3814f864-0dbe-4a3d-bbd3-ad64009f3c93/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Tue, 13 Jul 2021 09:52:47 +0000</pubDate>
+         <itunes:duration>00:12:49</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.13%20-%20Coronakrisen%20oplevet%20af%20en%20pandemiforsker.mp3" />
+      </item>
+      <item>
+         <title>Knud Rasmussens lange slæderejse</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/2d2bdbfc-0153-4128-a10f-ad0800b31493/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Professor i geologi Minik Rosing fortæller om Knud Rasmussen lange slæderejse fra Grønland til Canada. 
 
 See omnystudio.com/listener for privacy information.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/2d2bdbfc-0153-4128-a10f-ad0800b31493/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
-			<itunes:duration>00:12:31</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/2d2bdbfc-0153-4128-a10f-ad0800b31493/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En idé bliver født midt på indlandsisen</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/2a0960b8-96f9-43f7-934f-ad0800b3ab1f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Weekendavisens Hjemmeskole er for voksne og nysgerrige sjæle, der er klar på en lille dosis viden fra en række af gæstelærere. Hver uge bringer vi fem afsnit fra samme fortæller, redigeret til små fascinerende historier, De kan høre som podcast.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/2d2bdbfc-0153-4128-a10f-ad0800b31493/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
+         <itunes:duration>00:12:31</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.12%20-%20En%20id%C3%A9%20bliver%20f%C3%B8dt%20midt%20p%C3%A5%20indlandsisen.mp3" />
+      </item>
+      <item>
+         <title>En idé bliver født midt på indlandsisen</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/2a0960b8-96f9-43f7-934f-ad0800b3ab1f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Weekendavisens Hjemmeskole er for voksne og nysgerrige sjæle, der er klar på en lille dosis viden fra en række af gæstelærere. Hver uge bringer vi fem afsnit fra samme fortæller, redigeret til små fascinerende historier, De kan høre som podcast.
 
 Dennes uges gæstelærer er Minik Rosing, og dagens afsnit handler om den tyske polarforsker Alfred Wegener, der på mange punkter var forud for sin tid.
 
 See omnystudio.com/listener for privacy information.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/2a0960b8-96f9-43f7-934f-ad0800b3ab1f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
-			<itunes:duration>00:15:14</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/2a0960b8-96f9-43f7-934f-ad0800b3ab1f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Redningsaktionen og de fynske skolepiger</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3fc8b4ac-4fcd-49f8-865b-ad0800b35e76/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Ekspeditioner går aldrig som planlagt. Grønland er et sted, hvor ting aldrig lykkes, som det var tænkt. Men mennesket kan udholde meget. Her er historien om en redningsaktion på tre år. 
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/2a0960b8-96f9-43f7-934f-ad0800b3ab1f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
+         <itunes:duration>00:15:14</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.12%20-%20En%20raffineret%20systemkritiker.mp3" />
+      </item>
+      <item>
+         <title>Redningsaktionen og de fynske skolepiger</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3fc8b4ac-4fcd-49f8-865b-ad0800b35e76/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Ekspeditioner går aldrig som planlagt. Grønland er et sted, hvor ting aldrig lykkes, som det var tænkt. Men mennesket kan udholde meget. Her er historien om en redningsaktion på tre år. 
 
 See omnystudio.com/listener for privacy information.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3fc8b4ac-4fcd-49f8-865b-ad0800b35e76/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
-			<itunes:duration>00:14:07</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3fc8b4ac-4fcd-49f8-865b-ad0800b35e76/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Den lange mineral-ekspedition</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/c6d16ae3-e106-4d3f-abc9-ad0800b3ed49/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Professor og geolog Minik Rosing fortæller om østrigske Karl Ludwig Gieseckes mildest talt eventyrlige mineral-ekspedition til Grønland. Han var egentlig librettist, men endte med at være strandet syv år som polarforsker i Grønland.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3fc8b4ac-4fcd-49f8-865b-ad0800b35e76/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
+         <itunes:duration>00:14:07</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.12%20-%20Knud%20Rasmussens%20lange%20sl%C3%A6derejse.mp3" />
+      </item>
+      <item>
+         <title>Den lange mineral-ekspedition</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/c6d16ae3-e106-4d3f-abc9-ad0800b3ed49/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Professor og geolog Minik Rosing fortæller om østrigske Karl Ludwig Gieseckes mildest talt eventyrlige mineral-ekspedition til Grønland. Han var egentlig librettist, men endte med at være strandet syv år som polarforsker i Grønland.
 
 See omnystudio.com/listener for privacy information.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/c6d16ae3-e106-4d3f-abc9-ad0800b3ed49/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
-			<itunes:duration>00:13:43</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/c6d16ae3-e106-4d3f-abc9-ad0800b3ed49/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Stormen over Galathea-ekspeditionen</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7fed7e4d-51f1-4edf-b300-ad0800b2c46d/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Professor Minik Rosing var togtleder på Galathea 3-ekspeditionen. I dagens hjemmeskole for voksne fortæller han om turen med det store hold forskere, sømænd og journalister og deres arbejde fra ekspeditionsskibet. 
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/c6d16ae3-e106-4d3f-abc9-ad0800b3ed49/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
+         <itunes:duration>00:13:43</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.12%20-%20L%C3%A6gen%2C%20der%20komponerede%20en%20musisk%20karavane.mp3" />
+      </item>
+      <item>
+         <title>Stormen over Galathea-ekspeditionen</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7fed7e4d-51f1-4edf-b300-ad0800b2c46d/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Professor Minik Rosing var togtleder på Galathea 3-ekspeditionen. I dagens hjemmeskole for voksne fortæller han om turen med det store hold forskere, sømænd og journalister og deres arbejde fra ekspeditionsskibet. 
 
 De lagde fra land med kanonsalut, men måtte både gå i dok og kæmpe sig gennem storm i de første af rejsens dage for at komme frem til den videnskabelige missions mål.
 
- 
+ 
 
 See omnystudio.com/listener for privacy information.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7fed7e4d-51f1-4edf-b300-ad0800b2c46d/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
-			<itunes:duration>00:14:49</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7fed7e4d-51f1-4edf-b300-ad0800b2c46d/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Lægen, der komponerede en musisk karavane</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/28c8ea1f-0b58-42ea-9985-ad0800b26c38/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>En ny uge er begyndt, og en ny gæstelærer er trådt til. I denne uge er det Frederik Cilius, der guider os gennem fem store russiske komponister. 
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/7fed7e4d-51f1-4edf-b300-ad0800b2c46d/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
+         <itunes:duration>00:14:49</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.12%20-%20L%C3%A6ren%20af%20Den%20spanske%20syge.mp3" />
+      </item>
+      <item>
+         <title>Lægen, der komponerede en musisk karavane</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/28c8ea1f-0b58-42ea-9985-ad0800b26c38/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>En ny uge er begyndt, og en ny gæstelærer er trådt til. I denne uge er det Frederik Cilius, der guider os gennem fem store russiske komponister. 
 
-Han starter med Aleksandr Borodin, som godt nok er mest kendt for at være komponist, men som var uddannet både læge og kemiker. 
+Han starter med Aleksandr Borodin, som godt nok er mest kendt for at være komponist, men som var uddannet både læge og kemiker. 
 
-I 1880 komponerede han 'En stemmeskitse fra Centralasien' i anledning af Aleksandr 2.s 25-års regeringsjubilæum. 
+I 1880 komponerede han 'En stemmeskitse fra Centralasien' i anledning af Aleksandr 2.s 25-års regeringsjubilæum. 
 
 På daværende tidspunkt var Rusland ved at ekspandere mod øst, og det forsøgte Borodin at indkapsle i sit værk. Han lavede en musisk karavane, der går fra vest mod øst for til sidst at smelte sammen, så metaforikken driver.
 
 See omnystudio.com/listener for privacy information.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/28c8ea1f-0b58-42ea-9985-ad0800b26c38/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
-			<itunes:duration>00:13:32</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/28c8ea1f-0b58-42ea-9985-ad0800b26c38/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>1001 nats musikalske eventyr</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3986656a-aee7-49ed-84a1-ad0800b2184c/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Nikolaj Rimskij-Korsakov har ifølge Frederik Cilius betydet mere for russisk musik end Tjajkovskij. Det skyldes, at han i kraft af sin stilling på konservatoriet i Sankt Petersborg blev en slags musikalsk svigerfar for den kommende generation.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/28c8ea1f-0b58-42ea-9985-ad0800b26c38/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
+         <itunes:duration>00:13:32</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.12%20-%20Naturtalentet%20med%20de%20overjordiske%20lyde.mp3" />
+      </item>
+      <item>
+         <title>1001 nats musikalske eventyr</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3986656a-aee7-49ed-84a1-ad0800b2184c/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Nikolaj Rimskij-Korsakov har ifølge Frederik Cilius betydet mere for russisk musik end Tjajkovskij. Det skyldes, at han i kraft af sin stilling på konservatoriet i Sankt Petersborg blev en slags musikalsk svigerfar for den kommende generation.
 
 Rimskij-Korsakov havde synæstesi, som er en tilstand, hvor man sammenblander forskellige sanseindtryk. For den russiske komponist kom det til udtryk ved, at han så lyde som farver. C-dur opfattede han som hvid, mens A-dur var lyserød.
 
@@ -428,15 +428,15 @@ Meget tyder på, at han brugte denne egenskab til være enormt farvefuld i sin m
 See omnystudio.com/listener for privacy information.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3986656a-aee7-49ed-84a1-ad0800b2184c/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
-			<itunes:duration>00:14:47</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3986656a-aee7-49ed-84a1-ad0800b2184c/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Naturtalentet med de overjordiske lyde</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/c4a71345-bb77-4169-ad25-ad0800b1d015/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Sergej Prokofjev kan man altid genkende. Fordi, han laver nogle vanvittige orkestreringer, som ingen anden. Han er genial i sin bagvendthed, fortæller Frederik Cilius.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/3986656a-aee7-49ed-84a1-ad0800b2184c/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
+         <itunes:duration>00:14:47</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.12%20-%20Redningsaktionen%20og%20de%20fynske%20skolepiger.mp3" />
+      </item>
+      <item>
+         <title>Naturtalentet med de overjordiske lyde</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/c4a71345-bb77-4169-ad25-ad0800b1d015/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Sergej Prokofjev kan man altid genkende. Fordi, han laver nogle vanvittige orkestreringer, som ingen anden. Han er genial i sin bagvendthed, fortæller Frederik Cilius.
 
 Prokofjev er et sandt naturtalent skriver sin første symfoni som 18-årig. Den unge russiske komponist var elev af Nikolaj Rimskij-Korsakov, som Frederik Cilius introducerer i et andet afsnit af Weekendavisens hjemmeskole.
 
@@ -447,28 +447,28 @@ I dette afsnit skal vi høre om Prokofjevs 5. symfoni, et værk, komponisten kal
 See omnystudio.com/listener for privacy information.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/c4a71345-bb77-4169-ad25-ad0800b1d015/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
-			<itunes:duration>00:14:57</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/c4a71345-bb77-4169-ad25-ad0800b1d015/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Læren af Den spanske syge</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/b5f2d973-466e-411b-9162-ad0800b1873f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Sommeren er 1918 og en influenza-epidemi hærger over Europa. Vi kommer senere til at kende denne epidemi som Den Spanske Syge, der tog livet af op i mod 50 millioner mennesker på verdensplan. Professor og epidemiolog Lone Simonsen har forsket i datidens epidemier for at blive klogere på nutidens epidemier. 
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/c4a71345-bb77-4169-ad25-ad0800b1d015/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
+         <itunes:duration>00:14:57</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.12%20-%20Stormen%20over%20Galathea-ekspeditionen.mp3" />
+      </item>
+      <item>
+         <title>Læren af Den spanske syge</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/b5f2d973-466e-411b-9162-ad0800b1873f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Sommeren er 1918 og en influenza-epidemi hærger over Europa. Vi kommer senere til at kende denne epidemi som Den Spanske Syge, der tog livet af op i mod 50 millioner mennesker på verdensplan. Professor og epidemiolog Lone Simonsen har forsket i datidens epidemier for at blive klogere på nutidens epidemier. 
 
 See omnystudio.com/listener for privacy information.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/b5f2d973-466e-411b-9162-ad0800b1873f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
-			<itunes:duration>00:12:19</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/b5f2d973-466e-411b-9162-ad0800b1873f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Sygdommen, der forbedrede vores sundhed</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/886ddf30-f9d3-47d5-9de9-ad0800b14e2f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Mundheldet »Der er intet, der er så skidt, at det ikke er godt for noget« er i den grad slidt. Ikke desto mindre er det sådan, det er, når det drejer sig om kolera.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/b5f2d973-466e-411b-9162-ad0800b1873f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
+         <itunes:duration>00:12:19</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.12%20-%20Sygdommen%2C%20der%20forbedrede%20vores%20sundhed.mp3" />
+      </item>
+      <item>
+         <title>Sygdommen, der forbedrede vores sundhed</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/886ddf30-f9d3-47d5-9de9-ad0800b14e2f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Mundheldet »Der er intet, der er så skidt, at det ikke er godt for noget« er i den grad slidt. Ikke desto mindre er det sådan, det er, når det drejer sig om kolera.
 
 Da Danmark blev ramt af en koleraepidemi i 1853, blev tre procent af befolkningen slået ihjel på få måneder. Man havde endnu ikke forstand på infektionssygdomme, men hurtigt blev det klart, at man i stedet for blot at forsøge at behandle de smittede også skulle forebygge nye smittetilfælde.
 
@@ -479,40 +479,40 @@ Det fortæller gæstelærer pandemiforsker Lone Simonsen, som selv har været me
 See omnystudio.com/listener for privacy information.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/886ddf30-f9d3-47d5-9de9-ad0800b14e2f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
-			<itunes:duration>00:11:42</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/886ddf30-f9d3-47d5-9de9-ad0800b14e2f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Tjajkovskijs rejse gennem den menneskelige tilstand</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/28056f44-e57c-452b-8d2b-ad6300bd718f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>Når man taler russisk musik, kan man ikke lade være med at sige Tjajkovskij. Derfor handler dagens hjemmeskole for voksne om lige netop Pjotr Ilítj Tjajkovskij og hans femte symfoni.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/886ddf30-f9d3-47d5-9de9-ad0800b14e2f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Mon, 12 Jul 2021 12:08:00 +0000</pubDate>
+         <itunes:duration>00:11:42</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.12%20-%20Tjajkovskijs%20rejse%20gennem%20den%20menneskelige%20tilstand.mp3" />
+      </item>
+      <item>
+         <title>Tjajkovskijs rejse gennem den menneskelige tilstand</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/28056f44-e57c-452b-8d2b-ad6300bd718f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>Når man taler russisk musik, kan man ikke lade være med at sige Tjajkovskij. Derfor handler dagens hjemmeskole for voksne om lige netop Pjotr Ilítj Tjajkovskij og hans femte symfoni.
 
 Den femte symfoni er absolut og handler derfor ikke om noget konkret, men er nærmere en rejse gennem den menneskelige tilstand. Tjajkovskij påstod selv, at det var en fatalistisk symfoni, der viste en fuldstændig resignation overfor skæbnen, men ifølge Frederik Cilius er det både melodramatisk og løgn. Den femte symfoni er nemlig i lige så høj grad et festfyrværkeri af glæde.
 
 Tjajkovskijs eget liv var dog tragisk, og – på trods af hvad Putin i dag påstår – var han i hemmelighed homoseksuel. Man gætter på, at det lige netop var en uforløst kærlighed, der førte til, at han valgte at drikke kolerainficeret vand, hvilket kostede ham livet i en ung alder.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/28056f44-e57c-452b-8d2b-ad6300bd718f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Mon, 12 Jul 2021 11:49:00 +0000</pubDate>
-			<itunes:duration>00:15:09</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/28056f44-e57c-452b-8d2b-ad6300bd718f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>En raffineret systemkritiker</title>
-			<link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/bea5e40e-e9b9-449d-bab8-ad6300bec439/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
-			<description>I dagens hjemmeskole for voksne fortæller Frederik Cilius om Dmitrij Sjostakovitj, der formåede at blive hyldet af det sovjetiske styre, selvom han i virkeligheden var en af stalinismens største dissidenter.
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/28056f44-e57c-452b-8d2b-ad6300bd718f/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Mon, 12 Jul 2021 11:49:00 +0000</pubDate>
+         <itunes:duration>00:15:09</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.12%20-%201001%20nats%20musikalske%20eventyr.mp3" />
+      </item>
+      <item>
+         <title>En raffineret systemkritiker</title>
+         <link>https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/bea5e40e-e9b9-449d-bab8-ad6300bec439/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</link>
+         <description>I dagens hjemmeskole for voksne fortæller Frederik Cilius om Dmitrij Sjostakovitj, der formåede at blive hyldet af det sovjetiske styre, selvom han i virkeligheden var en af stalinismens største dissidenter.
 
 Sjostakovitj skrev sarkastisk musik, som for det uindviede øre lød som enorme hyldester til Sovjetunionen. I virkeligheden var der dog tale om tyk ironi, som gjorde det stik modsatte og kritiserede den stalinistiske idé.
 
 En enkelt gang var han ved at komme i problemer, da Stalin opdagede en af hans meget åbenlyse metaforer. Ved at smøre endnu tykkere på, lykkedes det ham dog at vriste sig fri af det kritiske blik, så han kunne fortsætte med sin musikalske systemkritik.
 
 See omnystudio.com/listener for privacy information.</description>
-			<guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/bea5e40e-e9b9-449d-bab8-ad6300bec439/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
-			<pubDate>Mon, 12 Jul 2021 11:49:00 +0000</pubDate>
-			<itunes:duration>00:17:25</itunes:duration>
-			<enclosure url="https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/bea5e40e-e9b9-449d-bab8-ad6300bec439/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+         <guid isPermaLink="true">https://traffic.omny.fm/d/clips/1283f5f4-2508-4981-a99f-acb500e64dcf/1e4cbbb1-0445-47b0-b691-ad0800b115a3/bea5e40e-e9b9-449d-bab8-ad6300bec439/audio.mp3?utm_source=Podcast&amp;in_playlist=bd2d16d7-0540-4aef-acf1-ad0800b115b1</guid>
+         <pubDate>Mon, 12 Jul 2021 11:49:00 +0000</pubDate>
+         <itunes:duration>00:17:25</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/weekendavisens_hjemmeskole/Weekendavisens%20Hjemmeskole/2021.07.12%20-%20Den%20lange%20mineral-ekspedition.mp3" />
+      </item>
+   </channel>
 </rss>

@@ -1,257 +1,107 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Tendenstruppen
-  </title>
-  <link>
-   https://loud.land/podcast/tendenstruppen
-  </link>
-  <description>
-   I Tendenstruppen kigger vi hver uge på en aktuel tendens eller popkulturelt fænomen, for at blive klogere på, hvorfor netop de er blevet så store.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4946142/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   Copyright LOUD
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg
-   </url>
-   <title>
-    Tendenstruppen
-   </title>
-   <link>
-    https://loud.land/podcast/tendenstruppen
-   </link>
-  </image>
-  <lastBuildDate>
-   Fri, 01 Dec 2023 22:23:21 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg"/>
-  <itunes:subtitle>
-   Vi undersøger tidens tendenser og  popkulturelle fænomener, for at give dig nye vinkler på alt det, som du tror, du kender.
-  </itunes:subtitle>
-  <itunes:summary>
-   I Tendenstruppen kigger vi hver uge på en aktuel tendens eller popkulturelt fænomen, for at blive klogere på, hvorfor netop de er blevet så store.
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Rullen fra Tyrkiet, der tog Danmark med storm
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/mp3-tendens-kebab
-   </link>
-   <description>
-    Kebab, shawarma, döner, sølvkikkert. Kært kødrulle har mange navne, og rigtig mange af os har et nært forhold til alletiders late-night måltid. Men hvorfor og hvordan blev lige kebaben så stor og velintegreret del af den danske madkultur? Filip og Niels giver et overblik og den populære rets rejse fra Tyrkiet til Danmark, snakker med en vaskeægte kebabkonceptudvikler, smager selvfølgelig på varen, og så spiller de musik, der indeholder Tyrkiske toner, men også andre europæiske islæt - et perfekt akkompagnement til snakken om en ret, der om noget fortæller historien om det frugtbare moderne kulturmøde mellem Mellemøsten og Europa.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45438316
-   </guid>
-   <pubDate>
-    Mon, 28 Jun 2021 06:00:05 +0000
-   </pubDate>
-   <enclosure length="82080540" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45438316/mp3_tendens_kebab.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Kebab, shawarma, döner, sølvkikkert. Kært kødrulle har mange navne, og rigtig mange af os har et nært forhold til alletiders late-night måltid. Men hvorfor og hvordan blev lige kebaben så stor og velintegreret del af den danske madkultur? Filip og...
-   </itunes:subtitle>
-   <itunes:summary>
-    Kebab, shawarma, döner, sølvkikkert. Kært kødrulle har mange navne, og rigtig mange af os har et nært forhold til alletiders late-night måltid. Men hvorfor og hvordan blev lige kebaben så stor og velintegreret del af den danske madkultur? Filip og Niels giver et overblik og den populære rets rejse fra Tyrkiet til Danmark, snakker med en vaskeægte kebabkonceptudvikler, smager selvfølgelig på varen, og så spiller de musik, der indeholder Tyrkiske toner, men også andre europæiske islæt - et perfekt akkompagnement til snakken om en ret, der om noget fortæller historien om det frugtbare moderne kulturmøde mellem Mellemøsten og Europa.
-   </itunes:summary>
-   <itunes:duration>
-    3418
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Når man ikke er inviteret med til fodboldfesten
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/mp3-tendensen
-   </link>
-   <description>
-    Er EM virkelig den folkefest, som alle påstår? Nanna, Cecilie og Niels påtager sig den utaknemmelige opgave at lege djævlens advokater i forhold til tidens største popkulturelle begivenhed i vores del af verden - for lige så mange store oplevelser og fantastiske øjeblikke, der knytter sig til landsholdsfodbold, (næsten) lige så mange ulemper og problematikker kan også fremhæves. Værterne guider den ikke-fodboldinteresserede igennem denne fodboldfikserede tid, snakker med en inkarneret Manchester United fan om forskellen mellem klub- og landsholdsfodbold og holder sig ikke for gode til en quiz og en top 10-liste.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45354565
-   </guid>
-   <pubDate>
-    Sat, 19 Jun 2021 10:00:05 +0000
-   </pubDate>
-   <enclosure length="79292544" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45354565/mp3_tendensen.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Er EM virkelig den folkefest, som alle påstår? Nanna, Cecilie og Niels påtager sig den utaknemmelige opgave at lege djævlens advokater i forhold til tidens største popkulturelle begivenhed i vores del af verden - for lige så mange store oplevelser og...
-   </itunes:subtitle>
-   <itunes:summary>
-    Er EM virkelig den folkefest, som alle påstår? Nanna, Cecilie og Niels påtager sig den utaknemmelige opgave at lege djævlens advokater i forhold til tidens største popkulturelle begivenhed i vores del af verden - for lige så mange store oplevelser og fantastiske øjeblikke, der knytter sig til landsholdsfodbold, (næsten) lige så mange ulemper og problematikker kan også fremhæves. Værterne guider den ikke-fodboldinteresserede igennem denne fodboldfikserede tid, snakker med en inkarneret Manchester United fan om forskellen mellem klub- og landsholdsfodbold og holder sig ikke for gode til en quiz og en top 10-liste.
-   </itunes:summary>
-   <itunes:duration>
-    3302
-   </itunes:duration>
-   <itunes:keywords>
-    2021,christian,em,eriksen,euro2021,fodbold
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Virkelige fortællinger om grusomme forbrydelser
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/tendenstruppen-ep3
-   </link>
-   <description>
-    Hvorfor er True Crime så populært? Tendenstruppen tager fat i fænomenet True Crime og stiller spørgsmålstegn ved, om det er i orden at lave virkelige kriminelle hændelser om til underholdning og hvad det er, der er så fascinerede ved genren.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45233455
-   </guid>
-   <pubDate>
-    Sat, 12 Jun 2021 04:10:15 +0000
-   </pubDate>
-   <enclosure length="54732635" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45233455/tendenstruppen_ep30.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hvorfor er True Crime så populært? Tendenstruppen tager fat i fænomenet True Crime og stiller spørgsmålstegn ved, om det er i orden at lave virkelige kriminelle hændelser om til underholdning og hvad det er, der er så fascinerede ved genren.
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvorfor er True Crime så populært? Tendenstruppen tager fat i fænomenet True Crime og stiller spørgsmålstegn ved, om det er i orden at lave virkelige kriminelle hændelser om til underholdning og hvad det er, der er så fascinerede ved genren.
-   </itunes:summary>
-   <itunes:duration>
-    3421
-   </itunes:duration>
-   <itunes:keywords>
-    crime,kriminalitet,tendenstruppen,true
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Et gensyn med gamle Venner
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/mp3-tendens-friends
-   </link>
-   <description>
-    We were on a break! Eller var de? Det er nok ikke gået manges næser forbi, at castet fra TV-serien Friends er vendt tilbage efter mange års pause til et længeventet reunion-afsnit. I den anledning dykker Niels, Filip og Nanna ned i Friends som popkulturelt fænomen: Hvordan blev det så stort, og hvorfor vil så mange stadig se de gamle venner så mange år efter? Desuden dyster værterne i Friends-viden mod dagens gæst i studiet: superfanen Nick Hvidtfeldt.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45162584
-   </guid>
-   <pubDate>
-    Mon, 07 Jun 2021 07:00:16 +0000
-   </pubDate>
-   <enclosure length="82146996" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45162584/mp3_tendens_friends.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    We were on a break! Eller var de? Det er nok ikke gået manges næser forbi, at castet fra TV-serien Friends er vendt tilbage efter mange års pause til et længeventet reunion-afsnit. I den anledning dykker Niels, Filip og Nanna ned i Friends som...
-   </itunes:subtitle>
-   <itunes:summary>
-    We were on a break! Eller var de? Det er nok ikke gået manges næser forbi, at castet fra TV-serien Friends er vendt tilbage efter mange års pause til et længeventet reunion-afsnit. I den anledning dykker Niels, Filip og Nanna ned i Friends som popkulturelt fænomen: Hvordan blev det så stort, og hvorfor vil så mange stadig se de gamle venner så mange år efter? Desuden dyster værterne i Friends-viden mod dagens gæst i studiet: superfanen Nick Hvidtfeldt.
-   </itunes:summary>
-   <itunes:duration>
-    3421
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    80'erne hitter stadig
-   </title>
-   <link>
-    https://www.spreaker.com/user/radiolouddk/mp3-tendens-ep1
-   </link>
-   <description>
-    Hvorfor vil 80'erne ikke dø? Det er det store spørgsmål i dagens afsnit af Tendenstruppen, hvor Filip, Nanna og Niels endevender grundene til, at 80'erne stadig lever lystigt videre i vores kultur, selv om årtiet forlængst er forlist.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/45076865
-   </guid>
-   <pubDate>
-    Sat, 29 May 2021 11:00:14 +0000
-   </pubDate>
-   <enclosure length="79289409" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/45076865/mp3_tendens_ep1.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hvorfor vil 80'erne ikke dø? Det er det store spørgsmål i dagens afsnit af Tendenstruppen, hvor Filip, Nanna og Niels endevender grundene til, at 80'erne stadig lever lystigt videre i vores kultur, selv om årtiet forlængst er forlist.
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvorfor vil 80'erne ikke dø? Det er det store spørgsmål i dagens afsnit af Tendenstruppen, hvor Filip, Nanna og Niels endevender grundene til, at 80'erne stadig lever lystigt videre i vores kultur, selv om årtiet forlængst er forlist.
-   </itunes:summary>
-   <itunes:duration>
-    3301
-   </itunes:duration>
-   <itunes:keywords>
-    80'erne,årtier,fest,hitter,igen,kultur,musik,tendenstruppen,underholdning
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Tendenstruppen</title>
+      <link>https://loud.land/podcast/tendenstruppen</link>
+      <description>I Tendenstruppen kigger vi hver uge på en aktuel tendens eller popkulturelt fænomen, for at blive klogere på, hvorfor netop de er blevet så store.</description>
+      <atom:link href="https://www.spreaker.com/show/4946142/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>Copyright LOUD</copyright>
+      <image>
+         <url>https://archive.org/download/tendenstruppen/Tendenstruppen/86f76fa558d133505cf3550744066475.jpg</url>
+         <title>Tendenstruppen</title>
+         <link>https://loud.land/podcast/tendenstruppen</link>
+      </image>
+      <lastBuildDate>Fri, 01 Dec 2023 22:23:21 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg" />
+      <itunes:subtitle>Vi undersøger tidens tendenser og  popkulturelle fænomener, for at give dig nye vinkler på alt det, som du tror, du kender.</itunes:subtitle>
+      <itunes:summary>I Tendenstruppen kigger vi hver uge på en aktuel tendens eller popkulturelt fænomen, for at blive klogere på, hvorfor netop de er blevet så store.</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Rullen fra Tyrkiet, der tog Danmark med storm</title>
+         <link>https://www.spreaker.com/user/radiolouddk/mp3-tendens-kebab</link>
+         <description>Kebab, shawarma, döner, sølvkikkert. Kært kødrulle har mange navne, og rigtig mange af os har et nært forhold til alletiders late-night måltid. Men hvorfor og hvordan blev lige kebaben så stor og velintegreret del af den danske madkultur? Filip og Niels giver et overblik og den populære rets rejse fra Tyrkiet til Danmark, snakker med en vaskeægte kebabkonceptudvikler, smager selvfølgelig på varen, og så spiller de musik, der indeholder Tyrkiske toner, men også andre europæiske islæt - et perfekt akkompagnement til snakken om en ret, der om noget fortæller historien om det frugtbare moderne kulturmøde mellem Mellemøsten og Europa.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45438316</guid>
+         <pubDate>Mon, 28 Jun 2021 06:00:05 +0000</pubDate>
+         <enclosure length="82080540" type="audio/mpeg" url="https://archive.org/download/tendenstruppen/Tendenstruppen/2021.06.28%20-%20Rullen%20fra%20Tyrkiet%2C%20der%20tog%20Danmark%20med%20storm.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Kebab, shawarma, döner, sølvkikkert. Kært kødrulle har mange navne, og rigtig mange af os har et nært forhold til alletiders late-night måltid. Men hvorfor og hvordan blev lige kebaben så stor og velintegreret del af den danske madkultur? Filip og...</itunes:subtitle>
+         <itunes:summary>Kebab, shawarma, döner, sølvkikkert. Kært kødrulle har mange navne, og rigtig mange af os har et nært forhold til alletiders late-night måltid. Men hvorfor og hvordan blev lige kebaben så stor og velintegreret del af den danske madkultur? Filip og Niels giver et overblik og den populære rets rejse fra Tyrkiet til Danmark, snakker med en vaskeægte kebabkonceptudvikler, smager selvfølgelig på varen, og så spiller de musik, der indeholder Tyrkiske toner, men også andre europæiske islæt - et perfekt akkompagnement til snakken om en ret, der om noget fortæller historien om det frugtbare moderne kulturmøde mellem Mellemøsten og Europa.</itunes:summary>
+         <itunes:duration>3418</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Når man ikke er inviteret med til fodboldfesten</title>
+         <link>https://www.spreaker.com/user/radiolouddk/mp3-tendensen</link>
+         <description>Er EM virkelig den folkefest, som alle påstår? Nanna, Cecilie og Niels påtager sig den utaknemmelige opgave at lege djævlens advokater i forhold til tidens største popkulturelle begivenhed i vores del af verden - for lige så mange store oplevelser og fantastiske øjeblikke, der knytter sig til landsholdsfodbold, (næsten) lige så mange ulemper og problematikker kan også fremhæves. Værterne guider den ikke-fodboldinteresserede igennem denne fodboldfikserede tid, snakker med en inkarneret Manchester United fan om forskellen mellem klub- og landsholdsfodbold og holder sig ikke for gode til en quiz og en top 10-liste.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45354565</guid>
+         <pubDate>Sat, 19 Jun 2021 10:00:05 +0000</pubDate>
+         <enclosure length="79292544" type="audio/mpeg" url="https://archive.org/download/tendenstruppen/Tendenstruppen/2021.06.19%20-%20N%C3%A5r%20man%20ikke%20er%20inviteret%20med%20til%20fodboldfesten.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Er EM virkelig den folkefest, som alle påstår? Nanna, Cecilie og Niels påtager sig den utaknemmelige opgave at lege djævlens advokater i forhold til tidens største popkulturelle begivenhed i vores del af verden - for lige så mange store oplevelser og...</itunes:subtitle>
+         <itunes:summary>Er EM virkelig den folkefest, som alle påstår? Nanna, Cecilie og Niels påtager sig den utaknemmelige opgave at lege djævlens advokater i forhold til tidens største popkulturelle begivenhed i vores del af verden - for lige så mange store oplevelser og fantastiske øjeblikke, der knytter sig til landsholdsfodbold, (næsten) lige så mange ulemper og problematikker kan også fremhæves. Værterne guider den ikke-fodboldinteresserede igennem denne fodboldfikserede tid, snakker med en inkarneret Manchester United fan om forskellen mellem klub- og landsholdsfodbold og holder sig ikke for gode til en quiz og en top 10-liste.</itunes:summary>
+         <itunes:duration>3302</itunes:duration>
+         <itunes:keywords>2021,christian,em,eriksen,euro2021,fodbold</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Virkelige fortællinger om grusomme forbrydelser</title>
+         <link>https://www.spreaker.com/user/radiolouddk/tendenstruppen-ep3</link>
+         <description>Hvorfor er True Crime så populært? Tendenstruppen tager fat i fænomenet True Crime og stiller spørgsmålstegn ved, om det er i orden at lave virkelige kriminelle hændelser om til underholdning og hvad det er, der er så fascinerede ved genren.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45233455</guid>
+         <pubDate>Sat, 12 Jun 2021 04:10:15 +0000</pubDate>
+         <enclosure length="54732635" type="audio/mpeg" url="https://archive.org/download/tendenstruppen/Tendenstruppen/2021.06.12%20-%20Virkelige%20fort%C3%A6llinger%20om%20grusomme%20forbrydelser.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hvorfor er True Crime så populært? Tendenstruppen tager fat i fænomenet True Crime og stiller spørgsmålstegn ved, om det er i orden at lave virkelige kriminelle hændelser om til underholdning og hvad det er, der er så fascinerede ved genren.</itunes:subtitle>
+         <itunes:summary>Hvorfor er True Crime så populært? Tendenstruppen tager fat i fænomenet True Crime og stiller spørgsmålstegn ved, om det er i orden at lave virkelige kriminelle hændelser om til underholdning og hvad det er, der er så fascinerede ved genren.</itunes:summary>
+         <itunes:duration>3421</itunes:duration>
+         <itunes:keywords>crime,kriminalitet,tendenstruppen,true</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Et gensyn med gamle Venner</title>
+         <link>https://www.spreaker.com/user/radiolouddk/mp3-tendens-friends</link>
+         <description>We were on a break! Eller var de? Det er nok ikke gået manges næser forbi, at castet fra TV-serien Friends er vendt tilbage efter mange års pause til et længeventet reunion-afsnit. I den anledning dykker Niels, Filip og Nanna ned i Friends som popkulturelt fænomen: Hvordan blev det så stort, og hvorfor vil så mange stadig se de gamle venner så mange år efter? Desuden dyster værterne i Friends-viden mod dagens gæst i studiet: superfanen Nick Hvidtfeldt.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45162584</guid>
+         <pubDate>Mon, 07 Jun 2021 07:00:16 +0000</pubDate>
+         <enclosure length="82146996" type="audio/mpeg" url="https://archive.org/download/tendenstruppen/Tendenstruppen/2021.06.07%20-%20Et%20gensyn%20med%20gamle%20Venner.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>We were on a break! Eller var de? Det er nok ikke gået manges næser forbi, at castet fra TV-serien Friends er vendt tilbage efter mange års pause til et længeventet reunion-afsnit. I den anledning dykker Niels, Filip og Nanna ned i Friends som...</itunes:subtitle>
+         <itunes:summary>We were on a break! Eller var de? Det er nok ikke gået manges næser forbi, at castet fra TV-serien Friends er vendt tilbage efter mange års pause til et længeventet reunion-afsnit. I den anledning dykker Niels, Filip og Nanna ned i Friends som popkulturelt fænomen: Hvordan blev det så stort, og hvorfor vil så mange stadig se de gamle venner så mange år efter? Desuden dyster værterne i Friends-viden mod dagens gæst i studiet: superfanen Nick Hvidtfeldt.</itunes:summary>
+         <itunes:duration>3421</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>80'erne hitter stadig</title>
+         <link>https://www.spreaker.com/user/radiolouddk/mp3-tendens-ep1</link>
+         <description>Hvorfor vil 80'erne ikke dø? Det er det store spørgsmål i dagens afsnit af Tendenstruppen, hvor Filip, Nanna og Niels endevender grundene til, at 80'erne stadig lever lystigt videre i vores kultur, selv om årtiet forlængst er forlist.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/45076865</guid>
+         <pubDate>Sat, 29 May 2021 11:00:14 +0000</pubDate>
+         <enclosure length="79289409" type="audio/mpeg" url="https://archive.org/download/tendenstruppen/Tendenstruppen/2021.05.29%20-%2080%27erne%20hitter%20stadig.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hvorfor vil 80'erne ikke dø? Det er det store spørgsmål i dagens afsnit af Tendenstruppen, hvor Filip, Nanna og Niels endevender grundene til, at 80'erne stadig lever lystigt videre i vores kultur, selv om årtiet forlængst er forlist.</itunes:subtitle>
+         <itunes:summary>Hvorfor vil 80'erne ikke dø? Det er det store spørgsmål i dagens afsnit af Tendenstruppen, hvor Filip, Nanna og Niels endevender grundene til, at 80'erne stadig lever lystigt videre i vores kultur, selv om årtiet forlængst er forlist.</itunes:summary>
+         <itunes:duration>3301</itunes:duration>
+         <itunes:keywords>80'erne,årtier,fest,hitter,igen,kultur,musik,tendenstruppen,underholdning</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86f76fa558d133505cf3550744066475.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

@@ -1,291 +1,123 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Sceneløs
-  </title>
-  <link>
-   https://loud.land/podcast/scenelos
-  </link>
-  <description>
-   Sceneløs er teater på lyd. Vi bruger virkeligheden som scenografi og virkelige historier som udgangspunkt for dramatik. Sceneløs er et samarbejde mellem Mungo Park og Loud, som sammen har sat dokumentaristerne fra Kontrafej og dramatikeren Nanna Tüchsen til at skabe fortællinger, der eksperimenterer med mødet mellem virkelighed og fiktion. Vi udkommer løbende med enkeltafsnit og serier
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4762584/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Drama
-  </category>
-  <copyright>
-   521943
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dc7fa56773c923296229096f9668b6a0.jpg
-   </url>
-   <title>
-    Sceneløs
-   </title>
-   <link>
-    https://loud.land/podcast/scenelos
-   </link>
-  </image>
-  <lastBuildDate>
-   Thu, 11 Jan 2024 10:36:33 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dc7fa56773c923296229096f9668b6a0.jpg"/>
-  <itunes:subtitle>
-   Sceneløs er teater på lyd.
-  </itunes:subtitle>
-  <itunes:summary>
-   Sceneløs er teater på lyd. Vi bruger virkeligheden som scenografi og virkelige historier som udgangspunkt for dramatik. Sceneløs er et samarbejde mellem Mungo Park og Loud, som sammen har sat dokumentaristerne fra Kontrafej og dramatikeren Nanna Tüchsen til at skabe fortællinger, der eksperimenterer med mødet mellem virkelighed og fiktion. Vi udkommer løbende med enkeltafsnit og serier
-  </itunes:summary>
-  <itunes:category text="Fiction">
-   <itunes:category text="Drama"/>
-  </itunes:category>
-  <itunes:category text="Fiction"/>
-  <itunes:explicit>
-   yes
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    En + Ensom
-   </title>
-   <link>
-    https://www.spreaker.com/episode/en-ensom--43302644
-   </link>
-   <description>
-    En Plus Ensom tager udgangspunkt i digteren Morgans autofiktive tekster om ensomhed. Morgans tekster danner parløb med den fiktive person Adams oplevelse af at være ensom. Inden historien slutter vil de to møde hinanden.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43302644
-   </guid>
-   <pubDate>
-    Fri, 26 Feb 2021 14:00:12 +0000
-   </pubDate>
-   <enclosure length="69427136" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43302644/en_ensom_til_podcast.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    En Plus Ensom tager udgangspunkt i digteren Morgans autofiktive tekster om ensomhed. Morgans tekster danner parløb med den fiktive person Adams oplevelse af at være ensom. Inden historien slutter vil de to møde hinanden.
-   </itunes:subtitle>
-   <itunes:summary>
-    En Plus Ensom tager udgangspunkt i digteren Morgans autofiktive tekster om ensomhed. Morgans tekster danner parløb med den fiktive person Adams oplevelse af at være ensom. Inden historien slutter vil de to møde hinanden.
-   </itunes:summary>
-   <itunes:duration>
-    2893
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/677e770f578c110d0706281fb18a4e1f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    For enden af skinnerne (del 2)
-   </title>
-   <link>
-    https://www.spreaker.com/episode/for-enden-af-skinnerne-del-2--43302642
-   </link>
-   <description>
-    I andet afsnit af dette dobbeltafsnit forlader Luna Soso på peronen. Vi følger Soso som tager alene til København for at mødes med “Mesteren”, som har tilbudt hende et job som værtinde på den klub han skal til at åbne. Vi møder også Sosos familie i Odense og får en fornemmelse af hvorfor hun længes væk.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43302642
-   </guid>
-   <pubDate>
-    Fri, 26 Feb 2021 14:00:12 +0000
-   </pubDate>
-   <enclosure length="63341120" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43302642/for_enden_af_skinnerne_del_2_til_podcast.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I andet afsnit af dette dobbeltafsnit forlader Luna Soso på peronen. Vi følger Soso som tager alene til København for at mødes med “Mesteren”, som har tilbudt hende et job som værtinde på den klub han skal til at åbne. Vi møder også Sosos familie i...
-   </itunes:subtitle>
-   <itunes:summary>
-    I andet afsnit af dette dobbeltafsnit forlader Luna Soso på peronen. Vi følger Soso som tager alene til København for at mødes med “Mesteren”, som har tilbudt hende et job som værtinde på den klub han skal til at åbne. Vi møder også Sosos familie i Odense og får en fornemmelse af hvorfor hun længes væk.
-   </itunes:summary>
-   <itunes:duration>
-    2640
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecbd75dde3afd3738b24ec272122d49a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    For enden af skinnerne (del 1)
-   </title>
-   <link>
-    https://www.spreaker.com/episode/for-enden-af-skinnerne-del-1--43302640
-   </link>
-   <description>
-    For Enden af Skinnerne er et dobbeltafsnit og er lavet som en kollage af reportage fra forstaderne i Odense og dramatik som udspiller sig på de samme villaveje. I første afsnit møder vi Luna som går i gymnasiet og bor i en forstad til Odense. Hun drømmer sig væk, men det bliver ved drømmene. En pige som heder Soso starter i klassen. Hun vil også væk men hun drømmer ikke. Hun handler. I for enden af Skinnerne følger vi de to og hvordan deres længsel påvirker de valg de træffer, i deres søgen efter at blive sig selv. Sideløbende følger vi Mads som en nat går alene på de veje hvor han voksede op, men forlod for år tilbage.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43302640
-   </guid>
-   <pubDate>
-    Fri, 26 Feb 2021 14:00:12 +0000
-   </pubDate>
-   <enclosure length="68189312" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43302640/for_enden_af_skinnerne_del_1_til_podcast.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    For Enden af Skinnerne er et dobbeltafsnit og er lavet som en kollage af reportage fra forstaderne i Odense og dramatik som udspiller sig på de samme villaveje. I første afsnit møder vi Luna som går i gymnasiet og bor i en forstad til Odense. Hun...
-   </itunes:subtitle>
-   <itunes:summary>
-    For Enden af Skinnerne er et dobbeltafsnit og er lavet som en kollage af reportage fra forstaderne i Odense og dramatik som udspiller sig på de samme villaveje. I første afsnit møder vi Luna som går i gymnasiet og bor i en forstad til Odense. Hun drømmer sig væk, men det bliver ved drømmene. En pige som heder Soso starter i klassen. Hun vil også væk men hun drømmer ikke. Hun handler. I for enden af Skinnerne følger vi de to og hvordan deres længsel påvirker de valg de træffer, i deres søgen efter at blive sig selv. Sideløbende følger vi Mads som en nat går alene på de veje hvor han voksede op, men forlod for år tilbage.
-   </itunes:summary>
-   <itunes:duration>
-    2842
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecbd75dde3afd3738b24ec272122d49a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kunstig kærlighed
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kunstig-kaerlighed--43302636
-   </link>
-   <description>
-    I Kunstig kærlighed møder følger vi Anne og Hassan fra deres første date og indtil forholdet tager en uventet drejning. Undervejs hører vi også en kort fortælling om et virkeligt møde som heller ikke gik som forventet. Det er en historie om hvordan vores hjerner kan spille os et pus, når vi leder efter kærligheden.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43302636
-   </guid>
-   <pubDate>
-    Fri, 19 Feb 2021 14:00:12 +0000
-   </pubDate>
-   <enclosure length="54225344" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43302636/kunstig_k_rlighed_til_podcast.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I Kunstig kærlighed møder følger vi Anne og Hassan fra deres første date og indtil forholdet tager en uventet drejning. Undervejs hører vi også en kort fortælling om et virkeligt møde som heller ikke gik som forventet. Det er en historie om hvordan...
-   </itunes:subtitle>
-   <itunes:summary>
-    I Kunstig kærlighed møder følger vi Anne og Hassan fra deres første date og indtil forholdet tager en uventet drejning. Undervejs hører vi også en kort fortælling om et virkeligt møde som heller ikke gik som forventet. Det er en historie om hvordan vores hjerner kan spille os et pus, når vi leder efter kærligheden.
-   </itunes:summary>
-   <itunes:duration>
-    2260
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9470e19cf1f1639c48b819aabdc34702.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Intet bliver som du tror
-   </title>
-   <link>
-    https://www.spreaker.com/episode/intet-bliver-som-du-tror--43302708
-   </link>
-   <description>
-    Intet Bliver Som Du Tror er to sammenflettede fortællinger der uløseligt hænger sammen. En fiktiv og en virkelig. Da Rikke var fire år gammel fik hun at vide at hun ikke ville blive over tredive. Hun blev født med en dødelig lungesygdom. Udsigten til et kort liv kom på mange måder til at forme hendes valg i livet, men inden lungerne gav op fandt lægerne en metode til at transplantere raske lunger til patienter med hendes diagnose. I Intet Bliver Som Du Tror følger vi Rikkes virkelige, og hendes totale modsætning Adams, fiktive historie. Inden historien slutter vil de to smelte sammen.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43302708
-   </guid>
-   <pubDate>
-    Fri, 12 Feb 2021 14:00:12 +0000
-   </pubDate>
-   <enclosure length="59529152" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43302708/intet_bliver_som_du_tror_til_podcast.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Intet Bliver Som Du Tror er to sammenflettede fortællinger der uløseligt hænger sammen. En fiktiv og en virkelig. Da Rikke var fire år gammel fik hun at vide at hun ikke ville blive over tredive. Hun blev født med en dødelig lungesygdom. Udsigten til...
-   </itunes:subtitle>
-   <itunes:summary>
-    Intet Bliver Som Du Tror er to sammenflettede fortællinger der uløseligt hænger sammen. En fiktiv og en virkelig. Da Rikke var fire år gammel fik hun at vide at hun ikke ville blive over tredive. Hun blev født med en dødelig lungesygdom. Udsigten til et kort liv kom på mange måder til at forme hendes valg i livet, men inden lungerne gav op fandt lægerne en metode til at transplantere raske lunger til patienter med hendes diagnose. I Intet Bliver Som Du Tror følger vi Rikkes virkelige, og hendes totale modsætning Adams, fiktive historie. Inden historien slutter vil de to smelte sammen.
-   </itunes:summary>
-   <itunes:duration>
-    2481
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e068b157b4cb29025879a9413870f9bd.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    KING
-   </title>
-   <link>
-    https://www.spreaker.com/episode/king--43282165
-   </link>
-   <description>
-    King er heks, danser og et popfænomen. Hun er Hollywood, Havanna og København. Engang var hun en helt almindelig lille pige der voksede op i Vanløse, men et sexuelt overgreb, en forbandelse og en shaman i Havanna startede transformationen fra Gabriella til King, som hun hedder idag. Afsnittet er et lydligt dramatiseret portræt hvor hun spiller hovedrollen i hendes eget liv og historien om hvordan hun blev sig selv.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43282165
-   </guid>
-   <pubDate>
-    Thu, 04 Feb 2021 13:00:00 +0000
-   </pubDate>
-   <enclosure length="64271360" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43282165/king_til_podcast.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    King er heks, danser og et popfænomen. Hun er Hollywood, Havanna og København. Engang var hun en helt almindelig lille pige der voksede op i Vanløse, men et sexuelt overgreb, en forbandelse og en shaman i Havanna startede transformationen fra...
-   </itunes:subtitle>
-   <itunes:summary>
-    King er heks, danser og et popfænomen. Hun er Hollywood, Havanna og København. Engang var hun en helt almindelig lille pige der voksede op i Vanløse, men et sexuelt overgreb, en forbandelse og en shaman i Havanna startede transformationen fra Gabriella til King, som hun hedder idag. Afsnittet er et lydligt dramatiseret portræt hvor hun spiller hovedrollen i hendes eget liv og historien om hvordan hun blev sig selv.
-   </itunes:summary>
-   <itunes:duration>
-    2678
-   </itunes:duration>
-   <itunes:keywords>
-    dokumentar,fiktion,heks,king,radiodrama
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7b3ca284a834337d80d055b1f73efcce.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Sceneløs</title>
+      <link>https://loud.land/podcast/scenelos</link>
+      <description>Sceneløs er teater på lyd. Vi bruger virkeligheden som scenografi og virkelige historier som udgangspunkt for dramatik. Sceneløs er et samarbejde mellem Mungo Park og Loud, som sammen har sat dokumentaristerne fra Kontrafej og dramatikeren Nanna Tüchsen til at skabe fortællinger, der eksperimenterer med mødet mellem virkelighed og fiktion. Vi udkommer løbende med enkeltafsnit og serier</description>
+      <atom:link href="https://www.spreaker.com/show/4762584/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Drama</category>
+      <copyright>521943</copyright>
+      <image>
+         <url>https://archive.org/download/scenelos/Scenel%C3%B8s/dc7fa56773c923296229096f9668b6a0.jpg</url>
+         <title>Sceneløs</title>
+         <link>https://loud.land/podcast/scenelos</link>
+      </image>
+      <lastBuildDate>Thu, 11 Jan 2024 10:36:33 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dc7fa56773c923296229096f9668b6a0.jpg" />
+      <itunes:subtitle>Sceneløs er teater på lyd.</itunes:subtitle>
+      <itunes:summary>Sceneløs er teater på lyd. Vi bruger virkeligheden som scenografi og virkelige historier som udgangspunkt for dramatik. Sceneløs er et samarbejde mellem Mungo Park og Loud, som sammen har sat dokumentaristerne fra Kontrafej og dramatikeren Nanna Tüchsen til at skabe fortællinger, der eksperimenterer med mødet mellem virkelighed og fiktion. Vi udkommer løbende med enkeltafsnit og serier</itunes:summary>
+      <itunes:category text="Fiction">
+         <itunes:category text="Drama" />
+      </itunes:category>
+      <itunes:category text="Fiction" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>En + Ensom</title>
+         <link>https://www.spreaker.com/episode/en-ensom--43302644</link>
+         <description>En Plus Ensom tager udgangspunkt i digteren Morgans autofiktive tekster om ensomhed. Morgans tekster danner parløb med den fiktive person Adams oplevelse af at være ensom. Inden historien slutter vil de to møde hinanden.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43302644</guid>
+         <pubDate>Fri, 26 Feb 2021 14:00:12 +0000</pubDate>
+         <enclosure length="69427136" type="audio/mpeg" url="https://archive.org/download/scenelos/Scenel%C3%B8s/2021.02.26%20-%20En%20%2B%20Ensom.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>En Plus Ensom tager udgangspunkt i digteren Morgans autofiktive tekster om ensomhed. Morgans tekster danner parløb med den fiktive person Adams oplevelse af at være ensom. Inden historien slutter vil de to møde hinanden.</itunes:subtitle>
+         <itunes:summary>En Plus Ensom tager udgangspunkt i digteren Morgans autofiktive tekster om ensomhed. Morgans tekster danner parløb med den fiktive person Adams oplevelse af at være ensom. Inden historien slutter vil de to møde hinanden.</itunes:summary>
+         <itunes:duration>2893</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/677e770f578c110d0706281fb18a4e1f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>For enden af skinnerne (del 2)</title>
+         <link>https://www.spreaker.com/episode/for-enden-af-skinnerne-del-2--43302642</link>
+         <description>I andet afsnit af dette dobbeltafsnit forlader Luna Soso på peronen. Vi følger Soso som tager alene til København for at mødes med “Mesteren”, som har tilbudt hende et job som værtinde på den klub han skal til at åbne. Vi møder også Sosos familie i Odense og får en fornemmelse af hvorfor hun længes væk.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43302642</guid>
+         <pubDate>Fri, 26 Feb 2021 14:00:12 +0000</pubDate>
+         <enclosure length="63341120" type="audio/mpeg" url="https://archive.org/download/scenelos/Scenel%C3%B8s/2021.02.26%20-%20For%20enden%20af%20skinnerne%20%28del%201%29.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I andet afsnit af dette dobbeltafsnit forlader Luna Soso på peronen. Vi følger Soso som tager alene til København for at mødes med “Mesteren”, som har tilbudt hende et job som værtinde på den klub han skal til at åbne. Vi møder også Sosos familie i...</itunes:subtitle>
+         <itunes:summary>I andet afsnit af dette dobbeltafsnit forlader Luna Soso på peronen. Vi følger Soso som tager alene til København for at mødes med “Mesteren”, som har tilbudt hende et job som værtinde på den klub han skal til at åbne. Vi møder også Sosos familie i Odense og får en fornemmelse af hvorfor hun længes væk.</itunes:summary>
+         <itunes:duration>2640</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecbd75dde3afd3738b24ec272122d49a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>For enden af skinnerne (del 1)</title>
+         <link>https://www.spreaker.com/episode/for-enden-af-skinnerne-del-1--43302640</link>
+         <description>For Enden af Skinnerne er et dobbeltafsnit og er lavet som en kollage af reportage fra forstaderne i Odense og dramatik som udspiller sig på de samme villaveje. I første afsnit møder vi Luna som går i gymnasiet og bor i en forstad til Odense. Hun drømmer sig væk, men det bliver ved drømmene. En pige som heder Soso starter i klassen. Hun vil også væk men hun drømmer ikke. Hun handler. I for enden af Skinnerne følger vi de to og hvordan deres længsel påvirker de valg de træffer, i deres søgen efter at blive sig selv. Sideløbende følger vi Mads som en nat går alene på de veje hvor han voksede op, men forlod for år tilbage.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43302640</guid>
+         <pubDate>Fri, 26 Feb 2021 14:00:12 +0000</pubDate>
+         <enclosure length="68189312" type="audio/mpeg" url="https://archive.org/download/scenelos/Scenel%C3%B8s/2021.02.26%20-%20For%20enden%20af%20skinnerne%20%28del%202%29.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>For Enden af Skinnerne er et dobbeltafsnit og er lavet som en kollage af reportage fra forstaderne i Odense og dramatik som udspiller sig på de samme villaveje. I første afsnit møder vi Luna som går i gymnasiet og bor i en forstad til Odense. Hun...</itunes:subtitle>
+         <itunes:summary>For Enden af Skinnerne er et dobbeltafsnit og er lavet som en kollage af reportage fra forstaderne i Odense og dramatik som udspiller sig på de samme villaveje. I første afsnit møder vi Luna som går i gymnasiet og bor i en forstad til Odense. Hun drømmer sig væk, men det bliver ved drømmene. En pige som heder Soso starter i klassen. Hun vil også væk men hun drømmer ikke. Hun handler. I for enden af Skinnerne følger vi de to og hvordan deres længsel påvirker de valg de træffer, i deres søgen efter at blive sig selv. Sideløbende følger vi Mads som en nat går alene på de veje hvor han voksede op, men forlod for år tilbage.</itunes:summary>
+         <itunes:duration>2842</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ecbd75dde3afd3738b24ec272122d49a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kunstig kærlighed</title>
+         <link>https://www.spreaker.com/episode/kunstig-kaerlighed--43302636</link>
+         <description>I Kunstig kærlighed møder følger vi Anne og Hassan fra deres første date og indtil forholdet tager en uventet drejning. Undervejs hører vi også en kort fortælling om et virkeligt møde som heller ikke gik som forventet. Det er en historie om hvordan vores hjerner kan spille os et pus, når vi leder efter kærligheden.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43302636</guid>
+         <pubDate>Fri, 19 Feb 2021 14:00:12 +0000</pubDate>
+         <enclosure length="54225344" type="audio/mpeg" url="https://archive.org/download/scenelos/Scenel%C3%B8s/2021.02.19%20-%20Kunstig%20k%C3%A6rlighed.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I Kunstig kærlighed møder følger vi Anne og Hassan fra deres første date og indtil forholdet tager en uventet drejning. Undervejs hører vi også en kort fortælling om et virkeligt møde som heller ikke gik som forventet. Det er en historie om hvordan...</itunes:subtitle>
+         <itunes:summary>I Kunstig kærlighed møder følger vi Anne og Hassan fra deres første date og indtil forholdet tager en uventet drejning. Undervejs hører vi også en kort fortælling om et virkeligt møde som heller ikke gik som forventet. Det er en historie om hvordan vores hjerner kan spille os et pus, når vi leder efter kærligheden.</itunes:summary>
+         <itunes:duration>2260</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9470e19cf1f1639c48b819aabdc34702.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Intet bliver som du tror</title>
+         <link>https://www.spreaker.com/episode/intet-bliver-som-du-tror--43302708</link>
+         <description>Intet Bliver Som Du Tror er to sammenflettede fortællinger der uløseligt hænger sammen. En fiktiv og en virkelig. Da Rikke var fire år gammel fik hun at vide at hun ikke ville blive over tredive. Hun blev født med en dødelig lungesygdom. Udsigten til et kort liv kom på mange måder til at forme hendes valg i livet, men inden lungerne gav op fandt lægerne en metode til at transplantere raske lunger til patienter med hendes diagnose. I Intet Bliver Som Du Tror følger vi Rikkes virkelige, og hendes totale modsætning Adams, fiktive historie. Inden historien slutter vil de to smelte sammen.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43302708</guid>
+         <pubDate>Fri, 12 Feb 2021 14:00:12 +0000</pubDate>
+         <enclosure length="59529152" type="audio/mpeg" url="https://archive.org/download/scenelos/Scenel%C3%B8s/2021.02.12%20-%20Intet%20bliver%20som%20du%20tror.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Intet Bliver Som Du Tror er to sammenflettede fortællinger der uløseligt hænger sammen. En fiktiv og en virkelig. Da Rikke var fire år gammel fik hun at vide at hun ikke ville blive over tredive. Hun blev født med en dødelig lungesygdom. Udsigten til...</itunes:subtitle>
+         <itunes:summary>Intet Bliver Som Du Tror er to sammenflettede fortællinger der uløseligt hænger sammen. En fiktiv og en virkelig. Da Rikke var fire år gammel fik hun at vide at hun ikke ville blive over tredive. Hun blev født med en dødelig lungesygdom. Udsigten til et kort liv kom på mange måder til at forme hendes valg i livet, men inden lungerne gav op fandt lægerne en metode til at transplantere raske lunger til patienter med hendes diagnose. I Intet Bliver Som Du Tror følger vi Rikkes virkelige, og hendes totale modsætning Adams, fiktive historie. Inden historien slutter vil de to smelte sammen.</itunes:summary>
+         <itunes:duration>2481</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e068b157b4cb29025879a9413870f9bd.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>KING</title>
+         <link>https://www.spreaker.com/episode/king--43282165</link>
+         <description>King er heks, danser og et popfænomen. Hun er Hollywood, Havanna og København. Engang var hun en helt almindelig lille pige der voksede op i Vanløse, men et sexuelt overgreb, en forbandelse og en shaman i Havanna startede transformationen fra Gabriella til King, som hun hedder idag. Afsnittet er et lydligt dramatiseret portræt hvor hun spiller hovedrollen i hendes eget liv og historien om hvordan hun blev sig selv.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43282165</guid>
+         <pubDate>Thu, 04 Feb 2021 13:00:00 +0000</pubDate>
+         <enclosure length="64271360" type="audio/mpeg" url="https://archive.org/download/scenelos/Scenel%C3%B8s/2021.02.04%20-%20KING.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>King er heks, danser og et popfænomen. Hun er Hollywood, Havanna og København. Engang var hun en helt almindelig lille pige der voksede op i Vanløse, men et sexuelt overgreb, en forbandelse og en shaman i Havanna startede transformationen fra...</itunes:subtitle>
+         <itunes:summary>King er heks, danser og et popfænomen. Hun er Hollywood, Havanna og København. Engang var hun en helt almindelig lille pige der voksede op i Vanløse, men et sexuelt overgreb, en forbandelse og en shaman i Havanna startede transformationen fra Gabriella til King, som hun hedder idag. Afsnittet er et lydligt dramatiseret portræt hvor hun spiller hovedrollen i hendes eget liv og historien om hvordan hun blev sig selv.</itunes:summary>
+         <itunes:duration>2678</itunes:duration>
+         <itunes:keywords>dokumentar,fiktion,heks,king,radiodrama</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7b3ca284a834337d80d055b1f73efcce.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

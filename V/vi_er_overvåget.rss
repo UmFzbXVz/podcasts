@@ -1,351 +1,149 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Vi Er Overvåget
-  </title>
-  <link>
-   https://loud.land/podcast/vi-er-overvaaget
-  </link>
-  <description>
-   Hvordan føles det at blive overvåget - af en infiltrationsagent, gennem telefonaflytning eller nogle af alle de andre redskaber efterretningstjenesterne har til rådighed? &lt;br /&gt;&lt;br /&gt;I podcastserien Vi Er Overvåget, taler Marie Høst med dem, der har oplevet overvågningen på egen krop og dem der ved, hvordan det gik til at staten fik øjne og øre at udspionere os allesammen med.&lt;br /&gt;&lt;br /&gt;Gennem FE-skandalen ved vi nu at forsvarets efterretningstjeneste, har blotlagt Danmarks vitale informationsblodårer for amerikanske NSA, der suger data om danskerne - tilsyneladende efter forgodtbefindende. &lt;br /&gt;&lt;br /&gt;At personer og grupper, der vil begå alvorlig kriminalitet, bliver overvåget er ikke så kontroversielt. Men at lovlige demonstrationer og aktivistisk arbejde, og helt almindelige mennesker som mig - og dig, der lytter til det her lige nu - også bliver overvåget af Staten er mere tankevækkende.&lt;br /&gt;&lt;br /&gt;Skal vi bekymre os - og hvad kan vi eventuelt stille op?
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4688338/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Technology
-  </category>
-  <copyright>
-   521943
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c80f4cc0c88132a35d5eb0742c873a59.jpg
-   </url>
-   <title>
-    Vi Er Overvåget
-   </title>
-   <link>
-    https://loud.land/podcast/vi-er-overvaaget
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c80f4cc0c88132a35d5eb0742c873a59.jpg"/>
-  <itunes:subtitle>
-   Hvordan føles det at blive overvåget - af en infiltrationsagent, gennem telefonaflytning eller nogle af alle de andre redskaber efterretningstjenesterne har til rådighed? 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Vi Er Overvåget</title>
+      <link>https://loud.land/podcast/vi-er-overvaaget</link>
+      <description>Hvordan føles det at blive overvåget - af en infiltrationsagent, gennem telefonaflytning eller nogle af alle de andre redskaber efterretningstjenesterne har til rådighed? &lt;br /&gt;&lt;br /&gt;I podcastserien Vi Er Overvåget, taler Marie Høst med dem, der har oplevet overvågningen på egen krop og dem der ved, hvordan det gik til at staten fik øjne og øre at udspionere os allesammen med.&lt;br /&gt;&lt;br /&gt;Gennem FE-skandalen ved vi nu at forsvarets efterretningstjeneste, har blotlagt Danmarks vitale informationsblodårer for amerikanske NSA, der suger data om danskerne - tilsyneladende efter forgodtbefindende. &lt;br /&gt;&lt;br /&gt;At personer og grupper, der vil begå alvorlig kriminalitet, bliver overvåget er ikke så kontroversielt. Men at lovlige demonstrationer og aktivistisk arbejde, og helt almindelige mennesker som mig - og dig, der lytter til det her lige nu - også bliver overvåget af Staten er mere tankevækkende.&lt;br /&gt;&lt;br /&gt;Skal vi bekymre os - og hvad kan vi eventuelt stille op?</description>
+      <atom:link href="https://www.spreaker.com/show/4688338/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Technology</category>
+      <copyright>521943</copyright>
+      <image>
+         <url>https://archive.org/download/vi_er_overvaget/Vi%20Er%20Overv%C3%A5get/c80f4cc0c88132a35d5eb0742c873a59.jpg</url>
+         <title>Vi Er Overvåget</title>
+         <link>https://loud.land/podcast/vi-er-overvaaget</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c80f4cc0c88132a35d5eb0742c873a59.jpg" />
+      <itunes:subtitle>Hvordan føles det at blive overvåget - af en infiltrationsagent, gennem telefonaflytning eller nogle af alle de andre redskaber efterretningstjenesterne har til rådighed? 
 
-I podcastserien Vi Er Overvåget, taler Marie Høst med dem, der har oplevet...
-  </itunes:subtitle>
-  <itunes:summary>
-   Hvordan føles det at blive overvåget - af en infiltrationsagent, gennem telefonaflytning eller nogle af alle de andre redskaber efterretningstjenesterne har til rådighed? &lt;br /&gt;&lt;br /&gt;I podcastserien Vi Er Overvåget, taler Marie Høst med dem, der har oplevet overvågningen på egen krop og dem der ved, hvordan det gik til at staten fik øjne og øre at udspionere os allesammen med.&lt;br /&gt;&lt;br /&gt;Gennem FE-skandalen ved vi nu at forsvarets efterretningstjeneste, har blotlagt Danmarks vitale informationsblodårer for amerikanske NSA, der suger data om danskerne - tilsyneladende efter forgodtbefindende. &lt;br /&gt;&lt;br /&gt;At personer og grupper, der vil begå alvorlig kriminalitet, bliver overvåget er ikke så kontroversielt. Men at lovlige demonstrationer og aktivistisk arbejde, og helt almindelige mennesker som mig - og dig, der lytter til det her lige nu - også bliver overvåget af Staten er mere tankevækkende.&lt;br /&gt;&lt;br /&gt;Skal vi bekymre os - og hvad kan vi eventuelt stille op?
-  </itunes:summary>
-  <itunes:category text="Technology"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    6:6 Den mest alvorlige overvågningsskandale i nyere tid
-   </title>
-   <link>
-    https://www.spreaker.com/episode/6-6-den-mest-alvorlige-overvagningsskandale-i-nyere-tid--42481113
-   </link>
-   <description>
-    I denne episode zoomer vi helt ind på det, der har ligget til grund for hele denne podcastserie. Vi kigger på skandalen om Forsvarets Efterretningstjeneste, der i årtier målrettet har indsamlet oplysninger om borgere i Danmark og videregivet disse data til NSA i USA.&lt;br /&gt;&lt;br /&gt;Tobias Liebetrau har været med til at udforme Danmarks cyber- og informationssikkerhedsstrategi for netop FE og han fortæller lidt om de muligheder NSA har haft for at hive data om danskerne ud af landet.  &lt;br /&gt;&lt;br /&gt;Han skal hjælpe os med at blive klogere på, hvad der er sket - og om det har haft eller kommer til at have nogle konsekvenser for magthaverne her i landet. &lt;br /&gt;&lt;br /&gt;Dette er sjette og foreløbigt sidste afsnit af Vi Er Overvåget. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42481113
-   </guid>
-   <pubDate>
-    Thu, 17 Dec 2020 06:00:17 +0000
-   </pubDate>
-   <enclosure length="36930917" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42481113/ep06.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I denne episode zoomer vi helt ind på det, der har ligget til grund for hele denne podcastserie. Vi kigger på skandalen om Forsvarets Efterretningstjeneste, der i årtier målrettet har indsamlet oplysninger om borgere i Danmark og videregivet disse...
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne episode zoomer vi helt ind på det, der har ligget til grund for hele denne podcastserie. Vi kigger på skandalen om Forsvarets Efterretningstjeneste, der i årtier målrettet har indsamlet oplysninger om borgere i Danmark og videregivet disse data til NSA i USA.&lt;br /&gt;&lt;br /&gt;Tobias Liebetrau har været med til at udforme Danmarks cyber- og informationssikkerhedsstrategi for netop FE og han fortæller lidt om de muligheder NSA har haft for at hive data om danskerne ud af landet.  &lt;br /&gt;&lt;br /&gt;Han skal hjælpe os med at blive klogere på, hvad der er sket - og om det har haft eller kommer til at have nogle konsekvenser for magthaverne her i landet. &lt;br /&gt;&lt;br /&gt;Dette er sjette og foreløbigt sidste afsnit af Vi Er Overvåget. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.
-   </itunes:summary>
-   <itunes:duration>
-    1537
-   </itunes:duration>
-   <itunes:keywords>
-    data,efterretningstjeneste,fe,høst,loud,nsa,overvåget,overvågning,samfund,teknologi
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c80f4cc0c88132a35d5eb0742c873a59.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    5:6 "Collect it all!"
-   </title>
-   <link>
-    https://www.spreaker.com/episode/5-6-collect-it-all--42431844
-   </link>
-   <description>
-    ”Collect it all!” det var mantraet for NSA’s tidligere højeste chef Keith Alexander, når det kom til indsamling af digital data. Alt skulle høstes. &lt;br /&gt;&lt;br /&gt;Eller som en ansat i NSA, USAs National Security Agency, udtalte til en artikel i Washington Post: I stedet for at lede efter en nål i en høstak, så indsamler NSA hele høstakken, når de leder efter potentielle sikkerhedstrusler. &lt;br /&gt;&lt;br /&gt;Det var whistlebloweren Edward Snowden, der i 2013 ofrede sin personlige frihed for at råbe verdenssamfundet op omkring den massive mængde information, NSA indsamler om os alle sammen. &lt;br /&gt;&lt;br /&gt;To journalister fra Dagbladet Information, Henrik Moltke og Sebastian Gjerding får fingrene de lækkede Snowden dokumenter, der handler om Danmark. &lt;br /&gt;&lt;br /&gt;Vi Er Overvåget handler i denne episode om masseovervågning. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42431844
-   </guid>
-   <pubDate>
-    Mon, 14 Dec 2020 09:40:13 +0000
-   </pubDate>
-   <enclosure length="41490643" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42431844/ep05.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    ”Collect it all!” det var mantraet for NSA’s tidligere højeste chef Keith Alexander, når det kom til indsamling af digital data. Alt skulle høstes. 
+I podcastserien Vi Er Overvåget, taler Marie Høst med dem, der har oplevet...</itunes:subtitle>
+      <itunes:summary>Hvordan føles det at blive overvåget - af en infiltrationsagent, gennem telefonaflytning eller nogle af alle de andre redskaber efterretningstjenesterne har til rådighed? &lt;br /&gt;&lt;br /&gt;I podcastserien Vi Er Overvåget, taler Marie Høst med dem, der har oplevet overvågningen på egen krop og dem der ved, hvordan det gik til at staten fik øjne og øre at udspionere os allesammen med.&lt;br /&gt;&lt;br /&gt;Gennem FE-skandalen ved vi nu at forsvarets efterretningstjeneste, har blotlagt Danmarks vitale informationsblodårer for amerikanske NSA, der suger data om danskerne - tilsyneladende efter forgodtbefindende. &lt;br /&gt;&lt;br /&gt;At personer og grupper, der vil begå alvorlig kriminalitet, bliver overvåget er ikke så kontroversielt. Men at lovlige demonstrationer og aktivistisk arbejde, og helt almindelige mennesker som mig - og dig, der lytter til det her lige nu - også bliver overvåget af Staten er mere tankevækkende.&lt;br /&gt;&lt;br /&gt;Skal vi bekymre os - og hvad kan vi eventuelt stille op?</itunes:summary>
+      <itunes:category text="Technology" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>6:6 Den mest alvorlige overvågningsskandale i nyere tid</title>
+         <link>https://www.spreaker.com/episode/6-6-den-mest-alvorlige-overvagningsskandale-i-nyere-tid--42481113</link>
+         <description>I denne episode zoomer vi helt ind på det, der har ligget til grund for hele denne podcastserie. Vi kigger på skandalen om Forsvarets Efterretningstjeneste, der i årtier målrettet har indsamlet oplysninger om borgere i Danmark og videregivet disse data til NSA i USA.&lt;br /&gt;&lt;br /&gt;Tobias Liebetrau har været med til at udforme Danmarks cyber- og informationssikkerhedsstrategi for netop FE og han fortæller lidt om de muligheder NSA har haft for at hive data om danskerne ud af landet.  &lt;br /&gt;&lt;br /&gt;Han skal hjælpe os med at blive klogere på, hvad der er sket - og om det har haft eller kommer til at have nogle konsekvenser for magthaverne her i landet. &lt;br /&gt;&lt;br /&gt;Dette er sjette og foreløbigt sidste afsnit af Vi Er Overvåget. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42481113</guid>
+         <pubDate>Thu, 17 Dec 2020 06:00:17 +0000</pubDate>
+         <enclosure length="36930917" type="audio/mpeg" url="https://archive.org/download/vi_er_overvaget/Vi%20Er%20Overv%C3%A5get/2020.12.17%20-%206.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I denne episode zoomer vi helt ind på det, der har ligget til grund for hele denne podcastserie. Vi kigger på skandalen om Forsvarets Efterretningstjeneste, der i årtier målrettet har indsamlet oplysninger om borgere i Danmark og videregivet disse...</itunes:subtitle>
+         <itunes:summary>I denne episode zoomer vi helt ind på det, der har ligget til grund for hele denne podcastserie. Vi kigger på skandalen om Forsvarets Efterretningstjeneste, der i årtier målrettet har indsamlet oplysninger om borgere i Danmark og videregivet disse data til NSA i USA.&lt;br /&gt;&lt;br /&gt;Tobias Liebetrau har været med til at udforme Danmarks cyber- og informationssikkerhedsstrategi for netop FE og han fortæller lidt om de muligheder NSA har haft for at hive data om danskerne ud af landet.  &lt;br /&gt;&lt;br /&gt;Han skal hjælpe os med at blive klogere på, hvad der er sket - og om det har haft eller kommer til at have nogle konsekvenser for magthaverne her i landet. &lt;br /&gt;&lt;br /&gt;Dette er sjette og foreløbigt sidste afsnit af Vi Er Overvåget. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.</itunes:summary>
+         <itunes:duration>1537</itunes:duration>
+         <itunes:keywords>data,efterretningstjeneste,fe,høst,loud,nsa,overvåget,overvågning,samfund,teknologi</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c80f4cc0c88132a35d5eb0742c873a59.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>5:6 "Collect it all!"</title>
+         <link>https://www.spreaker.com/episode/5-6-collect-it-all--42431844</link>
+         <description>”Collect it all!” det var mantraet for NSA’s tidligere højeste chef Keith Alexander, når det kom til indsamling af digital data. Alt skulle høstes. &lt;br /&gt;&lt;br /&gt;Eller som en ansat i NSA, USAs National Security Agency, udtalte til en artikel i Washington Post: I stedet for at lede efter en nål i en høstak, så indsamler NSA hele høstakken, når de leder efter potentielle sikkerhedstrusler. &lt;br /&gt;&lt;br /&gt;Det var whistlebloweren Edward Snowden, der i 2013 ofrede sin personlige frihed for at råbe verdenssamfundet op omkring den massive mængde information, NSA indsamler om os alle sammen. &lt;br /&gt;&lt;br /&gt;To journalister fra Dagbladet Information, Henrik Moltke og Sebastian Gjerding får fingrene de lækkede Snowden dokumenter, der handler om Danmark. &lt;br /&gt;&lt;br /&gt;Vi Er Overvåget handler i denne episode om masseovervågning. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42431844</guid>
+         <pubDate>Mon, 14 Dec 2020 09:40:13 +0000</pubDate>
+         <enclosure length="41490643" type="audio/mpeg" url="https://archive.org/download/vi_er_overvaget/Vi%20Er%20Overv%C3%A5get/2020.12.14%20-%205.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>”Collect it all!” det var mantraet for NSA’s tidligere højeste chef Keith Alexander, når det kom til indsamling af digital data. Alt skulle høstes. 
 
-Eller som en ansat i NSA, USAs National Security Agency, udtalte til en artikel i Washington Post: I...
-   </itunes:subtitle>
-   <itunes:summary>
-    ”Collect it all!” det var mantraet for NSA’s tidligere højeste chef Keith Alexander, når det kom til indsamling af digital data. Alt skulle høstes. &lt;br /&gt;&lt;br /&gt;Eller som en ansat i NSA, USAs National Security Agency, udtalte til en artikel i Washington Post: I stedet for at lede efter en nål i en høstak, så indsamler NSA hele høstakken, når de leder efter potentielle sikkerhedstrusler. &lt;br /&gt;&lt;br /&gt;Det var whistlebloweren Edward Snowden, der i 2013 ofrede sin personlige frihed for at råbe verdenssamfundet op omkring den massive mængde information, NSA indsamler om os alle sammen. &lt;br /&gt;&lt;br /&gt;To journalister fra Dagbladet Information, Henrik Moltke og Sebastian Gjerding får fingrene de lækkede Snowden dokumenter, der handler om Danmark. &lt;br /&gt;&lt;br /&gt;Vi Er Overvåget handler i denne episode om masseovervågning. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.
-   </itunes:summary>
-   <itunes:duration>
-    1727
-   </itunes:duration>
-   <itunes:keywords>
-    data,efterretningstjeneste,forsvarets,loud,nas,nsa,overvågning,snowden
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c80f4cc0c88132a35d5eb0742c873a59.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    4:6 En aktivist uden navn
-   </title>
-   <link>
-    https://www.spreaker.com/episode/4-6-en-aktivist-uden-navn--42397708
-   </link>
-   <description>
-    I denne episode taler Marie Høst med en person, der kæmper for klimaet og som bl.a. var med under COP15 klimatopmødet i København i 2009. Forrige episode handlede om COP15 og hvis du ikke har hørt det afsnit, så bør du lytte til det før du lytter til dette.&lt;br /&gt;&lt;br /&gt;COP15 endte uden en egentlig klimaaftale mellem verdens lande. Aktivister og demonstranter kunne konstatere, at heller ikke denne gang blev klimaproblemerne taget seriøst, og det udløste en krise af afmagt, der splittede klimabevægelsen. &lt;br /&gt;&lt;br /&gt;I dag har klimaspørgsmålet fået ny vind i sejlene og unge på barrikaderne, men blandt aktivistgrupper skræmmer sporene og erfaringerne fra tidligere og har skabt en udpræget bevidsthed om mulig overvågning. Så hvilke metoder bruger aktivister i dag for at undgå at politiet og efterretningstjenesterne lytter med? &lt;br /&gt;&lt;br /&gt;Dette er fjerde episode af "Vi er Overvåget". En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I denne episode fortsætter vi vores fokus på overvågning af grupper af demonstranter og aktivister - denne gang med besøg af en aktivist, der selv har følt sig nødsaget til at tage adskillige forholdsregler i sit aktivistiske virke for at undgå overvågning. Aktivisten er anonym, men navnet er redaktionen bekendt. &lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42397708
-   </guid>
-   <pubDate>
-    Thu, 10 Dec 2020 06:00:05 +0000
-   </pubDate>
-   <enclosure length="36225611" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42397708/ep04.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I denne episode taler Marie Høst med en person, der kæmper for klimaet og som bl.a. var med under COP15 klimatopmødet i København i 2009. Forrige episode handlede om COP15 og hvis du ikke har hørt det afsnit, så bør du lytte til det før du lytter til...
-   </itunes:subtitle>
-   <itunes:summary>
-    I denne episode taler Marie Høst med en person, der kæmper for klimaet og som bl.a. var med under COP15 klimatopmødet i København i 2009. Forrige episode handlede om COP15 og hvis du ikke har hørt det afsnit, så bør du lytte til det før du lytter til dette.&lt;br /&gt;&lt;br /&gt;COP15 endte uden en egentlig klimaaftale mellem verdens lande. Aktivister og demonstranter kunne konstatere, at heller ikke denne gang blev klimaproblemerne taget seriøst, og det udløste en krise af afmagt, der splittede klimabevægelsen. &lt;br /&gt;&lt;br /&gt;I dag har klimaspørgsmålet fået ny vind i sejlene og unge på barrikaderne, men blandt aktivistgrupper skræmmer sporene og erfaringerne fra tidligere og har skabt en udpræget bevidsthed om mulig overvågning. Så hvilke metoder bruger aktivister i dag for at undgå at politiet og efterretningstjenesterne lytter med? &lt;br /&gt;&lt;br /&gt;Dette er fjerde episode af "Vi er Overvåget". En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I denne episode fortsætter vi vores fokus på overvågning af grupper af demonstranter og aktivister - denne gang med besøg af en aktivist, der selv har følt sig nødsaget til at tage adskillige forholdsregler i sit aktivistiske virke for at undgå overvågning. Aktivisten er anonym, men navnet er redaktionen bekendt. &lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.
-   </itunes:summary>
-   <itunes:duration>
-    1507
-   </itunes:duration>
-   <itunes:keywords>
-    cop15,data,enigma,høst,loud,overvåget,overvågning,pet,vier
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3a5f63b2182cbb433a4c551cef326bd5.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    3:6 Den aflyttede Nokia
-   </title>
-   <link>
-    https://www.spreaker.com/episode/3-6-den-aflyttede-nokia--42356401
-   </link>
-   <description>
-    Mads Flarup Christensen, er i generalsekretær i Greenpeace Norden, og han var med under under COP15. Han fik sig noget af en overraskelse, da han efter topmødet fik et særligt brev fra politiet. &lt;br /&gt;&lt;br /&gt;At politiet overvåger grupper, der vil begå alvorlig kriminalitet, er ikke så kontroversielt. Men at lovlige demonstrationer og aktivistisk arbejde også kan blive udsat for overvågning fra staten er mere tankevækkende. &lt;br /&gt;&lt;br /&gt;Dette er tredje episode af Vi er Overvåget. En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem, der selv har oplevet statslig overvågning – på egen krop.&lt;br /&gt;&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I denne episode skal vi tale om overvågning af grupper af demonstranter og aktivister. &lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42356401
-   </guid>
-   <pubDate>
-    Tue, 08 Dec 2020 06:00:15 +0000
-   </pubDate>
-   <enclosure length="43478039" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42356401/ep03.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Mads Flarup Christensen, er i generalsekretær i Greenpeace Norden, og han var med under under COP15. Han fik sig noget af en overraskelse, da han efter topmødet fik et særligt brev fra politiet. 
+Eller som en ansat i NSA, USAs National Security Agency, udtalte til en artikel i Washington Post: I...</itunes:subtitle>
+         <itunes:summary>”Collect it all!” det var mantraet for NSA’s tidligere højeste chef Keith Alexander, når det kom til indsamling af digital data. Alt skulle høstes. &lt;br /&gt;&lt;br /&gt;Eller som en ansat i NSA, USAs National Security Agency, udtalte til en artikel i Washington Post: I stedet for at lede efter en nål i en høstak, så indsamler NSA hele høstakken, når de leder efter potentielle sikkerhedstrusler. &lt;br /&gt;&lt;br /&gt;Det var whistlebloweren Edward Snowden, der i 2013 ofrede sin personlige frihed for at råbe verdenssamfundet op omkring den massive mængde information, NSA indsamler om os alle sammen. &lt;br /&gt;&lt;br /&gt;To journalister fra Dagbladet Information, Henrik Moltke og Sebastian Gjerding får fingrene de lækkede Snowden dokumenter, der handler om Danmark. &lt;br /&gt;&lt;br /&gt;Vi Er Overvåget handler i denne episode om masseovervågning. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.</itunes:summary>
+         <itunes:duration>1727</itunes:duration>
+         <itunes:keywords>data,efterretningstjeneste,forsvarets,loud,nas,nsa,overvågning,snowden</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c80f4cc0c88132a35d5eb0742c873a59.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>4:6 En aktivist uden navn</title>
+         <link>https://www.spreaker.com/episode/4-6-en-aktivist-uden-navn--42397708</link>
+         <description>I denne episode taler Marie Høst med en person, der kæmper for klimaet og som bl.a. var med under COP15 klimatopmødet i København i 2009. Forrige episode handlede om COP15 og hvis du ikke har hørt det afsnit, så bør du lytte til det før du lytter til dette.&lt;br /&gt;&lt;br /&gt;COP15 endte uden en egentlig klimaaftale mellem verdens lande. Aktivister og demonstranter kunne konstatere, at heller ikke denne gang blev klimaproblemerne taget seriøst, og det udløste en krise af afmagt, der splittede klimabevægelsen. &lt;br /&gt;&lt;br /&gt;I dag har klimaspørgsmålet fået ny vind i sejlene og unge på barrikaderne, men blandt aktivistgrupper skræmmer sporene og erfaringerne fra tidligere og har skabt en udpræget bevidsthed om mulig overvågning. Så hvilke metoder bruger aktivister i dag for at undgå at politiet og efterretningstjenesterne lytter med? &lt;br /&gt;&lt;br /&gt;Dette er fjerde episode af "Vi er Overvåget". En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I denne episode fortsætter vi vores fokus på overvågning af grupper af demonstranter og aktivister - denne gang med besøg af en aktivist, der selv har følt sig nødsaget til at tage adskillige forholdsregler i sit aktivistiske virke for at undgå overvågning. Aktivisten er anonym, men navnet er redaktionen bekendt. &lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42397708</guid>
+         <pubDate>Thu, 10 Dec 2020 06:00:05 +0000</pubDate>
+         <enclosure length="36225611" type="audio/mpeg" url="https://archive.org/download/vi_er_overvaget/Vi%20Er%20Overv%C3%A5get/2020.12.10%20-%204.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I denne episode taler Marie Høst med en person, der kæmper for klimaet og som bl.a. var med under COP15 klimatopmødet i København i 2009. Forrige episode handlede om COP15 og hvis du ikke har hørt det afsnit, så bør du lytte til det før du lytter til...</itunes:subtitle>
+         <itunes:summary>I denne episode taler Marie Høst med en person, der kæmper for klimaet og som bl.a. var med under COP15 klimatopmødet i København i 2009. Forrige episode handlede om COP15 og hvis du ikke har hørt det afsnit, så bør du lytte til det før du lytter til dette.&lt;br /&gt;&lt;br /&gt;COP15 endte uden en egentlig klimaaftale mellem verdens lande. Aktivister og demonstranter kunne konstatere, at heller ikke denne gang blev klimaproblemerne taget seriøst, og det udløste en krise af afmagt, der splittede klimabevægelsen. &lt;br /&gt;&lt;br /&gt;I dag har klimaspørgsmålet fået ny vind i sejlene og unge på barrikaderne, men blandt aktivistgrupper skræmmer sporene og erfaringerne fra tidligere og har skabt en udpræget bevidsthed om mulig overvågning. Så hvilke metoder bruger aktivister i dag for at undgå at politiet og efterretningstjenesterne lytter med? &lt;br /&gt;&lt;br /&gt;Dette er fjerde episode af "Vi er Overvåget". En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I denne episode fortsætter vi vores fokus på overvågning af grupper af demonstranter og aktivister - denne gang med besøg af en aktivist, der selv har følt sig nødsaget til at tage adskillige forholdsregler i sit aktivistiske virke for at undgå overvågning. Aktivisten er anonym, men navnet er redaktionen bekendt. &lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.</itunes:summary>
+         <itunes:duration>1507</itunes:duration>
+         <itunes:keywords>cop15,data,enigma,høst,loud,overvåget,overvågning,pet,vier</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3a5f63b2182cbb433a4c551cef326bd5.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>3:6 Den aflyttede Nokia</title>
+         <link>https://www.spreaker.com/episode/3-6-den-aflyttede-nokia--42356401</link>
+         <description>Mads Flarup Christensen, er i generalsekretær i Greenpeace Norden, og han var med under under COP15. Han fik sig noget af en overraskelse, da han efter topmødet fik et særligt brev fra politiet. &lt;br /&gt;&lt;br /&gt;At politiet overvåger grupper, der vil begå alvorlig kriminalitet, er ikke så kontroversielt. Men at lovlige demonstrationer og aktivistisk arbejde også kan blive udsat for overvågning fra staten er mere tankevækkende. &lt;br /&gt;&lt;br /&gt;Dette er tredje episode af Vi er Overvåget. En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem, der selv har oplevet statslig overvågning – på egen krop.&lt;br /&gt;&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I denne episode skal vi tale om overvågning af grupper af demonstranter og aktivister. &lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42356401</guid>
+         <pubDate>Tue, 08 Dec 2020 06:00:15 +0000</pubDate>
+         <enclosure length="43478039" type="audio/mpeg" url="https://archive.org/download/vi_er_overvaget/Vi%20Er%20Overv%C3%A5get/2020.12.08%20-%203.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Mads Flarup Christensen, er i generalsekretær i Greenpeace Norden, og han var med under under COP15. Han fik sig noget af en overraskelse, da han efter topmødet fik et særligt brev fra politiet. 
 
-At politiet overvåger grupper, der vil begå alvorlig...
-   </itunes:subtitle>
-   <itunes:summary>
-    Mads Flarup Christensen, er i generalsekretær i Greenpeace Norden, og han var med under under COP15. Han fik sig noget af en overraskelse, da han efter topmødet fik et særligt brev fra politiet. &lt;br /&gt;&lt;br /&gt;At politiet overvåger grupper, der vil begå alvorlig kriminalitet, er ikke så kontroversielt. Men at lovlige demonstrationer og aktivistisk arbejde også kan blive udsat for overvågning fra staten er mere tankevækkende. &lt;br /&gt;&lt;br /&gt;Dette er tredje episode af Vi er Overvåget. En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem, der selv har oplevet statslig overvågning – på egen krop.&lt;br /&gt;&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I denne episode skal vi tale om overvågning af grupper af demonstranter og aktivister. &lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.
-   </itunes:summary>
-   <itunes:duration>
-    1809
-   </itunes:duration>
-   <itunes:keywords>
-    cop15,data,efterretningstjeneste,forsvarets,greenpeace,loud,masseovervågning,mobilovervågning,overvågning
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3a5f63b2182cbb433a4c551cef326bd5.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    2:6 Historien som PET ikke ville have ud
-   </title>
-   <link>
-    https://www.spreaker.com/episode/2-6-historien-som-pet-ikke-ville-have-ud--42277324
-   </link>
-   <description>
-    Morten Storm er blevet hvervet af PET i 2006 og har levet et dobbeltliv undercover blandt militante islamister, herunder Al Qaeda, og har videregivet oplysninger til PET og CIA. Han hævder at have bidraget med de lokaliseringsoplysninger der førte at Al Qaeda leder Anwar al-Awlaki blev dræbt i et amerikansk droneangreb i 2011. &lt;br /&gt;&lt;br /&gt;Journalist Carsten Ellegaard og hans kollega Orla Borg oplever pludselig at komme i efterretningstjenesternes søgelys, da de i 2011 arbejdede på at fortælle historien om Morten Storm.  &lt;br /&gt;&lt;br /&gt;Dette er anden episode af Vi Er Overvåget. En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem, som selv har oplevet statslig overvågning – på egen krop.&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I anden episode er vi stadig helt tæt på. For hvordan føles det at blive overvåget? Hvad sker der når politiet eller efterretningstjenesten holder øje med helt almindelige journalister, der bare passer deres arbejde? Vi skal se nærmere på personovervågning.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst og podcasten er produceret af og på ENIGMA for Loud.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42277324
-   </guid>
-   <pubDate>
-    Thu, 03 Dec 2020 05:55:10 +0000
-   </pubDate>
-   <enclosure length="50070927" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42277324/ep02.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Morten Storm er blevet hvervet af PET i 2006 og har levet et dobbeltliv undercover blandt militante islamister, herunder Al Qaeda, og har videregivet oplysninger til PET og CIA. Han hævder at have bidraget med de lokaliseringsoplysninger der førte at...
-   </itunes:subtitle>
-   <itunes:summary>
-    Morten Storm er blevet hvervet af PET i 2006 og har levet et dobbeltliv undercover blandt militante islamister, herunder Al Qaeda, og har videregivet oplysninger til PET og CIA. Han hævder at have bidraget med de lokaliseringsoplysninger der førte at Al Qaeda leder Anwar al-Awlaki blev dræbt i et amerikansk droneangreb i 2011. &lt;br /&gt;&lt;br /&gt;Journalist Carsten Ellegaard og hans kollega Orla Borg oplever pludselig at komme i efterretningstjenesternes søgelys, da de i 2011 arbejdede på at fortælle historien om Morten Storm.  &lt;br /&gt;&lt;br /&gt;Dette er anden episode af Vi Er Overvåget. En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem, som selv har oplevet statslig overvågning – på egen krop.&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I anden episode er vi stadig helt tæt på. For hvordan føles det at blive overvåget? Hvad sker der når politiet eller efterretningstjenesten holder øje med helt almindelige journalister, der bare passer deres arbejde? Vi skal se nærmere på personovervågning.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst og podcasten er produceret af og på ENIGMA for Loud.
-   </itunes:summary>
-   <itunes:duration>
-    2084
-   </itunes:duration>
-   <itunes:keywords>
-    data,enigma,høst,loud,overvåget,overvågning,pet,storm
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0aaae3f46116216bb61f16b56c15eba9.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    1:6 På sommerlejr med PET
-   </title>
-   <link>
-    https://www.spreaker.com/episode/1-6-pa-sommerlejr-med-pet--42277182
-   </link>
-   <description>
-    I starten af 1980’erne går en agent fra PET undercover i en række venstrefløjsmiljøer i Århus og København. Agenten, Anders Nørgaard, var under dæknavnet Zeus sat til at infiltrere de aktivistiske miljøer og rapportere tilbage til PET om alt hvad der blev sagt og gjort.&lt;br /&gt;&lt;br /&gt;En af de personer, der var udsat for PETs overvågning i form af agent Zeus, var Søren Søndergaard, der dengang var sekretær i Socialistisk Arbejder Parti - et parti på den yderste venstrefløj, som senere blev en del af Enhedslisten, som Søren i dag repræsenterer i folketinget. &lt;br /&gt;&lt;br /&gt;Dette er første afsnit af "Vi er Overvåget". En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I denne første episode starter vi helt tæt på. For hvordan føles det at blive overvåget? Hvad sker der når politiet eller efterretningstjenesten holder øje med et enkelt individ, hvad enten det er politiske aktivister eller helt almindelige journalister, der bare passer deres arbejde? Vi skal se nærmere på personovervågning.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst og podcasten er produceret af og på ENIGMA for Loud.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42277182
-   </guid>
-   <pubDate>
-    Thu, 03 Dec 2020 05:50:03 +0000
-   </pubDate>
-   <enclosure length="51900335" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42277182/ep01.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    I starten af 1980’erne går en agent fra PET undercover i en række venstrefløjsmiljøer i Århus og København. Agenten, Anders Nørgaard, var under dæknavnet Zeus sat til at infiltrere de aktivistiske miljøer og rapportere tilbage til PET om alt hvad der...
-   </itunes:subtitle>
-   <itunes:summary>
-    I starten af 1980’erne går en agent fra PET undercover i en række venstrefløjsmiljøer i Århus og København. Agenten, Anders Nørgaard, var under dæknavnet Zeus sat til at infiltrere de aktivistiske miljøer og rapportere tilbage til PET om alt hvad der blev sagt og gjort.&lt;br /&gt;&lt;br /&gt;En af de personer, der var udsat for PETs overvågning i form af agent Zeus, var Søren Søndergaard, der dengang var sekretær i Socialistisk Arbejder Parti - et parti på den yderste venstrefløj, som senere blev en del af Enhedslisten, som Søren i dag repræsenterer i folketinget. &lt;br /&gt;&lt;br /&gt;Dette er første afsnit af "Vi er Overvåget". En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I denne første episode starter vi helt tæt på. For hvordan føles det at blive overvåget? Hvad sker der når politiet eller efterretningstjenesten holder øje med et enkelt individ, hvad enten det er politiske aktivister eller helt almindelige journalister, der bare passer deres arbejde? Vi skal se nærmere på personovervågning.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst og podcasten er produceret af og på ENIGMA for Loud.
-   </itunes:summary>
-   <itunes:duration>
-    2160
-   </itunes:duration>
-   <itunes:keywords>
-    data,høst,loud,overvåget,overvågning,pet,søndergaard,teknologi
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0aaae3f46116216bb61f16b56c15eba9.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Vi Er Overvåget kommer snart!
-   </title>
-   <link>
-    https://www.spreaker.com/episode/vi-er-overvaget-kommer-snart--42195666
-   </link>
-   <description>
-    Hvordan føles det at blive overvåget - af en infiltrationsagent, gennem telefonaflytning eller nogle af alle de andre redskaber efterretningstjenesterne har til rådighed? &lt;br /&gt;&lt;br /&gt;I podcastserien Vi Er Overvåget, taler Marie Høst med dem, der har oplevet overvågningen på egen krop og dem der ved, hvordan det gik til at staten fik øjne og øre at udspionere os allesammen med.&lt;br /&gt;&lt;br /&gt;Gennem FE-skandalen ved vi nu at forsvarets efterretningstjeneste, har blotlagt Danmarks vitale informationsblodårer for amerikanske NSA, der suger data om danskerne - tilsyneladende efter forgodtbefindende. &lt;br /&gt;&lt;br /&gt;At personer og grupper, der vil begå alvorlig kriminalitet, bliver overvåget er ikke så kontroversielt. Men at lovlige demonstrationer og aktivistisk arbejde, og helt almindelige mennesker som mig - og dig, der lytter til det her lige nu - også bliver overvåget af Staten er mere tankevækkende.&lt;br /&gt;&lt;br /&gt;Skal vi bekymre os - og hvad kan vi eventuelt stille op?  Lyt med til Vi Er Overvåget meget snart!&lt;br /&gt;&lt;br /&gt;Vi Er Overvåget er produceret af ENIGMA for Loud.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/42195666
-   </guid>
-   <pubDate>
-    Fri, 27 Nov 2020 08:55:41 +0000
-   </pubDate>
-   <enclosure length="2953728" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/42195666/vi_er_overv_get_trailer.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hvordan føles det at blive overvåget - af en infiltrationsagent, gennem telefonaflytning eller nogle af alle de andre redskaber efterretningstjenesterne har til rådighed? 
+At politiet overvåger grupper, der vil begå alvorlig...</itunes:subtitle>
+         <itunes:summary>Mads Flarup Christensen, er i generalsekretær i Greenpeace Norden, og han var med under under COP15. Han fik sig noget af en overraskelse, da han efter topmødet fik et særligt brev fra politiet. &lt;br /&gt;&lt;br /&gt;At politiet overvåger grupper, der vil begå alvorlig kriminalitet, er ikke så kontroversielt. Men at lovlige demonstrationer og aktivistisk arbejde også kan blive udsat for overvågning fra staten er mere tankevækkende. &lt;br /&gt;&lt;br /&gt;Dette er tredje episode af Vi er Overvåget. En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem, der selv har oplevet statslig overvågning – på egen krop.&lt;br /&gt;&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I denne episode skal vi tale om overvågning af grupper af demonstranter og aktivister. &lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst - som til dagligt er vært på Vi Er Data.</itunes:summary>
+         <itunes:duration>1809</itunes:duration>
+         <itunes:keywords>cop15,data,efterretningstjeneste,forsvarets,greenpeace,loud,masseovervågning,mobilovervågning,overvågning</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3a5f63b2182cbb433a4c551cef326bd5.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>2:6 Historien som PET ikke ville have ud</title>
+         <link>https://www.spreaker.com/episode/2-6-historien-som-pet-ikke-ville-have-ud--42277324</link>
+         <description>Morten Storm er blevet hvervet af PET i 2006 og har levet et dobbeltliv undercover blandt militante islamister, herunder Al Qaeda, og har videregivet oplysninger til PET og CIA. Han hævder at have bidraget med de lokaliseringsoplysninger der førte at Al Qaeda leder Anwar al-Awlaki blev dræbt i et amerikansk droneangreb i 2011. &lt;br /&gt;&lt;br /&gt;Journalist Carsten Ellegaard og hans kollega Orla Borg oplever pludselig at komme i efterretningstjenesternes søgelys, da de i 2011 arbejdede på at fortælle historien om Morten Storm.  &lt;br /&gt;&lt;br /&gt;Dette er anden episode af Vi Er Overvåget. En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem, som selv har oplevet statslig overvågning – på egen krop.&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I anden episode er vi stadig helt tæt på. For hvordan føles det at blive overvåget? Hvad sker der når politiet eller efterretningstjenesten holder øje med helt almindelige journalister, der bare passer deres arbejde? Vi skal se nærmere på personovervågning.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst og podcasten er produceret af og på ENIGMA for Loud.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42277324</guid>
+         <pubDate>Thu, 03 Dec 2020 05:55:10 +0000</pubDate>
+         <enclosure length="50070927" type="audio/mpeg" url="https://archive.org/download/vi_er_overvaget/Vi%20Er%20Overv%C3%A5get/2020.12.03%20-%202.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Morten Storm er blevet hvervet af PET i 2006 og har levet et dobbeltliv undercover blandt militante islamister, herunder Al Qaeda, og har videregivet oplysninger til PET og CIA. Han hævder at have bidraget med de lokaliseringsoplysninger der førte at...</itunes:subtitle>
+         <itunes:summary>Morten Storm er blevet hvervet af PET i 2006 og har levet et dobbeltliv undercover blandt militante islamister, herunder Al Qaeda, og har videregivet oplysninger til PET og CIA. Han hævder at have bidraget med de lokaliseringsoplysninger der førte at Al Qaeda leder Anwar al-Awlaki blev dræbt i et amerikansk droneangreb i 2011. &lt;br /&gt;&lt;br /&gt;Journalist Carsten Ellegaard og hans kollega Orla Borg oplever pludselig at komme i efterretningstjenesternes søgelys, da de i 2011 arbejdede på at fortælle historien om Morten Storm.  &lt;br /&gt;&lt;br /&gt;Dette er anden episode af Vi Er Overvåget. En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem, som selv har oplevet statslig overvågning – på egen krop.&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I anden episode er vi stadig helt tæt på. For hvordan føles det at blive overvåget? Hvad sker der når politiet eller efterretningstjenesten holder øje med helt almindelige journalister, der bare passer deres arbejde? Vi skal se nærmere på personovervågning.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst og podcasten er produceret af og på ENIGMA for Loud.</itunes:summary>
+         <itunes:duration>2084</itunes:duration>
+         <itunes:keywords>data,enigma,høst,loud,overvåget,overvågning,pet,storm</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0aaae3f46116216bb61f16b56c15eba9.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>1:6 På sommerlejr med PET</title>
+         <link>https://www.spreaker.com/episode/1-6-pa-sommerlejr-med-pet--42277182</link>
+         <description>I starten af 1980’erne går en agent fra PET undercover i en række venstrefløjsmiljøer i Århus og København. Agenten, Anders Nørgaard, var under dæknavnet Zeus sat til at infiltrere de aktivistiske miljøer og rapportere tilbage til PET om alt hvad der blev sagt og gjort.&lt;br /&gt;&lt;br /&gt;En af de personer, der var udsat for PETs overvågning i form af agent Zeus, var Søren Søndergaard, der dengang var sekretær i Socialistisk Arbejder Parti - et parti på den yderste venstrefløj, som senere blev en del af Enhedslisten, som Søren i dag repræsenterer i folketinget. &lt;br /&gt;&lt;br /&gt;Dette er første afsnit af "Vi er Overvåget". En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I denne første episode starter vi helt tæt på. For hvordan føles det at blive overvåget? Hvad sker der når politiet eller efterretningstjenesten holder øje med et enkelt individ, hvad enten det er politiske aktivister eller helt almindelige journalister, der bare passer deres arbejde? Vi skal se nærmere på personovervågning.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst og podcasten er produceret af og på ENIGMA for Loud.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42277182</guid>
+         <pubDate>Thu, 03 Dec 2020 05:50:03 +0000</pubDate>
+         <enclosure length="51900335" type="audio/mpeg" url="https://archive.org/download/vi_er_overvaget/Vi%20Er%20Overv%C3%A5get/2020.12.03%20-%201.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>I starten af 1980’erne går en agent fra PET undercover i en række venstrefløjsmiljøer i Århus og København. Agenten, Anders Nørgaard, var under dæknavnet Zeus sat til at infiltrere de aktivistiske miljøer og rapportere tilbage til PET om alt hvad der...</itunes:subtitle>
+         <itunes:summary>I starten af 1980’erne går en agent fra PET undercover i en række venstrefløjsmiljøer i Århus og København. Agenten, Anders Nørgaard, var under dæknavnet Zeus sat til at infiltrere de aktivistiske miljøer og rapportere tilbage til PET om alt hvad der blev sagt og gjort.&lt;br /&gt;&lt;br /&gt;En af de personer, der var udsat for PETs overvågning i form af agent Zeus, var Søren Søndergaard, der dengang var sekretær i Socialistisk Arbejder Parti - et parti på den yderste venstrefløj, som senere blev en del af Enhedslisten, som Søren i dag repræsenterer i folketinget. &lt;br /&gt;&lt;br /&gt;Dette er første afsnit af "Vi er Overvåget". En podcastserie om at blive overvåget af staten. &lt;br /&gt;&lt;br /&gt;Bagtæppet er den komplekse og på mange måder forvirrende affære, som Forsvarets Efterretningstjeneste, FE, i øjeblikket er havnet i – og som i medierne er blevet udråbt som den mest alvorlige overvågningsskandale i nyere tid.&lt;br /&gt;&lt;br /&gt;Men hvad handler sagen om - egentlig? Hvorfor er den hemmelige statslige overvågning overhovedet et problem og på hvilken måde vedrører det helt almindelige mennesker – som mig - og dig der lytter til dette podcast?&lt;br /&gt;&lt;br /&gt;I Vi er overvåget vil vi forsøge at rede trådene ud, ved at tale med dem selv som har oplevet statslig overvågning – på egen krop.&lt;br /&gt;Og ved at dykke ned i overvågningens historie og substans, med hjælp fra ENIGMAs egen overvågningsekspert, Andreas Marklund.&lt;br /&gt;&lt;br /&gt;I denne første episode starter vi helt tæt på. For hvordan føles det at blive overvåget? Hvad sker der når politiet eller efterretningstjenesten holder øje med et enkelt individ, hvad enten det er politiske aktivister eller helt almindelige journalister, der bare passer deres arbejde? Vi skal se nærmere på personovervågning.&lt;br /&gt;&lt;br /&gt;Programmets vært er Marie Høst og podcasten er produceret af og på ENIGMA for Loud.</itunes:summary>
+         <itunes:duration>2160</itunes:duration>
+         <itunes:keywords>data,høst,loud,overvåget,overvågning,pet,søndergaard,teknologi</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0aaae3f46116216bb61f16b56c15eba9.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Vi Er Overvåget kommer snart!</title>
+         <link>https://www.spreaker.com/episode/vi-er-overvaget-kommer-snart--42195666</link>
+         <description>Hvordan føles det at blive overvåget - af en infiltrationsagent, gennem telefonaflytning eller nogle af alle de andre redskaber efterretningstjenesterne har til rådighed? &lt;br /&gt;&lt;br /&gt;I podcastserien Vi Er Overvåget, taler Marie Høst med dem, der har oplevet overvågningen på egen krop og dem der ved, hvordan det gik til at staten fik øjne og øre at udspionere os allesammen med.&lt;br /&gt;&lt;br /&gt;Gennem FE-skandalen ved vi nu at forsvarets efterretningstjeneste, har blotlagt Danmarks vitale informationsblodårer for amerikanske NSA, der suger data om danskerne - tilsyneladende efter forgodtbefindende. &lt;br /&gt;&lt;br /&gt;At personer og grupper, der vil begå alvorlig kriminalitet, bliver overvåget er ikke så kontroversielt. Men at lovlige demonstrationer og aktivistisk arbejde, og helt almindelige mennesker som mig - og dig, der lytter til det her lige nu - også bliver overvåget af Staten er mere tankevækkende.&lt;br /&gt;&lt;br /&gt;Skal vi bekymre os - og hvad kan vi eventuelt stille op?  Lyt med til Vi Er Overvåget meget snart!&lt;br /&gt;&lt;br /&gt;Vi Er Overvåget er produceret af ENIGMA for Loud.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/42195666</guid>
+         <pubDate>Fri, 27 Nov 2020 08:55:41 +0000</pubDate>
+         <enclosure length="2953728" type="audio/mpeg" url="https://archive.org/download/vi_er_overvaget/Vi%20Er%20Overv%C3%A5get/2020.11.27%20-%20Vi%20Er%20Overv%C3%A5get%20kommer%20snart%21.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hvordan føles det at blive overvåget - af en infiltrationsagent, gennem telefonaflytning eller nogle af alle de andre redskaber efterretningstjenesterne har til rådighed? 
 
-I podcastserien Vi Er Overvåget, taler Marie Høst med dem, der har oplevet...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvordan føles det at blive overvåget - af en infiltrationsagent, gennem telefonaflytning eller nogle af alle de andre redskaber efterretningstjenesterne har til rådighed? &lt;br /&gt;&lt;br /&gt;I podcastserien Vi Er Overvåget, taler Marie Høst med dem, der har oplevet overvågningen på egen krop og dem der ved, hvordan det gik til at staten fik øjne og øre at udspionere os allesammen med.&lt;br /&gt;&lt;br /&gt;Gennem FE-skandalen ved vi nu at forsvarets efterretningstjeneste, har blotlagt Danmarks vitale informationsblodårer for amerikanske NSA, der suger data om danskerne - tilsyneladende efter forgodtbefindende. &lt;br /&gt;&lt;br /&gt;At personer og grupper, der vil begå alvorlig kriminalitet, bliver overvåget er ikke så kontroversielt. Men at lovlige demonstrationer og aktivistisk arbejde, og helt almindelige mennesker som mig - og dig, der lytter til det her lige nu - også bliver overvåget af Staten er mere tankevækkende.&lt;br /&gt;&lt;br /&gt;Skal vi bekymre os - og hvad kan vi eventuelt stille op?  Lyt med til Vi Er Overvåget meget snart!&lt;br /&gt;&lt;br /&gt;Vi Er Overvåget er produceret af ENIGMA for Loud.
-   </itunes:summary>
-   <itunes:duration>
-    121
-   </itunes:duration>
-   <itunes:keywords>
-    enigma,fe,loud,overvåget
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c80f4cc0c88132a35d5eb0742c873a59.jpg"/>
-   <itunes:episodeType>
-    trailer
-   </itunes:episodeType>
-  </item>
- </channel>
+I podcastserien Vi Er Overvåget, taler Marie Høst med dem, der har oplevet...</itunes:subtitle>
+         <itunes:summary>Hvordan føles det at blive overvåget - af en infiltrationsagent, gennem telefonaflytning eller nogle af alle de andre redskaber efterretningstjenesterne har til rådighed? &lt;br /&gt;&lt;br /&gt;I podcastserien Vi Er Overvåget, taler Marie Høst med dem, der har oplevet overvågningen på egen krop og dem der ved, hvordan det gik til at staten fik øjne og øre at udspionere os allesammen med.&lt;br /&gt;&lt;br /&gt;Gennem FE-skandalen ved vi nu at forsvarets efterretningstjeneste, har blotlagt Danmarks vitale informationsblodårer for amerikanske NSA, der suger data om danskerne - tilsyneladende efter forgodtbefindende. &lt;br /&gt;&lt;br /&gt;At personer og grupper, der vil begå alvorlig kriminalitet, bliver overvåget er ikke så kontroversielt. Men at lovlige demonstrationer og aktivistisk arbejde, og helt almindelige mennesker som mig - og dig, der lytter til det her lige nu - også bliver overvåget af Staten er mere tankevækkende.&lt;br /&gt;&lt;br /&gt;Skal vi bekymre os - og hvad kan vi eventuelt stille op?  Lyt med til Vi Er Overvåget meget snart!&lt;br /&gt;&lt;br /&gt;Vi Er Overvåget er produceret af ENIGMA for Loud.</itunes:summary>
+         <itunes:duration>121</itunes:duration>
+         <itunes:keywords>enigma,fe,loud,overvåget</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c80f4cc0c88132a35d5eb0742c873a59.jpg" />
+         <itunes:episodeType>trailer</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

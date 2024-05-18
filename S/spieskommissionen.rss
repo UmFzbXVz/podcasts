@@ -1,377 +1,167 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   SpiesKommissionen
-  </title>
-  <link>
-   https://www.spreaker.com/podcast/spieskommissionen--6053967
-  </link>
-  <description>
-   SpiesKommissionen er en serie, der undersøger, om Danmarks Radio omfattende dokumentararbejde om Simon Spies er til at stole på - eller om en voksende gruppe af kritikere, der siden efteråret 2022 har angrebet dokumentaren for at være uhæderlig, har helt eller delvist ret.&lt;br /&gt;&lt;br /&gt;Medlemmerne af kommissionen er de tre journalister Kurt Strand, Ida Nyegård Espersen og Thomas Stokholm.&lt;br /&gt;&lt;br /&gt;Researchet og tilrettelagt af Niels Frederik Rickers. &lt;br /&gt;&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="https://24syv.dk" target="_blank" rel="noreferrer noopener"&gt;spieskommissionen@24syv.dk&lt;/a&gt;
-  </description>
-  <atom:link href="https://www.spreaker.com/show/6053967/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   News
-  </category>
-  <copyright>
-   Copyright 24syv
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg
-   </url>
-   <title>
-    SpiesKommissionen
-   </title>
-   <link>
-    https://www.spreaker.com/podcast/spieskommissionen--6053967
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   24syv
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    24syv
-   </itunes:name>
-   <itunes:email>
-    podcast@24syv.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg"/>
-  <itunes:subtitle>
-   SpiesKommissionen er en serie, der undersøger, om Danmarks Radio omfattende dokumentararbejde om Simon Spies er til at stole på - eller om en voksende gruppe af kritikere, der siden efteråret 2022 har angrebet dokumentaren for at være uhæderlig, har...
-  </itunes:subtitle>
-  <itunes:summary>
-   SpiesKommissionen er en serie, der undersøger, om Danmarks Radio omfattende dokumentararbejde om Simon Spies er til at stole på - eller om en voksende gruppe af kritikere, der siden efteråret 2022 har angrebet dokumentaren for at være uhæderlig, har helt eller delvist ret.&lt;br /&gt;&lt;br /&gt;Medlemmerne af kommissionen er de tre journalister Kurt Strand, Ida Nyegård Espersen og Thomas Stokholm.&lt;br /&gt;&lt;br /&gt;Researchet og tilrettelagt af Niels Frederik Rickers. &lt;br /&gt;&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="https://24syv.dk" target="_blank" rel="noreferrer noopener"&gt;spieskommissionen@24syv.dk&lt;/a&gt;
-  </itunes:summary>
-  <itunes:category text="News"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    7:7 - Den endelige dom
-   </title>
-   <link>
-    https://www.spreaker.com/episode/7-7-den-endelige-dom--58431138
-   </link>
-   <description>
-    Har DR-dokumentaren ‘Spies og Morgenbolledamerne’ dokumentation for alle sine påstande?&lt;br /&gt;&lt;br /&gt;Siden sommeren 2023 har ‘SpiesKommissionen’ gravet sig ned i DR’s Spies-dokumentar. &lt;br /&gt;&lt;br /&gt;Nu er kommissionens klar med en konklusion. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio &lt;br /&gt;Bo Østlund&lt;br /&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/58431138
-   </guid>
-   <pubDate>
-    Thu, 25 Jan 2024 05:00:02 +0000
-   </pubDate>
-   <enclosure length="78985344" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58431138/den_endelige_dom.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Har DR-dokumentaren ‘Spies og Morgenbolledamerne’ dokumentation for alle sine påstande?
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>SpiesKommissionen</title>
+      <link>https://www.spreaker.com/podcast/spieskommissionen--6053967</link>
+      <description>SpiesKommissionen er en serie, der undersøger, om Danmarks Radio omfattende dokumentararbejde om Simon Spies er til at stole på - eller om en voksende gruppe af kritikere, der siden efteråret 2022 har angrebet dokumentaren for at være uhæderlig, har helt eller delvist ret.&lt;br /&gt;&lt;br /&gt;Medlemmerne af kommissionen er de tre journalister Kurt Strand, Ida Nyegård Espersen og Thomas Stokholm.&lt;br /&gt;&lt;br /&gt;Researchet og tilrettelagt af Niels Frederik Rickers. &lt;br /&gt;&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="https://24syv.dk" target="_blank" rel="noreferrer noopener"&gt;spieskommissionen@24syv.dk&lt;/a&gt;</description>
+      <atom:link href="https://www.spreaker.com/show/6053967/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>News</category>
+      <copyright>Copyright 24syv</copyright>
+      <image>
+         <url>https://archive.org/download/spieskommissionen/SpiesKommissionen/3d122dfb7d78870efcf52de0b74871de.jpg</url>
+         <title>SpiesKommissionen</title>
+         <link>https://www.spreaker.com/podcast/spieskommissionen--6053967</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>24syv</itunes:author>
+      <itunes:owner>
+         <itunes:name>24syv</itunes:name>
+         <itunes:email>podcast@24syv.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg" />
+      <itunes:subtitle>SpiesKommissionen er en serie, der undersøger, om Danmarks Radio omfattende dokumentararbejde om Simon Spies er til at stole på - eller om en voksende gruppe af kritikere, der siden efteråret 2022 har angrebet dokumentaren for at være uhæderlig, har...</itunes:subtitle>
+      <itunes:summary>SpiesKommissionen er en serie, der undersøger, om Danmarks Radio omfattende dokumentararbejde om Simon Spies er til at stole på - eller om en voksende gruppe af kritikere, der siden efteråret 2022 har angrebet dokumentaren for at være uhæderlig, har helt eller delvist ret.&lt;br /&gt;&lt;br /&gt;Medlemmerne af kommissionen er de tre journalister Kurt Strand, Ida Nyegård Espersen og Thomas Stokholm.&lt;br /&gt;&lt;br /&gt;Researchet og tilrettelagt af Niels Frederik Rickers. &lt;br /&gt;&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="https://24syv.dk" target="_blank" rel="noreferrer noopener"&gt;spieskommissionen@24syv.dk&lt;/a&gt;</itunes:summary>
+      <itunes:category text="News" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>7:7 - Den endelige dom</title>
+         <link>https://www.spreaker.com/episode/7-7-den-endelige-dom--58431138</link>
+         <description>Har DR-dokumentaren ‘Spies og Morgenbolledamerne’ dokumentation for alle sine påstande?&lt;br /&gt;&lt;br /&gt;Siden sommeren 2023 har ‘SpiesKommissionen’ gravet sig ned i DR’s Spies-dokumentar. &lt;br /&gt;&lt;br /&gt;Nu er kommissionens klar med en konklusion. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio &lt;br /&gt;Bo Østlund&lt;br /&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/58431138</guid>
+         <pubDate>Thu, 25 Jan 2024 05:00:02 +0000</pubDate>
+         <enclosure length="78985344" type="audio/mpeg" url="https://archive.org/download/spieskommissionen/SpiesKommissionen/2024.01.25%20-%207.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Har DR-dokumentaren ‘Spies og Morgenbolledamerne’ dokumentation for alle sine påstande?
 
 Siden sommeren 2023 har ‘SpiesKommissionen’ gravet sig ned i DR’s Spies-dokumentar. 
 
 Nu er kommissionens klar med en konklusion. 
 
 Vært og tilrettelægger:
-Niels...
-   </itunes:subtitle>
-   <itunes:summary>
-    Har DR-dokumentaren ‘Spies og Morgenbolledamerne’ dokumentation for alle sine påstande?&lt;br /&gt;&lt;br /&gt;Siden sommeren 2023 har ‘SpiesKommissionen’ gravet sig ned i DR’s Spies-dokumentar. &lt;br /&gt;&lt;br /&gt;Nu er kommissionens klar med en konklusion. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio &lt;br /&gt;Bo Østlund&lt;br /&gt;
-   </itunes:summary>
-   <itunes:duration>
-    2467
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    6:7 - Balladen om Bo
-   </title>
-   <link>
-    https://www.spreaker.com/episode/6-7-balladen-om-bo--58403974
-   </link>
-   <description>
-    I februar 2023 udkom forfatter og freelancejournalist Bo Østlund med første afsnit af podcastserien ‘Simon Spies - Karaktermord i primetime?’. &lt;br /&gt;&lt;br /&gt;Podcasten, der ender med at have i alt 14 afsnit, tryktester DR’s Spies-dokumentar og rejser en række kritiske spørgsmål om, hvordan dokumentaren er blevet til - og hvorvidt den har tilstrækkelig dokumentation for sine påstande.&lt;br /&gt;&lt;br /&gt;DR og produktionsselskabet bag ‘Spies og Morgenbolledamerne’ anklager omvendt Bo Østlund for at komme med ukorrekte oplysninger i sin podcast.&lt;br /&gt;&lt;br /&gt;Så hvad siger Bo Østlund til kritikken fra DR? Og måske endnu vigtigere… hvorfor - og hvordan - har DR pludselig fået fat i nogle af Bo Østlunds SMS’er? &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio &lt;br /&gt;Bo Østlund
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/58403974
-   </guid>
-   <pubDate>
-    Tue, 23 Jan 2024 05:00:02 +0000
-   </pubDate>
-   <enclosure length="95520384" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58403974/balladen_om_bo.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I februar 2023 udkom forfatter og freelancejournalist Bo Østlund med første afsnit af podcastserien ‘Simon Spies - Karaktermord i primetime?’. 
+Niels...</itunes:subtitle>
+         <itunes:summary>Har DR-dokumentaren ‘Spies og Morgenbolledamerne’ dokumentation for alle sine påstande?&lt;br /&gt;&lt;br /&gt;Siden sommeren 2023 har ‘SpiesKommissionen’ gravet sig ned i DR’s Spies-dokumentar. &lt;br /&gt;&lt;br /&gt;Nu er kommissionens klar med en konklusion. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio &lt;br /&gt;Bo Østlund&lt;br /&gt;</itunes:summary>
+         <itunes:duration>2467</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>6:7 - Balladen om Bo</title>
+         <link>https://www.spreaker.com/episode/6-7-balladen-om-bo--58403974</link>
+         <description>I februar 2023 udkom forfatter og freelancejournalist Bo Østlund med første afsnit af podcastserien ‘Simon Spies - Karaktermord i primetime?’. &lt;br /&gt;&lt;br /&gt;Podcasten, der ender med at have i alt 14 afsnit, tryktester DR’s Spies-dokumentar og rejser en række kritiske spørgsmål om, hvordan dokumentaren er blevet til - og hvorvidt den har tilstrækkelig dokumentation for sine påstande.&lt;br /&gt;&lt;br /&gt;DR og produktionsselskabet bag ‘Spies og Morgenbolledamerne’ anklager omvendt Bo Østlund for at komme med ukorrekte oplysninger i sin podcast.&lt;br /&gt;&lt;br /&gt;Så hvad siger Bo Østlund til kritikken fra DR? Og måske endnu vigtigere… hvorfor - og hvordan - har DR pludselig fået fat i nogle af Bo Østlunds SMS’er? &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio &lt;br /&gt;Bo Østlund</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/58403974</guid>
+         <pubDate>Tue, 23 Jan 2024 05:00:02 +0000</pubDate>
+         <enclosure length="95520384" type="audio/mpeg" url="https://archive.org/download/spieskommissionen/SpiesKommissionen/2024.01.23%20-%206.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I februar 2023 udkom forfatter og freelancejournalist Bo Østlund med første afsnit af podcastserien ‘Simon Spies - Karaktermord i primetime?’. 
 
-Podcasten, der ender med at have i alt 14 afsnit, tryktester DR’s Spies-dokumentar og rejser en række...
-   </itunes:subtitle>
-   <itunes:summary>
-    I februar 2023 udkom forfatter og freelancejournalist Bo Østlund med første afsnit af podcastserien ‘Simon Spies - Karaktermord i primetime?’. &lt;br /&gt;&lt;br /&gt;Podcasten, der ender med at have i alt 14 afsnit, tryktester DR’s Spies-dokumentar og rejser en række kritiske spørgsmål om, hvordan dokumentaren er blevet til - og hvorvidt den har tilstrækkelig dokumentation for sine påstande.&lt;br /&gt;&lt;br /&gt;DR og produktionsselskabet bag ‘Spies og Morgenbolledamerne’ anklager omvendt Bo Østlund for at komme med ukorrekte oplysninger i sin podcast.&lt;br /&gt;&lt;br /&gt;Så hvad siger Bo Østlund til kritikken fra DR? Og måske endnu vigtigere… hvorfor - og hvordan - har DR pludselig fået fat i nogle af Bo Østlunds SMS’er? &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio &lt;br /&gt;Bo Østlund
-   </itunes:summary>
-   <itunes:duration>
-    2983
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    5:7 - Vodka eller ej?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/5-7-vodka-eller-ej--58328654
-   </link>
-   <description>
-    I februar 2023 blev DR og produktionsselskabet Laud People beskyldt for at have betalt Spies-dokumentarens hovedkilde med en flaske vodka og 1.000 kroner.&lt;br /&gt;&lt;br /&gt;Siden dengang har DR hårdnakket nægtet, at nogen af kilderne er blevet betalt for at medvirke i ‘Spies og Morgenbolledamerne’. &lt;br /&gt;&lt;br /&gt;Men hvad er sandheden? Og findes der en sandhed? &lt;br /&gt;&lt;br /&gt;SpiesKommissionen spørger hovedkilden selv - og forsøger at få DR til at svare på, hvilken betydning det har for dokumentaren, at producenten selv betegner hovedkilden som “sårbar”. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio &lt;br /&gt;Bo Østlund&lt;br /&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/58328654
-   </guid>
-   <pubDate>
-    Thu, 18 Jan 2024 05:00:02 +0000
-   </pubDate>
-   <enclosure length="51545088" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58328654/spieskommisionen_ep5_mixdown.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I februar 2023 blev DR og produktionsselskabet Laud People beskyldt for at have betalt Spies-dokumentarens hovedkilde med en flaske vodka og 1.000 kroner.
+Podcasten, der ender med at have i alt 14 afsnit, tryktester DR’s Spies-dokumentar og rejser en række...</itunes:subtitle>
+         <itunes:summary>I februar 2023 udkom forfatter og freelancejournalist Bo Østlund med første afsnit af podcastserien ‘Simon Spies - Karaktermord i primetime?’. &lt;br /&gt;&lt;br /&gt;Podcasten, der ender med at have i alt 14 afsnit, tryktester DR’s Spies-dokumentar og rejser en række kritiske spørgsmål om, hvordan dokumentaren er blevet til - og hvorvidt den har tilstrækkelig dokumentation for sine påstande.&lt;br /&gt;&lt;br /&gt;DR og produktionsselskabet bag ‘Spies og Morgenbolledamerne’ anklager omvendt Bo Østlund for at komme med ukorrekte oplysninger i sin podcast.&lt;br /&gt;&lt;br /&gt;Så hvad siger Bo Østlund til kritikken fra DR? Og måske endnu vigtigere… hvorfor - og hvordan - har DR pludselig fået fat i nogle af Bo Østlunds SMS’er? &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio &lt;br /&gt;Bo Østlund</itunes:summary>
+         <itunes:duration>2983</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>5:7 - Vodka eller ej?</title>
+         <link>https://www.spreaker.com/episode/5-7-vodka-eller-ej--58328654</link>
+         <description>I februar 2023 blev DR og produktionsselskabet Laud People beskyldt for at have betalt Spies-dokumentarens hovedkilde med en flaske vodka og 1.000 kroner.&lt;br /&gt;&lt;br /&gt;Siden dengang har DR hårdnakket nægtet, at nogen af kilderne er blevet betalt for at medvirke i ‘Spies og Morgenbolledamerne’. &lt;br /&gt;&lt;br /&gt;Men hvad er sandheden? Og findes der en sandhed? &lt;br /&gt;&lt;br /&gt;SpiesKommissionen spørger hovedkilden selv - og forsøger at få DR til at svare på, hvilken betydning det har for dokumentaren, at producenten selv betegner hovedkilden som “sårbar”. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio &lt;br /&gt;Bo Østlund&lt;br /&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/58328654</guid>
+         <pubDate>Thu, 18 Jan 2024 05:00:02 +0000</pubDate>
+         <enclosure length="51545088" type="audio/mpeg" url="https://archive.org/download/spieskommissionen/SpiesKommissionen/2024.01.18%20-%205.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I februar 2023 blev DR og produktionsselskabet Laud People beskyldt for at have betalt Spies-dokumentarens hovedkilde med en flaske vodka og 1.000 kroner.
 
-Siden dengang har DR hårdnakket nægtet, at nogen af kilderne er blevet betalt for at medvirke i...
-   </itunes:subtitle>
-   <itunes:summary>
-    I februar 2023 blev DR og produktionsselskabet Laud People beskyldt for at have betalt Spies-dokumentarens hovedkilde med en flaske vodka og 1.000 kroner.&lt;br /&gt;&lt;br /&gt;Siden dengang har DR hårdnakket nægtet, at nogen af kilderne er blevet betalt for at medvirke i ‘Spies og Morgenbolledamerne’. &lt;br /&gt;&lt;br /&gt;Men hvad er sandheden? Og findes der en sandhed? &lt;br /&gt;&lt;br /&gt;SpiesKommissionen spørger hovedkilden selv - og forsøger at få DR til at svare på, hvilken betydning det har for dokumentaren, at producenten selv betegner hovedkilden som “sårbar”. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio &lt;br /&gt;Bo Østlund&lt;br /&gt;
-   </itunes:summary>
-   <itunes:duration>
-    2148
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    4:7 - Kilder med kolde fødder
-   </title>
-   <link>
-    https://www.spreaker.com/episode/4-7-kilder-med-kolde-fodder--58305187
-   </link>
-   <description>
-    En ensidig fortælling, udokumenterede påstande og en alt for skarp klipning af citater.&lt;br /&gt;Det er blot en håndfuld af de kritikpunkter, som DR’s ‘Spies og Morgenbolledamerne’ er blevet mødt med fra personer, som selv medvirkede i dokumentaren.&lt;br /&gt;&lt;br /&gt;Én af de medvirkende har endda taget kampen op og - uden held - forsøgt at få DR til at behandle en klage. &lt;br /&gt;&lt;br /&gt;Men ifølge DR har arbejdet med at briefe de medvirkende været “grundigt”. Samtidig medgiver public service-giganten, at “ingen af dem” havde forudset, hvor polariseret en debat dokumentaren endte med at skabe. &lt;br /&gt;&lt;br /&gt;Men hvorfor er flere af de medvirkende ikke tilfredse? Skal de tørre øjnene, eller har de grund til at være overraskede over DR-dokumentarens indhold?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;&lt;b&gt;* Tilføjelse, 17. januar 11:25&lt;br /&gt;&lt;/b&gt;24syv har tilføjet en speak i udsendelsen (minuttal 40:19), som klargører, at Maja Lüchau kategorisk afviser Lau Rabjerg-Eriksens påstand om, at hun på noget tidspunkt uopfordret skulle have sammenlignet Simon Spies med Jeffrey Epstein.&lt;/i&gt;&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/58305187
-   </guid>
-   <pubDate>
-    Tue, 16 Jan 2024 05:00:02 +0000
-   </pubDate>
-   <enclosure length="87294336" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58305187/kilder_med_kolde_f_dder.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    En ensidig fortælling, udokumenterede påstande og en alt for skarp klipning af citater.
+Siden dengang har DR hårdnakket nægtet, at nogen af kilderne er blevet betalt for at medvirke i...</itunes:subtitle>
+         <itunes:summary>I februar 2023 blev DR og produktionsselskabet Laud People beskyldt for at have betalt Spies-dokumentarens hovedkilde med en flaske vodka og 1.000 kroner.&lt;br /&gt;&lt;br /&gt;Siden dengang har DR hårdnakket nægtet, at nogen af kilderne er blevet betalt for at medvirke i ‘Spies og Morgenbolledamerne’. &lt;br /&gt;&lt;br /&gt;Men hvad er sandheden? Og findes der en sandhed? &lt;br /&gt;&lt;br /&gt;SpiesKommissionen spørger hovedkilden selv - og forsøger at få DR til at svare på, hvilken betydning det har for dokumentaren, at producenten selv betegner hovedkilden som “sårbar”. &lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio &lt;br /&gt;Bo Østlund&lt;br /&gt;</itunes:summary>
+         <itunes:duration>2148</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>4:7 - Kilder med kolde fødder</title>
+         <link>https://www.spreaker.com/episode/4-7-kilder-med-kolde-fodder--58305187</link>
+         <description>En ensidig fortælling, udokumenterede påstande og en alt for skarp klipning af citater.&lt;br /&gt;Det er blot en håndfuld af de kritikpunkter, som DR’s ‘Spies og Morgenbolledamerne’ er blevet mødt med fra personer, som selv medvirkede i dokumentaren.&lt;br /&gt;&lt;br /&gt;Én af de medvirkende har endda taget kampen op og - uden held - forsøgt at få DR til at behandle en klage. &lt;br /&gt;&lt;br /&gt;Men ifølge DR har arbejdet med at briefe de medvirkende været “grundigt”. Samtidig medgiver public service-giganten, at “ingen af dem” havde forudset, hvor polariseret en debat dokumentaren endte med at skabe. &lt;br /&gt;&lt;br /&gt;Men hvorfor er flere af de medvirkende ikke tilfredse? Skal de tørre øjnene, eller har de grund til at være overraskede over DR-dokumentarens indhold?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;&lt;b&gt;* Tilføjelse, 17. januar 11:25&lt;br /&gt;&lt;/b&gt;24syv har tilføjet en speak i udsendelsen (minuttal 40:19), som klargører, at Maja Lüchau kategorisk afviser Lau Rabjerg-Eriksens påstand om, at hun på noget tidspunkt uopfordret skulle have sammenlignet Simon Spies med Jeffrey Epstein.&lt;/i&gt;&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/58305187</guid>
+         <pubDate>Tue, 16 Jan 2024 05:00:02 +0000</pubDate>
+         <enclosure length="87294336" type="audio/mpeg" url="https://archive.org/download/spieskommissionen/SpiesKommissionen/2024.01.16%20-%204.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>En ensidig fortælling, udokumenterede påstande og en alt for skarp klipning af citater.
 Det er blot en håndfuld af de kritikpunkter, som DR’s ‘Spies og Morgenbolledamerne’ er blevet mødt med fra personer, som selv medvirkede i dokumentaren.
 
-Én af de...
-   </itunes:subtitle>
-   <itunes:summary>
-    En ensidig fortælling, udokumenterede påstande og en alt for skarp klipning af citater.&lt;br /&gt;Det er blot en håndfuld af de kritikpunkter, som DR’s ‘Spies og Morgenbolledamerne’ er blevet mødt med fra personer, som selv medvirkede i dokumentaren.&lt;br /&gt;&lt;br /&gt;Én af de medvirkende har endda taget kampen op og - uden held - forsøgt at få DR til at behandle en klage. &lt;br /&gt;&lt;br /&gt;Men ifølge DR har arbejdet med at briefe de medvirkende været “grundigt”. Samtidig medgiver public service-giganten, at “ingen af dem” havde forudset, hvor polariseret en debat dokumentaren endte med at skabe. &lt;br /&gt;&lt;br /&gt;Men hvorfor er flere af de medvirkende ikke tilfredse? Skal de tørre øjnene, eller har de grund til at være overraskede over DR-dokumentarens indhold?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;&lt;b&gt;* Tilføjelse, 17. januar 11:25&lt;br /&gt;&lt;/b&gt;24syv har tilføjet en speak i udsendelsen (minuttal 40:19), som klargører, at Maja Lüchau kategorisk afviser Lau Rabjerg-Eriksens påstand om, at hun på noget tidspunkt uopfordret skulle have sammenlignet Simon Spies med Jeffrey Epstein.&lt;/i&gt;&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio
-   </itunes:summary>
-   <itunes:duration>
-    2726
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    3:7 - En levende og en død
-   </title>
-   <link>
-    https://www.spreaker.com/episode/3-7-en-levende-og-en-dod--58251519
-   </link>
-   <description>
-    Det kunne have dystre konsekvenser at være morgenbolledame hos Simon Spies. Og flere af pigerne endte senere hen i et skæbnesvangert stofmisbrug.&lt;br /&gt;&lt;br /&gt;Sådan lyder ét af budskaberne i DR’s dokumentar ‘Spies og Morgenbolledamerne’. Der optræder dog kun to morgenbolledamer i dokumentaren. Den ene døde i 1987. Og nu fortæller den anden af dem til 24syv, at hendes liv ikke blev ødelagt af Simon Spies.&lt;br /&gt;&lt;br /&gt;Spørgsmålet er, om DR har konkrete beviser for, at flere af morgenbolledamerne fik et dårligt liv på grund af Simon Spies? &lt;br /&gt;&lt;br /&gt;Og hvorfor bekymrer det ikke DR, at svensk TV ikke mener, at dokumentaren har tilstrækkelig dokumentation for sine påstande?&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/58251519
-   </guid>
-   <pubDate>
-    Thu, 11 Jan 2024 05:00:02 +0000
-   </pubDate>
-   <enclosure length="80886144" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58251519/en_levende_og_en_d_d_spies.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Det kunne have dystre konsekvenser at være morgenbolledame hos Simon Spies. Og flere af pigerne endte senere hen i et skæbnesvangert stofmisbrug.
+Én af de...</itunes:subtitle>
+         <itunes:summary>En ensidig fortælling, udokumenterede påstande og en alt for skarp klipning af citater.&lt;br /&gt;Det er blot en håndfuld af de kritikpunkter, som DR’s ‘Spies og Morgenbolledamerne’ er blevet mødt med fra personer, som selv medvirkede i dokumentaren.&lt;br /&gt;&lt;br /&gt;Én af de medvirkende har endda taget kampen op og - uden held - forsøgt at få DR til at behandle en klage. &lt;br /&gt;&lt;br /&gt;Men ifølge DR har arbejdet med at briefe de medvirkende været “grundigt”. Samtidig medgiver public service-giganten, at “ingen af dem” havde forudset, hvor polariseret en debat dokumentaren endte med at skabe. &lt;br /&gt;&lt;br /&gt;Men hvorfor er flere af de medvirkende ikke tilfredse? Skal de tørre øjnene, eller har de grund til at være overraskede over DR-dokumentarens indhold?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;&lt;b&gt;* Tilføjelse, 17. januar 11:25&lt;br /&gt;&lt;/b&gt;24syv har tilføjet en speak i udsendelsen (minuttal 40:19), som klargører, at Maja Lüchau kategorisk afviser Lau Rabjerg-Eriksens påstand om, at hun på noget tidspunkt uopfordret skulle have sammenlignet Simon Spies med Jeffrey Epstein.&lt;/i&gt;&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio</itunes:summary>
+         <itunes:duration>2726</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>3:7 - En levende og en død</title>
+         <link>https://www.spreaker.com/episode/3-7-en-levende-og-en-dod--58251519</link>
+         <description>Det kunne have dystre konsekvenser at være morgenbolledame hos Simon Spies. Og flere af pigerne endte senere hen i et skæbnesvangert stofmisbrug.&lt;br /&gt;&lt;br /&gt;Sådan lyder ét af budskaberne i DR’s dokumentar ‘Spies og Morgenbolledamerne’. Der optræder dog kun to morgenbolledamer i dokumentaren. Den ene døde i 1987. Og nu fortæller den anden af dem til 24syv, at hendes liv ikke blev ødelagt af Simon Spies.&lt;br /&gt;&lt;br /&gt;Spørgsmålet er, om DR har konkrete beviser for, at flere af morgenbolledamerne fik et dårligt liv på grund af Simon Spies? &lt;br /&gt;&lt;br /&gt;Og hvorfor bekymrer det ikke DR, at svensk TV ikke mener, at dokumentaren har tilstrækkelig dokumentation for sine påstande?&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/58251519</guid>
+         <pubDate>Thu, 11 Jan 2024 05:00:02 +0000</pubDate>
+         <enclosure length="80886144" type="audio/mpeg" url="https://archive.org/download/spieskommissionen/SpiesKommissionen/2024.01.11%20-%203.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Det kunne have dystre konsekvenser at være morgenbolledame hos Simon Spies. Og flere af pigerne endte senere hen i et skæbnesvangert stofmisbrug.
 
-Sådan lyder ét af budskaberne i DR’s dokumentar ‘Spies og Morgenbolledamerne’. Der optræder dog kun to...
-   </itunes:subtitle>
-   <itunes:summary>
-    Det kunne have dystre konsekvenser at være morgenbolledame hos Simon Spies. Og flere af pigerne endte senere hen i et skæbnesvangert stofmisbrug.&lt;br /&gt;&lt;br /&gt;Sådan lyder ét af budskaberne i DR’s dokumentar ‘Spies og Morgenbolledamerne’. Der optræder dog kun to morgenbolledamer i dokumentaren. Den ene døde i 1987. Og nu fortæller den anden af dem til 24syv, at hendes liv ikke blev ødelagt af Simon Spies.&lt;br /&gt;&lt;br /&gt;Spørgsmålet er, om DR har konkrete beviser for, at flere af morgenbolledamerne fik et dårligt liv på grund af Simon Spies? &lt;br /&gt;&lt;br /&gt;Og hvorfor bekymrer det ikke DR, at svensk TV ikke mener, at dokumentaren har tilstrækkelig dokumentation for sine påstande?&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio
-   </itunes:summary>
-   <itunes:duration>
-    2526
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    2:7 - Hvem er Heidi ‘kok’?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/2-7-hvem-er-heidi-kok--58229866
-   </link>
-   <description>
-    Hvis du gik med til, at Simon Spies måtte brække din arm, så ville du få 10.000 kroner. Sådan lyder ét af anklagerne i DR’s dokumentar ‘Spies og Morgenbolledamerne’. Og ifølge dokumentaren skulle Simon Spies blandt andet have brækket armen på en kvindelig kok i Spies Rejser ved navn Heidi. &lt;br /&gt;&lt;br /&gt;Men flere af de medvirkende i DR’s dokumentar fortæller 24syv, at de aldrig har hørt om, at Simon Spies skulle have tilbudt penge for at brække kvinders arme.&lt;br /&gt;&lt;br /&gt;Så hvilken dokumentation har DR for den anklage? Og er der overhovedet nogen, der ved, hvem kokken Heidi er?&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/58229866
-   </guid>
-   <pubDate>
-    Tue, 09 Jan 2024 05:00:03 +0000
-   </pubDate>
-   <enclosure length="79780224" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58229866/hvem_er_heidi_kok_afsnit_2.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Hvis du gik med til, at Simon Spies måtte brække din arm, så ville du få 10.000 kroner. Sådan lyder ét af anklagerne i DR’s dokumentar ‘Spies og Morgenbolledamerne’. Og ifølge dokumentaren skulle Simon Spies blandt andet have brækket armen på en...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvis du gik med til, at Simon Spies måtte brække din arm, så ville du få 10.000 kroner. Sådan lyder ét af anklagerne i DR’s dokumentar ‘Spies og Morgenbolledamerne’. Og ifølge dokumentaren skulle Simon Spies blandt andet have brækket armen på en kvindelig kok i Spies Rejser ved navn Heidi. &lt;br /&gt;&lt;br /&gt;Men flere af de medvirkende i DR’s dokumentar fortæller 24syv, at de aldrig har hørt om, at Simon Spies skulle have tilbudt penge for at brække kvinders arme.&lt;br /&gt;&lt;br /&gt;Så hvilken dokumentation har DR for den anklage? Og er der overhovedet nogen, der ved, hvem kokken Heidi er?&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio
-   </itunes:summary>
-   <itunes:duration>
-    2492
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    1:7 - Et blakket eftermæle
-   </title>
-   <link>
-    https://www.spreaker.com/episode/1-7-et-blakket-eftermaele--58229063
-   </link>
-   <description>
-    I august 2022 detonerede DR en bombe under eftermælet af den afdøde rejsekonge Simon Spies.&lt;br /&gt;&lt;br /&gt;Dokumentaren ‘Spies og Morgenbolledamerne’ ryddede forsiderne med fortællinger om en sadistisk excentriker, der for fornøjelsen skyld pådrog unge kvinder blå mærker, udnyttede dem seksuelt og sågar tilbød betaling for at brække deres arme. &lt;br /&gt;&lt;br /&gt;Men i månederne efter udgivelsen begyndte flere af de medvirkende at kritisere dokumentarens indhold. Én af dem klagede til DR. “Et karaktermord”, blev dokumentaren kaldt.&lt;br /&gt;&lt;br /&gt;Så hvem har ret? DR eller kritikerne? &lt;br /&gt;&lt;br /&gt;Med den undersøgende serie ‘SpiesKommissionen’ dykker 24syv i samarbejde med tre uafhængige journalister ned i ét af de seneste års mest omtalte dokumentarer.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Klip og lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio&lt;br /&gt;TV2 Kosmopol &lt;br /&gt;Bo Østlund
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/58229063
-   </guid>
-   <pubDate>
-    Tue, 09 Jan 2024 05:00:03 +0000
-   </pubDate>
-   <enclosure length="37620864" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58229063/spieskommisionen_episode_1_mixdown.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    I august 2022 detonerede DR en bombe under eftermælet af den afdøde rejsekonge Simon Spies.
+Sådan lyder ét af budskaberne i DR’s dokumentar ‘Spies og Morgenbolledamerne’. Der optræder dog kun to...</itunes:subtitle>
+         <itunes:summary>Det kunne have dystre konsekvenser at være morgenbolledame hos Simon Spies. Og flere af pigerne endte senere hen i et skæbnesvangert stofmisbrug.&lt;br /&gt;&lt;br /&gt;Sådan lyder ét af budskaberne i DR’s dokumentar ‘Spies og Morgenbolledamerne’. Der optræder dog kun to morgenbolledamer i dokumentaren. Den ene døde i 1987. Og nu fortæller den anden af dem til 24syv, at hendes liv ikke blev ødelagt af Simon Spies.&lt;br /&gt;&lt;br /&gt;Spørgsmålet er, om DR har konkrete beviser for, at flere af morgenbolledamerne fik et dårligt liv på grund af Simon Spies? &lt;br /&gt;&lt;br /&gt;Og hvorfor bekymrer det ikke DR, at svensk TV ikke mener, at dokumentaren har tilstrækkelig dokumentation for sine påstande?&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio</itunes:summary>
+         <itunes:duration>2526</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>2:7 - Hvem er Heidi ‘kok’?</title>
+         <link>https://www.spreaker.com/episode/2-7-hvem-er-heidi-kok--58229866</link>
+         <description>Hvis du gik med til, at Simon Spies måtte brække din arm, så ville du få 10.000 kroner. Sådan lyder ét af anklagerne i DR’s dokumentar ‘Spies og Morgenbolledamerne’. Og ifølge dokumentaren skulle Simon Spies blandt andet have brækket armen på en kvindelig kok i Spies Rejser ved navn Heidi. &lt;br /&gt;&lt;br /&gt;Men flere af de medvirkende i DR’s dokumentar fortæller 24syv, at de aldrig har hørt om, at Simon Spies skulle have tilbudt penge for at brække kvinders arme.&lt;br /&gt;&lt;br /&gt;Så hvilken dokumentation har DR for den anklage? Og er der overhovedet nogen, der ved, hvem kokken Heidi er?&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/58229866</guid>
+         <pubDate>Tue, 09 Jan 2024 05:00:03 +0000</pubDate>
+         <enclosure length="79780224" type="audio/mpeg" url="https://archive.org/download/spieskommissionen/SpiesKommissionen/2024.01.09%20-%201.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Hvis du gik med til, at Simon Spies måtte brække din arm, så ville du få 10.000 kroner. Sådan lyder ét af anklagerne i DR’s dokumentar ‘Spies og Morgenbolledamerne’. Og ifølge dokumentaren skulle Simon Spies blandt andet have brækket armen på en...</itunes:subtitle>
+         <itunes:summary>Hvis du gik med til, at Simon Spies måtte brække din arm, så ville du få 10.000 kroner. Sådan lyder ét af anklagerne i DR’s dokumentar ‘Spies og Morgenbolledamerne’. Og ifølge dokumentaren skulle Simon Spies blandt andet have brækket armen på en kvindelig kok i Spies Rejser ved navn Heidi. &lt;br /&gt;&lt;br /&gt;Men flere af de medvirkende i DR’s dokumentar fortæller 24syv, at de aldrig har hørt om, at Simon Spies skulle have tilbudt penge for at brække kvinders arme.&lt;br /&gt;&lt;br /&gt;Så hvilken dokumentation har DR for den anklage? Og er der overhovedet nogen, der ved, hvem kokken Heidi er?&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio</itunes:summary>
+         <itunes:duration>2492</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>1:7 - Et blakket eftermæle</title>
+         <link>https://www.spreaker.com/episode/1-7-et-blakket-eftermaele--58229063</link>
+         <description>I august 2022 detonerede DR en bombe under eftermælet af den afdøde rejsekonge Simon Spies.&lt;br /&gt;&lt;br /&gt;Dokumentaren ‘Spies og Morgenbolledamerne’ ryddede forsiderne med fortællinger om en sadistisk excentriker, der for fornøjelsen skyld pådrog unge kvinder blå mærker, udnyttede dem seksuelt og sågar tilbød betaling for at brække deres arme. &lt;br /&gt;&lt;br /&gt;Men i månederne efter udgivelsen begyndte flere af de medvirkende at kritisere dokumentarens indhold. Én af dem klagede til DR. “Et karaktermord”, blev dokumentaren kaldt.&lt;br /&gt;&lt;br /&gt;Så hvem har ret? DR eller kritikerne? &lt;br /&gt;&lt;br /&gt;Med den undersøgende serie ‘SpiesKommissionen’ dykker 24syv i samarbejde med tre uafhængige journalister ned i ét af de seneste års mest omtalte dokumentarer.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Klip og lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio&lt;br /&gt;TV2 Kosmopol &lt;br /&gt;Bo Østlund</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/58229063</guid>
+         <pubDate>Tue, 09 Jan 2024 05:00:03 +0000</pubDate>
+         <enclosure length="37620864" type="audio/mpeg" url="https://archive.org/download/spieskommissionen/SpiesKommissionen/2024.01.09%20-%202.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>I august 2022 detonerede DR en bombe under eftermælet af den afdøde rejsekonge Simon Spies.
 
-Dokumentaren ‘Spies og Morgenbolledamerne’ ryddede forsiderne med fortællinger om en sadistisk excentriker, der for fornøjelsen skyld pådrog unge kvinder blå...
-   </itunes:subtitle>
-   <itunes:summary>
-    I august 2022 detonerede DR en bombe under eftermælet af den afdøde rejsekonge Simon Spies.&lt;br /&gt;&lt;br /&gt;Dokumentaren ‘Spies og Morgenbolledamerne’ ryddede forsiderne med fortællinger om en sadistisk excentriker, der for fornøjelsen skyld pådrog unge kvinder blå mærker, udnyttede dem seksuelt og sågar tilbød betaling for at brække deres arme. &lt;br /&gt;&lt;br /&gt;Men i månederne efter udgivelsen begyndte flere af de medvirkende at kritisere dokumentarens indhold. Én af dem klagede til DR. “Et karaktermord”, blev dokumentaren kaldt.&lt;br /&gt;&lt;br /&gt;Så hvem har ret? DR eller kritikerne? &lt;br /&gt;&lt;br /&gt;Med den undersøgende serie ‘SpiesKommissionen’ dykker 24syv i samarbejde med tre uafhængige journalister ned i ét af de seneste års mest omtalte dokumentarer.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Klip og lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio&lt;br /&gt;TV2 Kosmopol &lt;br /&gt;Bo Østlund
-   </itunes:summary>
-   <itunes:duration>
-    1568
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Teaser: SpiesKommissionen udkommer 9. januar
-   </title>
-   <link>
-    https://www.spreaker.com/episode/teaser-spieskommissionen-udkommer-9-januar--58196454
-   </link>
-   <description>
-    SpiesKommissionen er en serie, der undersøger, om Danmarks Radio omfattende dokumentararbejde om Simon Spies er til at stole på - eller om en voksende gruppe af kritikere, der siden efteråret 2022 har angrebet dokumentaren for at være uhæderlig, har helt eller delvist ret.&lt;br /&gt;&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="https://24syv.dk" target="_blank" rel="noreferrer noopener"&gt;spieskommissionen@24syv.dk&lt;/a&gt;
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/58196454
-   </guid>
-   <pubDate>
-    Thu, 04 Jan 2024 11:42:03 +0000
-   </pubDate>
-   <enclosure length="1103779" type="audio/mpeg" url="https://api.spreaker.com/download/episode/58196454/0000d4e1.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    SpiesKommissionen er en serie, der undersøger, om Danmarks Radio omfattende dokumentararbejde om Simon Spies er til at stole på - eller om en voksende gruppe af kritikere, der siden efteråret 2022 har angrebet dokumentaren for at være uhæderlig, har...
-   </itunes:subtitle>
-   <itunes:summary>
-    SpiesKommissionen er en serie, der undersøger, om Danmarks Radio omfattende dokumentararbejde om Simon Spies er til at stole på - eller om en voksende gruppe af kritikere, der siden efteråret 2022 har angrebet dokumentaren for at være uhæderlig, har helt eller delvist ret.&lt;br /&gt;&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="https://24syv.dk" target="_blank" rel="noreferrer noopener"&gt;spieskommissionen@24syv.dk&lt;/a&gt;
-   </itunes:summary>
-   <itunes:duration>
-    69
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+Dokumentaren ‘Spies og Morgenbolledamerne’ ryddede forsiderne med fortællinger om en sadistisk excentriker, der for fornøjelsen skyld pådrog unge kvinder blå...</itunes:subtitle>
+         <itunes:summary>I august 2022 detonerede DR en bombe under eftermælet af den afdøde rejsekonge Simon Spies.&lt;br /&gt;&lt;br /&gt;Dokumentaren ‘Spies og Morgenbolledamerne’ ryddede forsiderne med fortællinger om en sadistisk excentriker, der for fornøjelsen skyld pådrog unge kvinder blå mærker, udnyttede dem seksuelt og sågar tilbød betaling for at brække deres arme. &lt;br /&gt;&lt;br /&gt;Men i månederne efter udgivelsen begyndte flere af de medvirkende at kritisere dokumentarens indhold. Én af dem klagede til DR. “Et karaktermord”, blev dokumentaren kaldt.&lt;br /&gt;&lt;br /&gt;Så hvem har ret? DR eller kritikerne? &lt;br /&gt;&lt;br /&gt;Med den undersøgende serie ‘SpiesKommissionen’ dykker 24syv i samarbejde med tre uafhængige journalister ned i ét af de seneste års mest omtalte dokumentarer.&lt;br /&gt;&lt;br /&gt;Vært og tilrettelægger:&lt;br /&gt;Niels Frederik Rickers&lt;br /&gt;&lt;br /&gt;Medlemmer af SpiesKommissionen:&lt;br /&gt;Ida Nyegård Espersen &lt;br /&gt;Kurt Strand&lt;br /&gt;Thomas Stokholm&lt;br /&gt;&lt;br /&gt;Klip og lyddesign:&lt;br /&gt;Daniel Sarto Lassen&lt;br /&gt;&lt;br /&gt;Klip lånt fra:&lt;br /&gt;Danmarks Radio&lt;br /&gt;TV2 Kosmopol &lt;br /&gt;Bo Østlund</itunes:summary>
+         <itunes:duration>1568</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Teaser: SpiesKommissionen udkommer 9. januar</title>
+         <link>https://www.spreaker.com/episode/teaser-spieskommissionen-udkommer-9-januar--58196454</link>
+         <description>SpiesKommissionen er en serie, der undersøger, om Danmarks Radio omfattende dokumentararbejde om Simon Spies er til at stole på - eller om en voksende gruppe af kritikere, der siden efteråret 2022 har angrebet dokumentaren for at være uhæderlig, har helt eller delvist ret.&lt;br /&gt;&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="https://24syv.dk" target="_blank" rel="noreferrer noopener"&gt;spieskommissionen@24syv.dk&lt;/a&gt;</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/58196454</guid>
+         <pubDate>Thu, 04 Jan 2024 11:42:03 +0000</pubDate>
+         <enclosure length="1103779" type="audio/mpeg" url="https://archive.org/download/spieskommissionen/SpiesKommissionen/2024.01.04%20-%20Teaser.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>SpiesKommissionen er en serie, der undersøger, om Danmarks Radio omfattende dokumentararbejde om Simon Spies er til at stole på - eller om en voksende gruppe af kritikere, der siden efteråret 2022 har angrebet dokumentaren for at være uhæderlig, har...</itunes:subtitle>
+         <itunes:summary>SpiesKommissionen er en serie, der undersøger, om Danmarks Radio omfattende dokumentararbejde om Simon Spies er til at stole på - eller om en voksende gruppe af kritikere, der siden efteråret 2022 har angrebet dokumentaren for at være uhæderlig, har helt eller delvist ret.&lt;br /&gt;&lt;br /&gt;Har du input, spørgsmål eller kommentarer? Skriv til &lt;a href="https://24syv.dk" target="_blank" rel="noreferrer noopener"&gt;spieskommissionen@24syv.dk&lt;/a&gt;</itunes:summary>
+         <itunes:duration>69</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3d122dfb7d78870efcf52de0b74871de.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

@@ -1,437 +1,187 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Tak fordi du kom
-  </title>
-  <link>
-   https://www.spreaker.com/show/tak-fordi-du-kom
-  </link>
-  <description>
-   En vært, en gæst, en time. Det er opskriften på 24syvs ugentlige samtaleprogram, Tak fordi du kom. Hver fredag klokken 12 byder Anders Langballe velkommen til en markant stemme i tiden. Tonen er nysgerrig, jovial og kritisk, når der er brug for det.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/5660420/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   News
-  </category>
-  <copyright>
-   Copyright 24syv
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg
-   </url>
-   <title>
-    Tak fordi du kom
-   </title>
-   <link>
-    https://www.spreaker.com/show/tak-fordi-du-kom
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   24syv
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    24syv
-   </itunes:name>
-   <itunes:email>
-    feeds@spreaker.com
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg"/>
-  <itunes:subtitle>
-   En vært, en gæst, en time. Det er opskriften på 24syvs ugentlige samtaleprogram, Tak fordi du kom. Hver fredag klokken 12 byder Anders Langballe velkommen til en markant stemme i tiden. Tonen er nysgerrig, jovial og kritisk, når der er brug for det.
-  </itunes:subtitle>
-  <itunes:summary>
-   En vært, en gæst, en time. Det er opskriften på 24syvs ugentlige samtaleprogram, Tak fordi du kom. Hver fredag klokken 12 byder Anders Langballe velkommen til en markant stemme i tiden. Tonen er nysgerrig, jovial og kritisk, når der er brug for det.
-  </itunes:summary>
-  <itunes:category text="News"/>
-  <itunes:category text="News">
-   <itunes:category text="Politics"/>
-  </itunes:category>
-  <itunes:category text="News">
-   <itunes:category text="Entertainment News"/>
-  </itunes:category>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Lars Løkke Rasmussen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/lars-lokke-rasmussen--51738696
-   </link>
-   <description>
-    Lars Løkke Rasmussen kender magten, og han kender om nogen spillet om at få den. Under det seneste folketingsvalg valgte han som Venstre-formand og statsminister først og fremmest at være tro mod sig selv. Men hvordan havde han det med på den måde at være utro mod sit daværende parti, Venstre?&lt;br /&gt;&lt;br /&gt;Målet var at sætte Venstre fri, siger Løkke, der endte med selv at blive smidt på porten af Venstre.&lt;br /&gt;&lt;br /&gt;Det og meget andet taler vært Anders Langballe med Løkke om i denne særudgave af programmet ’Tak fordi du kom,’ fra Løkkes kampagnebus mindre end et døgn før valgstederne åbner.&lt;br /&gt;&lt;br /&gt;Nu står Løkke med udsigten til at blive kongemager i dansk politik. Fra den midterposition, som han har talt så meget om. Hvordan vil han bruge den position? Og hvorfor er han så forhippet på ikke at gøre vælgerne klogere på, hvem han ønsker, der skal stå i spidsen for en kommende regering?&lt;br /&gt;&lt;br /&gt;Hvordan hænger det i øvrigt samme, at Løkke som statsminister og før det bl.a. sundheds- og finansminister aldrig selv har bygget sin politik på andet end det rene blå samarbejde i Folketinget?  &lt;br /&gt;&lt;br /&gt;Løkke fortæller, hvornår han kom til en erkendelse af, at den gamle blå metode ikke duede og hvad første skridt er, hvis Mette Frederiksen efter valget skal være statsminister på Løkkes stemmer.&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Gæst: Lars Løkke Rasmussen, formand, Moderaterne&lt;br /&gt;&lt;br /&gt;Vært: Anders Langballe
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/51738696
-   </guid>
-   <pubDate>
-    Mon, 31 Oct 2022 14:11:16 +0000
-   </pubDate>
-   <enclosure length="50391481" type="audio/mpeg" url="https://api.spreaker.com/download/episode/51738696/tfdk_l_kke_poa_tur_mixdown_16_lufs.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Lars Løkke Rasmussen kender magten, og han kender om nogen spillet om at få den. Under det seneste folketingsvalg valgte han som Venstre-formand og statsminister først og fremmest at være tro mod sig selv. Men hvordan havde han det med på den måde at...
-   </itunes:subtitle>
-   <itunes:summary>
-    Lars Løkke Rasmussen kender magten, og han kender om nogen spillet om at få den. Under det seneste folketingsvalg valgte han som Venstre-formand og statsminister først og fremmest at være tro mod sig selv. Men hvordan havde han det med på den måde at være utro mod sit daværende parti, Venstre?&lt;br /&gt;&lt;br /&gt;Målet var at sætte Venstre fri, siger Løkke, der endte med selv at blive smidt på porten af Venstre.&lt;br /&gt;&lt;br /&gt;Det og meget andet taler vært Anders Langballe med Løkke om i denne særudgave af programmet ’Tak fordi du kom,’ fra Løkkes kampagnebus mindre end et døgn før valgstederne åbner.&lt;br /&gt;&lt;br /&gt;Nu står Løkke med udsigten til at blive kongemager i dansk politik. Fra den midterposition, som han har talt så meget om. Hvordan vil han bruge den position? Og hvorfor er han så forhippet på ikke at gøre vælgerne klogere på, hvem han ønsker, der skal stå i spidsen for en kommende regering?&lt;br /&gt;&lt;br /&gt;Hvordan hænger det i øvrigt samme, at Løkke som statsminister og før det bl.a. sundheds- og finansminister aldrig selv har bygget sin politik på andet end det rene blå samarbejde i Folketinget?  &lt;br /&gt;&lt;br /&gt;Løkke fortæller, hvornår han kom til en erkendelse af, at den gamle blå metode ikke duede og hvad første skridt er, hvis Mette Frederiksen efter valget skal være statsminister på Løkkes stemmer.&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Gæst: Lars Løkke Rasmussen, formand, Moderaterne&lt;br /&gt;&lt;br /&gt;Vært: Anders Langballe
-   </itunes:summary>
-   <itunes:duration>
-    2100
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Jan E. Jørgensen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/jan-e-jorgensen--51713047
-   </link>
-   <description>
-    Venstres Jan E. Jørgensen kalder sig sit partis ”storbystemme”. Han er valgt i København, er kulturordfører og er ofte gået kontant i rette med de partifæller, der ifølge Jan E. Jørgensen er mere konservative end liberale. Ikke mindst den tidligere næstformand Inger Støjberg.&lt;br /&gt;&lt;br /&gt;Men hvad mener, Jan E. Jørgensen om, at hans parti er klar til at gøre den rigsretsdømte Støjberg til minister i en evt. blå regering? Vært Anders Langballe taler i denne udgave af ’Tak fordi du kom’ med ham om det og en række andre emner.&lt;br /&gt;&lt;br /&gt;Ifølge Jan E. Jørgensen siger mange politikere ting, som de åbenlyst ikke selv mener i deres iver efter at grave grøfter mellem danskerne. Støjberg elsker f.eks. København og byernes cafeer og saloner, siger han. Samtidig kalder han Socialdemokratiet for et ”et radikaliseret parti”, der kommer med ”ekstreme politiske forslag”, som åbenlyst strider mod internationale konventionerne, og som derfor aldrig vil få gang på jorden. På den måde har Socialdemokratiet udviklet til et mere ekstremt og radikaliseret parti end f.eks. Støjbergs Danmarksdemokraterne og Vermunds Nye Borgerlige.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/51713047
-   </guid>
-   <pubDate>
-    Fri, 28 Oct 2022 11:00:02 +0000
-   </pubDate>
-   <enclosure length="77582631" type="audio/mpeg" url="https://api.spreaker.com/download/episode/51713047/frankenstein_mixdown_16_lufs.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Venstres Jan E. Jørgensen kalder sig sit partis ”storbystemme”. Han er valgt i København, er kulturordfører og er ofte gået kontant i rette med de partifæller, der ifølge Jan E. Jørgensen er mere konservative end liberale. Ikke mindst den tidligere...
-   </itunes:subtitle>
-   <itunes:summary>
-    Venstres Jan E. Jørgensen kalder sig sit partis ”storbystemme”. Han er valgt i København, er kulturordfører og er ofte gået kontant i rette med de partifæller, der ifølge Jan E. Jørgensen er mere konservative end liberale. Ikke mindst den tidligere næstformand Inger Støjberg.&lt;br /&gt;&lt;br /&gt;Men hvad mener, Jan E. Jørgensen om, at hans parti er klar til at gøre den rigsretsdømte Støjberg til minister i en evt. blå regering? Vært Anders Langballe taler i denne udgave af ’Tak fordi du kom’ med ham om det og en række andre emner.&lt;br /&gt;&lt;br /&gt;Ifølge Jan E. Jørgensen siger mange politikere ting, som de åbenlyst ikke selv mener i deres iver efter at grave grøfter mellem danskerne. Støjberg elsker f.eks. København og byernes cafeer og saloner, siger han. Samtidig kalder han Socialdemokratiet for et ”et radikaliseret parti”, der kommer med ”ekstreme politiske forslag”, som åbenlyst strider mod internationale konventionerne, og som derfor aldrig vil få gang på jorden. På den måde har Socialdemokratiet udviklet til et mere ekstremt og radikaliseret parti end f.eks. Støjbergs Danmarksdemokraterne og Vermunds Nye Borgerlige.
-   </itunes:summary>
-   <itunes:duration>
-    3233
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Jacob Mark
-   </title>
-   <link>
-    https://www.spreaker.com/episode/jacob-mark--51644781
-   </link>
-   <description>
-    SF’s Jacob Mark har blikket stift rettet mod en ministerpost. For mindre et år siden måtte han ellers sygemelde sig med galoperende stress. Han ville ikke indse alvoren før angst og stress ødelagde hans syn og tvang ham væk fra politik. Efter en længere sygemelding, afstresning og en øjenoperation, er han tilbage.&lt;br /&gt;&lt;br /&gt;Jacob Mark er opvokset i klassisk socialistiske familie. Kirken fyldte intet - og han blev opfordret til ikke at deltage i de årlige julegudstjenester med skolen. Men da de første angstanfald dukkede op for nogle år siden, fandt han roen i kirken. Og blev i hemmlighed døbt i den lokale folkekirke.&lt;br /&gt;Han skjulte stress og angst for omgivelserne. Frygten for at vise svaghed overdøvede alt.&lt;br /&gt;&lt;br /&gt;I ugens udgave af “Tak fordi du kom” taler vi blandt meget andet også om en af de store udfordringer for udviklingen af det danske velfærdssamfund, som ifølge Mark, er den socialdemokratiske systemtænkning.&lt;br /&gt;Lyt med her.&lt;br /&gt;&lt;br /&gt;Gæst: Jacob Mark&lt;br /&gt;Vært: Anders Langballe
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/51644781
-   </guid>
-   <pubDate>
-    Fri, 21 Oct 2022 14:15:31 +0000
-   </pubDate>
-   <enclosure length="49517952" type="audio/mpeg" url="https://api.spreaker.com/download/episode/51644781/tak_fordi_du_kom_ny_jacob_mark.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    SF’s Jacob Mark har blikket stift rettet mod en ministerpost. For mindre et år siden måtte han ellers sygemelde sig med galoperende stress. Han ville ikke indse alvoren før angst og stress ødelagde hans syn og tvang ham væk fra politik. Efter en...
-   </itunes:subtitle>
-   <itunes:summary>
-    SF’s Jacob Mark har blikket stift rettet mod en ministerpost. For mindre et år siden måtte han ellers sygemelde sig med galoperende stress. Han ville ikke indse alvoren før angst og stress ødelagde hans syn og tvang ham væk fra politik. Efter en længere sygemelding, afstresning og en øjenoperation, er han tilbage.&lt;br /&gt;&lt;br /&gt;Jacob Mark er opvokset i klassisk socialistiske familie. Kirken fyldte intet - og han blev opfordret til ikke at deltage i de årlige julegudstjenester med skolen. Men da de første angstanfald dukkede op for nogle år siden, fandt han roen i kirken. Og blev i hemmlighed døbt i den lokale folkekirke.&lt;br /&gt;Han skjulte stress og angst for omgivelserne. Frygten for at vise svaghed overdøvede alt.&lt;br /&gt;&lt;br /&gt;I ugens udgave af “Tak fordi du kom” taler vi blandt meget andet også om en af de store udfordringer for udviklingen af det danske velfærdssamfund, som ifølge Mark, er den socialdemokratiske systemtænkning.&lt;br /&gt;Lyt med her.&lt;br /&gt;&lt;br /&gt;Gæst: Jacob Mark&lt;br /&gt;Vært: Anders Langballe
-   </itunes:summary>
-   <itunes:duration>
-    3091
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Nanna W. Godtfredsen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/nanna-w-godtfredsen--51573857
-   </link>
-   <description>
-    Gadejuristen Nanna Gotfredsen har gjort en dyd ud af ikke at være partipolitisk. I en menneskeralder har hun arbejdet blandt og for de mest udsatte borgere i de hårde miljø på Vesterbro i København. Blandt misbrugere, sexarbejdere og skæve eksistenser.&lt;br /&gt;Nu vil hun i Folketinget. Hun opstiller for partiet Moderaterne ved valget den 1. november. Hun kalder sig selv liberal og mener, at hun kan samarbejde med alle på Christianborg.&lt;br /&gt;Fra højrefløjen til venstrefløjen.&lt;br /&gt;Men hvad vil hun egentlig på Christiansborg?&lt;br /&gt;Selv mener hun, at politik er på speed. At politikerne er for overfladiske og mere eller mindre bevist overser, at politik er og skal være fyldt med nuancer.&lt;br /&gt;Nu har hun meldt sig som en del af Lars Løkke Rasmussens hold. Og er hun ikke bekymret for at være spændt for den tidligere statsminister personlige projekt om at genvinde en position i dansk politik efter han blev smidt på porten i sit gamle parti.&lt;br /&gt;&lt;br /&gt;Gæst: Nanna W. Gotfredsen&lt;br /&gt;Vært: Anders Langballe
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/51573857
-   </guid>
-   <pubDate>
-    Fri, 14 Oct 2022 11:37:22 +0000
-   </pubDate>
-   <enclosure length="77675416" type="audio/mpeg" url="https://api.spreaker.com/download/episode/51573857/tfdk_14_okt_mixdown_16_lufs.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Gadejuristen Nanna Gotfredsen har gjort en dyd ud af ikke at være partipolitisk. I en menneskeralder har hun arbejdet blandt og for de mest udsatte borgere i de hårde miljø på Vesterbro i København. Blandt misbrugere, sexarbejdere og skæve...
-   </itunes:subtitle>
-   <itunes:summary>
-    Gadejuristen Nanna Gotfredsen har gjort en dyd ud af ikke at være partipolitisk. I en menneskeralder har hun arbejdet blandt og for de mest udsatte borgere i de hårde miljø på Vesterbro i København. Blandt misbrugere, sexarbejdere og skæve eksistenser.&lt;br /&gt;Nu vil hun i Folketinget. Hun opstiller for partiet Moderaterne ved valget den 1. november. Hun kalder sig selv liberal og mener, at hun kan samarbejde med alle på Christianborg.&lt;br /&gt;Fra højrefløjen til venstrefløjen.&lt;br /&gt;Men hvad vil hun egentlig på Christiansborg?&lt;br /&gt;Selv mener hun, at politik er på speed. At politikerne er for overfladiske og mere eller mindre bevist overser, at politik er og skal være fyldt med nuancer.&lt;br /&gt;Nu har hun meldt sig som en del af Lars Løkke Rasmussens hold. Og er hun ikke bekymret for at være spændt for den tidligere statsminister personlige projekt om at genvinde en position i dansk politik efter han blev smidt på porten i sit gamle parti.&lt;br /&gt;&lt;br /&gt;Gæst: Nanna W. Gotfredsen&lt;br /&gt;Vært: Anders Langballe
-   </itunes:summary>
-   <itunes:duration>
-    3237
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Søren Gade
-   </title>
-   <link>
-    https://www.spreaker.com/episode/soren-gade--51497835
-   </link>
-   <description>
-    Venstres Søren Gade er kaldt hjem fra Europa-Parlamentet for at få sit parti helskindet gennem valgkampen. Den tidligere formand, Lars Løkke Rasmussen, og partiet forhenværende næstformand, Inger Støjberg, er begge ude af partiet og nu står partiet til en solid vælgerlussing. &lt;br /&gt;Hvordan er det at blive trukket af stalden som en anden gammel cirkushest for at minimere tabene ved folketingsvalget?&lt;br /&gt;Partiformand Jakob Ellemann-Jensen står svagt i egne rækker - ikke mindst i det jyske. Nu er det i høj grad Gades opgave at tage kampen på formanden og partiets vegne med sin egen gamle veninde Inger Støjberg. Som han mener fik en hård medfart, da hun blev tvunget ud af partiet. Hvordan har han det med det? &lt;br /&gt;Forskellen mellem partiformand Ellemann-Jensen og Gade er til at få øje på. Og statsminister Mette Frederiksen har gode kort på hånden, når det gælder netop politisk lederskab, som er et af valgkampens store hovedtemaer, medgiver Søren Gade. &lt;br /&gt;Betyder det så, at Gade er klar til at overtage partiformandsskabet, hvis det glipper for Venstre at vinde magten? &lt;br /&gt;Det og meget andet er på bordet i ugens udgave af “Tak fordi du kom.”&lt;br /&gt;&lt;br /&gt;Gæst: Søren Gade&lt;br /&gt;Vært: Anders Langballe
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/51497835
-   </guid>
-   <pubDate>
-    Fri, 07 Oct 2022 11:52:19 +0000
-   </pubDate>
-   <enclosure length="77270515" type="audio/mpeg" url="https://api.spreaker.com/download/episode/51497835/langballe_pa_tur_mixdown_16_lufs.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Venstres Søren Gade er kaldt hjem fra Europa-Parlamentet for at få sit parti helskindet gennem valgkampen. Den tidligere formand, Lars Løkke Rasmussen, og partiet forhenværende næstformand, Inger Støjberg, er begge ude af partiet og nu står partiet...
-   </itunes:subtitle>
-   <itunes:summary>
-    Venstres Søren Gade er kaldt hjem fra Europa-Parlamentet for at få sit parti helskindet gennem valgkampen. Den tidligere formand, Lars Løkke Rasmussen, og partiet forhenværende næstformand, Inger Støjberg, er begge ude af partiet og nu står partiet til en solid vælgerlussing. &lt;br /&gt;Hvordan er det at blive trukket af stalden som en anden gammel cirkushest for at minimere tabene ved folketingsvalget?&lt;br /&gt;Partiformand Jakob Ellemann-Jensen står svagt i egne rækker - ikke mindst i det jyske. Nu er det i høj grad Gades opgave at tage kampen på formanden og partiets vegne med sin egen gamle veninde Inger Støjberg. Som han mener fik en hård medfart, da hun blev tvunget ud af partiet. Hvordan har han det med det? &lt;br /&gt;Forskellen mellem partiformand Ellemann-Jensen og Gade er til at få øje på. Og statsminister Mette Frederiksen har gode kort på hånden, når det gælder netop politisk lederskab, som er et af valgkampens store hovedtemaer, medgiver Søren Gade. &lt;br /&gt;Betyder det så, at Gade er klar til at overtage partiformandsskabet, hvis det glipper for Venstre at vinde magten? &lt;br /&gt;Det og meget andet er på bordet i ugens udgave af “Tak fordi du kom.”&lt;br /&gt;&lt;br /&gt;Gæst: Søren Gade&lt;br /&gt;Vært: Anders Langballe
-   </itunes:summary>
-   <itunes:duration>
-    3220
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Bent Lauritzen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/bent-lauritzen--51416625
-   </link>
-   <description>
-    Den Socialdemokratiske regering taler mod bedre vidende, når de siger definitivt nej til atomkraft på dansk jord. Så hård lyder kritikken fra Bent Lauritzen, der er sektionsleder ved DTU Fysik og en af landets førende eksperter inden for atomkraft. &lt;br /&gt;&lt;br /&gt;Spørgsmålet om hvorvidt atomkraft skal være en del af den danske energiforsyning har aldrig været mere aktuelt end nu i en tid, hvor klimakrisen tager til, og hvor energipriserne skyder i vejret. Bent Lauritzen er klar i mælet. Vi SKAL se på atomkraft. &lt;br /&gt;&lt;br /&gt;Gæst: Bent Lauritzen, sektionsleder ved DTU Fysik &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/51416625
-   </guid>
-   <pubDate>
-    Thu, 29 Sep 2022 13:32:04 +0000
-   </pubDate>
-   <enclosure length="50328960" type="audio/mpeg" url="https://api.spreaker.com/download/episode/51416625/tfdk_bent_lauritzen.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Den Socialdemokratiske regering taler mod bedre vidende, når de siger definitivt nej til atomkraft på dansk jord. Så hård lyder kritikken fra Bent Lauritzen, der er sektionsleder ved DTU Fysik og en af landets førende eksperter inden for atomkraft....
-   </itunes:subtitle>
-   <itunes:summary>
-    Den Socialdemokratiske regering taler mod bedre vidende, når de siger definitivt nej til atomkraft på dansk jord. Så hård lyder kritikken fra Bent Lauritzen, der er sektionsleder ved DTU Fysik og en af landets førende eksperter inden for atomkraft. &lt;br /&gt;&lt;br /&gt;Spørgsmålet om hvorvidt atomkraft skal være en del af den danske energiforsyning har aldrig været mere aktuelt end nu i en tid, hvor klimakrisen tager til, og hvor energipriserne skyder i vejret. Bent Lauritzen er klar i mælet. Vi SKAL se på atomkraft. &lt;br /&gt;&lt;br /&gt;Gæst: Bent Lauritzen, sektionsleder ved DTU Fysik &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen
-   </itunes:summary>
-   <itunes:duration>
-    3142
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Claus Hjort Frederiksen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/claus-hjort-frederiksen--51345386
-   </link>
-   <description>
-    Venstres nestor og tidligere forsvarsminister, Claus Hjort Frederiksen er overbevist om, at der kommer en tiltale for deling af højt klassificerede oplysninger, når folketingsvalget er overstået. Men hvordan ser Claus Hjort Frederiksen på en fremtid, hvor en længere fængselsstraf kan vente? Hvad betyder det for hans forhold til sin syge kone, og hvad betyder det for lysten til at passe det politiske arbejde på Christiansborg? &lt;br /&gt;&lt;br /&gt;Gæst: Claus Hjort Frederiksen &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen &lt;br /&gt;&lt;br /&gt;Producer: Jens Marott
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/51345386
-   </guid>
-   <pubDate>
-    Thu, 22 Sep 2022 14:48:20 +0000
-   </pubDate>
-   <enclosure length="49880448" type="audio/mpeg" url="https://api.spreaker.com/download/episode/51345386/f_rdig_tfdk_claus_hjort.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Venstres nestor og tidligere forsvarsminister, Claus Hjort Frederiksen er overbevist om, at der kommer en tiltale for deling af højt klassificerede oplysninger, når folketingsvalget er overstået. Men hvordan ser Claus Hjort Frederiksen på en fremtid,...
-   </itunes:subtitle>
-   <itunes:summary>
-    Venstres nestor og tidligere forsvarsminister, Claus Hjort Frederiksen er overbevist om, at der kommer en tiltale for deling af højt klassificerede oplysninger, når folketingsvalget er overstået. Men hvordan ser Claus Hjort Frederiksen på en fremtid, hvor en længere fængselsstraf kan vente? Hvad betyder det for hans forhold til sin syge kone, og hvad betyder det for lysten til at passe det politiske arbejde på Christiansborg? &lt;br /&gt;&lt;br /&gt;Gæst: Claus Hjort Frederiksen &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen &lt;br /&gt;&lt;br /&gt;Producer: Jens Marott
-   </itunes:summary>
-   <itunes:duration>
-    3114
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hans Jørgen Bonnichsen
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hans-jorgen-bonnichsen--51280392
-   </link>
-   <description>
-    Hans Jørgen Bonnichsen er en lettet mand. Nu er der endelig rejst tiltale mod tidligere FE-chef Lars Findsen, så der kan komme afklaring på det, Bonnichsen kalder et decideret karaktermord. &lt;br /&gt;&lt;br /&gt;Hør Hans Jørgen Bonnichsens reaktion på den netop udmeldte tiltale mod Findsen og om Bonnichsen selv har lækket klassificerede informationer i sin tid som PET-chef. &lt;br /&gt;&lt;br /&gt;Gæst: Hans Jørgen Bonnichsen, tidl. PET-chef &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen &lt;br /&gt;&lt;br /&gt;I produktionen: Julie Kragh
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/51280392
-   </guid>
-   <pubDate>
-    Fri, 16 Sep 2022 11:57:12 +0000
-   </pubDate>
-   <enclosure length="51801984" type="audio/mpeg" url="https://api.spreaker.com/download/episode/51280392/tfdk_hans_j_rgen_bonnichsen.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Hans Jørgen Bonnichsen er en lettet mand. Nu er der endelig rejst tiltale mod tidligere FE-chef Lars Findsen, så der kan komme afklaring på det, Bonnichsen kalder et decideret karaktermord. 
-
-Hør Hans Jørgen Bonnichsens reaktion på den netop...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hans Jørgen Bonnichsen er en lettet mand. Nu er der endelig rejst tiltale mod tidligere FE-chef Lars Findsen, så der kan komme afklaring på det, Bonnichsen kalder et decideret karaktermord. &lt;br /&gt;&lt;br /&gt;Hør Hans Jørgen Bonnichsens reaktion på den netop udmeldte tiltale mod Findsen og om Bonnichsen selv har lækket klassificerede informationer i sin tid som PET-chef. &lt;br /&gt;&lt;br /&gt;Gæst: Hans Jørgen Bonnichsen, tidl. PET-chef &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen &lt;br /&gt;&lt;br /&gt;I produktionen: Julie Kragh
-   </itunes:summary>
-   <itunes:duration>
-    3234
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Morten Messerschmidt
-   </title>
-   <link>
-    https://www.spreaker.com/episode/morten-messerschmidt--51198676
-   </link>
-   <description>
-    Morten Messerschmidt har overtaget et Dansk Folkeparti, der kæmper for overlevelse. For første gang i mere end tyve år, så flirter DF med spærregrænsen i meningsmålingerne, og folketingsvalget venter i kulissen. &lt;br /&gt;&lt;br /&gt;Men hvordan vil Morten Messerschmidt genrejse en af de største succeser i dansk, politisk historie, alt imens han kæmper med en kommende sag om svig og dokumentfalsk og massiv kritik fra tidligere partifæller? &lt;br /&gt;&lt;br /&gt;Morten Messerschmidt er ugens gæst i 24Syvs nye hardtalkformat, Tak fordi du kom. &lt;br /&gt;&lt;br /&gt;Gæst: Morten Messerschmidt, formand, Dansk Folkeparti &lt;br /&gt;&lt;br /&gt;Øvrige medvirkende: Martin Henriksen, tidl. medlem af Dansk Folkeparti &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/51198676
-   </guid>
-   <pubDate>
-    Fri, 09 Sep 2022 12:47:40 +0000
-   </pubDate>
-   <enclosure length="51934464" type="audio/mpeg" url="https://api.spreaker.com/download/episode/51198676/tfdk_morten_messerschmidt.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:subtitle>
-    Morten Messerschmidt har overtaget et Dansk Folkeparti, der kæmper for overlevelse. For første gang i mere end tyve år, så flirter DF med spærregrænsen i meningsmålingerne, og folketingsvalget venter i kulissen. 
-
-Men hvordan vil Morten...
-   </itunes:subtitle>
-   <itunes:summary>
-    Morten Messerschmidt har overtaget et Dansk Folkeparti, der kæmper for overlevelse. For første gang i mere end tyve år, så flirter DF med spærregrænsen i meningsmålingerne, og folketingsvalget venter i kulissen. &lt;br /&gt;&lt;br /&gt;Men hvordan vil Morten Messerschmidt genrejse en af de største succeser i dansk, politisk historie, alt imens han kæmper med en kommende sag om svig og dokumentfalsk og massiv kritik fra tidligere partifæller? &lt;br /&gt;&lt;br /&gt;Morten Messerschmidt er ugens gæst i 24Syvs nye hardtalkformat, Tak fordi du kom. &lt;br /&gt;&lt;br /&gt;Gæst: Morten Messerschmidt, formand, Dansk Folkeparti &lt;br /&gt;&lt;br /&gt;Øvrige medvirkende: Martin Henriksen, tidl. medlem af Dansk Folkeparti &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen
-   </itunes:summary>
-   <itunes:duration>
-    3242
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Teaser
-   </title>
-   <link>
-    https://www.spreaker.com/episode/teaser--51184943
-   </link>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/51184943
-   </guid>
-   <pubDate>
-    Thu, 08 Sep 2022 11:56:13 +0000
-   </pubDate>
-   <enclosure length="806976" type="audio/mpeg" url="https://api.spreaker.com/download/episode/51184943/tak_fordi_du_kom_teaser.mp3"/>
-   <itunes:author>
-    24syv
-   </itunes:author>
-   <itunes:duration>
-    31
-   </itunes:duration>
-   <itunes:keywords>
-    aktuel,gæst,hardtalk,politik,samtale
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
- </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Tak fordi du kom</title>
+      <link>https://www.spreaker.com/show/tak-fordi-du-kom</link>
+      <description>En vært, en gæst, en time. Det er opskriften på 24syvs ugentlige samtaleprogram, Tak fordi du kom. Hver fredag klokken 12 byder Anders Langballe velkommen til en markant stemme i tiden. Tonen er nysgerrig, jovial og kritisk, når der er brug for det.</description>
+      <atom:link href="https://www.spreaker.com/show/5660420/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>News</category>
+      <copyright>Copyright 24syv</copyright>
+      <image>
+         <url>https://archive.org/download/tak_fordi_du_kom/Tak%20fordi%20du%20kom/695e865bdd48d18d5ad367489454ce1a.jpg</url>
+         <title>Tak fordi du kom</title>
+         <link>https://www.spreaker.com/show/tak-fordi-du-kom</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>24syv</itunes:author>
+      <itunes:owner>
+         <itunes:name>24syv</itunes:name>
+         <itunes:email>feeds@spreaker.com</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg" />
+      <itunes:subtitle>En vært, en gæst, en time. Det er opskriften på 24syvs ugentlige samtaleprogram, Tak fordi du kom. Hver fredag klokken 12 byder Anders Langballe velkommen til en markant stemme i tiden. Tonen er nysgerrig, jovial og kritisk, når der er brug for det.</itunes:subtitle>
+      <itunes:summary>En vært, en gæst, en time. Det er opskriften på 24syvs ugentlige samtaleprogram, Tak fordi du kom. Hver fredag klokken 12 byder Anders Langballe velkommen til en markant stemme i tiden. Tonen er nysgerrig, jovial og kritisk, når der er brug for det.</itunes:summary>
+      <itunes:category text="News" />
+      <itunes:category text="News">
+         <itunes:category text="Politics" />
+      </itunes:category>
+      <itunes:category text="News">
+         <itunes:category text="Entertainment News" />
+      </itunes:category>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Lars Løkke Rasmussen</title>
+         <link>https://www.spreaker.com/episode/lars-lokke-rasmussen--51738696</link>
+         <description>Lars Løkke Rasmussen kender magten, og han kender om nogen spillet om at få den. Under det seneste folketingsvalg valgte han som Venstre-formand og statsminister først og fremmest at være tro mod sig selv. Men hvordan havde han det med på den måde at være utro mod sit daværende parti, Venstre?&lt;br /&gt;&lt;br /&gt;Målet var at sætte Venstre fri, siger Løkke, der endte med selv at blive smidt på porten af Venstre.&lt;br /&gt;&lt;br /&gt;Det og meget andet taler vært Anders Langballe med Løkke om i denne særudgave af programmet ’Tak fordi du kom,’ fra Løkkes kampagnebus mindre end et døgn før valgstederne åbner.&lt;br /&gt;&lt;br /&gt;Nu står Løkke med udsigten til at blive kongemager i dansk politik. Fra den midterposition, som han har talt så meget om. Hvordan vil han bruge den position? Og hvorfor er han så forhippet på ikke at gøre vælgerne klogere på, hvem han ønsker, der skal stå i spidsen for en kommende regering?&lt;br /&gt;&lt;br /&gt;Hvordan hænger det i øvrigt samme, at Løkke som statsminister og før det bl.a. sundheds- og finansminister aldrig selv har bygget sin politik på andet end det rene blå samarbejde i Folketinget?  &lt;br /&gt;&lt;br /&gt;Løkke fortæller, hvornår han kom til en erkendelse af, at den gamle blå metode ikke duede og hvad første skridt er, hvis Mette Frederiksen efter valget skal være statsminister på Løkkes stemmer.&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Gæst: Lars Løkke Rasmussen, formand, Moderaterne&lt;br /&gt;&lt;br /&gt;Vært: Anders Langballe</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/51738696</guid>
+         <pubDate>Mon, 31 Oct 2022 14:11:16 +0000</pubDate>
+         <enclosure length="50391481" type="audio/mpeg" url="https://archive.org/download/tak_fordi_du_kom/Tak%20fordi%20du%20kom/2022.10.31%20-%20Lars%20L%C3%B8kke%20Rasmussen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Lars Løkke Rasmussen kender magten, og han kender om nogen spillet om at få den. Under det seneste folketingsvalg valgte han som Venstre-formand og statsminister først og fremmest at være tro mod sig selv. Men hvordan havde han det med på den måde at...</itunes:subtitle>
+         <itunes:summary>Lars Løkke Rasmussen kender magten, og han kender om nogen spillet om at få den. Under det seneste folketingsvalg valgte han som Venstre-formand og statsminister først og fremmest at være tro mod sig selv. Men hvordan havde han det med på den måde at være utro mod sit daværende parti, Venstre?&lt;br /&gt;&lt;br /&gt;Målet var at sætte Venstre fri, siger Løkke, der endte med selv at blive smidt på porten af Venstre.&lt;br /&gt;&lt;br /&gt;Det og meget andet taler vært Anders Langballe med Løkke om i denne særudgave af programmet ’Tak fordi du kom,’ fra Løkkes kampagnebus mindre end et døgn før valgstederne åbner.&lt;br /&gt;&lt;br /&gt;Nu står Løkke med udsigten til at blive kongemager i dansk politik. Fra den midterposition, som han har talt så meget om. Hvordan vil han bruge den position? Og hvorfor er han så forhippet på ikke at gøre vælgerne klogere på, hvem han ønsker, der skal stå i spidsen for en kommende regering?&lt;br /&gt;&lt;br /&gt;Hvordan hænger det i øvrigt samme, at Løkke som statsminister og før det bl.a. sundheds- og finansminister aldrig selv har bygget sin politik på andet end det rene blå samarbejde i Folketinget?  &lt;br /&gt;&lt;br /&gt;Løkke fortæller, hvornår han kom til en erkendelse af, at den gamle blå metode ikke duede og hvad første skridt er, hvis Mette Frederiksen efter valget skal være statsminister på Løkkes stemmer.&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Gæst: Lars Løkke Rasmussen, formand, Moderaterne&lt;br /&gt;&lt;br /&gt;Vært: Anders Langballe</itunes:summary>
+         <itunes:duration>2100</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Jan E. Jørgensen</title>
+         <link>https://www.spreaker.com/episode/jan-e-jorgensen--51713047</link>
+         <description>Venstres Jan E. Jørgensen kalder sig sit partis ”storbystemme”. Han er valgt i København, er kulturordfører og er ofte gået kontant i rette med de partifæller, der ifølge Jan E. Jørgensen er mere konservative end liberale. Ikke mindst den tidligere næstformand Inger Støjberg.&lt;br /&gt;&lt;br /&gt;Men hvad mener, Jan E. Jørgensen om, at hans parti er klar til at gøre den rigsretsdømte Støjberg til minister i en evt. blå regering? Vært Anders Langballe taler i denne udgave af ’Tak fordi du kom’ med ham om det og en række andre emner.&lt;br /&gt;&lt;br /&gt;Ifølge Jan E. Jørgensen siger mange politikere ting, som de åbenlyst ikke selv mener i deres iver efter at grave grøfter mellem danskerne. Støjberg elsker f.eks. København og byernes cafeer og saloner, siger han. Samtidig kalder han Socialdemokratiet for et ”et radikaliseret parti”, der kommer med ”ekstreme politiske forslag”, som åbenlyst strider mod internationale konventionerne, og som derfor aldrig vil få gang på jorden. På den måde har Socialdemokratiet udviklet til et mere ekstremt og radikaliseret parti end f.eks. Støjbergs Danmarksdemokraterne og Vermunds Nye Borgerlige.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/51713047</guid>
+         <pubDate>Fri, 28 Oct 2022 11:00:02 +0000</pubDate>
+         <enclosure length="77582631" type="audio/mpeg" url="https://archive.org/download/tak_fordi_du_kom/Tak%20fordi%20du%20kom/2022.10.28%20-%20Jan%20E.%20J%C3%B8rgensen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Venstres Jan E. Jørgensen kalder sig sit partis ”storbystemme”. Han er valgt i København, er kulturordfører og er ofte gået kontant i rette med de partifæller, der ifølge Jan E. Jørgensen er mere konservative end liberale. Ikke mindst den tidligere...</itunes:subtitle>
+         <itunes:summary>Venstres Jan E. Jørgensen kalder sig sit partis ”storbystemme”. Han er valgt i København, er kulturordfører og er ofte gået kontant i rette med de partifæller, der ifølge Jan E. Jørgensen er mere konservative end liberale. Ikke mindst den tidligere næstformand Inger Støjberg.&lt;br /&gt;&lt;br /&gt;Men hvad mener, Jan E. Jørgensen om, at hans parti er klar til at gøre den rigsretsdømte Støjberg til minister i en evt. blå regering? Vært Anders Langballe taler i denne udgave af ’Tak fordi du kom’ med ham om det og en række andre emner.&lt;br /&gt;&lt;br /&gt;Ifølge Jan E. Jørgensen siger mange politikere ting, som de åbenlyst ikke selv mener i deres iver efter at grave grøfter mellem danskerne. Støjberg elsker f.eks. København og byernes cafeer og saloner, siger han. Samtidig kalder han Socialdemokratiet for et ”et radikaliseret parti”, der kommer med ”ekstreme politiske forslag”, som åbenlyst strider mod internationale konventionerne, og som derfor aldrig vil få gang på jorden. På den måde har Socialdemokratiet udviklet til et mere ekstremt og radikaliseret parti end f.eks. Støjbergs Danmarksdemokraterne og Vermunds Nye Borgerlige.</itunes:summary>
+         <itunes:duration>3233</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Jacob Mark</title>
+         <link>https://www.spreaker.com/episode/jacob-mark--51644781</link>
+         <description>SF’s Jacob Mark har blikket stift rettet mod en ministerpost. For mindre et år siden måtte han ellers sygemelde sig med galoperende stress. Han ville ikke indse alvoren før angst og stress ødelagde hans syn og tvang ham væk fra politik. Efter en længere sygemelding, afstresning og en øjenoperation, er han tilbage.&lt;br /&gt;&lt;br /&gt;Jacob Mark er opvokset i klassisk socialistiske familie. Kirken fyldte intet - og han blev opfordret til ikke at deltage i de årlige julegudstjenester med skolen. Men da de første angstanfald dukkede op for nogle år siden, fandt han roen i kirken. Og blev i hemmlighed døbt i den lokale folkekirke.&lt;br /&gt;Han skjulte stress og angst for omgivelserne. Frygten for at vise svaghed overdøvede alt.&lt;br /&gt;&lt;br /&gt;I ugens udgave af “Tak fordi du kom” taler vi blandt meget andet også om en af de store udfordringer for udviklingen af det danske velfærdssamfund, som ifølge Mark, er den socialdemokratiske systemtænkning.&lt;br /&gt;Lyt med her.&lt;br /&gt;&lt;br /&gt;Gæst: Jacob Mark&lt;br /&gt;Vært: Anders Langballe</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/51644781</guid>
+         <pubDate>Fri, 21 Oct 2022 14:15:31 +0000</pubDate>
+         <enclosure length="49517952" type="audio/mpeg" url="https://archive.org/download/tak_fordi_du_kom/Tak%20fordi%20du%20kom/2022.10.21%20-%20Jacob%20Mark.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>SF’s Jacob Mark har blikket stift rettet mod en ministerpost. For mindre et år siden måtte han ellers sygemelde sig med galoperende stress. Han ville ikke indse alvoren før angst og stress ødelagde hans syn og tvang ham væk fra politik. Efter en...</itunes:subtitle>
+         <itunes:summary>SF’s Jacob Mark har blikket stift rettet mod en ministerpost. For mindre et år siden måtte han ellers sygemelde sig med galoperende stress. Han ville ikke indse alvoren før angst og stress ødelagde hans syn og tvang ham væk fra politik. Efter en længere sygemelding, afstresning og en øjenoperation, er han tilbage.&lt;br /&gt;&lt;br /&gt;Jacob Mark er opvokset i klassisk socialistiske familie. Kirken fyldte intet - og han blev opfordret til ikke at deltage i de årlige julegudstjenester med skolen. Men da de første angstanfald dukkede op for nogle år siden, fandt han roen i kirken. Og blev i hemmlighed døbt i den lokale folkekirke.&lt;br /&gt;Han skjulte stress og angst for omgivelserne. Frygten for at vise svaghed overdøvede alt.&lt;br /&gt;&lt;br /&gt;I ugens udgave af “Tak fordi du kom” taler vi blandt meget andet også om en af de store udfordringer for udviklingen af det danske velfærdssamfund, som ifølge Mark, er den socialdemokratiske systemtænkning.&lt;br /&gt;Lyt med her.&lt;br /&gt;&lt;br /&gt;Gæst: Jacob Mark&lt;br /&gt;Vært: Anders Langballe</itunes:summary>
+         <itunes:duration>3091</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Nanna W. Godtfredsen</title>
+         <link>https://www.spreaker.com/episode/nanna-w-godtfredsen--51573857</link>
+         <description>Gadejuristen Nanna Gotfredsen har gjort en dyd ud af ikke at være partipolitisk. I en menneskeralder har hun arbejdet blandt og for de mest udsatte borgere i de hårde miljø på Vesterbro i København. Blandt misbrugere, sexarbejdere og skæve eksistenser.&lt;br /&gt;Nu vil hun i Folketinget. Hun opstiller for partiet Moderaterne ved valget den 1. november. Hun kalder sig selv liberal og mener, at hun kan samarbejde med alle på Christianborg.&lt;br /&gt;Fra højrefløjen til venstrefløjen.&lt;br /&gt;Men hvad vil hun egentlig på Christiansborg?&lt;br /&gt;Selv mener hun, at politik er på speed. At politikerne er for overfladiske og mere eller mindre bevist overser, at politik er og skal være fyldt med nuancer.&lt;br /&gt;Nu har hun meldt sig som en del af Lars Løkke Rasmussens hold. Og er hun ikke bekymret for at være spændt for den tidligere statsminister personlige projekt om at genvinde en position i dansk politik efter han blev smidt på porten i sit gamle parti.&lt;br /&gt;&lt;br /&gt;Gæst: Nanna W. Gotfredsen&lt;br /&gt;Vært: Anders Langballe</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/51573857</guid>
+         <pubDate>Fri, 14 Oct 2022 11:37:22 +0000</pubDate>
+         <enclosure length="77675416" type="audio/mpeg" url="https://archive.org/download/tak_fordi_du_kom/Tak%20fordi%20du%20kom/2022.10.14%20-%20Nanna%20W.%20Godtfredsen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Gadejuristen Nanna Gotfredsen har gjort en dyd ud af ikke at være partipolitisk. I en menneskeralder har hun arbejdet blandt og for de mest udsatte borgere i de hårde miljø på Vesterbro i København. Blandt misbrugere, sexarbejdere og skæve...</itunes:subtitle>
+         <itunes:summary>Gadejuristen Nanna Gotfredsen har gjort en dyd ud af ikke at være partipolitisk. I en menneskeralder har hun arbejdet blandt og for de mest udsatte borgere i de hårde miljø på Vesterbro i København. Blandt misbrugere, sexarbejdere og skæve eksistenser.&lt;br /&gt;Nu vil hun i Folketinget. Hun opstiller for partiet Moderaterne ved valget den 1. november. Hun kalder sig selv liberal og mener, at hun kan samarbejde med alle på Christianborg.&lt;br /&gt;Fra højrefløjen til venstrefløjen.&lt;br /&gt;Men hvad vil hun egentlig på Christiansborg?&lt;br /&gt;Selv mener hun, at politik er på speed. At politikerne er for overfladiske og mere eller mindre bevist overser, at politik er og skal være fyldt med nuancer.&lt;br /&gt;Nu har hun meldt sig som en del af Lars Løkke Rasmussens hold. Og er hun ikke bekymret for at være spændt for den tidligere statsminister personlige projekt om at genvinde en position i dansk politik efter han blev smidt på porten i sit gamle parti.&lt;br /&gt;&lt;br /&gt;Gæst: Nanna W. Gotfredsen&lt;br /&gt;Vært: Anders Langballe</itunes:summary>
+         <itunes:duration>3237</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Søren Gade</title>
+         <link>https://www.spreaker.com/episode/soren-gade--51497835</link>
+         <description>Venstres Søren Gade er kaldt hjem fra Europa-Parlamentet for at få sit parti helskindet gennem valgkampen. Den tidligere formand, Lars Løkke Rasmussen, og partiet forhenværende næstformand, Inger Støjberg, er begge ude af partiet og nu står partiet til en solid vælgerlussing. &lt;br /&gt;Hvordan er det at blive trukket af stalden som en anden gammel cirkushest for at minimere tabene ved folketingsvalget?&lt;br /&gt;Partiformand Jakob Ellemann-Jensen står svagt i egne rækker - ikke mindst i det jyske. Nu er det i høj grad Gades opgave at tage kampen på formanden og partiets vegne med sin egen gamle veninde Inger Støjberg. Som han mener fik en hård medfart, da hun blev tvunget ud af partiet. Hvordan har han det med det? &lt;br /&gt;Forskellen mellem partiformand Ellemann-Jensen og Gade er til at få øje på. Og statsminister Mette Frederiksen har gode kort på hånden, når det gælder netop politisk lederskab, som er et af valgkampens store hovedtemaer, medgiver Søren Gade. &lt;br /&gt;Betyder det så, at Gade er klar til at overtage partiformandsskabet, hvis det glipper for Venstre at vinde magten? &lt;br /&gt;Det og meget andet er på bordet i ugens udgave af “Tak fordi du kom.”&lt;br /&gt;&lt;br /&gt;Gæst: Søren Gade&lt;br /&gt;Vært: Anders Langballe</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/51497835</guid>
+         <pubDate>Fri, 07 Oct 2022 11:52:19 +0000</pubDate>
+         <enclosure length="77270515" type="audio/mpeg" url="https://archive.org/download/tak_fordi_du_kom/Tak%20fordi%20du%20kom/2022.10.07%20-%20S%C3%B8ren%20Gade.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Venstres Søren Gade er kaldt hjem fra Europa-Parlamentet for at få sit parti helskindet gennem valgkampen. Den tidligere formand, Lars Løkke Rasmussen, og partiet forhenværende næstformand, Inger Støjberg, er begge ude af partiet og nu står partiet...</itunes:subtitle>
+         <itunes:summary>Venstres Søren Gade er kaldt hjem fra Europa-Parlamentet for at få sit parti helskindet gennem valgkampen. Den tidligere formand, Lars Løkke Rasmussen, og partiet forhenværende næstformand, Inger Støjberg, er begge ude af partiet og nu står partiet til en solid vælgerlussing. &lt;br /&gt;Hvordan er det at blive trukket af stalden som en anden gammel cirkushest for at minimere tabene ved folketingsvalget?&lt;br /&gt;Partiformand Jakob Ellemann-Jensen står svagt i egne rækker - ikke mindst i det jyske. Nu er det i høj grad Gades opgave at tage kampen på formanden og partiets vegne med sin egen gamle veninde Inger Støjberg. Som han mener fik en hård medfart, da hun blev tvunget ud af partiet. Hvordan har han det med det? &lt;br /&gt;Forskellen mellem partiformand Ellemann-Jensen og Gade er til at få øje på. Og statsminister Mette Frederiksen har gode kort på hånden, når det gælder netop politisk lederskab, som er et af valgkampens store hovedtemaer, medgiver Søren Gade. &lt;br /&gt;Betyder det så, at Gade er klar til at overtage partiformandsskabet, hvis det glipper for Venstre at vinde magten? &lt;br /&gt;Det og meget andet er på bordet i ugens udgave af “Tak fordi du kom.”&lt;br /&gt;&lt;br /&gt;Gæst: Søren Gade&lt;br /&gt;Vært: Anders Langballe</itunes:summary>
+         <itunes:duration>3220</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Bent Lauritzen</title>
+         <link>https://www.spreaker.com/episode/bent-lauritzen--51416625</link>
+         <description>Den Socialdemokratiske regering taler mod bedre vidende, når de siger definitivt nej til atomkraft på dansk jord. Så hård lyder kritikken fra Bent Lauritzen, der er sektionsleder ved DTU Fysik og en af landets førende eksperter inden for atomkraft. &lt;br /&gt;&lt;br /&gt;Spørgsmålet om hvorvidt atomkraft skal være en del af den danske energiforsyning har aldrig været mere aktuelt end nu i en tid, hvor klimakrisen tager til, og hvor energipriserne skyder i vejret. Bent Lauritzen er klar i mælet. Vi SKAL se på atomkraft. &lt;br /&gt;&lt;br /&gt;Gæst: Bent Lauritzen, sektionsleder ved DTU Fysik &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/51416625</guid>
+         <pubDate>Thu, 29 Sep 2022 13:32:04 +0000</pubDate>
+         <enclosure length="50328960" type="audio/mpeg" url="https://archive.org/download/tak_fordi_du_kom/Tak%20fordi%20du%20kom/2022.09.29%20-%20Bent%20Lauritzen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Den Socialdemokratiske regering taler mod bedre vidende, når de siger definitivt nej til atomkraft på dansk jord. Så hård lyder kritikken fra Bent Lauritzen, der er sektionsleder ved DTU Fysik og en af landets førende eksperter inden for atomkraft....</itunes:subtitle>
+         <itunes:summary>Den Socialdemokratiske regering taler mod bedre vidende, når de siger definitivt nej til atomkraft på dansk jord. Så hård lyder kritikken fra Bent Lauritzen, der er sektionsleder ved DTU Fysik og en af landets førende eksperter inden for atomkraft. &lt;br /&gt;&lt;br /&gt;Spørgsmålet om hvorvidt atomkraft skal være en del af den danske energiforsyning har aldrig været mere aktuelt end nu i en tid, hvor klimakrisen tager til, og hvor energipriserne skyder i vejret. Bent Lauritzen er klar i mælet. Vi SKAL se på atomkraft. &lt;br /&gt;&lt;br /&gt;Gæst: Bent Lauritzen, sektionsleder ved DTU Fysik &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen</itunes:summary>
+         <itunes:duration>3142</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Claus Hjort Frederiksen</title>
+         <link>https://www.spreaker.com/episode/claus-hjort-frederiksen--51345386</link>
+         <description>Venstres nestor og tidligere forsvarsminister, Claus Hjort Frederiksen er overbevist om, at der kommer en tiltale for deling af højt klassificerede oplysninger, når folketingsvalget er overstået. Men hvordan ser Claus Hjort Frederiksen på en fremtid, hvor en længere fængselsstraf kan vente? Hvad betyder det for hans forhold til sin syge kone, og hvad betyder det for lysten til at passe det politiske arbejde på Christiansborg? &lt;br /&gt;&lt;br /&gt;Gæst: Claus Hjort Frederiksen &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen &lt;br /&gt;&lt;br /&gt;Producer: Jens Marott</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/51345386</guid>
+         <pubDate>Thu, 22 Sep 2022 14:48:20 +0000</pubDate>
+         <enclosure length="49880448" type="audio/mpeg" url="https://archive.org/download/tak_fordi_du_kom/Tak%20fordi%20du%20kom/2022.09.22%20-%20Claus%20Hjort%20Frederiksen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Venstres nestor og tidligere forsvarsminister, Claus Hjort Frederiksen er overbevist om, at der kommer en tiltale for deling af højt klassificerede oplysninger, når folketingsvalget er overstået. Men hvordan ser Claus Hjort Frederiksen på en fremtid,...</itunes:subtitle>
+         <itunes:summary>Venstres nestor og tidligere forsvarsminister, Claus Hjort Frederiksen er overbevist om, at der kommer en tiltale for deling af højt klassificerede oplysninger, når folketingsvalget er overstået. Men hvordan ser Claus Hjort Frederiksen på en fremtid, hvor en længere fængselsstraf kan vente? Hvad betyder det for hans forhold til sin syge kone, og hvad betyder det for lysten til at passe det politiske arbejde på Christiansborg? &lt;br /&gt;&lt;br /&gt;Gæst: Claus Hjort Frederiksen &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen &lt;br /&gt;&lt;br /&gt;Producer: Jens Marott</itunes:summary>
+         <itunes:duration>3114</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hans Jørgen Bonnichsen</title>
+         <link>https://www.spreaker.com/episode/hans-jorgen-bonnichsen--51280392</link>
+         <description>Hans Jørgen Bonnichsen er en lettet mand. Nu er der endelig rejst tiltale mod tidligere FE-chef Lars Findsen, så der kan komme afklaring på det, Bonnichsen kalder et decideret karaktermord. &lt;br /&gt;&lt;br /&gt;Hør Hans Jørgen Bonnichsens reaktion på den netop udmeldte tiltale mod Findsen og om Bonnichsen selv har lækket klassificerede informationer i sin tid som PET-chef. &lt;br /&gt;&lt;br /&gt;Gæst: Hans Jørgen Bonnichsen, tidl. PET-chef &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen &lt;br /&gt;&lt;br /&gt;I produktionen: Julie Kragh</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/51280392</guid>
+         <pubDate>Fri, 16 Sep 2022 11:57:12 +0000</pubDate>
+         <enclosure length="51801984" type="audio/mpeg" url="https://archive.org/download/tak_fordi_du_kom/Tak%20fordi%20du%20kom/2022.09.16%20-%20Hans%20J%C3%B8rgen%20Bonnichsen.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Hans Jørgen Bonnichsen er en lettet mand. Nu er der endelig rejst tiltale mod tidligere FE-chef Lars Findsen, så der kan komme afklaring på det, Bonnichsen kalder et decideret karaktermord. 
+
+Hør Hans Jørgen Bonnichsens reaktion på den netop...</itunes:subtitle>
+         <itunes:summary>Hans Jørgen Bonnichsen er en lettet mand. Nu er der endelig rejst tiltale mod tidligere FE-chef Lars Findsen, så der kan komme afklaring på det, Bonnichsen kalder et decideret karaktermord. &lt;br /&gt;&lt;br /&gt;Hør Hans Jørgen Bonnichsens reaktion på den netop udmeldte tiltale mod Findsen og om Bonnichsen selv har lækket klassificerede informationer i sin tid som PET-chef. &lt;br /&gt;&lt;br /&gt;Gæst: Hans Jørgen Bonnichsen, tidl. PET-chef &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen &lt;br /&gt;&lt;br /&gt;I produktionen: Julie Kragh</itunes:summary>
+         <itunes:duration>3234</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Morten Messerschmidt</title>
+         <link>https://www.spreaker.com/episode/morten-messerschmidt--51198676</link>
+         <description>Morten Messerschmidt har overtaget et Dansk Folkeparti, der kæmper for overlevelse. For første gang i mere end tyve år, så flirter DF med spærregrænsen i meningsmålingerne, og folketingsvalget venter i kulissen. &lt;br /&gt;&lt;br /&gt;Men hvordan vil Morten Messerschmidt genrejse en af de største succeser i dansk, politisk historie, alt imens han kæmper med en kommende sag om svig og dokumentfalsk og massiv kritik fra tidligere partifæller? &lt;br /&gt;&lt;br /&gt;Morten Messerschmidt er ugens gæst i 24Syvs nye hardtalkformat, Tak fordi du kom. &lt;br /&gt;&lt;br /&gt;Gæst: Morten Messerschmidt, formand, Dansk Folkeparti &lt;br /&gt;&lt;br /&gt;Øvrige medvirkende: Martin Henriksen, tidl. medlem af Dansk Folkeparti &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/51198676</guid>
+         <pubDate>Fri, 09 Sep 2022 12:47:40 +0000</pubDate>
+         <enclosure length="51934464" type="audio/mpeg" url="https://archive.org/download/tak_fordi_du_kom/Tak%20fordi%20du%20kom/2022.09.09%20-%20Morten%20Messerschmidt.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:subtitle>Morten Messerschmidt har overtaget et Dansk Folkeparti, der kæmper for overlevelse. For første gang i mere end tyve år, så flirter DF med spærregrænsen i meningsmålingerne, og folketingsvalget venter i kulissen. 
+
+Men hvordan vil Morten...</itunes:subtitle>
+         <itunes:summary>Morten Messerschmidt har overtaget et Dansk Folkeparti, der kæmper for overlevelse. For første gang i mere end tyve år, så flirter DF med spærregrænsen i meningsmålingerne, og folketingsvalget venter i kulissen. &lt;br /&gt;&lt;br /&gt;Men hvordan vil Morten Messerschmidt genrejse en af de største succeser i dansk, politisk historie, alt imens han kæmper med en kommende sag om svig og dokumentfalsk og massiv kritik fra tidligere partifæller? &lt;br /&gt;&lt;br /&gt;Morten Messerschmidt er ugens gæst i 24Syvs nye hardtalkformat, Tak fordi du kom. &lt;br /&gt;&lt;br /&gt;Gæst: Morten Messerschmidt, formand, Dansk Folkeparti &lt;br /&gt;&lt;br /&gt;Øvrige medvirkende: Martin Henriksen, tidl. medlem af Dansk Folkeparti &lt;br /&gt;&lt;br /&gt;Vært: Alexander Wils Lorenzen</itunes:summary>
+         <itunes:duration>3242</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Teaser</title>
+         <link>https://www.spreaker.com/episode/teaser--51184943</link>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/51184943</guid>
+         <pubDate>Thu, 08 Sep 2022 11:56:13 +0000</pubDate>
+         <enclosure length="806976" type="audio/mpeg" url="https://archive.org/download/tak_fordi_du_kom/Tak%20fordi%20du%20kom/2022.09.08%20-%20Teaser.mp3" />
+         <itunes:author>24syv</itunes:author>
+         <itunes:duration>31</itunes:duration>
+         <itunes:keywords>aktuel,gæst,hardtalk,politik,samtale</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/695e865bdd48d18d5ad367489454ce1a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

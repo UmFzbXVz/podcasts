@@ -1,342 +1,142 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Venindeskabet
-  </title>
-  <link>
-   https://loud.land/podcast/venindeskabet
-  </link>
-  <description>
-   Ida og Pernille brugte hele sommeren på at planlægge, hvordan deres sabbatår skulle være fyldt med teateroptrædener og verdensturneer, men som efteråret kom og gik, blev larger than life planerne udskiftet med arbejde, flytning og nye relationer. Det uforudsigelige sabbatår har kastet sig over dem, og de to veninder vil sammen finde ud af, hvad de har lært i den ellers tiltrængte pause væk fra skolebænken.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4867501/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Society &amp; Culture
-  </category>
-  <copyright>
-   Copyright LOUD
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2f65fb00c7ecb89df6b7e2b6695d1745.jpg
-   </url>
-   <title>
-    Venindeskabet
-   </title>
-   <link>
-    https://loud.land/podcast/venindeskabet
-   </link>
-  </image>
-  <lastBuildDate>
-   Mon, 29 Jan 2024 15:18:18 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2f65fb00c7ecb89df6b7e2b6695d1745.jpg"/>
-  <itunes:subtitle>
-   Alle de samtaler et sabbatår lægger op til.
-  </itunes:subtitle>
-  <itunes:summary>
-   Ida og Pernille brugte hele sommeren på at planlægge, hvordan deres sabbatår skulle være fyldt med teateroptrædener og verdensturneer, men som efteråret kom og gik, blev larger than life planerne udskiftet med arbejde, flytning og nye relationer. Det uforudsigelige sabbatår har kastet sig over dem, og de to veninder vil sammen finde ud af, hvad de har lært i den ellers tiltrængte pause væk fra skolebænken.
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Og hvad så nu?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/og-hvad-sa-nu--44914152
-   </link>
-   <description>
-    Sabbatåret lakker mod sin ende, og det er nu, de store beslutninger skal tages. &lt;br /&gt;Veninderne, Ida og Pernille, tager afsked med friheden, som sabbatåret har givet samtidig med at reflektere over det skridt, de nu skal tage. Den grønne "godkend" knap på optagelse.dk lyser, men et tilvalg kan også betyde et fravalg - hvad sker der, hvis man vælger den ene uddannelse frem for den anden? Eller hvis tilvalget af uddannelse betyder et fravalg af et arbejde?
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44914152
-   </guid>
-   <pubDate>
-    Mon, 24 May 2021 04:00:15 +0000
-   </pubDate>
-   <enclosure length="27854888" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44914152/episode_6.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Sabbatåret lakker mod sin ende, og det er nu, de store beslutninger skal tages. 
-Veninderne, Ida og Pernille, tager afsked med friheden, som sabbatåret har givet samtidig med at reflektere over det skridt, de nu skal tage. Den grønne "godkend" knap...
-   </itunes:subtitle>
-   <itunes:summary>
-    Sabbatåret lakker mod sin ende, og det er nu, de store beslutninger skal tages. &lt;br /&gt;Veninderne, Ida og Pernille, tager afsked med friheden, som sabbatåret har givet samtidig med at reflektere over det skridt, de nu skal tage. Den grønne "godkend" knap på optagelse.dk lyser, men et tilvalg kan også betyde et fravalg - hvad sker der, hvis man vælger den ene uddannelse frem for den anden? Eller hvis tilvalget af uddannelse betyder et fravalg af et arbejde?
-   </itunes:summary>
-   <itunes:duration>
-    1741
-   </itunes:duration>
-   <itunes:keywords>
-    dating,rejser,sabbatår,ungdom,veninder
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1ad050f3d27553d0fca902961db9f6db.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kebab i København eller gyros i Grækenland?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kebab-i-kobenhavn-eller-gyros-i-graekenland--44735755
-   </link>
-   <description>
-    Hvem kan ikke lide at rejse? Følelsen af propperne i ørerne når flyet letter. Varm luft i ansigtet, der ikke bare kommer fra ovnen efter man har bagt bananbrød nummer 7. I dette afsnit reflekterer veninderne, Ida og Pernille, over deres oplevelser med og forventninger til at rejse bl.a. i forbindelse med sabbatåret. Og selvom det er blevet til en del bagte bananbrød hjemme i Danmark, så er fremtidens planlagte rejser ikke lagt på hylden.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44735755
-   </guid>
-   <pubDate>
-    Mon, 17 May 2021 04:00:11 +0000
-   </pubDate>
-   <enclosure length="26715114" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44735755/episode_5_2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Hvem kan ikke lide at rejse? Følelsen af propperne i ørerne når flyet letter. Varm luft i ansigtet, der ikke bare kommer fra ovnen efter man har bagt bananbrød nummer 7. I dette afsnit reflekterer veninderne, Ida og Pernille, over deres oplevelser med...
-   </itunes:subtitle>
-   <itunes:summary>
-    Hvem kan ikke lide at rejse? Følelsen af propperne i ørerne når flyet letter. Varm luft i ansigtet, der ikke bare kommer fra ovnen efter man har bagt bananbrød nummer 7. I dette afsnit reflekterer veninderne, Ida og Pernille, over deres oplevelser med og forventninger til at rejse bl.a. i forbindelse med sabbatåret. Og selvom det er blevet til en del bagte bananbrød hjemme i Danmark, så er fremtidens planlagte rejser ikke lagt på hylden.
-   </itunes:summary>
-   <itunes:duration>
-    1670
-   </itunes:duration>
-   <itunes:keywords>
-    dating,rejser,sabbatår,ungdom,veninder
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4c0ead13b8e9e12fde509baa807ce192.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    At flyve fra reden
-   </title>
-   <link>
-    https://www.spreaker.com/episode/at-flyve-fra-reden--44515893
-   </link>
-   <description>
-    Det var et eller andet sted nok alles drøm som barn at flytte sammen med sin bedste veninde. Det kunne have blevet til virkelighed for Ida og Pernille, men sådan skulle det ikke være. For det at flytte hjemmefra og flytte sammen er et større skridt end at bygge et hus i Sims, hvor de begge kunne bo med mænd og børn. De bor nu begge alene og med at bo alene, kommer en del ansvar. I dette afsnit vil de dele, hvad de har lært rent praktisk, men også psykisk, nu hvor mor er mere end et kald væk.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44515893
-   </guid>
-   <pubDate>
-    Mon, 10 May 2021 04:00:21 +0000
-   </pubDate>
-   <enclosure length="25054144" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44515893/episode_4_2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Det var et eller andet sted nok alles drøm som barn at flytte sammen med sin bedste veninde. Det kunne have blevet til virkelighed for Ida og Pernille, men sådan skulle det ikke være. For det at flytte hjemmefra og flytte sammen er et større skridt...
-   </itunes:subtitle>
-   <itunes:summary>
-    Det var et eller andet sted nok alles drøm som barn at flytte sammen med sin bedste veninde. Det kunne have blevet til virkelighed for Ida og Pernille, men sådan skulle det ikke være. For det at flytte hjemmefra og flytte sammen er et større skridt end at bygge et hus i Sims, hvor de begge kunne bo med mænd og børn. De bor nu begge alene og med at bo alene, kommer en del ansvar. I dette afsnit vil de dele, hvad de har lært rent praktisk, men også psykisk, nu hvor mor er mere end et kald væk.
-   </itunes:summary>
-   <itunes:duration>
-    1566
-   </itunes:duration>
-   <itunes:keywords>
-    dating,rejser,sabbatår,ungdom,veninder
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4057538b05f93b7c4ef219adca22d8b4.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Kærlighedsliv eller mangel derpå
-   </title>
-   <link>
-    https://www.spreaker.com/episode/kaerlighedsliv-eller-mangel-derpa--44408519
-   </link>
-   <description>
-    Dating er bestemt ikke nemt. Og det bliver slet ikke nemmere, når de pæne drenge på gymnasiegangen bliver skiftet ud med midaldrende mænd på Linkedin. Ida og Pernilles datingliv er i deres sabbatår gået ligeså glat som deres ubarberede ben. Der har nemlig ikke været mange fyre at skulle imponere, og dem, der har været, har de selv skulle opsøge. I dette afsnit vil de dele erfaringer om alternative forhold, samt historier om knap så vellykkede møder med datingmarkedets forskellige typer.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44408519
-   </guid>
-   <pubDate>
-    Mon, 03 May 2021 04:00:19 +0000
-   </pubDate>
-   <enclosure length="25901765" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44408519/episode_3.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Dating er bestemt ikke nemt. Og det bliver slet ikke nemmere, når de pæne drenge på gymnasiegangen bliver skiftet ud med midaldrende mænd på Linkedin. Ida og Pernilles datingliv er i deres sabbatår gået ligeså glat som deres ubarberede ben. Der har...
-   </itunes:subtitle>
-   <itunes:summary>
-    Dating er bestemt ikke nemt. Og det bliver slet ikke nemmere, når de pæne drenge på gymnasiegangen bliver skiftet ud med midaldrende mænd på Linkedin. Ida og Pernilles datingliv er i deres sabbatår gået ligeså glat som deres ubarberede ben. Der har nemlig ikke været mange fyre at skulle imponere, og dem, der har været, har de selv skulle opsøge. I dette afsnit vil de dele erfaringer om alternative forhold, samt historier om knap så vellykkede møder med datingmarkedets forskellige typer.
-   </itunes:summary>
-   <itunes:duration>
-    1619
-   </itunes:duration>
-   <itunes:keywords>
-    dating,rejser,sabbatår,ungdom,veninder
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2df89a57dcff595266f07e53e0f47218.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Hjemmeboende med mor på nakken
-   </title>
-   <link>
-    https://www.spreaker.com/episode/hjemmeboende-med-mor-pa-nakken--44319148
-   </link>
-   <description>
-    De fleste ønsker nok privatliv fra mors involvering i alt fra weekendens date til tiden brugt på badeværelset. Ida og Pernille snakker om, hvordan tid væk fra hinanden kan ende med at styrke relationer, samt hvordan sabbatåret sætter familiære relationer under pres, når en del af familien pludselig ikke vil være en del mere.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44319148
-   </guid>
-   <pubDate>
-    Mon, 26 Apr 2021 04:00:14 +0000
-   </pubDate>
-   <enclosure length="26078562" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44319148/episode_2.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    De fleste ønsker nok privatliv fra mors involvering i alt fra weekendens date til tiden brugt på badeværelset. Ida og Pernille snakker om, hvordan tid væk fra hinanden kan ende med at styrke relationer, samt hvordan sabbatåret sætter familiære...
-   </itunes:subtitle>
-   <itunes:summary>
-    De fleste ønsker nok privatliv fra mors involvering i alt fra weekendens date til tiden brugt på badeværelset. Ida og Pernille snakker om, hvordan tid væk fra hinanden kan ende med at styrke relationer, samt hvordan sabbatåret sætter familiære relationer under pres, når en del af familien pludselig ikke vil være en del mere.
-   </itunes:summary>
-   <itunes:duration>
-    1630
-   </itunes:duration>
-   <itunes:keywords>
-    dating,rejser,sabbatår,ungdom,veninder
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1090d863db1cdcd1e1165c9cbe09006a.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Sabbatår eller ej?
-   </title>
-   <link>
-    https://www.spreaker.com/episode/sabbatar-eller-ej--44318811
-   </link>
-   <description>
-    Efter den længe ventede hue kommer det endnu længere ventede sabbatår. Så skal der scores i byen og tannes i Asien, eller også ender du ligesom Ida og Pernille med ikke rigtig at vide, hvor sabbatåret bærer dig hen.&lt;br /&gt;I dette afsnit åbner veninderne Ida og Pernille op for, hvilke overvejelser, der ligger bag deres sabbatår, hvordan ble-skifte kan være en livsberigende oplevelse, og hvorfor det er okay, at sabbatåret ikke gik helt som planlagt.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44318811
-   </guid>
-   <pubDate>
-    Mon, 19 Apr 2021 04:00:18 +0000
-   </pubDate>
-   <enclosure length="26418781" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44318811/episode_1.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Efter den længe ventede hue kommer det endnu længere ventede sabbatår. Så skal der scores i byen og tannes i Asien, eller også ender du ligesom Ida og Pernille med ikke rigtig at vide, hvor sabbatåret bærer dig hen.
-I dette afsnit åbner veninderne...
-   </itunes:subtitle>
-   <itunes:summary>
-    Efter den længe ventede hue kommer det endnu længere ventede sabbatår. Så skal der scores i byen og tannes i Asien, eller også ender du ligesom Ida og Pernille med ikke rigtig at vide, hvor sabbatåret bærer dig hen.&lt;br /&gt;I dette afsnit åbner veninderne Ida og Pernille op for, hvilke overvejelser, der ligger bag deres sabbatår, hvordan ble-skifte kan være en livsberigende oplevelse, og hvorfor det er okay, at sabbatåret ikke gik helt som planlagt.
-   </itunes:summary>
-   <itunes:duration>
-    1652
-   </itunes:duration>
-   <itunes:keywords>
-    dating,rejser,sabbatår,ungdom,veninder
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e87ad4172d27d15ec9952be9bbf8321f.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Trailer til Venindeskabet
-   </title>
-   <link>
-    https://www.spreaker.com/episode/trailer-til-venindeskabet--44237773
-   </link>
-   <description>
-    Alle de samtaler et sabbatår lægger op til.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/44237773
-   </guid>
-   <pubDate>
-    Wed, 07 Apr 2021 10:23:54 +0000
-   </pubDate>
-   <enclosure length="1099231" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/44237773/trailer_venindeskabet.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Alle de samtaler et sabbatår lægger op til.
-   </itunes:subtitle>
-   <itunes:summary>
-    Alle de samtaler et sabbatår lægger op til.
-   </itunes:summary>
-   <itunes:duration>
-    69
-   </itunes:duration>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2f65fb00c7ecb89df6b7e2b6695d1745.jpg"/>
-   <itunes:episodeType>
-    trailer
-   </itunes:episodeType>
-  </item>
- </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Venindeskabet</title>
+      <link>https://loud.land/podcast/venindeskabet</link>
+      <description>Ida og Pernille brugte hele sommeren på at planlægge, hvordan deres sabbatår skulle være fyldt med teateroptrædener og verdensturneer, men som efteråret kom og gik, blev larger than life planerne udskiftet med arbejde, flytning og nye relationer. Det uforudsigelige sabbatår har kastet sig over dem, og de to veninder vil sammen finde ud af, hvad de har lært i den ellers tiltrængte pause væk fra skolebænken.</description>
+      <atom:link href="https://www.spreaker.com/show/4867501/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Society &amp; Culture</category>
+      <copyright>Copyright LOUD</copyright>
+      <image>
+         <url>https://archive.org/download/venindeskabet/Venindeskabet/2f65fb00c7ecb89df6b7e2b6695d1745.jpg</url>
+         <title>Venindeskabet</title>
+         <link>https://loud.land/podcast/venindeskabet</link>
+      </image>
+      <lastBuildDate>Mon, 29 Jan 2024 15:18:18 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2f65fb00c7ecb89df6b7e2b6695d1745.jpg" />
+      <itunes:subtitle>Alle de samtaler et sabbatår lægger op til.</itunes:subtitle>
+      <itunes:summary>Ida og Pernille brugte hele sommeren på at planlægge, hvordan deres sabbatår skulle være fyldt med teateroptrædener og verdensturneer, men som efteråret kom og gik, blev larger than life planerne udskiftet med arbejde, flytning og nye relationer. Det uforudsigelige sabbatår har kastet sig over dem, og de to veninder vil sammen finde ud af, hvad de har lært i den ellers tiltrængte pause væk fra skolebænken.</itunes:summary>
+      <itunes:category text="Society &amp; Culture" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Og hvad så nu?</title>
+         <link>https://www.spreaker.com/episode/og-hvad-sa-nu--44914152</link>
+         <description>Sabbatåret lakker mod sin ende, og det er nu, de store beslutninger skal tages. &lt;br /&gt;Veninderne, Ida og Pernille, tager afsked med friheden, som sabbatåret har givet samtidig med at reflektere over det skridt, de nu skal tage. Den grønne "godkend" knap på optagelse.dk lyser, men et tilvalg kan også betyde et fravalg - hvad sker der, hvis man vælger den ene uddannelse frem for den anden? Eller hvis tilvalget af uddannelse betyder et fravalg af et arbejde?</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44914152</guid>
+         <pubDate>Mon, 24 May 2021 04:00:15 +0000</pubDate>
+         <enclosure length="27854888" type="audio/mpeg" url="https://archive.org/download/venindeskabet/Venindeskabet/2021.05.24%20-%20Og%20hvad%20s%C3%A5%20nu.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Sabbatåret lakker mod sin ende, og det er nu, de store beslutninger skal tages. 
+Veninderne, Ida og Pernille, tager afsked med friheden, som sabbatåret har givet samtidig med at reflektere over det skridt, de nu skal tage. Den grønne "godkend" knap...</itunes:subtitle>
+         <itunes:summary>Sabbatåret lakker mod sin ende, og det er nu, de store beslutninger skal tages. &lt;br /&gt;Veninderne, Ida og Pernille, tager afsked med friheden, som sabbatåret har givet samtidig med at reflektere over det skridt, de nu skal tage. Den grønne "godkend" knap på optagelse.dk lyser, men et tilvalg kan også betyde et fravalg - hvad sker der, hvis man vælger den ene uddannelse frem for den anden? Eller hvis tilvalget af uddannelse betyder et fravalg af et arbejde?</itunes:summary>
+         <itunes:duration>1741</itunes:duration>
+         <itunes:keywords>dating,rejser,sabbatår,ungdom,veninder</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1ad050f3d27553d0fca902961db9f6db.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kebab i København eller gyros i Grækenland?</title>
+         <link>https://www.spreaker.com/episode/kebab-i-kobenhavn-eller-gyros-i-graekenland--44735755</link>
+         <description>Hvem kan ikke lide at rejse? Følelsen af propperne i ørerne når flyet letter. Varm luft i ansigtet, der ikke bare kommer fra ovnen efter man har bagt bananbrød nummer 7. I dette afsnit reflekterer veninderne, Ida og Pernille, over deres oplevelser med og forventninger til at rejse bl.a. i forbindelse med sabbatåret. Og selvom det er blevet til en del bagte bananbrød hjemme i Danmark, så er fremtidens planlagte rejser ikke lagt på hylden.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44735755</guid>
+         <pubDate>Mon, 17 May 2021 04:00:11 +0000</pubDate>
+         <enclosure length="26715114" type="audio/mpeg" url="https://archive.org/download/venindeskabet/Venindeskabet/2021.05.17%20-%20Kebab%20i%20K%C3%B8benhavn%20eller%20gyros%20i%20Gr%C3%A6kenland.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Hvem kan ikke lide at rejse? Følelsen af propperne i ørerne når flyet letter. Varm luft i ansigtet, der ikke bare kommer fra ovnen efter man har bagt bananbrød nummer 7. I dette afsnit reflekterer veninderne, Ida og Pernille, over deres oplevelser med...</itunes:subtitle>
+         <itunes:summary>Hvem kan ikke lide at rejse? Følelsen af propperne i ørerne når flyet letter. Varm luft i ansigtet, der ikke bare kommer fra ovnen efter man har bagt bananbrød nummer 7. I dette afsnit reflekterer veninderne, Ida og Pernille, over deres oplevelser med og forventninger til at rejse bl.a. i forbindelse med sabbatåret. Og selvom det er blevet til en del bagte bananbrød hjemme i Danmark, så er fremtidens planlagte rejser ikke lagt på hylden.</itunes:summary>
+         <itunes:duration>1670</itunes:duration>
+         <itunes:keywords>dating,rejser,sabbatår,ungdom,veninder</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4c0ead13b8e9e12fde509baa807ce192.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>At flyve fra reden</title>
+         <link>https://www.spreaker.com/episode/at-flyve-fra-reden--44515893</link>
+         <description>Det var et eller andet sted nok alles drøm som barn at flytte sammen med sin bedste veninde. Det kunne have blevet til virkelighed for Ida og Pernille, men sådan skulle det ikke være. For det at flytte hjemmefra og flytte sammen er et større skridt end at bygge et hus i Sims, hvor de begge kunne bo med mænd og børn. De bor nu begge alene og med at bo alene, kommer en del ansvar. I dette afsnit vil de dele, hvad de har lært rent praktisk, men også psykisk, nu hvor mor er mere end et kald væk.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44515893</guid>
+         <pubDate>Mon, 10 May 2021 04:00:21 +0000</pubDate>
+         <enclosure length="25054144" type="audio/mpeg" url="https://archive.org/download/venindeskabet/Venindeskabet/2021.05.10%20-%20At%20flyve%20fra%20reden.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Det var et eller andet sted nok alles drøm som barn at flytte sammen med sin bedste veninde. Det kunne have blevet til virkelighed for Ida og Pernille, men sådan skulle det ikke være. For det at flytte hjemmefra og flytte sammen er et større skridt...</itunes:subtitle>
+         <itunes:summary>Det var et eller andet sted nok alles drøm som barn at flytte sammen med sin bedste veninde. Det kunne have blevet til virkelighed for Ida og Pernille, men sådan skulle det ikke være. For det at flytte hjemmefra og flytte sammen er et større skridt end at bygge et hus i Sims, hvor de begge kunne bo med mænd og børn. De bor nu begge alene og med at bo alene, kommer en del ansvar. I dette afsnit vil de dele, hvad de har lært rent praktisk, men også psykisk, nu hvor mor er mere end et kald væk.</itunes:summary>
+         <itunes:duration>1566</itunes:duration>
+         <itunes:keywords>dating,rejser,sabbatår,ungdom,veninder</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4057538b05f93b7c4ef219adca22d8b4.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Kærlighedsliv eller mangel derpå</title>
+         <link>https://www.spreaker.com/episode/kaerlighedsliv-eller-mangel-derpa--44408519</link>
+         <description>Dating er bestemt ikke nemt. Og det bliver slet ikke nemmere, når de pæne drenge på gymnasiegangen bliver skiftet ud med midaldrende mænd på Linkedin. Ida og Pernilles datingliv er i deres sabbatår gået ligeså glat som deres ubarberede ben. Der har nemlig ikke været mange fyre at skulle imponere, og dem, der har været, har de selv skulle opsøge. I dette afsnit vil de dele erfaringer om alternative forhold, samt historier om knap så vellykkede møder med datingmarkedets forskellige typer.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44408519</guid>
+         <pubDate>Mon, 03 May 2021 04:00:19 +0000</pubDate>
+         <enclosure length="25901765" type="audio/mpeg" url="https://archive.org/download/venindeskabet/Venindeskabet/2021.05.03%20-%20K%C3%A6rlighedsliv%20eller%20mangel%20derp%C3%A5.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Dating er bestemt ikke nemt. Og det bliver slet ikke nemmere, når de pæne drenge på gymnasiegangen bliver skiftet ud med midaldrende mænd på Linkedin. Ida og Pernilles datingliv er i deres sabbatår gået ligeså glat som deres ubarberede ben. Der har...</itunes:subtitle>
+         <itunes:summary>Dating er bestemt ikke nemt. Og det bliver slet ikke nemmere, når de pæne drenge på gymnasiegangen bliver skiftet ud med midaldrende mænd på Linkedin. Ida og Pernilles datingliv er i deres sabbatår gået ligeså glat som deres ubarberede ben. Der har nemlig ikke været mange fyre at skulle imponere, og dem, der har været, har de selv skulle opsøge. I dette afsnit vil de dele erfaringer om alternative forhold, samt historier om knap så vellykkede møder med datingmarkedets forskellige typer.</itunes:summary>
+         <itunes:duration>1619</itunes:duration>
+         <itunes:keywords>dating,rejser,sabbatår,ungdom,veninder</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2df89a57dcff595266f07e53e0f47218.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Hjemmeboende med mor på nakken</title>
+         <link>https://www.spreaker.com/episode/hjemmeboende-med-mor-pa-nakken--44319148</link>
+         <description>De fleste ønsker nok privatliv fra mors involvering i alt fra weekendens date til tiden brugt på badeværelset. Ida og Pernille snakker om, hvordan tid væk fra hinanden kan ende med at styrke relationer, samt hvordan sabbatåret sætter familiære relationer under pres, når en del af familien pludselig ikke vil være en del mere.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44319148</guid>
+         <pubDate>Mon, 26 Apr 2021 04:00:14 +0000</pubDate>
+         <enclosure length="26078562" type="audio/mpeg" url="https://archive.org/download/venindeskabet/Venindeskabet/2021.04.26%20-%20Hjemmeboende%20med%20mor%20p%C3%A5%20nakken.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>De fleste ønsker nok privatliv fra mors involvering i alt fra weekendens date til tiden brugt på badeværelset. Ida og Pernille snakker om, hvordan tid væk fra hinanden kan ende med at styrke relationer, samt hvordan sabbatåret sætter familiære...</itunes:subtitle>
+         <itunes:summary>De fleste ønsker nok privatliv fra mors involvering i alt fra weekendens date til tiden brugt på badeværelset. Ida og Pernille snakker om, hvordan tid væk fra hinanden kan ende med at styrke relationer, samt hvordan sabbatåret sætter familiære relationer under pres, når en del af familien pludselig ikke vil være en del mere.</itunes:summary>
+         <itunes:duration>1630</itunes:duration>
+         <itunes:keywords>dating,rejser,sabbatår,ungdom,veninder</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1090d863db1cdcd1e1165c9cbe09006a.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Sabbatår eller ej?</title>
+         <link>https://www.spreaker.com/episode/sabbatar-eller-ej--44318811</link>
+         <description>Efter den længe ventede hue kommer det endnu længere ventede sabbatår. Så skal der scores i byen og tannes i Asien, eller også ender du ligesom Ida og Pernille med ikke rigtig at vide, hvor sabbatåret bærer dig hen.&lt;br /&gt;I dette afsnit åbner veninderne Ida og Pernille op for, hvilke overvejelser, der ligger bag deres sabbatår, hvordan ble-skifte kan være en livsberigende oplevelse, og hvorfor det er okay, at sabbatåret ikke gik helt som planlagt.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44318811</guid>
+         <pubDate>Mon, 19 Apr 2021 04:00:18 +0000</pubDate>
+         <enclosure length="26418781" type="audio/mpeg" url="https://archive.org/download/venindeskabet/Venindeskabet/2021.04.19%20-%20Sabbat%C3%A5r%20eller%20ej.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Efter den længe ventede hue kommer det endnu længere ventede sabbatår. Så skal der scores i byen og tannes i Asien, eller også ender du ligesom Ida og Pernille med ikke rigtig at vide, hvor sabbatåret bærer dig hen.
+I dette afsnit åbner veninderne...</itunes:subtitle>
+         <itunes:summary>Efter den længe ventede hue kommer det endnu længere ventede sabbatår. Så skal der scores i byen og tannes i Asien, eller også ender du ligesom Ida og Pernille med ikke rigtig at vide, hvor sabbatåret bærer dig hen.&lt;br /&gt;I dette afsnit åbner veninderne Ida og Pernille op for, hvilke overvejelser, der ligger bag deres sabbatår, hvordan ble-skifte kan være en livsberigende oplevelse, og hvorfor det er okay, at sabbatåret ikke gik helt som planlagt.</itunes:summary>
+         <itunes:duration>1652</itunes:duration>
+         <itunes:keywords>dating,rejser,sabbatår,ungdom,veninder</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e87ad4172d27d15ec9952be9bbf8321f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Trailer til Venindeskabet</title>
+         <link>https://www.spreaker.com/episode/trailer-til-venindeskabet--44237773</link>
+         <description>Alle de samtaler et sabbatår lægger op til.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/44237773</guid>
+         <pubDate>Wed, 07 Apr 2021 10:23:54 +0000</pubDate>
+         <enclosure length="1099231" type="audio/mpeg" url="https://archive.org/download/venindeskabet/Venindeskabet/2021.04.07%20-%20Trailer%20til%20Venindeskabet.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Alle de samtaler et sabbatår lægger op til.</itunes:subtitle>
+         <itunes:summary>Alle de samtaler et sabbatår lægger op til.</itunes:summary>
+         <itunes:duration>69</itunes:duration>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2f65fb00c7ecb89df6b7e2b6695d1745.jpg" />
+         <itunes:episodeType>trailer</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

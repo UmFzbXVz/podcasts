@@ -1,19 +1,19 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Togtur</title>
-		<link>https://web.24syv.dk/channels/4752</link>
-		<description>Forfatteren Simon Fruelund i samtale med Søren E. Jensen på en togtur fra Mørkøv til Østerport i anledning af Fruelunds roman, &quot;Pendlerne&quot;. Om Udkantsdanmark, flygtighed og hård lesbisk sex mellem to squaredancekvinder.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/631/Togtur.png"/>
-		<item>
-			<title>Togtur 30-11-2014</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110159/10638967-audio.mp3</link>
-			<description>Forfatteren Simon Fruelund i samtale med Søren E. Jensen på en togtur fra Mørkøv til Østerport i anledning af Fruelunds roman, &quot;Pendlerne&quot;. Om Udkantsdanmark, flygtighed og hård lesbisk sex mellem to squaredancekvinder. Søren E. Jensen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110159/10638967-audio.mp3</guid>
-			<pubDate>Sun, 30 Nov 2014 13:02:35 +0000</pubDate>
-			<itunes:duration>00:55:19</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/110159/10638967-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+   <channel>
+      <title>Togtur</title>
+      <link>https://web.24syv.dk/channels/4752</link>
+      <description>Forfatteren Simon Fruelund i samtale med Søren E. Jensen på en togtur fra Mørkøv til Østerport i anledning af Fruelunds roman, "Pendlerne". Om Udkantsdanmark, flygtighed og hård lesbisk sex mellem to squaredancekvinder.</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/togtur/Togtur/Togtur.png" />
+      <item>
+         <title>Togtur 30-11-2014</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110159/10638967-audio.mp3</link>
+         <description>Forfatteren Simon Fruelund i samtale med Søren E. Jensen på en togtur fra Mørkøv til Østerport i anledning af Fruelunds roman, "Pendlerne". Om Udkantsdanmark, flygtighed og hård lesbisk sex mellem to squaredancekvinder. Søren E. Jensen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110159/10638967-audio.mp3</guid>
+         <pubDate>Sun, 30 Nov 2014 13:02:35 +0000</pubDate>
+         <itunes:duration>00:55:19</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/togtur/Togtur/2014.11.30%20-%20Togtur%2030-11-2014.mp3" />
+      </item>
+   </channel>
 </rss>

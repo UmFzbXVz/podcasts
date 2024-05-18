@@ -1,233 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
- <channel>
-  <title>
-   Vejen til paradis
-  </title>
-  <link>
-   http://loud.land/podcast/vejen-til-paradis/
-  </link>
-  <description>
-   En sommerdag i 2019 konverterer Edda til Islam, og det bliver starten på en livsrejse, der på mange måder vender op og ned på hendes liv - og ikke mindst hendes relationer. &lt;br /&gt;Emilie følger sin venindes rejse ind i at ﬁnde sig selv i sit nye liv. Alt imens Emilie stadig har svært ved at forstå beslutningen.
-  </description>
-  <atom:link href="https://www.spreaker.com/show/4775610/episodes/feed" rel="self" type="application/rss+xml"/>
-  <language>
-   da
-  </language>
-  <category>
-   Personal Journals
-  </category>
-  <copyright>
-   521943
-  </copyright>
-  <image>
-   <url>
-    https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cb22c6c7cea65c157c363fd56e496d0.jpg
-   </url>
-   <title>
-    Vejen til paradis
-   </title>
-   <link>
-    http://loud.land/podcast/vejen-til-paradis/
-   </link>
-  </image>
-  <lastBuildDate>
-   Thu, 11 Jan 2024 10:36:33 +0000
-  </lastBuildDate>
-  <itunes:author>
-   LOUD
-  </itunes:author>
-  <itunes:owner>
-   <itunes:name>
-    LOUD
-   </itunes:name>
-   <itunes:email>
-    podcast@radioloud.dk
-   </itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cb22c6c7cea65c157c363fd56e496d0.jpg"/>
-  <itunes:subtitle>
-   Edda er blevet muslim
-  </itunes:subtitle>
-  <itunes:summary>
-   En sommerdag i 2019 konverterer Edda til Islam, og det bliver starten på en livsrejse, der på mange måder vender op og ned på hendes liv - og ikke mindst hendes relationer. &lt;br /&gt;Emilie følger sin venindes rejse ind i at ﬁnde sig selv i sit nye liv. Alt imens Emilie stadig har svært ved at forstå beslutningen.
-  </itunes:summary>
-  <itunes:category text="Society &amp; Culture">
-   <itunes:category text="Personal Journals"/>
-  </itunes:category>
-  <itunes:category text="Religion &amp; Spirituality">
-   <itunes:category text="Islam"/>
-  </itunes:category>
-  <itunes:category text="Religion &amp; Spirituality"/>
-  <itunes:explicit>
-   clean
-  </itunes:explicit>
-  <itunes:type>
-   episodic
-  </itunes:type>
-  <item>
-   <title>
-    Episode 3: Et ben i hver lejr
-   </title>
-   <link>
-    https://www.spreaker.com/episode/episode-3-et-ben-i-hver-lejr--43403289
-   </link>
-   <description>
-    Det kan godt være at Edda går med tørklæde nu, men er&lt;br /&gt;hun mindre fri eller mindre dansk?
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43403289
-   </guid>
-   <pubDate>
-    Sun, 14 Feb 2021 13:43:54 +0000
-   </pubDate>
-   <enclosure length="15171840" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43403289/vejen_til_paradis_3_et_ben_i_hver_lejr.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Det kan godt være at Edda går med tørklæde nu, men er
-hun mindre fri eller mindre dansk?
-   </itunes:subtitle>
-   <itunes:summary>
-    Det kan godt være at Edda går med tørklæde nu, men er&lt;br /&gt;hun mindre fri eller mindre dansk?
-   </itunes:summary>
-   <itunes:duration>
-    945
-   </itunes:duration>
-   <itunes:keywords>
-    familie,islam,konvertit,livet,loud,ung,valg,veninder
-   </itunes:keywords>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cb22c6c7cea65c157c363fd56e496d0.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Episode 2: Alt det frygtede sker
-   </title>
-   <link>
-    https://www.spreaker.com/episode/episode-2-alt-det-frygtede-sker--43403286
-   </link>
-   <description>
-    Edda har taget beslutningen om at konvertere for sig selv,&lt;br /&gt;men beslutningen viser sig alligevel at have store konsekvenser for hendes nære&lt;br /&gt;relationer
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43403286
-   </guid>
-   <pubDate>
-    Sun, 14 Feb 2021 13:42:49 +0000
-   </pubDate>
-   <enclosure length="17926272" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43403286/vejen_til_paradis_2_alt_det_frygtede_sker.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Edda har taget beslutningen om at konvertere for sig selv,
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+   <channel>
+      <title>Vejen til paradis</title>
+      <link>http://loud.land/podcast/vejen-til-paradis/</link>
+      <description>En sommerdag i 2019 konverterer Edda til Islam, og det bliver starten på en livsrejse, der på mange måder vender op og ned på hendes liv - og ikke mindst hendes relationer. &lt;br /&gt;Emilie følger sin venindes rejse ind i at ﬁnde sig selv i sit nye liv. Alt imens Emilie stadig har svært ved at forstå beslutningen.</description>
+      <atom:link href="https://www.spreaker.com/show/4775610/episodes/feed" rel="self" type="application/rss+xml" />
+      <language>da</language>
+      <category>Personal Journals</category>
+      <copyright>521943</copyright>
+      <image>
+         <url>https://archive.org/download/vejen_til_paradis/Vejen%20til%20paradis/4cb22c6c7cea65c157c363fd56e496d0.jpg</url>
+         <title>Vejen til paradis</title>
+         <link>http://loud.land/podcast/vejen-til-paradis/</link>
+      </image>
+      <lastBuildDate>Thu, 11 Jan 2024 10:36:33 +0000</lastBuildDate>
+      <itunes:author>LOUD</itunes:author>
+      <itunes:owner>
+         <itunes:name>LOUD</itunes:name>
+         <itunes:email>podcast@radioloud.dk</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cb22c6c7cea65c157c363fd56e496d0.jpg" />
+      <itunes:subtitle>Edda er blevet muslim</itunes:subtitle>
+      <itunes:summary>En sommerdag i 2019 konverterer Edda til Islam, og det bliver starten på en livsrejse, der på mange måder vender op og ned på hendes liv - og ikke mindst hendes relationer. &lt;br /&gt;Emilie følger sin venindes rejse ind i at ﬁnde sig selv i sit nye liv. Alt imens Emilie stadig har svært ved at forstå beslutningen.</itunes:summary>
+      <itunes:category text="Society &amp; Culture">
+         <itunes:category text="Personal Journals" />
+      </itunes:category>
+      <itunes:category text="Religion &amp; Spirituality">
+         <itunes:category text="Islam" />
+      </itunes:category>
+      <itunes:category text="Religion &amp; Spirituality" />
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <item>
+         <title>Episode 3: Et ben i hver lejr</title>
+         <link>https://www.spreaker.com/episode/episode-3-et-ben-i-hver-lejr--43403289</link>
+         <description>Det kan godt være at Edda går med tørklæde nu, men er&lt;br /&gt;hun mindre fri eller mindre dansk?</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43403289</guid>
+         <pubDate>Sun, 14 Feb 2021 13:43:54 +0000</pubDate>
+         <enclosure length="15171840" type="audio/mpeg" url="https://archive.org/download/vejen_til_paradis/Vejen%20til%20paradis/2021.02.14%20-%20Episode%203.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Det kan godt være at Edda går med tørklæde nu, men er
+hun mindre fri eller mindre dansk?</itunes:subtitle>
+         <itunes:summary>Det kan godt være at Edda går med tørklæde nu, men er&lt;br /&gt;hun mindre fri eller mindre dansk?</itunes:summary>
+         <itunes:duration>945</itunes:duration>
+         <itunes:keywords>familie,islam,konvertit,livet,loud,ung,valg,veninder</itunes:keywords>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cb22c6c7cea65c157c363fd56e496d0.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Episode 2: Alt det frygtede sker</title>
+         <link>https://www.spreaker.com/episode/episode-2-alt-det-frygtede-sker--43403286</link>
+         <description>Edda har taget beslutningen om at konvertere for sig selv,&lt;br /&gt;men beslutningen viser sig alligevel at have store konsekvenser for hendes nære&lt;br /&gt;relationer</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43403286</guid>
+         <pubDate>Sun, 14 Feb 2021 13:42:49 +0000</pubDate>
+         <enclosure length="17926272" type="audio/mpeg" url="https://archive.org/download/vejen_til_paradis/Vejen%20til%20paradis/2021.02.14%20-%20Episode%202.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Edda har taget beslutningen om at konvertere for sig selv,
 men beslutningen viser sig alligevel at have store konsekvenser for hendes nære
-relationer
-   </itunes:subtitle>
-   <itunes:summary>
-    Edda har taget beslutningen om at konvertere for sig selv,&lt;br /&gt;men beslutningen viser sig alligevel at have store konsekvenser for hendes nære&lt;br /&gt;relationer
-   </itunes:summary>
-   <itunes:duration>
-    1117
-   </itunes:duration>
-   <itunes:keywords>
-    islam,konvertere,livet,loud,mening,ung
-   </itunes:keywords>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cb22c6c7cea65c157c363fd56e496d0.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Episode 1: Den sidste brik i puslespillet
-   </title>
-   <link>
-    https://www.spreaker.com/episode/episode-1-den-sidste-brik-i-puslespillet--43403285
-   </link>
-   <description>
-    Edda konverterer i sommeren 2019 til islam, hvilket Emilie&lt;br /&gt;har vildt svært ved at forstå. Men beslutningen bliver ikke taget ud af ingenting.
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43403285
-   </guid>
-   <pubDate>
-    Sun, 14 Feb 2021 13:42:07 +0000
-   </pubDate>
-   <enclosure length="15014784" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43403285/vejen_til_paradis_1_den_sidste_brik_i_puslespillet.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Edda konverterer i sommeren 2019 til islam, hvilket Emilie
-har vildt svært ved at forstå. Men beslutningen bliver ikke taget ud af ingenting.
-   </itunes:subtitle>
-   <itunes:summary>
-    Edda konverterer i sommeren 2019 til islam, hvilket Emilie&lt;br /&gt;har vildt svært ved at forstå. Men beslutningen bliver ikke taget ud af ingenting.
-   </itunes:summary>
-   <itunes:duration>
-    935
-   </itunes:duration>
-   <itunes:keywords>
-    islam,konvertere,livet,loud,ung,valg,veninder
-   </itunes:keywords>
-   <itunes:explicit>
-    yes
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cb22c6c7cea65c157c363fd56e496d0.jpg"/>
-   <itunes:episodeType>
-    full
-   </itunes:episodeType>
-  </item>
-  <item>
-   <title>
-    Velkommen til - Vejen til Paradis
-   </title>
-   <link>
-    https://www.spreaker.com/episode/velkommen-til-vejen-til-paradis--43305418
-   </link>
-   <description>
-    Emilie forsøger at finde hoved og hale i sin venindes beslutning om at konvertere til islam - LYT MED FRA SØNDAG 14. FEBRUAR
-   </description>
-   <guid isPermaLink="false">
-    https://api.spreaker.com/episode/43305418
-   </guid>
-   <pubDate>
-    Fri, 05 Feb 2021 17:23:43 +0000
-   </pubDate>
-   <enclosure length="1196616" type="audio/mpeg" url="https://chtbl.com/track/GFDE3G/api.spreaker.com/download/episode/43305418/vejen_til_paradis_spot.mp3"/>
-   <itunes:author>
-    LOUD
-   </itunes:author>
-   <itunes:subtitle>
-    Emilie forsøger at finde hoved og hale i sin venindes beslutning om at konvertere til islam - LYT MED FRA SØNDAG 14. FEBRUAR
-   </itunes:subtitle>
-   <itunes:summary>
-    Emilie forsøger at finde hoved og hale i sin venindes beslutning om at konvertere til islam - LYT MED FRA SØNDAG 14. FEBRUAR
-   </itunes:summary>
-   <itunes:duration>
-    75
-   </itunes:duration>
-   <itunes:keywords>
-    familie,islam,konvertere,livsvalg,paradis,religion,venskab
-   </itunes:keywords>
-   <itunes:explicit>
-    clean
-   </itunes:explicit>
-   <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cb22c6c7cea65c157c363fd56e496d0.jpg"/>
-   <itunes:episodeType>
-    trailer
-   </itunes:episodeType>
-  </item>
- </channel>
+relationer</itunes:subtitle>
+         <itunes:summary>Edda har taget beslutningen om at konvertere for sig selv,&lt;br /&gt;men beslutningen viser sig alligevel at have store konsekvenser for hendes nære&lt;br /&gt;relationer</itunes:summary>
+         <itunes:duration>1117</itunes:duration>
+         <itunes:keywords>islam,konvertere,livet,loud,mening,ung</itunes:keywords>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cb22c6c7cea65c157c363fd56e496d0.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Episode 1: Den sidste brik i puslespillet</title>
+         <link>https://www.spreaker.com/episode/episode-1-den-sidste-brik-i-puslespillet--43403285</link>
+         <description>Edda konverterer i sommeren 2019 til islam, hvilket Emilie&lt;br /&gt;har vildt svært ved at forstå. Men beslutningen bliver ikke taget ud af ingenting.</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43403285</guid>
+         <pubDate>Sun, 14 Feb 2021 13:42:07 +0000</pubDate>
+         <enclosure length="15014784" type="audio/mpeg" url="https://archive.org/download/vejen_til_paradis/Vejen%20til%20paradis/2021.02.14%20-%20Episode%201.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Edda konverterer i sommeren 2019 til islam, hvilket Emilie
+har vildt svært ved at forstå. Men beslutningen bliver ikke taget ud af ingenting.</itunes:subtitle>
+         <itunes:summary>Edda konverterer i sommeren 2019 til islam, hvilket Emilie&lt;br /&gt;har vildt svært ved at forstå. Men beslutningen bliver ikke taget ud af ingenting.</itunes:summary>
+         <itunes:duration>935</itunes:duration>
+         <itunes:keywords>islam,konvertere,livet,loud,ung,valg,veninder</itunes:keywords>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cb22c6c7cea65c157c363fd56e496d0.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+      </item>
+      <item>
+         <title>Velkommen til - Vejen til Paradis</title>
+         <link>https://www.spreaker.com/episode/velkommen-til-vejen-til-paradis--43305418</link>
+         <description>Emilie forsøger at finde hoved og hale i sin venindes beslutning om at konvertere til islam - LYT MED FRA SØNDAG 14. FEBRUAR</description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/43305418</guid>
+         <pubDate>Fri, 05 Feb 2021 17:23:43 +0000</pubDate>
+         <enclosure length="1196616" type="audio/mpeg" url="https://archive.org/download/vejen_til_paradis/Vejen%20til%20paradis/2021.02.05%20-%20Velkommen%20til%20-%20Vejen%20til%20Paradis.mp3" />
+         <itunes:author>LOUD</itunes:author>
+         <itunes:subtitle>Emilie forsøger at finde hoved og hale i sin venindes beslutning om at konvertere til islam - LYT MED FRA SØNDAG 14. FEBRUAR</itunes:subtitle>
+         <itunes:summary>Emilie forsøger at finde hoved og hale i sin venindes beslutning om at konvertere til islam - LYT MED FRA SØNDAG 14. FEBRUAR</itunes:summary>
+         <itunes:duration>75</itunes:duration>
+         <itunes:keywords>familie,islam,konvertere,livsvalg,paradis,religion,venskab</itunes:keywords>
+         <itunes:explicit>clean</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cb22c6c7cea65c157c363fd56e496d0.jpg" />
+         <itunes:episodeType>trailer</itunes:episodeType>
+      </item>
+   </channel>
 </rss>

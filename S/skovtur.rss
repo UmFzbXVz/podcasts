@@ -1,19 +1,19 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Skovtur</title>
-		<link>https://web.24syv.dk/channels/4680</link>
-		<description>Søren E. Jensen på skovtur med forfatteren Helle Helle.</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/602/Skovtur.png"/>
-		<item>
-			<title>Skovtur 23-11-2014</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109835/10613264-audio.mp3</link>
-			<description>Sendt 23-11-2014. Søren E. Jensen på skovtur med forfatteren Helle Helle.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109835/10613264-audio.mp3</guid>
-			<pubDate>Fri, 21 Nov 2014 14:29:54 +0000</pubDate>
-			<itunes:duration>00:54:37</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/109835/10613264-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+   <channel>
+      <title>Skovtur</title>
+      <link>https://web.24syv.dk/channels/4680</link>
+      <description>Søren E. Jensen på skovtur med forfatteren Helle Helle.</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/2014.11.21-skovtur-23-11-2014/Skovtur/Skovtur.png" />
+      <item>
+         <title>Skovtur 23-11-2014</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/109835/10613264-audio.mp3</link>
+         <description>Sendt 23-11-2014. Søren E. Jensen på skovtur med forfatteren Helle Helle.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/109835/10613264-audio.mp3</guid>
+         <pubDate>Fri, 21 Nov 2014 14:29:54 +0000</pubDate>
+         <itunes:duration>00:54:37</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/2014.11.21-skovtur-23-11-2014/Skovtur/2014.11.21%20-%20Skovtur%2023-11-2014.mp3" />
+      </item>
+   </channel>
 </rss>

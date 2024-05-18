@@ -1,75 +1,75 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Vintertid</title>
-		<link>https://web.24syv.dk/channels/4775</link>
-		<description>'Vintertid' er et program, der bogstaveligt talt beskæftiger sig med vintertid og skiftet mellem sommer og vinter. Hvilke forandringer sker der omkring os? Farverne skifter fra kraftige sommerfarver til mere afdæmpede orange/brune farver, folk forsvinder fra parker og andre udendørs aktiviteter ind i stuerne. Er det fordi, vi er mindre sociale om vinteren, eller fordi vi mødes på en anden måde? Forandrer musikken sig også?</description>
-		<language>da-DK</language>
-		<itunes:image href="https://assets.listentonews.com/uploads/provider/logo/645/Vintertid.png"/>
-		<item>
-			<title>Pyromanen</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110264/36972555-audio.mp3</link>
-			<description>Sidste weekend i oktober forsvinder en time for evigt, når vi skifter fra sommertid til normaltid.Zissel har låst sig inde i et af Radio24syvs studier og sendt sine to kollegaer, Alexander Bruggisser og Kasper Risgaard, ud i nattens mørke. Til en skov hvor ingen af de to ved hvad der venter dem.For hvorfor findes der forladte bygninger, med sodklædte vægge i midten af en skov? Og er Alexander og Kasper egentlig helt alene?</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110264/36972555-audio.mp3</guid>
-			<pubDate>Sun, 28 Oct 2018 03:00:00 +0000</pubDate>
-			<itunes:duration>00:54:58</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/110264/36972555-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Godsejerens hævn</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110260/19804551-audio.mp3</link>
-			<description>Hvis du en nat begiver dig langs strandkanten ved Øresund, så kan det være det være at du finder vejen forbi et gods.Men ikke hvilket som helst gods.Efter at have stået forladt i over 20 år minder det mest af alt om et mørkt vildnis, som kvæler alt lys - og kun efterlader stilhed og mørke.Men på trods af det, så er huset alt andet end fredeligt.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110260/19804551-audio.mp3</guid>
-			<pubDate>Sun, 29 Oct 2017 03:30:00 +0000</pubDate>
-			<itunes:duration>00:54:42</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/110260/19804551-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Husets Børn</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110261/14758807-audio.mp3</link>
-			<description>Husets Børn. I denne udgave af Vintertid, kigger vi nærmere på hvilken kontrol som frygt og angst har, når vi udsættes for vores værste fantasi. Vi følger Kasper der skal opsøge et forladt hus, hvor tøj, inventar og madvarer blev efterladt i huset. Kasper fornemmer en mystisk og mærkelig aura om huset, hvor et gennemgående tema er husets børn.
+   <channel>
+      <title>Vintertid</title>
+      <link>https://web.24syv.dk/channels/4775</link>
+      <description>'Vintertid' er et program, der bogstaveligt talt beskæftiger sig med vintertid og skiftet mellem sommer og vinter. Hvilke forandringer sker der omkring os? Farverne skifter fra kraftige sommerfarver til mere afdæmpede orange/brune farver, folk forsvinder fra parker og andre udendørs aktiviteter ind i stuerne. Er det fordi, vi er mindre sociale om vinteren, eller fordi vi mødes på en anden måde? Forandrer musikken sig også?</description>
+      <language>da-DK</language>
+      <itunes:image href="https://archive.org/download/vintertid_202405/Vintertid/Vintertid.png" />
+      <item>
+         <title>Pyromanen</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110264/36972555-audio.mp3</link>
+         <description>Sidste weekend i oktober forsvinder en time for evigt, når vi skifter fra sommertid til normaltid.Zissel har låst sig inde i et af Radio24syvs studier og sendt sine to kollegaer, Alexander Bruggisser og Kasper Risgaard, ud i nattens mørke. Til en skov hvor ingen af de to ved hvad der venter dem.For hvorfor findes der forladte bygninger, med sodklædte vægge i midten af en skov? Og er Alexander og Kasper egentlig helt alene?</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110264/36972555-audio.mp3</guid>
+         <pubDate>Sun, 28 Oct 2018 03:00:00 +0000</pubDate>
+         <itunes:duration>00:54:58</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/vintertid_202405/Vintertid/2018.10.28%20-%20Pyromanen.mp3" />
+      </item>
+      <item>
+         <title>Godsejerens hævn</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110260/19804551-audio.mp3</link>
+         <description>Hvis du en nat begiver dig langs strandkanten ved Øresund, så kan det være det være at du finder vejen forbi et gods.Men ikke hvilket som helst gods.Efter at have stået forladt i over 20 år minder det mest af alt om et mørkt vildnis, som kvæler alt lys - og kun efterlader stilhed og mørke.Men på trods af det, så er huset alt andet end fredeligt.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110260/19804551-audio.mp3</guid>
+         <pubDate>Sun, 29 Oct 2017 03:30:00 +0000</pubDate>
+         <itunes:duration>00:54:42</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/vintertid_202405/Vintertid/2017.10.29%20-%20Godsejerens%20h%C3%A6vn.mp3" />
+      </item>
+      <item>
+         <title>Husets Børn</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110261/14758807-audio.mp3</link>
+         <description>Husets Børn. I denne udgave af Vintertid, kigger vi nærmere på hvilken kontrol som frygt og angst har, når vi udsættes for vores værste fantasi. Vi følger Kasper der skal opsøge et forladt hus, hvor tøj, inventar og madvarer blev efterladt i huset. Kasper fornemmer en mystisk og mærkelig aura om huset, hvor et gennemgående tema er husets børn.
 Værter: Andreas Schou og Zissel Kjertum-Mohr
 Gæst: Kasper Risgaard</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110261/14758807-audio.mp3</guid>
-			<pubDate>Sun, 30 Oct 2016 13:52:46 +0000</pubDate>
-			<itunes:duration>00:54:43</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/110261/14758807-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Vintertid 25-10-2015</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110265/12366183-audio.mp3</link>
-			<description>I Vintertid undersøger vi, hvad der sker i den 25. time af døgnet. I denne udsendelse ser vi nærmere på, hvad der sker på en kirkegård, sindsygehospitalet Skt. Hans og ude i en skov midt om natten. Hvilken påvirkning har mørket på steder, vi i de lyse timer ikke har problemer med at færdes i.</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110265/12366183-audio.mp3</guid>
-			<pubDate>Sun, 25 Oct 2015 04:07:00 +0000</pubDate>
-			<itunes:duration>00:54:42</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/110265/12366183-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Vintertid 26-10-2014</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110262/10483724-audio.mp3</link>
-			<description>I denne udgave af Vintertid kigger vi nærmere på de ting, som vi forstiller os, er der, når det bliver mørkt. Vi sender tre piger ud i Dyrehaven ved København, for at se deres angst direkte i øjnene. Hvad sker der i forlystelsesparken, når kl. bliver 03, og alt er lukket ned? Hvad sker der ude i skoven, når det er nat? Og er du mon helt alene derude, eller er der nogen, der holder øje med dig? Andreas Schou</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110262/10483724-audio.mp3</guid>
-			<pubDate>Sun, 26 Oct 2014 04:03:00 +0000</pubDate>
-			<itunes:duration>00:55:00</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/110262/10483724-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Vintertid 27-10-2013</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110266/8850837-audio.mp3</link>
-			<description>'Vintertid' er et program, der bogstaveligt talt beskæftiger sig med vintertid og skiftet mellem sommer og vinter. Hvilke forandringer sker der omkring os? Farverne skifter fra kraftige sommerfarver til mere afdæmpede orange/brune farver, folk forsvinder fra parker og andre udendørs aktiviteter ind i stuerne. Er det fordi, vi er mindre sociale om vinteren, eller fordi vi mødes på en anden måde? Forandrer musikken sig også?</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110266/8850837-audio.mp3</guid>
-			<pubDate>Sun, 27 Oct 2013 03:03:12 +0000</pubDate>
-			<itunes:duration>00:54:36</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/110266/8850837-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-		<item>
-			<title>Vintertid  28-10-2012</title>
-			<link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110263/7235235-audio.mp3</link>
-			<description>'Vintertid' er et program, der bogstaveligt talt beskæftiger sig med vintertid og skiftet mellem sommer og vinter. -Hvilke forandringer sker der omkring os? Farverne skifter fra kraftige sommerfarver til mere afdæmpede orange/brune farver, folk forsvinder fra parker og andre udendørsaktiviteter ind i stuerne. Er det fordi, vi er mindre sociale om vinteren, eller fordi vi mødes på en anden måde? Forandrer musikken sig også? Vintertid's vært, Andreas Schou, debatterer ovenstående emner og meget andet med tre gæster i studiet. Gæsterne giver desuden deres bud på et nummer, de forbinder med årstiden.   Andreas Schou Andersen</description>
-			<guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110263/7235235-audio.mp3</guid>
-			<pubDate>Sun, 28 Oct 2012 04:03:07 +0000</pubDate>
-			<itunes:duration>00:54:51</itunes:duration>
-			<enclosure url="https://assets.listentonews.com/uploads/audio_clip/rss_file/110263/7235235-audio.mp3" length="31457280" type="audio/mpeg"/>
-		</item>
-	</channel>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110261/14758807-audio.mp3</guid>
+         <pubDate>Sun, 30 Oct 2016 13:52:46 +0000</pubDate>
+         <itunes:duration>00:54:43</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/vintertid_202405/Vintertid/2016.10.30%20-%20Husets%20B%C3%B8rn.mp3" />
+      </item>
+      <item>
+         <title>Vintertid 25-10-2015</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110265/12366183-audio.mp3</link>
+         <description>I Vintertid undersøger vi, hvad der sker i den 25. time af døgnet. I denne udsendelse ser vi nærmere på, hvad der sker på en kirkegård, sindsygehospitalet Skt. Hans og ude i en skov midt om natten. Hvilken påvirkning har mørket på steder, vi i de lyse timer ikke har problemer med at færdes i.</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110265/12366183-audio.mp3</guid>
+         <pubDate>Sun, 25 Oct 2015 04:07:00 +0000</pubDate>
+         <itunes:duration>00:54:42</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/vintertid_202405/Vintertid/2015.10.25%20-%20Vintertid%2025-10-2015.mp3" />
+      </item>
+      <item>
+         <title>Vintertid 26-10-2014</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110262/10483724-audio.mp3</link>
+         <description>I denne udgave af Vintertid kigger vi nærmere på de ting, som vi forstiller os, er der, når det bliver mørkt. Vi sender tre piger ud i Dyrehaven ved København, for at se deres angst direkte i øjnene. Hvad sker der i forlystelsesparken, når kl. bliver 03, og alt er lukket ned? Hvad sker der ude i skoven, når det er nat? Og er du mon helt alene derude, eller er der nogen, der holder øje med dig? Andreas Schou</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110262/10483724-audio.mp3</guid>
+         <pubDate>Sun, 26 Oct 2014 04:03:00 +0000</pubDate>
+         <itunes:duration>00:55:00</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/vintertid_202405/Vintertid/2014.10.26%20-%20Vintertid%2026-10-2014.mp3" />
+      </item>
+      <item>
+         <title>Vintertid 27-10-2013</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110266/8850837-audio.mp3</link>
+         <description>'Vintertid' er et program, der bogstaveligt talt beskæftiger sig med vintertid og skiftet mellem sommer og vinter. Hvilke forandringer sker der omkring os? Farverne skifter fra kraftige sommerfarver til mere afdæmpede orange/brune farver, folk forsvinder fra parker og andre udendørs aktiviteter ind i stuerne. Er det fordi, vi er mindre sociale om vinteren, eller fordi vi mødes på en anden måde? Forandrer musikken sig også?</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110266/8850837-audio.mp3</guid>
+         <pubDate>Sun, 27 Oct 2013 03:03:12 +0000</pubDate>
+         <itunes:duration>00:54:36</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/vintertid_202405/Vintertid/2013.10.27%20-%20Vintertid%2027-10-2013.mp3" />
+      </item>
+      <item>
+         <title>Vintertid  28-10-2012</title>
+         <link>https://assets.listentonews.com/uploads/audio_clip/rss_file/110263/7235235-audio.mp3</link>
+         <description>'Vintertid' er et program, der bogstaveligt talt beskæftiger sig med vintertid og skiftet mellem sommer og vinter. -Hvilke forandringer sker der omkring os? Farverne skifter fra kraftige sommerfarver til mere afdæmpede orange/brune farver, folk forsvinder fra parker og andre udendørsaktiviteter ind i stuerne. Er det fordi, vi er mindre sociale om vinteren, eller fordi vi mødes på en anden måde? Forandrer musikken sig også? Vintertid's vært, Andreas Schou, debatterer ovenstående emner og meget andet med tre gæster i studiet. Gæsterne giver desuden deres bud på et nummer, de forbinder med årstiden.   Andreas Schou Andersen</description>
+         <guid isPermaLink="true">https://assets.listentonews.com/uploads/audio_clip/rss_file/110263/7235235-audio.mp3</guid>
+         <pubDate>Sun, 28 Oct 2012 04:03:07 +0000</pubDate>
+         <itunes:duration>00:54:51</itunes:duration>
+         <enclosure length="31457280" type="audio/mpeg" url="https://archive.org/download/vintertid_202405/Vintertid/2012.10.28%20-%20Vintertid%20%2028-10-2012.mp3" />
+      </item>
+   </channel>
 </rss>
