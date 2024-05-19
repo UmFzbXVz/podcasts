@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Made in China</title>
+    <link>https://politiken.dk/podcast/Made_in_China/</link>
+    <description>Trænger du også til at komme en tur i teatret? Så lyt her til Sort/Hvids forestilling 'Made in China', som skulle have spillet på Aarhus Teater. Det handler om alt det, vi er optaget af – Kina, virus, diktatorer, global opvarmning, og hvordan vi løser fremtidens udfordringer.</description>
+    <itunes:image href="https://politiken.dk/incoming/img7794283.ueqzsy/ALTERNATES/p1x1_1500/podcast_itunes_madeinchina_final"/>
+    <item>
+      <title>Det blev skrevet som en vild fantasi: Hør lydteater om Kina, et virusudbrud og Mette Frederiksen som diktator</title>
+      <description>&lt;p&gt;Forestillingen ’Made in China’ var for relevant til at vente. En teaterproduktion lavet af Aarhus Teater og Sort/Hvid bliver til podcast i samarbejde med Politiken.&lt;/p&gt;</description>
+      <pubDate>Wed, 20 May 2020 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7794095</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/7794095.mp3?n=1589961600000&amp;source=app&amp;originArticleId=7794095&amp;premium=false" length="76326496" type="audio/mpeg"/>
+      <itunes:duration>53:02</itunes:duration>
+    </item>
+  </channel>
+</rss>

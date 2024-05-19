@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Livet på Mars</title>
+    <link>https://politiken.dk/podcast/livet_paa_mars/</link>
+    <description>De drømmer om at sende mennesker ud i rummet på en enkeltbillet. Third Ear undersøger det danske rumkapløb med Peter Madsen i centrum og rumprogrammet 'Mars One', der vil være et realityshow.
+
+Produktion: Tim Hinman og Krister Moltzen.</description>
+    <itunes:image href="https://politiken.dk/incoming/img9095226.akamin/ALTERNATES/p1x1_1500/Livet%20p%C3%A5%20Mars"/>
+    <item>
+      <title>Livet på Mars (4:4) - Best case scenario</title>
+      <description>&lt;p&gt;&lt;span style=&quot;color: rgb(26, 26, 26); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(244, 244, 244);&quot;&gt;Hvordan vil hverdagen være for de første mennesker på Mars. Og hvor farligt, altså hvor dødsens farligt vil det være deroppe?&lt;/span&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 06 Oct 2015 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6453879</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/6453879.mp3?n=1444136400000&amp;source=app&amp;originArticleId=6453879&amp;premium=false" length="21464350720" type="audio/mpeg"/>
+      <itunes:duration>35:03</itunes:duration>
+    </item>
+    <item>
+      <title>Livet på Mars (3:4) - Reality-tv og raketvidenskab</title>
+      <description>&lt;p&gt;Kunne du leve resten af dit liv som reality-stjerne i en fængselscelle med udsigt til rødt sand? Uden at blive sindssyg og paranoid over de andre marsmænd.&lt;br /&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 06 Oct 2015 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6453873</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/6453873.mp3?n=1444132800000&amp;source=app&amp;originArticleId=6453873&amp;premium=false" length="21464350720" type="audio/mpeg"/>
+      <itunes:duration>31:28</itunes:duration>
+    </item>
+    <item>
+      <title>Livet på Mars (2:4) - Hvad er Mars One?</title>
+      <description>&lt;p&gt;&lt;span style=&quot;color: rgb(26, 26, 26); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(244, 244, 244);&quot;&gt;Firmaet Mars One vil lave reality-tv på Mars. Men hvorfor vil danske Christian gerne dø på Mars, mens millioner af tv-seere kigger med fra Jorden?&lt;/span&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 06 Oct 2015 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6453870</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/6453870.mp3?n=1444129200000&amp;source=app&amp;originArticleId=6453870&amp;premium=false" length="21464350720" type="audio/mpeg"/>
+      <itunes:duration>31:34</itunes:duration>
+    </item>
+    <item>
+      <title>Livet på Mars (1:4) - Rumkapløb i Foreningsdanmark</title>
+      <description>&lt;p&gt;I udkanten af København er der et vaskeægte rumkapløb i gang. Sådan et som det, vi kender fra dengang med USA og Sovjet.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</description>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6425614</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/6425614.mp3?n=1444082400000&amp;source=app&amp;originArticleId=6425614&amp;premium=false" length="21464350720" type="audio/mpeg"/>
+      <itunes:duration>35:00</itunes:duration>
+    </item>
+  </channel>
+</rss>

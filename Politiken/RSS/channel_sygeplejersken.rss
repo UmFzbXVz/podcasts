@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Baseret på virkelige hændelser: Sygeplejersken på Netflix</title>
+    <link>https://politiken.dk/podcast/sygeplejersken_paa_netflix/</link>
+    <description>Annoncørbetalt indhold fra Netflix: Netflix-serien Sygeplejersken er baseret på en sand historie. En af danmarkshistoriens allermest spektakulære kriminalsager. Sygeplejersken Christina Aistrup Hansen blev i 2017 dømt for drabsforsøg på fire patienter på Nykøbing Falster Sygehus. 
+ 
+I denne podcast går journalist og manuskriptforfatter Kasper Lundberg bag om serien og taler med de vigtigste personer for dens tilblivelse.</description>
+    <itunes:image href="https://politiken.dk/incoming/img9327224.j2ddny/ALTERNATES/p1x1_1500/Netflix_Podcast3"/>
+    <item>
+      <title>Afsnit 1 – Hvordan er det at se sin journalistiske dækning blive forvandlet til en spændingsserie?</title>
+      <description/>
+      <pubDate>Fri, 28 Apr 2023 00:03:00 +0000</pubDate>
+      <guid isPermaLink="false">9327147</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/9327147.mp3?n=1682632980000&amp;source=app&amp;originArticleId=9327147&amp;premium=false" length="27375443" type="audio/mpeg"/>
+      <itunes:duration>28:30</itunes:duration>
+    </item>
+    <item>
+      <title>Afsnit 2 - Så tæt på virkeligheden som overhovedet muligt</title>
+      <description/>
+      <pubDate>Fri, 28 Apr 2023 00:02:00 +0000</pubDate>
+      <guid isPermaLink="false">9327146</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/9327146.mp3?n=1682632920000&amp;source=app&amp;originArticleId=9327146&amp;premium=false" length="24053459" type="audio/mpeg"/>
+      <itunes:duration>25:03</itunes:duration>
+    </item>
+    <item>
+      <title>Afsnit 3 - Hvordan fortolker man som skuespillere et virkeligt menneske?</title>
+      <description/>
+      <pubDate>Fri, 28 Apr 2023 00:01:00 +0000</pubDate>
+      <guid isPermaLink="false">9327144</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/9327144.mp3?n=1682632860000&amp;source=app&amp;originArticleId=9327144&amp;premium=false" length="26057555" type="audio/mpeg"/>
+      <itunes:duration>27:08</itunes:duration>
+    </item>
+  </channel>
+</rss>
