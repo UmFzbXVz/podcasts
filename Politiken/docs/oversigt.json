@@ -2,376 +2,451 @@
     {
         "title": "Hvorfor spiller Anton",
         "description": "Anton Kristoffer Mørch Madsen er ludoman. Han er kun 6 år, da han gambler første gang, og siden overtager spillet langsomt, men sikkert hans liv, indtil han til sidst ikke længere kan kende sig selv. Han lyver, stjæler og manipulerer med sine omgivelser. I dag er han ude af det, men han står tilbage med ét spørgsmål: hvorfor var det lige ham, der blev ludoman?",
-        "id": "channel_anton"
+        "id": "channel_anton",
+        "program_url": "https://politiken.dk/podcast/hvorfor_spiller_anton/"
     },
     {
         "title": "Lang historie kort",
         "description": "Hver eftermiddag giver vi dig noget at tænke over og tale om. Du får tre friske historier på kun 15 minutter, når klokken er 15.\n\nVærter er Bo Søndergaard og Morten Skjoldager.",
-        "id": "channel_kort"
+        "id": "channel_kort",
+        "program_url": "https://politiken.dk/podcast/Lang_historie_kort/"
     },
     {
         "title": "Den levende",
         "description": "I Politikens nye podcast ’Den levende’ tager opinionsredaktør Lotte Folke dig i hånden og stiller tidens store spørgsmål til dem, der tør og kan svare på dem.",
-        "id": "channel_levende"
+        "id": "channel_levende",
+        "program_url": "https://politiken.dk/podcast/den_levende/"
     },
     {
         "title": "Ibyens Kærlighedsbrevkasse",
         "description": "Ibyens Kærlighedsbrevkasse redder romantikken. Brevkasseredaktør Felix Thorsen Katzenelson og hans hold af kærlighedseksperter svarer på de spørgsmål, I alle render rundt med.\n\nRedaktion: Sille Westphal, Kathrine Eggert Wadsholt, Felix Thorsen Katzenelson og Nina Kragh. Jingle: Peter Sejersbøl.",
-        "id": "channel_brevkasse"
+        "id": "channel_brevkasse",
+        "program_url": "https://politiken.dk/podcast/Ibyens_brevkasse/"
     },
     {
         "title": "Alt er nu",
         "description": "Politikens podcast-dokumentar 'Alt er nu' handler om det unge kærestepar, Stine og Titan, der har en plan. De skal giftes, have et barn og et helt liv sammen. Men så bliver Stine indhentet af fortiden.",
-        "id": "channel_alternu"
+        "id": "channel_alternu",
+        "program_url": "https://politiken.dk/podcast/alternu/"
     },
     {
         "title": "Du lytter til Politiken",
         "description": "Med Politikens daglige podcast ’Du lytter til Politiken’ i ørerne får du på 20 minutter én særligt udvalgt, aktuel historie leveret som levende lydfortælling.\n\nPolitiken-journalisterne Gudrun Marie Schmidt og Nils Thorsen er værter.",
-        "id": "channel_dulytter"
+        "id": "channel_dulytter",
+        "program_url": "https://politiken.dk/podcast/dulyttertilpolitiken/"
     },
     {
         "title": "Poptillægget",
         "description": "Poptillægget er din ugentlige popkulturelt begejstrede podcast om alt fra film, tv-serier og musik til obskure popfænomener, bøger, podcasts og tidstypisk støj fra internettet.\n\nVært: Lucia Odoom\n\nProducer: Sille Westphal",
-        "id": "channel_pop"
+        "id": "channel_pop",
+        "program_url": "https://politiken.dk/podcast/poptillaegget/"
     },
     {
         "title": "Bogfolk",
         "description": "Vi dykker ned i og diskuterer litterære tendenser og udgivelser. Jes Stein Pedersen er vært for Politikens podcast om litteratur.\n\n\nI redaktionen: Jes Stein Pedersen og Lise Garsdal",
-        "id": "channel_book"
+        "id": "channel_book",
+        "program_url": "https://politiken.dk/podcast/bogfolk/"
     },
     {
         "title": "Meme dig til magten",
         "description": "De opstår som regel i gaming- og popkultur, på TikTok og Youtube. Og længe går de under radaren, selvom de er i fuld gang med at påvirke internetbrugere i alle generationer. ‘Meme dig til magten’ tager udgangspunkt i ét aktuelt internet-meme, som undersøges og analyseres. Memes, som du skal kende - for de er allerede i gang med at ændre din virkelighed.\n\nVærterne er tech-journalisterne Marie Høst og Katrine K. Pedersen.",
-        "id": "channel_meme"
+        "id": "channel_meme",
+        "program_url": "https://politiken.dk/podcast/meme_dig_til_magten/"
     },
     {
         "title": "Kokainens vej",
         "description": "Intet ser så rent ud som en bane kokain. Men når en ung københavner hakker pulveret op på en tallerken, peger stregen af kokain tilbage på en blodig industri. Der bliver dyrket, solgt og taget mere kokain end nogensinde før. Politikens journalister opsøger det hvide pulvers vej fra koka-marken på en bjergside i Colombia til en lille lejlighed i København, hvor den ender i næsen på en ung mand.\n \nSerien er tilrettelagt og produceret af Regine Frederiksen og Frederik Gabrielsson. ",
-        "id": "channel_kokainens_vej"
+        "id": "channel_kokainens_vej",
+        "program_url": "https://politiken.dk/podcast/kokainens_vej/"
     },
     {
         "title": "Putin - verdens farligste mand?",
         "description": "Vi har kigget på ham hver dag. Når han går med sine svingende arme, ser på os med sit grå, gennemsigtige blik og sidder og dirigerer ved sit lange, hvide bord. Lige siden Vladimir Putin invaderede Ukraine, har vi været på overarbejde for at forstå, hvem han egentlig er. En iskold KGB-agent, der legede demokrat, så længe det tjente hans sag? Eller bare en forbitret kejser af et svundet imperium?\n\nI fire afsnit følger Nils Thorsen i hælene på Ruslands præsident for at finde ud af, hvordan Vladimir Vladimirovitj Putin blev verdens farligste mand.",
-        "id": "channel_verdens"
+        "id": "channel_verdens",
+        "program_url": "https://politiken.dk/podcast/Verdens_farligste_mand/"
     },
     {
         "title": "Stine Geisler – mordet uden ende",
         "description": "For en generation af unge kvinder blev Stine Geisler selve navnet på den frygt, de siden bevægede sig igennem mørke gader med. Men hvad var det for et liv, der endte i et kælderrum i Teglgårdstræde 4. juni 1990? Hvad er grunden til, at ingen endnu er dømt for drabet på den 18-årige pige, der havde hele livet for sig? Og hvorfor har netop det mord sat sig så dybe spor hos så mange?\n   \nTilrettelæggelse: Nils Thorsen og Hans Davidsen-Nielsen. Produktion: Jonas Schrøder-Andreasen. Musik: Mike Sheridan og Peter Sejersbøl.\n\nDe to første afsnit er åbne for alle - for at høre alle fire afsnit, skal du have abonnement på Politiken. Det kan du tegne her.",
-        "id": "channel_geisler"
+        "id": "channel_geisler",
+        "program_url": "https://politiken.dk/podcast/Stine_Geisler/"
     },
     {
         "title": "Dødsgangen",
         "description": "Hver morgen i 21 år er Cleveland Jackson stået op til den samme dag. Siden 2002 har siddet på dødsgangen i et fængsel i staten Ohio i USA. Den danske journalist Peter Krogh Andersen er penneven med Cleveland og har besøgt ham i fængslet. I de år, der er gået, hvor Cleveland har ventet på sin henrettelse, der er blevet udsat syv gange, har han fortalt Peter om sin barndom, forbrydelsen, der gav ham straffen, livet på dødsgangen og tankerne om at skulle dø på en fastsat dato. ",
-        "id": "channel_doedsgangen"
+        "id": "channel_doedsgangen",
+        "program_url": "https://politiken.dk/podcast/doedsgangen/"
     },
     {
         "title": "Uden for citat",
         "description": "Den politiske podcast 'Uden for Citat' giver Politikens abonnenter de bedste historier fra Christiansborg og omegn. Vi fortæller om det, politikerne siger til – og uden for – citat, og hvad det i virkeligheden betyder. ",
-        "id": "channel_valget"
+        "id": "channel_valget",
+        "program_url": "https://politiken.dk/podcast/uden_for_citat/"
     },
     {
         "title": "Musikmakker",
         "description": "Simon Lund og Pernille Jensen er musikmakkere. Han er musikredaktør på Politiken, hun er anmelder. En stor del af deres vågne timer bruger de på at lytte til musik - både den nye, der udkommer, og den musik, de aften efter aften oplever sammen med en masse andre mennesker til koncerter og festivaler. Døgnet rundt – stort set – er de i dialog med hinanden om musikken. Den dialog kan du lytte til i podcasten ’Musikmakker’.",
-        "id": "channel_lyt"
+        "id": "channel_lyt",
+        "program_url": "https://politiken.dk/podcast/musikmakker/"
     },
     {
         "title": "Klimakamp: Hvert ton tæller",
         "description": "Hvis du er en af dem, der tænker, at klimakampen allerede er afgjort, og at det er os, der tabte, så har vi noget at fortælle dig i denne podcast-serie.\nVores verden vil under alle omstændigheder forandre sig dramatisk. Men hvad vi selv gør - eller ikke gør - får stor betydning for, hvor meget og hvordan, den forandrer sig. Om vi står overfor store udfordringer, vi trods alt kan håndtere. Eller om det er en fremtid fuld af katastrofer, vi går i møde.\nSå velkommen til klimakampens anden halvleg, hvor det ikke gælder om at vinde eller tabe, men om at finde sin egen måde at deltage på. Ud fra hvor meget man vil det, og hvad der passer til ens eget liv og temperament. \n",
-        "id": "channel_klima"
+        "id": "channel_klima",
+        "program_url": "https://politiken.dk/podcast/hvert_ton_taeller/"
     },
     {
         "title": "Agenterne – et liv mellem to verdener",
         "description": "Normalt hører vi ikke om dem. Alligevel er det flere gange gået galt, og medierne har været fulde af historier om utilfredse eller anholdte agenter. Senest Ahmed Samsam. I nye serie fortæller vi om fire andre agenter. Og det, de har til fælles, er noget helt andet end, hvad vi forestiller os. ",
-        "id": "channel_agenterne"
+        "id": "channel_agenterne",
+        "program_url": "https://politiken.dk/podcast/agenterne/"
     },
     {
         "title": "Politiken læst op",
         "description": "Her kan du lytte til Politikens artikler. Hver dag kommer der nye oplæsninger af aktuelle nyheder, interview og reportager.",
-        "id": "channel_laestop"
+        "id": "channel_laestop",
+        "program_url": "https://politiken.dk/podcast/politiken_laest_op/"
     },
     {
         "title": "Simons hjerte",
         "description": "For ti år siden lå Politikens musikredaktør Simon Lund på Rigshospitalet og ventede på et nyt hjerte. Det var et spørgsmål om uger, før hans krop ville give op. Nu fortæller han om dengang, han blev hjertesyg, og en hjertetransplantation pludselig var den eneste mulighed. Han taler med læger, sine venner og sin kone. For at forstå, hvad det var der skete, da han fik en chance til.\n\nProduceret af: Mikkel Rønnau, Anne Pilegaard Petersen og Rune Sparre Geertsen. Lyddesign: Mikkel Rønnau. Redaktør: Nina Kragh.\n\nDe to første afsnit af podcasten kan høres af alle, men hvis du vil høre alle fire afsnit af serien, skal du være abonnent på Politiken. Det kan du nemt blive på politiken.dk/shop.",
-        "id": "channel_simons"
+        "id": "channel_simons",
+        "program_url": "https://politiken.dk/podcast/Simons_hjerte/"
     },
     {
         "title": "En kniv i ryggen",
         "description": "Hvert fjerde drab i Danmark er et partnerdrab. Men hvad med dem, der ikke lander i drabsstatistikken, men næsten? Som bliver forsøgt slået ihjel af en kæreste, men overlever. Hvert år bliver 15 kvinder udsat for et drabsforsøg, og i denne podcast fortæller vi historien om et af dem. Det er historien om Sandie Sørensen, der slog op med sin kæreste og fik en kniv i ryggen.\n\nTilrettelagt af Line Vaaben. Produceret af Kathrine Eggert Wadsholt. Redaktør er Nina Kragh. ",
-        "id": "channel_kniv"
+        "id": "channel_kniv",
+        "program_url": "https://politiken.dk/podcast/En_kniv_i_ryggen/"
     },
     {
         "title": "Karoline, journal 5305",
         "description": "'Karoline, journal 5305' er en podcastdokumentar i tre dele. Gennem avisartikler, journaler, billeder og små lægenotater forsøger vi at give indblik i et stykke Danmarkshistorie fra 20’erne til slut 50’erne, hvor isolation, tvangsindgreb, racehygiejne, mænd i kitler, spædbarnsfjernelse og spændetrøjer var en del af hverdagen på de mange danske anstalter.\n\nIdé, optagelse, tilrettelæggelse og produktion: Hanne Budtz-Jørgensen. Tilrettelæggelse og produktion: Anne Jeppesen. Research og sparring: Sille Westphal og Kathrine Eggert Wadsholt. Stemmer: Mikkel Reenberg.",
-        "id": "channel_karoline"
+        "id": "channel_karoline",
+        "program_url": "https://politiken.dk/podcast/karoline_journal_5305/"
     },
     {
         "title": "Drømmen om et barn",
         "description": "Sofie er virkelig skruk, men single. Hun drømmer om at dele forældreskabet med en anden, så hun opretter en profil på regnbuebarn.dk og møder Anders, som også er skruk, men enlig homoseksuel mand. De beslutter at få et barn sammen, og henover tre afsnit følger vi dem i beslutningen, graviditeten og livet med et fælles barn.\n\nTilrettelagt af Silja Thøgersen. Produceret af Silja Thøgersen og Celine Klint. Musik: Stine Hansen/In Atlas. Redaktører: Jonas Schrøder-Andreasen og Nina Kragh\n\nDet første afsnit af podcasten kan høres af alle, men hvis du vil høre alle tre afsnit af serien, skal du være abonnent på Politiken. Det kan du nemt blive på politiken.dk/shop.",
-        "id": "channel_barn"
+        "id": "channel_barn",
+        "program_url": "https://politiken.dk/podcast/droemmen_om_et_barn/"
     },
     {
         "title": "Børneavisen: Hva' sker der?",
         "description": "Nyhedspodcasten til nysgerrige børn i alderen 9-12 år. I Hva' sker der? går vi i dybden med et aktuelt emne og fortæller korte, udvalgte historier fra hele verden. Ny episode hver mandag.",
-        "id": "channel_boerneavisen_hva"
+        "id": "channel_boerneavisen_hva",
+        "program_url": "https://politiken.dk/podcast/B_rneavisen__Hva__sker_der_/"
     },
     {
         "title": "Kongerækken hos Politiken Historie",
         "description": "Kongerækken er en podcast om gamle dage fra Politiken Historie.\n\nRedaktion: Anders Olling og Hans Erik Havsteen. Se mere på politikenhistorie.dk",
-        "id": "channel_markante"
+        "id": "channel_markante",
+        "program_url": "https://politiken.dk/podcast/kongeraekken/"
     },
     {
         "title": "Verden er i dig",
         "description": "Vores kroppe hænger sammen med verden. Jordens rejse rundt om solen har lært dine celler at reagere på døgnets rytmer. De trillioner af mikroorganismer, der bor i dig, hjælper med at fordøje din mad og påvirker dit humør. Dine forfædre har efterladt sig spor i dit DNA. Og ender du med at forlade planeten, vil manglen på tyngdekraft belaste dine organer og muskler. Sammen med forskere, kunstnere og mennesker med personlige efaringer undersøger vi i denne podcastserie, hvordan vores omverden påvirker os.\n\nTilrettelæggelse, optagelse, manuskript og produktion: Anne Neimann Clement, Nanna Hauge Kristensen og Astrid Hald. Signaturmusik: Simon Don Eriksen og Mika Forsling. Masterering: Simon Brinck.\n\n'Verden er i dig' er produceret for Medicinsk Museion og er støttet af midler fra Novo Nordisk Fondens tematiske program i uddannelse og formidling.   ",
-        "id": "channel_verden"
+        "id": "channel_verden",
+        "program_url": "https://politiken.dk/podcast/Verden_er_i_dig/"
     },
     {
         "title": "Efter voldtægten",
         "description": "Hvordan føles det at blive udsat for et overgreb? Hvordan foregår en anmeldelse? Og hvorfor kan det føles, som om man skal forsvare sig mod retsstaten, når man anmelder en voldtægt? Gennem tre afsnit forsøger Trine Svensson, Kirstine Marie Thomsen og Emilie Riddersholm at sætte ord på det ubehagelige forløb, der begyndte, da selve overgrebet skete, og som først sluttede længe efter, de hver især havde anmeldt en voldtægt til politiet. Regeringen arbejder lige nu på at få indført en ny samtykkebaseret voldtægtslovgivning. Den vil formentlig sidestille al ufrivillig sex med voldtægt. Journalist Renna Agger undersøger, hvad en samtykkebaseret voldtægtslovgivning kan komme til at betyde for ofre og for anklagede.\n\nProduceret og tilrettelagt af Sille Westphal og Renna Agger. Redaktør: Nina Kragh.",
-        "id": "channel_efter"
+        "id": "channel_efter",
+        "program_url": "https://politiken.dk/podcast/efter_voldtaegten/"
     },
     {
         "title": "Lyt til longreads",
         "description": "Her kan du høre Politikens journalister læse deres egne bedste interviews, portrætter og reportager op.",
-        "id": "channel_longreads"
+        "id": "channel_longreads",
+        "program_url": "https://politiken.dk/podcast/politiken_longreads/"
     },
     {
         "title": "Den endeløse krig",
         "description": "Er vi mere eller mindre sikre her tyve år efter terrorangrebet 11. september 2001? I en ny podcastserie fortæller journalisterne Hans Davidsen-Nielsen og Morten Skjoldager historien om kampen imod terror. Vi møder blandt andre den nu afdøde dansker Slimane Hadj Abderrahmane, der sad indespærret i 747 dage i Guantánamo med sin koran, og tidligere PET-chef Lars Findsen, som konstaterer, at et spektakulært terrorangreb let kunne være sket i Danmark.\n\nTilrettelagt af Morten Skjoldager, Hans Davidsen-Nielsen og Jonas Schrøder-Andreasen.",
-        "id": "channel_endeloesekrig"
+        "id": "channel_endeloesekrig",
+        "program_url": "https://politiken.dk/podcast/Den_endeloese_krig/"
     },
     {
         "title": "De bitre bær",
         "description": "Har du tænkt over, hvor de bær, du spiser året rundt, kommer fra? I podcastserien ’De Bitre Bær’ undersøger journalist Nikolaj Houmann Mortensen arbejdsforholdene for migrantarbejdere på spanske bærplantager. Plantager, der leverer søde, blå og røde bær til danske supermarkeder som Netto, Føtex og Lidl året rundt.\n\nResearch og reportage til serien er lavet af Sandra Blenner Rasmussen, Ronja Pilgaard og Nikolaj Houmann Mortensen. Manuskript, tilrettelæggelse og produktion: Jonas Schrøder-Andreasen. Redaktør er Nina Kragh.\n\nPodcasten er lavet i et samarbejde mellem Politiken og Danwatch.",
-        "id": "channel_bitre"
+        "id": "channel_bitre",
+        "program_url": "https://politiken.dk/podcast/de_bitre_baer/"
     },
     {
         "title": "Cand.hvad.nu",
         "description": "Hvordan siger man farvel til livet som studerende og goddag til dagpengeland med et utal af ansøgninger og afslag? Og hvordan føles det, når man så får sit første rigtige ’voksen-job’? Eller rammer forkert adskillige gange, for så at skulle starte forfra på en ny uddannelse igen? De spørgsmål og mange flere kan du få svar på i denne podcastserie. Politiken giver ordet til både de helt nye, der lige er blevet lukket ud i limbo-landet mellem uddannelse og arbejdsmarkedet, og de mere erfarne, der har et par års erfaring med både fejl og succeser i denne forvirrende livsfase.",
-        "id": "channel_cand"
+        "id": "channel_cand",
+        "program_url": "https://politiken.dk/podcast/cand_hvad_nu/"
     },
     {
         "title": "Guld",
         "description": "Under de Olympiske Lege i Tokyo fortæller Politiken Podcast om fire vidt forskellige bedrifter, der alle har et afgørende fællestræk. De endte alle med idrættens ultimative hæder, olympisk guld. Det er også historier om venskaber, besættelser, en blodig massakre og et ufatteligt mirakel.",
-        "id": "channel_guld"
+        "id": "channel_guld",
+        "program_url": "https://politiken.dk/podcast/guld/"
     },
     {
         "title": "Baseret på virkelige hændelser: Sygeplejersken på Netflix",
         "description": "Annoncørbetalt indhold fra Netflix: Netflix-serien Sygeplejersken er baseret på en sand historie. En af danmarkshistoriens allermest spektakulære kriminalsager. Sygeplejersken Christina Aistrup Hansen blev i 2017 dømt for drabsforsøg på fire patienter på Nykøbing Falster Sygehus. \n \nI denne podcast går journalist og manuskriptforfatter Kasper Lundberg bag om serien og taler med de vigtigste personer for dens tilblivelse.",
-        "id": "channel_sygeplejersken"
+        "id": "channel_sygeplejersken",
+        "program_url": "https://politiken.dk/podcast/sygeplejersken_paa_netflix/"
     },
     {
         "title": "Møldrup & Modernisterne",
         "description": "Annoncørbetalt indhold fra Utzon Center. Flemming Møldrup vil gerne forstå, hvorfor arkitekter over hele verden stadig er fascineret af den nordiske modernisme. Du ved, det er navne som for eksempel Jørn Utzon, Arne Jacobsen og Alvar Aalto. De ville skabe en arkitektur, der viste kærlighed til hverdagen. Der lukkede lyset og naturen ind. Podcasten er lavet med støtte fra Realdania.",
-        "id": "channel_moldrup"
+        "id": "channel_moldrup",
+        "program_url": "https://politiken.dk/podcast/M_ldrup___Modernisterne/"
     },
     {
         "title": "Alex og kaninhullet",
         "description": "Tusindvis af danskere er blevet en del af et miljø i Danmark, der nægter at gå med mundbind, er imod vacciner og mener, at en ondsindet verdenselite har skabt pandemien. I månedsvis har journalist Alexander Sjöberg fulgt dette miljø. Han tager dig med ind i kernen for at møde de mest engagerede aktivister. Hvordan endte de her - midt i et slag om sandheden?",
-        "id": "channel_alex"
+        "id": "channel_alex",
+        "program_url": "https://politiken.dk/podcast/Alex_og_kaninhullet/"
     },
     {
         "title": "Scandinavian Star - kampen for at få svar",
         "description": "For 30 år siden mistede 159 mennesker livet under mordbranden på Scandinavian Star. I en ny podcastserie fortæller overlevende og pårørende om, hvad tragedien har gjort ved dem. Politikens journalist Lars Halskov følger nye spor i efterforskningen og blotlægger, hvordan myndighederne svigtede. For hvem satte ild på skibet? Det er aldrig blevet opklaret. ",
-        "id": "channel_star"
+        "id": "channel_star",
+        "program_url": "https://politiken.dk/podcast/Scandinavian_Star/"
     },
     {
         "title": "Min energi er et andet sted",
         "description": "I august 2015 bliver Anne og Nicolas forældre til Barbara. Fem måneder senere forlader Nicolas Anne. Han er blevet forelsket i Ninna. NI denne podcast du høre deres historie. Annes historie om at være den, der bliver forladt, og Nicolas' historie om at forlade moren til sit nyfødte barn.\n\nProduktion: Anne Jeppesen",
-        "id": "channel_energi"
+        "id": "channel_energi",
+        "program_url": "https://politiken.dk/podcast/Min_energi_er_et_andet_sted/"
     },
     {
         "title": "Elsk mig for evigt",
         "description": "Nana bliver forelsket som aldrig før, da hun møder Johan. Der er dog et problem: Hun er 41. Han er 29, og Nana møder sin biologiske mur. Alligevel sætter hun sig for at blive gravid. For hun vil ikke miste Johan. Men hvor meget er man i stand til at gøre for ikke at blive forladt af den, man elsker?",
-        "id": "channel_elsk"
+        "id": "channel_elsk",
+        "program_url": "https://politiken.dk/podcast/elsk_mig_for_evigt/"
     },
     {
         "title": "Roskilde i hjertet",
         "description": "Tag med til Roskilde Festival i denne musikpodcast i tre afsnit, hvor vi fortæller festivalens udviklingshistorie. Fra politisk hippie-happening til international megabegivenhed. Fra fest, ekstase og overgangsritualer til katastrofen, der ændrede alt.\n\nHistorien er fortalt af tre mennesker, der alle bærer Roskilde i hjertet: Politikens musikeksperter Erik Jensen, Simon Lund og Pernille Jensen.\n\nVært er Gudrun Marie Schmidt, kulturjournalist på Politiken. ",
-        "id": "channel_roskilde"
+        "id": "channel_roskilde",
+        "program_url": "https://politiken.dk/podcast/Roskilde_i_hjertet/"
     },
     {
         "title": "Forbandet ungdom",
         "description": "Lyt til Cavlingprisvinder Anders Legarth Schmidts artikelserie om unge psykisk syge – læst op af ham selv. Anders Legarth Schmidt fik helt ekstraordinært lov til at komme indenfor på børne- og ungdomspsykiatrisk afsnit B 204 i Glostrup. Gennem en uge fulgte han de unges hverdag og mødte blandt andre Tilde og Emil, der fortalte om at ville væk fra det hele og om at stå oprejst i døgndrift for at brænde kalorier af. I otte kapitler giver han et kig ind i en verden, de færreste kender.",
-        "id": "channel_forbandet"
+        "id": "channel_forbandet",
+        "program_url": "https://politiken.dk/podcast/forbandet_ungdom/"
     },
     {
         "title": "Kvinden med den tunge kuffert",
         "description": "Third Ears foruroligende serie om en kvinde, der ikke er den, hun giver sig ud for at være. Om en ukendt verden af klosterrefugier, religiøse menigheder og mørke kirker.\n\nOptaget, skrevet og fortalt af Krister Moltzen. Redigeret og mikset af Tim Hinman. Musik af Tim Hinman.",
-        "id": "channel_kvinden"
+        "id": "channel_kvinden",
+        "program_url": "https://politiken.dk/podcast/kvinden_med_den_tunge_kuffert/"
     },
     {
         "title": "Herbert Pundik - den sidste flygtning",
         "description": "Han er 91 år, men har oplevet drama, eufori og sorg nok til af fylde adskillige liv. Som teenager måtte Herbert Pundik flygte fra nazisterne. Som ung deltog han i de blodige kampe, som førte til oprettelsen af Israel og insisterede i 24 år som chefredaktør på Politiken på at blive boende i Tel Aviv. Sådan ville han sætte en stopper for sin slægts flugt. Men mistede undervejs sine to sønner.",
-        "id": "channel_pundik"
+        "id": "channel_pundik",
+        "program_url": "https://politiken.dk/podcast/pundik_densidsteflygtning/"
     },
     {
         "title": "Amerikas splittede stater",
         "description": "Op til valget 2021 dækker vi valgkampen i USA.",
-        "id": "channel_amerikas"
+        "id": "channel_amerikas",
+        "program_url": "https://politiken.dk/podcast/amerikas_splittede_stater_podcast/"
     },
     {
         "title": "...Og tilbage til studiet",
         "description": "Få en hurtig analyse af, hvordan Danmark klarer sig ved VM og hvad, der sker i Qatar - den mest omdiskuterede slutrunde nogensinde.",
-        "id": "channel_studiet"
+        "id": "channel_studiet",
+        "program_url": "https://politiken.dk/podcast/og_tilbage_til_studiet/"
     },
     {
         "title": "Kulturpolitikerne - en Kulturmonitor debatpodcast",
         "description": "Kulturmonitors ugentlige kulturpolitiske debatprogram. Et panel af tidligere kulturministre og kulturpolitikere tager sammen med vært Lasse Marker ugens vigtige sager på kulturområdet under kærlig behandling.",
-        "id": "channel_kulturpolitikerne"
+        "id": "channel_kulturpolitikerne",
+        "program_url": "https://politiken.dk/podcast/kulturpolitikerne/"
     },
     {
         "title": "Kulturministrene - en Kulturmonitor podcast",
         "description": "I år er det 60 år siden, at Julius Bomholt skabte Kulturministeriet. I den anledning lancerer Kulturmonitor serien ’Kulturministrene’, hvor en lang række tidligere kulturministre kigger tilbage på deres tid i ministerstolen i Nybrogade, frem mod kulturpolitikken i dag og ind i fremtidens største udfordringer.",
-        "id": "channel_kulturministrene"
+        "id": "channel_kulturministrene",
+        "program_url": "https://politiken.dk/podcast/kulturministrene/"
     },
     {
         "title": "Krig i Ukraine",
         "description": "Her kan du finde alle de podcasts vi har lavet om krigen i Europa.",
-        "id": "channel_ukraine"
+        "id": "channel_ukraine",
+        "program_url": "https://politiken.dk/podcast/Krig_i_Ukraine/"
     },
     {
         "title": "Højskolen Revisited",
         "description": "Annoncørbetalt indhold fra Højskolerne: Et ophold på en højskole er en livsforandrende oplevelse for mange. I podcasten ‘Højskolen Revisited’ tager Emil Nørlund tilbage og genbesøger højskolen med udvalgte højskolepersonligheder. Hvilke minder dukker op, og hvad betød opholdet for den de er i dag?\n\nVært, optagelse og redigering: Emil Nørlund.",
-        "id": "channel_hoejskolen"
+        "id": "channel_hoejskolen",
+        "program_url": "https://politiken.dk/podcast/Hoejskolen_Revisited/"
     },
     {
         "title": "Haiku",
         "description": "Det er godt for hovedet, sjælen og sproget at skrive de ultrakorte japanske haiku-digte. Vær med, når vi åbner avisspalterne for læsernes haiku.\nI denne optagelse kan du høre Kim Skotte, forfatter til '365 – et år i haiku', fortælle om haiku-digtningens magi, inden du selv kaster dig ud i haiku-digtningens kunst. ",
-        "id": "channel_haiku"
+        "id": "channel_haiku",
+        "program_url": "https://politiken.dk/podcast/haiku/"
     },
     {
         "title": "Donutmodellen",
         "description": "Anders Morgenthaler er vært på Donutmodellen - en investeringpodcast, hvor iværksættere med en grøn dagsorden får mulighed for at pitche deres bæredygtige forretningsidé. I hver episode skal en virksomhed overbevise et panel af investorer, der alle brænder for grønne omstillingsprojekter, om, at netop deres idé er værd at investere i. Kom med helt ind i det nervepirrende rum, hvor iværksætterens hjerteblod vurderes, værdisættes og måske ender ud i nye projekter.",
-        "id": "channel_donutmodellen"
+        "id": "channel_donutmodellen",
+        "program_url": "https://politiken.dk/podcast/donutmodellen/"
     },
     {
         "title": "Hjælp, vi flytter hjemmefra",
         "description": "Sexlyde fra din nabo, spotvarejagt i Netto og sure opkald fra din bankmand. Der venter både bøvl og brusende lykke, når du flytter hjemmefra for første gang. Her hjælper Politiken dig med alt, hvad du skal vide.\n\nVærter: Rasmus Helmann og Anna Winsløv.\n\nRedaktion: Dorthe Lønstrup, Michael Olsen og Tanja Parker Astrup. Produktion: Nicholas Durup. ",
-        "id": "channel_hjaelp"
+        "id": "channel_hjaelp",
+        "program_url": "https://politiken.dk/podcast/hjaelp_flytter_hjemmefra/"
     },
     {
         "title": "Lydspor",
         "description": "Annoncørbetalt indhold fra Koda: Studier viser, at musik har en magisk evne til at fremkalde følelser og vække minder i os. Thomas Stokholm er vært i musikpodcasten, Lydspor, hvor en gæst gennem fem musikalske nedslag fortæller historier fra sit liv, som giver genklang i de udvalgte numre.\n\nVært: Thomas Stokholm. Producer: Henrik Povlsen",
-        "id": "channel_lydspor"
+        "id": "channel_lydspor",
+        "program_url": "https://politiken.dk/podcast/Lydspor/"
     },
     {
         "title": "Technu",
         "description": "De har gennemhullet vores privatliv. De udfordrer demokratiet. De knægter al konkurrence og blæser på vores skatter. Og nu er de så gået i gang med at sætte os på algoritmer og formler, der kan være både racistiske og sexistiske. Kan vi nogensinde få techgiganter som Facebook, Apple, Google og Amazon under kontrol? Gider de overhovedet tale med os? Og hvad er det, der er på spil?\n\nPolitikens tech-redaktør Micharl Jarlner sætter fokus på techrevolutionen sammen med tre af de mennesker, der oplever den fra allerførste række.",
-        "id": "channel_technu"
+        "id": "channel_technu",
+        "program_url": "https://politiken.dk/podcast/technu/"
     },
     {
         "title": "Wulffmorgenthaler Podcast",
         "description": "Mikael Wulff og Anders Morgenthaler er sammen kendt som duoen Wulffmorgenthaler, og i denne podcast inviterer de dig med ind i deres værksted, hvor de finder på de jokes, der ender som striber i Politiken. Det er fornøjeligt, vanvittigt og helt igennem hyggeligt.",
-        "id": "channel_wm"
+        "id": "channel_wm",
+        "program_url": "https://politiken.dk/podcast/Wulffmorgenthaler_Podcast/"
     },
     {
         "title": "Bogen der ændrede mit liv",
         "description": "Litteraturredaktør Jes Stein Pedersen taler med otte markante personer fra ind- og udland om litteratur, der har haft en afgørende betydning for dem. Bogen, der førte til vigtige erkendelser, gav indsigt i, hvor ens vi mennesker er, trøstede efter oplevelse af vold og ensomhed eller åbnede for en ny karriere.",
-        "id": "channel_bogen"
+        "id": "channel_bogen",
+        "program_url": "https://politiken.dk/podcast/Bogen_der__ndrede_mit_liv/"
     },
     {
         "title": "Enden er nær",
         "description": "Din guide til verdens undergang. Third Ear tager et dystopisk ridt gennem nutidens katastrofeland. Hvad vil udslette os alle - kunstig intelligens, en klimakatastrofe eller krig?\n\nSkrevet, fortalt og redigeret af Tim Hinman. Manusredigering og historiekonsulent er Krister Moltzen.",
-        "id": "channel_enden"
+        "id": "channel_enden",
+        "program_url": "https://politiken.dk/podcast/endenernaer/"
     },
     {
         "title": "Forsvundne katte",
         "description": "50 katte er de sidste par år forsvundet fra et villakvarter i Rønne på Bornholm. Er der nogen, der får kattene til at forsvinde? Third Ear undersøger sagen.\n\nFortalt, skrevet, researchet og redigeret af Rikke Houd.",
-        "id": "channel_forsvundne"
+        "id": "channel_forsvundne",
+        "program_url": "https://politiken.dk/podcast/forsvundnekatte/"
     },
     {
         "title": "Robert og Thetanerne",
         "description": "Third Ears podcastserie giver et helt unikt indblik i Scientologys ellers lukkede verden, og hvad det vil sige at blive fanatisk grebet af en bestemt idé om verden.\n\nTilrettelagt, optaget, skrevet og fortalt af Krister Moltzen. Klippet og mikset af Tim Hinman. Musik af Bernard Herrmann, Antonio Sanchez, Berlin og Tim Hinman.",
-        "id": "channel_robert"
+        "id": "channel_robert",
+        "program_url": "https://politiken.dk/podcast/robert_og_thetanerne/"
     },
     {
         "title": "Historien om Lukas",
         "description": "Hvordan ender en ung dansker med at blive dræbt i kamp for IS i Syrien? Jakob Sheikhs og Third Ears podcastserie går tæt på den danske syrienskriger Lukas Dam.\n\nResearchet, optaget og fortalt af Jakob Sheikh. Redigering, mix og musik af Tim Hinman. Skrevet af Jakob Sheikh, Tim Hinman og Krister Moltzen.",
-        "id": "channel_lukas"
+        "id": "channel_lukas",
+        "program_url": "https://politiken.dk/podcast/historien_om_lukas/"
     },
     {
         "title": "Ringbindsattentatet",
         "description": "En mand bliver forsøgt myrdet med et ringbind. Tag med Third Ears Krister Moltzen tilbage til en af landets mest mærkværdige forbrydelser i et univers af skulderpuder, pink læbestift og store klodsede datamater.\n\nProduktion: Krister Moltzen og Tim Hinman.",
-        "id": "channel_ringbindsattentatet"
+        "id": "channel_ringbindsattentatet",
+        "program_url": "https://politiken.dk/podcast/ringbindsattentatet/"
     },
     {
         "title": "Livet på Mars",
         "description": "De drømmer om at sende mennesker ud i rummet på en enkeltbillet. Third Ear undersøger det danske rumkapløb med Peter Madsen i centrum og rumprogrammet 'Mars One', der vil være et realityshow.\n\nProduktion: Tim Hinman og Krister Moltzen.",
-        "id": "channel_mars"
+        "id": "channel_mars",
+        "program_url": "https://politiken.dk/podcast/livet_paa_mars/"
     },
     {
         "title": "Third Ear x Politiken",
         "description": "Her kan du dykke ned i resten af Third Ears podcasthistorier. Om færøske Lindas tragedie. Om den berygtede politibetjent ’Kummefryseren’. Om drengen, der fik beseglet sin skæbne på en knallerttur. Om Nedim, der flygter fra sit liv som bandemedlem. Og om Thomas Andersen, der kører Thomas Andersen ned.",
-        "id": "channel_thirdear"
+        "id": "channel_thirdear",
+        "program_url": "https://politiken.dk/podcast/thirdear_podcast/"
     },
     {
         "title": "Politiken Dokumentar",
         "description": "Her kan du dykke ned i Politikens podcastdokumentarer. Om Iran og Vesterhavet. Om psykisk sygdom og en dirigent, der kan redde menneskeliv. Og om taxachaufføren Knud, der bliver talerør for et mægtigt rumvæsen.",
-        "id": "channel_documentary"
+        "id": "channel_documentary",
+        "program_url": "https://politiken.dk/podcast/dokumentar/"
     },
     {
         "title": "Plus en",
         "description": "Politikens podcast om livet med børn. Her kan du dykke ned i intime dokumentariske fortællinger om det at blive forælder.",
-        "id": "channel_plusen"
+        "id": "channel_plusen",
+        "program_url": "https://politiken.dk/podcast/plus_en/"
     },
     {
         "title": "Englevingen",
         "description": "Hvad sker der med en mor, når hendes barn bliver kidnappet? 'Englevingen' er den dramatiske historie om Nadia Kjærgaard Jensens datter, der forsvandt til Egypten.\n\nProduktion og musik: Theis Ehler Molin.",
-        "id": "channel_englevingen"
+        "id": "channel_englevingen",
+        "program_url": "https://politiken.dk/podcast/englevingen/"
     },
     {
         "title": "Mads Fisker",
         "description": "En romantisk, tankevækkende rejsehistorie om, hvad kærlighed og tosomhed er, og hvordan kærlighedsjagtens selvbedrag fungerer.\n\nProduktion: Vanessa Christophersen, Hanne Budtz-Jørgensen og Katrine Hornstrup Yde",
-        "id": "channel_madsfisker"
+        "id": "channel_madsfisker",
+        "program_url": "https://politiken.dk/podcast/madsfisker/"
     },
     {
         "title": "Brian & Bolden",
         "description": "Brian Laudrup er sammen med sportskommentator Søren-Mikael Hansen vært for fodboldpodcasten 'Brian & Bolden'. Brian Laudrup tager erfaringer fra sin egen karriere som en af Danmarks største fodboldspillere gennem tiden med i studiet og vender aktuelle fodboldemner og tendenser med skiftende gæster.\n\nOBS: Denne podcast skulle have haft 5 afsnit, men er stoppet efter kun et afsnit. Læs mere her: https://politiken.dk/sport/art8981718/Politiken-og-TV-2-dropper-samarbejde-med-Brian-Laudrup",
-        "id": "channel_brian"
+        "id": "channel_brian",
+        "program_url": "https://politiken.dk/podcast/brian_og_bolden/"
     },
     {
         "title": "Nyeste afsnit",
         "description": "Lyt til alle de seneste afsnit af Politikens podcasts",
-        "id": "channel_latest"
+        "id": "channel_latest",
+        "program_url": "https://politiken.dk/podcast/dulyttertilpolitiken/"
     },
     {
         "title": "Donald og Joe",
         "description": "Op til valget 2021 i USA lavede vi en godnathistorie for voksne om to lidt specielle drenge. Den ene er USA’s præsident. Den anden vil gerne være det.\nSkrevet og læst op af Nils Thorsen.",
-        "id": "channel_donaldogjoe"
+        "id": "channel_donaldogjoe",
+        "program_url": "https://politiken.dk/podcast/Donald_og_Joe/"
     },
     {
         "title": "I jaguarens fodspor",
         "description": "En lydrejse ind i en af verdens mest uberørte regnskove, på jagt efter jaguaren. En rejse, der kommer helt tæt på kræfterne, der truer den vilde skov, og dem der prøver at passe på den. Den massive trafik af narko fra sydamerika mod USA, har forvandlet de store jungleområder til lovløse sletter, hvor illegale bønder nu hersker og fjerner alt hvad der står i vejen for dem. Træer, dyr og mennesker. Hvordan foregår det?",
-        "id": "channel_jaguar"
+        "id": "channel_jaguar",
+        "program_url": "https://politiken.dk/podcast/I_jaguarens_fodspor/"
     },
     {
         "title": "Made in China",
         "description": "Trænger du også til at komme en tur i teatret? Så lyt her til Sort/Hvids forestilling 'Made in China', som skulle have spillet på Aarhus Teater. Det handler om alt det, vi er optaget af – Kina, virus, diktatorer, global opvarmning, og hvordan vi løser fremtidens udfordringer.",
-        "id": "channel_china"
+        "id": "channel_china",
+        "program_url": "https://politiken.dk/podcast/Made_in_China/"
     },
     {
         "title": "Masserne & Magten",
         "description": "OBS: Politikens politiske podcast findes nu under navnet 'Uden For Citat'.\n\nMasserne & Magten oversætter magtspillet på Christiansborg, så du forstår, hvad der egentlig foregår.\nVi sætter lyd til ugens højdepunkter i dansk politik. Bo Søndergaard stiller spørgsmålene til politisk redaktør Anders Bæksgaard. \n\nPodcasten er kun for Politiken-abonnenter. Det kan du blive på politiken.dk/shop.",
-        "id": "channel_madsen"
+        "id": "channel_madsen",
+        "program_url": "https://politiken.dk/podcast/masserne_og_magten/"
     },
     {
         "title": "Myter om milliarder",
         "description": "Virker udviklingsbistand? Eller havner alle pengene i virkeligheden i de forkerte lommer? ’Myter om milliarder’ afdækker fakta og afliver myter om de mange milliarder, som Danmark hvert år sender sydpå. \n\nProduktion: Brain Gain Group.",
-        "id": "channel_myter"
+        "id": "channel_myter",
+        "program_url": "https://politiken.dk/podcast/myterommilliarder/"
     },
     {
         "title": "Nedtælling til valget",
         "description": "Der var i 2018 under et år til næste folketingsvalg. Carl Emil Arnfred og Anders Bæksgaard fra Politikens Christiansborg-redaktion kigger i fire afsnit frem mod valgdramaet. \n\nHvad betyder Mette Frederiksens sologang? Kan Løkke holde sammen på blå blok? Kommer udkantsdanmark til at afgøre valget igen? Og hvor meget koster det egentlig at vinde et valg?",
-        "id": "channel_nedtaelling"
+        "id": "channel_nedtaelling",
+        "program_url": "https://politiken.dk/podcast/Nedtaelling_til_valget/"
     },
     {
         "title": "Politiken Live",
         "description": "Her kan du høre en række podcasts, der indeholder optagelser fra Politiken Live-arrangementer. Bl.a. 'Tænk vildt med Rane Willerslev' og Puk Damsgaard om 'Den sorte kat i Mosul'.",
-        "id": "channel_live"
+        "id": "channel_live",
+        "program_url": "https://politiken.dk/podcast/politiken_live/"
     },
     {
         "title": "Rejsen til det røde hus",
         "description": "Kâlánguak Absalonsens familie blev splittet ad efter en voldsom hændelse i barndomshjemmet i Grønland, og som 3-årig blev hun bortadopteret til en dansk familie. Som voksen ønsker hun at se den barndom, hun ellers har fortrængt, i øjnene og tager med sin ven, forfatteren Iben Mondrup, tilbage til det røde hus i Sisimiut, hvor hun boede med sin familie. \nKâlánguak vil fortælle sin egen historie, og hun vil finde ud af, hvorfor hun skulle bortadopteres?\n\nProduceret for Politikens Forlag af Filt CPH\nTilrettelægger: Anne Pilegaard Petersen\nLyddesign og mix: Thomas Arent\nRedaktør: Janus Camara\nUdgivet med støtte fra Politiken Fonden\n",
-        "id": "channel_groenland"
+        "id": "channel_groenland",
+        "program_url": "https://politiken.dk/podcast/rejsen_til_det_roede_hus/"
     }
 ]
