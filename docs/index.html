@@ -185,7 +185,7 @@ async function filterPodcasts(searchText) {
     });
 
     const filteredPodimoPodcasts = podimoPodcastsData.filter(podcast => {
-        const titleMatches = podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
+        const titleMatches = isAdvanced && podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
         const descriptionMatches = isAdvanced && podcast.description && podcast.description.toLowerCase().includes(searchText.toLowerCase());
         return titleMatches || descriptionMatches;
     });
@@ -197,7 +197,7 @@ async function filterPodcasts(searchText) {
     });
 
     const filteredPir8dioPodcasts = pir8dioPodcastsData.filter(podcast => {
-        const titleMatches = podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
+        const titleMatches = isAdvanced && podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
         const contentMatches = isAdvanced && podcast.content && podcast.content.toLowerCase().includes(searchText.toLowerCase());
         return titleMatches || contentMatches;
     });
@@ -277,8 +277,6 @@ async function filterPodcasts(searchText) {
 
     displayResults(results);
 }
-
-
 
 document.getElementById('searchInput').addEventListener('input', function() {
     const searchText = this.value.trim();
