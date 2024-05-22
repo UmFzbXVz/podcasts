@@ -603,5 +603,14 @@ banderelateret@protonmail.com</description>
       <itunes:duration>00:43:14</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/f0a4b046-1e51-4a74-915b-c5d92e3b0c71_400x400.png"/>
     </item>
+    <item>
+      <title>Banderelateret er stærkt tilbage i næste uge</title>
+      <description>Banderelateret udgår i denne uge men vender stærkt tilbage i næste uge.</description>
+      <guid isPermaLink="false">331007f3-d1e5-4e1d-9f53-035bca1ff556</guid>
+      <pubDate>Wed, 22 May 2024 01:11:15 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/4c4549f9-511d-4cc6-b3f5-6c1765103a6f.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:00:48</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/84ab91c0-59dc-4228-8f8a-3928cc1ba05f_400x400.png"/>
+    </item>
   </channel>
 </rss>
