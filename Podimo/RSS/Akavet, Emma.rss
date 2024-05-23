@@ -20,17 +20,6 @@ Følg Emma:  https://www.instagram.com/emmathomsen</description>
       <link>https://podimo.com/dk/shows/e97c904f-ccdc-49cb-b33e-2bef43614433</link>
     </image>
     <item>
-      <title>Episode 9: Bobby Atiedu</title>
-      <description>Hvis der er en person på den her planet, der er mere akavet end Emma, er det dagens gæst, Bobby. 
-Han er podcastvært og sådan lidt upcoming i det hele taget. Han er dejlig som dagen er lang, så I må bare tage godt imod ham. 
-I kan se alle hans billeder her https://www.instagram.com/bobbyatieduu</description>
-      <guid isPermaLink="false">486f72d1-a285-4a26-b942-2da0b95eca43</guid>
-      <pubDate>Mon, 20 May 2024 03:11:13 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/a9dd6fdd-6ed2-4d57-a9a8-f28b0bda9c34.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:31:20</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/83adec14-61cc-4574-bc58-a66d178fdf9e_400x400.png"/>
-    </item>
-    <item>
       <title>Episode 8: Johnson</title>
       <description>Emma elsker Johnson. I voldsom grad. Næsten lidt for meget.
 Emma har blandt andet gemt en plastikkop, som Johnson engang har drukket af, da han optrådte på hendes gymnasium. Det er fandeme weird – og lidt creepy. Styr dig, Emma</description>
@@ -128,6 +117,17 @@ Redaktør: Thomas Skov</description>
       <enclosure url="https://cdn.podimo.com/audios/a3951822-ac83-4b9b-92f0-0f04a5751840.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:32:42</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/a042c346-be9f-4c19-a595-3f6928fcb8f9_400x400.png"/>
+    </item>
+    <item>
+      <title>Episode 9: Bobby Atiedu</title>
+      <description>Hvis der er en person på den her planet, der er mere akavet end Emma, er det dagens gæst, Bobby. 
+Han er podcastvært og sådan lidt upcoming i det hele taget. Han er dejlig som dagen er lang, så I må bare tage godt imod ham. 
+I kan se alle hans billeder her https://www.instagram.com/bobbyatieduu</description>
+      <guid isPermaLink="false">486f72d1-a285-4a26-b942-2da0b95eca43</guid>
+      <pubDate>Mon, 20 May 2024 03:11:13 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/a9dd6fdd-6ed2-4d57-a9a8-f28b0bda9c34.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:31:20</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/83adec14-61cc-4574-bc58-a66d178fdf9e_400x400.png"/>
     </item>
   </channel>
 </rss>
