@@ -151,12 +151,13 @@ h2.gradient-advanced {
 
 .container h2::before {
     content: '';
-    padding-right: 1.3em;
+    padding-right: 1.6em;
 }
 
 .container h2::after {
     content: '🔎️';
     opacity: var(--magnifying-glass-opacity, 0);
+    color: #f5f5f5;
 }
 
 .result img,
