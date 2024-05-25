@@ -21,7 +21,6 @@
  
 <script>
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
-const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
 const resultsContainer = document.getElementById('results');
 const h2Container = document.querySelector('.container h2');
 let isAdvanced = false;
@@ -283,27 +282,59 @@ document.getElementById('searchInput').addEventListener('input', function() {
     filterPodcasts(searchText);
 });
 
+  
+function detectOS() {
+  const userAgent = navigator.userAgent;
+  const osPatterns = [
+    { pattern: /Android/i, name: "Android" },
+    { pattern: /webOS/i, name: "webOS" },
+    { pattern: /iPhone/i, name: "iPhone" },
+    { pattern: /iPad/i, name: "iPad" },
+    { pattern: /iPod/i, name: "iPod" },
+    { pattern: /Opera Mini/i, name: "Opera Mini" },
+    { pattern: /Windows NT/i, name: "Windows" },
+    { pattern: /Mac OS X/i, name: "Mac OS" },
+    { pattern: /Linux/i, name: "Linux" }
+  ];
+
+  const os = osPatterns.find(osPattern => osPattern.pattern.test(userAgent))?.name || "ukendt";
+  return os;
+}
+
+function showToast(message) {
+    const toast = document.createElement('div');
+    toast.textContent = message;
+    toast.classList.add('toast');
+    document.body.appendChild(toast);
+    setTimeout(() => {
+        toast.remove();
+    }, 2000);
+}
+  
 function createRSSIcon(rssLink) {
+    const os = detectOS();
     const rssIcon = document.createElement('img');
     rssIcon.src = rssIconUrl;
     rssIcon.alt = 'RSS';
     rssIcon.classList.add('rss-icon');
     rssIcon.addEventListener('click', async () => {
-        if (isMobile) {
+        if (os === "Android") {
             const anchor = document.createElement('a');
             anchor.href = 'podcast://' + rssLink;
             anchor.target = '_blank'; 
             anchor.click(); 
-            await navigator.clipboard.writeText(rssLink);
         } else {
-            try {
-                await navigator.clipboard.writeText(rssLink);
-            } catch (error) {
-                console.error('Fejl', error);
+          try {
+            await navigator.clipboard.writeText(rssLink);
+            if (os !== "Android") {
+              showToast("RSS-link kopieret");
             }
+          } catch (error) {
+            console.error('Fejl:', error);
+          }
         }
     });
-    return rssIcon;
+  return rssIcon;
 }
 
 function createListItem(text, url) {
@@ -315,7 +346,6 @@ function createListItem(text, url) {
     return li;
 }
 
-  
 function getFormattedRSSUrl(podcastName) {
     const formattedPodcastName = podcastName
         .replace(/\//g, '_')
@@ -334,7 +364,6 @@ function getFormattedRSSUrl(podcastName) {
     return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${directory}/${formattedPodcastName}`;
 }
 
-  
 document.getElementById('searchInput').addEventListener('keypress', function(event) {
     if (event.key === 'Enter') {
         this.blur();
