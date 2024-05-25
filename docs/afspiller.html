@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Afspiller</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div id="podcast-info" class="podcast-info"></div>
+  </div>
+
+  <audio id="audio-player" controls preload="none" style="width: 500px; position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);">
+    Din browser understøtter ikke direkte afspilning af lydfiler
+  </audio>
+
+  <script>
+    async function loadPodcast() {
+      try {
+          const params = new URLSearchParams(window.location.search);
+          const rssUrl = params.get("rss");
+          if (!rssUrl) {
+            throw new Error("Ugyldig RSS");
+          }
+
+        const response = await fetch(rssUrl);
+        const rssText = await response.text();
+        const parser = new DOMParser();
+        const rssDoc = parser.parseFromString(rssText, "application/xml");
+        const channel = rssDoc.querySelector("channel");
+
+        const title = channel.querySelector("title").textContent;
+        const description = channel.querySelector("description").textContent;
+        const episodes = channel.querySelectorAll("item");
+
+        let podcastInfo = `<h2>${title}</h2><p>${description}</p>`;
+
+        episodes.forEach((episode) => {
+          const episodeTitle = episode.querySelector("title").textContent;
+          const episodeDescription = episode.querySelector("description").textContent;
+          const episodePubDate = new Date(episode.querySelector("pubDate").textContent).toLocaleDateString();
+          const episodeEnclosure = episode.querySelector("enclosure");
+          const episodeLink = episodeEnclosure.getAttribute("url");
+
+          podcastInfo += `
+            <div class="episode" data-url="${episodeLink}" data-title="${episodeTitle.replace(/'/g, "\\'")}">
+              <h4 class="episode-title">${episodeTitle}</h4>
+              <p class="pub-date">(${episodePubDate})</p>
+              <p>${episodeDescription}</p>
+            </div>
+          `;
+        });
+
+        document.getElementById("podcast-info").innerHTML = podcastInfo;
+      } catch (error) {
+        document.getElementById("podcast-info").innerHTML = `<p>Error loading podcast data: ${error.message}</p>`;
+        console.error("Error loading podcast data:", error);
+      }
+    }
+
+    function playEpisode(episodeUrl, episodeTitle) {
+      const audioPlayer = document.getElementById("audio-player");
+      audioPlayer.src = episodeUrl;
+      audioPlayer.style.display = "block";
+      audioPlayer.play();
+      
+      document.title = episodeTitle;
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      loadPodcast();
+
+      document.getElementById("podcast-info").addEventListener('click', function(event) {
+        const episodeElement = event.target.closest('.episode');
+        if (episodeElement) {
+          const episodeUrl = episodeElement.getAttribute('data-url');
+          const episodeTitle = episodeElement.getAttribute('data-title');
+          playEpisode(episodeUrl, episodeTitle);
+        }
+      });
+    });
+  </script>
+</body>
+</html>
