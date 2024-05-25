@@ -7,47 +7,68 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="container">
-    <div id="podcast-info" class="podcast-info"></div>
-  </div>
+<div class="container">
+  <button id="sort-button" class="sort-button">⇅</button>
+  <div id="podcast-info" class="podcast-info"></div>
+</div>
+
 
   <audio id="audio-player" controls preload="none" style="width: 500px; position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);">
     Din browser understøtter ikke direkte afspilning af lydfiler
   </audio>
 
   <script>
+    let episodesData = [];
+    let sortOrder = 'newest';
+
     async function loadPodcast() {
       try {
-          const params = new URLSearchParams(window.location.search);
+        const params = new URLSearchParams(window.location.search);
           const rssUrl = params.get("rss");
           if (!rssUrl) {
             throw new Error("Ugyldig RSS");
           }
 
         const response = await fetch(rssUrl);
+        if (!response.ok) {
+          throw new Error(`Network response was not ok: ${response.statusText}`);
+        }
+
         const rssText = await response.text();
         const parser = new DOMParser();
         const rssDoc = parser.parseFromString(rssText, "application/xml");
-        const channel = rssDoc.querySelector("channel");
 
-        const title = channel.querySelector("title").textContent;
-        const description = channel.querySelector("description").textContent;
+        if (rssDoc.querySelector("parsererror")) {
+          throw new Error("Failed to parse RSS feed. Invalid XML format.");
+        }
+
+        const channel = rssDoc.querySelector("channel");
+        if (!channel) {
+          throw new Error("Invalid RSS feed: Missing channel element.");
+        }
+
+        const title = channel.querySelector("title")?.textContent || "No title available";
+        const description = channel.querySelector("description")?.textContent || "No description available";
         const episodes = channel.querySelectorAll("item");
+
+        episodesData = Array.from(episodes).map((episode) => {
+          return {
+            title: episode.querySelector("title")?.textContent || "No title",
+            description: episode.querySelector("description")?.textContent || "No description",
+            pubDate: new Date(episode.querySelector("pubDate")?.textContent),
+            link: episode.querySelector("enclosure")?.getAttribute("url"),
+          };
+        });
 
         let podcastInfo = `<h2>${title}</h2><p>${description}</p>`;
 
-        episodes.forEach((episode) => {
-          const episodeTitle = episode.querySelector("title").textContent;
-          const episodeDescription = episode.querySelector("description").textContent;
-          const episodePubDate = new Date(episode.querySelector("pubDate").textContent).toLocaleDateString();
-          const episodeEnclosure = episode.querySelector("enclosure");
-          const episodeLink = episodeEnclosure.getAttribute("url");
-
+        episodesData.sort((a, b) => sortOrder === 'newest' ? b.pubDate - a.pubDate : a.pubDate - b.pubDate);
+        episodesData.forEach((episode) => {
           podcastInfo += `
-            <div class="episode" data-url="${episodeLink}" data-title="${episodeTitle.replace(/'/g, "\\'")}">
-              <h4 class="episode-title">${episodeTitle}</h4>
-              <p class="pub-date">(${episodePubDate})</p>
-              <p>${episodeDescription}</p>
+            <div class="episode" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
+              <h4 class="episode-title">${episode.title}</h4>
+              <p class="pub-date">(${episode.pubDate.toLocaleDateString()})</p>
+              <p>${episode.description}</p>
             </div>
           `;
         });
@@ -59,12 +80,30 @@
       }
     }
 
+    function displayEpisodes() {
+      let episodesHTML = '';
+
+      episodesData.sort((a, b) => sortOrder === 'newest' ? b.pubDate - a.pubDate : a.pubDate - b.pubDate);
+      episodesData.forEach((episode) => {
+        episodesHTML += `
+          <div class="episode" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
+            <h4 class="episode-title">${episode.title}</h4>
+            <p class="pub-date">(${episode.pubDate.toLocaleDateString()})</p>
+            <p>${episode.description}</p>
+          </div>
+        `;
+      });
+
+      document.querySelectorAll('.episode').forEach(episode => episode.remove());
+      document.getElementById("podcast-info").innerHTML += episodesHTML;
+    }
+
     function playEpisode(episodeUrl, episodeTitle) {
       const audioPlayer = document.getElementById("audio-player");
       audioPlayer.src = episodeUrl;
       audioPlayer.style.display = "block";
       audioPlayer.play();
-      
+
       document.title = episodeTitle;
     }
 
@@ -78,6 +117,11 @@
           const episodeTitle = episodeElement.getAttribute('data-title');
           playEpisode(episodeUrl, episodeTitle);
         }
+      });
+
+      document.getElementById("sort-button").addEventListener('click', () => {
+        sortOrder = sortOrder === 'newest' ? 'oldest' : 'newest';
+        displayEpisodes();
       });
     });
   </script>
