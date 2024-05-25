@@ -9,6 +9,8 @@ body {
 .container {
     margin: 40px auto;
     max-width: 500px;
+    position: relative;
+
 }
 
 .search-wrapper {
@@ -186,26 +188,6 @@ h2.gradient-advanced {
     transform: scale(1.3);
 }
 
-.modal {
-    display: none; /* Hidden by default */
-    position: fixed; /* Stay in place */
-    z-index: 9999; /* Sit on top */
-    left: 0;
-    top: 0;
-    width: 100%; /* Full width */
-    height: 100%; /* Full height */
-    overflow: auto; /* Enable scroll if needed */
-    background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
-}
-
-.modal-content {
-    background-color: #fefefe;
-    margin: 15% auto; /* 15% from the top and centered */
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%; /* Could be more or less, depending on screen size */
-}
-
 .close {
     color: #aaa;
     float: right;
@@ -274,6 +256,7 @@ h2.gradient-advanced {
     margin: 20px 0;
     padding: 20px;
     cursor: pointer;
+    position: relative;
 }
 
 .episode h4 {
@@ -328,4 +311,27 @@ h2.gradient-advanced {
     #audio-player {
         max-width: 100vw;
     }
+}
+
+.sort-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #f5f5f5;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s;
+    z-index: 1;
+    height: 28px;
+    line-height: 10px;
+}
+
+.sort-button:hover {
+    background-color: #444;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
 }
