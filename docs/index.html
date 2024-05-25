@@ -243,7 +243,7 @@ async function filterPodcasts(searchText) {
     filteredMiscPodcasts.forEach(podcast => {
         results.push({
             text: podcast.alt_text + ' (24syv)',
-            url: podcast.url,
+            url: 'https://umfzbxvz.github.io/DRSS/afspiller.html?rss=' + getFormattedRSSUrl(podcast.alt_text),
             rssLink: getFormattedRSSUrl(podcast.alt_text),
             weight: calculateWeight(podcast.alt_text, searchText)
         });
@@ -323,6 +323,7 @@ function createRSSIcon(rssLink) {
             anchor.href = 'podcast://' + rssLink;
             anchor.target = '_blank'; 
             anchor.click(); 
+            await navigator.clipboard.writeText(rssLink);
         } else {
           try {
             await navigator.clipboard.writeText(rssLink);
