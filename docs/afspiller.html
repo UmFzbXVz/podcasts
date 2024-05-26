@@ -4,31 +4,37 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Afspiller</title>
-  <link rel="stylesheet" href="style.css">
+  <link id="theme-link" rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="container">
   <div id="podcast-info" class="podcast-info"></div>
   <div id="pagination-controls" class="pagination-controls">
-    <button id="prev-page" class="pagination-button">←</button>
-    <span id="page-info" class="page-info">
-      <span id="current-page" contenteditable="true">1</span> / <span id="total-pages">1</span>
+    <button id="prev-page" class="pagination-button" aria-label="Previous Page">←</button>
+    <span id="page-info" class="page-info" role="region" aria-live="polite">
+      <span id="current-page" contenteditable="true" aria-label="Current Page">1</span> / 
+      <span id="total-pages" aria-label="Total Pages">1</span>
     </span>
-    <button id="next-page" class="pagination-button">→</button>
+    <button id="next-page" class="pagination-button" aria-label="Next Page">→</button>
   </div>
+  <div id="theme-toggle" class="theme-toggle" aria-label="Toggle Theme"></div>
 </div>
 
-<audio id="audio-player" controls preload="none" style="width: 500px; position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);">
+<audio id="audio-player" controls preload="none" style="width: 500px; position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);" aria-label="Podcast Player">
   Din browser understøtter ikke direkte afspilning af lydfiler
 </audio>
+
+<div id="loading-spinner" style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);">Loading...</div>
 
 <script>
 let currentPage = 1;
 let totalEpisodes = 0;
 const itemsPerPage = 10;
+let episodesData = [];
 
 async function loadPodcast() {
   try {
+    document.getElementById("loading-spinner").style.display = "block";
     const params = new URLSearchParams(window.location.search);
     const rssUrl = params.get("rss");
     if (!rssUrl) {
@@ -73,6 +79,8 @@ async function loadPodcast() {
   } catch (error) {
     document.getElementById("podcast-info").innerHTML = `<p>Indlæsningsfejl: ${error.message}</p>`;
     console.error("Error loading podcast data:", error);
+  } finally {
+    document.getElementById("loading-spinner").style.display = "none";
   }
 }
 
@@ -106,7 +114,6 @@ function displayEpisodes() {
   updatePaginationControls();
 }
 
-
 function attachEpisodeClickListeners() {
   document.querySelectorAll('.episode').forEach((episodeElement) => {
     episodeElement.addEventListener('click', (event) => {
@@ -133,7 +140,7 @@ function attachDescriptionToggleListeners() {
     });
   });
 }
-  
+
 function updatePaginationControls() {
   document.getElementById("current-page").textContent = currentPage;
   const totalPages = parseInt(document.getElementById("total-pages").textContent);
@@ -154,6 +161,9 @@ function playEpisode(episodeUrl, episodeTitle) {
   audioPlayer.play();
 
   document.title = episodeTitle;
+
+  document.querySelectorAll('.episode').forEach(episode => episode.classList.remove('playing'));
+  document.querySelector(`.episode[data-url='${episodeUrl}']`).classList.add('playing');
 }
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -161,23 +171,48 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.getElementById("prev-page").addEventListener('click', () => changePage(-1));
   document.getElementById("next-page").addEventListener('click', () => changePage(1));
-});
   
-document.getElementById("page-info").addEventListener('keypress', function(event) {
-  if (event.key === 'Enter') {
-    const newPage = parseInt(document.getElementById("current-page").textContent);
-    const totalPages = parseInt(document.getElementById("total-pages").textContent);
-    if (newPage >= 1 && newPage <= totalPages) {
-      currentPage = newPage;
-      document.querySelectorAll('.episode').forEach(episode => episode.remove());
-      displayEpisodes();
-    } else {
-      document.getElementById("current-page").textContent = currentPage;
+  const currentPageElement = document.getElementById("current-page");
+  currentPageElement.addEventListener('focus', (event) => {
+    setTimeout(() => {
+      document.execCommand('selectAll', false, null);
+    }, 0);
+  });
+
+  document.getElementById("page-info").addEventListener('keypress', function(event) {
+    if (event.key === 'Enter') {
+      event.preventDefault();
+      const newPage = parseInt(document.getElementById("current-page").textContent);
+      const totalPages = parseInt(document.getElementById("total-pages").textContent);
+      if (newPage >= 1 && newPage <= totalPages) {
+        currentPage = newPage;
+        document.querySelectorAll('.episode').forEach(episode => episode.remove());
+        displayEpisodes();
+      } else {
+        document.getElementById("current-page").textContent = currentPage;
+      }
+      event.target.blur();
     }
-    event.target.blur();
+  });
+
+  document.getElementById('theme-toggle').addEventListener('click', () => {
+    document.body.classList.toggle('dark-theme');
+    document.body.classList.toggle('light-theme');
+    
+    if (document.body.classList.contains('dark-theme')) {
+      localStorage.setItem('theme', 'dark');
+    } else {
+      localStorage.setItem('theme', 'light');
+    }
+  });
+
+  const savedTheme = localStorage.getItem('theme');
+  if (savedTheme) {
+    document.body.classList.add(savedTheme + '-theme');
+  } else {
+    document.body.classList.add('light-theme');
   }
 });
-
 </script>
 </body>
 </html>
