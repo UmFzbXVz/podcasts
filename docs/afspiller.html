@@ -8,122 +8,176 @@
 </head>
 <body>
 <div class="container">
-  <button id="sort-button" class="sort-button">⇅</button>
   <div id="podcast-info" class="podcast-info"></div>
+  <div id="pagination-controls" class="pagination-controls">
+    <button id="prev-page" class="pagination-button">←</button>
+    <span id="page-info" class="page-info">
+      <span id="current-page" contenteditable="true">1</span> / <span id="total-pages">1</span>
+    </span>
+    <button id="next-page" class="pagination-button">→</button>
+  </div>
 </div>
 
+<audio id="audio-player" controls preload="none" style="width: 500px; position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);">
+  Din browser understøtter ikke direkte afspilning af lydfiler
+</audio>
 
-  <audio id="audio-player" controls preload="none" style="width: 500px; position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);">
-    Din browser understøtter ikke direkte afspilning af lydfiler
-  </audio>
+<script>
+let currentPage = 1;
+let totalEpisodes = 0;
+const itemsPerPage = 10;
 
-  <script>
-    let episodesData = [];
-    let sortOrder = 'newest';
-
-    async function loadPodcast() {
-      try {
-        const params = new URLSearchParams(window.location.search);
-          const rssUrl = params.get("rss");
-          if (!rssUrl) {
-            throw new Error("Ugyldig RSS");
-          }
-
-        const response = await fetch(rssUrl);
-        if (!response.ok) {
-          throw new Error(`Network response was not ok: ${response.statusText}`);
-        }
-
-        const rssText = await response.text();
-        const parser = new DOMParser();
-        const rssDoc = parser.parseFromString(rssText, "application/xml");
-
-        if (rssDoc.querySelector("parsererror")) {
-          throw new Error("Failed to parse RSS feed. Invalid XML format.");
-        }
-
-        const channel = rssDoc.querySelector("channel");
-        if (!channel) {
-          throw new Error("Invalid RSS feed: Missing channel element.");
-        }
-
-        const title = channel.querySelector("title")?.textContent || "No title available";
-        const description = channel.querySelector("description")?.textContent || "No description available";
-        const episodes = channel.querySelectorAll("item");
-
-        episodesData = Array.from(episodes).map((episode) => {
-          return {
-            title: episode.querySelector("title")?.textContent || "No title",
-            description: episode.querySelector("description")?.textContent || "No description",
-            pubDate: new Date(episode.querySelector("pubDate")?.textContent),
-            link: episode.querySelector("enclosure")?.getAttribute("url"),
-          };
-        });
-
-        let podcastInfo = `<h2>${title}</h2><p>${description}</p>`;
-
-        episodesData.sort((a, b) => sortOrder === 'newest' ? b.pubDate - a.pubDate : a.pubDate - b.pubDate);
-        episodesData.forEach((episode) => {
-          podcastInfo += `
-            <div class="episode" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
-              <h4 class="episode-title">${episode.title}</h4>
-              <p class="pub-date">(${episode.pubDate.toLocaleDateString()})</p>
-              <p>${episode.description}</p>
-            </div>
-          `;
-        });
-
-        document.getElementById("podcast-info").innerHTML = podcastInfo;
-      } catch (error) {
-        document.getElementById("podcast-info").innerHTML = `<p>Error loading podcast data: ${error.message}</p>`;
-        console.error("Error loading podcast data:", error);
-      }
+async function loadPodcast() {
+  try {
+    const params = new URLSearchParams(window.location.search);
+    const rssUrl = params.get("rss");
+    if (!rssUrl) {
+        throw new Error("Ugyldig RSS");
     }
 
-    function displayEpisodes() {
-      let episodesHTML = '';
-
-      episodesData.sort((a, b) => sortOrder === 'newest' ? b.pubDate - a.pubDate : a.pubDate - b.pubDate);
-      episodesData.forEach((episode) => {
-        episodesHTML += `
-          <div class="episode" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
-            <h4 class="episode-title">${episode.title}</h4>
-            <p class="pub-date">(${episode.pubDate.toLocaleDateString()})</p>
-            <p>${episode.description}</p>
-          </div>
-        `;
-      });
-
-      document.querySelectorAll('.episode').forEach(episode => episode.remove());
-      document.getElementById("podcast-info").innerHTML += episodesHTML;
+    const response = await fetch(rssUrl);
+    if (!response.ok) {
+      throw new Error(`Netværksfejl: ${response.statusText}`);
     }
 
-    function playEpisode(episodeUrl, episodeTitle) {
-      const audioPlayer = document.getElementById("audio-player");
-      audioPlayer.src = episodeUrl;
-      audioPlayer.style.display = "block";
-      audioPlayer.play();
+    const rssText = await response.text();
+    const parser = new DOMParser();
+    const rssDoc = parser.parseFromString(rssText, "application/xml");
 
-      document.title = episodeTitle;
+    if (rssDoc.querySelector("parsererror")) {
+      throw new Error("Ugyldigt XML-format");
     }
 
-    document.addEventListener("DOMContentLoaded", () => {
-      loadPodcast();
+    const channel = rssDoc.querySelector("channel");
+    if (!channel) {
+      throw new Error("Ugyldig RSS: Mangler hovedkanal i feed");
+    }
 
-      document.getElementById("podcast-info").addEventListener('click', function(event) {
-        const episodeElement = event.target.closest('.episode');
-        if (episodeElement) {
-          const episodeUrl = episodeElement.getAttribute('data-url');
-          const episodeTitle = episodeElement.getAttribute('data-title');
-          playEpisode(episodeUrl, episodeTitle);
-        }
-      });
+    const title = channel.querySelector("title")?.textContent || "(ingen titel)";
+    const description = channel.querySelector("description")?.textContent || "(ingen beskrivelse)";
+    const episodes = channel.querySelectorAll("item");
 
-      document.getElementById("sort-button").addEventListener('click', () => {
-        sortOrder = sortOrder === 'newest' ? 'oldest' : 'newest';
-        displayEpisodes();
-      });
+    totalEpisodes = episodes.length;
+
+    episodesData = Array.from(episodes).map((episode) => {
+      return {
+        title: episode.querySelector("title")?.textContent || "(ingen titel)",
+        description: episode.querySelector("description")?.textContent || "(ingen beskrivelse)",
+        pubDate: new Date(episode.querySelector("pubDate")?.textContent),
+        link: episode.querySelector("enclosure")?.getAttribute("url"),
+      };
     });
-  </script>
+
+    document.getElementById("podcast-info").innerHTML = `<h2>${title}</h2><p>${description}</p>`;
+    displayEpisodes();
+  } catch (error) {
+    document.getElementById("podcast-info").innerHTML = `<p>Indlæsningsfejl: ${error.message}</p>`;
+    console.error("Error loading podcast data:", error);
+  }
+}
+
+function displayEpisodes() {
+  const startIndex = (currentPage - 1) * itemsPerPage;
+  const endIndex = startIndex + itemsPerPage;
+  const totalPages = Math.ceil(totalEpisodes / itemsPerPage);
+  document.getElementById("total-pages").textContent = totalPages;
+
+  episodesData.sort((a, b) => {
+    return new Date(a.pubDate) - new Date(b.pubDate);
+  });
+
+  const episodesToShow = episodesData.slice(startIndex, endIndex);
+
+  let episodesHTML = '';
+
+  episodesToShow.forEach((episode) => {
+    episodesHTML += `
+      <div class="episode" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
+        <h4 class="episode-title">${episode.title}</h4>
+        <p class="pub-date">${episode.pubDate.toLocaleDateString()}</p>
+        <p class="episode-description">${episode.description}</p>
+      </div>
+    `;
+  });
+
+  document.getElementById("podcast-info").innerHTML += episodesHTML;
+  attachEpisodeClickListeners();
+  attachDescriptionToggleListeners();
+  updatePaginationControls();
+}
+
+
+function attachEpisodeClickListeners() {
+  document.querySelectorAll('.episode').forEach((episodeElement) => {
+    episodeElement.addEventListener('click', (event) => {
+      if (!event.target.classList.contains('episode-description')) {
+        const episodeUrl = episodeElement.getAttribute('data-url');
+        const episodeTitle = episodeElement.getAttribute('data-title');
+        playEpisode(episodeUrl, episodeTitle);
+      }
+    });
+  });
+}
+
+function attachDescriptionToggleListeners() {
+  document.querySelectorAll('.episode-description').forEach((description) => {
+    description.addEventListener('click', (event) => {
+      event.stopPropagation();
+      if (description.style.maxHeight) {
+        description.style.maxHeight = null;
+        description.classList.remove('expanded');
+      } else {
+        description.style.maxHeight = description.scrollHeight + "px";
+        description.classList.add('expanded');
+      }
+    });
+  });
+}
+  
+function updatePaginationControls() {
+  document.getElementById("current-page").textContent = currentPage;
+  const totalPages = parseInt(document.getElementById("total-pages").textContent);
+  document.getElementById("prev-page").disabled = currentPage === 1;
+  document.getElementById("next-page").disabled = currentPage === totalPages;
+}
+
+function changePage(increment) {
+  currentPage += increment;
+  document.querySelectorAll('.episode').forEach(episode => episode.remove());
+  displayEpisodes();
+}
+
+function playEpisode(episodeUrl, episodeTitle) {
+  const audioPlayer = document.getElementById("audio-player");
+  audioPlayer.src = episodeUrl;
+  audioPlayer.style.display = "block";
+  audioPlayer.play();
+
+  document.title = episodeTitle;
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  loadPodcast();
+
+  document.getElementById("prev-page").addEventListener('click', () => changePage(-1));
+  document.getElementById("next-page").addEventListener('click', () => changePage(1));
+});
+  
+document.getElementById("page-info").addEventListener('keypress', function(event) {
+  if (event.key === 'Enter') {
+    const newPage = parseInt(document.getElementById("current-page").textContent);
+    const totalPages = parseInt(document.getElementById("total-pages").textContent);
+    if (newPage >= 1 && newPage <= totalPages) {
+      currentPage = newPage;
+      document.querySelectorAll('.episode').forEach(episode => episode.remove());
+      displayEpisodes();
+    } else {
+      document.getElementById("current-page").textContent = currentPage;
+    }
+    event.target.blur();
+  }
+});
+
+</script>
 </body>
 </html>
