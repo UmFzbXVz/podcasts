@@ -243,7 +243,7 @@ async function filterPodcasts(searchText) {
     filteredMiscPodcasts.forEach(podcast => {
         results.push({
             text: podcast.alt_text + ' (24syv)',
-            url: 'https://umfzbxvz.github.io/DRSS/afspiller.html?rss=' + encodeURIComponent(getFormattedRSSUrl(podcast.alt_text)),
+            url: 'https://umfzbxvz.github.io/podcasts/afspiller.html?rss=' + encodeURIComponent(getFormattedRSSUrl(podcast.alt_text)),
             rssLink: getFormattedRSSUrl(podcast.alt_text),
             weight: calculateWeight(podcast.alt_text, searchText)
         });
