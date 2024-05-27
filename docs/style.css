@@ -496,11 +496,3 @@ body.light-theme .page-info {
   align-items: center;
   font-size: 24px;
 }
-
-.light-theme .theme-toggle::before {
-  content: "🌙";
-}
-
-.dark-theme .theme-toggle::before {
-  content: "☀️";
-}
