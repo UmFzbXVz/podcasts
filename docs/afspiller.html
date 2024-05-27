@@ -200,10 +200,10 @@ document.addEventListener("DOMContentLoaded", () => {
   const savedTheme = localStorage.getItem('theme');
   if (savedTheme) {
     document.body.classList.add(savedTheme + '-theme');
-    themeToggle.textContent = savedTheme === 'dark' ? '☀️' : '🌙';
+    themeToggle.textContent = savedTheme === 'dark' ? '☀' : '☽';
   } else {
     document.body.classList.add('light-theme');
-    themeToggle.textContent = '🌙';
+    themeToggle.textContent = '☽';
   }
 
   themeToggle.addEventListener('click', () => {
@@ -212,10 +212,10 @@ document.addEventListener("DOMContentLoaded", () => {
     
     if (document.body.classList.contains('dark-theme')) {
       localStorage.setItem('theme', 'dark');
-      themeToggle.textContent = '☀️';
+      themeToggle.textContent = '☀';
     } else {
       localStorage.setItem('theme', 'light');
-      themeToggle.textContent = '🌙';
+      themeToggle.textContent = '☽';
     }
   });
 });
