@@ -154,6 +154,30 @@ function changePage(increment) {
   displayEpisodes();
 }
 
+function playNextEpisode() {
+  const playingEpisode = document.querySelector('.episode.playing');
+  const episodes = Array.from(document.querySelectorAll('.episode'));
+  const currentIndex = episodes.indexOf(playingEpisode);
+
+  if (currentIndex < episodes.length - 1) {
+    const nextEpisode = episodes[currentIndex + 1];
+    const episodeUrl = nextEpisode.getAttribute('data-url');
+    const episodeTitle = nextEpisode.getAttribute('data-title');
+    playEpisode(episodeUrl, episodeTitle);
+  } else {
+    const totalPages = parseInt(document.getElementById("total-pages").textContent);
+    if (currentPage < totalPages) {
+      changePage(1);
+      setTimeout(() => {
+        const firstEpisode = document.querySelector('.episode');
+        const episodeUrl = firstEpisode.getAttribute('data-url');
+        const episodeTitle = firstEpisode.getAttribute('data-title');
+        playEpisode(episodeUrl, episodeTitle);
+      }, 100);
+    }
+  }
+}
+
 function playEpisode(episodeUrl, episodeTitle) {
   const audioPlayer = document.getElementById("audio-player");
   audioPlayer.src = episodeUrl;
@@ -165,6 +189,8 @@ function playEpisode(episodeUrl, episodeTitle) {
   document.querySelectorAll('.episode').forEach(episode => episode.classList.remove('playing'));
   document.querySelector(`.episode[data-url='${episodeUrl}']`).classList.add('playing');
 }
+
+
 
 document.addEventListener("DOMContentLoaded", () => {
   loadPodcast();
@@ -218,6 +244,9 @@ document.addEventListener("DOMContentLoaded", () => {
       themeToggle.textContent = '☽';
     }
   });
+
+  const audioPlayer = document.getElementById("audio-player");
+  audioPlayer.addEventListener('ended', playNextEpisode);
 });
 
 </script>
