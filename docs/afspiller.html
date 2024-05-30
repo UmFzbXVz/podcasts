@@ -173,6 +173,7 @@ function playNextEpisode() {
         const episodeUrl = firstEpisode.getAttribute('data-url');
         const episodeTitle = firstEpisode.getAttribute('data-title');
         playEpisode(episodeUrl, episodeTitle);
+        window.scrollTo({ top: 0, behavior: 'smooth' })
       }, 100);
     }
   }
