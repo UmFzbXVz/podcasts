@@ -496,3 +496,29 @@ body.light-theme .page-info {
   align-items: center;
   font-size: 24px;
 }
+
+.toggle-fully-listened {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  transform: translateY(-50%);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  background: transparent;
+  border: 0;
+  color: white;
+}
+
+.toggle-fully-listened-white {
+  color: white;
+}
+
+.toggle-fully-listened-black {
+  color: black;
+}
