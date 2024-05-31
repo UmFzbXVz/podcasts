@@ -497,6 +497,12 @@ body.light-theme .page-info {
   font-size: 24px;
 }
 
+.theme-toggle img {
+  width: 50%;
+  height: 50%;
+  object-fit: contain;
+}
+
 .toggle-fully-listened {
   position: absolute;
   left: 10px;
@@ -515,10 +521,8 @@ body.light-theme .page-info {
   color: white;
 }
 
-.toggle-fully-listened-white {
-  color: white;
-}
-
-.toggle-fully-listened-black {
-  color: black;
+.toggle-fully-listened img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
