@@ -18,7 +18,9 @@
     <button id="next-page" class="pagination-button" aria-label="Next Page">→</button>
   </div>
   <div id="theme-toggle" class="theme-toggle" aria-label="Toggle Theme"></div>
-  <button id="toggle-fully-listened" class="toggle-fully-listened" aria-label="Toggle Fully Listened Episodes">👁</button>
+  <button id="toggle-fully-listened" class="toggle-fully-listened" aria-label="Toggle Fully Listened Episodes">
+  <img src="eyeOpen" alt="Eye Open Icon">
+</button>
 </div>
 
 <audio id="audio-player" controls preload="none" style="width: 500px; position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);" aria-label="Podcast Player">
@@ -28,6 +30,7 @@
 <div id="loading-spinner" style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);">Indlæser...</div>
 
 <script>
+let lastTimeUpdate = 0;
 let currentPage = 1;
 let totalEpisodes = 0;
 const itemsPerPage = 10;
@@ -36,33 +39,26 @@ let filterEpisodes = false;
 let podTitle = '';
 let podDesc = '';
 let isPlaying = false;
+let isChangingEpisode = false;
+const eyeOpen = 'https://static.thenounproject.com/png/1879532-200.png';
+const eyeClosed = 'https://cdn2.iconfinder.com/data/icons/eye-symbol/64/eye-09-64.png';
+const sun = 'https://icon-library.com/images/sun-icon-vector/sun-icon-vector-25.jpg';
+const moon = 'https://static.thenounproject.com/png/936949-200.png';
+
 
 async function loadPodcast() {
   try {
     document.getElementById("loading-spinner").style.display = "block";
-    const params = new URLSearchParams(window.location.search);
-    const rssUrl = params.get("rss");
-    if (!rssUrl) {
-        throw new Error("Ugyldig RSS");
-    }
-
+    const rssUrl = new URLSearchParams(window.location.search).get("rss");
+    if (!rssUrl) throw new Error("Ugyldig RSS");
     const response = await fetch(rssUrl);
-    if (!response.ok) {
-      throw new Error(`Netværksfejl: ${response.statusText}`);
-    }
-
+    if (!response.ok) throw new Error(`Netværksfejl: ${response.statusText}`);
     const rssText = await response.text();
     const parser = new DOMParser();
     const rssDoc = parser.parseFromString(rssText, "application/xml");
-
-    if (rssDoc.querySelector("parsererror")) {
-      throw new Error("Ugyldigt XML-format");
-    }
-
+    if (rssDoc.querySelector("parsererror")) throw new Error("Ugyldigt XML-format");
     const channel = rssDoc.querySelector("channel");
-    if (!channel) {
-      throw new Error("Ugyldig RSS: Mangler hovedkanal i feed");
-    }
+    if (!channel) throw new Error("Ugyldig RSS: Mangler hovedkanal i feed");
 
     const title = channel.querySelector("title")?.textContent || "(ingen titel)";
     podTitle = title;
@@ -81,6 +77,7 @@ async function loadPodcast() {
       };
     });
 
+    
     document.getElementById("podcast-info").innerHTML = `<h2>${title}</h2><p>${description}</p>`;
     displayEpisodes();
   } catch (error) {
@@ -93,8 +90,8 @@ async function loadPodcast() {
 
 function toggleEpisodeFilter() {
   filterEpisodes = !filterEpisodes;
-  const toggleButton = document.getElementById("toggle-fully-listened");
-  toggleButton.textContent = filterEpisodes ? "🔎︎" : "👁";
+  toggleButton = document.getElementById("toggle-fully-listened");
+  toggleButton.innerHTML = filterEpisodes ? "<img src='" + eyeClosed + "' alt='Eye Closed Icon'>" : "<img src='" + eyeOpen + "' alt='Eye Open Icon'>";
   toggleButton.classList.toggle("toggle-fully-listened-filtered");
   displayEpisodes();
 }
@@ -119,9 +116,12 @@ function displayEpisodes() {
   }
   let episodesHTML = '';
 
+  const currentlyPlaying = localStorage.getItem('currentlyPlaying');
+
   episodesToShow.forEach((episode) => {
+    const playingClass = episode.link === currentlyPlaying ? 'playing' : '';
     episodesHTML += `
-      <div class="episode" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
+      <div class="episode ${playingClass}" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
         <h4 class="episode-title">${episode.title}</h4>
         <p class="pub-date">${episode.pubDate.toLocaleDateString()}</p>
         <p class="episode-description">${episode.description}</p>
@@ -211,6 +211,9 @@ function getPlaybackProgress(episodeUrl) {
 }
 
 function playEpisode(episodeUrl, episodeTitle) {
+  if (isChangingEpisode) return;
+  isChangingEpisode = true;
+
   const audioPlayer = document.getElementById("audio-player");
 
   if (audioPlayer.src) {
@@ -225,17 +228,24 @@ function playEpisode(episodeUrl, episodeTitle) {
   audioPlayer.src = episodeUrl;
   audioPlayer.currentTime = savedTime;
   audioPlayer.style.display = "block";
-  isPlaying = true;
-  audioPlayer.play();
+  
+  localStorage.setItem('currentlyPlaying', episodeUrl);
 
-  document.title = episodeTitle;
+  audioPlayer.play().then(() => {
+    isPlaying = true;
+    document.title = episodeTitle;
 
-  document.querySelectorAll('.episode').forEach(episode => episode.classList.remove('playing'));
-  document.querySelector(`.episode[data-url='${episodeUrl}']`).classList.add('playing');
+    document.querySelectorAll('.episode').forEach(episode => episode.classList.remove('playing'));
+    document.querySelector(`.episode[data-url='${episodeUrl}']`).classList.add('playing');
 
-  audioPlayer.addEventListener('timeupdate', handleTimeUpdate);
-  audioPlayer.addEventListener('pause', handlePause);
-  audioPlayer.addEventListener('ended', handleEnded);
+    audioPlayer.addEventListener('timeupdate', handleTimeUpdate);
+    audioPlayer.addEventListener('pause', handlePause);
+    audioPlayer.addEventListener('ended', handleEnded);
+  }).catch(error => {
+    console.error("Error playing episode:", error);
+  }).finally(() => {
+    isChangingEpisode = false;
+  });
 }
 
 
@@ -256,25 +266,48 @@ function handleTimeUpdate() {
 
 
 function handlePause() {
+  if (isChangingEpisode) return;
+
   const audioPlayer = document.getElementById("audio-player");
   const episodeUrl = audioPlayer.src;
   savePlaybackProgress(episodeUrl, audioPlayer.currentTime);
   isPlaying = false;
 }
 
+
 function handleEnded() {
+  if (isChangingEpisode) return;
   const audioPlayer = document.getElementById("audio-player");
   const episodeUrl = audioPlayer.src;
   
   if (isEpisodeFullyListened(episodeUrl)) {
-    console.log(`Episode fully listened: ${episodeUrl}`);
     markEpisodeAsFinished(episodeUrl);
   }
   
-  displayEpisodes();
-  playNextEpisode();
+  const episodes = document.querySelectorAll('.episode');
+  const currentIndex = Array.from(episodes).findIndex(episode => episode.classList.contains('playing'));
+  
+  if (currentIndex === episodes.length - 1) {
+    const totalPages = parseInt(document.getElementById("total-pages").textContent);
+    if (currentPage < totalPages) {
+      currentPage++;
+      document.querySelectorAll('.episode').forEach(episode => episode.remove());
+      displayEpisodes();
+      setTimeout(() => {
+        const firstEpisode = document.querySelector('.episode');
+        const episodeUrl = firstEpisode.getAttribute('data-url');
+        const episodeTitle = firstEpisode.getAttribute('data-title');
+        playEpisode(episodeUrl, episodeTitle);
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }, 100);
+    }
+  } else {
+    playNextEpisode();
+  }
+  
   isPlaying = false;
 }
+
 
 
 function isEpisodeFullyListened(episodeUrl) {
@@ -298,6 +331,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.getElementById("prev-page").addEventListener('click', () => changePage(-1));
   document.getElementById("next-page").addEventListener('click', () => changePage(1));
+  const toggleButton = document.getElementById("toggle-fully-listened");
+toggleButton.innerHTML = localStorage.getItem("filterEpisodes") === "true" ? `<img src="${eyeClosed}" alt="Eye Closed Icon">` : `<img src="${eyeOpen}" alt="Eye Open Icon">`;
+toggleButton.classList.toggle("toggle-fully-listened-filtered", localStorage.getItem("filterEpisodes") === "true");
 
   const currentPageElement = document.getElementById("current-page");
   currentPageElement.addEventListener('focus', (event) => {
@@ -322,31 +358,20 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  const themeToggle = document.getElementById('theme-toggle');
+const themeToggle = document.getElementById('theme-toggle');
+const savedTheme = localStorage.getItem('theme') || 'light';
 
-  const savedTheme = localStorage.getItem('theme');
-  if (savedTheme) {
-    document.body.classList.add(savedTheme + '-theme');
-    themeToggle.textContent = savedTheme === 'dark' ? '☀' : '☽';
-  } else {
-    document.body.classList.add('light-theme');
-    themeToggle.textContent = '☽';
-  }
+document.body.classList.add(savedTheme + '-theme');
+themeToggle.innerHTML = savedTheme === 'dark' ? `<img src="${sun}" alt="Sun Icon">` : `<img src="${moon}" alt="Moon Icon">`;
 
-  themeToggle.addEventListener('click', () => {
-    document.body.classList.toggle('dark-theme');
-    document.body.classList.toggle('light-theme');
-    document.getElementById("toggle-fully-listened").classList.toggle("toggle-fully-listened-white");
-    document.getElementById("toggle-fully-listened").classList.toggle("toggle-fully-listened-black");
-
-    if (document.body.classList.contains('dark-theme')) {
-      localStorage.setItem('theme', 'dark');
-      themeToggle.textContent = '☀';
-    } else {
-      localStorage.setItem('theme', 'light');
-      themeToggle.textContent = '☽';
-    }
-  });
+themeToggle.addEventListener('click', () => {
+  const newTheme = document.body.classList.contains('dark-theme') ? 'light' : 'dark';
+  document.body.classList.remove('dark-theme', 'light-theme');
+  document.body.classList.add(`${newTheme}-theme`);
+  
+  localStorage.setItem('theme', newTheme);
+  themeToggle.innerHTML = newTheme === 'dark' ? `<img src="${sun}" alt="Sun Icon">` : `<img src="${moon}" alt="Moon Icon">`;
+});
 
   const audioPlayer = document.getElementById("audio-player");
 
