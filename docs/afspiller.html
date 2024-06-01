@@ -296,11 +296,18 @@ function handleEnded() {
   if (isChangingEpisode) return;
   const audioPlayer = document.getElementById("audio-player");
   const episodeUrl = audioPlayer.src;
-
+  
   markEpisodeAsFinished(episodeUrl);
-
+  
   playNextEpisode();
+  
+  const nextEpisode = document.querySelector('.episode.playing');
+  if (nextEpisode) {
+    const spinner = nextEpisode.querySelector('.loading-spinner');
+    spinner.style.display = "block";
+  }
 }
+
 
 function isEpisodeFullyListened(episodeUrl) {
   const savedTime = getPlaybackProgress(episodeUrl);
