@@ -90,6 +90,7 @@ async function loadPodcast() {
 
 function toggleEpisodeFilter() {
   filterEpisodes = !filterEpisodes;
+  localStorage.setItem("filterEpisodes", filterEpisodes);
   toggleButton = document.getElementById("toggle-fully-listened");
   toggleButton.innerHTML = filterEpisodes ? "<img src='" + eyeClosed + "' alt='Eye Closed Icon'>" : "<img src='" + eyeOpen + "' alt='Eye Open Icon'>";
   toggleButton.classList.toggle("toggle-fully-listened-filtered");
@@ -99,35 +100,45 @@ function toggleEpisodeFilter() {
 function displayEpisodes() {
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
-  const totalPages = Math.ceil(totalEpisodes / itemsPerPage);
-  document.getElementById("total-pages").textContent = totalPages;
+  const finishedEpisodesStr = localStorage.getItem("finishedEpisodes");
+  let totalPages = Math.ceil(totalEpisodes / itemsPerPage);
+  const finishedEpisodes = finishedEpisodesStr ? JSON.parse(finishedEpisodesStr) : [];
   document.getElementById("podcast-info").innerHTML = `<h2>${podTitle}</h2><p>${podDesc}</p>`;
 
   episodesData.sort((a, b) => {
     return new Date(a.pubDate) - new Date(b.pubDate);
   });
 
-  const finishedEpisodesStr = localStorage.getItem("finishedEpisodes");
-  const finishedEpisodes = finishedEpisodesStr ? JSON.parse(finishedEpisodesStr) : [];
-
-  let episodesToShow = episodesData.slice(startIndex, endIndex);
+  let filteredEpisodesData = episodesData;
   if (filterEpisodes) {
-    episodesToShow = episodesData.filter(episode => !finishedEpisodes.includes(episode.link)).slice(startIndex, endIndex);
+    filteredEpisodesData = episodesData.filter(episode => !finishedEpisodes.includes(episode.link));
+    totalPages = Math.ceil(filteredEpisodesData.length / itemsPerPage);
   }
+  
+  let episodesToShow = filteredEpisodesData.slice(startIndex, endIndex);
+  
+  document.getElementById("total-pages").textContent = totalPages;
+  if (episodesToShow.length === 0 && currentPage > 1) {
+    currentPage--;
+    changePage(0);
+    return;
+  }
+  updatePaginationControls();
   let episodesHTML = '';
 
   const currentlyPlaying = localStorage.getItem('currentlyPlaying');
 
-  episodesToShow.forEach((episode) => {
+episodesToShow.forEach((episode) => {
     const playingClass = episode.link === currentlyPlaying ? 'playing' : '';
     episodesHTML += `
       <div class="episode ${playingClass}" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
+        <div class="loading-spinner" style="display: none;"></div>
         <h4 class="episode-title">${episode.title}</h4>
         <p class="pub-date">${episode.pubDate.toLocaleDateString()}</p>
         <p class="episode-description">${episode.description}</p>
       </div>
     `;
-  });
+});
 
   document.getElementById("podcast-info").innerHTML += episodesHTML;
   attachEpisodeClickListeners();
@@ -141,6 +152,8 @@ function attachEpisodeClickListeners() {
       if (!event.target.classList.contains('episode-description')) {
         const episodeUrl = episodeElement.getAttribute('data-url');
         const episodeTitle = episodeElement.getAttribute('data-title');
+        const spinner = episodeElement.querySelector('.loading-spinner');
+        spinner.style.display = "block";
         playEpisode(episodeUrl, episodeTitle);
       }
     });
@@ -193,13 +206,16 @@ function playNextEpisode() {
       changePage(1);
       setTimeout(() => {
         const firstEpisode = document.querySelector('.episode');
-        const episodeUrl = firstEpisode.getAttribute('data-url');
-        const episodeTitle = firstEpisode.getAttribute('data-title');
-        playEpisode(episodeUrl, episodeTitle);
+        if (firstEpisode) {
+          const episodeUrl = firstEpisode.getAttribute('data-url');
+          const episodeTitle = firstEpisode.getAttribute('data-title');
+          playEpisode(episodeUrl, episodeTitle);
+        }
         window.scrollTo({ top: 0, behavior: 'smooth' });
       }, 100);
     }
   }
+  displayEpisodes();
 }
 
 function savePlaybackProgress(episodeUrl, currentTime) {
@@ -241,13 +257,15 @@ function playEpisode(episodeUrl, episodeTitle) {
     audioPlayer.addEventListener('timeupdate', handleTimeUpdate);
     audioPlayer.addEventListener('pause', handlePause);
     audioPlayer.addEventListener('ended', handleEnded);
+    
+    const spinner = document.querySelector(`.episode[data-url='${episodeUrl}'] .loading-spinner`);
+    spinner.style.display = "none";
   }).catch(error => {
     console.error("Error playing episode:", error);
   }).finally(() => {
     isChangingEpisode = false;
   });
 }
-
 
 function handleTimeUpdate() {
   const audioPlayer = document.getElementById("audio-player");
@@ -264,7 +282,6 @@ function handleTimeUpdate() {
   }
 }
 
-
 function handlePause() {
   if (isChangingEpisode) return;
 
@@ -279,36 +296,11 @@ function handleEnded() {
   if (isChangingEpisode) return;
   const audioPlayer = document.getElementById("audio-player");
   const episodeUrl = audioPlayer.src;
-  
-  if (isEpisodeFullyListened(episodeUrl)) {
-    markEpisodeAsFinished(episodeUrl);
-  }
-  
-  const episodes = document.querySelectorAll('.episode');
-  const currentIndex = Array.from(episodes).findIndex(episode => episode.classList.contains('playing'));
-  
-  if (currentIndex === episodes.length - 1) {
-    const totalPages = parseInt(document.getElementById("total-pages").textContent);
-    if (currentPage < totalPages) {
-      currentPage++;
-      document.querySelectorAll('.episode').forEach(episode => episode.remove());
-      displayEpisodes();
-      setTimeout(() => {
-        const firstEpisode = document.querySelector('.episode');
-        const episodeUrl = firstEpisode.getAttribute('data-url');
-        const episodeTitle = firstEpisode.getAttribute('data-title');
-        playEpisode(episodeUrl, episodeTitle);
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      }, 100);
-    }
-  } else {
-    playNextEpisode();
-  }
-  
-  isPlaying = false;
+
+  markEpisodeAsFinished(episodeUrl);
+
+  playNextEpisode();
 }
-
-
 
 function isEpisodeFullyListened(episodeUrl) {
   const savedTime = getPlaybackProgress(episodeUrl);
@@ -316,21 +308,28 @@ function isEpisodeFullyListened(episodeUrl) {
   return savedTime >= audioPlayer.duration;
 }
 
-function markEpisodeAsFinished(episodeUrl) {
-  const finishedEpisodesStr = localStorage.getItem("finishedEpisodes");
+function markEpisodeAsFinished(url) {
+  let finishedEpisodesStr = localStorage.getItem("finishedEpisodes");
   let finishedEpisodes = finishedEpisodesStr ? JSON.parse(finishedEpisodesStr) : [];
-
-  if (!finishedEpisodes.includes(episodeUrl)) {
-    finishedEpisodes.push(episodeUrl);
+  if (!finishedEpisodes.includes(url)) {
+    finishedEpisodes.push(url);
     localStorage.setItem("finishedEpisodes", JSON.stringify(finishedEpisodes));
   }
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+  filterEpisodes = localStorage.getItem("filterEpisodes") === "true";
   loadPodcast();
 
-  document.getElementById("prev-page").addEventListener('click', () => changePage(-1));
-  document.getElementById("next-page").addEventListener('click', () => changePage(1));
+  document.getElementById("prev-page").addEventListener('click', () => {
+    changePage(-1);
+    window.scrollTo({ top: document.body.scrollHeight});
+  });
+  document.getElementById("next-page").addEventListener('click', () => {
+    changePage(1);
+    window.scrollTo({ top: document.body.scrollHeight});
+  });
+  
   const toggleButton = document.getElementById("toggle-fully-listened");
 toggleButton.innerHTML = localStorage.getItem("filterEpisodes") === "true" ? `<img src="${eyeClosed}" alt="Eye Closed Icon">` : `<img src="${eyeOpen}" alt="Eye Open Icon">`;
 toggleButton.classList.toggle("toggle-fully-listened-filtered", localStorage.getItem("filterEpisodes") === "true");
@@ -371,6 +370,9 @@ themeToggle.addEventListener('click', () => {
   
   localStorage.setItem('theme', newTheme);
   themeToggle.innerHTML = newTheme === 'dark' ? `<img src="${sun}" alt="Sun Icon">` : `<img src="${moon}" alt="Moon Icon">`;
+  const spinner = document.getElementById('loading-spinner');
+  spinner.classList.toggle('dark-theme', newTheme === 'dark');
+  spinner.classList.toggle('light-theme', newTheme === 'light');
 });
 
   const audioPlayer = document.getElementById("audio-player");
