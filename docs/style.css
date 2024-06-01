@@ -326,16 +326,6 @@ h2.gradient-advanced {
 }
 
 #audio-player {
-    width: 500px;
-    position: fixed;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    display: none;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-#audio-player {
     width: 100%;
     max-width: 500px;
     min-width: 250px;
@@ -525,4 +515,30 @@ body.light-theme .page-info {
   width: 100%;
   height: 100%;
   object-fit: contain;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loading-spinner {
+  border: 4px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top: 4px solid #ffffff;
+  width: 20px;
+  height: 20px;
+  animation: spin 1s linear infinite;
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  transform: translate(-50%, -50%);
+}
+
+.dark-theme .loading-spinner {
+  border-top-color: #f5f5f5;
+}
+
+.light-theme .loading-spinner {
+  border-top-color: darkgray;
 }
