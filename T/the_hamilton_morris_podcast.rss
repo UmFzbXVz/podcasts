@@ -1116,14 +1116,21 @@ NOTE 2: Synthesis notes are incoming</description>
     <pubDate>Sat, 18 May 2024 07:46:19 +0000</pubDate>
     <itunes:duration>01:41:31</itunes:duration>
 </item>
-
-      <item>
-         <guid isPermaLink="false">104553131</guid>
-         <title>#104: Paying the price for a free chemistry education</title>
-         <description>A clandestine chemistry interview unlike any other I've done, this is the story of a man whose chemistry education was paid for by an organized crime ring. After learning the necessary skills, he was tasked with synthesizing increasingly large quantities of MDA under ever-rising pressure until the entire operation exploded.</description>
-         <pubDate>Sun, 19 May 2024 07:46:19 +0000</pubDate>
-         <enclosure url="https://c5.kemono.su/data/e0/62/e062f3af97f5b52ffc6b26a285e5c6974a6821842c11d80144ce4a5959ff3b9e.mp3?f=MDA%20chemist%20KL%20final%20for%20patreon.mp3" length="0" type="audio/mpeg" />
-         <itunes:duration>02:49:54</itunes:duration>
-      </item>
-   </channel>
+<item>
+   <guid isPermaLink="false">104553131</guid>
+   <title>#104: Paying the price for a free chemistry education</title>
+   <description>A clandestine chemistry interview unlike any other I've done, this is the story of a man whose chemistry education was paid for by an organized crime ring. After learning the necessary skills, he was tasked with synthesizing increasingly large quantities of MDA under ever-rising pressure until the entire operation exploded.</description>
+   <pubDate>Sun, 19 May 2024 07:46:19 +0000</pubDate>
+   <enclosure url="https://c5.kemono.su/data/e0/62/e062f3af97f5b52ffc6b26a285e5c6974a6821842c11d80144ce4a5959ff3b9e.mp3?f=MDA%20chemist%20KL%20final%20for%20patreon.mp3" length="0" type="audio/mpeg" />
+   <itunes:duration>02:49:54</itunes:duration>
+</item>
+<item>
+   <guid isPermaLink="false">105356077</guid>
+   <title>#105: From Biosphere 2 to PiHKAL an interview with Deborah Snyder</title>
+    <description>In this interview I talk with psychedelic book publisher and former biosphere 2 engineer Deborah Snyder about her new work taking up the reins on Shulgin's Transform Press. Topics include attempts to engineer self-sustaining ecosystems, William S. Burroughs' affection for lemurs, nitrous oxide in soil ecology, and more!</description>
+    <pubDate>Sat, 01 Jun 2024 08:19:19 +0000</pubDate>
+     <enclosure url="https://c4.kemono.su/data/1b/5e/1b5e69bbb785b08128744707991f7bb084c890b46a1cb906935a044230262a0d.mp3?f=Deborah%20Snyder.mp3" length="0" type="audio/mpeg" />
+    <itunes:duration>01:29:39</itunes:duration>
+</item>
+</channel>
 </rss>
