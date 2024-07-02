@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Ung kærlighed læst op</title>
+    <link>https://politiken.dk/podcast/ung_kaerlighed/</link>
+    <description>Kærlighed har ændret karakter. Unge dater mere, har løsere forhold og får færre børn. Hvad er det, der sker? Og hvordan viser det sig i samfundet, kulturlivet og måde vi omgås hinanden? Det udforsker Politiken i en ny serie. Her kan du lytte til artiklerne i serien.</description>
+    <itunes:image href="https://politiken.dk/incoming/img9969157.sb3bt8/ALTERNATES/p1x1_1500/1%20JPEG"/>
+    <item>
+      <title>Glæd dig til nyt indhold</title>
+      <description/>
+      <pubDate>Sun, 20 Feb 2022 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8327626</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/8327626.mp3?n=1645362000000&amp;source=app&amp;originArticleId=8327626&amp;premium=false" length="192932" type="audio/mpeg"/>
+      <itunes:duration>00:05</itunes:duration>
+    </item>
+  </channel>
+</rss>
