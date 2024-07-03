@@ -1,21 +1,9 @@
 [
     {
-        "title": "Hvorfor spiller Anton",
-        "description": "Anton Kristoffer Mørch Madsen er ludoman. Han er kun 6 år, da han gambler første gang, og siden overtager spillet langsomt, men sikkert hans liv, indtil han til sidst ikke længere kan kende sig selv. Han lyver, stjæler og manipulerer med sine omgivelser. I dag er han ude af det, men han står tilbage med ét spørgsmål: hvorfor var det lige ham, der blev ludoman?",
-        "id": "channel_anton",
-        "program_url": "https://politiken.dk/podcast/hvorfor_spiller_anton/"
-    },
-    {
-        "title": "Lang historie kort",
-        "description": "Hver eftermiddag giver vi dig noget at tænke over og tale om. Du får tre friske historier på kun 15 minutter, når klokken er 15.\n\nVærter er Bo Søndergaard og Morten Skjoldager.",
-        "id": "channel_kort",
-        "program_url": "https://politiken.dk/podcast/Lang_historie_kort/"
-    },
-    {
-        "title": "Den levende",
-        "description": "I Politikens nye podcast ’Den levende’ tager opinionsredaktør Lotte Folke dig i hånden og stiller tidens store spørgsmål til dem, der tør og kan svare på dem.",
-        "id": "channel_levende",
-        "program_url": "https://politiken.dk/podcast/den_levende/"
+        "title": "Ung kærlighed læst op",
+        "description": "Kærlighed har ændret karakter. Unge dater mere, har løsere forhold og får færre børn. Hvad er det, der sker? Og hvordan viser det sig i samfundet, kulturlivet og måden vi omgås hinanden? Det udforsker Politiken i en ny serie. Her kan du lytte til artiklerne i serien.",
+        "id": "channel_kaerlighed",
+        "program_url": "https://politiken.dk/podcast/ung_kaerlighed/"
     },
     {
         "title": "Ibyens Kærlighedsbrevkasse",
@@ -24,10 +12,16 @@
         "program_url": "https://politiken.dk/podcast/Ibyens_brevkasse/"
     },
     {
-        "title": "Alt er nu",
-        "description": "Politikens podcast-dokumentar 'Alt er nu' handler om det unge kærestepar, Stine og Titan, der har en plan. De skal giftes, have et barn og et helt liv sammen. Men så bliver Stine indhentet af fortiden.",
-        "id": "channel_alternu",
-        "program_url": "https://politiken.dk/podcast/alternu/"
+        "title": "Den levende",
+        "description": "I Politikens nye podcast ’Den levende’ tager opinionsredaktør Lotte Folke dig i hånden og stiller tidens store spørgsmål til dem, der tør og kan svare på dem.",
+        "id": "channel_levende",
+        "program_url": "https://politiken.dk/podcast/den_levende/"
+    },
+    {
+        "title": "Lang historie kort",
+        "description": "Hver eftermiddag giver vi dig noget at tænke over og tale om. Du får tre friske historier på kun 15 minutter, når klokken er 15.\n\nVærter er Bo Søndergaard og Morten Skjoldager.",
+        "id": "channel_kort",
+        "program_url": "https://politiken.dk/podcast/Lang_historie_kort/"
     },
     {
         "title": "Du lytter til Politiken",
@@ -40,6 +34,18 @@
         "description": "Poptillægget er din ugentlige popkulturelt begejstrede podcast om alt fra film, tv-serier og musik til obskure popfænomener, bøger, podcasts og tidstypisk støj fra internettet.\n\nVært: Lucia Odoom\n\nProducer: Sille Westphal",
         "id": "channel_pop",
         "program_url": "https://politiken.dk/podcast/poptillaegget/"
+    },
+    {
+        "title": "Hvorfor spiller Anton",
+        "description": "Anton Kristoffer Mørch Madsen er ludoman. Han er kun 6 år, da han gambler første gang, og siden overtager spillet langsomt, men sikkert hans liv, indtil han til sidst ikke længere kan kende sig selv. Han lyver, stjæler og manipulerer med sine omgivelser. I dag er han ude af det, men han står tilbage med ét spørgsmål: hvorfor var det lige ham, der blev ludoman?",
+        "id": "channel_anton",
+        "program_url": "https://politiken.dk/podcast/hvorfor_spiller_anton/"
+    },
+    {
+        "title": "Alt er nu",
+        "description": "Politikens podcast-dokumentar 'Alt er nu' handler om det unge kærestepar, Stine og Titan, der har en plan. De skal giftes, have et barn og et helt liv sammen. Men så bliver Stine indhentet af fortiden.",
+        "id": "channel_alternu",
+        "program_url": "https://politiken.dk/podcast/alternu/"
     },
     {
         "title": "Bogfolk",
@@ -448,11 +454,5 @@
         "description": "Kâlánguak Absalonsens familie blev splittet ad efter en voldsom hændelse i barndomshjemmet i Grønland, og som 3-årig blev hun bortadopteret til en dansk familie. Som voksen ønsker hun at se den barndom, hun ellers har fortrængt, i øjnene og tager med sin ven, forfatteren Iben Mondrup, tilbage til det røde hus i Sisimiut, hvor hun boede med sin familie. \nKâlánguak vil fortælle sin egen historie, og hun vil finde ud af, hvorfor hun skulle bortadopteres?\n\nProduceret for Politikens Forlag af Filt CPH\nTilrettelægger: Anne Pilegaard Petersen\nLyddesign og mix: Thomas Arent\nRedaktør: Janus Camara\nUdgivet med støtte fra Politiken Fonden\n",
         "id": "channel_groenland",
         "program_url": "https://politiken.dk/podcast/rejsen_til_det_roede_hus/"
-    },
-    {
-        "title": "Ung kærlighed læst op",
-        "description": "Kærlighed har ændret karakter. Unge dater mere, har løsere forhold og får færre børn. Hvad er det, der sker? Og hvordan viser det sig i samfundet, kulturlivet og måde vi omgås hinanden? Det udforsker Politiken i en ny serie. Her kan du lytte til artiklerne i serien.",
-        "id": "channel_kaerlighed",
-        "program_url": "https://politiken.dk/podcast/ung_kaerlighed/"
     }
 ]
