@@ -4054,5 +4054,14 @@ http://instagram.com/thomasskov</description>
       <itunes:duration>00:41:59</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/a15cb55e-44ef-44f7-8a77-ab56c1e87d30_400x400.png"/>
     </item>
+    <item>
+      <title>Touren ifølge Emil og Thomas</title>
+      <description>Emil og Thomas er draget til Torino for at cykle en del af en Tour de France etape. Og hvilken tur det var!</description>
+      <guid isPermaLink="false">5e0f07e6-6e88-4868-9515-02679ce67dea</guid>
+      <pubDate>Thu, 04 Jul 2024 01:01:35 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/4d1b08fe-ad74-4498-bc73-495e822b422c.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:15</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/edfe4472-f513-4bc1-9d16-9ddc10f38cf0_400x400.png"/>
+    </item>
   </channel>
 </rss>

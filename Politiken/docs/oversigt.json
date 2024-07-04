@@ -1,5 +1,11 @@
 [
     {
+        "title": "Poptillægget",
+        "description": "Poptillægget er din ugentlige popkulturelt begejstrede podcast om alt fra film, tv-serier og musik til obskure popfænomener, bøger, podcasts og tidstypisk støj fra internettet.\n\nVært: Lucia Odoom\n\nProducer: Sille Westphal",
+        "id": "channel_pop",
+        "program_url": "https://politiken.dk/podcast/poptillaegget/"
+    },
+    {
         "title": "Ung kærlighed læst op",
         "description": "Kærlighed har ændret karakter. Unge dater mere, har løsere forhold og får færre børn. Hvad er det, der sker? Og hvordan viser det sig i samfundet, kulturlivet og måden vi omgås hinanden? Det udforsker Politiken i en ny serie. Her kan du lytte til artiklerne i serien.",
         "id": "channel_kaerlighed",
@@ -28,12 +34,6 @@
         "description": "Med Politikens daglige podcast ’Du lytter til Politiken’ i ørerne får du på 20 minutter én særligt udvalgt, aktuel historie leveret som levende lydfortælling.\n\nPolitiken-journalisterne Gudrun Marie Schmidt og Nils Thorsen er værter.",
         "id": "channel_dulytter",
         "program_url": "https://politiken.dk/podcast/dulyttertilpolitiken/"
-    },
-    {
-        "title": "Poptillægget",
-        "description": "Poptillægget er din ugentlige popkulturelt begejstrede podcast om alt fra film, tv-serier og musik til obskure popfænomener, bøger, podcasts og tidstypisk støj fra internettet.\n\nVært: Lucia Odoom\n\nProducer: Sille Westphal",
-        "id": "channel_pop",
-        "program_url": "https://politiken.dk/podcast/poptillaegget/"
     },
     {
         "title": "Hvorfor spiller Anton",
