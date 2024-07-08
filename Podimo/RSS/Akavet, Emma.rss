@@ -183,5 +183,14 @@ I kan se alle hans billeder her https://www.instagram.com/bobbyatieduu</descript
       <itunes:duration>00:50:01</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/d6b0e598-1b25-4ac5-87b8-9937c0ce76cb_400x400.png"/>
     </item>
+    <item>
+      <title>Episode 16: Emil Thorup</title>
+      <description>By public demand.... Emil Thorup</description>
+      <guid isPermaLink="false">7199d51b-7cc9-46d4-88b2-124c721f1401</guid>
+      <pubDate>Mon, 08 Jul 2024 03:01:17 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/cc172be8-8ac2-4078-a88f-15dc6e65c422.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:42:52</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/29542665-992d-4f8c-b42e-b3fd1f47c0ee_400x400.png"/>
+    </item>
   </channel>
 </rss>
