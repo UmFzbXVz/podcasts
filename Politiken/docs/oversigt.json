@@ -1,15 +1,9 @@
 [
     {
-        "title": "Poptillægget",
-        "description": "Poptillægget er din ugentlige popkulturelt begejstrede podcast om alt fra film, tv-serier og musik til obskure popfænomener, bøger, podcasts og tidstypisk støj fra internettet.\n\nVært: Lucia Odoom\n\nProducer: Sille Westphal",
-        "id": "channel_pop",
-        "program_url": "https://politiken.dk/podcast/poptillaegget/"
-    },
-    {
-        "title": "Ung kærlighed læst op",
-        "description": "Kærlighed har ændret karakter. Unge dater mere, har løsere forhold og får færre børn. Hvad er det, der sker? Og hvordan viser det sig i samfundet, kulturlivet og måden vi omgås hinanden? Det udforsker Politiken i en ny serie. Her kan du lytte til artiklerne i serien.",
-        "id": "channel_kaerlighed",
-        "program_url": "https://politiken.dk/podcast/ung_kaerlighed/"
+        "title": "Musikmakker",
+        "description": "Simon Lund og Pernille Jensen er musikmakkere. Han er musikredaktør på Politiken, hun er anmelder. En stor del af deres vågne timer bruger de på at lytte til musik - både den nye, der udkommer, og den musik, de aften efter aften oplever sammen med en masse andre mennesker til koncerter og festivaler. Døgnet rundt – stort set – er de i dialog med hinanden om musikken. Den dialog kan du lytte til i podcasten ’Musikmakker’.",
+        "id": "channel_lyt",
+        "program_url": "https://politiken.dk/podcast/musikmakker/"
     },
     {
         "title": "Ibyens Kærlighedsbrevkasse",
@@ -18,22 +12,34 @@
         "program_url": "https://politiken.dk/podcast/Ibyens_brevkasse/"
     },
     {
+        "title": "Ung kærlighed læst op",
+        "description": "Kærlighed har ændret karakter. Unge dater mere, har løsere forhold og får færre børn. Hvad er det, der sker? Og hvordan viser det sig i samfundet, kulturlivet og måden vi omgås hinanden? Det udforsker Politiken i en ny serie. Her kan du lytte til artiklerne i serien.",
+        "id": "channel_kaerlighed",
+        "program_url": "https://politiken.dk/podcast/ung_kaerlighed/"
+    },
+    {
+        "title": "Poptillægget",
+        "description": "Poptillægget er din ugentlige popkulturelt begejstrede podcast om alt fra film, tv-serier og musik til obskure popfænomener, bøger, podcasts og tidstypisk støj fra internettet.\n\nVært: Lucia Odoom\n\nProducer: Sille Westphal",
+        "id": "channel_pop",
+        "program_url": "https://politiken.dk/podcast/poptillaegget/"
+    },
+    {
         "title": "Den levende",
         "description": "I Politikens nye podcast ’Den levende’ tager opinionsredaktør Lotte Folke dig i hånden og stiller tidens store spørgsmål til dem, der tør og kan svare på dem.",
         "id": "channel_levende",
         "program_url": "https://politiken.dk/podcast/den_levende/"
     },
     {
-        "title": "Lang historie kort",
-        "description": "Hver eftermiddag giver vi dig noget at tænke over og tale om. Du får tre friske historier på kun 15 minutter, når klokken er 15.\n\nVærter er Bo Søndergaard og Morten Skjoldager.",
-        "id": "channel_kort",
-        "program_url": "https://politiken.dk/podcast/Lang_historie_kort/"
-    },
-    {
         "title": "Du lytter til Politiken",
         "description": "Med Politikens daglige podcast ’Du lytter til Politiken’ i ørerne får du på 20 minutter én særligt udvalgt, aktuel historie leveret som levende lydfortælling.\n\nPolitiken-journalisterne Gudrun Marie Schmidt og Nils Thorsen er værter.",
         "id": "channel_dulytter",
         "program_url": "https://politiken.dk/podcast/dulyttertilpolitiken/"
+    },
+    {
+        "title": "Lang historie kort",
+        "description": "Hver eftermiddag giver vi dig noget at tænke over og tale om. Du får tre friske historier på kun 15 minutter, når klokken er 15.\n\nVærter er Bo Søndergaard og Morten Skjoldager.",
+        "id": "channel_kort",
+        "program_url": "https://politiken.dk/podcast/Lang_historie_kort/"
     },
     {
         "title": "Hvorfor spiller Anton",
@@ -88,12 +94,6 @@
         "description": "Den politiske podcast 'Uden for Citat' giver Politikens abonnenter de bedste historier fra Christiansborg og omegn. Vi fortæller om det, politikerne siger til – og uden for – citat, og hvad det i virkeligheden betyder. ",
         "id": "channel_valget",
         "program_url": "https://politiken.dk/podcast/uden_for_citat/"
-    },
-    {
-        "title": "Musikmakker",
-        "description": "Simon Lund og Pernille Jensen er musikmakkere. Han er musikredaktør på Politiken, hun er anmelder. En stor del af deres vågne timer bruger de på at lytte til musik - både den nye, der udkommer, og den musik, de aften efter aften oplever sammen med en masse andre mennesker til koncerter og festivaler. Døgnet rundt – stort set – er de i dialog med hinanden om musikken. Den dialog kan du lytte til i podcasten ’Musikmakker’.",
-        "id": "channel_lyt",
-        "program_url": "https://politiken.dk/podcast/musikmakker/"
     },
     {
         "title": "Klimakamp: Hvert ton tæller",
