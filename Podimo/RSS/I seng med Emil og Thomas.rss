@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>I seng med Emil og Thomas</title>
+    <description>Vi har taget nogle af de dårligste afsnit af &quot;Livet ifølge Emil og Thomas&quot; og sprættet dem op og syet dem sammen, så de er lige til at lukke op og sove til. 
+Tanken er, at du lægger dig til at sove - og så skulle Emil og Thomas' stemmer gerne være med dig hele natten. Sov godt. 
+Og husk at lytte til &quot;Livet ifølge&quot; hver tirsdag og fredag.</description>
+    <link>https://podimo.com/dk/shows/1d48cb5b-3033-486a-8a96-8c59d8540d07</link>
+    <image>
+      <url>https://cdn.podimo.com/images/e837a512-5bd2-4a3b-91da-5959cabda591_400x400.png</url>
+      <title>I seng med Emil og Thomas</title>
+      <link>https://podimo.com/dk/shows/1d48cb5b-3033-486a-8a96-8c59d8540d07</link>
+    </image>
+    <item>
+      <title>Julesøvnen</title>
+      <description>Har du drømt om at sove til juleafsnittene fra 2022. Den drøm kan blive virkelig nu. 
+Sov godt og glædelig jul</description>
+      <guid isPermaLink="false">4f1ed298-26eb-4421-9cb8-cec3d19eaf09</guid>
+      <pubDate>Mon, 15 Apr 2024 10:58:53 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/b35b0836-447d-4a14-aff1-4ae0ce0b9660.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:03:02</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/881acf3c-913e-4446-8a5d-78c9d02f3d6e_400x400.png"/>
+    </item>
+    <item>
+      <title>Sommersøvnen</title>
+      <description>Her er de 15 sommerprogrammer. 
+De er bedre at sove til - end de er at være vågne til.
+
+Sov godt</description>
+      <guid isPermaLink="false">9a07a901-a988-4733-98e0-e59866550882</guid>
+      <pubDate>Thu, 22 Jun 2023 10:52:44 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/0d1848b8-0fff-4964-8b6d-753ec17cd4d9.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:55:52</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/644a2ea9-e0f5-4f10-8d41-51c582a427dd_400x400.png"/>
+    </item>
+  </channel>
+</rss>
