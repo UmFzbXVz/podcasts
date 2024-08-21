@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=0.8">
   <title>podcasts</title>
   <link rel="stylesheet" href="style.css">
 </head>
@@ -14,6 +14,7 @@
       <input type="text" id="searchInput" placeholder="Søg..">
       <span class="clear-search" onclick="clearSearch()">&#10006;</span>
   </div>
+  <p class="helper-text">Apple Podcasts-ikonet forsøger at åbne feedet i valgfri podcast-app</p>
   <p class="helper-text"></p>
   <div id="results"></div>
 </div>
@@ -125,17 +126,23 @@ function openModal(podcast) {
     document.getElementById('modalTitle').textContent = podcast.text;
     document.getElementById('modalProvider').textContent = podcast.provider;
     const descriptionElement = document.getElementById('modalDescription');
-    descriptionElement.textContent = podcast.description;
+    descriptionElement.innerHTML = formatDescription(podcast.description);
     descriptionElement.classList.remove('expanded');
     document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/podcasts/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
     document.getElementById('playOnSite').target = '_blank';
     document.getElementById('visitWebsiteLink').href = podcast.url;
     document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
     document.getElementById('openInAppLink').href = `podcast://${podcast.rssLink}`;
-    
     descriptionElement.addEventListener('click', () => {
         descriptionElement.classList.toggle('expanded');
     });
+}
+
+function formatDescription(description) {
+    let formattedDescription = description.replace(/\n/g, '<br>');
+    formattedDescription = formattedDescription.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+
+    return formattedDescription;
 }
 
 function copyRSSLink(rssLink) {
@@ -220,6 +227,7 @@ function displayResults(results) {
 }
 
 let debounceTimeout;
+
 document.getElementById('searchInput').addEventListener('input', function () {
     clearTimeout(debounceTimeout);
     debounceTimeout = setTimeout(() => {
@@ -230,6 +238,7 @@ document.getElementById('searchInput').addEventListener('input', function () {
 document.getElementById('searchInput').addEventListener('keypress', function (event) {
     if (event.key === 'Enter') this.blur();
 });
+
 </script>
 </body>
 </html>
