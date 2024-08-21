@@ -127,7 +127,7 @@ function openModal(podcast) {
     const descriptionElement = document.getElementById('modalDescription');
     descriptionElement.textContent = podcast.description;
     descriptionElement.classList.remove('expanded');
-    document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/DRSS/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
+    document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/podcasts/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
     document.getElementById('playOnSite').target = '_blank';
     document.getElementById('visitWebsiteLink').href = podcast.url;
     document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
