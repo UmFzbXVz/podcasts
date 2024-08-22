@@ -251,5 +251,14 @@ Ugens episode er i øvrigt sæsonafslutning. Verdens Klogeste Land er tilbage ig
       <itunes:duration>00:40:32</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/3c98fb2f-45d9-42ad-8b7e-482164e236f8_400x400.png"/>
     </item>
+    <item>
+      <title>VIGTIG SERVICEMEDDELELSE!</title>
+      <description>Verdens Klogeste Land vender allerede tilbage den 5. september. Glæd dig - og lyt med!</description>
+      <guid isPermaLink="false">46d03b8b-d04a-4911-8fe1-04560e8a8c90</guid>
+      <pubDate>Thu, 22 Aug 2024 02:01:22 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/4b2fb0e1-ff96-43c5-9b16-52bc63d6c693.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:07:30</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/302c34e6-1755-423f-8547-2e28a3f26542_400x400.png"/>
+    </item>
   </channel>
 </rss>
