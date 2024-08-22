@@ -14,7 +14,7 @@
       <input type="text" id="searchInput" placeholder="Søg..">
       <span class="clear-search" onclick="clearSearch()">&#10006;</span>
   </div>
-  <p class="helper-text">Apple Podcasts-ikonet forsøger at åbne feedet i valgfri podcast-app</p>
+  <p class="helper-text"></p>
   <div id="results"></div>
 </div>
   <div id="podcastModal" class="modal">
@@ -193,7 +193,7 @@ async function filterPodcasts(searchText) {
     displayResults(results);
 }
 
-const MAX_CACHE_ITEMS = 100;
+const MAX_CACHE_ITEMS = 30;
 
 function getLRUCache() {
     const cache = localStorage.getItem('imageCacheOrder');
