@@ -86,7 +86,6 @@ body {
 .results-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 20px 40px;
 }
  .result {
      background-color: #242424;
@@ -575,19 +574,20 @@ body {
 .podcast-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
+    gap: 20px;
 }
 .podcast-card {
     background-color: #242424;
     border: none;
     border-radius: 8px;
-    padding: 12px;
+    padding: 0;
     text-align: center;
     cursor: pointer;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    width: 90%;
     max-width: 180px;
+    height: 210px;
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
 }
 .podcast-card:hover {
     transform: translateY(-10px);
@@ -595,16 +595,21 @@ body {
 }
 .podcast-cover {
     width: 100%;
-    height: 150px;
-    border-radius: 8px;
-    margin-bottom: 12px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    height: 180px;
+    margin: 0px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
 }
 .podcast-title {
     font-size: 1rem;
     font-weight: bold;
     color: #f5f5f5;
-    margin-top: 8px;
+    margin: 3px 0 0 0;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 body.light-theme .podcast-card {
     background-color: #f5f5f5;
