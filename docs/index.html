@@ -1,46 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=0.9">
-  <title>podcasts</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.9">
+    <title>podcasts</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-
-<div class="container">
-  <h2>podcasts</h2>
-  <div class="search-wrapper">
-      <input type="text" id="searchInput" placeholder="Søg..">
-      <span class="clear-search" onclick="clearSearch()">&#10006;</span>
-  </div>
-  <p class="helper-text"></p>
-  <div id="results"></div>
-</div>
-  <div id="podcastModal" class="modal">
-  <div class="modal-content">
-    <div class="close" id="closeModal">&#10006</div>
-    <h3 id="modalTitle">Titel</h3>
-    <h3 id="modalProvider">Udgiver</h3>
-    <div id="modalDescription">Beskrivelse</div>
-<div class="modal-icons">
-   <a href="#" id="visitWebsiteLink" target="_blank" title="Besøg programmets hjemmeside" class="icon-link">
-      <i class="fas fa-globe"></i>
-   </a>
-   <a href="#" id="playOnSite" title="Afspil her" class="icon-link">
-      <i class="fas fa-play"></i>
-   </a>
-   <a id="copyRSSButton" title="Kopiér RSS-link" class="icon-link">
-      <i class="fas fa-rss"></i>
-   </a>
-   <a href="#" id="openInAppLink" title="Åbn i podcast-app" class="icon-link">
-      <i class="fas fa-podcast"></i>
-   </a>
-</div>
-
-  </div>
-</div>
+    <div class="container">
+        <h2>podcasts</h2>
+        <div class="search-wrapper">
+            <input type="text" id="searchInput" placeholder="Søg..">
+            <span class="clear-search" onclick="clearSearch()">&#10006;</span>
+        </div>
+        <p class="helper-text"></p>
+        <div id="results"></div>
+    </div>
+    <div id="podcastModal" class="modal">
+        <div class="modal-content">
+            <div class="close" id="closeModal">&#10006</div>
+            <h3 id="modalTitle">Titel</h3>
+            <h3 id="modalProvider">Udgiver</h3>
+            <div id="modalDescription">Beskrivelse</div>
+            <div class="modal-icons">
+                <a href="#" id="visitWebsiteLink" target="_blank" title="Besøg programmets hjemmeside" class="icon-link">
+                    <i class="fas fa-globe"></i>
+                </a>
+                <a href="#" id="playOnSite" title="Afspil her" class="icon-link">
+                    <i class="fas fa-play"></i>
+                </a>
+                <a id="copyRSSButton" title="Kopiér RSS-link" class="icon-link">
+                    <i class="fas fa-rss"></i>
+                </a>
+                <a href="#" id="openInAppLink" title="Åbn i podcast-app" class="icon-link">
+                    <i class="fas fa-podcast"></i>
+                </a>
+            </div>
+        </div>
+    </div>
 <script>
 const resultsContainer = document.getElementById('results');
 const h2Container = document.querySelector('.container h2');
@@ -52,6 +50,13 @@ let politikenPodcastsData = [];
 
 document.addEventListener('DOMContentLoaded', () => {
     fetchDataAndPreloadIcon();
+  
+  document.getElementById('podcastModal').addEventListener('click', function(event) {
+    const descriptionElement = document.getElementById('modalDescription');
+    if (event.target === descriptionElement) {
+        descriptionElement.classList.toggle('expanded');
+    }
+});
     
     window.onclick = function(event) {
         const modal = document.getElementById('podcastModal');
@@ -123,21 +128,22 @@ function clearSearch() {
 
 function openModal(podcast) {
     const modal = document.getElementById('podcastModal');
+    const descriptionElement = document.getElementById('modalDescription');
+    descriptionElement.innerHTML = '';
+    descriptionElement.classList.remove('expanded');
     modal.style.display = 'block';
     document.getElementById('modalTitle').textContent = podcast.text;
     document.getElementById('modalProvider').textContent = podcast.provider;
-    const descriptionElement = document.getElementById('modalDescription');
     descriptionElement.innerHTML = formatDescription(podcast.description);
     descriptionElement.classList.remove('expanded');
+
     document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/podcasts/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
     document.getElementById('playOnSite').target = '_blank';
     document.getElementById('visitWebsiteLink').href = podcast.url;
     document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
     document.getElementById('openInAppLink').href = `podcast://${podcast.rssLink}`;
-    descriptionElement.addEventListener('click', () => {
-        descriptionElement.classList.toggle('expanded');
-    });
 }
+
 
 function formatDescription(description) {
     let formattedDescription = description.replace(/\n/g, '<br>');
@@ -305,7 +311,7 @@ document.getElementById('searchInput').addEventListener('input', function () {
     clearTimeout(debounceTimeout);
     debounceTimeout = setTimeout(() => {
         filterPodcasts(this.value.trim());
-    }, 300);
+    }, 500);
 });
 
 document.getElementById('searchInput').addEventListener('keypress', function (event) {
