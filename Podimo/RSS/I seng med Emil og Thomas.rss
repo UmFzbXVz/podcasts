@@ -33,5 +33,16 @@ Sov godt</description>
       <itunes:duration>09:55:52</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/644a2ea9-e0f5-4f10-8d41-51c582a427dd_400x400.png"/>
     </item>
+    <item>
+      <title>At rejse er at sove</title>
+      <description>Vi har optaget vores episoder mange steder.
+Her er nogle af episoderne, der optaget på så eksotiske steder som fx Viborg og Wimbledon, Rørvig og Paris, Smukfest og Allinge.
+Sov godt</description>
+      <guid isPermaLink="false">b9cdc890-5da5-40c4-b076-358d2dac45fe</guid>
+      <pubDate>Mon, 02 Sep 2024 11:38:53 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/559d9268-4c83-4ca7-aae1-a300a38d1f5c.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:12:05</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/bf84dd72-c71e-4c60-904e-951728bf675b_400x400.png"/>
+    </item>
   </channel>
 </rss>
