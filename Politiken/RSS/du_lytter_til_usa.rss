@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Du lytter til USA</title>
+    <link>https://politiken.dk/podcast/du_lytter_til_usa/</link>
+    <description>Velkommen til din nye podcast om præsidentvalget 2024. Hver lørdag forsøger vi at forstå og forklare, hvad der foregår i den amerikanske valgkamp. Vi sætter hver uge et hold af journalister, som hjælper dig med at catche op på, hvor valgkampen har flyttet sig i løbet af ugen. Vi kommer også vidt omring i amerikansk kultur for at forstå amerikanerne og det valg, de står over for. Og så fortæller vi dig om den konkrete politik, der kommer ud af valgkampen, og som kan forandre USA og verden.</description>
+    <itunes:image href="https://politiken.dk/incoming/img10055931.m9a4a/ALTERNATES/p1x1_1500/Du%20lytter%20til%20USA"/>
+    <item>
+      <title>Glæd dig til nyt indhold</title>
+      <description>&lt;p&gt;Her kommer der lige om lidt nyt og spændende indhold fra Politiken podcast.&lt;br /&gt;Det kan du gå og glæde dig til!&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Sep 2024 16:27:41 +0000</pubDate>
+      <guid isPermaLink="false">10056621</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/10056621.mp3?n=1725546461000&amp;source=app&amp;originArticleId=10056621&amp;premium=false" length="85902" type="audio/mpeg"/>
+      <itunes:duration>00:05</itunes:duration>
+    </item>
+    <item>
+      <title>Glæd dig til nyt indhold</title>
+      <description/>
+      <pubDate>Sun, 20 Feb 2022 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8327626</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/8327626.mp3?n=1645362000000&amp;source=app&amp;originArticleId=8327626&amp;premium=false" length="192932" type="audio/mpeg"/>
+      <itunes:duration>00:05</itunes:duration>
+    </item>
+  </channel>
+</rss>
