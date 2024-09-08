@@ -272,5 +272,15 @@ Ny episode - hver torsdag!</description>
       <itunes:duration>00:44:18</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/2b2c5d7a-f282-4f97-888d-5c642c9803f7_400x400.png"/>
     </item>
+    <item>
+      <title>Søndagstanker: Champens Ord</title>
+      <description>Verdens Klogeste Land præsenterer nu “Søndagstanker”: Et næsten originalt koncept. Søndagstanker er et afslappet og meget personligt tilbageblik på ugen, der udmærker sig ved hverken at indeholde dybde, reflektion eller intellektuel ambition.
+I denne uge har Jesper endelig forstået rollatorens genialitet, og Kristoffer Eriksen har forelsket sig i en ny bog fra komikeren Uffe Holm.</description>
+      <guid isPermaLink="false">8a0608bd-17f4-4544-a38b-24638623805f</guid>
+      <pubDate>Sun, 08 Sep 2024 03:01:15 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/ef7d09f5-115d-4570-9d4b-a2036dc3a124.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:18:57</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/fa66307b-e930-4626-851f-ff45fe4138eb_400x400.png"/>
+    </item>
   </channel>
 </rss>
