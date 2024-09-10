@@ -47,6 +47,7 @@ let podimoPodcastsData = [];
 let miscPodcastsData = [];
 let pir8dioPodcastsData = [];
 let politikenPodcastsData = [];
+let radio4PodcastsData = [];
 
 document.addEventListener('DOMContentLoaded', () => {
     fetchDataAndPreloadIcon();
@@ -75,12 +76,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function fetchDataAndPreloadIcon() {
     try {
-        [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData, politikenPodcastsData] = await Promise.all([
+        [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData, politikenPodcastsData, radio4PodcastsData] = await Promise.all([
             fetchDRPodcastsData(),
             fetchPodimoPodcastsData(),
             fetchMiscPodcastsData(),
             fetchPir8dioPodcastsData(),
             fetchPolitikenPodcastsData(),
+            fetchradio4PodcastsData(),
         ]);
     } catch (error) {
         console.error('Error fetching data:', error);
@@ -117,7 +119,12 @@ async function fetchPir8dioPodcastsData() {
 async function fetchPolitikenPodcastsData() {
     return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/docs/oversigt.json');
 }
+  
+async function fetchradio4PodcastsData() {
+  return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/radio4/r4dio.json');
+}
 
+  
 function clearSearch() {
     const searchInput = document.getElementById('searchInput');
     searchInput.value = '';
@@ -192,6 +199,7 @@ async function filterPodcasts(searchText) {
         ...drPodcastsData.map(podcast => ({ text: podcast.name, provider: 'DR', description: podcast.description, url: podcast.program_url, image: podcast.image, rssLink: podcast.url})),
         ...podimoPodcastsData.map(podcast => ({ text: `${podcast.title}`, provider: 'Podimo', description: podcast.description, url: `https://podimo.com/dk/shows/${podcast.id}`, image: podcast.coverImageUrl, rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(podcast.title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`})),
         ...Object.values(miscPodcastsData).map(podcast => ({ text: podcast.alt_text,provider: 'Radio24syv', description: podcast.description, url: podcast.url, image: podcast.image_url, rssLink: getFormattedRSSUrl(podcast.alt_text)})),
+        ...radio4PodcastsData.map(podcast => ({ text: podcast.title, provider: 'Radio IIII', description: podcast.content, url: podcast.program_url, image: podcast.image_url, rssLink: podcast.program_url})),
         ...pir8dioPodcastsData.map(podcast => ({ text: podcast.title, provider: 'r8Dio', description: podcast.content, url: podcast.program_url, image: podcast.image, rssLink: `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${podcast.slug}.rss`})),
         ...politikenPodcastsData.map(podcast => ({ text: podcast.title, provider: 'Politiken', description: podcast.description, url: podcast.program_url, image: podcast.image, rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/RSS/${encodeURIComponent(podcast.id)}.rss`}))
     ];
