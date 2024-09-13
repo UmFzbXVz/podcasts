@@ -196,7 +196,7 @@ async function filterPodcasts(searchText) {
 
     const results = [];
     const allData = [
-        ...drPodcastsData.map(podcast => ({ text: podcast.name, provider: 'DR', description: podcast.description, url: podcast.program_url, image: podcast.image, rssLink: podcast.url})),
+        ...drPodcastsData.map(podcast => ({ text: podcast.name, provider: 'DR', description: podcast.description, url: podcast.program_url, image: podcast.image, rssLink: 'https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/2.0/' + podcast.program_url.split('/').pop() + '.rss'})),
         ...podimoPodcastsData.map(podcast => ({ text: `${podcast.title}`, provider: 'Podimo', description: podcast.description, url: `https://podimo.com/dk/shows/${podcast.id}`, image: podcast.coverImageUrl, rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(podcast.title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`})),
         ...Object.values(miscPodcastsData).map(podcast => ({ text: podcast.alt_text,provider: 'Radio24syv', description: podcast.description, url: podcast.url, image: podcast.image_url, rssLink: getFormattedRSSUrl(podcast.alt_text)})),
         ...radio4PodcastsData.map(podcast => ({ text: podcast.title, provider: 'Radio IIII', description: podcast.content, url: podcast.program_url, image: podcast.image_url, rssLink: podcast.program_url})),
@@ -209,7 +209,7 @@ async function filterPodcasts(searchText) {
     displayResults(results);
 }
 
-const MAX_CACHE_ITEMS = 25;
+const MAX_CACHE_ITEMS = 20;
 
 function getLRUCache() {
     const cache = localStorage.getItem('imageCacheOrder');
