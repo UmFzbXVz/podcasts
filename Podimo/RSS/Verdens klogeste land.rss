@@ -357,5 +357,14 @@ Ny episode hver torsdag!</description>
       <itunes:duration>00:37:59</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/3acaf0a5-5ae1-4dcf-a678-006b796e5287_400x400.png"/>
     </item>
+    <item>
+      <title>Søndagstanker - Ibi Pippis blottervirksomhed</title>
+      <description>Ugens udgave af søndagstanker zoomer helt ind på provokunstneren Ibi Pippi Orup Hedegaard, som sammen med sin datter har været på besøg i nyhedspodcasten Dato hos Abdel til et meget vildt interview. Og så genbesøger Jesper et barndomstraume, nemlig dengang hans forældre vandt i Lotto.</description>
+      <guid isPermaLink="false">adf496a6-cc94-492e-8f0a-874689c833fd</guid>
+      <pubDate>Sun, 13 Oct 2024 03:01:33 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/47cd4ba9-067b-4836-851d-d1698268fea3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:22:01</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/2f33b137-514f-4abe-bf9a-d957a4e07d12_400x400.png"/>
+    </item>
   </channel>
 </rss>
