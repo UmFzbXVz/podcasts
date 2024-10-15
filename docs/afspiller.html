@@ -345,7 +345,7 @@ function playEpisode(episodeUrl, episodeTitle) {
     updateMediaSessionState(audioPlayer);
   }).catch(error => {
     spinner.style.display = "none";
-    showToast("Kunne ikke afspille afsnit..");
+    showToast("Afsnit utilgængeligt");
   }).finally(() => {
     isChangingEpisode = false;
   });
