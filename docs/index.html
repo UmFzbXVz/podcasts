@@ -632,6 +632,7 @@ document.getElementById('episodeSearchInput').addEventListener('input', function
 
 document.querySelector('#episodeListModal .close').onclick = () => {
   document.getElementById('episodeListModal').style.display = 'none';
+  document.getElementById('podcastModal').style.display = 'block';
 };
 
 function formatDescription(description) {
@@ -807,6 +808,20 @@ function cacheAndLoadImage(url, element) {
     });
   }
 }
+    
+function adjustTitleFontSize(card, title, textLength) {
+  const containerWidth = card.offsetWidth;
+  
+  const maxFontSize = 1.1;
+  const minFontSize = 0.7;
+  const optimalCharLength = 28;
+
+  let newFontSize = maxFontSize - (textLength / optimalCharLength) * (maxFontSize - minFontSize);
+
+  newFontSize = Math.max(minFontSize, Math.min(maxFontSize, newFontSize));
+
+  title.style.fontSize = `${newFontSize}rem`;
+}
 
 function displayResults(results) {
   resultsContainer.innerHTML = '';
@@ -836,6 +851,9 @@ function displayResults(results) {
 
     card.appendChild(img);
     card.appendChild(title);
+    
+    adjustTitleFontSize(card, title, result.text.length);
+    
     card.addEventListener('click', () => openModal(result));
     grid.appendChild(card);
   });
