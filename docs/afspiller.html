@@ -158,7 +158,12 @@ function displayEpisodes() {
   const finishedEpisodesStr = localStorage.getItem("finishedEpisodes");
   let totalPages = Math.ceil(totalEpisodes / itemsPerPage);
   const finishedEpisodes = finishedEpisodesStr ? JSON.parse(finishedEpisodesStr) : [];
-  document.getElementById("podcast-info").innerHTML = `<h2>${podTitle}</h2><p>${podDesc}</p>`;
+  
+  if (currentPage === 1) {
+    document.getElementById("podcast-info").innerHTML = `<h2>${podTitle}</h2><p class="p">${podDesc}</p>`;
+  } else {
+    document.getElementById("podcast-info").innerHTML = ``;
+  }
 
   episodesData.sort((a, b) => new Date(a.pubDate) - new Date(b.pubDate));
 
@@ -181,24 +186,26 @@ function displayEpisodes() {
 
   const currentlyPlaying = localStorage.getItem('currentlyPlaying');
 
-  episodesToShow.forEach((episode) => {
-    const playingClass = episode.link === currentlyPlaying ? 'playing' : '';
-    episodesHTML += `
-      <div class="episode ${playingClass}" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
-        <div class="loading-spinner" style="display: none;"></div>
-        <h4 class="player-episode-title">${episode.title}</h4>
-        <p class="pub-date">${episode.pubDate.toLocaleDateString()}</p>
-        <p class="episode-description">${episode.description}</p>
-      </div>
-    `;
-  });
+episodesToShow.forEach((episode) => {
+  const playingClass = episode.link === currentlyPlaying ? 'playing' : '';
+  const longTitleClass = episode.title.length > 30 ? 'long-title' : '';
+  
+  episodesHTML += `
+    <div class="episode ${playingClass}" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
+      <div class="loading-spinner" style="display: none;"></div>
+      <h4 class="player-episode-title ${longTitleClass}">${episode.title}</h4>
+      <p class="pub-date">${episode.pubDate.toLocaleDateString()}</p>
+      <p class="episode-description">${episode.description}</p>
+    </div>
+  `;
+});
 
   document.getElementById("podcast-info").innerHTML += episodesHTML;
   attachEpisodeClickListeners();
   attachDescriptionToggleListeners();
   updatePaginationControls();
 }
-
+  
 function attachEpisodeClickListeners() {
   document.querySelectorAll('.episode').forEach((episodeElement) => {
     episodeElement.addEventListener('click', (event) => {
@@ -216,8 +223,8 @@ function attachEpisodeClickListeners() {
 toggleFullyListened.addEventListener('click', toggleEpisodeFilter);
 
 function attachDescriptionToggleListeners() {
-  document.querySelectorAll('.episode-description').forEach((description) => {
-    description.addEventListener('click', (event) => {
+  function toggleDescription(description) {
+    return (event) => {
       event.stopPropagation();
       if (description.style.maxHeight) {
         description.style.maxHeight = null;
@@ -226,8 +233,17 @@ function attachDescriptionToggleListeners() {
         description.style.maxHeight = description.scrollHeight + "px";
         description.classList.add('expanded');
       }
-    });
+    };
+  }
+
+  document.querySelectorAll('.episode-description').forEach((description) => {
+    description.addEventListener('click', toggleDescription(description));
   });
+
+  const podcastDescription = document.querySelector('#podcast-info p');
+  if (podcastDescription) {
+    podcastDescription.addEventListener('click', toggleDescription(podcastDescription));
+  }
 }
 
 function updatePaginationControls() {
