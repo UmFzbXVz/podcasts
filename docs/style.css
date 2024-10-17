@@ -274,6 +274,16 @@ h2 {
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
 
+#podcast-info p {
+  -webkit-line-clamp: 3;
+  max-height: 6em;
+}
+
+#podcast-info p.expanded {
+  -webkit-line-clamp: unset;
+  max-height: 90%;
+}
+
 .episode {
   background: rgba(36, 36, 36, 0.2);
   backdrop-filter: blur(6px);
@@ -471,8 +481,8 @@ h2 {
   font-size: 1em;
   font-weight: 700;
   color: #f5f5f5;
-  padding: 0 10px;
-  display: flex;
+  padding: 3px 10px;
+  display: block;
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -696,6 +706,12 @@ strong {
 .player-episode-title {
   overflow: hidden;
   color: #ffff;
+  font-size: 1rem;
+  transition: font-size 0.3s ease;
+}
+
+.player-episode-title.long-title {
+  font-size: 0.95rem;
 }
 
 .episode-date {
@@ -885,16 +901,17 @@ strong {
      font-size: 16px;
 }
 
-button:focus-visible, i:focus-visible {
+a:focus-visible, i:focus-visible, button:focus-visible {
     background-color: transparent; 
 }
 
-button:focus:not(:focus-visible), i:focus:not(:focus-visible),
-button:active, i:active {
+a:focus:not(:focus-visible), i:focus:not(:focus-visible), button:focus:not(:focus-visible),
+a:active, i:active, button:active {
     outline: none;
     background-color: transparent; 
     box-shadow: none;
 }
+
 
  body.light-theme {
    transition: background-color 0.3s ease, color 0.3s ease;
