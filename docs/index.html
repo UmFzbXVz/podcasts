@@ -68,7 +68,7 @@
   <script>
 const resultsContainer = document.getElementById('results');
 const greenStyle = "color: green; font-weight: bold;";
-const MAX_CACHE_ITEMS = 50;
+const MAX_CACHE_ITEMS = 300;
 const CACHE_NAME = 'podcasts-cover-cache-v1';
 const MAX_RESULTS = 12;
 let currentPodcast = null;
@@ -809,8 +809,8 @@ function cacheAndLoadImage(url, element) {
 function adjustTitleFontSize(card, title, textLength) {
   const containerWidth = card.offsetWidth;
   
-  const maxFontSize = 1.1;
-  const minFontSize = 0.7;
+  const maxFontSize = 1;
+  const minFontSize = 0.6;
   const optimalCharLength = 28;
 
   let newFontSize = maxFontSize - (textLength / optimalCharLength) * (maxFontSize - minFontSize);
