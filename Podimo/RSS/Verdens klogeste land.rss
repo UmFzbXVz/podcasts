@@ -375,5 +375,14 @@ Ny episode hver torsdag!</description>
       <itunes:duration>00:41:04</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/6f33edcc-972b-4869-8b72-aa081cb11bee_400x400.png"/>
     </item>
+    <item>
+      <title>Søndagstanker: Mette fra middelklassen</title>
+      <description>Kristoffer Eriksen og Jesper Juhls søndagstanker går i denne uge først og fremmest til Uffe Holm, som har udfordret Kristoffer til at skrive en bog. Jesper Juhl har en rigtig god idé til, hvad bogen kan handle om, men desværre kommer den nok på kant med copyright-lovgivningen. Heldigvis har Kristoffer en alternativ idé med og den tager udgangspunkt i vores allesammens statsminister - og repræsentant for middelklassen - Mette Frederiksen.</description>
+      <guid isPermaLink="false">eae2c9ee-961a-4631-86d9-c18793d98ad6</guid>
+      <pubDate>Sun, 27 Oct 2024 04:01:24 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/090ed312-f432-4a69-86e7-26a9adf3f89d.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:29:13</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/3511538a-39a6-42a8-986a-a6344cb5e15c_400x400.png"/>
+    </item>
   </channel>
 </rss>
