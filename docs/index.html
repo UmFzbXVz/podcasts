@@ -452,7 +452,7 @@ audioPlayer.on('loadedmetadata', () => {
   if ('mediaSession' in navigator) {
     navigator.mediaSession.metadata = new MediaMetadata({
       title: episodeTitle,
-      artist: `${podcast.text} · ${currentEpisode.querySelector('.episode-date').textContent}`,
+      artist: `${podcast.text} · ${currentEpisode.querySelector('.episode-date')?.textContent}`,
       album: podcast.provider,
       artwork: [{
         src: podcast.image,
