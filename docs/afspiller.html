@@ -291,8 +291,8 @@ function playNextEpisode() {
 function setMediaSessionMetadata(title, provider, artworkUrl) {
   if ('mediaSession' in navigator) {
     navigator.mediaSession.metadata = new MediaMetadata({
-      title: title || 'Unknown Title',
-      artist: provider || 'Unknown Podcast',
+      title: title || '',
+      artist: `${provider} · ${document.querySelector('.episode.playing .pub-date')?.textContent}` || '',
       artwork: [{ src: artworkUrl || 'default-artwork.jpg', sizes: '512x512', type: 'image/png' }]
     });
   }
