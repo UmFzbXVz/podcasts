@@ -219,7 +219,7 @@ function openModal(podcast) {
   document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
   document.getElementById('openInAppLink').href = `podcast://${podcast.rssLink}`;
 
-  document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/podcasts/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
+  document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/podcasts/afspiller.html?rss=${podcast.rssLink}`;
   document.getElementById('playOnSite').target = '_blank';
 
   document.getElementById('listEpisodes').onclick = async () => {
