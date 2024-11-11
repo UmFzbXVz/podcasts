@@ -4563,5 +4563,15 @@ Vi elsker jer</description>
       <itunes:duration>00:46:59</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/0d6f71e1-17dd-46d4-b4a4-eb211152f326_400x400.png"/>
     </item>
+    <item>
+      <title>Merry Morten Mortensens Aften</title>
+      <description>(videoen kommer senere)
+Direkte fra Fasangården, her er det Morten Mortensens aften med Morten Mortensen og Søren Sørensen.</description>
+      <guid isPermaLink="false">9b3708ec-db71-4744-85eb-34e3dcb7aa57</guid>
+      <pubDate>Mon, 11 Nov 2024 04:01:17 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/3502fd93-7911-4877-91f9-dd6f2f701a58.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:57:36</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/81a42a4d-8d20-4297-8533-0d444006d410_400x400.png"/>
+    </item>
   </channel>
 </rss>

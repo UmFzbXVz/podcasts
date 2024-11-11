@@ -411,5 +411,14 @@ Ny episode hver torsdag!</description>
       <itunes:duration>00:43:29</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/be54a7af-9a69-43f7-a6e5-3ca30e09466f_400x400.png"/>
     </item>
+    <item>
+      <title>Søndagstanker: Mettes musikalitet og Mortens aften</title>
+      <description>I denne uges søndagstanker fortæller Jesper historien om dengang hans hustru inviterede en hjemløs mand ved navn Morten med til juleaften. Og så når Kristoffer lidt videre med bogen “Os i middelklassen - statsministerens guide til at snobbe nedad”. Turen er nemlig nået til Mettes forhold til musik.</description>
+      <guid isPermaLink="false">5630789c-203b-4a24-9ce8-85fac0567a28</guid>
+      <pubDate>Sun, 10 Nov 2024 04:02:09 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/fbee963d-55cf-4f1f-8b0b-cef0949cb8b3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:17:10</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/b558d0e6-90d5-45a8-9f43-5c2d96e37b67_400x400.png"/>
+    </item>
   </channel>
 </rss>
