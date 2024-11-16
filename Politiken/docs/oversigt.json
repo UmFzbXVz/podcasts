@@ -1,24 +1,24 @@
 [
   {
-    "title": "Hvorfor spiller Anton",
-    "description": "Anton Kristoffer Mørch Madsen er ludoman. Han er kun 6 år, da han gambler første gang, og siden overtager spillet langsomt, men sikkert hans liv, indtil han til sidst ikke længere kan kende sig selv. Han lyver, stjæler og manipulerer med sine omgivelser. I dag er han ude af det, men han står tilbage med ét spørgsmål: hvorfor var det lige ham, der blev ludoman?",
-    "image": "https://politiken.dk/incoming/img9826362.4ampi6/ALTERNATES/p1x1_1500/Hvorfor%20spiller%20Anton_itunes",
-    "id": "channel_anton",
-    "program_url": "https://politiken.dk/podcast/hvorfor_spiller_anton/"
+    "title": "Krigens børn fortæller",
+    "description": "Siden 1991 har 35.000 soldater været udsendt for Danmark. De fleste til Balkan, Afghanistan og Irak. Når forældre sendes ud som soldater, forandrer det også deres børns liv. Politiken giver ordet til nogle af børnene, der enten for en tid eller for altid har måtte undvære deres forælder. Hvad blev prisen for dem? Hvad står tilbage? Og får børn af veteraner i dag den hjælp, de har brug for?",
+    "image": "https://politiken.dk/incoming/img10063154.2fl29s/ALTERNATES/p1x1_1500/Krigens%20B%C3%B8rn_pol",
+    "id": "krigens_boern",
+    "program_url": "https://politiken.dk/podcast/krigens_boern/"
   },
   {
-    "title": "Lang historie kort",
-    "description": "Hver eftermiddag giver vi dig noget at tænke over og tale om. Du får tre friske historier på kun 15 minutter, når klokken er 15.\n\nVærter er Bo Søndergaard og Morten Skjoldager.",
-    "image": "https://politiken.dk/incoming/img9775961.hiajns/ALTERNATES/p1x1_1500/Langhistoriekort_podcastikon_itunes",
-    "id": "channel_kort",
-    "program_url": "https://politiken.dk/podcast/Lang_historie_kort/"
+    "title": "Du lytter til USA",
+    "description": "Velkommen til din nye podcast om præsidentvalget 2024. Hver lørdag forsøger vi at forstå og forklare, hvad der foregår i den amerikanske valgkamp. Vi sætter hver uge et hold af journalister, som hjælper dig med at catche op på, hvor valgkampen har flyttet sig i løbet af ugen. Vi kommer også vidt omring i amerikansk kultur for at forstå amerikanerne og det valg, de står over for. Og så fortæller vi dig om den konkrete politik, der kommer ud af valgkampen, og som kan forandre USA og verden.",
+    "image": "https://politiken.dk/incoming/img10055931.m9a4a/ALTERNATES/p1x1_1500/Du%20lytter%20til%20USA",
+    "id": "du_lytter_til_usa",
+    "program_url": "https://politiken.dk/podcast/du_lytter_til_usa/"
   },
   {
-    "title": "Den levende",
-    "description": "I Politikens nye podcast ’Den levende’ tager opinionsredaktør Lotte Folke dig i hånden og stiller tidens store spørgsmål til dem, der tør og kan svare på dem.",
-    "image": "https://politiken.dk/incoming/img9390840.szpask/ALTERNATES/p1x1_1500/Denlevende",
-    "id": "channel_levende",
-    "program_url": "https://politiken.dk/podcast/den_levende/"
+    "title": "Musikmakker",
+    "description": "Simon Lund og Pernille Jensen er musikmakkere. Han er musikredaktør på Politiken, hun er anmelder. En stor del af deres vågne timer bruger de på at lytte til musik - både den nye, der udkommer, og den musik, de aften efter aften oplever sammen med en masse andre mennesker til koncerter og festivaler. Døgnet rundt – stort set – er de i dialog med hinanden om musikken. Den dialog kan du lytte til i podcasten ’Musikmakker’.",
+    "image": "https://politiken.dk/incoming/img9095022.v4ofdp/ALTERNATES/p1x1_1500/Musikmakker",
+    "id": "channel_lyt",
+    "program_url": "https://politiken.dk/podcast/musikmakker/"
   },
   {
     "title": "Ibyens Kærlighedsbrevkasse",
@@ -28,11 +28,32 @@
     "program_url": "https://politiken.dk/podcast/Ibyens_brevkasse/"
   },
   {
-    "title": "Alt er nu",
-    "description": "Politikens podcast-dokumentar 'Alt er nu' handler om det unge kærestepar, Stine og Titan, der har en plan. De skal giftes, have et barn og et helt liv sammen. Men så bliver Stine indhentet af fortiden.",
-    "image": "https://politiken.dk/incoming/img9095210.lo1uxy/ALTERNATES/p1x1_1500/AltErNu",
-    "id": "channel_alternu",
-    "program_url": "https://politiken.dk/podcast/alternu/"
+    "title": "Lang historie kort",
+    "description": "Hver eftermiddag giver vi dig noget at tænke over og tale om. Du får tre friske historier på kun 15 minutter, når klokken er 15.\n\nVærter er Bo Søndergaard og Morten Skjoldager.",
+    "image": "https://politiken.dk/incoming/img9775961.hiajns/ALTERNATES/p1x1_1500/Langhistoriekort_podcastikon_itunes",
+    "id": "channel_kort",
+    "program_url": "https://politiken.dk/podcast/Lang_historie_kort/"
+  },
+  {
+    "title": "Ung kærlighed læst op",
+    "description": "Kærlighed har ændret karakter. Unge dater mere, har løsere forhold og får færre børn. Hvad er det, der sker? Og hvordan viser det sig i samfundet, kulturlivet og måden vi omgås hinanden? Det udforsker Politiken i en ny serie. Her kan du lytte til artiklerne i serien.",
+    "image": "https://politiken.dk/incoming/img9969157.sb3bt8/ALTERNATES/p1x1_1500/1%20JPEG",
+    "id": "channel_kaerlighed",
+    "program_url": "https://politiken.dk/podcast/ung_kaerlighed/"
+  },
+  {
+    "title": "Poptillægget",
+    "description": "Poptillægget er din ugentlige popkulturelt begejstrede podcast om alt fra film, tv-serier og musik til obskure popfænomener, bøger, podcasts og tidstypisk støj fra internettet.\n\nVært: Lucia Odoom\n\nProducer: Sille Westphal",
+    "image": "https://politiken.dk/incoming/img9095012.7eicm2/ALTERNATES/p1x1_1500/Poptill%C3%A6gget",
+    "id": "channel_pop",
+    "program_url": "https://politiken.dk/podcast/poptillaegget/"
+  },
+  {
+    "title": "Den levende",
+    "description": "I Politikens nye podcast ’Den levende’ tager opinionsredaktør Lotte Folke dig i hånden og stiller tidens store spørgsmål til dem, der tør og kan svare på dem.",
+    "image": "https://politiken.dk/incoming/img9390840.szpask/ALTERNATES/p1x1_1500/Denlevende",
+    "id": "channel_levende",
+    "program_url": "https://politiken.dk/podcast/den_levende/"
   },
   {
     "title": "Du lytter til Politiken",
@@ -42,11 +63,18 @@
     "program_url": "https://politiken.dk/podcast/dulyttertilpolitiken/"
   },
   {
-    "title": "Poptillægget",
-    "description": "Poptillægget er din ugentlige popkulturelt begejstrede podcast om alt fra film, tv-serier og musik til obskure popfænomener, bøger, podcasts og tidstypisk støj fra internettet.\n\nVært: Lucia Odoom\n\nProducer: Sille Westphal",
-    "image": "https://politiken.dk/incoming/img9095012.7eicm2/ALTERNATES/p1x1_1500/Poptill%C3%A6gget",
-    "id": "channel_pop",
-    "program_url": "https://politiken.dk/podcast/poptillaegget/"
+    "title": "Hvorfor spiller Anton",
+    "description": "Anton Kristoffer Mørch Madsen er ludoman. Han er kun 6 år, da han gambler første gang, og siden overtager spillet langsomt, men sikkert hans liv, indtil han til sidst ikke længere kan kende sig selv. Han lyver, stjæler og manipulerer med sine omgivelser. I dag er han ude af det, men han står tilbage med ét spørgsmål: hvorfor var det lige ham, der blev ludoman?",
+    "image": "https://politiken.dk/incoming/img9826362.4ampi6/ALTERNATES/p1x1_1500/Hvorfor%20spiller%20Anton_itunes",
+    "id": "channel_anton",
+    "program_url": "https://politiken.dk/podcast/hvorfor_spiller_anton/"
+  },
+  {
+    "title": "Alt er nu",
+    "description": "Politikens podcast-dokumentar 'Alt er nu' handler om det unge kærestepar, Stine og Titan, der har en plan. De skal giftes, have et barn og et helt liv sammen. Men så bliver Stine indhentet af fortiden.",
+    "image": "https://politiken.dk/incoming/img9095210.lo1uxy/ALTERNATES/p1x1_1500/AltErNu",
+    "id": "channel_alternu",
+    "program_url": "https://politiken.dk/podcast/alternu/"
   },
   {
     "title": "Bogfolk",
@@ -96,13 +124,6 @@
     "image": "https://politiken.dk/incoming/img9095014.z463l3/ALTERNATES/p1x1_1500/UdenForCitat",
     "id": "channel_valget",
     "program_url": "https://politiken.dk/podcast/uden_for_citat/"
-  },
-  {
-    "title": "Musikmakker",
-    "description": "Simon Lund og Pernille Jensen er musikmakkere. Han er musikredaktør på Politiken, hun er anmelder. En stor del af deres vågne timer bruger de på at lytte til musik - både den nye, der udkommer, og den musik, de aften efter aften oplever sammen med en masse andre mennesker til koncerter og festivaler. Døgnet rundt – stort set – er de i dialog med hinanden om musikken. Den dialog kan du lytte til i podcasten ’Musikmakker’.",
-    "image": "https://politiken.dk/incoming/img9095022.v4ofdp/ALTERNATES/p1x1_1500/Musikmakker",
-    "id": "channel_lyt",
-    "program_url": "https://politiken.dk/podcast/musikmakker/"
   },
   {
     "title": "Klimakamp: Hvert ton tæller",
@@ -294,7 +315,7 @@
     "program_url": "https://politiken.dk/podcast/amerikas_splittede_stater_podcast/"
   },
   {
-    "title": "...Og tilbage til studiet",
+    "title": "Og tilbage til studiet",
     "description": "Få en hurtig analyse af, hvordan Danmark klarer sig ved VM og hvad, der sker i Qatar - den mest omdiskuterede slutrunde nogensinde.",
     "image": "https://politiken.dk/incoming/img9092990.oo3s1s/ALTERNATES/p1x1_1500/og%20tilbage%20til%20studiet_itunes",
     "id": "channel_studiet",
