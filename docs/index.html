@@ -74,7 +74,9 @@ const MAX_RESULTS = 12;
 let currentPodcast = null;
 let currentEpisode = null;
 let drPodcastsData = [];
+let podimoPodcastsData = [];
 let miscPodcastsData = [];
+let pir8dioPodcastsData = [];
 let politikenPodcastsData = [];
 let radio4PodcastsData = [];
 let episodesData = [];
@@ -176,12 +178,14 @@ async function fetchDataAndPreloadIcon() {
   try {
     const urls = [
       'https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/docs/drlyd.json',
+      'https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/docs/podimo.json',
       'https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json',
+      'https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/oversigtAfsnit.json',
       'https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/docs/oversigt.json',
       'https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/radio4/r4dio.json'
     ];
 
-    [drPodcastsData, miscPodcastsData, politikenPodcastsData, radio4PodcastsData] = await Promise.all(urls.map(fetchData));
+    [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData, politikenPodcastsData, radio4PodcastsData] = await Promise.all(urls.map(fetchData));
   } catch (error) {
     console.error('Error fetching data:', error);
   }
@@ -698,6 +702,14 @@ async function filterPodcasts(searchText) {
       image,
       rssLink: `https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/2.0/${program_url.split('/').pop()}.rss`
     })),
+    ...podimoPodcastsData.map(({ title, description, id, coverImageUrl }) => ({
+      text: title,
+      provider: 'Podimo',
+      description,
+      url: `https://podimo.com/dk/shows/${id}`,
+      image: coverImageUrl,
+      rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
+    })),
     ...Object.values(miscPodcastsData).map(({ alt_text, description, url, image_url }) => ({
       text: alt_text,
       provider: 'Radio24syv',
@@ -713,6 +725,14 @@ async function filterPodcasts(searchText) {
       url: program_url,
       image: image_url,
       rssLink: program_url
+    })),
+    ...pir8dioPodcastsData.map(({ title, content, program_url, image, slug }) => ({
+      text: title,
+      provider: 'r8Dio',
+      description: content,
+      url: program_url,
+      image,
+      rssLink: `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${slug}.rss`
     })),
     ...politikenPodcastsData.map(({ title, description, program_url, image, id }) => ({
       text: title,
