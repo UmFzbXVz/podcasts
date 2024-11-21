@@ -4596,5 +4596,14 @@ Så er den mandag vist reddet.</description>
       <itunes:duration>00:42:51</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/ce67d3f4-c611-4421-8d96-5e79d2387ad1_400x400.png"/>
     </item>
+    <item>
+      <title>Ombord på kendisbåden</title>
+      <description>Stig ombord på kendisbåden sammen med dine yndlingsværter, Emil og Thomas. Eller du kan i hvert fald høre om det.</description>
+      <guid isPermaLink="false">3ea86647-15d9-4976-9354-0a21efd8f784</guid>
+      <pubDate>Thu, 21 Nov 2024 03:11:22 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/f26d5b1a-9e93-44a4-b5a6-a15b3a6e7ab5.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:37:41</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/6c672427-68f8-4c09-9aeb-0c5bd787925e_400x400.png"/>
+    </item>
   </channel>
 </rss>
