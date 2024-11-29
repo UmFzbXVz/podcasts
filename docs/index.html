@@ -216,7 +216,9 @@ function openModal(podcast) {
   document.getElementById('modalProvider').textContent = podcast.provider;
   document.getElementById('modalDescription').innerHTML = formatDescription(podcast.description);
   document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
-  document.getElementById('openInAppLink').href = `podcast://${podcast.rssLink}`;
+
+  const rssLink_udenProtokol = podcast.rssLink.replace(/^https?:\/\//, '');
+  document.getElementById('openInAppLink').href = `podcast://${rssLink_udenProtokol}`;
 
   document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/podcasts/afspiller.html?rss=${podcast.rssLink}`;
   document.getElementById('playOnSite').target = '_blank';
@@ -228,6 +230,7 @@ function openModal(podcast) {
 
   modal.style.display = 'block';
 }
+
 
 async function openEpisodeListModal(podcast) {
   document.getElementById('spinnerOverlay').style.display = 'flex';
