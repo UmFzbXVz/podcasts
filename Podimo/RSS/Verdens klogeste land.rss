@@ -465,5 +465,14 @@ Ny episode hver torsdag!</description>
       <itunes:duration>00:45:32</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/55a0d101-b1ea-406e-8f5b-8632e0db29ca_400x400.png"/>
     </item>
+    <item>
+      <title>Søndagstanker: Mettes bondegård og Jarlovs store indrømmelse</title>
+      <description>I ugens søndagstanker fortæller Jesper endelig en positiv historie om sin hustru, hvilket ifølge flere lyttere er meget tiltrængt. Derudover har der været en slags frit lejde-aktion på Christiansborg, hvor politikerne anført af Rasmus Jarlov, på skift har kunnet fortælle at de ikke forstår, hvad det er for nogle love de stemmer om. Og så viser det sig at statsministeren faktisk har en endnu større drøm, end bare et drivhus.</description>
+      <guid isPermaLink="false">bc5fe98f-c6f9-4d77-82ad-4f94973489d8</guid>
+      <pubDate>Sun, 01 Dec 2024 04:10:05 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/3d2c1388-7e8c-41c0-8253-4edffcb0c844.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:21:41</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/45153f75-177c-4bd6-b6a1-a4f7b6e76e17_400x400.png"/>
+    </item>
   </channel>
 </rss>
