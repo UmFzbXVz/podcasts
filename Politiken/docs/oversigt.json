@@ -551,5 +551,12 @@
     "image": "https://politiken.dk/incoming/img10165706.2venxt/ALTERNATES/p1x1_1500/Norlys_podcast%20ikon_Final",
     "id": "hvad-venter-du-paa",
     "program_url": "https://politiken.dk/podcast/Hvad_venter_du_paa/"
+  },
+  {
+    "title": "Du har ordet",
+    "description": "Alle menneskers rum i Politiken. Hør folk med noget på hjerte tage ordet hos debatredaktionen, og tag selv ordet på politiken.dk/send.",
+    "image": "noimage",
+    "id": "du-har-ordet",
+    "program_url": "https://politiken.dk/podcast/Du_har_ordet/"
   }
 ]
