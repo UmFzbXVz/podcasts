@@ -6,6 +6,54 @@
     <description>Lyt til alle de seneste afsnit af Politikens podcasts</description>
     <itunes:image href="noimage"/>
     <item>
+      <title>Hold op med at lege designer, bare fordi du er kendt</title>
+      <description/>
+      <pubDate>Thu, 19 Dec 2024 05:30:00 +0000</pubDate>
+      <guid isPermaLink="false">10216094</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/10216094.mp3?n=1734582600000&amp;source=app&amp;originArticleId=10216094&amp;premium=true" length="6281925" type="audio/mpeg"/>
+      <itunes:duration>06:32</itunes:duration>
+    </item>
+    <item>
+      <title>Har du husket gaver, gløgg og en tur til psykolog?</title>
+      <description/>
+      <pubDate>Thu, 19 Dec 2024 04:30:00 +0000</pubDate>
+      <guid isPermaLink="false">10216045</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/10216045.mp3?n=1734579000000&amp;source=app&amp;originArticleId=10216045&amp;premium=false" length="41306950" type="audio/mpeg"/>
+      <itunes:duration>28:40</itunes:duration>
+    </item>
+    <item>
+      <title>Truslen fra russisk sabotage er steget, vi får skønhedsbehandlinger som aldrig før og kom med på besøg på Assads narkofabrik</title>
+      <description/>
+      <pubDate>Wed, 18 Dec 2024 14:55:00 +0000</pubDate>
+      <guid isPermaLink="false">10215793</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/10215793.mp3?n=1734530100000&amp;source=app&amp;originArticleId=10215793&amp;premium=true" length="26985788" type="audio/mpeg"/>
+      <itunes:duration>18:43</itunes:duration>
+    </item>
+    <item>
+      <title>Her er overvældende ro og store naturoplevelser, og så skal vi huske at slukke lyset</title>
+      <description/>
+      <pubDate>Wed, 18 Dec 2024 12:30:00 +0000</pubDate>
+      <guid isPermaLink="false">10202312</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/10202312.mp3?n=1734521400000&amp;source=app&amp;originArticleId=10202312&amp;premium=true" length="12565941" type="audio/mpeg"/>
+      <itunes:duration>13:05</itunes:duration>
+    </item>
+    <item>
+      <title>Glæd dig til nyt indhold</title>
+      <description/>
+      <pubDate>Wed, 18 Dec 2024 11:03:45 +0000</pubDate>
+      <guid isPermaLink="false">10214837</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/10214837.mp3?n=1734516225000&amp;source=app&amp;originArticleId=10214837&amp;premium=false" length="16424123" type="audio/mpeg"/>
+      <itunes:duration>17:06</itunes:duration>
+    </item>
+    <item>
+      <title>Det var svenske Lucas på 16 års første besøg i København. Og han var kommet for at dræbe</title>
+      <description/>
+      <pubDate>Wed, 18 Dec 2024 07:44:13 +0000</pubDate>
+      <guid isPermaLink="false">10213793</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/10213793.mp3?n=1734504253000&amp;source=app&amp;originArticleId=10213793&amp;premium=false" length="26052276" type="audio/mpeg"/>
+      <itunes:duration>27:07</itunes:duration>
+    </item>
+    <item>
       <title>Lucia Odoom: Her er en af de gode dårlige julefilm på Netflix</title>
       <description/>
       <pubDate>Wed, 18 Dec 2024 05:30:00 +0000</pubDate>
@@ -120,20 +168,20 @@
       <itunes:duration>23:41</itunes:duration>
     </item>
     <item>
-      <title>Hvis du mærker en knurren i maven, så overvej om du skal spise</title>
-      <description/>
-      <pubDate>Sun, 15 Dec 2024 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">10202874</guid>
-      <enclosure url="https://politiken.dk/_binary/podcast/10202874.mp3?n=1734289200000&amp;source=app&amp;originArticleId=10202874&amp;premium=true" length="10248776" type="audio/mpeg"/>
-      <itunes:duration>10:40</itunes:duration>
-    </item>
-    <item>
       <title>Andre menneskers verden: »Jeg vil godt ud af alt det her. Jeg vil godt ha’ et liv, ik’?«</title>
       <description/>
       <pubDate>Sun, 15 Dec 2024 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">10205039</guid>
       <enclosure url="https://politiken.dk/_binary/podcast/10205039.mp3?n=1734289200000&amp;source=app&amp;originArticleId=10205039&amp;premium=true" length="25783483" type="audio/mpeg"/>
       <itunes:duration>26:51</itunes:duration>
+    </item>
+    <item>
+      <title>Hvis du mærker en knurren i maven, så overvej om du skal spise</title>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">10202874</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/10202874.mp3?n=1734289200000&amp;source=app&amp;originArticleId=10202874&amp;premium=true" length="10248776" type="audio/mpeg"/>
+      <itunes:duration>10:40</itunes:duration>
     </item>
     <item>
       <title>Et søskendepar er netop flyttet ind på krisecentret. Den ældste vil gerne nå hjem inden sin otteårs fødselsdag</title>
@@ -4543,65 +4591,6 @@
       <guid isPermaLink="false">10129528</guid>
       <enclosure url="https://politiken.dk/_binary/podcast/10129528.mp3?n=1729737000000&amp;source=app&amp;originArticleId=10129528&amp;premium=false" length="28869739" type="audio/mpeg"/>
       <itunes:duration>20:01</itunes:duration>
-    </item>
-    <item>
-      <title>Endnu en S-borgmester stopper, stor litteraturpris til fantastisk bus og hjælp til os, der ikke kan udtale Kamala</title>
-      <description>&lt;p&gt;Jacob Bundsgaard stopper i politik efter 13 år som borgmester i Aarhus. Han føjer sig dermed til rækken af socialdemokratiske borgmestre, som ikke er med til næste års kommunalvalg. Politisk redaktør Nilas Heinskou tror dog ikke, at Bundsgaard er blevet bedt af partitoppen om at trække sig.  &lt;/p&gt;
-&lt;p&gt;’Den fantastiske bus’ har vundet Nordisk Råds børne- og ungdomslitteraturpris. Det er første gang, at prisen bliver givet til en dansk forfatter, men Jakob Martin Strid har i den grad fortjent det, siger litteraturanmelder Ida Dybdahl. &lt;/p&gt;
-&lt;p&gt;Demokraternes præsidentkandidat Kamala Harris har et fornavn, som mange har svært ved at udtale. Donald Trump siger det bevidst forkert for at mobbe, mens mange af os andre bare er i tvivl om, hvordan man siger det. Kulturjournalist Lotte Thorsen er klar med hjælp til udtalen.&lt;/p&gt;</description>
-      <pubDate>Wed, 23 Oct 2024 14:58:00 +0000</pubDate>
-      <guid isPermaLink="false">10128783</guid>
-      <enclosure url="https://politiken.dk/_binary/podcast/10128783.mp3?n=1729688280000&amp;source=app&amp;originArticleId=10128783&amp;premium=true" length="26203368" type="audio/mpeg"/>
-      <itunes:duration>18:10</itunes:duration>
-    </item>
-    <item>
-      <title>Det er ganske enkelt et af landets mest attraktive kollegier. Med god grund</title>
-      <description>&lt;p&gt;Kollegier til unge under håndværkeruddannelse er en nyskabelse til tiden. I Horsens er det første kommet, og det er fantastisk. Politikens arkitekturanmelder Karsten Ifversen har besøgt Håndværkskollegiet i Horsens og er ovenud begejstret. &lt;/p&gt;
-&lt;p&gt;Hør med her, når han fortæller, hvorfor han kvitterer med 6 hjerter. &lt;/p&gt;</description>
-      <pubDate>Wed, 23 Oct 2024 14:37:00 +0000</pubDate>
-      <guid isPermaLink="false">10128906</guid>
-      <enclosure url="https://politiken.dk/_binary/podcast/10128906.mp3?n=1729687020000&amp;source=app&amp;originArticleId=10128906&amp;premium=true" length="7898591" type="audio/mpeg"/>
-      <itunes:duration>08:13</itunes:duration>
-    </item>
-    <item>
-      <title>Aids-krisen tvang bøsserne ud af sofaerne i Bøssehuset og ind på Christiansborg</title>
-      <description>&lt;p&gt;Michael Nebeling Petersen voksede op i udkanten af aids-epidemien. Nu har han og et forskerhold kortlagt aids-krisen i Danmark. Det viser sig, at den adskiller sig markant fra den amerikanske fortælling, vi hidtil har spejlet os i. &lt;/p&gt;
-&lt;p&gt;Hør journalist Emilie Stein læse sin artikel højt her.&lt;/p&gt;</description>
-      <pubDate>Wed, 23 Oct 2024 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">10127610</guid>
-      <enclosure url="https://politiken.dk/_binary/podcast/10127610.mp3?n=1729659600000&amp;source=app&amp;originArticleId=10127610&amp;premium=true" length="10357027" type="audio/mpeg"/>
-      <itunes:duration>10:47</itunes:duration>
-    </item>
-    <item>
-      <title>»Det er et museum, men det er det jo ikke kun. Vi er en hel fucking by«</title>
-      <description>&lt;p&gt;Hun sidder i solen uden for Den Gamle By og venter. Hvis det ikke var for cigaretten, kunne hun med sin lange, sorte nederdel og de enkle guldringe være taget ud af de historiske interiører på museet bagved.&lt;/p&gt;
-&lt;p&gt;Men Julie Rokkjær Birch, 41, er nutidens direktør for det hele – for landets mest besøgte kulturhistoriske museum, som hun betoner, mens hun lukker Politikens Anne Bech-Danielsen ind i Den Gamle By, hvor de stolprer af sted over toppede brosten forbi værksteder, butikker, kapervogne og et komplet apotek.&lt;/p&gt;
-&lt;p&gt;Fem haller i Trige, 65.000 vaniljekranse, et rum med hatte og en gammel Volvo. Direktør Julie Rokkjær Birch er ved at lære Den Gamle By at kende. Hun vil nye veje. Men det koster stillinger.&lt;/p&gt;
-&lt;p&gt;Her læser Anne Bech-Danielsen sit interview op. &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;</description>
-      <pubDate>Wed, 23 Oct 2024 05:31:00 +0000</pubDate>
-      <guid isPermaLink="false">10126027</guid>
-      <enclosure url="https://politiken.dk/_binary/podcast/10126027.mp3?n=1729654260000&amp;source=app&amp;originArticleId=10126027&amp;premium=true" length="13624214" type="audio/mpeg"/>
-      <itunes:duration>14:11</itunes:duration>
-    </item>
-    <item>
-      <title>'Teach children to worship satan' står der på et patch øverst på drengens ryg</title>
-      <description>&lt;p&gt;'Teach children to worship satan' står der på et patch øverst på drengens ryg. Lær børn at tilbede satan. Og bliver man stødt over den slags, er man gået forkert. For nu får børn lov til at snuse til metalkoncerter. De er som regel noget med sene aftener og fadøl i stride strømme, men på blandt andet spillestedet Gimle i Roskilde hopper børnene rundt til den tunge musik om eftermiddagen og spiser popcorn i lange baner. &lt;/p&gt;
-&lt;p&gt;Hør Pernille Jensen læse sin reportage højt.&lt;/p&gt;
-&lt;p&gt;Vil du også se fotograf Cecilie Rolvungs billeder af metalbørn, kan du finde artiklen på politiken.dk og i Politikens nyhedsapp. &lt;/p&gt;</description>
-      <pubDate>Wed, 23 Oct 2024 05:31:00 +0000</pubDate>
-      <guid isPermaLink="false">10124638</guid>
-      <enclosure url="https://politiken.dk/_binary/podcast/10124638.mp3?n=1729654260000&amp;source=app&amp;originArticleId=10124638&amp;premium=true" length="16204276" type="audio/mpeg"/>
-      <itunes:duration>16:52</itunes:duration>
-    </item>
-    <item>
-      <title>Noter fra natkirken: »Kære mor, det er 18 år siden, vi sidst så hinanden«</title>
-      <description>&lt;p&gt;Gennem 25 år har Vor Frue Kirke åbnet et sanseligt frirum for nattens eksistenser på tværs af tro og tilhørsforhold, og givet de besøgende en mulighed for at skrive deres inderste tanker i en bog. En bog, som Politiken nu har fået lov til at læse op.&lt;/p&gt;
-&lt;p&gt;Dagens gæst i 'Du lytter til Politiken' er Politikens Jakob Sorgenfri Kjær, som en aften kom forbi et sted i byen, hvor den livsvarige angst og spirituelle tørke kan finde plads og finde fred.&lt;/p&gt;</description>
-      <pubDate>Wed, 23 Oct 2024 04:30:00 +0000</pubDate>
-      <guid isPermaLink="false">10126901</guid>
-      <enclosure url="https://politiken.dk/_binary/podcast/10126901.mp3?n=1729650600000&amp;source=app&amp;originArticleId=10126901&amp;premium=false" length="28241964" type="audio/mpeg"/>
-      <itunes:duration>29:25</itunes:duration>
     </item>
   </channel>
 </rss>
