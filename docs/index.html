@@ -652,7 +652,7 @@
         }
         
         function getFormattedRSSUrl(podcastName) {
-          let formattedPodcastName = podcastName.replace(/[\s/?]/g, '_').toLowerCase() + '.rss';
+          let formattedPodcastName = podcastName.replace(/[\s/?&]/g, '_').toLowerCase() + '.rss';
           let firstCharacter = formattedPodcastName.charAt(0);
           let directory = isNaN(parseInt(firstCharacter)) ? firstCharacter.toUpperCase() : '0-9';
           
